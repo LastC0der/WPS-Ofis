@@ -510,6 +510,10 @@ Zum Beispiel, 1,3,5-9.</translation>
         <translation>Miniaturansicht- und Gliederungsposition</translation>
     </message>
     <message>
+        <source>Keep cache for</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cloud backup</source>
         <translation>Cloud-Sicherung</translation>
     </message>
@@ -540,6 +544,10 @@ Zum Beispiel, 1,3,5-9.</translation>
     <message>
         <source>&amp;Reenter password:</source>
         <translation>&amp;Kennwort erneut eingeben:</translation>
+    </message>
+    <message>
+        <source>&amp;Show Toolbar</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Vertical ruler</source>
@@ -612,6 +620,10 @@ Zum Beispiel, 1,3,5-9.</translation>
     <message>
         <source>Password protection</source>
         <translation>Kennwortschutz</translation>
+    </message>
+    <message>
+        <source>Default JS developer environment(&amp;Y)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File sharing options for this document</source>
@@ -718,6 +730,10 @@ Zum Beispiel, 1,3,5-9.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Keep files cache</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Create &amp;backup file at the first save</source>
         <translation>&amp;Sicherungsdatei beim ersten Speichern erstellen</translation>
     </message>
@@ -768,6 +784,10 @@ Zum Beispiel, 1,3,5-9.</translation>
     <message>
         <source>Apply Auto&amp;Layout to new objects.</source>
         <translation>Auto&amp;Layouts für neue Objekte übernehmen.</translation>
+    </message>
+    <message>
+        <source>Fix &amp;interval</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>days (Range 7-120)</source>
@@ -916,6 +936,14 @@ Zum Beispiel, 1,3,5-9.</translation>
     <message>
         <source>WPS Online Security Document Format</source>
         <translation>WPS Online-Sicherheitsdokumentformat</translation>
+    </message>
+    <message>
+        <source>Enable &amp;hardware graphics acceleration, effecitve after restart WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -1493,6 +1521,10 @@ Zum Beispiel, 1,3,5-9.</translation>
         <translation>9</translation>
     </message>
     <message>
+        <source>PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>A&amp;ll</source>
         <translation>&amp;Alle</translation>
     </message>
@@ -1569,12 +1601,20 @@ Zum Beispiel, 1,3,5-9.</translation>
         <translation>Folien</translation>
     </message>
     <message>
+        <source>Export setting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&amp;Browse...</source>
         <translation>&amp;Durchsuchen...</translation>
     </message>
     <message>
         <source>Permit to copy</source>
         <translation>Kopieren zulassen</translation>
+    </message>
+    <message>
+        <source>Image-Only PDF</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Handouts</source>
@@ -1603,6 +1643,10 @@ Zum Beispiel, 1,3,5-9.</translation>
     <message>
         <source>Fra&amp;me slides</source>
         <translation>Folienrah&amp;men</translation>
+    </message>
+    <message>
+        <source>Save to source file path</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -1655,6 +1699,10 @@ Zum Beispiel, 1,3,5-9.</translation>
     <message>
         <source>Sl&amp;ides:</source>
         <translation>Fol&amp;ien:</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export PDF File</source>
@@ -2706,6 +2754,10 @@ Folie</translation>
         <translation>Windows Media Video(*.wmv)|*.wmv</translation>
     </message>
     <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx; *.potx; *.potm; *.thmx</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Change the source link file</source>
         <translation>Quellverknüpfungsdatei ändern</translation>
     </message>
@@ -2725,6 +2777,10 @@ Folie</translation>
     <message>
         <source>Open Web Media Video(*.webm)|*.webm</source>
         <translation>Open Web Media Video(*.webm)|*.webm</translation>
+    </message>
+    <message>
+        <source>Cannot save as that name. Document was opened as read-only.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This operation will delete a slide and its note page and graphics. Do you want to continue?</source>
@@ -2961,6 +3017,10 @@ Möchten Sie die Änderungen unter einer anderen Datei Speichern?</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The previous chart data source table is being opened. Please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Single Web Page Files(*.mht; *.mhtml)</source>
         <translation>Einzelne Webseite Datei(*.mht; *.mhtml)</translation>
     </message>
@@ -3080,6 +3140,10 @@ bearbeiten</translation>
         <translation>Windows-Audiodatei (WAV) (*.wav)</translation>
     </message>
     <message>
+        <source>This file is using %s macro. Do you want to switch to %s environment?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Microsoft PowerPoint XML Presentation(*.xml)</source>
         <translation type="unfinished"/>
     </message>
@@ -3113,6 +3177,18 @@ bearbeiten</translation>
         <translation>*.aif;*.aifc;*.aiff</translation>
     </message>
     <message>
+        <source>Switch to %s</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Switch to JS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Switch to VB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Alignment</source>
         <translation>Ausrichtung</translation>
     </message>
@@ -3144,6 +3220,10 @@ bearbeiten</translation>
         <translation>Nach</translation>
     </message>
     <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Copy MathML to the clipboard as &amp;plain text</source>
         <translation type="unfinished"/>
     </message>
@@ -3164,11 +3244,19 @@ bearbeiten</translation>
         <translation>Z&amp;eilen mit binären und relationalen Operatoren umbrechen:</translation>
     </message>
     <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Duplicate</source>
         <translation>Duplizieren</translation>
     </message>
     <message>
         <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -6008,6 +6096,10 @@ Möchten Sie den Ordnernamen von &quot;%s&quot; ins &quot;%s&quot; ändern?</tra
         <translation>Textkörper: Aufsteigend</translation>
     </message>
     <message>
+        <source>Frame From Up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>*.dpt</source>
         <translation>*.dpt</translation>
     </message>
@@ -6537,6 +6629,10 @@ For this to work, keep the capitalization the same.</source>
         <translation>Die eingefügten Inhalte enthalten Tabstopps. Möchten Sie die Tabstopps als Tabelle einfügen?</translation>
     </message>
     <message>
+        <source>Plane Left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Presentation Slide Show - </source>
         <translation>WPS Presentation Bildschirmpräsentation - </translation>
     </message>
@@ -6935,12 +7031,20 @@ Textkörper: Absteigend</translation>
         <translation>Titelfolie</translation>
     </message>
     <message>
+        <source>Plane Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Content Layouts</source>
         <translation>Inhaltlayouts</translation>
     </message>
     <message>
         <source>Text Layouts</source>
         <translation>Textlayouts</translation>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Explosion</source>
@@ -7174,6 +7278,10 @@ Fünfte Ebene</translation>
     <message>
         <source>Print: Page %d of %d</source>
         <translation>Drucken: Seite %d von %d</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert to Shapes</source>
@@ -7639,6 +7747,10 @@ Textkörper: Zoom</translation>
         <translation>In dieser Präsentation verwendet</translation>
     </message>
     <message>
+        <source>Frame From Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Blinds Horizontal</source>
         <translation>Rollos horizontal</translation>
     </message>
@@ -7905,6 +8017,14 @@ Textkörper: Einfliegen</translation>
         <translation>Textplatzhalter</translation>
     </message>
     <message>
+        <source>Frame From Down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Chart Placeholder</source>
         <translation>Diagrammplatzhalter</translation>
     </message>
@@ -7983,6 +8103,14 @@ Textkörper: Wirbeln</translation>
     <message>
         <source>Custom Design</source>
         <translation>Benutzerdefiniertes Design</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to edit Master subtitle style</source>
@@ -8942,10 +9070,6 @@ Führungslinien</translation>
         <translation>Gesamtmenge bilden</translation>
     </message>
     <message>
-        <source>Width</source>
-        <translation>Breite</translation>
-    </message>
-    <message>
         <source>Merge Shapes</source>
         <translation>Formen zusammenfügen</translation>
     </message>
@@ -9021,10 +9145,6 @@ Führungslinien</translation>
     <message>
         <source>Center</source>
         <translation>Zentrieren</translation>
-    </message>
-    <message>
-        <source>Height</source>
-        <translation>Höhe</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -9270,6 +9390,14 @@ Führungslinien</translation>
     <message>
         <source>Align Top</source>
         <translation>Oben ausrichten</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Breite</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>Höhe</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -10631,6 +10759,10 @@ Effects</source>
         <translation>Tiefgestellt</translation>
     </message>
     <message>
+        <source>Vertical direction(left to right)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Section</source>
         <translation>Abschnitt</translation>
     </message>
@@ -10702,6 +10834,10 @@ Slide</source>
     <message>
         <source>Slide(From Outline)</source>
         <translation>Folie (Import von Outline) </translation>
+    </message>
+    <message>
+        <source>Vertical direction(right to left)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drawing</source>
@@ -10854,10 +10990,6 @@ Effects</source>
         <source>Align Top</source>
         <translation>Oben ausrichten</translation>
     </message>
-    <message>
-        <source>Online Textbox</source>
-        <translation>Vorlagentextfeld</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_texttool</name>
@@ -10924,6 +11056,10 @@ Effects</source>
     <message>
         <source>Quick Styles</source>
         <translation>Schnellformatvorlagen</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -11122,6 +11258,10 @@ Effects</source>
         <translation>Tiefgestellt</translation>
     </message>
     <message>
+        <source>Vertical direction(left to right)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Superscript</source>
         <translation>Hochgestellt</translation>
     </message>
@@ -11148,6 +11288,10 @@ Effects</source>
     <message>
         <source>Underline</source>
         <translation>Unterstreichen</translation>
+    </message>
+    <message>
+        <source>Vertical direction(right to left)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -11245,10 +11389,6 @@ Effects</source>
     <message>
         <source>Align Top</source>
         <translation>Obenbündig ausrichten</translation>
-    </message>
-    <message>
-        <source>Online Textbox</source>
-        <translation>Vorlagentextfeld</translation>
     </message>
 </context>
 <context>
@@ -11375,6 +11515,10 @@ Folie</translation>
         <translation>Eckige gefüllte Aufzählungszeichen</translation>
     </message>
     <message>
+        <source>Vertical direction(left to right)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Bullets</source>
         <translation>Aufzählungszeichen</translation>
     </message>
@@ -11385,6 +11529,10 @@ Folie</translation>
     <message>
         <source>Stacked</source>
         <translation>Gestapelt</translation>
+    </message>
+    <message>
+        <source>Vertical direction(right to left)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Eyedropper</source>
@@ -11452,6 +11600,2490 @@ Folie</translation>
     <message>
         <source>Date and Time</source>
         <translation>Datum und Uhrzeit</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu</name>
+    <message>
+        <source>FAQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation>Ausschneiden</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>Oben</translation>
+    </message>
+    <message>
+        <source>Axes</source>
+        <translation>Achsen</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation>Fett</translation>
+    </message>
+    <message>
+        <source>Both</source>
+        <translation>Beide</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Kopieren</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Strich</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>Füllung</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Schriftart</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Hilfe</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>Links</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Linie</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Nächste</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>Wiedergeben</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Anzeigen</translation>
+    </message>
+    <message>
+        <source>Wave</source>
+        <translation>Welle</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation>Zoom</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation>wahr</translation>
+    </message>
+    <message>
+        <source>Open Hyperlink</source>
+        <translation>Hyperlink öffnen</translation>
+    </message>
+    <message>
+        <source>Remove Hyperlink</source>
+        <translation>Hyperlink entfernen</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>Horizontal zentrieren</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>Gleiche Höhe</translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation>1 Pt</translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation>3 Pt</translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation>6 Pt</translation>
+    </message>
+    <message>
+        <source>Slide Sorter</source>
+        <translation>Foliensortierung</translation>
+    </message>
+    <message>
+        <source>White Screen</source>
+        <translation>Weißer Bildschirm</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation>Über</translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation>Ausrichten</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Pfeil</translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation>Unter</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation>Diagramm</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Erase</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Gruppieren</translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation>WPS-Hotspot</translation>
+    </message>
+    <message>
+        <source>Links...</source>
+        <translation>Verknüpfungen...</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation>Makro</translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translation>Synonyme</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>Anhalten</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>Rechts</translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation>Roman</translation>
+    </message>
+    <message>
+        <source>Ruler</source>
+        <translation>Lineal</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Freigeben für</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Durchgezogen</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>Tabelle</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation>Formatvorlage</translation>
+    </message>
+    <message>
+        <source>Match Brackets to Argument Height</source>
+        <translation>Eckige Klammern an Argumenthöhe anpassen</translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation>Daten bearbeiten</translation>
+    </message>
+    <message>
+        <source>Exit Edit</source>
+        <translation>Textbearbeitung beenden</translation>
+    </message>
+    <message>
+        <source>Edit Text</source>
+        <translation>Text bearbeiten</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Save to File</source>
+        <translation>Speichern in Datei</translation>
+    </message>
+    <message>
+        <source>Copy Hyperlink</source>
+        <translation>Hyperlink kopieren</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Unbeschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>Picture background and mask</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation>Format übertragen</translation>
+    </message>
+    <message>
+        <source>Corner Point</source>
+        <translation>Eckpunkt</translation>
+    </message>
+    <message>
+        <source>Remove Accent Character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Background Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Black Screen</source>
+        <translation>Präsentation ausblenden</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Go to Slide</source>
+        <translation>Gehe zu Folie</translation>
+    </message>
+    <message>
+        <source>Reading View</source>
+        <translation>Leseansicht</translation>
+    </message>
+    <message>
+        <source>Chinese Conversion</source>
+        <translation>Chinesische Konvertierung</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation>Datenwiederherstellung</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>Horizontal kippen</translation>
+    </message>
+    <message>
+        <source>Chart Styles</source>
+        <translation>Diagrammformatvorlagen</translation>
+    </message>
+    <message>
+        <source>Insert Equation After</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check for Updates</source>
+        <translation>Auf Updates überprüfen</translation>
+    </message>
+    <message>
+        <source>Format Chart Area</source>
+        <translation>Diagrammbereich formatieren</translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation>2,25 Pt</translation>
+    </message>
+    <message>
+        <source>0.25 pt.</source>
+        <translation>0,25 Pt</translation>
+    </message>
+    <message>
+        <source>Create Cloud Link</source>
+        <translation>Cloud-Verknüpfung erstellen</translation>
+    </message>
+    <message>
+        <source>Change Limit Locations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Animation Schemes</source>
+        <translation>Animationen</translation>
+    </message>
+    <message>
+        <source>Close Other Windows</source>
+        <translation>Andere Fenster schließen</translation>
+    </message>
+    <message>
+        <source>Close Window</source>
+        <translation>Fenster schließen</translation>
+    </message>
+    <message>
+        <source>Align Scripts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Columns Left</source>
+        <translation>Spalten links einfügen</translation>
+    </message>
+    <message>
+        <source>Rehearse Timings</source>
+        <translation>Neue Einblendezeiten 
+testen</translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation>0,75 Pt</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>Vertikal kippen</translation>
+    </message>
+    <message>
+        <source>Picture Frame</source>
+        <translation>Bildrahmen</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>Vertikal zentrieren</translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation>Autobackup aktivieren</translation>
+    </message>
+    <message>
+        <source>Set AutoShape Defaults</source>
+        <translation>Als Standard für AutoForm festlegen</translation>
+    </message>
+    <message>
+        <source>Move Section Down</source>
+        <translation>Abschnitt nach unten verschieben</translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation>Nach Skala zuschneiden</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation>Nach Form zuschneiden</translation>
+    </message>
+    <message>
+        <source>Standard Deviation</source>
+        <translation>Standardabweichung</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Onlinebilder einfügen</translation>
+    </message>
+    <message>
+        <source>Change to Stack Fraction</source>
+        <translation>Wechsel zu gestapeltem Bruch</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Hintergrund</translation>
+    </message>
+    <message>
+        <source>Official website</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Als Bild exportieren</translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation>Pfeilart 1</translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation>Pfeilart 2</translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation>Pfeilart 3</translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation>Pfeilart 4</translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation>Pfeilart 5</translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation>Pfeilart 6</translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation>Pfeilart 7</translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation>Pfeilart 8</translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation>Pfeilart 9</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation>Online-Schriftarten</translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation>WPS Data Recovery Master</translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation>Lineare Prognose</translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation>Version ändern</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Online-Vorlagen</translation>
+    </message>
+    <message>
+        <source>Notes Master</source>
+        <translation>Notizenmaster</translation>
+    </message>
+    <message>
+        <source>Core Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation>Pfeilart 10</translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation>Pfeilart 11</translation>
+    </message>
+    <message>
+        <source>Insert shape in before</source>
+        <translation>Form einfügen vor</translation>
+    </message>
+    <message>
+        <source>Slide Layout</source>
+        <translation>Folienlayout</translation>
+    </message>
+    <message>
+        <source>New Slide Layout</source>
+        <translation>Neues Folienlayout</translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation>Form formatieren</translation>
+    </message>
+    <message>
+        <source>Slide Master</source>
+        <translation>Folienmaster</translation>
+    </message>
+    <message>
+        <source>Change to Linear Fraction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Slide Master</source>
+        <translation>Neuer Folienmaster</translation>
+    </message>
+    <message>
+        <source>Export as H5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change DataLabel Geometry</source>
+        <translation>Datenbeschriftungsform ändern</translation>
+    </message>
+    <message>
+        <source>File Package</source>
+        <translation>Dateipaket</translation>
+    </message>
+    <message>
+        <source>Highlighter</source>
+        <translation>Textmarker</translation>
+    </message>
+    <message>
+        <source>Edit Sound Object</source>
+        <translation>Soundobjekt bearbeiten</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AlignCenter</source>
+        <translation>Zentriert ausrichten</translation>
+    </message>
+    <message>
+        <source>Edit Movie Object</source>
+        <translation>Filmobjekt bearbeiten</translation>
+    </message>
+    <message>
+        <source>Use Magnifier</source>
+        <translation>Lupe verwenden</translation>
+    </message>
+    <message>
+        <source>Reduce Level</source>
+        <translation>Level reduzieren</translation>
+    </message>
+    <message>
+        <source>Increase Spacing</source>
+        <translation>Abstand vergrößern</translation>
+    </message>
+    <message>
+        <source>Decrease Spacing</source>
+        <translation>Abstand verringern</translation>
+    </message>
+    <message>
+        <source>Photo to PDF</source>
+        <translation>Bild in PDF</translation>
+    </message>
+    <message>
+        <source>Remove Limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert Path to AutoShape</source>
+        <translation>Pfad in AutoForm umwandeln</translation>
+    </message>
+    <message>
+        <source>Slide Number</source>
+        <translation>Foliennummer</translation>
+    </message>
+    <message>
+        <source>Import Templates</source>
+        <translation>Vorlagen importieren</translation>
+    </message>
+    <message>
+        <source>Clip Art</source>
+        <translation>ClipArt</translation>
+    </message>
+    <message>
+        <source>New Slide Online</source>
+        <translation>Neue Folie online</translation>
+    </message>
+    <message>
+        <source>Extract all pictures in the document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format UnitLabel</source>
+        <translation>Anzeigeeinheit formatieren</translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation>0,5 Pt</translation>
+    </message>
+    <message>
+        <source>Hide Lower Limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>COM 
+Add-Ins</source>
+        <translation>COM Add-Ins</translation>
+    </message>
+    <message>
+        <source>Secondary Horizontal</source>
+        <translation>Sekundär horizontal</translation>
+    </message>
+    <message>
+        <source>Hide Upper Limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation>Alle reduzieren</translation>
+    </message>
+    <message>
+        <source>Decimal Tab</source>
+        <translation>Tabstopp dezimal</translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
+        <translation>Raster ein/-ausblenden</translation>
+    </message>
+    <message>
+        <source>Math Options</source>
+        <translation>Mathematikoptionen</translation>
+    </message>
+    <message>
+        <source>Stacking Order</source>
+        <translation>Stapelreihenfolge</translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation>Form einfügen</translation>
+    </message>
+    <message>
+        <source>Three Dimensional Rotation</source>
+        <translation>3D-Drehung</translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation>Datentabelle</translation>
+    </message>
+    <message>
+        <source>Action Buttons</source>
+        <translation>Interaktive Schaltflächen</translation>
+    </message>
+    <message>
+        <source>Feedback by Email</source>
+        <translation>Feedback per E-Mail</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvert</source>
+        <translation>Bild in PDF konvertieren</translation>
+    </message>
+    <message>
+        <source>Secondary Vertical</source>
+        <translation>Sekundär vertikal</translation>
+    </message>
+    <message>
+        <source>SmartArt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Equation Before</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AppStore Evaluation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select Table</source>
+        <translation>Tabelle auswählen</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation>Weitere Linienfarben</translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation>Weitere Füllfarben</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation>Weitere Schriftfarben</translation>
+    </message>
+    <message>
+        <source>Increase Level</source>
+        <translation>Level erhöhen</translation>
+    </message>
+    <message>
+        <source>Delete Point</source>
+        <translation>Punkt löschen</translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation>1,5 Pt</translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation>Onlinevorlagen</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>E-Mail senden</translation>
+    </message>
+    <message>
+        <source>Remove Radical</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duplicate Slide Master</source>
+        <translation>Folienmaster duplizieren</translation>
+    </message>
+    <message>
+        <source>Change Chart Type</source>
+        <translation>Diagrammtyp ändern</translation>
+    </message>
+    <message>
+        <source>Remove Fraction Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End Show</source>
+        <translation>Präsentation beenden</translation>
+    </message>
+    <message>
+        <source>Erase All Markups</source>
+        <translation>Alle Markups löschen</translation>
+    </message>
+    <message>
+        <source>Resume Background Music</source>
+        <translation>Hintergrundmusik fortsetzen</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Langer Strich</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>Unten</translation>
+    </message>
+    <message>
+        <source>Insert Column After</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Zentrieren</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>Ordner öffnen</translation>
+    </message>
+    <message>
+        <source>Keep Text Only</source>
+        <translation>Nur den Text übernehmen</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Design</source>
+        <translation>Entwurf</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Spenden</translation>
+    </message>
+    <message>
+        <source>Insert Bullet</source>
+        <translation>Aufzählungszeichen einfügen</translation>
+    </message>
+    <message>
+        <source>Format Chart Title</source>
+        <translation>Diagrammtitel formatieren</translation>
+    </message>
+    <message>
+        <source>Stretch Brackets</source>
+        <translation>Eckige Klammern dehnen</translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation>Weitere Pfeile</translation>
+    </message>
+    <message>
+        <source>Hide Degree</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show Degree</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation>Exponential</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Kursiv</translation>
+    </message>
+    <message>
+        <source>Edit Object</source>
+        <translation>Objekt bearbeiten</translation>
+    </message>
+    <message>
+        <source>File Object</source>
+        <translation>Datei Objekt</translation>
+    </message>
+    <message>
+        <source>Curved Segment</source>
+        <translation>Gekrümmtes Segment</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation>Layout</translation>
+    </message>
+    <message>
+        <source>Chart Filters</source>
+        <translation>Diagrammfilter</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <translation>Legende</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>Linear</translation>
+    </message>
+    <message>
+        <source>No Legend Keys</source>
+        <translation>Ohne Legendensymbole</translation>
+    </message>
+    <message>
+        <source>Markup</source>
+        <translation>Markup</translation>
+    </message>
+    <message>
+        <source>Master</source>
+        <translation>Master</translation>
+    </message>
+    <message>
+        <source>Edit Points</source>
+        <translation>Punkte bearbeiten</translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation>Automatische Sicherung deaktivieren</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>Rechtsdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Object</source>
+        <translation>Objekt</translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <translation>Achsentitel</translation>
+    </message>
+    <message>
+        <source>Secondary Major Horizontal</source>
+        <translation>Sekundäres Hauptgitter horizontal</translation>
+    </message>
+    <message>
+        <source>Secondary Minor Horizontal</source>
+        <translation>Sekundäres Hilfsgitter horizontal</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation>Schriftgrad</translation>
+    </message>
+    <message>
+        <source>User Manual</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data Labels</source>
+        <translation>Datenbeschriftungs</translation>
+    </message>
+    <message>
+        <source>Purchase Serial Number</source>
+        <translation>Seriennummer erwerben</translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation>Fortsetzen</translation>
+    </message>
+    <message>
+        <source>Text To Diagram</source>
+        <translation>Text zu Diagramm</translation>
+    </message>
+    <message>
+        <source>Delete Segment</source>
+        <translation>Segment löschen</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Screen</source>
+        <translation>Bildschirm</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
+    </message>
+    <message>
+        <source>Last Viewed</source>
+        <translation>Zuletzt angesehen</translation>
+    </message>
+    <message>
+        <source>All Slides</source>
+        <translation>Alle Folien</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>Symbol</translation>
+    </message>
+    <message>
+        <source>New To WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Secondary Major Vertical</source>
+        <translation>Sekundäres Hauptgitter vertikal</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>Linksdrehung 90 Grad</translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation>Aktivierungscode eingeben</translation>
+    </message>
+    <message>
+        <source>Insert Row After</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Row Above</source>
+        <translation>Zeile oberhalb einfügen</translation>
+    </message>
+    <message>
+        <source>Draw Shapes</source>
+        <translation>Formen zeichnen</translation>
+    </message>
+    <message>
+        <source>New Window</source>
+        <translation>Neues 
+Fenster</translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation>Freies Drehen</translation>
+    </message>
+    <message>
+        <source>Insert Row Below</source>
+        <translation>Zeile unterhalb einfügen</translation>
+    </message>
+    <message>
+        <source>Package into Folder</source>
+        <translation>In Ordner verpacken</translation>
+    </message>
+    <message>
+        <source>RightToLeft Layout</source>
+        <translation>Layout von rechts nach links</translation>
+    </message>
+    <message>
+        <source>Format Plot Area</source>
+        <translation>Plot-Bereich formatieren</translation>
+    </message>
+    <message>
+        <source>Typography</source>
+        <translation>Typografie</translation>
+    </message>
+    <message>
+        <source>Remove Scripts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rename Section</source>
+        <translation>Abschnitt umbenennen</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>Aus Datei</translation>
+    </message>
+    <message>
+        <source>Remove Section</source>
+        <translation>Abschnitt entfernen</translation>
+    </message>
+    <message>
+        <source>Reset Slide</source>
+        <translation>Folie zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Split Cells</source>
+        <translation>Zellen teilen</translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation>Diagrammtitel</translation>
+    </message>
+    <message>
+        <source>First Slide</source>
+        <translation>Erste Folie</translation>
+    </message>
+    <message>
+        <source>Smart Align</source>
+        <translation>Intelligente Ausrichtung</translation>
+    </message>
+    <message>
+        <source>Pointer Options</source>
+        <translation>Zeigeroptionen</translation>
+    </message>
+    <message>
+        <source>Modify Movie Object</source>
+        <translation>Medien ändern</translation>
+    </message>
+    <message>
+        <source>WPP Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exit Edit Point</source>
+        <translation>Punktbearbeitung beenden</translation>
+    </message>
+    <message>
+        <source>Error Bars</source>
+        <translation>Fehlerindikatoren</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation>Schriftfarbe</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>OMath</comment>
+        <translation>Oben</translation>
+    </message>
+    <message>
+        <source>Add Point</source>
+        <translation>Punkt hinzufügen</translation>
+    </message>
+    <message>
+        <source>Set Proxy</source>
+        <translation>Proxy festlegen</translation>
+    </message>
+    <message>
+        <source>Last Slide</source>
+        <translation>Letzte Folie</translation>
+    </message>
+    <message>
+        <source>Reset To Fit Style</source>
+        <translation>Zum Anpassen des Stils zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>OMath</comment>
+        <translation>Unten</translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation>Fülleffekt</translation>
+    </message>
+    <message>
+        <source>Shape Line</source>
+        <translation>Formlinie</translation>
+    </message>
+    <message>
+        <source>Show Previous Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Optionen</translation>
+    </message>
+    <message>
+        <source>Open Backup Directory</source>
+        <translation>Sicherungsverzeichnis öffnen</translation>
+    </message>
+    <message>
+        <source>Change Link Source</source>
+        <translation>Verknüpfungsquelle ändern</translation>
+    </message>
+    <message>
+        <source>Delete Columns</source>
+        <translation>Spalten löschen</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation>WPS Office-HomePage</translation>
+    </message>
+    <message>
+        <source>Move Section Up</source>
+        <translation>Abschnitt nach oben verschieben</translation>
+    </message>
+    <message>
+        <source>SpotLight</source>
+        <translation>Spotlight</translation>
+    </message>
+    <message>
+        <source>Close All</source>
+        <translation>Alle Schließen</translation>
+    </message>
+    <message>
+        <source>Insert Argument Before</source>
+        <translation>Argument davor einfügen</translation>
+    </message>
+    <message>
+        <source>Remove Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <translation>Hyperlink</translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
+        <translation>WPS unterstützen</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation>Eigenschaften</translation>
+    </message>
+    <message>
+        <source>Insert Columns to the Left</source>
+        <translation>Spalten auf der linken Seite einfügen</translation>
+    </message>
+    <message>
+        <source>Insert assist</source>
+        <translation>Assistent einfügen</translation>
+    </message>
+    <message>
+        <source>WPS Microblog</source>
+        <translation>WPS Microblog</translation>
+    </message>
+    <message>
+        <source>Bullets And Numbering</source>
+        <translation>Aufzählungszeichen und Nummerierung</translation>
+    </message>
+    <message>
+        <source>Bullets and Numbering</source>
+        <translation>Aufzählungszeichen und Nummerierung</translation>
+    </message>
+    <message>
+        <source>Change Series Chart Type</source>
+        <translation>Datenreihen-Diagrammtyp ändern</translation>
+    </message>
+    <message>
+        <source>Align Middle and Center</source>
+        <translation>Mitte zentriert ausrichten</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>Eine Ebene nach vorne</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>Bild</translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation>Mein Bild</translation>
+    </message>
+    <message>
+        <source>Format Data Series</source>
+        <translation>Datenreihen formatieren</translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <translation>Tabellenstil</translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation>Manuelle Sicherung</translation>
+    </message>
+    <message>
+        <source>Shape Style</source>
+        <translation>Formenart</translation>
+    </message>
+    <message>
+        <source>Above Chart</source>
+        <translation>Über Diagramm</translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation>4,5 Pt</translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <translation>Zellen zusammenführen</translation>
+    </message>
+    <message>
+        <source>Insert shape on below</source>
+        <translation>Form einfügen unter</translation>
+    </message>
+    <message>
+        <source>Insert shape in after</source>
+        <translation>Form einfügen nach</translation>
+    </message>
+    <message>
+        <source>Insert shape on above</source>
+        <translation>Form einfügen über</translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation>Duplizieren</translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation>WPS Office Facebook</translation>
+    </message>
+    <message>
+        <source>Show/Hide Crop Panel</source>
+        <translation>Zuschneidebereich ein-/ausblenden</translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation>Zeilenumbruch</translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation>Weitere Linien</translation>
+    </message>
+    <message>
+        <source>Move Shape</source>
+        <translation>Form verschieben</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>Dateifreigabe</translation>
+    </message>
+    <message>
+        <source>Hide Slide</source>
+        <translation>Folie ausblenden</translation>
+    </message>
+    <message>
+        <source>Line Style</source>
+        <translation>Linienart</translation>
+    </message>
+    <message>
+        <source>Insert Argument After</source>
+        <translation>Argument dahinter einfügen</translation>
+    </message>
+    <message>
+        <source>Remove All Sections</source>
+        <translation>Alle Abschnitte entfernen</translation>
+    </message>
+    <message>
+        <source>Backward</source>
+        <translation>Rückwärts</translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation>Add-Ins</translation>
+    </message>
+    <message>
+        <source>Background Music</source>
+        <translation>Hintergrundmusik</translation>
+    </message>
+    <message>
+        <source>Action Settings</source>
+        <translation>Aktionseinstellungen</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>Link erstellen und freigeben</translation>
+    </message>
+    <message>
+        <source>Duplicate Layout</source>
+        <translation>Layout duplizieren</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>Format Axis</source>
+        <translation>Achse formatieren</translation>
+    </message>
+    <message>
+        <source>Ball Pen</source>
+        <translation>Kugelschreiber</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>OMath</comment>
+        <translation>Linear</translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation>Alle erweitern</translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation>WordArt löschen</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>In den Vordergrund</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation>Aus Cloud Docs öffnen</translation>
+    </message>
+    <message>
+        <source>Show / Hide Ink Markup</source>
+        <translation>Freihandmarkierungen ein-/ausblenden</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Bild ändern</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation>Absatz</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Viereckiger Punkt</translation>
+    </message>
+    <message>
+        <source>Insert Columns Right</source>
+        <translation>Spalten rechts einfügen</translation>
+    </message>
+    <message>
+        <source>Acknowledgments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation>Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Show More Windows</source>
+        <translation>Mehr Fenster anzeigen</translation>
+    </message>
+    <message>
+        <source>LaserPen</source>
+        <translation>Laserstift</translation>
+    </message>
+    <message>
+        <source>Master Layout</source>
+        <translation>Masterlayout</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation>Verteilt</translation>
+    </message>
+    <message>
+        <source>Play Back</source>
+        <translation>Wiedergabe</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>Gleichung</translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation>Alle speichern</translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation>Anpassen</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Vorherige</translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation>Kopf- und Fußzeile</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Benutzerberechtigungen überprüfen</translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation>Schriftgrad vergrößern</translation>
+    </message>
+    <message>
+        <source>Product Management Center</source>
+        <translation>Produktmanagement-Center</translation>
+    </message>
+    <message>
+        <source>Primary Major Vertical</source>
+        <translation>Primäres Hauptgitter vertikal</translation>
+    </message>
+    <message>
+        <source>Movie from File</source>
+        <translation>Film aus Datei</translation>
+    </message>
+    <message>
+        <source>Erase All Inks on Slide</source>
+        <translation>Alle Ink-Notizen auf der Folie löschen</translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation>Pfeilart</translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation>Berechtigung nach Personen einschränken</translation>
+    </message>
+    <message>
+        <source>InsertNewChart</source>
+        <translation>Diagramm</translation>
+    </message>
+    <message>
+        <source>Slide Show List</source>
+        <translation>Präsentationsliste</translation>
+    </message>
+    <message>
+        <source>Insert Column Before</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation>WPS Office-Neue Funktionen</translation>
+    </message>
+    <message>
+        <source>Use Destination Theme</source>
+        <translation>Zieldesign verwenden</translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation>Schriftgrad verkleinern</translation>
+    </message>
+    <message>
+        <source>New Slide</source>
+        <translation>Neue Folie</translation>
+    </message>
+    <message>
+        <source>Close Path</source>
+        <translation>Pfad schließen</translation>
+    </message>
+    <message>
+        <source>Cascade</source>
+        <translation>Überlappend</translation>
+    </message>
+    <message>
+        <source>Preserve Master</source>
+        <translation>Master beibehalten</translation>
+    </message>
+    <message>
+        <source>Movies and Sounds</source>
+        <translation>Filme und Sounds</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>Zentriert als Gruppe</translation>
+    </message>
+    <message>
+        <source>Sound from File</source>
+        <translation>Sound aus Datei</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>Prozent</translation>
+    </message>
+    <message>
+        <source>Up/Down Bars</source>
+        <translation>Pos./Neg. Abweichungsbalken</translation>
+    </message>
+    <message>
+        <source>Format Trendline</source>
+        <translation>Trendlinien formatieren</translation>
+    </message>
+    <message>
+        <source>Involved
+Template</source>
+        <translation>Text-Vorlagen</translation>
+    </message>
+    <message>
+        <source>Format DataLabel</source>
+        <translation>Datenbeschriftung formatieren</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline Secret Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Curved Connector</source>
+        <translation>Gekrümmter Konnektor</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation>Berechtigungen anzeigen</translation>
+    </message>
+    <message>
+        <source>Add Section</source>
+        <translation>Abschnitt hinzufügen</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Anmelden</translation>
+    </message>
+    <message>
+        <source>Decryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Verschlüsseln</translation>
+    </message>
+    <message>
+        <source>Relative to Slide</source>
+        <translation>Relativ zur Folie</translation>
+    </message>
+    <message>
+        <source>New Comment</source>
+        <translation>Neuer 
+Kommentar</translation>
+    </message>
+    <message>
+        <source>Delete Argument</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Inside Base</source>
+        <translation>Basis innerhalb</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation>Anmeldeinformationen verwalten</translation>
+    </message>
+    <message>
+        <source>Update Link</source>
+        <translation>Link aktualisieren</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Object Menu</source>
+        <translation>Objektmenü</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>Vertikal verteilen</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation>Daten auswählen</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>Horizontal verteilen</translation>
+    </message>
+    <message>
+        <source>Delete Rows</source>
+        <translation>Zeilen löschen</translation>
+    </message>
+    <message>
+        <source>Format Legend</source>
+        <translation>Legende formatieren</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Pipette</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Strichart</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Kommentar</translation>
+    </message>
+    <message>
+        <source>Add Axis</source>
+        <translation>Achse hinzufügen</translation>
+    </message>
+    <message>
+        <source>Reconvert</source>
+        <translation>Erneut konvertieren</translation>
+    </message>
+    <message>
+        <source>Add Text</source>
+        <translation>Text hinzufügen</translation>
+    </message>
+    <message>
+        <source>Slide Show</source>
+        <translation>Bildschirmpräsentation</translation>
+    </message>
+    <message>
+        <source>Delete Equation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Drop Lines</source>
+        <translation>Bezugslinien formatieren</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation>Standard</translation>
+    </message>
+    <message>
+        <source>Save as Picture</source>
+        <translation>Speichern als Bild</translation>
+    </message>
+    <message>
+        <source>Scribble</source>
+        <translation>Skizze</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation>Rechteck</translation>
+    </message>
+    <message>
+        <source>Format Up Bars</source>
+        <translation>Positive Abweichungen formatieren</translation>
+    </message>
+    <message>
+        <source>Center Tab</source>
+        <translation>Tabstopp zentriert</translation>
+    </message>
+    <message>
+        <source>LaserPen and SpotLight</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation>Unterstrichen</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Category Label</source>
+        <translation>Rubrikenbeschriftungen formatieren</translation>
+    </message>
+    <message>
+        <source>Change to Skewed Fraction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Slide(From Outline)</source>
+        <translation>Folie (Import von Outline) </translation>
+    </message>
+    <message>
+        <source>More DesignTemplates</source>
+        <translation>Weitere Designs</translation>
+    </message>
+    <message>
+        <source>Add MinorGridline</source>
+        <translation>Hilfsgitternetz hinzufügen</translation>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation>Frühere Sicherung anzeigen</translation>
+    </message>
+    <message>
+        <source>AutoPoint</source>
+        <translation>AutoPoint</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save Background Picture</source>
+        <translation>Hintergrundbild speichern</translation>
+    </message>
+    <message>
+        <source>Play Movie</source>
+        <translation>Film wiedergeben</translation>
+    </message>
+    <message>
+        <source>By Title</source>
+        <translation>Nach Titel</translation>
+    </message>
+    <message>
+        <source>Play Sound</source>
+        <translation>Sound wiedergeben</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatisch</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>In OFD exportieren</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Als PDF exportieren</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>OMathMatOrEqArr</comment>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation>Diagrammelement hinzufügen</translation>
+    </message>
+    <message>
+        <source>Format Data Table</source>
+        <translation>Datentabelle formatieren</translation>
+    </message>
+    <message>
+        <source>Format Data Point</source>
+        <translation>Datenpunkte formatieren</translation>
+    </message>
+    <message>
+        <source>Hyperlink Color</source>
+        <translation>Hyperlink-Farbe</translation>
+    </message>
+    <message>
+        <source>Grid and Guides</source>
+        <translation>Raster und 
+Führungslinien</translation>
+    </message>
+    <message>
+        <source>Eyedropper</source>
+        <translation>Formatpipette</translation>
+    </message>
+    <message>
+        <source>Break into Seperate Equations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Design Templates</source>
+        <translation>Entwurfsvorlagen</translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation>Aufladen</translation>
+    </message>
+    <message>
+        <source>Primary Minor Horizontal</source>
+        <translation>Primäres Hilfsgitter horizontal</translation>
+    </message>
+    <message>
+        <source>Primary Major Horizontal</source>
+        <translation>Primäres Hauptgitter horizontal</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Sicherheit</translation>
+    </message>
+    <message>
+        <source>Add MajorGridline</source>
+        <translation>Hauptgitternetz hinzufügen</translation>
+    </message>
+    <message>
+        <source>Backup Management</source>
+        <translation>Sicherungsverwaltung</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Watercolor Pen</source>
+        <translation>Wasserfarbenstift</translation>
+    </message>
+    <message>
+        <source>Left Tab</source>
+        <translation>Tabstopp links</translation>
+    </message>
+    <message>
+        <source>Secondary Minor Vertial</source>
+        <translation>Sekundäres Hilfsgitter vertikal</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>In Cloud Docs speichern</translation>
+    </message>
+    <message>
+        <source>Erase Markups on Slide</source>
+        <translation>Alle Markups auf der Folie löschen</translation>
+    </message>
+    <message>
+        <source>Package into Compressed File</source>
+        <translation>In komprimierte Datei verpacken</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation>Langer Strich-Punkt</translation>
+    </message>
+    <message>
+        <source>Centered Overlay</source>
+        <translation>Zentrierte Überlagerung</translation>
+    </message>
+    <message>
+        <source>Open Path</source>
+        <translation>Pfad öffnen</translation>
+    </message>
+    <message>
+        <source>Format Legend Entry</source>
+        <translation>Legendeneintrag formatieren</translation>
+    </message>
+    <message>
+        <source>Slides List</source>
+        <translation>Folienliste</translation>
+    </message>
+    <message>
+        <source>Exit Rotate Mode</source>
+        <translation>Rotationsmodus beenden</translation>
+    </message>
+    <message>
+        <source>Format Gridlines</source>
+        <translation>Gitternetz formatieren</translation>
+    </message>
+    <message>
+        <source>0 More Histories</source>
+        <translation>Weitere Ereignisse</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>OMath</comment>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Runder Punkt</translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation>Per QQ senden</translation>
+    </message>
+    <message>
+        <source>TrendLine</source>
+        <translation>Trendlinien</translation>
+    </message>
+    <message>
+        <source>Encrypt</source>
+        <translation>Verschlüsseln</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation>Diagrammelemente</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>Gruppierung aufheben</translation>
+    </message>
+    <message>
+        <source>Notes Page</source>
+        <translation>Notizenseite</translation>
+    </message>
+    <message>
+        <source>WPS BBS</source>
+        <translation>WPS Office BBS</translation>
+    </message>
+    <message>
+        <source>Convert Markup to Object</source>
+        <translation>Markup in Objekt umwandeln</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation>Zentriert</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Bildschirmabbild</translation>
+    </message>
+    <message>
+        <source>Control Menu List</source>
+        <translation>Steuerungs-Menü-Liste</translation>
+    </message>
+    <message>
+        <source>Insert Rows Above</source>
+        <translation>Zeilen oberhalb einfügen</translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation>Form ändern</translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation>Diagrammobjekte</translation>
+    </message>
+    <message>
+        <source>Set Up Show</source>
+        <translation>Bildschirmpräsentation einrichten</translation>
+    </message>
+    <message>
+        <source>Insert Rows Below</source>
+        <translation>Zeilen unterhalb einfügen</translation>
+    </message>
+    <message>
+        <source>More Option...</source>
+        <translation>Weitere Optionen...</translation>
+    </message>
+    <message>
+        <source>Reverse Path Direction</source>
+        <translation>Pfadrichtung umkehren</translation>
+    </message>
+    <message>
+        <source>Show Next Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View Code</source>
+        <translation>Code anzeigen</translation>
+    </message>
+    <message>
+        <source>Save selected picture as</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertikal</translation>
+    </message>
+    <message>
+        <source>New Slide
+Master</source>
+        <translation>Neuer Folienmaster</translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <translation>Zeile löschen</translation>
+    </message>
+    <message>
+        <source>Custom Slide Shows</source>
+        <translation>Benutzerdefinierte 
+Bildschirmpräsentationen</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Online-Bilder</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation>Über WPS Presentation</translation>
+    </message>
+    <message>
+        <source>NewFromDuplicate</source>
+        <translation>Neu aus Duplikat</translation>
+    </message>
+    <message>
+        <source>Standard Error</source>
+        <translation>Standardfehler</translation>
+    </message>
+    <message>
+        <source>Insert Clip Art</source>
+        <translation>ClipArt einfügen</translation>
+    </message>
+    <message>
+        <source>Convert...</source>
+        <translation>Konvertieren...</translation>
+    </message>
+    <message>
+        <source>Webshape Flush</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Section And Slides</source>
+        <translation>Abschnitt und Folien entfernen</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation>Eingeschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <translation>Inhalte einfügen</translation>
+    </message>
+    <message>
+        <source>Insert Fraction Bar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Automatischen Sicherung</translation>
+    </message>
+    <message>
+        <source>Format ErrorBars</source>
+        <translation>Fehlerindikatoren formatieren</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation>Textfeld</translation>
+    </message>
+    <message>
+        <source>Replace Font</source>
+        <translation>Schrift ersetzen</translation>
+    </message>
+    <message>
+        <source>Invisible</source>
+        <translation>Unsichtbar</translation>
+    </message>
+    <message>
+        <source>Visible</source>
+        <translation>Sichtbar</translation>
+    </message>
+    <message>
+        <source>Format MajorGridline</source>
+        <translation>Hauptgitternetz formatieren</translation>
+    </message>
+    <message>
+        <source>Straight Connector</source>
+        <translation>Gerade Verbindung</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Two Period Moving Average</source>
+        <translation>Gleitender Durchschnitt für zwei Zeiträume</translation>
+    </message>
+    <message>
+        <source>Show Lower Limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show Upper Limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save as Template</source>
+        <translation>Als Vorlage speichern</translation>
+    </message>
+    <message>
+        <source>Insert Columns to the Right</source>
+        <translation>Spalten auf der rechten Seite einfügen</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Persönliches Center</translation>
+    </message>
+    <message>
+        <source>Ink Color</source>
+        <translation>Tintenfarbe</translation>
+    </message>
+    <message>
+        <source>Keep Picture Only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left Hang</source>
+        <translation>Links hängender Einzug</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Vorwärts</translation>
+    </message>
+    <message>
+        <source>WPS Office Product Center</source>
+        <translation>WPS Office-Produktcenter</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <translation>Handzettelmaster</translation>
+    </message>
+    <message>
+        <source>Format Axis Title</source>
+        <translation>Achsentitel formatieren</translation>
+    </message>
+    <message>
+        <source>Format MinorGridline</source>
+        <translation>Hilfsgitternetz formatieren</translation>
+    </message>
+    <message>
+        <source>Keep Source Formattin</source>
+        <translation>Ursprüngliche Formatierung beibehalten</translation>
+    </message>
+    <message>
+        <source>Delete Current Comment</source>
+        <translation>Kommentar löschen</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>OMath</comment>
+        <translation>Links</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webshape Del</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation>Datei sicher anzeigen</translation>
+    </message>
+    <message>
+        <source>Webshape Min</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webshape Max</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Row Before</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Series Lines</source>
+        <translation>Reihenlinien formatieren</translation>
+    </message>
+    <message>
+        <source>Edit Hyperlink</source>
+        <translation>Hyperlink bearbeiten</translation>
+    </message>
+    <message>
+        <source>Straight Point</source>
+        <translation>Punkt glätten</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation>Unten ausrichten</translation>
+    </message>
+    <message>
+        <source>Primary Horizontal</source>
+        <translation>Primär horizontal</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Meine Berechtigungen überprüfen</translation>
+    </message>
+    <message>
+        <source>New Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data Callout</source>
+        <translation>Datenlegende</translation>
+    </message>
+    <message>
+        <source>Rename Layout</source>
+        <translation>Layout umbenennen</translation>
+    </message>
+    <message>
+        <source>Add Trendline</source>
+        <translation>Trendlinie hinzufügen</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>Hervorheben</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <translation>Unformatierter Text</translation>
+    </message>
+    <message>
+        <source>Right Tab</source>
+        <translation>Tabstopp rechts</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <translation>Formatierter Text</translation>
+    </message>
+    <message>
+        <source>Rename Master</source>
+        <translation>Master umbenennen</translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation>Gemusterte Linien</translation>
+    </message>
+    <message>
+        <source>Align Font</source>
+        <translation>Schrift ausrichten</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Add DataLabel</source>
+        <translation>Datenbeschriftung hinzufügen</translation>
+    </message>
+    <message>
+        <source>Format Leader Lines</source>
+        <translation>Führungslinien formatieren</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>Gleiche Breite</translation>
+    </message>
+    <message>
+        <source>Elbow Connector</source>
+        <translation>Gewinkelter Konnektor</translation>
+    </message>
+    <message>
+        <source>Move Window to New Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>With Legend Keys</source>
+        <translation>Mit Legendensymbolen</translation>
+    </message>
+    <message>
+        <source>AlignRight</source>
+        <translation>Rechtsbündig</translation>
+    </message>
+    <message>
+        <source>Speaker Notes</source>
+        <translation>Sprechernotizen</translation>
+    </message>
+    <message>
+        <source>Straight Segment</source>
+        <translation>Gerader Abschnitt</translation>
+    </message>
+    <message>
+        <source>Magnifier</source>
+        <translation>Bildschirmlupe</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>Eine Ebene nach hinten</translation>
+    </message>
+    <message>
+        <source>Delete Column</source>
+        <translation>Spalte löschen</translation>
+    </message>
+    <message>
+        <source>Extract Text in Picture</source>
+        <translation>Text aus Bild extrahieren</translation>
+    </message>
+    <message>
+        <source>Transfer to WPS Writer Document</source>
+        <translation>Übertragen zu WPS Writer-Dokument</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation>Hängend</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation>Einzug verkleinern</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation>Einzug vergrößern</translation>
+    </message>
+    <message>
+        <source>Format TrendLine Label</source>
+        <translation>Trendlinienbeschriftung formatieren</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>Abonnement kaufen</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>Meine Abonnements</translation>
+    </message>
+    <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Object Menu List</source>
+        <translation>Menüliste Objekt</translation>
+    </message>
+    <message>
+        <source>Arrow Options</source>
+        <translation>Pfeiloptionen</translation>
+    </message>
+    <message>
+        <source>Pause Background Music</source>
+        <translation>Hintergrundmusik anhalten</translation>
+    </message>
+    <message>
+        <source>Date and Time</source>
+        <translation>Datum und Uhrzeit</translation>
+    </message>
+    <message>
+        <source>Edit Comment</source>
+        <translation>Kommentar 
+bearbeiten</translation>
+    </message>
+    <message>
+        <source>Copy Comment</source>
+        <translation>Kommentar kopieren</translation>
+    </message>
+    <message>
+        <source>Primary Minor Vertial</source>
+        <translation>Primäres Hilfsgitter vertikal</translation>
+    </message>
+    <message>
+        <source>Primary Vertical</source>
+        <translation>Primär vertikal</translation>
+    </message>
+    <message>
+        <source>Organize Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export to Package</source>
+        <translation>In Paket exportieren</translation>
+    </message>
+    <message>
+        <source>Trim Movie</source>
+        <translation>Film kürzen</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>Zeilenabstand</translation>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation>Sound kürzen</translation>
+    </message>
+    <message>
+        <source>Delete Series</source>
+        <translation>Reihen löschen</translation>
+    </message>
+    <message>
+        <source>Right Hang</source>
+        <translation>Rechts hängender Einzug</translation>
+    </message>
+    <message>
+        <source>Exit Edit Text</source>
+        <translation>Textbearbeitung beenden</translation>
+    </message>
+    <message>
+        <source>Format Down Bars</source>
+        <translation>Negative Abweichungen formatieren</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>OMath</comment>
+        <translation>Rechts</translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translation>Objekt löschen</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation>Langer Strich-Punkt-Punkt</translation>
+    </message>
+    <message>
+        <source>Inside End</source>
+        <translation>Ende innerhalb</translation>
+    </message>
+    <message>
+        <source>Format High-Low Lines</source>
+        <translation>Spannweitenlinien formatieren</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>Gitternetzlinien</translation>
+    </message>
+    <message>
+        <source>Normal Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation>Dokument weiterleiten</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>Oben ausrichten</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>Abmelden</translation>
+    </message>
+    <message>
+        <source>AlignLeft</source>
+        <translation>Linksbündig</translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>Professionell</translation>
+    </message>
+    <message>
+        <source>Delete Layout</source>
+        <translation>Layout löschen</translation>
+    </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation>Folienübergang</translation>
+    </message>
+    <message>
+        <source>Outside End</source>
+        <translation>Ende außerhalb</translation>
+    </message>
+    <message>
+        <source>Smooth Point</source>
+        <translation>Übergangspunkt</translation>
+    </message>
+    <message>
+        <source>Delete Master</source>
+        <translation>Master löschen</translation>
+    </message>
+    <message>
+        <source>Flash</source>
+        <translation>Flash</translation>
+    </message>
+    <message>
+        <source>Online Video</source>
+        <translation>Online-Video</translation>
+    </message>
+    <message>
+        <source>Insert Smart Diagram</source>
+        <translation>Smart-Diagramm einfügen</translation>
+    </message>
+    <message>
+        <source>Enter the access code</source>
+        <translation>Zugriffscode eingeben</translation>
+    </message>
+    <message>
+        <source>Share Play</source>
+        <translation>Wiedergabe teilen</translation>
+    </message>
+    <message>
+        <source>Grouping</source>
+        <translation>Gruppierung</translation>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation>WPS Office-Community</translation>
     </message>
 </context>
 <context>
@@ -11918,2258 +14550,6 @@ Folie</translation>
     </message>
 </context>
 <context>
-    <name>popupmenu</name>
-    <message>
-        <source>Cut</source>
-        <translation>Ausschneiden</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <translation>Oben</translation>
-    </message>
-    <message>
-        <source>Axes</source>
-        <translation>Achsen</translation>
-    </message>
-    <message>
-        <source>Bold</source>
-        <translation>Fett</translation>
-    </message>
-    <message>
-        <source>Both</source>
-        <translation>Beide</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation>Kopieren</translation>
-    </message>
-    <message>
-        <source>Dash</source>
-        <translation>Strich</translation>
-    </message>
-    <message>
-        <source>Fill</source>
-        <translation>Füllung</translation>
-    </message>
-    <message>
-        <source>Font</source>
-        <translation>Schriftart</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Hilfe</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Links</translation>
-    </message>
-    <message>
-        <source>Line</source>
-        <translation>Linie</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation>Nächste</translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation>Wiedergeben</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Anzeigen</translation>
-    </message>
-    <message>
-        <source>Wave</source>
-        <translation>Welle</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>Zoom</translation>
-    </message>
-    <message>
-        <source>true</source>
-        <translation>wahr</translation>
-    </message>
-    <message>
-        <source>Open Hyperlink</source>
-        <translation>Hyperlink öffnen</translation>
-    </message>
-    <message>
-        <source>Remove Hyperlink</source>
-        <translation>Hyperlink entfernen</translation>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Center</source>
-        <translation>Horizontal zentrieren</translation>
-    </message>
-    <message>
-        <source>Equal Height</source>
-        <translation>Gleiche Höhe</translation>
-    </message>
-    <message>
-        <source>1 pt.</source>
-        <translation>1 Pt</translation>
-    </message>
-    <message>
-        <source>3 pt.</source>
-        <translation>3 Pt</translation>
-    </message>
-    <message>
-        <source>6 pt.</source>
-        <translation>6 Pt</translation>
-    </message>
-    <message>
-        <source>Slide Sorter</source>
-        <translation>Foliensortierung</translation>
-    </message>
-    <message>
-        <source>White Screen</source>
-        <translation>Weißer Bildschirm</translation>
-    </message>
-    <message>
-        <source>Above</source>
-        <translation>Über</translation>
-    </message>
-    <message>
-        <source>Align</source>
-        <translation>Ausrichten</translation>
-    </message>
-    <message>
-        <source>Arrow</source>
-        <translation>Pfeil</translation>
-    </message>
-    <message>
-        <source>Below</source>
-        <translation>Unter</translation>
-    </message>
-    <message>
-        <source>Chart</source>
-        <translation>Diagramm</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation>Löschen</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation>Gruppieren</translation>
-    </message>
-    <message>
-        <source>Minisite</source>
-        <translation>WPS-Hotspot</translation>
-    </message>
-    <message>
-        <source>Links...</source>
-        <translation>Verknüpfungen...</translation>
-    </message>
-    <message>
-        <source>Macro</source>
-        <translation>Makro</translation>
-    </message>
-    <message>
-        <source>Synonyms</source>
-        <translation>Synonyme</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation>Anhalten</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Rechts</translation>
-    </message>
-    <message>
-        <source>Roman</source>
-        <translation>Roman</translation>
-    </message>
-    <message>
-        <source>Ruler</source>
-        <translation>Lineal</translation>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation>Freigeben für</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation>Durchgezogen</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <translation>Tabelle</translation>
-    </message>
-    <message>
-        <source>Style</source>
-        <translation>Formatvorlage</translation>
-    </message>
-    <message>
-        <source>Match Brackets to Argument Height</source>
-        <translation>Eckige Klammern an Argumenthöhe anpassen</translation>
-    </message>
-    <message>
-        <source>Edit Data</source>
-        <translation>Daten bearbeiten</translation>
-    </message>
-    <message>
-        <source>Exit Edit</source>
-        <translation>Textbearbeitung beenden</translation>
-    </message>
-    <message>
-        <source>Edit Text</source>
-        <translation>Text bearbeiten</translation>
-    </message>
-    <message>
-        <source>Send to Back</source>
-        <translation>In den Hintergrund</translation>
-    </message>
-    <message>
-        <source>Save to File</source>
-        <translation>Speichern in Datei</translation>
-    </message>
-    <message>
-        <source>Copy Hyperlink</source>
-        <translation>Hyperlink kopieren</translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <translation>Unbeschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>Format Painter</source>
-        <translation>Format übertragen</translation>
-    </message>
-    <message>
-        <source>Corner Point</source>
-        <translation>Eckpunkt</translation>
-    </message>
-    <message>
-        <source>Remove Accent Character</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Black Screen</source>
-        <translation>Präsentation ausblenden</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation>Horizontal</translation>
-    </message>
-    <message>
-        <source>Go to Slide</source>
-        <translation>Gehe zu Folie</translation>
-    </message>
-    <message>
-        <source>Reading View</source>
-        <translation>Leseansicht</translation>
-    </message>
-    <message>
-        <source>Chinese Conversion</source>
-        <translation>Chinesische Konvertierung</translation>
-    </message>
-    <message>
-        <source>Data Recovery</source>
-        <translation>Datenwiederherstellung</translation>
-    </message>
-    <message>
-        <source>Flip Horizontal</source>
-        <translation>Horizontal kippen</translation>
-    </message>
-    <message>
-        <source>Chart Styles</source>
-        <translation>Diagrammformatvorlagen</translation>
-    </message>
-    <message>
-        <source>Check for Updates</source>
-        <translation>Auf Updates überprüfen</translation>
-    </message>
-    <message>
-        <source>Format Chart Area</source>
-        <translation>Diagrammbereich formatieren</translation>
-    </message>
-    <message>
-        <source>2.25 pt.</source>
-        <translation>2,25 Pt</translation>
-    </message>
-    <message>
-        <source>0.25 pt.</source>
-        <translation>0,25 Pt</translation>
-    </message>
-    <message>
-        <source>Create Cloud Link</source>
-        <translation>Cloud-Verknüpfung erstellen</translation>
-    </message>
-    <message>
-        <source>Animation Schemes</source>
-        <translation>Animationen</translation>
-    </message>
-    <message>
-        <source>Close Other Windows</source>
-        <translation>Andere Fenster schließen</translation>
-    </message>
-    <message>
-        <source>Close Window</source>
-        <translation>Fenster schließen</translation>
-    </message>
-    <message>
-        <source>Align Scripts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert Columns Left</source>
-        <translation>Spalten links einfügen</translation>
-    </message>
-    <message>
-        <source>Rehearse Timings</source>
-        <translation>Neue Einblendezeiten 
-testen</translation>
-    </message>
-    <message>
-        <source>0.75 pt.</source>
-        <translation>0,75 Pt</translation>
-    </message>
-    <message>
-        <source>Flip Vertical</source>
-        <translation>Vertikal kippen</translation>
-    </message>
-    <message>
-        <source>Picture Frame</source>
-        <translation>Bildrahmen</translation>
-    </message>
-    <message>
-        <source>Align Middle</source>
-        <translation>Vertikal zentrieren</translation>
-    </message>
-    <message>
-        <source>Enable AutoBackup</source>
-        <translation>Autobackup aktivieren</translation>
-    </message>
-    <message>
-        <source>Set AutoShape Defaults</source>
-        <translation>Als Standard für AutoForm festlegen</translation>
-    </message>
-    <message>
-        <source>Move Section Down</source>
-        <translation>Abschnitt nach unten verschieben</translation>
-    </message>
-    <message>
-        <source>Crop By Scale</source>
-        <translation>Nach Skala zuschneiden</translation>
-    </message>
-    <message>
-        <source>Crop By Shape</source>
-        <translation>Nach Form zuschneiden</translation>
-    </message>
-    <message>
-        <source>Standard Deviation</source>
-        <translation>Standardabweichung</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Onlinebilder einfügen</translation>
-    </message>
-    <message>
-        <source>Change to Stack Fraction</source>
-        <translation>Wechsel zu gestapeltem Bruch</translation>
-    </message>
-    <message>
-        <source>Background</source>
-        <translation>Hintergrund</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
-    </message>
-    <message>
-        <source>Arrow Style 1</source>
-        <translation>Pfeilart 1</translation>
-    </message>
-    <message>
-        <source>Arrow Style 2</source>
-        <translation>Pfeilart 2</translation>
-    </message>
-    <message>
-        <source>Arrow Style 3</source>
-        <translation>Pfeilart 3</translation>
-    </message>
-    <message>
-        <source>Arrow Style 4</source>
-        <translation>Pfeilart 4</translation>
-    </message>
-    <message>
-        <source>Arrow Style 5</source>
-        <translation>Pfeilart 5</translation>
-    </message>
-    <message>
-        <source>Arrow Style 6</source>
-        <translation>Pfeilart 6</translation>
-    </message>
-    <message>
-        <source>Arrow Style 7</source>
-        <translation>Pfeilart 7</translation>
-    </message>
-    <message>
-        <source>Arrow Style 8</source>
-        <translation>Pfeilart 8</translation>
-    </message>
-    <message>
-        <source>Arrow Style 9</source>
-        <translation>Pfeilart 9</translation>
-    </message>
-    <message>
-        <source>Online Fonts</source>
-        <translation>Online-Schriftarten</translation>
-    </message>
-    <message>
-        <source>WPS Data Recovery Master</source>
-        <translation>WPS Data Recovery Master</translation>
-    </message>
-    <message>
-        <source>Linear Forecast</source>
-        <translation>Lineare Prognose</translation>
-    </message>
-    <message>
-        <source>Change Version</source>
-        <translation>Version ändern</translation>
-    </message>
-    <message>
-        <source>IntranetVersion Online Templates</source>
-        <translation>Online-Vorlagen</translation>
-    </message>
-    <message>
-        <source>Notes Master</source>
-        <translation>Notizenmaster</translation>
-    </message>
-    <message>
-        <source>Arrow Style 10</source>
-        <translation>Pfeilart 10</translation>
-    </message>
-    <message>
-        <source>Arrow Style 11</source>
-        <translation>Pfeilart 11</translation>
-    </message>
-    <message>
-        <source>Insert shape in before</source>
-        <translation>Form einfügen vor</translation>
-    </message>
-    <message>
-        <source>Slide Layout</source>
-        <translation>Folienlayout</translation>
-    </message>
-    <message>
-        <source>New Slide Layout</source>
-        <translation>Neues Folienlayout</translation>
-    </message>
-    <message>
-        <source>Format Shape</source>
-        <translation>Form formatieren</translation>
-    </message>
-    <message>
-        <source>Slide Master</source>
-        <translation>Folienmaster</translation>
-    </message>
-    <message>
-        <source>New Slide Master</source>
-        <translation>Neuer Folienmaster</translation>
-    </message>
-    <message>
-        <source>Export as H5</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change DataLabel Geometry</source>
-        <translation>Datenbeschriftungsform ändern</translation>
-    </message>
-    <message>
-        <source>File Package</source>
-        <translation>Dateipaket</translation>
-    </message>
-    <message>
-        <source>Highlighter</source>
-        <translation>Textmarker</translation>
-    </message>
-    <message>
-        <source>Edit Sound Object</source>
-        <translation>Soundobjekt bearbeiten</translation>
-    </message>
-    <message>
-        <source>AlignCenter</source>
-        <translation>Zentriert ausrichten</translation>
-    </message>
-    <message>
-        <source>Edit Movie Object</source>
-        <translation>Filmobjekt bearbeiten</translation>
-    </message>
-    <message>
-        <source>Use Magnifier</source>
-        <translation>Lupe verwenden</translation>
-    </message>
-    <message>
-        <source>Reduce Level</source>
-        <translation>Level reduzieren</translation>
-    </message>
-    <message>
-        <source>Increase Spacing</source>
-        <translation>Abstand vergrößern</translation>
-    </message>
-    <message>
-        <source>Decrease Spacing</source>
-        <translation>Abstand verringern</translation>
-    </message>
-    <message>
-        <source>Photo to PDF</source>
-        <translation>Bild in PDF</translation>
-    </message>
-    <message>
-        <source>Remove Limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Convert Path to AutoShape</source>
-        <translation>Pfad in AutoForm umwandeln</translation>
-    </message>
-    <message>
-        <source>Slide Number</source>
-        <translation>Foliennummer</translation>
-    </message>
-    <message>
-        <source>Import Templates</source>
-        <translation>Vorlagen importieren</translation>
-    </message>
-    <message>
-        <source>Clip Art</source>
-        <translation>ClipArt</translation>
-    </message>
-    <message>
-        <source>New Slide Online</source>
-        <translation>Neue Folie online</translation>
-    </message>
-    <message>
-        <source>Extract all pictures in the document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Format UnitLabel</source>
-        <translation>Anzeigeeinheit formatieren</translation>
-    </message>
-    <message>
-        <source>0.5 pt.</source>
-        <translation>0,5 Pt</translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation>COM Add-Ins</translation>
-    </message>
-    <message>
-        <source>Secondary Horizontal</source>
-        <translation>Sekundär horizontal</translation>
-    </message>
-    <message>
-        <source>Collapse All</source>
-        <translation>Alle reduzieren</translation>
-    </message>
-    <message>
-        <source>Decimal Tab</source>
-        <translation>Tabstopp dezimal</translation>
-    </message>
-    <message>
-        <source>Show / Hide Grid</source>
-        <translation>Raster ein/-ausblenden</translation>
-    </message>
-    <message>
-        <source>Math Options</source>
-        <translation>Mathematikoptionen</translation>
-    </message>
-    <message>
-        <source>Stacking Order</source>
-        <translation>Stapelreihenfolge</translation>
-    </message>
-    <message>
-        <source>Insert Shape</source>
-        <translation>Form einfügen</translation>
-    </message>
-    <message>
-        <source>Three Dimensional Rotation</source>
-        <translation>3D-Drehung</translation>
-    </message>
-    <message>
-        <source>Data Table</source>
-        <translation>Datentabelle</translation>
-    </message>
-    <message>
-        <source>Action Buttons</source>
-        <translation>Interaktive Schaltflächen</translation>
-    </message>
-    <message>
-        <source>Feedback by Email</source>
-        <translation>Feedback per E-Mail</translation>
-    </message>
-    <message>
-        <source>Secondary Vertical</source>
-        <translation>Sekundär vertikal</translation>
-    </message>
-    <message>
-        <source>Select Table</source>
-        <translation>Tabelle auswählen</translation>
-    </message>
-    <message>
-        <source>More Line Colors</source>
-        <translation>Weitere Linienfarben</translation>
-    </message>
-    <message>
-        <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
-    </message>
-    <message>
-        <source>More Font Colors</source>
-        <translation>Weitere Schriftfarben</translation>
-    </message>
-    <message>
-        <source>Increase Level</source>
-        <translation>Level erhöhen</translation>
-    </message>
-    <message>
-        <source>Delete Point</source>
-        <translation>Punkt löschen</translation>
-    </message>
-    <message>
-        <source>1.5 pt.</source>
-        <translation>1,5 Pt</translation>
-    </message>
-    <message>
-        <source>Online Templates</source>
-        <translation>Onlinevorlagen</translation>
-    </message>
-    <message>
-        <source>Send E-mail</source>
-        <translation>E-Mail senden</translation>
-    </message>
-    <message>
-        <source>Remove Radical</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate Slide Master</source>
-        <translation>Folienmaster duplizieren</translation>
-    </message>
-    <message>
-        <source>Change Chart Type</source>
-        <translation>Diagrammtyp ändern</translation>
-    </message>
-    <message>
-        <source>End Show</source>
-        <translation>Präsentation beenden</translation>
-    </message>
-    <message>
-        <source>Erase All Markups</source>
-        <translation>Alle Markups löschen</translation>
-    </message>
-    <message>
-        <source>Resume Background Music</source>
-        <translation>Hintergrundmusik fortsetzen</translation>
-    </message>
-    <message>
-        <source>Long Dash</source>
-        <translation>Langer Strich</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <translation>Unten</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation>Zentrieren</translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation>Ordner öffnen</translation>
-    </message>
-    <message>
-        <source>Keep Text Only</source>
-        <translation>Nur den Text übernehmen</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation>Löschen</translation>
-    </message>
-    <message>
-        <source>Design</source>
-        <translation>Entwurf</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Spenden</translation>
-    </message>
-    <message>
-        <source>Insert Bullet</source>
-        <translation>Aufzählungszeichen einfügen</translation>
-    </message>
-    <message>
-        <source>Format Chart Title</source>
-        <translation>Diagrammtitel formatieren</translation>
-    </message>
-    <message>
-        <source>Stretch Brackets</source>
-        <translation>Eckige Klammern dehnen</translation>
-    </message>
-    <message>
-        <source>More Arrows</source>
-        <translation>Weitere Pfeile</translation>
-    </message>
-    <message>
-        <source>Show Degree</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>Exponential</source>
-        <translation>Exponential</translation>
-    </message>
-    <message>
-        <source>Italic</source>
-        <translation>Kursiv</translation>
-    </message>
-    <message>
-        <source>Edit Object</source>
-        <translation>Objekt bearbeiten</translation>
-    </message>
-    <message>
-        <source>File Object</source>
-        <translation>Datei Objekt</translation>
-    </message>
-    <message>
-        <source>Curved Segment</source>
-        <translation>Gekrümmtes Segment</translation>
-    </message>
-    <message>
-        <source>Layout</source>
-        <translation>Layout</translation>
-    </message>
-    <message>
-        <source>Chart Filters</source>
-        <translation>Diagrammfilter</translation>
-    </message>
-    <message>
-        <source>Legend</source>
-        <translation>Legende</translation>
-    </message>
-    <message>
-        <source>Linear</source>
-        <translation>Linear</translation>
-    </message>
-    <message>
-        <source>No Legend Keys</source>
-        <translation>Ohne Legendensymbole</translation>
-    </message>
-    <message>
-        <source>Markup</source>
-        <translation>Markup</translation>
-    </message>
-    <message>
-        <source>Master</source>
-        <translation>Master</translation>
-    </message>
-    <message>
-        <source>Edit Points</source>
-        <translation>Punkte bearbeiten</translation>
-    </message>
-    <message>
-        <source>Disable AutoBackup</source>
-        <translation>Automatische Sicherung deaktivieren</translation>
-    </message>
-    <message>
-        <source>Rotate Right 90°</source>
-        <translation>Rechtsdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation>Normal</translation>
-    </message>
-    <message>
-        <source>Object</source>
-        <translation>Objekt</translation>
-    </message>
-    <message>
-        <source>Axis Title</source>
-        <translation>Achsentitel</translation>
-    </message>
-    <message>
-        <source>Secondary Major Horizontal</source>
-        <translation>Sekundäres Hauptgitter horizontal</translation>
-    </message>
-    <message>
-        <source>Secondary Minor Horizontal</source>
-        <translation>Sekundäres Hilfsgitter horizontal</translation>
-    </message>
-    <message>
-        <source>Font Size</source>
-        <translation>Schriftgrad</translation>
-    </message>
-    <message>
-        <source>User Manual</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Data Labels</source>
-        <translation>Datenbeschriftungs</translation>
-    </message>
-    <message>
-        <source>Purchase Serial Number</source>
-        <translation>Seriennummer erwerben</translation>
-    </message>
-    <message>
-        <source>Resume</source>
-        <translation>Fortsetzen</translation>
-    </message>
-    <message>
-        <source>Text To Diagram</source>
-        <translation>Text zu Diagramm</translation>
-    </message>
-    <message>
-        <source>Delete Segment</source>
-        <translation>Segment löschen</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Screen</source>
-        <translation>Bildschirm</translation>
-    </message>
-    <message>
-        <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
-    </message>
-    <message>
-        <source>Last Viewed</source>
-        <translation>Zuletzt angesehen</translation>
-    </message>
-    <message>
-        <source>All Slides</source>
-        <translation>Alle Folien</translation>
-    </message>
-    <message>
-        <source>Symbol</source>
-        <translation>Symbol</translation>
-    </message>
-    <message>
-        <source>Secondary Major Vertical</source>
-        <translation>Sekundäres Hauptgitter vertikal</translation>
-    </message>
-    <message>
-        <source>Rotate Left 90°</source>
-        <translation>Linksdrehung 90 Grad</translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation>Aktivierungscode eingeben</translation>
-    </message>
-    <message>
-        <source>Insert Row Above</source>
-        <translation>Zeile oberhalb einfügen</translation>
-    </message>
-    <message>
-        <source>Draw Shapes</source>
-        <translation>Formen zeichnen</translation>
-    </message>
-    <message>
-        <source>New Window</source>
-        <translation>Neues 
-Fenster</translation>
-    </message>
-    <message>
-        <source>Free Rotate</source>
-        <translation>Freies Drehen</translation>
-    </message>
-    <message>
-        <source>Insert Row Below</source>
-        <translation>Zeile unterhalb einfügen</translation>
-    </message>
-    <message>
-        <source>Package into Folder</source>
-        <translation>In Ordner verpacken</translation>
-    </message>
-    <message>
-        <source>RightToLeft Layout</source>
-        <translation>Layout von rechts nach links</translation>
-    </message>
-    <message>
-        <source>Format Plot Area</source>
-        <translation>Plot-Bereich formatieren</translation>
-    </message>
-    <message>
-        <source>Typography</source>
-        <translation>Typografie</translation>
-    </message>
-    <message>
-        <source>Rename Section</source>
-        <translation>Abschnitt umbenennen</translation>
-    </message>
-    <message>
-        <source>From File</source>
-        <translation>Aus Datei</translation>
-    </message>
-    <message>
-        <source>Remove Section</source>
-        <translation>Abschnitt entfernen</translation>
-    </message>
-    <message>
-        <source>Reset Slide</source>
-        <translation>Folie zurücksetzen</translation>
-    </message>
-    <message>
-        <source>Split Cells</source>
-        <translation>Zellen teilen</translation>
-    </message>
-    <message>
-        <source>Chart Title</source>
-        <translation>Diagrammtitel</translation>
-    </message>
-    <message>
-        <source>First Slide</source>
-        <translation>Erste Folie</translation>
-    </message>
-    <message>
-        <source>Smart Align</source>
-        <translation>Intelligente Ausrichtung</translation>
-    </message>
-    <message>
-        <source>Pointer Options</source>
-        <translation>Zeigeroptionen</translation>
-    </message>
-    <message>
-        <source>Modify Movie Object</source>
-        <translation>Medien ändern</translation>
-    </message>
-    <message>
-        <source>Exit Edit Point</source>
-        <translation>Punktbearbeitung beenden</translation>
-    </message>
-    <message>
-        <source>Error Bars</source>
-        <translation>Fehlerindikatoren</translation>
-    </message>
-    <message>
-        <source>Font Color</source>
-        <translation>Schriftfarbe</translation>
-    </message>
-    <message>
-        <source>Top</source>
-        <comment>OMath</comment>
-        <translation>Oben</translation>
-    </message>
-    <message>
-        <source>Add Point</source>
-        <translation>Punkt hinzufügen</translation>
-    </message>
-    <message>
-        <source>Set Proxy</source>
-        <translation>Proxy festlegen</translation>
-    </message>
-    <message>
-        <source>Last Slide</source>
-        <translation>Letzte Folie</translation>
-    </message>
-    <message>
-        <source>Reset To Fit Style</source>
-        <translation>Zum Anpassen des Stils zurücksetzen</translation>
-    </message>
-    <message>
-        <source>Bottom</source>
-        <comment>OMath</comment>
-        <translation>Unten</translation>
-    </message>
-    <message>
-        <source>Shape Fill</source>
-        <translation>Fülleffekt</translation>
-    </message>
-    <message>
-        <source>Shape Line</source>
-        <translation>Formlinie</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation>Optionen</translation>
-    </message>
-    <message>
-        <source>Open Backup Directory</source>
-        <translation>Sicherungsverzeichnis öffnen</translation>
-    </message>
-    <message>
-        <source>Change Link Source</source>
-        <translation>Verknüpfungsquelle ändern</translation>
-    </message>
-    <message>
-        <source>Delete Columns</source>
-        <translation>Spalten löschen</translation>
-    </message>
-    <message>
-        <source>WPS Office Homepage</source>
-        <translation>WPS Office-HomePage</translation>
-    </message>
-    <message>
-        <source>Move Section Up</source>
-        <translation>Abschnitt nach oben verschieben</translation>
-    </message>
-    <message>
-        <source>SpotLight</source>
-        <translation>Spotlight</translation>
-    </message>
-    <message>
-        <source>Close All</source>
-        <translation>Alle Schließen</translation>
-    </message>
-    <message>
-        <source>Insert Argument Before</source>
-        <translation>Argument davor einfügen</translation>
-    </message>
-    <message>
-        <source>Remove Bar</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hyperlink</source>
-        <translation>Hyperlink</translation>
-    </message>
-    <message>
-        <source>Support WPS</source>
-        <translation>WPS unterstützen</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Eigenschaften</translation>
-    </message>
-    <message>
-        <source>Insert Columns to the Left</source>
-        <translation>Spalten auf der linken Seite einfügen</translation>
-    </message>
-    <message>
-        <source>Insert assist</source>
-        <translation>Assistent einfügen</translation>
-    </message>
-    <message>
-        <source>WPS Microblog</source>
-        <translation>WPS Microblog</translation>
-    </message>
-    <message>
-        <source>Bullets And Numbering</source>
-        <translation>Aufzählungszeichen und Nummerierung</translation>
-    </message>
-    <message>
-        <source>Bullets and Numbering</source>
-        <translation>Aufzählungszeichen und Nummerierung</translation>
-    </message>
-    <message>
-        <source>Change Series Chart Type</source>
-        <translation>Datenreihen-Diagrammtyp ändern</translation>
-    </message>
-    <message>
-        <source>Align Middle and Center</source>
-        <translation>Mitte zentriert ausrichten</translation>
-    </message>
-    <message>
-        <source>Bring Forward</source>
-        <translation>Eine Ebene nach vorne</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>Bild</translation>
-    </message>
-    <message>
-        <source>My Picture</source>
-        <translation>Mein Bild</translation>
-    </message>
-    <message>
-        <source>Format Data Series</source>
-        <translation>Datenreihen formatieren</translation>
-    </message>
-    <message>
-        <source>Table Style</source>
-        <translation>Tabellenstil</translation>
-    </message>
-    <message>
-        <source>Manual Backup</source>
-        <translation>Manuelle Sicherung</translation>
-    </message>
-    <message>
-        <source>Shape Style</source>
-        <translation>Formenart</translation>
-    </message>
-    <message>
-        <source>Above Chart</source>
-        <translation>Über Diagramm</translation>
-    </message>
-    <message>
-        <source>4.5 pt.</source>
-        <translation>4,5 Pt</translation>
-    </message>
-    <message>
-        <source>Merge Cells</source>
-        <translation>Zellen zusammenführen</translation>
-    </message>
-    <message>
-        <source>Insert shape on below</source>
-        <translation>Form einfügen unter</translation>
-    </message>
-    <message>
-        <source>Insert shape in after</source>
-        <translation>Form einfügen nach</translation>
-    </message>
-    <message>
-        <source>Insert shape on above</source>
-        <translation>Form einfügen über</translation>
-    </message>
-    <message>
-        <source>Duplicate</source>
-        <translation>Duplizieren</translation>
-    </message>
-    <message>
-        <source>WPS Office Facebook</source>
-        <translation>WPS Office Facebook</translation>
-    </message>
-    <message>
-        <source>Show/Hide Crop Panel</source>
-        <translation>Zuschneidebereich ein-/ausblenden</translation>
-    </message>
-    <message>
-        <source>Line Break</source>
-        <translation>Zeilenumbruch</translation>
-    </message>
-    <message>
-        <source>Insert Smart Diagram</source>
-        <translation>Smart-Diagramm einfügen</translation>
-    </message>
-    <message>
-        <source>More Lines</source>
-        <translation>Weitere Linien</translation>
-    </message>
-    <message>
-        <source>Move Shape</source>
-        <translation>Form verschieben</translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation>Dateifreigabe</translation>
-    </message>
-    <message>
-        <source>Hide Slide</source>
-        <translation>Folie ausblenden</translation>
-    </message>
-    <message>
-        <source>Line Style</source>
-        <translation>Linienart</translation>
-    </message>
-    <message>
-        <source>Insert Argument After</source>
-        <translation>Argument dahinter einfügen</translation>
-    </message>
-    <message>
-        <source>Remove All Sections</source>
-        <translation>Alle Abschnitte entfernen</translation>
-    </message>
-    <message>
-        <source>Backward</source>
-        <translation>Rückwärts</translation>
-    </message>
-    <message>
-        <source>Add-Ins</source>
-        <translation>Add-Ins</translation>
-    </message>
-    <message>
-        <source>Background Music</source>
-        <translation>Hintergrundmusik</translation>
-    </message>
-    <message>
-        <source>Action Settings</source>
-        <translation>Aktionseinstellungen</translation>
-    </message>
-    <message>
-        <source>Web Preview</source>
-        <translation>Link erstellen und freigeben</translation>
-    </message>
-    <message>
-        <source>Duplicate Layout</source>
-        <translation>Layout duplizieren</translation>
-    </message>
-    <message>
-        <source>Equal Size</source>
-        <translation>Gleiche Größe</translation>
-    </message>
-    <message>
-        <source>Format Axis</source>
-        <translation>Achse formatieren</translation>
-    </message>
-    <message>
-        <source>Ball Pen</source>
-        <translation>Kugelschreiber</translation>
-    </message>
-    <message>
-        <source>Linear</source>
-        <comment>OMath</comment>
-        <translation>Linear</translation>
-    </message>
-    <message>
-        <source>Expand All</source>
-        <translation>Alle erweitern</translation>
-    </message>
-    <message>
-        <source>Clear WordArt</source>
-        <translation>WordArt löschen</translation>
-    </message>
-    <message>
-        <source>Bring to Front</source>
-        <translation>In den Vordergrund</translation>
-    </message>
-    <message>
-        <source>Open from Cloud Docs</source>
-        <translation>Aus Cloud Docs öffnen</translation>
-    </message>
-    <message>
-        <source>Show / Hide Ink Markup</source>
-        <translation>Freihandmarkierungen ein-/ausblenden</translation>
-    </message>
-    <message>
-        <source>Change Picture</source>
-        <translation>Bild ändern</translation>
-    </message>
-    <message>
-        <source>Paragraph</source>
-        <translation>Absatz</translation>
-    </message>
-    <message>
-        <source>Square Dot</source>
-        <translation>Viereckiger Punkt</translation>
-    </message>
-    <message>
-        <source>Insert Columns Right</source>
-        <translation>Spalten rechts einfügen</translation>
-    </message>
-    <message>
-        <source>Dash Dot</source>
-        <translation>Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Show More Windows</source>
-        <translation>Mehr Fenster anzeigen</translation>
-    </message>
-    <message>
-        <source>LaserPen</source>
-        <translation>Laserstift</translation>
-    </message>
-    <message>
-        <source>Master Layout</source>
-        <translation>Masterlayout</translation>
-    </message>
-    <message>
-        <source>Distributed</source>
-        <translation>Verteilt</translation>
-    </message>
-    <message>
-        <source>Play Back</source>
-        <translation>Wiedergabe</translation>
-    </message>
-    <message>
-        <source>Equation</source>
-        <translation>Gleichung</translation>
-    </message>
-    <message>
-        <source>Save All</source>
-        <translation>Alle speichern</translation>
-    </message>
-    <message>
-        <source>BestFit</source>
-        <translation>Anpassen</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation>Vorherige</translation>
-    </message>
-    <message>
-        <source>Header and Footer</source>
-        <translation>Kopf- und Fußzeile</translation>
-    </message>
-    <message>
-        <source>Check Users Permissions</source>
-        <translation>Benutzerberechtigungen überprüfen</translation>
-    </message>
-    <message>
-        <source>Increase Font Size</source>
-        <translation>Schriftgrad vergrößern</translation>
-    </message>
-    <message>
-        <source>Product Management Center</source>
-        <translation>Produktmanagement-Center</translation>
-    </message>
-    <message>
-        <source>Primary Major Vertical</source>
-        <translation>Primäres Hauptgitter vertikal</translation>
-    </message>
-    <message>
-        <source>Movie from File</source>
-        <translation>Film aus Datei</translation>
-    </message>
-    <message>
-        <source>Erase All Inks on Slide</source>
-        <translation>Alle Ink-Notizen auf der Folie löschen</translation>
-    </message>
-    <message>
-        <source>Arrow Style</source>
-        <translation>Pfeilart</translation>
-    </message>
-    <message>
-        <source>Restrict Permission by People</source>
-        <translation>Berechtigung nach Personen einschränken</translation>
-    </message>
-    <message>
-        <source>InsertNewChart</source>
-        <translation>Diagramm</translation>
-    </message>
-    <message>
-        <source>Slide Show List</source>
-        <translation>Präsentationsliste</translation>
-    </message>
-    <message>
-        <source>WPS Office New features</source>
-        <translation>WPS Office-Neue Funktionen</translation>
-    </message>
-    <message>
-        <source>Use Destination Theme</source>
-        <translation>Zieldesign verwenden</translation>
-    </message>
-    <message>
-        <source>Decrease Font Size</source>
-        <translation>Schriftgrad verkleinern</translation>
-    </message>
-    <message>
-        <source>New Slide</source>
-        <translation>Neue Folie</translation>
-    </message>
-    <message>
-        <source>Close Path</source>
-        <translation>Pfad schließen</translation>
-    </message>
-    <message>
-        <source>Cascade</source>
-        <translation>Überlappend</translation>
-    </message>
-    <message>
-        <source>Preserve Master</source>
-        <translation>Master beibehalten</translation>
-    </message>
-    <message>
-        <source>Movies and Sounds</source>
-        <translation>Filme und Sounds</translation>
-    </message>
-    <message>
-        <source>Sound from File</source>
-        <translation>Sound aus Datei</translation>
-    </message>
-    <message>
-        <source>Percentage</source>
-        <translation>Prozent</translation>
-    </message>
-    <message>
-        <source>Up/Down Bars</source>
-        <translation>Pos./Neg. Abweichungsbalken</translation>
-    </message>
-    <message>
-        <source>Format Trendline</source>
-        <translation>Trendlinien formatieren</translation>
-    </message>
-    <message>
-        <source>Involved
-Template</source>
-        <translation>Text-Vorlagen</translation>
-    </message>
-    <message>
-        <source>Format DataLabel</source>
-        <translation>Datenbeschriftung formatieren</translation>
-    </message>
-    <message>
-        <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Curved Connector</source>
-        <translation>Gekrümmter Konnektor</translation>
-    </message>
-    <message>
-        <source>View Permissions</source>
-        <translation>Berechtigungen anzeigen</translation>
-    </message>
-    <message>
-        <source>Add Section</source>
-        <translation>Abschnitt hinzufügen</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Anmelden</translation>
-    </message>
-    <message>
-        <source>Relative to Slide</source>
-        <translation>Relativ zur Folie</translation>
-    </message>
-    <message>
-        <source>New Comment</source>
-        <translation>Neuer 
-Kommentar</translation>
-    </message>
-    <message>
-        <source>Delete Argument</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Inside Base</source>
-        <translation>Basis innerhalb</translation>
-    </message>
-    <message>
-        <source>Manage Credentials</source>
-        <translation>Anmeldeinformationen verwalten</translation>
-    </message>
-    <message>
-        <source>Update Link</source>
-        <translation>Link aktualisieren</translation>
-    </message>
-    <message>
-        <source>Format Object</source>
-        <translation>Objekt formatieren</translation>
-    </message>
-    <message>
-        <source>Object Menu</source>
-        <translation>Objektmenü</translation>
-    </message>
-    <message>
-        <source>Distribute Vertically</source>
-        <translation>Vertikal verteilen</translation>
-    </message>
-    <message>
-        <source>Select Data</source>
-        <translation>Daten auswählen</translation>
-    </message>
-    <message>
-        <source>Distribute Horizontally</source>
-        <translation>Horizontal verteilen</translation>
-    </message>
-    <message>
-        <source>Delete Rows</source>
-        <translation>Zeilen löschen</translation>
-    </message>
-    <message>
-        <source>Format Legend</source>
-        <translation>Legende formatieren</translation>
-    </message>
-    <message>
-        <source>Snapper</source>
-        <translation>Pipette</translation>
-    </message>
-    <message>
-        <source>Dash Style</source>
-        <translation>Strichart</translation>
-    </message>
-    <message>
-        <source>Comment</source>
-        <translation>Kommentar</translation>
-    </message>
-    <message>
-        <source>Add Axis</source>
-        <translation>Achse hinzufügen</translation>
-    </message>
-    <message>
-        <source>Reconvert</source>
-        <translation>Erneut konvertieren</translation>
-    </message>
-    <message>
-        <source>Add Text</source>
-        <translation>Text hinzufügen</translation>
-    </message>
-    <message>
-        <source>Slide Show</source>
-        <translation>Bildschirmpräsentation</translation>
-    </message>
-    <message>
-        <source>Delete Equation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Format Drop Lines</source>
-        <translation>Bezugslinien formatieren</translation>
-    </message>
-    <message>
-        <source>Standard</source>
-        <translation>Standard</translation>
-    </message>
-    <message>
-        <source>WPS Office Community</source>
-        <translation>WPS Office-Community</translation>
-    </message>
-    <message>
-        <source>Save as Picture</source>
-        <translation>Speichern als Bild</translation>
-    </message>
-    <message>
-        <source>Scribble</source>
-        <translation>Skizze</translation>
-    </message>
-    <message>
-        <source>Rectangle</source>
-        <translation>Rechteck</translation>
-    </message>
-    <message>
-        <source>Format Up Bars</source>
-        <translation>Positive Abweichungen formatieren</translation>
-    </message>
-    <message>
-        <source>Center Tab</source>
-        <translation>Tabstopp zentriert</translation>
-    </message>
-    <message>
-        <source>LaserPen and SpotLight</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Underline</source>
-        <translation>Unterstrichen</translation>
-    </message>
-    <message>
-        <source>Format Category Label</source>
-        <translation>Rubrikenbeschriftungen formatieren</translation>
-    </message>
-    <message>
-        <source>Slide(From Outline)</source>
-        <translation>Folie (Import von Outline) </translation>
-    </message>
-    <message>
-        <source>More DesignTemplates</source>
-        <translation>Weitere Designs</translation>
-    </message>
-    <message>
-        <source>Add MinorGridline</source>
-        <translation>Hilfsgitternetz hinzufügen</translation>
-    </message>
-    <message>
-        <source>View Historical Backup</source>
-        <translation>Frühere Sicherung anzeigen</translation>
-    </message>
-    <message>
-        <source>AutoPoint</source>
-        <translation>AutoPoint</translation>
-    </message>
-    <message>
-        <source>Save Background Picture</source>
-        <translation>Hintergrundbild speichern</translation>
-    </message>
-    <message>
-        <source>Play Movie</source>
-        <translation>Film wiedergeben</translation>
-    </message>
-    <message>
-        <source>By Title</source>
-        <translation>Nach Titel</translation>
-    </message>
-    <message>
-        <source>Play Sound</source>
-        <translation>Sound wiedergeben</translation>
-    </message>
-    <message>
-        <source>Automatic</source>
-        <translation>Automatisch</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>In OFD exportieren</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>Als PDF exportieren</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <comment>OMathMatOrEqArr</comment>
-        <translation>Zentriert</translation>
-    </message>
-    <message>
-        <source>AddChartElements</source>
-        <translation>Diagrammelement hinzufügen</translation>
-    </message>
-    <message>
-        <source>Format Data Table</source>
-        <translation>Datentabelle formatieren</translation>
-    </message>
-    <message>
-        <source>Format Data Point</source>
-        <translation>Datenpunkte formatieren</translation>
-    </message>
-    <message>
-        <source>Hyperlink Color</source>
-        <translation>Hyperlink-Farbe</translation>
-    </message>
-    <message>
-        <source>Grid and Guides</source>
-        <translation>Raster und 
-Führungslinien</translation>
-    </message>
-    <message>
-        <source>Eyedropper</source>
-        <translation>Formatpipette</translation>
-    </message>
-    <message>
-        <source>Design Templates</source>
-        <translation>Entwurfsvorlagen</translation>
-    </message>
-    <message>
-        <source>Recharge</source>
-        <translation>Aufladen</translation>
-    </message>
-    <message>
-        <source>Primary Minor Horizontal</source>
-        <translation>Primäres Hilfsgitter horizontal</translation>
-    </message>
-    <message>
-        <source>Primary Major Horizontal</source>
-        <translation>Primäres Hauptgitter horizontal</translation>
-    </message>
-    <message>
-        <source>Security</source>
-        <translation>Sicherheit</translation>
-    </message>
-    <message>
-        <source>Add MajorGridline</source>
-        <translation>Hauptgitternetz hinzufügen</translation>
-    </message>
-    <message>
-        <source>Backup Management</source>
-        <translation>Sicherungsverwaltung</translation>
-    </message>
-    <message>
-        <source>Watercolor Pen</source>
-        <translation>Wasserfarbenstift</translation>
-    </message>
-    <message>
-        <source>Left Tab</source>
-        <translation>Tabstopp links</translation>
-    </message>
-    <message>
-        <source>Secondary Minor Vertial</source>
-        <translation>Sekundäres Hilfsgitter vertikal</translation>
-    </message>
-    <message>
-        <source>Save to Cloud Docs</source>
-        <translation>In Cloud Docs speichern</translation>
-    </message>
-    <message>
-        <source>Erase Markups on Slide</source>
-        <translation>Alle Markups auf der Folie löschen</translation>
-    </message>
-    <message>
-        <source>Package into Compressed File</source>
-        <translation>In komprimierte Datei verpacken</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot</source>
-        <translation>Langer Strich-Punkt</translation>
-    </message>
-    <message>
-        <source>Centered Overlay</source>
-        <translation>Zentrierte Überlagerung</translation>
-    </message>
-    <message>
-        <source>Open Path</source>
-        <translation>Pfad öffnen</translation>
-    </message>
-    <message>
-        <source>Format Legend Entry</source>
-        <translation>Legendeneintrag formatieren</translation>
-    </message>
-    <message>
-        <source>Slides List</source>
-        <translation>Folienliste</translation>
-    </message>
-    <message>
-        <source>Exit Rotate Mode</source>
-        <translation>Rotationsmodus beenden</translation>
-    </message>
-    <message>
-        <source>Format Gridlines</source>
-        <translation>Gitternetz formatieren</translation>
-    </message>
-    <message>
-        <source>0 More Histories</source>
-        <translation>Weitere Ereignisse</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <comment>OMath</comment>
-        <translation>Zentriert</translation>
-    </message>
-    <message>
-        <source>Round Dot</source>
-        <translation>Runder Punkt</translation>
-    </message>
-    <message>
-        <source>SendByQQ</source>
-        <translation>Per QQ senden</translation>
-    </message>
-    <message>
-        <source>TrendLine</source>
-        <translation>Trendlinien</translation>
-    </message>
-    <message>
-        <source>Encrypt</source>
-        <translation>Verschlüsseln</translation>
-    </message>
-    <message>
-        <source>Chart Elements</source>
-        <translation>Diagrammelemente</translation>
-    </message>
-    <message>
-        <source>Ungroup</source>
-        <translation>Gruppierung aufheben</translation>
-    </message>
-    <message>
-        <source>Notes Page</source>
-        <translation>Notizenseite</translation>
-    </message>
-    <message>
-        <source>WPS BBS</source>
-        <translation>WPS Office BBS</translation>
-    </message>
-    <message>
-        <source>Convert Markup to Object</source>
-        <translation>Markup in Objekt umwandeln</translation>
-    </message>
-    <message>
-        <source>Centered</source>
-        <translation>Zentriert</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>Bildschirmabbild</translation>
-    </message>
-    <message>
-        <source>Control Menu List</source>
-        <translation>Steuerungs-Menü-Liste</translation>
-    </message>
-    <message>
-        <source>Insert Rows Above</source>
-        <translation>Zeilen oberhalb einfügen</translation>
-    </message>
-    <message>
-        <source>Change Shapes</source>
-        <translation>Form ändern</translation>
-    </message>
-    <message>
-        <source>Chart Objects</source>
-        <translation>Diagrammobjekte</translation>
-    </message>
-    <message>
-        <source>Set Up Show</source>
-        <translation>Bildschirmpräsentation einrichten</translation>
-    </message>
-    <message>
-        <source>Insert Rows Below</source>
-        <translation>Zeilen unterhalb einfügen</translation>
-    </message>
-    <message>
-        <source>More Option...</source>
-        <translation>Weitere Optionen...</translation>
-    </message>
-    <message>
-        <source>Reverse Path Direction</source>
-        <translation>Pfadrichtung umkehren</translation>
-    </message>
-    <message>
-        <source>View Code</source>
-        <translation>Code anzeigen</translation>
-    </message>
-    <message>
-        <source>Save selected picture as</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Vertikal</translation>
-    </message>
-    <message>
-        <source>New Slide
-Master</source>
-        <translation>Neuer Folienmaster</translation>
-    </message>
-    <message>
-        <source>Delete Row</source>
-        <translation>Zeile löschen</translation>
-    </message>
-    <message>
-        <source>Custom Slide Shows</source>
-        <translation>Benutzerdefinierte 
-Bildschirmpräsentationen</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Online-Bilder</translation>
-    </message>
-    <message>
-        <source>About WPS Presentation</source>
-        <translation>Über WPS Presentation</translation>
-    </message>
-    <message>
-        <source>NewFromDuplicate</source>
-        <translation>Neu aus Duplikat</translation>
-    </message>
-    <message>
-        <source>Standard Error</source>
-        <translation>Standardfehler</translation>
-    </message>
-    <message>
-        <source>Insert Clip Art</source>
-        <translation>ClipArt einfügen</translation>
-    </message>
-    <message>
-        <source>Convert...</source>
-        <translation>Konvertieren...</translation>
-    </message>
-    <message>
-        <source>Remove Section And Slides</source>
-        <translation>Abschnitt und Folien entfernen</translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <translation>Eingeschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>Paste Special</source>
-        <translation>Inhalte einfügen</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Automatischen Sicherung</translation>
-    </message>
-    <message>
-        <source>Format ErrorBars</source>
-        <translation>Fehlerindikatoren formatieren</translation>
-    </message>
-    <message>
-        <source>Text Box</source>
-        <translation>Textfeld</translation>
-    </message>
-    <message>
-        <source>Replace Font</source>
-        <translation>Schrift ersetzen</translation>
-    </message>
-    <message>
-        <source>Invisible</source>
-        <translation>Unsichtbar</translation>
-    </message>
-    <message>
-        <source>Visible</source>
-        <translation>Sichtbar</translation>
-    </message>
-    <message>
-        <source>Format MajorGridline</source>
-        <translation>Hauptgitternetz formatieren</translation>
-    </message>
-    <message>
-        <source>Straight Connector</source>
-        <translation>Gerade Verbindung</translation>
-    </message>
-    <message>
-        <source>Two Period Moving Average</source>
-        <translation>Gleitender Durchschnitt für zwei Zeiträume</translation>
-    </message>
-    <message>
-        <source>Show Lower Limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show Upper Limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Save as Template</source>
-        <translation>Als Vorlage speichern</translation>
-    </message>
-    <message>
-        <source>Insert Columns to the Right</source>
-        <translation>Spalten auf der rechten Seite einfügen</translation>
-    </message>
-    <message>
-        <source>Personal Center</source>
-        <translation>Persönliches Center</translation>
-    </message>
-    <message>
-        <source>Ink Color</source>
-        <translation>Tintenfarbe</translation>
-    </message>
-    <message>
-        <source>Keep Picture Only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Left Hang</source>
-        <translation>Links hängender Einzug</translation>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation>Vorwärts</translation>
-    </message>
-    <message>
-        <source>WPS Office Product Center</source>
-        <translation>WPS Office-Produktcenter</translation>
-    </message>
-    <message>
-        <source>Handout Master</source>
-        <translation>Handzettelmaster</translation>
-    </message>
-    <message>
-        <source>Format Axis Title</source>
-        <translation>Achsentitel formatieren</translation>
-    </message>
-    <message>
-        <source>Format MinorGridline</source>
-        <translation>Hilfsgitternetz formatieren</translation>
-    </message>
-    <message>
-        <source>Keep Source Formattin</source>
-        <translation>Ursprüngliche Formatierung beibehalten</translation>
-    </message>
-    <message>
-        <source>Delete Current Comment</source>
-        <translation>Kommentar löschen</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <comment>OMath</comment>
-        <translation>Links</translation>
-    </message>
-    <message>
-        <source>View File Safe</source>
-        <translation>Datei sicher anzeigen</translation>
-    </message>
-    <message>
-        <source>Webshape Min</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Webshape Max</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Format Series Lines</source>
-        <translation>Reihenlinien formatieren</translation>
-    </message>
-    <message>
-        <source>Edit Hyperlink</source>
-        <translation>Hyperlink bearbeiten</translation>
-    </message>
-    <message>
-        <source>Straight Point</source>
-        <translation>Punkt glätten</translation>
-    </message>
-    <message>
-        <source>Align Bottom</source>
-        <comment>Font Alignment</comment>
-        <translation>Unten ausrichten</translation>
-    </message>
-    <message>
-        <source>Primary Horizontal</source>
-        <translation>Primär horizontal</translation>
-    </message>
-    <message>
-        <source>Check Mine Permission</source>
-        <translation>Meine Berechtigungen überprüfen</translation>
-    </message>
-    <message>
-        <source>Data Callout</source>
-        <translation>Datenlegende</translation>
-    </message>
-    <message>
-        <source>Rename Layout</source>
-        <translation>Layout umbenennen</translation>
-    </message>
-    <message>
-        <source>Add Trendline</source>
-        <translation>Trendlinie hinzufügen</translation>
-    </message>
-    <message>
-        <source>Highlight</source>
-        <translation>Hervorheben</translation>
-    </message>
-    <message>
-        <source>Unformatted Text</source>
-        <translation>Unformatierter Text</translation>
-    </message>
-    <message>
-        <source>Right Tab</source>
-        <translation>Tabstopp rechts</translation>
-    </message>
-    <message>
-        <source>Formatted Text</source>
-        <translation>Formatierter Text</translation>
-    </message>
-    <message>
-        <source>Rename Master</source>
-        <translation>Master umbenennen</translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
-        <translation>Gemusterte Linien</translation>
-    </message>
-    <message>
-        <source>Align Font</source>
-        <translation>Schrift ausrichten</translation>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Add DataLabel</source>
-        <translation>Datenbeschriftung hinzufügen</translation>
-    </message>
-    <message>
-        <source>Format Leader Lines</source>
-        <translation>Führungslinien formatieren</translation>
-    </message>
-    <message>
-        <source>Equal Width</source>
-        <translation>Gleiche Breite</translation>
-    </message>
-    <message>
-        <source>Elbow Connector</source>
-        <translation>Gewinkelter Konnektor</translation>
-    </message>
-    <message>
-        <source>With Legend Keys</source>
-        <translation>Mit Legendensymbolen</translation>
-    </message>
-    <message>
-        <source>AlignRight</source>
-        <translation>Rechtsbündig</translation>
-    </message>
-    <message>
-        <source>Speaker Notes</source>
-        <translation>Sprechernotizen</translation>
-    </message>
-    <message>
-        <source>Straight Segment</source>
-        <translation>Gerader Abschnitt</translation>
-    </message>
-    <message>
-        <source>Magnifier</source>
-        <translation>Bildschirmlupe</translation>
-    </message>
-    <message>
-        <source>Send Backward</source>
-        <translation>Eine Ebene nach hinten</translation>
-    </message>
-    <message>
-        <source>Delete Column</source>
-        <translation>Spalte löschen</translation>
-    </message>
-    <message>
-        <source>Extract Text in Picture</source>
-        <translation>Text aus Bild extrahieren</translation>
-    </message>
-    <message>
-        <source>Transfer to WPS Writer Document</source>
-        <translation>Übertragen zu WPS Writer-Dokument</translation>
-    </message>
-    <message>
-        <source>Hanging</source>
-        <translation>Hängend</translation>
-    </message>
-    <message>
-        <source>Decrease Indent</source>
-        <translation>Einzug verkleinern</translation>
-    </message>
-    <message>
-        <source>Increase Indent</source>
-        <translation>Einzug vergrößern</translation>
-    </message>
-    <message>
-        <source>Format TrendLine Label</source>
-        <translation>Trendlinienbeschriftung formatieren</translation>
-    </message>
-    <message>
-        <source>Buy Subscription</source>
-        <translation>Abonnement kaufen</translation>
-    </message>
-    <message>
-        <source>My Subscription</source>
-        <translation>Meine Abonnements</translation>
-    </message>
-    <message>
-        <source>Object Menu List</source>
-        <translation>Menüliste Objekt</translation>
-    </message>
-    <message>
-        <source>Arrow Options</source>
-        <translation>Pfeiloptionen</translation>
-    </message>
-    <message>
-        <source>Pause Background Music</source>
-        <translation>Hintergrundmusik anhalten</translation>
-    </message>
-    <message>
-        <source>Date and Time</source>
-        <translation>Datum und Uhrzeit</translation>
-    </message>
-    <message>
-        <source>Edit Comment</source>
-        <translation>Kommentar 
-bearbeiten</translation>
-    </message>
-    <message>
-        <source>Copy Comment</source>
-        <translation>Kommentar kopieren</translation>
-    </message>
-    <message>
-        <source>Primary Minor Vertial</source>
-        <translation>Primäres Hilfsgitter vertikal</translation>
-    </message>
-    <message>
-        <source>Primary Vertical</source>
-        <translation>Primär vertikal</translation>
-    </message>
-    <message>
-        <source>Export to Package</source>
-        <translation>In Paket exportieren</translation>
-    </message>
-    <message>
-        <source>Trim Movie</source>
-        <translation>Film kürzen</translation>
-    </message>
-    <message>
-        <source>Line Spacing</source>
-        <translation>Zeilenabstand</translation>
-    </message>
-    <message>
-        <source>Trim Sound</source>
-        <translation>Sound kürzen</translation>
-    </message>
-    <message>
-        <source>Delete Series</source>
-        <translation>Reihen löschen</translation>
-    </message>
-    <message>
-        <source>Right Hang</source>
-        <translation>Rechts hängender Einzug</translation>
-    </message>
-    <message>
-        <source>Exit Edit Text</source>
-        <translation>Textbearbeitung beenden</translation>
-    </message>
-    <message>
-        <source>Format Down Bars</source>
-        <translation>Negative Abweichungen formatieren</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <comment>OMath</comment>
-        <translation>Rechts</translation>
-    </message>
-    <message>
-        <source>Delete Object</source>
-        <translation>Objekt löschen</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
-    </message>
-    <message>
-        <source>Inside End</source>
-        <translation>Ende innerhalb</translation>
-    </message>
-    <message>
-        <source>Format High-Low Lines</source>
-        <translation>Spannweitenlinien formatieren</translation>
-    </message>
-    <message>
-        <source>Gridlines</source>
-        <translation>Gitternetzlinien</translation>
-    </message>
-    <message>
-        <source>Make Forward Doc</source>
-        <translation>Dokument weiterleiten</translation>
-    </message>
-    <message>
-        <source>Align Top</source>
-        <translation>Oben ausrichten</translation>
-    </message>
-    <message>
-        <source>Sign Out</source>
-        <translation>Abmelden</translation>
-    </message>
-    <message>
-        <source>AlignLeft</source>
-        <translation>Linksbündig</translation>
-    </message>
-    <message>
-        <source>Professional</source>
-        <translation>Professionell</translation>
-    </message>
-    <message>
-        <source>Delete Layout</source>
-        <translation>Layout löschen</translation>
-    </message>
-    <message>
-        <source>Slide Transition</source>
-        <translation>Folienübergang</translation>
-    </message>
-    <message>
-        <source>Outside End</source>
-        <translation>Ende außerhalb</translation>
-    </message>
-    <message>
-        <source>Smooth Point</source>
-        <translation>Übergangspunkt</translation>
-    </message>
-    <message>
-        <source>Delete Master</source>
-        <translation>Master löschen</translation>
-    </message>
-    <message>
-        <source>Flash</source>
-        <translation>Flash</translation>
-    </message>
-    <message>
-        <source>Online Video</source>
-        <translation>Online-Video</translation>
-    </message>
-    <message>
-        <source>Enter the access code</source>
-        <translation>Zugriffscode eingeben</translation>
-    </message>
-    <message>
-        <source>Share Play</source>
-        <translation>Wiedergabe teilen</translation>
-    </message>
-    <message>
-        <source>Grouping</source>
-        <translation>Gruppierung</translation>
-    </message>
-</context>
-<context>
     <name>wppcommon.mainwindow.commands</name>
     <message>
         <source>Cut</source>
@@ -14272,6 +14652,10 @@ bearbeiten</translation>
         <translation>Animation</translation>
     </message>
     <message>
+        <source>StrikeThrough</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Arrow</source>
         <translation>Pfeil</translation>
     </message>
@@ -14332,6 +14716,14 @@ bearbeiten</translation>
         <translation>Einstellung der Tastenkombination</translation>
     </message>
     <message>
+        <source>JdeControl Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>NewChart Legend</source>
         <translation>Legende</translation>
     </message>
@@ -14359,10 +14751,6 @@ bearbeiten</translation>
     <message>
         <source>NewChart TrendLine Label</source>
         <translation>Trendlinienbeschriftung</translation>
-    </message>
-    <message>
-        <source>Document Fix</source>
-        <translation>Dateien reparieren</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
@@ -14409,6 +14797,10 @@ bearbeiten</translation>
         <translation>Bild in Text</translation>
     </message>
     <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Justify</source>
         <translation>Blocksatz</translation>
     </message>
@@ -14440,6 +14832,10 @@ Slide</source>
     <message>
         <source>WPS Presentation Template</source>
         <translation>WPS Presentation-Vorlage (*.dpt)</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Als Bild exportieren</translation>
     </message>
     <message>
         <source>Online Fonts</source>
@@ -14474,6 +14870,10 @@ Slide</source>
         <translation>Schutz ist aktiviert</translation>
     </message>
     <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Inside Vertical Border</source>
         <translation>Innere vertikale Rahmenlinie</translation>
     </message>
@@ -14500,6 +14900,10 @@ Slide</source>
     <message>
         <source>Image Exporting</source>
         <translation>Bildexport</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -14562,6 +14966,10 @@ Slide</source>
         <translation>Formatierung</translation>
     </message>
     <message>
+        <source>Equation Script Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Set Language</source>
         <translation>Sprache festlegen</translation>
     </message>
@@ -14599,8 +15007,16 @@ Slide</source>
         <translation>Farbschemas</translation>
     </message>
     <message>
+        <source>Docer Chart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PDF to Excel</source>
         <translation>PDF nach Excel</translation>
+    </message>
+    <message>
+        <source>Online Icon</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewChart ChartTitle</source>
@@ -14651,6 +15067,10 @@ Slide</source>
         <translation>Sicherungskopie</translation>
     </message>
     <message>
+        <source>Search Help Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Top Border</source>
         <translation>Rahmenlinie oben</translation>
     </message>
@@ -14669,6 +15089,10 @@ Slide</source>
     <message>
         <source>Center</source>
         <translation>Zentrieren</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -14752,6 +15176,10 @@ Animation</translation>
         <translation>Task-Fenster</translation>
     </message>
     <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rename</source>
         <translation>Fortsetzen</translation>
     </message>
@@ -14784,6 +15212,10 @@ Animation</translation>
         <translation>Rahmenlinien &amp;diagonal nach unten</translation>
     </message>
     <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Draw Shapes</source>
         <translation>Figur-zeichnen</translation>
     </message>
@@ -14812,12 +15244,20 @@ Animation</translation>
         <translation>Gitternetzlinien</translation>
     </message>
     <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Switch to previous window</source>
         <translation>Zum vorherigen Fenster wechseln</translation>
     </message>
     <message>
         <source>Motion Path</source>
         <translation>Animationspfad</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -14876,12 +15316,20 @@ Animation</translation>
         <translation>Neue Datei Menü</translation>
     </message>
     <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hyperlink</source>
         <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Properties</source>
         <translation>Eigenschaften</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -14918,6 +15366,10 @@ Animation</translation>
     <message>
         <source>Compress Pictures</source>
         <translation>Bilder komprimieren</translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Animation Effect</source>
@@ -15070,6 +15522,10 @@ einrichten</translation>
         <translation>Alle Rahmenlinien</translation>
     </message>
     <message>
+        <source>Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Decrease Font Size</source>
         <translation>Schriftgrad verkleinern</translation>
     </message>
@@ -15134,6 +15590,10 @@ einrichten</translation>
         <translation>Präsentationsfunktion</translation>
     </message>
     <message>
+        <source>Presentation View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rotate Mode</source>
         <translation>Drehungsmodus</translation>
     </message>
@@ -15162,6 +15622,10 @@ einrichten</translation>
         <translation>Speichern als Bild</translation>
     </message>
     <message>
+        <source>Equation Group Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Change Background Image</source>
         <translation>Hintergrundbild ändern</translation>
     </message>
@@ -15185,6 +15649,10 @@ einrichten</translation>
         <source>From Current
 Slide</source>
         <translation>Aus aktueller Folie</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -15249,10 +15717,6 @@ Slide</source>
     <message>
         <source>Symbol Toolbar</source>
         <translation>Symbolleiste</translation>
-    </message>
-    <message>
-        <source>Interactive PPT on WeChat</source>
-        <translation>Interaktive PPT-Datei in WeChat</translation>
     </message>
     <message>
         <source>MoreEffects</source>
@@ -15363,6 +15827,10 @@ Slide</source>
         <translation>Online-Bilder</translation>
     </message>
     <message>
+        <source>Paste Special</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Backup Center</source>
         <translation>Automatischen Sicherung</translation>
     </message>
@@ -15371,8 +15839,24 @@ Slide</source>
         <translation>Zusammenarbeit</translation>
     </message>
     <message>
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DocumentContentStudio</source>
         <translation>Extrahierung in Stapeln</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New 
@@ -15403,6 +15887,10 @@ Kommentar</translation>
     <message>
         <source>ProcessOnEntry</source>
         <translation>Bei Eintrag verarbeiten</translation>
+    </message>
+    <message>
+        <source>Keep Source Formattin</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Background</source>
@@ -15453,6 +15941,10 @@ Kommentar</translation>
         <translation>Textbearbeitung</translation>
     </message>
     <message>
+        <source>Equation Array Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Recent File List</source>
         <translation>Liste zuletzt verwendeter Dateien</translation>
     </message>
@@ -15485,6 +15977,10 @@ Kommentar</translation>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>Click to turn on/off AutoBackup</source>
+        <translation>Klicken, um automatische Sicherung ein-/auszuschalten</translation>
+    </message>
+    <message>
         <source>MailFeedBack</source>
         <translation>FeedBack per E-Mail</translation>
     </message>
@@ -15503,6 +15999,10 @@ Kommentar</translation>
     <message>
         <source>Increase Indent</source>
         <translation>Einzug vergrößern</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image Preview Float</source>
@@ -15537,20 +16037,24 @@ Kommentar</translation>
         <translation>Folienübergang</translation>
     </message>
     <message>
+        <source>Online Textbox</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Map</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
+        <source>Document Fix</source>
+        <translation>Dateien reparieren</translation>
     </message>
     <message>
         <source>NoteViewVisible DeleteNotes</source>
         <translation>Ansicht „Notiz“, Ansicht löschen</translation>
     </message>
     <message>
-        <source>Click to turn on/off AutoBackup</source>
-        <translation>Klicken, um automatische Sicherung ein-/auszuschalten</translation>
+        <source>Interactive PPT on WeChat</source>
+        <translation>Interaktive PPT-Datei in WeChat</translation>
     </message>
     <message>
         <source>Arrow Options</source>
@@ -16278,8 +16782,16 @@ Ein/Aus</translation>
         <translation>In Ordner verpacken</translation>
     </message>
     <message>
+        <source>WPP Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Optionen</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Properties</source>
@@ -16346,10 +16858,6 @@ Ein/Aus</translation>
         <translation>Anmeldeinformationen verwalten</translation>
     </message>
     <message>
-        <source>WPS Office Community</source>
-        <translation>WPS Office Community</translation>
-    </message>
-    <message>
         <source>WPS Presentation File</source>
         <translation>WPS Presentation-Datei (*.dps)</translation>
     </message>
@@ -16366,10 +16874,6 @@ Ein/Aus</translation>
         <translation>In OFD exportieren</translation>
     </message>
     <message>
-        <source>Interactive PPT on WeChat</source>
-        <translation>Interaktive PPT-Datei in WeChat</translation>
-    </message>
-    <message>
         <source>Backup Management</source>
         <translation>Verwaltung von Sicherungskopien</translation>
     </message>
@@ -16380,6 +16884,10 @@ Ein/Aus</translation>
     <message>
         <source>Package into Compressed File</source>
         <translation>In komprimierte Datei verpacken</translation>
+    </message>
+    <message>
+        <source>WPS BBS</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About WPS Presentation</source>
@@ -16408,6 +16916,18 @@ Ein/Aus</translation>
     <message>
         <source>Document Security</source>
         <translation>Dokumentsicherheit</translation>
+    </message>
+    <message>
+        <source>Create Online Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office Community</source>
+        <translation>WPS Office Community</translation>
+    </message>
+    <message>
+        <source>Interactive PPT on WeChat</source>
+        <translation>Interaktive PPT-Datei in WeChat</translation>
     </message>
 </context>
 <context>
@@ -16457,6 +16977,14 @@ Ein/Aus</translation>
         <translation>Einstellung der Tastenkombination</translation>
     </message>
     <message>
+        <source>Auto Save File</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen Grab Ocr</source>
+        <translation>Bildschirmerfassung und OCR</translation>
+    </message>
+    <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
         <translation>Bildschirmerfassung</translation>
@@ -16490,6 +17018,10 @@ Ein/Aus</translation>
         <translation>Bildrahmen hinzufügen</translation>
     </message>
     <message>
+        <source>Export as Image</source>
+        <translation>Als Bild exportieren</translation>
+    </message>
+    <message>
         <source>Online Fonts</source>
         <translation>Online-Schriftarten</translation>
     </message>
@@ -16508,6 +17040,10 @@ Ein/Aus</translation>
     <message>
         <source>Slide Layout</source>
         <translation>Folienlayout</translation>
+    </message>
+    <message>
+        <source>IconLibrary</source>
+        <translation>Symbolbibliothek</translation>
     </message>
     <message>
         <source>Link Preview</source>
@@ -16622,6 +17158,10 @@ Ein/Aus</translation>
         <translation>Text zu Diagramm</translation>
     </message>
     <message>
+        <source>CADTOPdf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Hide Current Window when Grabbing Screen</source>
         <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
     </message>
@@ -16690,10 +17230,6 @@ Ein/Aus</translation>
         <translation>Einfügetyp ändern</translation>
     </message>
     <message>
-        <source>Insert Smart Diagram</source>
-        <translation>Smart-Diagramm einfügen</translation>
-    </message>
-    <message>
         <source>File Share</source>
         <translation>Dateifreigabe</translation>
     </message>
@@ -16704,6 +17240,10 @@ Ein/Aus</translation>
     <message>
         <source>Web Preview</source>
         <translation>Link erstellen und freigeben</translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation>Auf der Microblog-Webseite veröffentlichen</translation>
     </message>
     <message>
         <source>Enter the access code</source>
@@ -16742,6 +17282,14 @@ Ein/Aus</translation>
         <translation>Intelligente Animation</translation>
     </message>
     <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation>In Microblog veröffentlichen</translation>
+    </message>
+    <message>
         <source>Password Encryption</source>
         <translation>Kennwortverschlüsselung</translation>
     </message>
@@ -16767,6 +17315,10 @@ Ein/Aus</translation>
         <translation>Diagramm</translation>
     </message>
     <message>
+        <source>Ds Webshape Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ShortWordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -16781,6 +17333,10 @@ Ein/Aus</translation>
     <message>
         <source>Presentation Tool</source>
         <translation>Präsentationsfunktion</translation>
+    </message>
+    <message>
+        <source>Hide current window when taking screenshots</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocerThemeColor</source>
@@ -16833,6 +17389,10 @@ Ein/Aus</translation>
     <message>
         <source>Feedback</source>
         <translation>Feedback</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -16907,6 +17467,14 @@ Ein/Aus</translation>
         <translation>Ursprüngliches Design beibehalten</translation>
     </message>
     <message>
+        <source>Ds Webshape Set</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Check Mine Permission</source>
         <translation>Meine Berechtigungen 
 überprüfen</translation>
@@ -16933,6 +17501,10 @@ Ein/Aus</translation>
 scannen</translation>
     </message>
     <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New from More Templates</source>
         <translation>Neu aus weiteren Vorlagen</translation>
     </message>
@@ -16945,28 +17517,95 @@ scannen</translation>
         <translation>Von Telefon</translation>
     </message>
     <message>
+        <source>Normal Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Online Textbox</source>
         <translation>Vorlagentextfeld</translation>
     </message>
     <message>
-        <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
-    </message>
-    <message>
-        <source>IconLibrary</source>
-        <translation>Symbolbibliothek</translation>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Auf der Microblog-Webseite veröffentlichen</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>In Microblog veröffentlichen</translation>
+        <source>Insert Smart Diagram</source>
+        <translation>Smart-Diagramm einfügen</translation>
     </message>
     <message>
         <source>Flash Picture</source>
         <translation>Blitzbild</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_inkdraw</name>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nite writer pen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Snap color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Touch to draw</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pens and tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ball pen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Water color pen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pen gallery</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18139,6 +18778,10 @@ Führungslinien</translation>
         <translation>Gruppe</translation>
     </message>
     <message>
+        <source>InkDraw</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Minisite</source>
         <translation>WPS-Hotspot</translation>
     </message>
@@ -18161,6 +18804,18 @@ Führungslinien</translation>
     <message>
         <source>Send to Back</source>
         <translation>In den Hintergrund</translation>
+    </message>
+    <message>
+        <source>Auto Save File</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen Grab Ocr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Ellipse</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -18214,10 +18869,6 @@ reparieren</translation>
 Text</translation>
     </message>
     <message>
-        <source>Resource Shop</source>
-        <translation>Ressourcen-Shop</translation>
-    </message>
-    <message>
         <source>SendBackward</source>
         <translation>Eine Ebene nach hinten</translation>
     </message>
@@ -18266,6 +18917,10 @@ Text</translation>
         <translation>Menübandschaltfläche zentriert</translation>
     </message>
     <message>
+        <source>Grab Polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>More Font Colors</source>
         <translation>Weitere Schriftfarben</translation>
     </message>
@@ -18298,17 +18953,20 @@ Text</translation>
         <translation>Einfügen</translation>
     </message>
     <message>
-        <source>WeChat Customer Service</source>
-        <comment>Linux Version</comment>
-        <translation>WPS-Kundendienst</translation>
-    </message>
-    <message>
         <source>Service Expired</source>
         <translation>Dienst ist abgelaufen</translation>
     </message>
     <message>
         <source>Review</source>
         <translation>Überprüfen</translation>
+    </message>
+    <message>
+        <source>CADTOPdf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Output Shape Thumbnail</source>
@@ -18375,6 +19033,10 @@ Text</translation>
         <translation>Schnelles Abrufen</translation>
     </message>
     <message>
+        <source>Grab Rect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Quick Access Menu</source>
         <translation>Schnellzugriff-Menü</translation>
     </message>
@@ -18423,6 +19085,10 @@ Text</translation>
         <translation>Symbolleiste fixieren</translation>
     </message>
     <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Quick Access Toolbar</source>
         <translation>Symbolleiste für den Schnellzugriff</translation>
     </message>
@@ -18453,6 +19119,10 @@ Text</translation>
     <message>
         <source>Customize task window</source>
         <translation>Aufgabenfenster anpassen</translation>
+    </message>
+    <message>
+        <source>Hide current window when taking screenshots</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Snapper</source>
@@ -18520,6 +19190,10 @@ Text</translation>
         <translation>Grafikwerkzeug</translation>
     </message>
     <message>
+        <source>Screenshots</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>accout info</source>
         <translation>Kontoinfo</translation>
     </message>
@@ -18534,6 +19208,10 @@ Text</translation>
     <message>
         <source>User Sign In</source>
         <translation>Benutzeranmeldung</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SmartArt Format</source>
@@ -18574,6 +19252,10 @@ Text</translation>
     <message>
         <source>enterprise Center</source>
         <translation>Unternehmenscenter</translation>
+    </message>
+    <message>
+        <source>InkDrawEnter</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Comment</source>
@@ -18817,6 +19499,10 @@ Text</translation>
     <message>
         <source>Sli&amp;des:</source>
         <translation>&amp;Folien:</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copies</source>
@@ -19275,10 +19961,6 @@ effekte</translation>
         <translation>Durchgezogen</translation>
     </message>
     <message>
-        <source>Width</source>
-        <translation>Breite</translation>
-    </message>
-    <message>
         <source>Flip Horizontal</source>
         <translation>Horizontal spiegeln</translation>
     </message>
@@ -19356,6 +20038,10 @@ Text</translation>
         <translation>0.75 pt</translation>
     </message>
     <message>
+        <source>Transparency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>0.5 pt</source>
         <translation>0.5 pt</translation>
     </message>
@@ -19392,16 +20078,16 @@ Text</translation>
         <translation>Langer Strich</translation>
     </message>
     <message>
-        <source>Height</source>
-        <translation>Höhe</translation>
-    </message>
-    <message>
         <source>Insert</source>
         <translation>Einfügen</translation>
     </message>
     <message>
         <source>2.25 pt</source>
         <translation>2.25 pt</translation>
+    </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -19486,6 +20172,10 @@ Text</translation>
     <message>
         <source>Equal Size</source>
         <translation>Gleiche Größe</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Picture to PDF</source>
@@ -19611,6 +20301,10 @@ Führungslinien</translation>
         <translation>Grafikumriss</translation>
     </message>
     <message>
+        <source>Picture Batch to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
@@ -19674,6 +20368,14 @@ Size</source>
     <message>
         <source>Align Top</source>
         <translation>Oben ausrichten</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Breite</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>Höhe</translation>
     </message>
     <message>
         <source>Flash Picture</source>
@@ -19882,6 +20584,10 @@ testen</translation>
         <translation>Bildschirmpräsentation starten</translation>
     </message>
     <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Rehearse This Slide</source>
         <translation>Diese Folie proben</translation>
     </message>
@@ -19951,6 +20657,10 @@ Slide Shows</source>
         <source>Show On:</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Slide Transition</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -19969,6 +20679,10 @@ Slide Shows</source>
     <message>
         <source>Select Folder:</source>
         <translation>Ordner auswählen:</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -20003,6 +20717,10 @@ Slide Shows</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Clear local backup cache</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Quick Access Toolbar</source>
         <translation>Symbolleiste für den Schnellzugriff</translation>
     </message>
@@ -20029,6 +20747,10 @@ Slide Shows</source>
     <message>
         <source>Customize Ribbon</source>
         <translation>Menüband anpassen</translation>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
@@ -20095,6 +20817,10 @@ Slide Shows</source>
     <message>
         <source>Font</source>
         <translation>Schriftart</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
@@ -20199,6 +20925,10 @@ schließen</translation>
     <message>
         <source>Save Background Picture</source>
         <translation>Hintergrundbild speichern</translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Effects</source>
@@ -20424,6 +21154,10 @@ verbinden</translation>
         <translation>Tiefgestellt</translation>
     </message>
     <message>
+        <source>Vertical direction(left to right)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Superscript</source>
         <translation>Hochgestellt</translation>
     </message>
@@ -20454,6 +21188,10 @@ verbinden</translation>
     <message>
         <source>Underline</source>
         <translation>Unterstreichen</translation>
+    </message>
+    <message>
+        <source>Vertical direction(right to left)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -21477,6 +22215,10 @@ Animation</translation>
         <translation>Datenwiederherstellung</translation>
     </message>
     <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Automatische Sicherung aktivieren</translation>
     </message>
@@ -21505,6 +22247,10 @@ Animation</translation>
         <translation>Bild in PDF</translation>
     </message>
     <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Document History</source>
         <translation>Verlaufsdokument</translation>
     </message>
@@ -21515,6 +22261,10 @@ Animation</translation>
     <message>
         <source>PDF To Excel</source>
         <translation>PDF nach Excel</translation>
+    </message>
+    <message>
+        <source>PDF to Excel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send File</source>
@@ -21545,8 +22295,16 @@ Animation</translation>
         <translation>PDF nach PPT</translation>
     </message>
     <message>
+        <source>Word Tools</source>
+        <translation>Text-Tool</translation>
+    </message>
+    <message>
         <source>Laboratory</source>
         <translation>Labor</translation>
+    </message>
+    <message>
+        <source>Cloud Clipboard</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -21559,6 +22317,10 @@ Animation</translation>
     <message>
         <source>File Tools</source>
         <translation>Dateitools</translation>
+    </message>
+    <message>
+        <source>PDF to PPT</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Team File</source>
@@ -21578,6 +22340,10 @@ Docs öffnen</translation>
         <translation>Online-Vorlagen</translation>
     </message>
     <message>
+        <source>PDF2Word</source>
+        <translation>PDF in Word</translation>
+    </message>
+    <message>
         <source>OneStep Save</source>
         <translation>Speichern in einem Schritt</translation>
     </message>
@@ -21585,10 +22351,6 @@ Docs öffnen</translation>
         <source>File Roaming</source>
         <comment>professional</comment>
         <translation>Datei-Roaming</translation>
-    </message>
-    <message>
-        <source>XiuTang H5</source>
-        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -21613,6 +22375,10 @@ Docs öffnen</translation>
     <message>
         <source>PDF To Word</source>
         <translation>PDF in Word</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -21679,16 +22445,20 @@ Exportieren</translation>
 scannen</translation>
     </message>
     <message>
-        <source>XiuTang</source>
-        <translation>XiuTang</translation>
-    </message>
-    <message>
         <source>Document security</source>
         <translation>Dokumentsicherheit</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
         <translation>Präsentationsfunktion</translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translation>XiuTang H5</translation>
+    </message>
+    <message>
+        <source>XiuTang</source>
+        <translation>XiuTang</translation>
     </message>
 </context>
 <context>
@@ -22152,6 +22922,10 @@ Kommentar</translation>
         <translation>Bildschirmpräsentation von aktueller Folie (Umsch+F5)</translation>
     </message>
     <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>From Beginning</source>
         <translation>Von Beginn an</translation>
     </message>
@@ -22166,6 +22940,10 @@ Kommentar</translation>
     <message>
         <source>Player Capture</source>
         <translation>Player Capture</translation>
+    </message>
+    <message>
+        <source>Slide Show from Current</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Slide Show Settings</source>
@@ -22407,6 +23185,10 @@ Comment</source>
 Kommentar</translation>
     </message>
     <message>
+        <source>InkDrawEnter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Check Mine Permission</source>
         <translation>Meine Berechtigungen 
 überprüfen</translation>
@@ -22486,6 +23268,10 @@ sicherheit</translation>
     <message>
         <source>Please Choose a Program to Launch</source>
         <translation>Ein zu startendes Programm auswählen</translation>
+    </message>
+    <message>
+        <source>Program(*.app);;All Files(*.*)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Run %1 &amp;macro</source>
@@ -22992,6 +23778,10 @@ Text</translation>
         <translation>ClipArt</translation>
     </message>
     <message>
+        <source>Ornamentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert Audio</source>
         <translation>Audio einfügen</translation>
     </message>
@@ -23113,8 +23903,16 @@ Music</source>
         <translation>Kommentar</translation>
     </message>
     <message>
+        <source>Materials</source>
+        <translation>Material</translation>
+    </message>
+    <message>
         <source>Package into Compressed File</source>
         <translation>In komprimierte Datei verpacken</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Bildschirmerfassung</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -23183,20 +23981,12 @@ Fußzeile</translation>
         <translation>Vorlagen</translation>
     </message>
     <message>
-        <source>Online Textbox</source>
-        <translation>Vorlagentextfeld</translation>
-    </message>
-    <message>
         <source>Online Video</source>
         <translation>Online-Video</translation>
     </message>
     <message>
         <source>Images</source>
         <translation>Bilder</translation>
-    </message>
-    <message>
-        <source>Materials</source>
-        <translation>Material</translation>
     </message>
 </context>
 <context>
@@ -23539,6 +24329,10 @@ Chinesisch umwandeln</translation>
     <message>
         <source>WPS After-sale Microblog</source>
         <translation>WPS After-sale Microblog</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -23891,12 +24685,20 @@ exportieren</translation>
         <translation>Links einfügen</translation>
     </message>
     <message>
+        <source>Vertical direction(left to right)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Delete Rows</source>
         <translation>Zeilen löschen</translation>
     </message>
     <message>
         <source>Stacked</source>
         <translation>Gestapelt</translation>
+    </message>
+    <message>
+        <source>Vertical direction(right to left)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Eyedropper</source>
@@ -24508,8 +25310,28 @@ exportieren</translation>
         <translation>Für alle übernehmen</translation>
     </message>
     <message>
+        <source>More Options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text Play Method</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>delete animation</source>
         <translation>Animation löschen</translation>
+    </message>
+    <message>
+        <source>Delete Animation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete All Animations from Selected Object</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete All Animations from Selected Slide</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom
@@ -24534,6 +25356,10 @@ Animation</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Delete All Animations from Presentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Preview</source>
         <translation>Vorschau</translation>
     </message>
@@ -24542,12 +25368,32 @@ Animation</translation>
         <translation>Klicken, um Folie zu wechseln.</translation>
     </message>
     <message>
+        <source>Animation Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Playing:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duration:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Latency:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Smart Animation</source>
         <translation>Intelligente Animation</translation>
     </message>
     <message>
         <source>CustomAnimations</source>
         <translation>Benutzerdefinierte Animation</translation>
+    </message>
+    <message>
+        <source>property</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply range</source>
@@ -24824,6 +25670,10 @@ größe</translation>
         <translation>Entwurfsvorlagen</translation>
     </message>
     <message>
+        <source>Custom color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Effects</source>
         <translation>Effekte</translation>
     </message>
@@ -24929,6 +25779,10 @@ einrichten</translation>
         <translation>Fußzeile</translation>
     </message>
     <message>
+        <source>Custom color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Effects</source>
         <translation>Effekte</translation>
     </message>
@@ -24947,6 +25801,98 @@ einrichten</translation>
     <message>
         <source>Slide Number PlaceHolder</source>
         <translation>Foliennummer</translation>
+    </message>
+    <message>
+        <source>BackGround</source>
+        <translation>Hintergrund</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_notesmaster</name>
+    <message>
+        <source>Phone Screen(9:16)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation>Schriftarten</translation>
+    </message>
+    <message>
+        <source>Notes Orientation</source>
+        <translation>Ausrichtung der Notizenseite</translation>
+    </message>
+    <message>
+        <source>Body Placeholder</source>
+        <translation>Textkörper</translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation>Farben</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation>Querformat</translation>
+    </message>
+    <message>
+        <source>Wide Screen(16:9)</source>
+        <translation>Breitbild (16:9)</translation>
+    </message>
+    <message>
+        <source>Custom Size</source>
+        <translation>Benutzerdefiniertes Format</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation>Hochformat</translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translation>Seite 
+einrichten</translation>
+    </message>
+    <message>
+        <source>data Placeholder</source>
+        <translation>Datum</translation>
+    </message>
+    <message>
+        <source>footer Placeholder</source>
+        <translation>Fußzeile</translation>
+    </message>
+    <message>
+        <source>Slide Size</source>
+        <translation>Foliengröße</translation>
+    </message>
+    <message>
+        <source>Header Placeholder</source>
+        <translation>Kopfzeile</translation>
+    </message>
+    <message>
+        <source>Slide Image Placeholder</source>
+        <translation>Folienbild</translation>
+    </message>
+    <message>
+        <source>Custom color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>Effekte</translation>
+    </message>
+    <message>
+        <source>PlasceHolder</source>
+        <translation>Platzhalter</translation>
+    </message>
+    <message>
+        <source>Slide Number Placeholder</source>
+        <translation>Seitenzahl</translation>
+    </message>
+    <message>
+        <source>Stand Screen(4:3)</source>
+        <translation>Standardbildschirm (4:3)</translation>
     </message>
     <message>
         <source>BackGround</source>
@@ -25213,6 +26159,21 @@ einrichten</translation>
     </message>
 </context>
 <context>
+    <name>KxWppAnimationStartPlayCommand</name>
+    <message>
+        <source>On Click</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>After Previous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>With Previous</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWppMediaStartModeCommand</name>
     <message>
         <source>On Click</source>
@@ -25393,6 +26354,10 @@ einrichten</translation>
         <translation>Schließen</translation>
     </message>
     <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Auf Export der PDF-Datei wird vorbereitet....</translation>
     </message>
@@ -25417,6 +26382,10 @@ einrichten</translation>
         <translation> Seite...</translation>
     </message>
     <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
         <translation>Fehler wurden beim Versuch des Exports zum PDF gefunden!</translation>
     </message>
@@ -25427,6 +26396,10 @@ einrichten</translation>
     <message>
         <source>Exporting PDF file is completed.</source>
         <translation>Export der PDF-Datei ist abgeschlossen.</translation>
+    </message>
+    <message>
+        <source>Exporting PDF file is completing...</source>
+        <translation>Die PDF-Datei wird exportiert...</translation>
     </message>
     <message>
         <source>PDF Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
@@ -25644,89 +26617,9 @@ Add-Ins</translation>
         <source>Toggle Button</source>
         <translation>Umschaltfläche</translation>
     </message>
-</context>
-<context>
-    <name>ongmani.ct_notesmaster</name>
     <message>
-        <source>Close</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Fonts</source>
-        <translation>Schriftarten</translation>
-    </message>
-    <message>
-        <source>Notes Orientation</source>
-        <translation>Ausrichtung der Notizenseite</translation>
-    </message>
-    <message>
-        <source>Body Placeholder</source>
-        <translation>Textkörper</translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation>Farben</translation>
-    </message>
-    <message>
-        <source>Landscape</source>
-        <translation>Querformat</translation>
-    </message>
-    <message>
-        <source>Wide Screen(16:9)</source>
-        <translation>Breitbild (16:9)</translation>
-    </message>
-    <message>
-        <source>Custom Size</source>
-        <translation>Benutzerdefiniertes Format</translation>
-    </message>
-    <message>
-        <source>Portrait</source>
-        <translation>Hochformat</translation>
-    </message>
-    <message>
-        <source>Page Setup</source>
-        <translation>Seite 
-einrichten</translation>
-    </message>
-    <message>
-        <source>data Placeholder</source>
-        <translation>Datum</translation>
-    </message>
-    <message>
-        <source>footer Placeholder</source>
-        <translation>Fußzeile</translation>
-    </message>
-    <message>
-        <source>Slide Size</source>
-        <translation>Foliengröße</translation>
-    </message>
-    <message>
-        <source>Header Placeholder</source>
-        <translation>Kopfzeile</translation>
-    </message>
-    <message>
-        <source>Slide Image Placeholder</source>
-        <translation>Folienbild</translation>
-    </message>
-    <message>
-        <source>Effects</source>
-        <translation>Effekte</translation>
-    </message>
-    <message>
-        <source>PlasceHolder</source>
-        <translation>Platzhalter</translation>
-    </message>
-    <message>
-        <source>Slide Number Placeholder</source>
-        <translation>Seitenzahl</translation>
-    </message>
-    <message>
-        <source>Stand Screen(4:3)</source>
-        <translation>Standardbildschirm (4:3)</translation>
-    </message>
-    <message>
-        <source>BackGround</source>
-        <translation>Hintergrund</translation>
+        <source>Switch to JS</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26382,6 +27275,14 @@ einrichten</translation>
         <translation>Handzettel</translation>
     </message>
     <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Permission password and document open password must be different.</source>
         <translation>Berechtigungskennwort und Kennwort zum Öffnen des Dokuments dürfen nicht identisch sein.</translation>
     </message>
@@ -26429,6 +27330,10 @@ einrichten</translation>
         <translation>Alle Folien in aktueller Präsentation sind ausgeblendet.</translation>
     </message>
     <message>
+        <source>The current document is a new document and there is no save directory.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Confirmation password does not match.</source>
         <translation>Das Kennwort und die Bestätigung stimmen nicht überein.</translation>
     </message>
@@ -26443,6 +27348,10 @@ einrichten</translation>
     <message>
         <source>You do not have permission to write files into this directory.</source>
         <translation>Sie haben keine Berechtigung, die Datei ins Wörterbuch zu schreiben.</translation>
+    </message>
+    <message>
+        <source>Files shared by others cannot be saved to the source path.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
@@ -26467,6 +27376,14 @@ einrichten</translation>
     <message>
         <source>Handouts</source>
         <translation>Handzettel</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The document is output as image-only PDF, which is safe to share and not easy to be tampered with.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
@@ -27174,6 +28091,10 @@ Esc					Ende der Bildschirmpräsentation</translation>
         <translation>WPS Datenwiederherstellungsvorlage</translation>
     </message>
     <message>
+        <source>Core Encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>document authorization</source>
         <translation>Dokumentautorisierung</translation>
     </message>
@@ -27199,8 +28120,20 @@ Esc					Ende der Bildschirmpräsentation</translation>
 überprüfen</translation>
     </message>
     <message>
+        <source>Offline Secret Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Encryption</source>
         <translation>Verschlüsselung</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Forward</source>
@@ -27218,6 +28151,10 @@ Esc					Ende der Bildschirmpräsentation</translation>
     <message>
         <source>document set</source>
         <translation>Dokumenteinstellungen</translation>
+    </message>
+    <message>
+        <source>Normal Encryption</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make Forward Doc</source>
@@ -27689,6 +28626,25 @@ Folie</translation>
     </message>
 </context>
 <context>
+    <name>KxBackupSettingTipWidgetBase</name>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxBrowseSlidesDlg</name>
     <message>
         <source>Slide %1 .. %2</source>
@@ -27869,12 +28825,20 @@ Folie</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Accent</source>
+        <translation>Akzent</translation>
+    </message>
+    <message>
         <source>Linear</source>
         <translation>Linear</translation>
     </message>
     <message>
         <source>Matrix</source>
         <translation>Matrix</translation>
+    </message>
+    <message>
+        <source>Limit and Log</source>
+        <translation>Grenzwert und Logarithmus</translation>
     </message>
     <message>
         <source>Script</source>
@@ -27887,6 +28851,10 @@ Folie</translation>
     <message>
         <source>Operator</source>
         <translation>Operator</translation>
+    </message>
+    <message>
+        <source>Normal Text</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fraction</source>
@@ -28328,13 +29296,6 @@ Folienmaster</translation>
     </message>
 </context>
 <context>
-    <name>KxBackupSettingTipWidgetBase</name>
-    <message>
-        <source>What is Auto Roaming</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>DesignLayoutPanel</name>
     <message>
         <source>Apply to &amp;All</source>
@@ -28609,6 +29570,13 @@ Folienmaster</translation>
     </message>
 </context>
 <context>
+    <name>QPlatformTheme</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+</context>
+<context>
     <name>KxAddInsDlg</name>
     <message>
         <source>Browse</source>
@@ -28713,6 +29681,10 @@ Folienmaster</translation>
         <translation>Textetikett</translation>
     </message>
     <message>
+        <source>There are Cloud fonts in this document. They may look different when this document is opened by other users or apps.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The document contains cloud fonts. For the convenience of your readers, 
 we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
         <translation>Online-Schriftarten für Anwendungsdokumente: Wenn Ihr Dokument weitergegeben werden muss, 
@@ -28814,6 +29786,28 @@ Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     <message>
         <source>Insert Shapes</source>
         <translation>Formen einfügen</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAnimationPropertyCommand</name>
+    <message>
+        <source>&amp;Unlocked</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Locked</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KFontEmbedNoticeDialog</name>
+    <message>
+        <source>Don&apos;t remind again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>iconLabel</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -29163,6 +30157,13 @@ Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     </message>
 </context>
 <context>
+    <name>KxColorModel</name>
+    <message>
+        <source>Gradient Fill</source>
+        <translation>Farbverlauf</translation>
+    </message>
+</context>
+<context>
     <name>KxInsertMediaDlg</name>
     <message>
         <source>How do you want the movie to start in the slide show?</source>
@@ -29210,6 +30211,13 @@ Wenn dies nicht nötig ist, klicken Sie auf „Abbrechen“.</translation>
     </message>
 </context>
 <context>
+    <name>KxWppFormatProperty_Picture</name>
+    <message>
+        <source>Picture Transparency</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWppFormatRangeSaveAsCommand</name>
     <message>
         <source>Preparing for Video Export</source>
@@ -29241,13 +30249,6 @@ Möchten Sie sie wirklich schließen?</translation>
     <message>
         <source>PresetBullet</source>
         <translation>Voreingestellte Animationen für Aufzählungszeichen</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppDocTab</name>
-    <message>
-        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
-        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Geeignete Funktionen&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Link für Freigabe erstellen&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Als PDF exportieren&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Drucken/Druckvorschau&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -34432,6 +35433,13 @@ Transition</source>
     <message>
         <source>Vertical</source>
         <translation>Vertikal</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Geeignete Funktionen&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Link für Freigabe erstellen&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Als PDF exportieren&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Drucken/Druckvorschau&lt;/p&gt;</translation>
     </message>
 </context>
 </TS>
