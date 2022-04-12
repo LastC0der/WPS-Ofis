@@ -277,6 +277,10 @@
         <translation>İptal</translation>
     </message>
     <message>
+        <source>Proxy Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>I have read and agree with WPS Office</source>
         <translation>WPS Ofis&apos;i okudum ve kabul ediyorum</translation>
     </message>
@@ -478,10 +482,6 @@ These operations can be undone. </source>
         <translation>Taşınabilir Belge &amp;Biçimi(*.pdf)</translation>
     </message>
     <message>
-        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Microsoft &amp;PowerPoint Sunuları (*.ppt, *.pot, *.pps, *.pptx dosyaları)</translation>
-    </message>
-    <message>
         <source>Pdf Document(*.pdf)</source>
         <translation type="unfinished"/>
     </message>
@@ -522,10 +522,6 @@ These operations can be undone. </source>
         <translation>&amp;Resim Dosyaları(*.jpg, *.png, *.gif,...)</translation>
     </message>
     <message>
-        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Microsoft &amp;Excel Çalışma Kitapları (*.xls, *.xlt, *.xlsx files)</translation>
-    </message>
-    <message>
         <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
         <translation type="unfinished"/>
     </message>
@@ -540,6 +536,14 @@ These operations can be undone. </source>
     <message>
         <source>Compat Setting</source>
         <translation>Uyumluluk Ayarı</translation>
+    </message>
+    <message>
+        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
+        <translation>Microsoft &amp;PowerPoint Sunuları (*.ppt, *.pot, *.pps, *.pptx dosyaları)</translation>
+    </message>
+    <message>
+        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
+        <translation>Microsoft &amp;Excel Çalışma Kitapları (*.xls, *.xlt, *.xlsx files)</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
@@ -1192,6 +1196,10 @@ These operations can be undone. </source>
         <translation>Diğerleri</translation>
     </message>
     <message>
+        <source>delete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>cache clear finished.</source>
         <translation type="unfinished"/>
     </message>
@@ -1289,6 +1297,10 @@ These operations can be undone. </source>
     <message>
         <source>Uninstall WPS Office</source>
         <translation>WPS Ofis&apos;i Kaldır</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
@@ -1624,6 +1636,69 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
 </context>
 <context>
+    <name>KFileAsso</name>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS Sunum</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use WPS E-Book to read and edit e-book.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use WPS Presentation to edit and play presentations.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Ofis</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Standalone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use WPS Writer to write reports and make up articles.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Elektronik Tablolar</translation>
+    </message>
+    <message>
+        <source>Use WPS Spreadsheets to analyze and manage data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kingsoft Mobi</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KGdprConfigUi</name>
     <message>
         <source>Privacy Settings</source>
@@ -1714,65 +1789,6 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
 </context>
 <context>
-    <name>KFileAsso</name>
-    <message>
-        <source>WPS Presentation</source>
-        <translation>WPS Sunum</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use WPS E-Book to read and edit e-book.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use WPS Presentation to edit and play presentations.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use WPS PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Ofis</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF Standalone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All-in-one office service</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <translation>WPS Elektronik Tablolar</translation>
-    </message>
-    <message>
-        <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kingsoft Mobi</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KFunctionCustomization</name>
     <message>
         <source>Disable online resource recommend.</source>
@@ -1780,14 +1796,6 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Function Customization</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1804,6 +1812,14 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Disable template recommend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide cloud shellext.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
 </context>
