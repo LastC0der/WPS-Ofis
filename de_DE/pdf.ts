@@ -14,6 +14,10 @@
         <translation>Keine</translation>
     </message>
     <message>
+        <source>border color:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Check</source>
         <translation>Häkchen</translation>
     </message>
@@ -657,6 +661,10 @@
         <translation>Größe anpassen</translation>
     </message>
     <message>
+        <source>Cloud Synchronization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Default layout&apos;s mode and scale</source>
         <translation>Standard-Layout und -Skalierung</translation>
     </message>
@@ -759,6 +767,10 @@
     <message>
         <source>Default</source>
         <translation>Standard</translation>
+    </message>
+    <message>
+        <source>PDF Signature</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verification of a signature when opening a document</source>
@@ -1624,6 +1636,10 @@ Please batches operations</source>
         <translation>Das geschützte Dokument kann nicht als Objekt in dieses Dokument eingefügt werden.</translation>
     </message>
     <message>
+        <source>Save prompt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Changes would not be undone after saving as compression, sure to continue?</source>
         <translation type="unfinished"/>
     </message>
@@ -1795,6 +1811,10 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
         <translation>Bestätigen(&amp;C)</translation>
     </message>
     <message>
+        <source>Confirm</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OneTimesSpeedScrollUp</source>
         <translation>Nach oben blättern (einfache Geschwindigkeit)</translation>
     </message>
@@ -1904,10 +1924,6 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;Open copy</source>
-        <translation>Kopie &amp;öffnen</translation>
-    </message>
-    <message>
         <source>Can&apos;t verify because sign data error.</source>
         <translation type="unfinished"/>
     </message>
@@ -2007,6 +2023,10 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     <message>
         <source>cancle return</source>
         <translation>Verstanden</translation>
+    </message>
+    <message>
+        <source>Please save the erased content first. After saving, undo processing is not supported. Do you want to save it?</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Post Match function loading failed.</source>
@@ -2142,6 +2162,10 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     <message>
         <source>The current document need to be saved before extracted.</source>
         <translation>Das Dokument muss vor der Extraktion gespeichert werden.</translation>
+    </message>
+    <message>
+        <source>&amp;Open copy</source>
+        <translation>Kopie &amp;öffnen</translation>
     </message>
     <message>
         <source>The current document need to be saved before compressed.</source>
@@ -2305,6 +2329,10 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Online Security PDF Files (*.pdf)|*.pdf|</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All Pictures(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2625,10 +2653,6 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     <message>
         <source>basic setting</source>
         <translation>Allgemeine Einstellung</translation>
-    </message>
-    <message>
-        <source>member print function</source>
-        <translation>Premium-Druckberechtigungen</translation>
     </message>
     <message>
         <source>select page:</source>
@@ -3200,6 +3224,26 @@ Beispiel: 1,3,5-12.</translation>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>What is cloud synchronization?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ReadSetting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud synchronization description</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NormalSetting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4043,6 +4087,10 @@ upgrade to WPS VIP?</source>
         <translation>Diese Position enthält spezielle Steuerelemente (JavaScript), die nach dem Herunterladen des Plug-ins normal ausgefüllt werden können.</translation>
     </message>
     <message>
+        <source>Copy Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>edit member prompt</source>
         <translation>&quot;Bearbeiten&quot; ist eine WPS Premium-Berechtigung</translation>
     </message>
@@ -4146,6 +4194,10 @@ upgrade to WPS VIP?</source>
         <source>Move page is WPS membership function,Do you 
 log in to save changes?</source>
         <translation>Das Verschieben von Seiten ist eine für WPS-Mitglieder vorbehaltene Funktion. Möchten Sie sich anmelden, um Änderungen zu speichern?</translation>
+    </message>
+    <message>
+        <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
@@ -5264,6 +5316,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>OK</translation>
     </message>
     <message>
+        <source>delete ca</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CA encrypt tip</source>
         <translation type="unfinished"/>
     </message>
@@ -5431,6 +5487,17 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Select Folder</source>
         <translation>Ordner auswählen</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfTableExtractDlg</name>
+    <message>
+        <source>ok</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>all page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5651,6 +5718,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Einfügen</translation>
     </message>
     <message>
+        <source>Photo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Print</source>
         <translation>Drucken</translation>
     </message>
@@ -5715,6 +5786,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Reihenfolge</translation>
     </message>
     <message>
+        <source>SplitMerge</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>StatusBar Slider Zoom</source>
         <translation>Skalieren</translation>
     </message>
@@ -5743,6 +5818,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Dokumentauthentifizierung</translation>
     </message>
     <message>
+        <source>SplitAndMergePage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Paste Comment</source>
         <translation>Einfügen</translation>
     </message>
@@ -5763,8 +5842,16 @@ Input 5-9 page 5 to page 9</source>
         <translation>Größe der Seite anpassen</translation>
     </message>
     <message>
+        <source>SplitPDFPage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Data Recovery</source>
         <translation>Datenwiederherstellung</translation>
+    </message>
+    <message>
+        <source>ImageForwardLayer</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto Wheel</source>
@@ -5815,12 +5902,20 @@ Input 5-9 page 5 to page 9</source>
         <translation>Ansicht</translation>
     </message>
     <message>
+        <source>MergePDFPage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>HeadAnnotate</source>
         <translation>Hervorhebung und Markup</translation>
     </message>
     <message>
         <source>PageCorrectFinished</source>
         <translation>Korrektur abschließen</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>GraffitiEraserWholeType</source>
@@ -5923,8 +6018,16 @@ Input 5-9 page 5 to page 9</source>
         <translation>Satzübersetzung</translation>
     </message>
     <message>
+        <source>OcrExtractTextCopyText</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>FloatSelectionTool</source>
         <translation>Auswahlwerkzeug</translation>
+    </message>
+    <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>100.0%</source>
@@ -6115,6 +6218,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Gegen den Uhrzeigersinn</translation>
     </message>
     <message>
+        <source>Insert</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>BatchEmbedDocument</source>
         <translation>Dokumente in Stapeln einbetten</translation>
     </message>
@@ -6177,10 +6284,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>FormFilling Check</source>
         <translation>Auswählen</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation>Suchen</translation>
     </message>
     <message>
         <source>Square</source>
@@ -6299,12 +6402,20 @@ Input 5-9 page 5 to page 9</source>
         <translation>Messung abschließen</translation>
     </message>
     <message>
+        <source>Annotation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Click to adjust Zoom level</source>
         <translation>Zum Anpassen des Zoomfaktors klicken</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
         <translation>Bild in PDF</translation>
+    </message>
+    <message>
+        <source>PDF Export as Photo</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EditPicExit</source>
@@ -6407,6 +6518,10 @@ Input 5-9 page 5 to page 9</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Search and repace pane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ClipPageRange</source>
         <translation>Seitenbereich</translation>
     </message>
@@ -6495,6 +6610,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Text rechtsbündig ausrichten</translation>
     </message>
     <message>
+        <source>Set MarkAttribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>FoldAllNote</source>
         <translation>Alle Notizen falten</translation>
     </message>
@@ -6575,6 +6694,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Linienstil</translation>
     </message>
     <message>
+        <source>Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert Text</source>
         <translation>Caret-Zeichen</translation>
     </message>
@@ -6589,6 +6712,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Property</source>
         <translation>Eigenschaften</translation>
+    </message>
+    <message>
+        <source>property</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF2Excel</source>
@@ -6645,6 +6772,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>GraffitiLineWidth</source>
         <translation>Linienbreite</translation>
+    </message>
+    <message>
+        <source>InstructBox</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
@@ -6737,6 +6868,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>EditeImage</source>
         <translation>Bild bearbeiten</translation>
+    </message>
+    <message>
+        <source>ImageBackLayer</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>clockwise doc</source>
@@ -6915,6 +7050,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Notizmodus</translation>
     </message>
     <message>
+        <source>Hierarchy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>MergePDF</source>
         <translation>PDF zusammenführen</translation>
     </message>
@@ -7067,12 +7206,20 @@ Input 5-9 page 5 to page 9</source>
         <translation>PDF-Signatur</translation>
     </message>
     <message>
+        <source>Click to turn on/off AutoBackup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CorrectionFluidRoundCap</source>
         <translation>Rund</translation>
     </message>
     <message>
         <source>Zoom Out Thumbnails</source>
         <translation>Miniaturansichten herauszoomen</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Navigate Back</source>
@@ -7176,6 +7323,57 @@ Input 5-9 page 5 to page 9</source>
     </message>
 </context>
 <context>
+    <name>KxPdfWaterMarkGalleryCommand</name>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>Hinzufügen(&amp;A)</translation>
+    </message>
+    <message>
+        <source>This document already contains watermarks.If you choose to add a new watermark, it may overwrite the existing watermark</source>
+        <translation>Dieses Dokument enthält bereits Wasserzeichen. Das Hinzufügen eines neuen Wasserzeichens kann bestehende Wasserzeichen überschreiben.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to find the watermark source file you specified, please re-select</source>
+        <translation>Die von Ihnen angegebene Wasserzeichen-Quelldatei konnte nicht gefunden werden, bitte erneut auswählen.</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation>Ersetzen(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Comfirm</source>
+        <translation>Bestätigen(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Add failed! WaterMark apply range does not match the number of document pages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DO NOT COPY</source>
+        <translation>NICHT KOPIEREN</translation>
+    </message>
+    <message>
+        <source>TOP SECRET</source>
+        <translation>STRENG GEHEIM</translation>
+    </message>
+    <message>
+        <source>CONFIDENTIAL</source>
+        <translation>VERTRAULICH</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfWaterMarkGalleryModelPaintItem</name>
     <message>
         <source>Add</source>
@@ -7195,6 +7393,738 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>SecurityWarning</source>
         <translation>Sicherheitswarnung</translation>
+    </message>
+</context>
+<context>
+    <name>popupmenu</name>
+    <message>
+        <source>FAQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Hilfe</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Keine</translation>
+    </message>
+    <message>
+        <source>Unit</source>
+        <translation>Einheit</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation>Vergrößern</translation>
+    </message>
+    <message>
+        <source>BatchImageExtract</source>
+        <translation>Bild in Stapeln extrahieren</translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation>Bearbeitung einschränken</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Pfeil</translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation>Miniseite</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Einfügen</translation>
+    </message>
+    <message>
+        <source>Track</source>
+        <translation>Überwachen</translation>
+    </message>
+    <message>
+        <source>Edit Text</source>
+        <translation>Text bearbeiten</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Zwischenablage</translation>
+    </message>
+    <message>
+        <source>EditImage</source>
+        <translation>Bild bearbeiten</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation>Unbeschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>ImageForwardLayer</source>
+        <translation>Nach vorne verschieben</translation>
+    </message>
+    <message>
+        <source>Check for Updates</source>
+        <translation>Update überprüfen</translation>
+    </message>
+    <message>
+        <source>Create Cloud Link</source>
+        <translation>Cloud-Verknüpfung erstellen</translation>
+    </message>
+    <message>
+        <source>Restart Each Page</source>
+        <translation>Jede Seite neu beginnen</translation>
+    </message>
+    <message>
+        <source>Close Other Windows</source>
+        <translation>Andere Fenster schließen</translation>
+    </message>
+    <message>
+        <source>Close Window</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Restart Each Section</source>
+        <translation>Jeden Abschnitt neu beginnen</translation>
+    </message>
+    <message>
+        <source>Enable AutoBackup</source>
+        <translation>Automatische Sicherung aktivieren</translation>
+    </message>
+    <message>
+        <source>Place on Right</source>
+        <translation>Nach rechts verschieben</translation>
+    </message>
+    <message>
+        <source>Official website</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Als Bild exportieren</translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation>Version ändern</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Vorlagen</translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kingsoft PDF Help</source>
+        <translation>Hilfe zu WPS PDF</translation>
+    </message>
+    <message>
+        <source>Highlighter</source>
+        <translation>Textmarker</translation>
+    </message>
+    <message>
+        <source>Use Magnifier</source>
+        <translation>Lupe verwenden</translation>
+    </message>
+    <message>
+        <source>Extraction identification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Place on Left</source>
+        <translation>Nach links verschieben</translation>
+    </message>
+    <message>
+        <source>COM 
+Add-Ins</source>
+        <translation>COM Add-Ins</translation>
+    </message>
+    <message>
+        <source>View Shortcut</source>
+        <translation>Tastenkombinationen von Ansicht</translation>
+    </message>
+    <message>
+        <source>Image2Bottom</source>
+        <translation>Nach unten setzen</translation>
+    </message>
+    <message>
+        <source>PreviousPage</source>
+        <translation>Vorherige Seite</translation>
+    </message>
+    <message>
+        <source>AppStore Evaluation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <translation>Makro aufzeichnen</translation>
+    </message>
+    <message>
+        <source>Genko Setting</source>
+        <translation>Genko-Einstellung</translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation>Vorlagen</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>E-Mail senden</translation>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation>Annehmen</translation>
+    </message>
+    <message>
+        <source>More Historical Records</source>
+        <translation>Weitere Datensätze</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>Ordner öffnen</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation>Spalte</translation>
+    </message>
+    <message>
+        <source>About Kingsoft PDF</source>
+        <translation>Über WPS PDF</translation>
+    </message>
+    <message>
+        <source>Eraser</source>
+        <translation>Radierer</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation>Abgeschlossen</translation>
+    </message>
+    <message>
+        <source>ImgPDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Line Number</source>
+        <translation>Zeilennummer</translation>
+    </message>
+    <message>
+        <source>Page Number</source>
+        <translation>Seitenzahl</translation>
+    </message>
+    <message>
+        <source>Markup</source>
+        <translation>Markup</translation>
+    </message>
+    <message>
+        <source>Disable AutoBackup</source>
+        <translation>Automatische Sicherung deaktivieren</translation>
+    </message>
+    <message>
+        <source>WPS Forum</source>
+        <translation>WPS Forum</translation>
+    </message>
+    <message>
+        <source>Annotate</source>
+        <translation>Hervorhebung und Markup</translation>
+    </message>
+    <message>
+        <source>annotate</source>
+        <translation>Anmerkungen zulassen</translation>
+    </message>
+    <message>
+        <source>Area Highlight</source>
+        <translation>Bereich hervorheben</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>Ablehnen</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation>Erneut laden</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>Drehen</translation>
+    </message>
+    <message>
+        <source>Last Viewed</source>
+        <translation>Zuletzt angesehen</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Homepage</source>
+        <translation>Homepage von WPS PDF</translation>
+    </message>
+    <message>
+        <source>New To WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation>Aktivierungscode eingeben</translation>
+    </message>
+    <message>
+        <source>Full Screen</source>
+        <translation>Vollbild</translation>
+    </message>
+    <message>
+        <source>New Window</source>
+        <translation>Neues Fenster</translation>
+    </message>
+    <message>
+        <source>Zoom Slider</source>
+        <translation>Zoom</translation>
+    </message>
+    <message>
+        <source>Pointer Options</source>
+        <translation>Zeigeroptionen</translation>
+    </message>
+    <message>
+        <source>Word Count</source>
+        <translation>Wörter zählen</translation>
+    </message>
+    <message>
+        <source>pdfconvertword</source>
+        <translation>Nach Word exportieren</translation>
+    </message>
+    <message>
+        <source>Set State</source>
+        <translation>Status festlegen</translation>
+    </message>
+    <message>
+        <source>Word Tools</source>
+        <translation>Word-Tool</translation>
+    </message>
+    <message>
+        <source>Show Previous Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide TaskPane</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Open Backup Directory</source>
+        <translation>Sicherungsverzeichnis öffnen</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation>WPS Office-HomePage</translation>
+    </message>
+    <message>
+        <source>Close All</source>
+        <translation>Alle Schließen</translation>
+    </message>
+    <message>
+        <source>ZoomPercent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>EditImageLayer</source>
+        <translation>Bildebene bearbeiten</translation>
+    </message>
+    <message>
+        <source>Photo2PDF</source>
+        <translation>Bild in PDF</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation>Eigenschaften</translation>
+    </message>
+    <message>
+        <source>WPS Microblog</source>
+        <translation>WPS Blog</translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation>Offline-Management</translation>
+    </message>
+    <message>
+        <source>Manual Backup</source>
+        <translation>Manuelle Sicherung</translation>
+    </message>
+    <message>
+        <source>WPS Office Facebook</source>
+        <translation>WPS Office Facebook</translation>
+    </message>
+    <message>
+        <source>PictureHierarchy</source>
+        <translation>Bildhierarchie</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>Dateifreigabe</translation>
+    </message>
+    <message>
+        <source>Reviewing Pane Vertical</source>
+        <translation>Überarbeitungsbereich vertikal</translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation>Add-Ins</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <translation>Stil und Format</translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation>Im Blog teilen</translation>
+    </message>
+    <message>
+        <source>Image2top</source>
+        <translation>Nach oben setzen</translation>
+    </message>
+    <message>
+        <source>Ball Pen</source>
+        <translation>Kugelschreiber</translation>
+    </message>
+    <message>
+        <source>Compared Side by Side</source>
+        <translation>Nebeneinander anzeigen</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation>Öffnen aus Cloud-Datei</translation>
+    </message>
+    <message>
+        <source>Chinese Transition</source>
+        <translation>Chinesische Übersetzung</translation>
+    </message>
+    <message>
+        <source>Acknowledgments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show More Windows</source>
+        <translation>Mehr Fenster anzeigen</translation>
+    </message>
+    <message>
+        <source>LastPage</source>
+        <translation>Letzte Seite</translation>
+    </message>
+    <message>
+        <source>Play Back</source>
+        <translation>Wiedergabe</translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation>Ausgewählten Text übersetzen</translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation>Alle speichern</translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation>Im Blog teilen</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Berechtigungen prüfen</translation>
+    </message>
+    <message>
+        <source>Product Management Center</source>
+        <translation>Management-Center</translation>
+    </message>
+    <message>
+        <source>Erase All Inks on Slide</source>
+        <translation>Alle Ink-Notizen auf der Folie löschen</translation>
+    </message>
+    <message>
+        <source>WPS Office New features</source>
+        <translation>Neue Funktionen</translation>
+    </message>
+    <message>
+        <source>Cascade</source>
+        <translation>Stufenverlauf</translation>
+    </message>
+    <message>
+        <source>FirstPage</source>
+        <translation>Erste Seite</translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation>Abschnitt</translation>
+    </message>
+    <message>
+        <source>Do not Show Line Number for Blank Line</source>
+        <translation>Zeilennummer nicht anzeigen</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation>Berechtigungen anzeigen</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Anmelden</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Verschlüsselung</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation>Anmeldeinformationen verwalten</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Objekt formatieren</translation>
+    </message>
+    <message>
+        <source>Object Menu</source>
+        <translation>Objektmenü</translation>
+    </message>
+    <message>
+        <source>Create Link</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kingsoft PDF Community</source>
+        <translation>WPS PDF Community</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation>Konvertieren</translation>
+    </message>
+    <message>
+        <source>ImageBackLayer</source>
+        <translation>Nach hinten verschieben</translation>
+    </message>
+    <message>
+        <source>More Layout Options</source>
+        <translation>Weitere Einstellungen</translation>
+    </message>
+    <message>
+        <source>Keyboard shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continuous</source>
+        <translation>Fortlaufendes Lesen</translation>
+    </message>
+    <message>
+        <source>Go to Page</source>
+        <translation>Gehe zu Seite</translation>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation>WPS Blog-Layout</translation>
+    </message>
+    <message>
+        <source>View Historical Backup</source>
+        <translation>Sicherung anzeigen</translation>
+    </message>
+    <message>
+        <source>By Title</source>
+        <translation>Nach Titel</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>Automatisch</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>In PDF exportieren</translation>
+    </message>
+    <message>
+        <source>Recharge</source>
+        <translation>Auflade</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Sicherheit</translation>
+    </message>
+    <message>
+        <source>Backup Management</source>
+        <translation>Sicherungsverwaltung</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Status Bar</source>
+        <translation>Statusleiste</translation>
+    </message>
+    <message>
+        <source>Watercolor Pen</source>
+        <translation>Wasserfarbenstift</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>In Cloud speichern</translation>
+    </message>
+    <message>
+        <source>Slides List</source>
+        <translation>Folienliste</translation>
+    </message>
+    <message>
+        <source>Over Type</source>
+        <translation>Ende der Eingabe</translation>
+    </message>
+    <message>
+        <source>EndPlay</source>
+        <translation>Wiedergabe beenden</translation>
+    </message>
+    <message>
+        <source>Show Next Window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Vertikales Textfeld</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation>Umschläge</translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation>Eingeschränkter Zugriff</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Automatischen Sicherung</translation>
+    </message>
+    <message>
+        <source>NextPage</source>
+        <translation>Nächste Seite</translation>
+    </message>
+    <message>
+        <source>Invisible</source>
+        <translation>Unsichtbar</translation>
+    </message>
+    <message>
+        <source>Visible</source>
+        <translation>Sichtbar</translation>
+    </message>
+    <message>
+        <source>Personal Center</source>
+        <translation>Persönliches Center</translation>
+    </message>
+    <message>
+        <source>Ink Color</source>
+        <translation>Tintenfarbe</translation>
+    </message>
+    <message>
+        <source>Show Paragraph Marks</source>
+        <translation>Absatzmarken anzeigen</translation>
+    </message>
+    <message>
+        <source>Formats</source>
+        <translation>Formate</translation>
+    </message>
+    <message>
+        <source>Page Area</source>
+        <translation>Seitenbereich</translation>
+    </message>
+    <message>
+        <source>Mail Merge Toolbar</source>
+        <translation>Seriendruck-Symbolleiste</translation>
+    </message>
+    <message>
+        <source>View File Safe</source>
+        <translation>Dateisicherheit</translation>
+    </message>
+    <message>
+        <source>ShortcutToolbar</source>
+        <translation>Verknüpfungssymbolleiste</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Berechtigung prüfen</translation>
+    </message>
+    <message>
+        <source>New Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reviewing Pane Horizontal</source>
+        <translation>Überarbeitungsbereich horizontal</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation>Rechtschreibprüfung</translation>
+    </message>
+    <message>
+        <source>Move Window to New Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Arrow Options</source>
+        <translation>Pfeiloptionen</translation>
+    </message>
+    <message>
+        <source>Organize Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Line Number Options</source>
+        <translation>Einstellungen zu Zeilennummern</translation>
+    </message>
+    <message>
+        <source>ConvertPdfImage</source>
+        <translation>Bild in PDF</translation>
+    </message>
+    <message>
+        <source>Suppress for Current Paragraph</source>
+        <translation>Aktuellen Absatz komprimieren</translation>
+    </message>
+    <message>
+        <source>TextMerge</source>
+        <translation>Zusammenführen</translation>
+    </message>
+    <message>
+        <source>TextSplit</source>
+        <translation>Teilen</translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translation>Objekt löschen</translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation>Gitternetzlinien</translation>
+    </message>
+    <message>
+        <source>Close Workspace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Toolbar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation>Abmelden</translation>
     </message>
 </context>
 <context>
@@ -7280,8 +8210,16 @@ Input 5-9 page 5 to page 9</source>
         <translation>Neue leere Seite</translation>
     </message>
     <message>
+        <source>Send E-mail</source>
+        <translation>E-Mail senden</translation>
+    </message>
+    <message>
         <source>About Kingsoft PDF</source>
         <translation>Über WPS PDF</translation>
+    </message>
+    <message>
+        <source>ImgPDF</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SaveAs</source>
@@ -7332,6 +8270,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Neu vom Scanner</translation>
     </message>
     <message>
+        <source>BatchPrint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Kingsoft PDF Community</source>
         <translation>WPS PDF Community</translation>
     </message>
@@ -7350,6 +8292,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>NewFromMD</source>
         <translation>Neu aus Markdown-Datei</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewHtml2PdfFile</source>
@@ -7498,6 +8444,10 @@ Input 5-9 page 5 to page 9</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>ca name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>End Time</source>
         <translation type="unfinished"/>
     </message>
@@ -7535,6 +8485,13 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Version</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageOCRCommand</name>
+    <message>
+        <source>pic</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -7623,6 +8580,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Entfernen</translation>
     </message>
     <message>
+        <source>ENCRYPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>SIGNATURE</source>
         <translation type="unfinished"/>
     </message>
@@ -7692,6 +8653,14 @@ Input 5-9 page 5 to page 9</source>
         <translation>Werkzeug bearbeiten</translation>
     </message>
     <message>
+        <source>Screen Grab Ocr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Grab Ellipse</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Minimize Window</source>
         <translation>Minimieren</translation>
     </message>
@@ -7714,6 +8683,14 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>FullScreen</source>
         <translation>Vollbild</translation>
+    </message>
+    <message>
+        <source>Special Apps</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PdfElectronicInvoicePrint</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Special Features</source>
@@ -7748,6 +8725,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Einfügen</translation>
     </message>
     <message>
+        <source>Grab Polygon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PdfDataStatistics</source>
         <translation type="unfinished"/>
     </message>
@@ -7767,6 +8748,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Service Expired</source>
         <translation>Dienst ist abgelaufen</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Interface Settings</source>
@@ -7819,6 +8804,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>UpdateBackGround</source>
         <translation>Hintergrund aktualisieren</translation>
+    </message>
+    <message>
+        <source>Grab Rect</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -7885,6 +8874,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Symbolleiste anheften</translation>
     </message>
     <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Quick Access Toolbar</source>
         <translation>Symbolleiste für den Schnellzugriff</translation>
     </message>
@@ -7897,6 +8890,14 @@ Input 5-9 page 5 to page 9</source>
         <translation>Bequeme Freigabe</translation>
     </message>
     <message>
+        <source>PdfInvoiceAssist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Sign in</source>
         <translation>Anmelden</translation>
     </message>
@@ -7907,6 +8908,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Tab_Convert</source>
         <translation>Konvertieren</translation>
+    </message>
+    <message>
+        <source>Hide current window when taking screenshots</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PageNumber</source>
@@ -7954,8 +8959,16 @@ Input 5-9 page 5 to page 9</source>
         <translation>Feedback</translation>
     </message>
     <message>
+        <source>Screenshots</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>accout info</source>
         <translation>Kontoinformationen</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings</source>
@@ -8040,45 +9053,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Ribbon center alignment</source>
         <translation>Menüband zentriert ausrichten</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfWaterMarkGalleryCommand</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation>Hinzufügen(&amp;A)</translation>
-    </message>
-    <message>
-        <source>This document already contains watermarks.If you choose to add a new watermark, it may overwrite the existing watermark</source>
-        <translation>Dieses Dokument enthält bereits Wasserzeichen. Das Hinzufügen eines neuen Wasserzeichens kann bestehende Wasserzeichen überschreiben.</translation>
-    </message>
-    <message>
-        <source>Unable to find the watermark source file you specified, please re-select</source>
-        <translation>Die von Ihnen angegebene Wasserzeichen-Quelldatei konnte nicht gefunden werden, bitte erneut auswählen.</translation>
-    </message>
-    <message>
-        <source>&amp;Replace</source>
-        <translation>Ersetzen(&amp;R)</translation>
-    </message>
-    <message>
-        <source>&amp;Comfirm</source>
-        <translation>Bestätigen(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Add failed! WaterMark apply range does not match the number of document pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DO NOT COPY</source>
-        <translation>NICHT KOPIEREN</translation>
-    </message>
-    <message>
-        <source>TOP SECRET</source>
-        <translation>STRENG GEHEIM</translation>
-    </message>
-    <message>
-        <source>CONFIDENTIAL</source>
-        <translation>VERTRAULICH</translation>
     </message>
 </context>
 <context>
@@ -8493,6 +9467,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Absatz</translation>
     </message>
     <message>
+        <source>Document Translate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>Ersetzen</translation>
     </message>
@@ -8513,12 +9491,20 @@ Input 5-9 page 5 to page 9</source>
         <translation>Textfeld</translation>
     </message>
     <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select All</source>
         <translation>Alles auswählen</translation>
     </message>
     <message>
         <source>Editing</source>
         <translation>Bearbeiten</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings</source>
@@ -8535,6 +9521,21 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Tabelle mit gestricheltem Rahmen auswählen</translation>
+    </message>
+</context>
+<context>
+    <name>QLineEdit</name>
+    <message>
+        <source>Cu&amp;t</source>
+        <translation>&amp;Ausschneiden</translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <translation>&amp;Kopieren</translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <translation>Einf&amp;ügen</translation>
     </message>
 </context>
 <context>
@@ -8663,6 +9664,17 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Previous</source>
         <translation>Zurück</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfSearchPane</name>
+    <message>
+        <source>Find</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8841,6 +9853,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Formular</translation>
     </message>
     <message>
+        <source>Signed by &quot;%1&quot;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Signature property</source>
         <translation>Signaturattribute</translation>
     </message>
@@ -8949,6 +9965,13 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Form</source>
         <translation>Formular</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfReplaceContentUI</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9117,6 +10140,14 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
         <translation>Werkzeug bearbeiten</translation>
     </message>
     <message>
+        <source>Docmgr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>StampTool</source>
         <translation>Stempel</translation>
     </message>
@@ -9137,6 +10168,10 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
         <translation>Wasserzeichen</translation>
     </message>
     <message>
+        <source>MergePDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PageHeaderFooter</source>
         <translation>Kopf- und Fußzeile</translation>
     </message>
@@ -9148,12 +10183,20 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
         <translation>Hilfe</translation>
     </message>
     <message>
+        <source>Photo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Quick</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Share</source>
         <translation>Freigeben</translation>
+    </message>
+    <message>
+        <source>Screen Grab Ocr</source>
+        <translation>Bildschirmerfassung und OCR</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -9189,6 +10232,10 @@ reparieren</translation>
         <translation>Sprache exportieren</translation>
     </message>
     <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DeleteBackGround</source>
         <translation>Hintergrund löschen</translation>
     </message>
@@ -9215,6 +10262,14 @@ reparieren</translation>
     <message>
         <source>ElectronicInvoicePrint</source>
         <translation>Elektronische Rechnung drucken</translation>
+    </message>
+    <message>
+        <source>CADTOPdf</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
     </message>
     <message>
         <source>Xie De</source>
@@ -9269,12 +10324,24 @@ reparieren</translation>
         <translation>Ausgewählten Text übersetzen</translation>
     </message>
     <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Check Users Permissions</source>
         <translation>Benutzerberechtigungen überprüfen</translation>
     </message>
     <message>
+        <source>PdfInvoiceAssist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>InterceptSelectedArea</source>
         <translation>Erfassen und vergleichen</translation>
+    </message>
+    <message>
+        <source>Hide current window when taking screenshots</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Translation</source>
@@ -9305,8 +10372,16 @@ reparieren</translation>
         <translation>Globale Suche</translation>
     </message>
     <message>
+        <source>Screen Grab</source>
+        <translation>Bildschirmerfassung</translation>
+    </message>
+    <message>
         <source>Backup Center</source>
         <translation>Automatischen Sicherung</translation>
+    </message>
+    <message>
+        <source>Convert2Photo</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page-Text Speech</source>
@@ -9344,638 +10419,6 @@ scannen</translation>
     <message>
         <source>AddPageNumber</source>
         <translation>Seitennummer hinzufügen</translation>
-    </message>
-</context>
-<context>
-    <name>popupmenu</name>
-    <message>
-        <source>Help</source>
-        <translation>Hilfe</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Keine</translation>
-    </message>
-    <message>
-        <source>Unit</source>
-        <translation>Einheit</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>Vergrößern</translation>
-    </message>
-    <message>
-        <source>BatchImageExtract</source>
-        <translation>Bild in Stapeln extrahieren</translation>
-    </message>
-    <message>
-        <source>Restrict Editing</source>
-        <translation>Bearbeitung einschränken</translation>
-    </message>
-    <message>
-        <source>Arrow</source>
-        <translation>Pfeil</translation>
-    </message>
-    <message>
-        <source>Minisite</source>
-        <translation>Miniseite</translation>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation>Einfügen</translation>
-    </message>
-    <message>
-        <source>Track</source>
-        <translation>Überwachen</translation>
-    </message>
-    <message>
-        <source>Clipboard</source>
-        <translation>Zwischenablage</translation>
-    </message>
-    <message>
-        <source>EditImage</source>
-        <translation>Bild bearbeiten</translation>
-    </message>
-    <message>
-        <source>Unrestricted Access</source>
-        <translation>Unbeschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation>Horizontal</translation>
-    </message>
-    <message>
-        <source>ImageForwardLayer</source>
-        <translation>Nach vorne verschieben</translation>
-    </message>
-    <message>
-        <source>Check for Updates</source>
-        <translation>Update überprüfen</translation>
-    </message>
-    <message>
-        <source>Create Cloud Link</source>
-        <translation>Cloud-Verknüpfung erstellen</translation>
-    </message>
-    <message>
-        <source>Restart Each Page</source>
-        <translation>Jede Seite neu beginnen</translation>
-    </message>
-    <message>
-        <source>Close Other Windows</source>
-        <translation>Andere Fenster schließen</translation>
-    </message>
-    <message>
-        <source>Close Window</source>
-        <translation>Schließen</translation>
-    </message>
-    <message>
-        <source>Restart Each Section</source>
-        <translation>Jeden Abschnitt neu beginnen</translation>
-    </message>
-    <message>
-        <source>Enable AutoBackup</source>
-        <translation>Automatische Sicherung aktivieren</translation>
-    </message>
-    <message>
-        <source>Place on Right</source>
-        <translation>Nach rechts verschieben</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation>Als Bild exportieren</translation>
-    </message>
-    <message>
-        <source>Change Version</source>
-        <translation>Version ändern</translation>
-    </message>
-    <message>
-        <source>IntranetVersion Online Templates</source>
-        <translation>Vorlagen</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF Help</source>
-        <translation>Hilfe zu WPS PDF</translation>
-    </message>
-    <message>
-        <source>Highlighter</source>
-        <translation>Textmarker</translation>
-    </message>
-    <message>
-        <source>Use Magnifier</source>
-        <translation>Lupe verwenden</translation>
-    </message>
-    <message>
-        <source>Place on Left</source>
-        <translation>Nach links verschieben</translation>
-    </message>
-    <message>
-        <source>COM 
-Add-Ins</source>
-        <translation>COM Add-Ins</translation>
-    </message>
-    <message>
-        <source>View Shortcut</source>
-        <translation>Tastenkombinationen von Ansicht</translation>
-    </message>
-    <message>
-        <source>Image2Bottom</source>
-        <translation>Nach unten setzen</translation>
-    </message>
-    <message>
-        <source>PreviousPage</source>
-        <translation>Vorherige Seite</translation>
-    </message>
-    <message>
-        <source>Record Macro</source>
-        <translation>Makro aufzeichnen</translation>
-    </message>
-    <message>
-        <source>Genko Setting</source>
-        <translation>Genko-Einstellung</translation>
-    </message>
-    <message>
-        <source>Online Templates</source>
-        <translation>Vorlagen</translation>
-    </message>
-    <message>
-        <source>Send E-mail</source>
-        <translation>E-Mail senden</translation>
-    </message>
-    <message>
-        <source>Accept</source>
-        <translation>Annehmen</translation>
-    </message>
-    <message>
-        <source>More Historical Records</source>
-        <translation>Weitere Datensätze</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation>Ordner öffnen</translation>
-    </message>
-    <message>
-        <source>Column</source>
-        <translation>Spalte</translation>
-    </message>
-    <message>
-        <source>About Kingsoft PDF</source>
-        <translation>Über WPS PDF</translation>
-    </message>
-    <message>
-        <source>Eraser</source>
-        <translation>Radierer</translation>
-    </message>
-    <message>
-        <source>Finish</source>
-        <translation>Abgeschlossen</translation>
-    </message>
-    <message>
-        <source>Line Number</source>
-        <translation>Zeilennummer</translation>
-    </message>
-    <message>
-        <source>Page Number</source>
-        <translation>Seitenzahl</translation>
-    </message>
-    <message>
-        <source>Markup</source>
-        <translation>Markup</translation>
-    </message>
-    <message>
-        <source>Disable AutoBackup</source>
-        <translation>Automatische Sicherung deaktivieren</translation>
-    </message>
-    <message>
-        <source>WPS Forum</source>
-        <translation>WPS Forum</translation>
-    </message>
-    <message>
-        <source>Annotate</source>
-        <translation>Hervorhebung und Markup</translation>
-    </message>
-    <message>
-        <source>annotate</source>
-        <translation>Anmerkungen zulassen</translation>
-    </message>
-    <message>
-        <source>Area Highlight</source>
-        <translation>Bereich hervorheben</translation>
-    </message>
-    <message>
-        <source>Reject</source>
-        <translation>Ablehnen</translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation>Erneut laden</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>Drehen</translation>
-    </message>
-    <message>
-        <source>Last Viewed</source>
-        <translation>Zuletzt angesehen</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF Homepage</source>
-        <translation>Homepage von WPS PDF</translation>
-    </message>
-    <message>
-        <source>Enter Activation Code</source>
-        <translation>Aktivierungscode eingeben</translation>
-    </message>
-    <message>
-        <source>Full Screen</source>
-        <translation>Vollbild</translation>
-    </message>
-    <message>
-        <source>New Window</source>
-        <translation>Neues Fenster</translation>
-    </message>
-    <message>
-        <source>Zoom Slider</source>
-        <translation>Zoom</translation>
-    </message>
-    <message>
-        <source>Pointer Options</source>
-        <translation>Zeigeroptionen</translation>
-    </message>
-    <message>
-        <source>Word Count</source>
-        <translation>Wörter zählen</translation>
-    </message>
-    <message>
-        <source>pdfconvertword</source>
-        <translation>Nach Word exportieren</translation>
-    </message>
-    <message>
-        <source>Set State</source>
-        <translation>Status festlegen</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation>Word-Tool</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Open Backup Directory</source>
-        <translation>Sicherungsverzeichnis öffnen</translation>
-    </message>
-    <message>
-        <source>WPS Office Homepage</source>
-        <translation>WPS Office-HomePage</translation>
-    </message>
-    <message>
-        <source>Close All</source>
-        <translation>Alle Schließen</translation>
-    </message>
-    <message>
-        <source>EditImageLayer</source>
-        <translation>Bildebene bearbeiten</translation>
-    </message>
-    <message>
-        <source>Photo2PDF</source>
-        <translation>Bild in PDF</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Eigenschaften</translation>
-    </message>
-    <message>
-        <source>WPS Microblog</source>
-        <translation>WPS Blog</translation>
-    </message>
-    <message>
-        <source>Offline Management</source>
-        <translation>Offline-Management</translation>
-    </message>
-    <message>
-        <source>Manual Backup</source>
-        <translation>Manuelle Sicherung</translation>
-    </message>
-    <message>
-        <source>WPS Office Facebook</source>
-        <translation>WPS Office Facebook</translation>
-    </message>
-    <message>
-        <source>PictureHierarchy</source>
-        <translation>Bildhierarchie</translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation>Dateifreigabe</translation>
-    </message>
-    <message>
-        <source>Reviewing Pane Vertical</source>
-        <translation>Überarbeitungsbereich vertikal</translation>
-    </message>
-    <message>
-        <source>Add-Ins</source>
-        <translation>Add-Ins</translation>
-    </message>
-    <message>
-        <source>Styles and Formatting</source>
-        <translation>Stil und Format</translation>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Im Blog teilen</translation>
-    </message>
-    <message>
-        <source>Image2top</source>
-        <translation>Nach oben setzen</translation>
-    </message>
-    <message>
-        <source>Ball Pen</source>
-        <translation>Kugelschreiber</translation>
-    </message>
-    <message>
-        <source>Compared Side by Side</source>
-        <translation>Nebeneinander anzeigen</translation>
-    </message>
-    <message>
-        <source>Open from Cloud Docs</source>
-        <translation>Öffnen aus Cloud-Datei</translation>
-    </message>
-    <message>
-        <source>Chinese Transition</source>
-        <translation>Chinesische Übersetzung</translation>
-    </message>
-    <message>
-        <source>Show More Windows</source>
-        <translation>Mehr Fenster anzeigen</translation>
-    </message>
-    <message>
-        <source>LastPage</source>
-        <translation>Letzte Seite</translation>
-    </message>
-    <message>
-        <source>Play Back</source>
-        <translation>Wiedergabe</translation>
-    </message>
-    <message>
-        <source>Translate selected text</source>
-        <translation>Ausgewählten Text übersetzen</translation>
-    </message>
-    <message>
-        <source>Save All</source>
-        <translation>Alle speichern</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>Im Blog teilen</translation>
-    </message>
-    <message>
-        <source>Check Users Permissions</source>
-        <translation>Berechtigungen prüfen</translation>
-    </message>
-    <message>
-        <source>Product Management Center</source>
-        <translation>Management-Center</translation>
-    </message>
-    <message>
-        <source>Erase All Inks on Slide</source>
-        <translation>Alle Ink-Notizen auf der Folie löschen</translation>
-    </message>
-    <message>
-        <source>WPS Office New features</source>
-        <translation>Neue Funktionen</translation>
-    </message>
-    <message>
-        <source>Cascade</source>
-        <translation>Stufenverlauf</translation>
-    </message>
-    <message>
-        <source>FirstPage</source>
-        <translation>Erste Seite</translation>
-    </message>
-    <message>
-        <source>Section</source>
-        <translation>Abschnitt</translation>
-    </message>
-    <message>
-        <source>Do not Show Line Number for Blank Line</source>
-        <translation>Zeilennummer nicht anzeigen</translation>
-    </message>
-    <message>
-        <source>View Permissions</source>
-        <translation>Berechtigungen anzeigen</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Anmelden</translation>
-    </message>
-    <message>
-        <source>Encryption</source>
-        <translation>Verschlüsselung</translation>
-    </message>
-    <message>
-        <source>Manage Credentials</source>
-        <translation>Anmeldeinformationen verwalten</translation>
-    </message>
-    <message>
-        <source>Format Object</source>
-        <translation>Objekt formatieren</translation>
-    </message>
-    <message>
-        <source>Object Menu</source>
-        <translation>Objektmenü</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF Community</source>
-        <translation>WPS PDF Community</translation>
-    </message>
-    <message>
-        <source>Convert</source>
-        <translation>Konvertieren</translation>
-    </message>
-    <message>
-        <source>ImageBackLayer</source>
-        <translation>Nach hinten verschieben</translation>
-    </message>
-    <message>
-        <source>More Layout Options</source>
-        <translation>Weitere Einstellungen</translation>
-    </message>
-    <message>
-        <source>Continuous</source>
-        <translation>Fortlaufendes Lesen</translation>
-    </message>
-    <message>
-        <source>Go to Page</source>
-        <translation>Gehe zu Seite</translation>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation>WPS Blog-Layout</translation>
-    </message>
-    <message>
-        <source>View Historical Backup</source>
-        <translation>Sicherung anzeigen</translation>
-    </message>
-    <message>
-        <source>By Title</source>
-        <translation>Nach Titel</translation>
-    </message>
-    <message>
-        <source>Automatic</source>
-        <translation>Automatisch</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>In PDF exportieren</translation>
-    </message>
-    <message>
-        <source>Recharge</source>
-        <translation>Auflade</translation>
-    </message>
-    <message>
-        <source>Security</source>
-        <translation>Sicherheit</translation>
-    </message>
-    <message>
-        <source>Backup Management</source>
-        <translation>Sicherungsverwaltung</translation>
-    </message>
-    <message>
-        <source>Status Bar</source>
-        <translation>Statusleiste</translation>
-    </message>
-    <message>
-        <source>Watercolor Pen</source>
-        <translation>Wasserfarbenstift</translation>
-    </message>
-    <message>
-        <source>Save to Cloud Docs</source>
-        <translation>In Cloud speichern</translation>
-    </message>
-    <message>
-        <source>Slides List</source>
-        <translation>Folienliste</translation>
-    </message>
-    <message>
-        <source>Over Type</source>
-        <translation>Ende der Eingabe</translation>
-    </message>
-    <message>
-        <source>EndPlay</source>
-        <translation>Wiedergabe beenden</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation>Vertikales Textfeld</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Envelopes</source>
-        <translation>Umschläge</translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <translation>Eingeschränkter Zugriff</translation>
-    </message>
-    <message>
-        <source>NextPage</source>
-        <translation>Nächste Seite</translation>
-    </message>
-    <message>
-        <source>Invisible</source>
-        <translation>Unsichtbar</translation>
-    </message>
-    <message>
-        <source>Visible</source>
-        <translation>Sichtbar</translation>
-    </message>
-    <message>
-        <source>Personal Center</source>
-        <translation>Persönliches Center</translation>
-    </message>
-    <message>
-        <source>Ink Color</source>
-        <translation>Tintenfarbe</translation>
-    </message>
-    <message>
-        <source>Show Paragraph Marks</source>
-        <translation>Absatzmarken anzeigen</translation>
-    </message>
-    <message>
-        <source>Formats</source>
-        <translation>Formate</translation>
-    </message>
-    <message>
-        <source>Page Area</source>
-        <translation>Seitenbereich</translation>
-    </message>
-    <message>
-        <source>Mail Merge Toolbar</source>
-        <translation>Seriendruck-Symbolleiste</translation>
-    </message>
-    <message>
-        <source>View File Safe</source>
-        <translation>Dateisicherheit</translation>
-    </message>
-    <message>
-        <source>ShortcutToolbar</source>
-        <translation>Verknüpfungssymbolleiste</translation>
-    </message>
-    <message>
-        <source>Check Mine Permission</source>
-        <translation>Berechtigung prüfen</translation>
-    </message>
-    <message>
-        <source>Reviewing Pane Horizontal</source>
-        <translation>Überarbeitungsbereich horizontal</translation>
-    </message>
-    <message>
-        <source>Spell Check</source>
-        <translation>Rechtschreibprüfung</translation>
-    </message>
-    <message>
-        <source>Arrow Options</source>
-        <translation>Pfeiloptionen</translation>
-    </message>
-    <message>
-        <source>Line Number Options</source>
-        <translation>Einstellungen zu Zeilennummern</translation>
-    </message>
-    <message>
-        <source>ConvertPdfImage</source>
-        <translation>Bild in PDF</translation>
-    </message>
-    <message>
-        <source>Suppress for Current Paragraph</source>
-        <translation>Aktuellen Absatz komprimieren</translation>
-    </message>
-    <message>
-        <source>TextMerge</source>
-        <translation>Zusammenführen</translation>
-    </message>
-    <message>
-        <source>TextSplit</source>
-        <translation>Teilen</translation>
-    </message>
-    <message>
-        <source>Delete Object</source>
-        <translation>Objekt löschen</translation>
-    </message>
-    <message>
-        <source>Gridlines</source>
-        <translation>Gitternetzlinien</translation>
-    </message>
-    <message>
-        <source>Sign out</source>
-        <translation>Abmelden</translation>
     </message>
 </context>
 <context>
@@ -10373,10 +10816,6 @@ upgrade to WPS VIP?</source>
         <translation>Ordner öffnen</translation>
     </message>
     <message>
-        <source>PDF Extract Page is VIP exclusive privilege</source>
-        <translation>&quot;Seite extrahieren&quot; ist eine WPS Premium-Berechtigung</translation>
-    </message>
-    <message>
         <source>Document Extracted Done</source>
         <translation>Die Seitenextraktion des aktuellen Dokuments ist abgeschlossen</translation>
     </message>
@@ -10411,10 +10850,6 @@ upgrade to WPS VIP?</source>
     <message>
         <source>Please rename with a shorter one</source>
         <translation>Benennen Sie sie in einen kürzeren Namen um</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Source Filename</source>
@@ -10552,6 +10987,14 @@ bevor Sie die Funktion zum Extrahieren von Seiten verwenden. Die manuelle Eingab
         <translation>Der Ausgabeort ist falsch oder nicht vorhanden.</translation>
     </message>
     <message>
+        <source>PDF Extract Page is VIP exclusive privilege</source>
+        <translation>&quot;Seite extrahieren&quot; ist eine WPS Premium-Berechtigung</translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
         <source>Open File</source>
         <translation>Datei öffnen</translation>
     </message>
@@ -10629,12 +11072,20 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Graffiti</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>Ersetzen</translation>
     </message>
     <message>
         <source>StrikeOut</source>
         <translation>Durchgestrichen</translation>
+    </message>
+    <message>
+        <source>InstructBox</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextComment</source>
@@ -10781,6 +11232,14 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
         <translation>Abbrechen</translation>
     </message>
     <message>
+        <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VIP rights ineffective?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>You are using &quot;%1&quot; member function, please upgrade to member</source>
         <translation type="unfinished"/>
     </message>
@@ -10790,6 +11249,10 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>Login now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11201,6 +11664,37 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>KxPdfPopupTipsWidget</name>
+    <message>
+        <source>Tips</source>
+        <translation>Tipps</translation>
+    </message>
+    <message>
+        <source>VipOk</source>
+        <translation>Für Mitglieder verfügbare Funktionen</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>Dialogfeld</translation>
+    </message>
+    <message>
+        <source>ConfirmOk</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Bestätigen</translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation>Inhalt</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_annotation</name>
     <message>
         <source>Tool</source>
@@ -11235,6 +11729,17 @@ Window</source>
     <message>
         <source>Tool</source>
         <translation>Werkzeug</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_instructbox</name>
+    <message>
+        <source>Tool</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TextStyle</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11521,10 +12026,49 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>KxPdfTemplatePrintWidget</name>
+    <message>
+        <source>more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Letter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Squarepaper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Connell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dotmatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Weekgtd</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Singleline</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>kxpdfhtml2pdftipwidgetui</name>
     <message>
         <source>open</source>
         <translation>Öffnen</translation>
+    </message>
+    <message>
+        <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -11552,6 +12096,13 @@ Window</source>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
         <translation>UI wechseln</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfSplitMergeCommand</name>
+    <message>
+        <source>Combine PDF</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11719,6 +12270,77 @@ Window</source>
     <message>
         <source>Content and note</source>
         <translation>Inhalt und die Notiz sind eine persönliche Korrespondenz</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfPremiumGuideDialog</name>
+    <message>
+        <source>Cancel anytime</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Split Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(Current feature)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Fluid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output as image-only PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Crop Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit content in PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free 7-day trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Premium include 51 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add Attachment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are using a premium feature. Try Premium for free to enable this feature and save the changes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Try All Premium Features</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manager PDF page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12249,6 +12871,17 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>KxPdfOcrExtractTextOutputEtCommand</name>
+    <message>
+        <source>Photo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> files</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KPdfDocRepairMultiProcessIPC</name>
     <message>
         <source>Retry</source>
@@ -12291,6 +12924,10 @@ Window</source>
     </message>
     <message>
         <source>Excerpt export failed, please try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Excerpt data export</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -12438,6 +13075,10 @@ Window</source>
         <translation>Werkzeug</translation>
     </message>
     <message>
+        <source>Docmgr</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Menu Tools</source>
         <translation>Menü &quot;Werkzeuge&quot;</translation>
     </message>
@@ -12459,14 +13100,41 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>KxPdfTextEditGuideDlg</name>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade to VIP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_page</name>
     <message>
         <source>Views</source>
         <translation>Ansicht</translation>
     </message>
     <message>
+        <source>SplitPDFPage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MergePDFPage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Document Views</source>
         <translation>Ansicht des Dokuments</translation>
+    </message>
+    <message>
+        <source>Docmgr</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Organize Page</source>
@@ -12521,6 +13189,14 @@ Window</source>
         <translation>Größe anpassen</translation>
     </message>
     <message>
+        <source>Open Directory(W)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Replace Up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Cur page num</source>
         <translation>Seite: %1</translation>
     </message>
@@ -12549,6 +13225,10 @@ Window</source>
         <translation>Tatsächliche Größe</translation>
     </message>
     <message>
+        <source>Open File(E)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WholeWordsSearch</source>
         <translation>Nur ganzes Wort suchen</translation>
     </message>
@@ -12573,12 +13253,20 @@ Window</source>
         <translation>Prozent(&amp;E):</translation>
     </message>
     <message>
+        <source>Replace Down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>All Fonts</source>
         <translation>Alle Schriftarten</translation>
     </message>
     <message>
         <source>Zoom Level</source>
         <translation>Zoomfaktor</translation>
+    </message>
+    <message>
+        <source>Replace direction</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IncludeBookmarks</source>
@@ -12645,6 +13333,17 @@ Window</source>
     <message>
         <source>all pages</source>
         <translation>Alle Seiten</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfPicturePropertyTabbar</name>
+    <message>
+        <source>level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>replace image</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12868,6 +13567,21 @@ Window</source>
     </message>
 </context>
 <context>
+    <name>pdfongmani.mainwindow</name>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>Kingsoft StandAlone PDF</source>
+        <translation>Standalone WPS PDF</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfAnnotationView</name>
     <message>
         <source>The comment has been hidden. Click the &quot;Show Comment&quot; function to display the content of the comment hidden in the text.</source>
@@ -12986,6 +13700,10 @@ Window</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>ca name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Wrong password. Please re-enter.</source>
         <translation type="unfinished"/>
     </message>
@@ -13002,15 +13720,55 @@ Window</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
+        <source>ca pwd:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>confirm</source>
         <translation>Bestätigen</translation>
     </message>
 </context>
 <context>
-    <name>KxPdfCompressTipsDialog</name>
+    <name>KxPdfReplaceContentWidget</name>
     <message>
-        <source>The Compressed size is %1,decrease %2.</source>
-        <translation>Die komprimierte Größe beträgt %1, Reduktion %2.</translation>
+        <source>Looking for...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Got it</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Find prompt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current document is a scanned document, and the content cannot be searched and replaced.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>replace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The search content was not found.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter replacement content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Replacement prompt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current document is not a PDF file, and the content cannot be searched and replaced.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Replacing...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13053,6 +13811,10 @@ Window</source>
     <message>
         <source>From scanner</source>
         <translation>Neu vom Scanner</translation>
+    </message>
+    <message>
+        <source>Create a PDF from any format</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert an Office file (.docx, .xlsx, .ppt, .jpg, etc.) to a PDF.</source>
@@ -13146,17 +13908,6 @@ scannen</translation>
     </message>
 </context>
 <context>
-    <name>pdfongmani.mainwindow</name>
-    <message>
-        <source>Kingsoft PDF</source>
-        <translation>WPS PDF</translation>
-    </message>
-    <message>
-        <source>Kingsoft StandAlone PDF</source>
-        <translation>Standalone WPS PDF</translation>
-    </message>
-</context>
-<context>
     <name>ongmani.ct_protect</name>
     <message>
         <source>Permissions</source>
@@ -13185,6 +13936,10 @@ scannen</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Forward</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -13264,6 +14019,10 @@ scannen</translation>
     </message>
     <message>
         <source>Step 1: Go to the PDF component and click the [Settings] button in the upper right corner</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Turn on protection</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -13738,6 +14497,56 @@ Please batches operations</source>
     </message>
 </context>
 <context>
+    <name>KxPdfWaterMarkGalleryModel</name>
+    <message>
+        <source>edit watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>click is to delete watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>click is to edit watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>complete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>delete watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>manage</source>
+        <translation>Verwalten</translation>
+    </message>
+    <message>
+        <source>Drag adjustment order</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Benutzerdefiniertes Wasserzeichen</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfBackgroundGuideDlg</name>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The background function has moved to the bottom of the window, and the current entrance will be blocked.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I know</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KFullScreenCommand</name>
     <message>
         <source>Quit FullScreen</source>
@@ -13968,37 +14777,6 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
 </context>
 <context>
-    <name>KxPdfWaterMarkGalleryModel</name>
-    <message>
-        <source>click is to delete watermark</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>click is to edit watermark</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>complete</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>delete watermark</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>manage</source>
-        <translation>Verwalten</translation>
-    </message>
-    <message>
-        <source>Drag adjustment order</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Benutzerdefiniertes Wasserzeichen</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfGalleryFontComboBox</name>
     <message>
         <source> (Body)</source>
@@ -14037,6 +14815,61 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <message>
         <source>Reply(R)</source>
         <translation>Antworten</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_workspace</name>
+    <message>
+        <source>Photo to PDF</source>
+        <translation>Bild in PDF</translation>
+    </message>
+    <message>
+        <source>Screen Recorder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Excel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Word Tools</source>
+        <translation>Text-Tool</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDFPagesOper</source>
+        <translation>Seitenvorgang</translation>
+    </message>
+    <message>
+        <source>PDF2Word</source>
+        <translation>PDF in Word</translation>
+    </message>
+    <message>
+        <source>Document Translate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF2Photo</source>
+        <translation>PDF in Foto</translation>
+    </message>
+    <message>
+        <source>OtherSpecialFeatures</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14091,6 +14924,10 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <message>
         <source>Cloud Synchronization</source>
         <translation>Cloud-Synchronisierung</translation>
+    </message>
+    <message>
+        <source>Only WPS Premium members can sync signatures to the cloud.Go Premium to enjoy value-added features.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cloud synchronization description</source>
@@ -14225,10 +15062,52 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfImageRecognizeDialog</name>
+    <message>
+        <source>current page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>continue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfFillSignColorButton</name>
     <message>
         <source>Select Color</source>
         <translation>Farbauswahl</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCannotEraseObjDlg</name>
+    <message>
+        <source>The part of the content that cannot be erased will be covered.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Got it</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is content that cannot be erased</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Do not remind again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Erasable objects : text, pictures, notes, hyperlinks, etc.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14279,12 +15158,51 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
         <source>Synchronize to cloud</source>
         <translation>In die Cloud synchronisieren</translation>
     </message>
+    <message>
+        <source>local signature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cloud signature</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>pdfhomepage</name>
     <message>
         <source>Page HomePage</source>
         <translation>Homepage</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCaTableWidget</name>
+    <message>
+        <source>End Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Issuer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CA name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>purpose</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>no content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Deadline Time</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14515,13 +15433,6 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
 </context>
 <context>
-    <name>KxPdfCompressTipsDialogWidget</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialogfeld</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfCorrectTipsDialogWidget</name>
     <message>
         <source>Dialog</source>
@@ -14719,29 +15630,6 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     </message>
 </context>
 <context>
-    <name>KxPdfCaTableWidget</name>
-    <message>
-        <source>Issuer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>CA name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>purpose</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>no content</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Deadline Time</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KxPdfOcrExportFileCommand</name>
     <message>
         <source>The extraction area is too large, please re-operate.</source>
@@ -14806,6 +15694,10 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <name>KxPdfLdpGuideDialog</name>
     <message>
         <source>No more reminders</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable WPS PDF association protection</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -15311,21 +16203,6 @@ For File Lost or Path Changed!</source>
     <message>
         <source>StraightLine</source>
         <translation>Gerade Linie</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_workspace</name>
-    <message>
-        <source>PDFPagesOper</source>
-        <translation>Seitenvorgang</translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF in Word</translation>
-    </message>
-    <message>
-        <source>PDF2Photo</source>
-        <translation>PDF in Foto</translation>
     </message>
 </context>
 <context>
@@ -16103,37 +16980,6 @@ Beispiel: 1,3,5-12.</translation>
     </message>
 </context>
 <context>
-    <name>KxPdfPopupTipsWidget</name>
-    <message>
-        <source>Tips</source>
-        <translation>Tipps</translation>
-    </message>
-    <message>
-        <source>VipOk</source>
-        <translation>Für Mitglieder verfügbare Funktionen</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialogfeld</translation>
-    </message>
-    <message>
-        <source>ConfirmOk</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Bestätigen</translation>
-    </message>
-    <message>
-        <source>Content</source>
-        <translation>Inhalt</translation>
-    </message>
-</context>
-<context>
     <name>kxPdfTemplatesPrintDialog</name>
     <message>
         <source>choose paper(A4)</source>
@@ -16176,6 +17022,13 @@ Beispiel: 1,3,5-12.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfCompressTipsDialog</name>
+    <message>
+        <source>The Compressed size is %1,decrease %2.</source>
+        <translation>Die komprimierte Größe beträgt %1, Reduktion %2.</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfReadingToolboxWidget</name>
     <message>
         <source>Close Toolbox</source>
@@ -16209,6 +17062,13 @@ Beispiel: 1,3,5-12.</translation>
     <message>
         <source>cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCompressTipsDialogWidget</name>
+    <message>
+        <source>Dialog</source>
+        <translation>Dialogfeld</translation>
     </message>
 </context>
 <context>
