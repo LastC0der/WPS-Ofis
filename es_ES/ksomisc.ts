@@ -277,6 +277,10 @@
         <translation>Cancelar</translation>
     </message>
     <message>
+        <source>Proxy Settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>I have read and agree with WPS Office</source>
         <translation>He leído y acepto WPS Office</translation>
     </message>
@@ -478,10 +482,6 @@ These operations can be undone. </source>
         <translation>Archivos Portable Document Format (*.pdf)</translation>
     </message>
     <message>
-        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>&amp;Presentaciones de Microsoft Powerpoint(*.ppt, *.pot, *.pps, *.pptx archivos)</translation>
-    </message>
-    <message>
         <source>Pdf Document(*.pdf)</source>
         <translation type="unfinished"/>
     </message>
@@ -522,10 +522,6 @@ These operations can be undone. </source>
         <translation>Archivos de imagen (*.jpg, *.png, *.gif, ...) (&amp;U)</translation>
     </message>
     <message>
-        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Libros de Microsoft &amp;Excel (*.xls, *.xlt, *.xlsx archivos)</translation>
-    </message>
-    <message>
         <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
         <translation type="unfinished"/>
     </message>
@@ -540,6 +536,14 @@ These operations can be undone. </source>
     <message>
         <source>Compat Setting</source>
         <translation>Configuración de compatibilidad</translation>
+    </message>
+    <message>
+        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
+        <translation>&amp;Presentaciones de Microsoft Powerpoint(*.ppt, *.pot, *.pps, *.pptx archivos)</translation>
+    </message>
+    <message>
+        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
+        <translation>Libros de Microsoft &amp;Excel (*.xls, *.xlt, *.xlsx archivos)</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
@@ -1195,6 +1199,10 @@ These operations can be undone. </source>
         <translation>Otros</translation>
     </message>
     <message>
+        <source>delete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>cache clear finished.</source>
         <translation>El borrado de caché ha finalizado.</translation>
     </message>
@@ -1292,6 +1300,10 @@ These operations can be undone. </source>
     <message>
         <source>Uninstall WPS Office</source>
         <translation>Desinstalar WPS Office </translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
@@ -1628,6 +1640,69 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     </message>
 </context>
 <context>
+    <name>KFileAsso</name>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>Use WPS E-Book to read and edit e-book.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use WPS Presentation to edit and play presentations.</source>
+        <translation>Use WPS Presentation para modificar y representar presentación.   </translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation>Utilice WPS PDF para leer y editar archivos PDF.</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Standalone</source>
+        <translation>WPS PDF autónomo</translation>
+    </message>
+    <message>
+        <source>Use WPS Writer to write reports and make up articles.</source>
+        <translation>Use  WPS Writer para escribir informes e inventar artículos. </translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation>Servicio de ofimática Todo en uno</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Use WPS Spreadsheets to analyze and manage data.</source>
+        <translation>Use WPS Spreadsheets para analizar y organizar datos.  </translation>
+    </message>
+    <message>
+        <source>Kingsoft Mobi</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KGdprConfigUi</name>
     <message>
         <source>Privacy Settings</source>
@@ -1718,65 +1793,6 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     </message>
 </context>
 <context>
-    <name>KFileAsso</name>
-    <message>
-        <source>WPS Presentation</source>
-        <translation>WPS Presentation</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF</source>
-        <translation>WPS PDF</translation>
-    </message>
-    <message>
-        <source>Use WPS E-Book to read and edit e-book.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use WPS Presentation to edit and play presentations.</source>
-        <translation>Use WPS Presentation para modificar y representar presentación.   </translation>
-    </message>
-    <message>
-        <source>Use WPS PDF to read and edit pdf.</source>
-        <translation>Utilice WPS PDF para leer y editar archivos PDF.</translation>
-    </message>
-    <message>
-        <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Writer</source>
-        <translation>WPS Writer</translation>
-    </message>
-    <message>
-        <source>Kingsoft PDF Standalone</source>
-        <translation>WPS PDF autónomo</translation>
-    </message>
-    <message>
-        <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation>Use  WPS Writer para escribir informes e inventar artículos. </translation>
-    </message>
-    <message>
-        <source>All-in-one office service</source>
-        <translation>Servicio de ofimática Todo en uno</translation>
-    </message>
-    <message>
-        <source>WPS Spreadsheets</source>
-        <translation>WPS Spreadsheets</translation>
-    </message>
-    <message>
-        <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation>Use WPS Spreadsheets para analizar y organizar datos.  </translation>
-    </message>
-    <message>
-        <source>Kingsoft Mobi</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KFunctionCustomization</name>
     <message>
         <source>Disable online resource recommend.</source>
@@ -1784,14 +1800,6 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     </message>
     <message>
         <source>Function Customization</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1808,6 +1816,14 @@ Puede corregir los errores encontrados al usar WPS Office o ajustar la configura
     </message>
     <message>
         <source>Disable template recommend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide cloud shellext.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
 </context>
