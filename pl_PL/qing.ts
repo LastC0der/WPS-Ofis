@@ -1577,6 +1577,10 @@ Are you sure to modify?</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>No permission, author forbids document download</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Cloud</source>
         <translation>WPS Cloud</translation>
     </message>
@@ -1619,6 +1623,10 @@ Are you sure to modify?</source>
     <message>
         <source>illegal filename</source>
         <translation>niedozwolona nazwa pliku</translation>
+    </message>
+    <message>
+        <source>SaveAs file succeed</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid user.</source>
@@ -2454,6 +2462,37 @@ Are you sure to modify?</source>
     </message>
 </context>
 <context>
+    <name>KOtherCloudMessageWidget</name>
+    <message>
+        <source>No</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have successfully logged in through Dropbox. And if you authorize the Dropbox cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have successfully logged in through Google. And if you authorize the Google Drive cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Do not check this when logining next time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Authorize WPS Office to access Dropbox?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Authorize WPS Office to access Google Drive?</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QSql</name>
     <message>
         <source>No</source>
@@ -2505,6 +2544,32 @@ Are you sure to modify?</source>
     <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KMacCancelSyncFolderWidget</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KMacFileSyncFailWidget</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>feedback</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2781,7 +2846,15 @@ Are you sure to modify?</source>
         <translation>WPS Office</translation>
     </message>
     <message>
+        <source>2. You can also log back in, login complete will automatically go off-line the earliest login device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>dingding</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can resolve the issue by:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2821,6 +2894,10 @@ Are you sure to modify?</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The number of login devices under your account has reached the maximum limit, the current device is automatically offline</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>overdevmax</source>
         <translation type="unfinished"/>
     </message>
@@ -2846,6 +2923,10 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Shut down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign back in</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3645,6 +3726,10 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Document Received</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Auto Uploaded</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QWebPage</name>
@@ -4273,6 +4358,10 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Download failed. This group no longer exists.</source>
         <translation>Pobieranie nie powiodło się. Ta grupa już nie istnieje.</translation>
+    </message>
+    <message>
+        <source>WPS Diagnositic</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close settings dialog before sign out</source>
@@ -4954,6 +5043,10 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
         <source>Selection</source>
         <translation>Zaznaczenie</translation>
     </message>
+    <message>
+        <source>Cloud Document</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QPageSetupWidget</name>
@@ -5230,6 +5323,37 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     </message>
 </context>
 <context>
+    <name>KSyncCacheFolderWidget</name>
+    <message>
+        <source>Know</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please select another directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The currently selected folder cannot be set to a synchronous directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Sync error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The folder selected contains cache folder;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please select another folder that not contains cache folder</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>QDoubleSpinBox</name>
     <message>
         <source>Less</source>
@@ -5418,6 +5542,13 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     </message>
 </context>
 <context>
+    <name>KTrayMiddleWidget</name>
+    <message>
+        <source>Tool</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KTotalDetailItem</name>
     <message>
         <source>Tray</source>
@@ -5563,6 +5694,53 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     <message>
         <source>View</source>
         <translation>Widok</translation>
+    </message>
+</context>
+<context>
+    <name>KTrayTopItem</name>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clean up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paused</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>My Cloud Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Sync</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Space:%1/%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6874,6 +7052,10 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
         <translation>Anuluj</translation>
     </message>
     <message>
+        <source>New path can not be local sync folder or sub folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Operation Tips</source>
         <translation>Wskazówki dotyczące działania</translation>
     </message>
@@ -7369,6 +7551,21 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     </message>
 </context>
 <context>
+    <name>KMacSyncFolderWidget</name>
+    <message>
+        <source>Sync now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade VIP</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KSyncFolderCloudWidget</name>
     <message>
         <source>Sync now</source>
@@ -7597,6 +7794,25 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     </message>
 </context>
 <context>
+    <name>KMacSameFolderDialog</name>
+    <message>
+        <source>Cloud</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>My cloud documents</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KWpsClearCacheMsgBox</name>
     <message>
         <source>I See</source>
@@ -7672,6 +7888,13 @@ Wolne miejsce: około %1 MB</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KDesktopSyncUnavailableWidget</name>
+    <message>
+        <source>Known</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -7857,6 +8080,65 @@ na
     <message>
         <source>SpeedoMeter</source>
         <translation>Prędkościomierz</translation>
+    </message>
+</context>
+<context>
+    <name>KUploadLimitBubbleOld</name>
+    <message>
+        <source>upload file failed for exceeding %1 limit,upgrade super vip for upload exceeding file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
+        <translation>Uaktualnij do wersji Super VIP, miejsce w chmurze może zostać zwiększone do maksymalnie %1</translation>
+    </message>
+    <message>
+        <source>Continue upload</source>
+        <translation>Przejdź do przekazywania</translation>
+    </message>
+    <message>
+        <source>upload file failed for exceeding %1 limit,upgrade vip for upload exceeding file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your cloud space was full,increase cloud space for continue synchronization</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free %1 cloud space was full,increase cloud space for continue synchronization</source>
+        <translation>Wyczerpano %1 darmowego miejsca w usłudze Cloud. Aby kontynuować synchronizację, zwiększ ilość miejsca w usłudze Cloud.</translation>
+    </message>
+    <message>
+        <source>upload file failed for exceeding %1</source>
+        <translation>przekazywanie pliku nie powiodło się, ponieważ przekroczono %1 MB {1?}</translation>
+    </message>
+    <message>
+        <source>%1 file failed for exceeding %2</source>
+        <translation>przekazywanie pliku %1 nie powiodło się, ponieważ przekroczono %2 MB {1 ?} {2?}</translation>
+    </message>
+    <message>
+        <source>Cloud space %1 has been full</source>
+        <translation>Miejsce w chmurze %1 zostało zapełnione</translation>
+    </message>
+    <message>
+        <source>Extend now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel Upload</source>
+        <translation>Anuluj przekazywanie</translation>
+    </message>
+    <message>
+        <source>Member %1 cloud space was full,increase cloud space for continue synchronization</source>
+        <translation>Wyczerpano %1 miejsca Premium w usłudze Cloud. Aby kontynuować synchronizację, zwiększ ilość miejsca w usłudze Cloud.</translation>
+    </message>
+    <message>
+        <source>WPS Cloud File</source>
+        <translation>Plik w chmurze WPS</translation>
+    </message>
+    <message>
+        <source>Cancel upload</source>
+        <translation>Anuluj przekazywanie</translation>
     </message>
 </context>
 <context>
@@ -8496,33 +8778,6 @@ na
     </message>
 </context>
 <context>
-    <name>KSyncCacheFolderWidget</name>
-    <message>
-        <source>Please select another directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The currently selected folder cannot be set to a synchronous directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Anuluj</translation>
-    </message>
-    <message>
-        <source>Sync error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The folder selected contains cache folder;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please select another folder that not contains cache folder</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KBackupFailBubble</name>
     <message>
         <source>Tencent Backup fail</source>
@@ -8570,6 +8825,10 @@ na
     <message>
         <source>and so on %1 files</source>
         <translation> oraz inne funkcje dla plików %1</translation>
+    </message>
+    <message>
+        <source>Unsync</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 files were not sync to cloud</source>
@@ -8951,53 +9210,6 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
-    <name>KUploadLimitBubbleOld</name>
-    <message>
-        <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
-        <translation>Uaktualnij do wersji Super VIP, miejsce w chmurze może zostać zwiększone do maksymalnie %1</translation>
-    </message>
-    <message>
-        <source>Continue upload</source>
-        <translation>Przejdź do przekazywania</translation>
-    </message>
-    <message>
-        <source>Free %1 cloud space was full,increase cloud space for continue synchronization</source>
-        <translation>Wyczerpano %1 darmowego miejsca w usłudze Cloud. Aby kontynuować synchronizację, zwiększ ilość miejsca w usłudze Cloud.</translation>
-    </message>
-    <message>
-        <source>upload file failed for exceeding %1</source>
-        <translation>przekazywanie pliku nie powiodło się, ponieważ przekroczono %1 MB {1?}</translation>
-    </message>
-    <message>
-        <source>%1 file failed for exceeding %2</source>
-        <translation>przekazywanie pliku %1 nie powiodło się, ponieważ przekroczono %2 MB {1 ?} {2?}</translation>
-    </message>
-    <message>
-        <source>Cloud space %1 has been full</source>
-        <translation>Miejsce w chmurze %1 zostało zapełnione</translation>
-    </message>
-    <message>
-        <source>Extend now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel Upload</source>
-        <translation>Anuluj przekazywanie</translation>
-    </message>
-    <message>
-        <source>Member %1 cloud space was full,increase cloud space for continue synchronization</source>
-        <translation>Wyczerpano %1 miejsca Premium w usłudze Cloud. Aby kontynuować synchronizację, zwiększ ilość miejsca w usłudze Cloud.</translation>
-    </message>
-    <message>
-        <source>WPS Cloud File</source>
-        <translation>Plik w chmurze WPS</translation>
-    </message>
-    <message>
-        <source>Cancel upload</source>
-        <translation>Anuluj przekazywanie</translation>
-    </message>
-</context>
-<context>
     <name>KAddSyncFolderDlgJsApi</name>
     <message>
         <source>scanning now :</source>
@@ -9013,6 +9225,25 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>scan finished, %1 files</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KSyncFolderChooseFolder</name>
+    <message>
+        <source>scanning now :</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>files more than %1,please select again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>scan finished, %1 files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Choose folder</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9492,6 +9723,32 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>KSyncFolderExceptionWidget</name>
+    <message>
+        <source>Reassociation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel sync</source>
+        <translation>Anuluj synchronizację</translation>
+    </message>
+</context>
+<context>
+    <name>KSyncReassociationWidget</name>
+    <message>
+        <source>Reassociation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>feedback</source>
+        <translation>informacja zwrotna</translation>
+    </message>
+    <message>
+        <source>Choose folder</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KWpsboxRecommendMgr</name>
     <message>
         <source>Open membership and enjoy privileges</source>
@@ -9572,6 +9829,10 @@ have libgstreamer-plugins-base installed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Upgrade and Expansion</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Remaining Cloud storage is less than </source>
         <translation>Pozostały magazyn w chmurze ma mniej niż </translation>
     </message>
@@ -9587,11 +9848,23 @@ have libgstreamer-plugins-base installed.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The remainder cloud space is:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>You can view cloud space detail,or get more space by upgrading vip.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Your WPS Cloud space used percent is:%1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You has used space is:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Total Space is:%1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9761,6 +10034,14 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Uploading files over %1 is currently not supported</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsync</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud space has been full</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -10682,6 +10963,13 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>WpsboxHeadWidget</name>
+    <message>
+        <source>WPS office assist</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KWpsScrollTabWidget</name>
     <message>
         <source>Office Assistant Mini</source>
@@ -10851,6 +11139,41 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
+    <name>MAC_APPLICATION_MENU</name>
+    <message>
+        <source>AppStore Evaluation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Others</source>
+        <translation>Ukryj inne</translation>
+    </message>
+    <message>
+        <source>Quit %1</source>
+        <translation>Zakończ %1</translation>
+    </message>
+    <message>
+        <source>About %1</source>
+        <translation>Informacje o %1</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>Preferencje…</translation>
+    </message>
+    <message>
+        <source>Services</source>
+        <translation>Usługi</translation>
+    </message>
+    <message>
+        <source>Hide %1</source>
+        <translation>Ukryj %1</translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation>Pokaż wszystko</translation>
+    </message>
+</context>
+<context>
     <name>KAddSyncFolderDlg</name>
     <message>
         <source>WPS - New Share Folder</source>
@@ -10866,6 +11189,13 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Use this slider to adjust the volume. The leftmost position is 0%, the rightmost is %1%</source>
         <translation>Użyj tego suwaka do zmiany głośności. Pozycja z lewej strony to 0%, z prawej strony to %1%</translation>
+    </message>
+</context>
+<context>
+    <name>KTrayBottomWidget</name>
+    <message>
+        <source>Recent Visit</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11001,6 +11331,10 @@ have libgstreamer-plugins-base installed.</source>
         <translation>Rozumiem</translation>
     </message>
     <message>
+        <source>Are you sure to cancel sync to local path?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Open sync folder</source>
         <translation type="unfinished"/>
     </message>
@@ -11047,37 +11381,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>create roaming task failed.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>MAC_APPLICATION_MENU</name>
-    <message>
-        <source>Hide Others</source>
-        <translation>Ukryj inne</translation>
-    </message>
-    <message>
-        <source>Quit %1</source>
-        <translation>Zakończ %1</translation>
-    </message>
-    <message>
-        <source>About %1</source>
-        <translation>Informacje o %1</translation>
-    </message>
-    <message>
-        <source>Preferences...</source>
-        <translation>Preferencje…</translation>
-    </message>
-    <message>
-        <source>Services</source>
-        <translation>Usługi</translation>
-    </message>
-    <message>
-        <source>Hide %1</source>
-        <translation>Ukryj %1</translation>
-    </message>
-    <message>
-        <source>Show All</source>
-        <translation>Pokaż wszystko</translation>
     </message>
 </context>
 <context>
@@ -11134,6 +11437,21 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Unable to use database</source>
         <translation>Nie można użyć bazy danych</translation>
+    </message>
+</context>
+<context>
+    <name>KTrayClipboardTopWidget</name>
+    <message>
+        <source>Paused</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11473,6 +11791,13 @@ Czas do uaktualnienia: %1</translation>
     </message>
 </context>
 <context>
+    <name>KIntroCloudSyncWidget</name>
+    <message>
+        <source>My cloud documents</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KSpaceFullUsageRemindBubble</name>
     <message>
         <source>Space Full</source>
@@ -11505,6 +11830,13 @@ Czas do uaktualnienia: %1</translation>
     </message>
 </context>
 <context>
+    <name>KDesktopSyncMgr</name>
+    <message>
+        <source>Desktop cloud synchronization</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KWpsPathSelectionWidget</name>
     <message>
         <source>Select Path</source>
@@ -11516,10 +11848,24 @@ Czas do uaktualnienia: %1</translation>
     </message>
 </context>
 <context>
+    <name>KEasyRadioButton</name>
+    <message>
+        <source>Recommand</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KWpsRadioButton</name>
     <message>
         <source>Recommand</source>
         <translation>Zalecane</translation>
+    </message>
+</context>
+<context>
+    <name>KTrayClipboardEmptyContentWidget</name>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11540,6 +11886,13 @@ Czas do uaktualnienia: %1</translation>
     <name>KWeekRemindTipWidget</name>
     <message>
         <source>Open it then the office assistant will only appear and remind you when important messages such as &quot;Your account is registered on a strange device&quot;, &quot;Someone@you&quot;, &quot;Schedule&quot;.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KMessageManager</name>
+    <message>
+        <source>WPS Office Box</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11584,24 +11937,21 @@ Czas do uaktualnienia: %1</translation>
     </message>
 </context>
 <context>
+    <name>afterlogin::topcactivity::KActivityToastWidget</name>
+    <message>
+        <source>Gifts for new users have been sent to your account. Thank you for your support to WPS Office!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Claimed Successfully</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KOtherCloudTransBubble</name>
     <message>
         <source>Cloud File Transfer Details</source>
         <translation>Cloud Szczegóły transferu plików w chmurze</translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderExceptionWidget</name>
-    <message>
-        <source>Cancel sync</source>
-        <translation>Anuluj synchronizację</translation>
-    </message>
-</context>
-<context>
-    <name>KSyncReassociationWidget</name>
-    <message>
-        <source>feedback</source>
-        <translation>informacja zwrotna</translation>
     </message>
 </context>
 <context>
@@ -11634,6 +11984,21 @@ Czas do uaktualnienia: %1</translation>
     <message>
         <source>Save File</source>
         <translation>Zapisz plik</translation>
+    </message>
+</context>
+<context>
+    <name>KPermissionDeniedBubble</name>
+    <message>
+        <source>Failed to open %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to view the document. Please sign in with the WPS Docs account you signed in on the website and open it again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View the WPS Docs account: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
