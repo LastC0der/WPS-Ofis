@@ -31819,7 +31819,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
-        <translation type="unfinished"/>
+        <translation>Birden çok aralıktaki değerleri yeni bir aralıkta birleştirin.</translation>
     </message>
     <message>
         <source>Solver</source>
