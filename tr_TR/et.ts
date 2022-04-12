@@ -37960,7 +37960,8 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
-        <translation>Birden çok çalışma kitabını bir çalışma kitabında birleştir</translation>
+        <translation>Birden çok çalışma kitabını bir 
+çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Highlight duplicates</source>
