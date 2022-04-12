@@ -177,7 +177,7 @@ Click the arrow to select a different alignment.</translation>
     </message>
     <message>
         <source>InsertColumnsRight.content</source>
-        <translation>Insert a column to the right of the selected column.</translation>
+        <translation>Seçili sütunun sağına bir sütun ekleyin.</translation>
     </message>
     <message>
         <source>ExportToImage.content</source>
@@ -1423,7 +1423,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.content</source>
-        <translation>Insert a column to the left of the selected column.</translation>
+        <translation>Seçili sütunun soluna bir sütun ekleyin.</translation>
     </message>
     <message>
         <source>AlignTop.content</source>
@@ -2441,7 +2441,7 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
-        <translation>Insert Columns to the Left</translation>
+        <translation>Soluna Sütun Ekle</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
@@ -2551,7 +2551,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>InsertColumnsRight.title</source>
-        <translation>Insert Columns to the Right</translation>
+        <translation>Sağına Sütun Ekle</translation>
     </message>
     <message>
         <source>SetBackground.title</source>
@@ -2631,7 +2631,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>InsertRowsBelow.title</source>
-        <translation>Aşağıya Satır Ekle</translation>
+        <translation>Altına Satır Ekle</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
