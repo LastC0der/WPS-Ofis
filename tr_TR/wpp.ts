@@ -19284,7 +19284,7 @@ Okuma</translation>
     <name>DlgKxSetupShow</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>&amp;to:</source>
@@ -19387,7 +19387,7 @@ Okuma</translation>
     <name>KxDlgWppPrint</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>Color</source>
@@ -25942,7 +25942,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>&amp;Repeat:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yinele:</translation>
     </message>
     <message>
         <source>&amp;Triggers</source>
@@ -29209,7 +29209,7 @@ Master</source>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümünü Değiştir</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
