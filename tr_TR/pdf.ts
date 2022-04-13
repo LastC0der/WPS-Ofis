@@ -2850,7 +2850,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>collate</source>
-        <translation type="unfinished"/>
+        <translation>Harmanla</translation>
     </message>
     <message>
         <source>Custom...</source>
