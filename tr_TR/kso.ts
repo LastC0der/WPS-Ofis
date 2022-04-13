@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>All Commands</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Komutlar</translation>
     </message>
     <message>
         <source>C&amp;ommands:</source>
@@ -25210,7 +25210,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Page &amp;source:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kağıt kaynağı:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -25294,7 +25294,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Use printer setting</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı ayarını kullan</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
@@ -26102,7 +26102,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>,(comma)</source>
-        <translation type="unfinished"/>
+        <translation>,(virgül)</translation>
     </message>
     <message>
         <source>&amp;Series Name</source>
@@ -26495,7 +26495,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>All Commands</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Komutlar</translation>
     </message>
     <message>
         <source>All Tabs</source>
@@ -34066,7 +34066,7 @@ yazılamadı</translation>
     <name>kso_print</name>
     <message>
         <source>Use printer settings</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı ayarlarını kullan</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Printer Files(*.prn)|*.prn</source>
@@ -39909,7 +39909,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Find Commands</source>
-        <translation type="unfinished"/>
+        <translation>Komutları Bul</translation>
     </message>
     <message>
         <source>find commands</source>
