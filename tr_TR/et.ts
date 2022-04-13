@@ -35607,7 +35607,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>C&amp;ollate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Harmanla</translation>
     </message>
 </context>
 <context>
