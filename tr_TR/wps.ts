@@ -7861,7 +7861,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>Bo&amp;x</source>
@@ -9375,7 +9375,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Use printer setting</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı ayarını kullan</translation>
     </message>
 </context>
 <context>
@@ -10892,7 +10892,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Vertical from Left to Right</source>
-        <translation type="unfinished"/>
+        <translation>Soldan Sağa Dikey</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
@@ -29311,7 +29311,7 @@ Kaydır</translation>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>&amp;to:</source>
@@ -29366,7 +29366,7 @@ Kaydır</translation>
     <name>KxDlgMergeToEmail</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>&amp;To:</source>
@@ -29449,7 +29449,7 @@ Kaydır</translation>
     <name>KxDlgMergeToNewDocOrPrinter</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>&amp;to:</source>
@@ -29472,7 +29472,7 @@ Kaydır</translation>
     <name>KxDlgPrint</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -29504,7 +29504,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
-        <translation type="unfinished"/>
+        <translation>Her kağıt içi&amp;n:</translation>
     </message>
     <message>
         <source>Num&amp;ber of copies:</source>
@@ -29528,7 +29528,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Draw line between pages </source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayfalar arasında çizgi çiz</translation>
     </message>
     <message>
         <source>2 Pages</source>
@@ -29596,7 +29596,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>From le&amp;ft to right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;oldan sağa</translation>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
@@ -29608,7 +29608,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yinele</translation>
     </message>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12.</source>
@@ -37532,7 +37532,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Repeat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yinele</translation>
     </message>
     <message>
         <source>The custom XML node is already mapped to a plain text Content control, so it can&apos;t be mapped to a rich text content control.</source>
@@ -44546,7 +44546,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Vertical from Left to Right</source>
-        <translation type="unfinished"/>
+        <translation>Soldan Sağa Dikey</translation>
     </message>
     <message>
         <source>Rotate All Text 90°</source>
