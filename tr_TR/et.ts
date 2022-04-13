@@ -11880,7 +11880,7 @@ If you are trying to open the file from your recently used file list on the File
     </message>
     <message>
         <source>is the text for which you want the code of the first character.</source>
-        <translation type="unfinished"/>
+        <translation>ilk karakterinin kodunu istediğiniz metindir.</translation>
     </message>
     <message>
         <source>The shared workbook has been saved in a file format that is recognized by earlier versions of ET. To keep this workbook synchronized with changes that other shared workbook users make. you need to close and reopen the workbook.
@@ -11910,7 +11910,7 @@ Koru</translation>
     </message>
     <message>
         <source>is the number by which pi is multiplied.</source>
-        <translation type="unfinished"/>
+        <translation>pi&apos;nin çarpıldığı sayıdır.</translation>
     </message>
     <message>
         <source>The minuend in the plural form</source>
@@ -11927,7 +11927,7 @@ Koru</translation>
     <message>
         <source>Array</source>
         <comment>TX_ParaType_410</comment>
-        <translation type="unfinished"/>
+        <translation>Dizi</translation>
     </message>
     <message>
         <source>Serial_number</source>
@@ -13135,7 +13135,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"/>
+        <translation>Virgül</translation>
     </message>
     <message>
         <source>Count</source>
@@ -13481,7 +13481,7 @@ empty cells with style have reached a certain limit, auto slim file when open.</
     </message>
     <message>
         <source>Comma [0]</source>
-        <translation type="unfinished"/>
+        <translation>Virgül [0]</translation>
     </message>
     <message>
         <source>The merging will keep only the values and formats of cells.</source>
@@ -27270,7 +27270,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Comma</source>
-        <translation type="unfinished"/>
+        <translation>Virgül</translation>
     </message>
     <message>
         <source>Input</source>
@@ -27372,7 +27372,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Comma [0]</source>
-        <translation type="unfinished"/>
+        <translation>Virgül [0]</translation>
     </message>
     <message>
         <source>Neutral</source>
@@ -35448,7 +35448,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     <name>KxDlgFillAcross</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -35471,7 +35471,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     <name>KxDlgPrint</name>
     <message>
         <source>&amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>&amp;To:</source>
@@ -35499,7 +35499,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
-        <translation type="unfinished"/>
+        <translation>Her kağıt içi&amp;n:</translation>
     </message>
     <message>
         <source>&amp;From:</source>
@@ -35515,7 +35515,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>&amp;Draw line between pages </source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayfalar arasında çizgi çiz</translation>
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
@@ -35587,7 +35587,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>From le&amp;ft to right</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;oldan sağa</translation>
     </message>
     <message>
         <source>9 Pages</source>
@@ -35595,7 +35595,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>&amp;Repeat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yinele</translation>
     </message>
     <message>
         <source>Selectio&amp;n</source>
@@ -35603,7 +35603,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>Multipage output and zoom</source>
-        <translation type="unfinished"/>
+        <translation>Çok sayfalı çıktı ve yakınlaştırma</translation>
     </message>
     <message>
         <source>C&amp;ollate</source>
@@ -45783,7 +45783,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Entire workbook</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Çalışma Kitabı</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -47891,7 +47891,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Repeat Item Labels</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Öğe etiketlerini yinele</translation>
     </message>
     <message>
         <source>&amp;Summarize value field by</source>
