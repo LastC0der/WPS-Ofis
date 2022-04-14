@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>InsertDateTime.content</source>
-        <translation>Affiche la boîte de dialogue Date et heure permettant d&apos;insérer la date ou l&apos;heure actuelle dans le document actif.</translation>
+        <translation>Affiche la boîte de dialogue Date et Heure permettant d&apos;insérer la date ou l&apos;heure actuelle dans le document actif.</translation>
     </message>
     <message>
         <source>InsertChart.title</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation>Plus de détails concernant l&apos;impression, tels que la sélection d&apos;une imprimante, l&apos;impression de pages, l&apos;impression recto verso, le zoom, etc.</translation>
+        <translation>Plus de détails pour l&apos;impression, tels que le choix de l&apos;imprimante, des copies, de l&apos;impression recto verso, du zoom, etc.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation>Convertit un document en image et le partage dans Weibo.</translation>
+        <translation>Transférer le fichier vers l&apos;image pour partager sur Weibo</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
@@ -185,7 +185,7 @@ Cliquez sur la flèche pour sélectionner un autre alignement.</translation>
     </message>
     <message>
         <source>WordArtAlignment.content</source>
-        <translation>Spécifie le mode d&apos;alignement des lignes individuelles dans un objet WordArt de plusieurs lignes.</translation>
+        <translation>Définit l&apos;alignement des lignes individuelles d&apos;un WordArt à lignes multiples dans le document.</translation>
     </message>
     <message>
         <source>TextFontColor2.title</source>
@@ -203,9 +203,7 @@ Cliquez sur la flèche pour le remplir avec des effets différents.</translation
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Souligne le texte sélectionné.
-
-Cliquez sur la flèche pour sélectionner d&apos;autres styles de soulignement.</translation>
+        <translation>Souligne le texte sélectionné.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
@@ -229,7 +227,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres styles de soulignement.<
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation>Affiche en mosaïque tous les documents ouverts côte à côte dans la même fenêtre du programme.</translation>
+        <translation>Imprime en mosaïque tous les documents ouverts côte à côte dans la même fenêtre du programme.</translation>
     </message>
     <message>
         <source>AudioPlay.title</source>
@@ -305,7 +303,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres styles de soulignement.<
     </message>
     <message>
         <source>Ruler.content</source>
-        <translation>Affiche ou masque les règle destinées à mesurer et aligner les objets dans le document.</translation>
+        <translation>Affiche ou masque les règles destinées à mesurer et à aligner les objets dans le document.</translation>
     </message>
     <message>
         <source>ShapeFill.content</source>
@@ -331,7 +329,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Permet de choisir une image Clip Art dans la fenêtre des tâches et de l&apos;insérer dans le document.</translation>
+        <translation>Permet de sélectionner une image Clip Art dans la fenêtre des tâches et de l&apos;insérer dans le document.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.title</source>
@@ -349,7 +347,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
         <source>InsertChart.content</source>
         <translation>Le graphique inséré doit être modifié dans WPS Spreadsheets.
 
-Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normalement dans le document. Double-cliquez sur le graphique si vous souhaitez le modifier.</translation>
+Lorsque WPS Spreadsheets est fermé, le graphique peut afficher normalement dans le document. Double-cliquez sur le graphique si vous souhaitez le modifier.</translation>
     </message>
     <message>
         <source>Security.title</source>
@@ -381,11 +379,15 @@ Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normaleme
     </message>
     <message>
         <source>WordArtAlignment.title</source>
-        <translation>Alignement WordArt</translation>
+        <translation>Alignement</translation>
     </message>
     <message>
         <source>TransitionEffect.title</source>
         <translation>Effets de transition</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.content</source>
+        <translation>Modifier le moment pour lire les animations. Les animations peuvent démarrer après un clic de la souris, en même temps que l&apos;animation précédente ou une fois que l&apos;animation précédente est terminée.</translation>
     </message>
     <message>
         <source>DeleteMember.content</source>
@@ -400,12 +402,16 @@ Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normaleme
         <translation>Afficher les macros</translation>
     </message>
     <message>
+        <source>WppPhotoedit2.title</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Modifie les paramètres de police, de paragraphe, de styles et de mise en forme.</translation>
+        <translation>Modifie les paramètres de police.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation>Sauvegarde de fichier</translation>
+        <translation>Sauvegarde de fichiers</translation>
     </message>
     <message>
         <source>DuplicateSlide.title</source>
@@ -414,6 +420,10 @@ Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normaleme
     <message>
         <source>SlideMasterClose.title</source>
         <translation>Désactiver le mode Masque</translation>
+    </message>
+    <message>
+        <source>PictureTransparency.title</source>
+        <translation>Transparence d&apos;image</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
@@ -429,11 +439,11 @@ Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normaleme
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation>Animation Brush</translation>
+        <translation>Reproduire l&apos;animation</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Accède au commentaire suivant dans le document.</translation>
+        <translation>Commentaire suivant.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
@@ -453,11 +463,11 @@ Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normaleme
     </message>
     <message>
         <source>weibotool.title</source>
-        <translation>Weibotool</translation>
+        <translation>Outil Weibo</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Couleur du texte</translation>
+        <translation>Couleur de police</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.title</source>
@@ -469,7 +479,7 @@ Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normaleme
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation>Cliquez ici pour insérer des zones de texte horizontales, verticales ou de plusieurs lignes.</translation>
+        <translation>Cliquez ici pour insérer une zone de texte horizontale ou verticale.</translation>
     </message>
     <message>
         <source>Markup.content</source>
@@ -734,6 +744,10 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.</
         <translation>Aligne le texte à gauche.</translation>
     </message>
     <message>
+        <source>PictureTransparency.content</source>
+        <translation>Définissez la transparence de l’image pour afficher le contenu qui se trouve en dessous.</translation>
+    </message>
+    <message>
         <source>CustomShows.title</source>
         <translation>Diaporamas personnalisés</translation>
     </message>
@@ -771,13 +785,13 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du plan.</
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation>Dessine les bordures d&apos;un tableau.</translation>
+        <translation>Dessine les bordures de cellules, de lignes ou de colonnes d&apos;un tableau.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Modifie la couleur du texte.
+        <translation>Définit la couleur du texte.
 
-Cliquez sur la flèche pour choisir une autre couleur de texte.</translation>
+Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
@@ -790,6 +804,10 @@ Cliquez sur la flèche pour choisir une autre couleur de texte.</translation>
     <message>
         <source>InsertTable.content</source>
         <translation>Insère ou dessine un tableau dans la diapositive active.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
@@ -903,7 +921,7 @@ Cliquez sur la flèche pour définir les détails du graphique.</translation>
     </message>
     <message>
         <source>UsePresenterView.title</source>
-        <translation>Presenter view</translation>
+        <translation>Utiliser le mode Présentateur</translation>
     </message>
     <message>
         <source>DrawAlignTop.title</source>
@@ -938,6 +956,10 @@ Cliquez sur la flèche pour définir les détails du graphique.</translation>
         <translation>démarrage automatique ou en cliquant.</translation>
     </message>
     <message>
+        <source>AnimationDuration.title</source>
+        <translation>Durée :</translation>
+    </message>
+    <message>
         <source>DecreaseSpace.title</source>
         <translation>Réduire l&apos;espacement</translation>
     </message>
@@ -951,7 +973,7 @@ Cliquez sur la flèche pour définir les détails du graphique.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Exporter une image Weibo</translation>
+        <translation>Exporter vers une image</translation>
     </message>
     <message>
         <source>sp_Macros2.content</source>
@@ -1011,7 +1033,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Enregistrer automatiquement le fichier</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
@@ -1026,8 +1048,12 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
         <translation>Aligner le texte à droite</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
+    </message>
+    <message>
         <source>Numbering2.content</source>
-        <translation>Démarrer une liste numérotée.
+        <translation>Numérote le paragraphe sélectionné.
 
 Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation.</translation>
     </message>
@@ -1073,7 +1099,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Augmente le niveau de retrait du paragraphe.</translation>
+        <translation>Augmente le niveau de retrait.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
@@ -1083,7 +1109,7 @@ Vous pouvez choisir la conception et la mise en page du masque de document, par 
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Diminue le niveau de retrait du paragraphe.</translation>
+        <translation>Réduit le niveau de retrait.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
@@ -1123,7 +1149,7 @@ Vous pouvez choisir la conception et la mise en page du masque de document, par 
     </message>
     <message>
         <source>Select.content</source>
-        <translation>Permet de sélectionner un texte ou des objets dans le document.</translation>
+        <translation>Permet de sélectionner un texte, un tableau ou un objet dans le document.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
@@ -1139,9 +1165,7 @@ Vous pouvez choisir la conception et la mise en page du masque de document, par 
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation>Démarre une liste numérotée.
-
-Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation.</translation>
+        <translation>Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation.</translation>
     </message>
     <message>
         <source>RewindVideo.title</source>
@@ -1162,6 +1186,10 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     <message>
         <source>NewWindow.title</source>
         <translation>Nouvelle fenêtre</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.title</source>
+        <translation>Supprimer l&apos;animation</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1209,11 +1237,11 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>ArrangeAll.title</source>
-        <translation>Réorganiser tout</translation>
+        <translation>Organiser tout</translation>
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation>Affiche la boîte de dialogue Numéros de page et applique les paramètres de numéros de pages à la section active ou à la totalité du document.</translation>
+        <translation>Inclure le numéro de page dans les masques de document ou les commentaires imprimés.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
@@ -1221,7 +1249,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>CheckSpelling.title</source>
-        <translation>Vérifier l&apos;orthographe</translation>
+        <translation>Vérification de l&apos;orthographe</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
@@ -1332,6 +1360,10 @@ Cela crée un document avec un aspect net.</translation>
     <message>
         <source>ExportToVideo.title</source>
         <translation>Exporter vers une vidéo</translation>
+    </message>
+    <message>
+        <source>AnimationDelayTime.content</source>
+        <translation>Exécuter l&apos;animation au bout d&apos;un certain nombre de secondes.</translation>
     </message>
     <message>
         <source>TextBox.content</source>
@@ -1455,11 +1487,19 @@ Cela crée un document avec un aspect net.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Enregistrement automatique activé</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
         <translation>Modifie les paramètres de mise en forme des formes.</translation>
+    </message>
+    <message>
+        <source>WppPhotoedit2.content</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.content</source>
+        <translation>Modifie les propriétés d&apos;effet de l&apos;animation en cours.</translation>
     </message>
     <message>
         <source>onlineMedia.title</source>
@@ -1487,13 +1527,11 @@ Cela crée un document avec un aspect net.</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Insérer un objet incorporé dans le document.
-
-Cliquez sur la flèche pour insérer le contenu du fichier dans le document.</translation>
+        <translation>Affiche la boîte de dialogue Insérer un objet pour sélectionner un nouveau fichier ou un fichier à partir du dossier local.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation>Change the settings of Equations.</translation>
+        <translation>Modifiez les paramètres des équations.</translation>
     </message>
     <message>
         <source>AlignBottom.content</source>
@@ -1509,9 +1547,9 @@ Cliquez sur la flèche pour insérer le contenu du fichier dans le document.</tr
     </message>
     <message>
         <source>UsePresenterView.content</source>
-        <translation>Presenter view shows the speaker view and the full screen view on different monitors.
+        <translation>Pendant la présentation, la vue Présentateur affiche la « vue plein écran » sur un moniteur et une « vue présentateur » sur un autre moniteur
 
-If you only have one monitor, you can use Alt+F5 to try out presenter view, and press ESC to exit.</translation>
+Si vous ne disposez que d&apos;un seul moniteur, utilisez Alt+F5 pour avoir un aperçu de la vue Présentateur, et appuyez sur Échap pour quitter l&apos;aperçu.</translation>
     </message>
     <message>
         <source>TableSmartStyle.title</source>
@@ -1535,7 +1573,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>Affiche la boîte de dialogue Galerie WordArt pour sélectionner un style WordArt et en modifier le contenu.</translation>
+        <translation>Affiche la boîte de dialogue Galerie WordArt pour sélectionner un style WordArt et modifier le contenu.</translation>
     </message>
     <message>
         <source>Replace2.title</source>
@@ -1559,7 +1597,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Affiche les éléments dans le Presse-papiers.</translation>
+        <translation>Affiche tous les éléments copiés dans le Presse-papiers.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
@@ -1585,11 +1623,11 @@ La découpe d&apos;images fait la différence dans votre présentation PowerPoin
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation>1. Remplissage de forme
-Remplissez les objets sélectionnés avec des couleurs, des dégradés, des textures et des images.
-2. Contour de forme
-Configurez les couleurs, l&apos;épaisseur et les pointillés pour les objets sélectionnés.
-Cliquez sur les flèches pour effectuer une configuration détaillée.</translation>
+        <translation>1. Remplissage de la forme
+Remplissez les objets sélectionnés avec des couleurs, des dégradés et des images.
+2. Contour de la forme
+Configurez les couleurs, les épaisseurs de trait et les tirets des objets sélectionnés.
+Cliquez sur les flèches pour obtenir la configuration détaillée.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
@@ -1601,7 +1639,7 @@ Cliquez sur les flèches pour effectuer une configuration détaillée.</translat
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>WordArt</translation>
+        <translation>Insérer un objet WordArt</translation>
     </message>
     <message>
         <source>AudioFadeOut.content</source>
@@ -1733,11 +1771,11 @@ Cliquez sur les flèches pour effectuer une configuration détaillée.</translat
     </message>
     <message>
         <source>3DPresentation.content</source>
-        <translation>Insert 3DPresentation</translation>
+        <translation>Insérer des éléments de présentation 3D interactifs dans le document</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation>Affiche ou masque la fenêtre des tâches dans le document.</translation>
+        <translation>Affiche ou masque la fenêtre des tâches dans la présentation.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
@@ -1749,7 +1787,7 @@ Cliquez sur les flèches pour effectuer une configuration détaillée.</translat
     </message>
     <message>
         <source>ReadingView.title</source>
-        <translation>Vue de lecture</translation>
+        <translation>Mode lecture</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
@@ -1842,6 +1880,10 @@ Chaque page contiendra une seule diapositive avec ses commentaires du présentat
         <translation>Capturer un diaporama</translation>
     </message>
     <message>
+        <source>AnimationDuration.content</source>
+        <translation>Spécifiez la longueur d&apos;une animation. Plus la durée est longue, plus la vitesse de lecture est faible.</translation>
+    </message>
+    <message>
         <source>presentationTool.title</source>
         <translation>Outil de présentation</translation>
     </message>
@@ -1879,15 +1921,15 @@ Chaque page contiendra une seule diapositive avec ses commentaires du présentat
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Affiche la boîte de dialogue Macros ainsi que la liste des macros à partir de laquelle vous pouvez exécuter, supprimer ou créer directement une macro.</translation>
+        <translation>Affiche la boîte de dialogue Macros. Affiche la liste des macros que vous pouvez exécuter, créer ou supprimer.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Tournez le texte en parole. Vous bénéficiez d&apos;un procès-deux jours de cette fonction.</translation>
+        <translation>Convertissez le texte en données vocales. Profitez d&apos;une version d&apos;évaluation de 2 jours offrant cette fonction.</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Cliquez sur la flèche pour choisir une autre couleur de texte.</translation>
+        <translation>Cliquez sur la flèche pour sélectionner une autre couleur de police.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
@@ -1949,7 +1991,7 @@ Si vous souhaitez prendre des notes sans quitter le diaporama, cliquez avec le b
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Compresse l&apos;image sélectionnée ou toutes les images du document pour en réduire la taille.</translation>
+        <translation>Compresse l&apos;image sélectionnée ou toutes les images pour en réduire la taille.</translation>
     </message>
     <message>
         <source>InsertMedia.title</source>
@@ -1968,6 +2010,14 @@ Si vous souhaitez prendre des notes sans quitter le diaporama, cliquez avec le b
         <translation>Supprimer le masque</translation>
     </message>
     <message>
+        <source>AnimationText.content</source>
+        <translation>Modifie le mode de lecture des animations, notamment Tout simultanément, Par paragraphe et Par lettre.</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.title</source>
+        <translation>Effet d&apos;animation</translation>
+    </message>
+    <message>
         <source>Ai Matting.title</source>
         <translation>Ai Matting</translation>
     </message>
@@ -1978,6 +2028,10 @@ Si vous souhaitez prendre des notes sans quitter le diaporama, cliquez avec le b
     <message>
         <source>StopAutoVersion.title</source>
         <translation>Arrêter la sauvegarde automatique</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.content</source>
+        <translation>Displays the Effect Options dialog box for you to modify the animation effect.</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
@@ -2056,16 +2110,20 @@ Si vous souhaitez prendre des notes sans quitter le diaporama, cliquez avec le b
         <translation>Magique</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.title</source>
+        <translation>Délai :</translation>
+    </message>
+    <message>
         <source>AudioPause.content</source>
         <translation>Permet de mettre en pause le fichier audio.</translation>
     </message>
     <message>
         <source>InsertEduTools.title</source>
-        <translation>InsertEduTools.title</translation>
+        <translation>Outils pédagogiques</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
+        <translation>Cela peut provoquer une perturbation du fichier pendant l&apos;affichage ou l&apos;impression. Installez la police appropriée ou remplacez-la par une police différente.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
@@ -2097,9 +2155,9 @@ Si vous souhaitez prendre des notes sans quitter le diaporama, cliquez avec le b
     </message>
     <message>
         <source>AnimationPainter.content</source>
-        <translation>Copy the animation of selected object to other objects.
+        <translation>Appliquer l&apos;animation de l&apos;objet sélectionné sur les autres objets.
 
-Double click to copy to multiple objects.</translation>
+Double-cliquez pour appliquer l&apos;animation sur plusieurs objets.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
@@ -2119,7 +2177,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation>Efface les bordures d&apos;un tableau dans le document.</translation>
+        <translation>Utilisez une gomme pour effacer les bordures dans un tableau.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
@@ -2128,6 +2186,10 @@ Double click to copy to multiple objects.</translation>
     <message>
         <source>statusbarFontMissing.title</source>
         <translation>Les polices utilisées dans le document sont manquantes sur cet ordinateur</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.title</source>
+        <translation>Other Effect Options</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
@@ -2227,7 +2289,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Exporter une image Weibo</translation>
+        <translation>Exporter un fichier vers une image</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
@@ -2243,7 +2305,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
-        <translation>Cliquez sur la flèche pour sélectionner Exposant ou Indice.</translation>
+        <translation>Cliquez sur la flèche pour sélectionner Exposant et Indice.</translation>
     </message>
     <message>
         <source>InsertSmartArt.content</source>
@@ -2277,7 +2339,7 @@ Les graphiques WPSArt incluent des listes graphiques et des diagrammes de proces
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation>Définit l&apos;orientation du texte de l&apos;horizontale à la verticale, et inversement, sur la section active, le document entier, la zone de texte ou le tableau sélectionné.</translation>
+        <translation>Personnalise l&apos;orientation du texte de l&apos;horizontale à la verticale, et inversement, sur la section active, le document entier ou la zone de texte et le tableau sélectionnés.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
@@ -2353,7 +2415,7 @@ Les graphiques WPSArt incluent des listes graphiques et des diagrammes de proces
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation>Outils de développement</translation>
+        <translation>Outils de développeur</translation>
     </message>
     <message>
         <source>DecreaseFontSize.content</source>
@@ -2381,15 +2443,19 @@ Les graphiques WPSArt incluent des listes graphiques et des diagrammes de proces
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Centre le texte verticalement et horizontalement à l&apos;intérieur de la cellule.</translation>
+        <translation>Centre le texte verticalement.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation>Disposition automatique du contenu, tournez facilement les pages.</translation>
+        <translation>Lire votre diaporama dans la fenêtre de WPS Presentation pour voir les animations et les transitions sans basculer vers un diaporama en plein écran.</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.title</source>
+        <translation>Commencer la lecture</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation>Définit la sauvegarde automatique et manuelle pour le fichier actif. La sauvegarde sera enregistrée dans le File Safe.</translation>
+        <translation>Définit la sauvegarde automatique ou manuelle pour le fichier actif. La sauvegarde sera enregistrée dans File Safe.</translation>
     </message>
     <message>
         <source>IncreaseFontSize.content</source>
@@ -2429,9 +2495,7 @@ Les graphiques WPSArt incluent des listes graphiques et des diagrammes de proces
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Recherche du texte dans le document.
-
-Cliquez sur la flèche pour choisir d&apos;autres options, telles que Atteindre.</translation>
+        <translation>Recherche du texte dans la présentation.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
@@ -2440,6 +2504,10 @@ Cliquez sur la flèche pour choisir d&apos;autres options, telles que Atteindre.
     <message>
         <source>TableCenter.title</source>
         <translation>Centrer</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.content</source>
+        <translation>Supprime tous les effets d&apos;animation des objets sélectionnés, des diapositives ou de la totalité de la présentation.</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
@@ -2467,7 +2535,7 @@ Cliquez sur la flèche pour choisir d&apos;autres options, telles que Atteindre.
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation>Gomme pour tableau</translation>
+        <translation>Gomme</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
@@ -2507,7 +2575,7 @@ Cliquez sur la flèche pour choisir d&apos;autres options, telles que Atteindre.
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation>Insérer un numéro de page</translation>
+        <translation>Numéro de page</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
@@ -2556,6 +2624,10 @@ Cliquez sur la flèche pour choisir d&apos;autres options, telles que Atteindre.
 Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs endroits dans le document.</translation>
     </message>
     <message>
+        <source>AnimationText.title</source>
+        <translation>Animation de texte</translation>
+    </message>
+    <message>
         <source>DocumentFix.title</source>
         <translation>Correctif de document.</translation>
     </message>
@@ -2589,7 +2661,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Remplace le contenu de texte dans le document.</translation>
+        <translation>Remplace le texte dans le document.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
@@ -2601,7 +2673,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
+        <translation>Choisissez la taille de papier pour la présentation, par exemple A4, A3, etc.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
@@ -2617,7 +2689,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>InsertEduTools.content</source>
-        <translation>InsertEduTools.content</translation>
+        <translation>Expert en production de didacticiels. Prendre en charge plusieurs disciplines</translation>
     </message>
     <message>
         <source>AudioFadeOut.title</source>
@@ -2651,7 +2723,7 @@ Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translati
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Envoyer vers un téléphone</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
@@ -2669,7 +2741,7 @@ Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translati
         <source>HighlightColor.content</source>
         <translation>Donne au texte l&apos;apparence d&apos;être surligné.
 
-Cliquez sur la flèche pour sélectionner une autre couleur de surbrillance.</translation>
+    Cliquez sur la flèche pour sélectionner une autre couleur de surbrillance.</translation>
     </message>
     <message>
         <source>TableFontEffects.content</source>
