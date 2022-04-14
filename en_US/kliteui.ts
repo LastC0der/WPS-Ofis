@@ -3,19 +3,19 @@
     <name>KLiteCustomerServiceDlg</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>WPS customer service</source>
-        <translation type="unfinished"/>
+        <translation>WPS customer service</translation>
     </message>
 </context>
 <context>
@@ -497,7 +497,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Open</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -677,7 +677,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KVipUpgradeDialog</name>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</translation>
     </message>
     <message>
         <source>Continue to Buy</source>
@@ -717,11 +717,11 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Leave us a message，We will contact you as soon as possible.</translation>
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Resume Now</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
@@ -729,7 +729,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</translation>
     </message>
     <message>
         <source>No network connection, please check whether the network connection is normal first.</source>
@@ -826,7 +826,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</translation>
     </message>
     <message>
         <source>Core support library failed to load</source>
@@ -894,11 +894,11 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
-        <translation type="unfinished"/>
+        <translation>After you authorize WPS Office, you can access and manage your files saved in the third-party cloud.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Authorize</translation>
     </message>
 </context>
 <context>
@@ -951,7 +951,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
+        <translation>Common Payment Issues</translation>
     </message>
     <message>
         <source>Give up the free trial</source>
@@ -988,7 +988,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KAppLoadFailedWindow</name>
     <message>
         <source>Network exception, %1 failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Network error. Failed to load %1.</translation>
     </message>
 </context>
 <context>
