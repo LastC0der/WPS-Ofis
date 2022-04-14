@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Dialogfeld „Zoom“ anzeigen, um die Zoomgröße des Dokuments festzulegen.</translation>
+        <translation>Dialogfeld &quot;Zoom&quot; anzeigen, um die Zoomgröße des Dokuments festzulegen.</translation>
     </message>
     <message>
         <source>ZoomFit.content</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>InsertDateTime.content</source>
-        <translation>Dialogfeld „Datum und Uhrzeit“ anzeigen, um das aktuelle Datum oder die Uhrzeit in das aktuelle Dokument einzufügen.</translation>
+        <translation>Dialogfeld &quot;Datum und Uhrzeit&quot; anzeigen, um das aktuelle Datum oder die Uhrzeit in das aktuelle Dokument einzufügen.</translation>
     </message>
     <message>
         <source>InsertChart.title</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation>Mehr Details zum Drucken, wie z. B. Auswahl eines Druckers, Drucken von Seiten, Duplexdruck, Zoomen und mehr.</translation>
+        <translation>Mehr Details zum Drucken, wie z. B. Auswahl des Druckers, Kopien, Duplexdruck, Zoom usw.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation>Dokument in Bild umwandeln und in Weibo teilen.</translation>
+        <translation>Übertragen Sie das Dokument an image, um auf Weibo zu teilen.</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
@@ -185,7 +185,7 @@ Auf den Pfeil klicken, um eine andere Ausrichtung auszuwählen.</translation>
     </message>
     <message>
         <source>WordArtAlignment.content</source>
-        <translation>Angeben, wie viele Einzellinien einer mehrzeiligen WordArt ausgerichtet werden sollen.</translation>
+        <translation>Ausrichtung für einzelne Zeilen von mehrzeiligen WordArt-Texten im Dokument einrichten.</translation>
     </message>
     <message>
         <source>TextFontColor2.title</source>
@@ -203,9 +203,7 @@ Klicken Sie auf den Pfeil, um mit verschiedenen Effekten zu füllen.</translatio
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Markierten Text unterstreichen.
-
-Auf den Pfeil klicken, um andere Unterstreichungsstile auszuwählen.</translation>
+        <translation>Markierten Text unterstreichen.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
@@ -323,7 +321,7 @@ Klicken Sie auf den Pfeil, um andere Fülleffekte auszuwählen.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>Registerkarte „Entwicklertools“ öffnen, um Optionsfeld, Kontrollkästchen und andere einzufügen.</translation>
+        <translation>Registerkarte &quot;Entwicklertools&quot; öffnen, um Optionsfeld, Kontrollkästchen und andere einzufügen.</translation>
     </message>
     <message>
         <source>GraphicFill.title</source>
@@ -381,11 +379,15 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
     </message>
     <message>
         <source>WordArtAlignment.title</source>
-        <translation>WordArt-Ausrichtung</translation>
+        <translation>Ausrichtung</translation>
     </message>
     <message>
         <source>TransitionEffect.title</source>
         <translation>Übergangseffekte</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.content</source>
+        <translation>Ändern Sie die Zeit für die Wiedergabe von Animationen. Animationen können nach einem Mausklick, zeitgleich mit der vorherigen Animation oder nach Abschluss der vorherigen Animation starten.</translation>
     </message>
     <message>
         <source>DeleteMember.content</source>
@@ -400,8 +402,12 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
         <translation>Makros anzeigen</translation>
     </message>
     <message>
+        <source>WppPhotoedit2.title</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Einstellungen für Schriftart, Absatz sowie Formatvorlagen und Formatierung ändern.</translation>
+        <translation>Einstellungen der Schriftart ändern.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -414,6 +420,10 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
     <message>
         <source>SlideMasterClose.title</source>
         <translation>Masteransicht schließen</translation>
+    </message>
+    <message>
+        <source>PictureTransparency.title</source>
+        <translation>Bildtransparenz</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
@@ -429,11 +439,11 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation>Animation Brush</translation>
+        <translation>Animation übertragen</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Im Dokument zum nächsten Kommentar navigieren.</translation>
+        <translation>Nächster Kommentar.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
@@ -453,7 +463,7 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
     </message>
     <message>
         <source>weibotool.title</source>
-        <translation>Weibo Tool</translation>
+        <translation>Weibotool</translation>
     </message>
     <message>
         <source>FontColor.title</source>
@@ -469,7 +479,7 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation>Hier klicken, um horizontale, vertikale oder Mehrzeilen-Textfelder einzufügen.</translation>
+        <translation>Hier klicken, um horizontales oder vertikales Textfeld einzufügen.</translation>
     </message>
     <message>
         <source>Markup.content</source>
@@ -545,7 +555,7 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation>DrawingToolsDetailedSettings</translation>
+        <translation>DrawingToolsDetailedSettings – Titel</translation>
     </message>
     <message>
         <source>SlideLibrary.content</source>
@@ -734,6 +744,10 @@ Klicken Sie auf den Pfeil, um detaillierte Einstellungen für die Konturlinie au
         <translation>Text am linken Rand ausrichten.</translation>
     </message>
     <message>
+        <source>PictureTransparency.content</source>
+        <translation>Legen Sie die Transparenz des Bildes so fest, dass der Inhalt darunter sichtbar ist.</translation>
+    </message>
+    <message>
         <source>CustomShows.title</source>
         <translation>Benutzerdefinierte Bildschirmpräsentationen</translation>
     </message>
@@ -771,13 +785,13 @@ Klicken Sie auf den Pfeil, um detaillierte Einstellungen für die Konturlinie au
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation>Rahmenlinien einer Tabelle zeichnen.</translation>
+        <translation>Zeichnet die Zell-, Zeilen- oder Spaltengrenzen einer Tabelle.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Textfarbe ändern.
+        <translation>Textfarbe einrichten.
 
-Auf den Pfeil klicken, um eine andere Textfarbe auszuwählen.</translation>
+Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
@@ -790,6 +804,10 @@ Auf den Pfeil klicken, um eine andere Textfarbe auszuwählen.</translation>
     <message>
         <source>InsertTable.content</source>
         <translation>Tabelle in der aktuellen Folie einfügen oder zeichnen.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
@@ -877,7 +895,7 @@ Auf den Pfeil klicken, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>Text Lesen</translation>
+        <translation>Text lesen</translation>
     </message>
     <message>
         <source>Ruler.title</source>
@@ -903,7 +921,7 @@ Klicken Sie auf den Pfeil, um Details für den Umriss festzulegen.</translation>
     </message>
     <message>
         <source>UsePresenterView.title</source>
-        <translation>Presenter view</translation>
+        <translation>Präsentationsansicht verwenden</translation>
     </message>
     <message>
         <source>DrawAlignTop.title</source>
@@ -938,6 +956,10 @@ Klicken Sie auf den Pfeil, um Details für den Umriss festzulegen.</translation>
         <translation>Automatisch starten oder bei Klick.</translation>
     </message>
     <message>
+        <source>AnimationDuration.title</source>
+        <translation>Dauer:</translation>
+    </message>
+    <message>
         <source>DecreaseSpace.title</source>
         <translation>Abstand verringern</translation>
     </message>
@@ -951,7 +973,7 @@ Klicken Sie auf den Pfeil, um Details für den Umriss festzulegen.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Weibo-Bild exportieren</translation>
+        <translation>ExportWeiboImageCmd – Titel</translation>
     </message>
     <message>
         <source>sp_Macros2.content</source>
@@ -1011,7 +1033,7 @@ Klicken Sie auf den Pfeil, um andere Fülleffekte auszuwählen.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Datei automatisch speichern</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
@@ -1026,10 +1048,14 @@ Klicken Sie auf den Pfeil, um andere Fülleffekte auszuwählen.</translation>
         <translation>Text rechtsbündig ausrichten</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
+    </message>
+    <message>
         <source>Numbering2.content</source>
-        <translation>Liste mit Nummerierungen erstellen.
+        <translation>Ausgewählten Absatz nummerieren.
 
-Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation>
+Auf den Pfeil klicken, um andere Nummerierungsformate anzuzeigen.</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.content</source>
@@ -1073,7 +1099,7 @@ Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Einzugsebene des Absatzes erhöhen.</translation>
+        <translation>Einzugsebene vergrößern.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
@@ -1083,7 +1109,7 @@ Sie können das Design und Layout für den Handzettel auswählen, beispielsweise
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Einzugsebene des Absatzes verringern.</translation>
+        <translation>Einzugsebene verringern.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
@@ -1123,7 +1149,7 @@ Sie können das Design und Layout für den Handzettel auswählen, beispielsweise
     </message>
     <message>
         <source>Select.content</source>
-        <translation>Text oder Objekte im Dokument auswählen.</translation>
+        <translation>Text, Tabelle oder Objekt im Dokument auswählen.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
@@ -1139,9 +1165,7 @@ Sie können das Design und Layout für den Handzettel auswählen, beispielsweise
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation>Liste mit Nummerierungen erstellen.
-
-Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation>
+        <translation>Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation>
     </message>
     <message>
         <source>RewindVideo.title</source>
@@ -1162,6 +1186,10 @@ Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation
     <message>
         <source>NewWindow.title</source>
         <translation>Neues Fenster</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.title</source>
+        <translation>Animation löschen</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1213,7 +1241,7 @@ Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation>Dialogfeld „Seitenzahlen“ anzeigen und Einstellungen für Seitenzahlen auf den aktuellen Abschnitt oder das gesamte Dokument anwenden.</translation>
+        <translation>Die Seitenzahl in die gedruckten Handzettel oder Notizen einschließen.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
@@ -1303,7 +1331,7 @@ Dadurch wird ein Dokument mit einem aufgeräumten Erscheinungsbild erstellt.</tr
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Zentriert ausrichten</translation>
+        <translation>Vertikal zentrieren</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
@@ -1327,11 +1355,15 @@ Dadurch wird ein Dokument mit einem aufgeräumten Erscheinungsbild erstellt.</tr
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation>WPS Galerie</translation>
+        <translation>WPS Gallery</translation>
     </message>
     <message>
         <source>ExportToVideo.title</source>
         <translation>In Video exportieren</translation>
+    </message>
+    <message>
+        <source>AnimationDelayTime.content</source>
+        <translation>Geben Sie die Animation nach einer bestimmten Anzahl von Sekunden wieder.</translation>
     </message>
     <message>
         <source>TextBox.content</source>
@@ -1347,7 +1379,7 @@ Dadurch wird ein Dokument mit einem aufgeräumten Erscheinungsbild erstellt.</tr
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation>DrawingToolsDetailedSettings Inhalt</translation>
+        <translation>DrawingToolsDetailedSettings – Inhalt</translation>
     </message>
     <message>
         <source>LoopVideo.title</source>
@@ -1451,15 +1483,23 @@ Dadurch wird ein Dokument mit einem aufgeräumten Erscheinungsbild erstellt.</tr
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>DocumentFix</translation>
+        <translation>Reparieren Sie schnell Dokumente, die beschädigt sind oder aus anderen Gründen nicht geöffnet werden können.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Automatisches Speichern eingeschaltet</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
         <translation>Einstellungen der Konturformatierung ändern.</translation>
+    </message>
+    <message>
+        <source>WppPhotoedit2.content</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.content</source>
+        <translation>Ändert die Effekteigenschaften der aktuellen Animation.</translation>
     </message>
     <message>
         <source>onlineMedia.title</source>
@@ -1487,13 +1527,11 @@ Dadurch wird ein Dokument mit einem aufgeräumten Erscheinungsbild erstellt.</tr
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Eingebettetes Objekt in das Dokument einfügen.
-
-Auf den Pfeil klicken, um den Dateiinhalt in das Dokument einzufügen.</translation>
+        <translation>Dialogfeld „Objekt einfügen“ anzeigen, um eine neue Datei oder eine Datei aus einem lokalen Ordner auszuwählen.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation>Change the settings of Equations.</translation>
+        <translation>Ändern Sie die Einstellungen der Formeln.</translation>
     </message>
     <message>
         <source>AlignBottom.content</source>
@@ -1509,9 +1547,9 @@ Auf den Pfeil klicken, um den Dateiinhalt in das Dokument einzufügen.</translat
     </message>
     <message>
         <source>UsePresenterView.content</source>
-        <translation>Presenter view shows the speaker view and the full screen view on different monitors.
+        <translation>Während der Präsentation zeigt die Sprecheransicht die „Vollbildansicht“ auf einem Monitor und eine „Sprecheransicht“ auf einem anderen Monitor
 
-If you only have one monitor, you can use Alt+F5 to try out presenter view, and press ESC to exit.</translation>
+Wenn Sie nur einen Monitor haben, verwenden Sie Alt+F5, um eine Vorschau der Sprecheransicht anzuzeigen, und drücken Sie Esc, um die Vorschau zu beenden.</translation>
     </message>
     <message>
         <source>TableSmartStyle.title</source>
@@ -1547,11 +1585,11 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation>Klicken Sie hier lesen zu aufhören.</translation>
+        <translation>Klicken Sie hier, um das Lesen zu stoppen.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation>Home Detailed Settings</translation>
+        <translation>HomeDetailedSettings – Titel</translation>
     </message>
     <message>
         <source>PreserveMaster.content</source>
@@ -1559,7 +1597,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Element in der Zwischenablage anzeigen.</translation>
+        <translation>Alle in die Zwischenablage kopierten Elemente anzeigen.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
@@ -1586,10 +1624,10 @@ Bildausschnitt macht Ihre PowerPoint-Präsentation zu etwas Besonderem.</transla
     <message>
         <source>ShapeFillAndOutLine.content</source>
         <translation>1. Formfüllung
-Füllen Sie ausgewählte Objekte mit Farben, Verläufen, Texturen und Bildern.
-2. Formkontur
+Füllen Sie ausgewählte Objekte mit Farben, Farbverläufen, Texturen und Bildern.
+2. Formumriss
 Konfigurieren Sie Farben, Stärken und Striche für ausgewählte Objekte.
-Klicken Sie auf Pfeile für eine detaillierte Konfiguration.</translation>
+Klicken Sie auf die Pfeile für eine detaillierte Konfiguration.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
@@ -1601,7 +1639,7 @@ Klicken Sie auf Pfeile für eine detaillierte Konfiguration.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>WordArt</translation>
+        <translation>WordArt einfügen</translation>
     </message>
     <message>
         <source>AudioFadeOut.content</source>
@@ -1641,7 +1679,7 @@ Klicken Sie auf Pfeile für eine detaillierte Konfiguration.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation>HomeDetailedSettings Inhalt</translation>
+        <translation>HomeDetailedSettings – Inhalt</translation>
     </message>
     <message>
         <source>InsertOnlinePicture.content</source>
@@ -1733,11 +1771,11 @@ Klicken Sie auf Pfeile für eine detaillierte Konfiguration.</translation>
     </message>
     <message>
         <source>3DPresentation.content</source>
-        <translation>Insert 3DPresentation</translation>
+        <translation>Interaktive 3D-Präsentationselemente in das Dokument einfügen</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation>Aufgabenfenster im Dokument ein-/ausblenden.</translation>
+        <translation>Aufgabenfenster in der Präsentation ein-/ausblenden.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
@@ -1842,6 +1880,10 @@ Pro Seite wird eine Folie mit ihren Sprechernotizen angezeigt, die Sie in dieser
         <translation>Bildschirmpräsentation aufzeichnen</translation>
     </message>
     <message>
+        <source>AnimationDuration.content</source>
+        <translation>Geben Sie die Länge der Animation ein. Je länger die Dauer, desto langsamer die Wiedergabegeschwindigkeit.</translation>
+    </message>
+    <message>
         <source>presentationTool.title</source>
         <translation>Präsentationsfunktion</translation>
     </message>
@@ -1879,15 +1921,15 @@ Pro Seite wird eine Folie mit ihren Sprechernotizen angezeigt, die Sie in dieser
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Dialogfeld „Makros“ anzeigen und die Liste der Makros anzeigen, die Sie ausführen oder löschen können, oder einen Makro direkt erstellen.</translation>
+        <translation>Dialogfeld „Makros“ anzeigen. Die Liste mit Makros anzeigen, in der Sie ein Makro ausführen, erstellen oder löschen können.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Drehen Sie den Text in Sprache. Sie genießen ein 2-Tage-Testversion von dieser Funktion.</translation>
+        <translation>Text in Sprache. Genießen Sie eine 2-tägige Testversion dieser Funktion.</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Auf den Pfeil klicken, um eine andere Textfarbe auszuwählen.</translation>
+        <translation>Auf den Pfeil klicken, um eine andere Schriftfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
@@ -1931,7 +1973,7 @@ Für die Onlinequellen der WPS Gallery ist eine Internetverbindung erforderlich.
     </message>
     <message>
         <source>RB_Font.content</source>
-        <translation>Dialogfeld „Schriftart“ anzeigen.</translation>
+        <translation>Dialogfeld &quot;Schriftart&quot; anzeigen.</translation>
     </message>
     <message>
         <source>RehearseAllSlides.content</source>
@@ -1949,7 +1991,7 @@ Wenn Sie Notizen eingeben möchten, dabei aber die Bildschirmpräsentation nicht
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Ausgewähltes Bild oder alle Bilder im Dokument komprimieren, um die Dateigröße zu reduzieren.</translation>
+        <translation>Ausgewähltes Bild oder alle Bilder komprimieren, um die Dateigröße zu reduzieren.</translation>
     </message>
     <message>
         <source>InsertMedia.title</source>
@@ -1968,6 +2010,14 @@ Wenn Sie Notizen eingeben möchten, dabei aber die Bildschirmpräsentation nicht
         <translation>Master löschen</translation>
     </message>
     <message>
+        <source>AnimationText.content</source>
+        <translation>Ändert die Methode zum Abspielen von Animationen, einschließlich &quot;Alle gleichzeitig&quot;, &quot;Nach Absatz&quot; und &quot;Nach Buchstabe&quot;.</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.title</source>
+        <translation>Animationseffekt</translation>
+    </message>
+    <message>
         <source>Ai Matting.title</source>
         <translation>Ai Matting</translation>
     </message>
@@ -1978,6 +2028,10 @@ Wenn Sie Notizen eingeben möchten, dabei aber die Bildschirmpräsentation nicht
     <message>
         <source>StopAutoVersion.title</source>
         <translation>Automatische Sicherung beenden</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.content</source>
+        <translation>Displays the Effect Options dialog box for you to modify the animation effect.</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
@@ -2056,16 +2110,20 @@ Wenn Sie Notizen eingeben möchten, dabei aber die Bildschirmpräsentation nicht
         <translation>Magisch</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.title</source>
+        <translation>Verzögerung:</translation>
+    </message>
+    <message>
         <source>AudioPause.content</source>
         <translation>Audio pausieren</translation>
     </message>
     <message>
         <source>InsertEduTools.title</source>
-        <translation>InsertEduTools.title</translation>
+        <translation>Lernmaterial</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
+        <translation>Dabei kann es vorkommen, dass die Datei bei der Anzeige oder beim Drucken ungeordnet ist. Bitte installieren Sie die entsprechende Schriftart oder ersetzen Sie sie durch eine andere Schriftart.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
@@ -2097,9 +2155,9 @@ Wenn Sie Notizen eingeben möchten, dabei aber die Bildschirmpräsentation nicht
     </message>
     <message>
         <source>AnimationPainter.content</source>
-        <translation>Copy the animation of selected object to other objects.
-
-Double click to copy to multiple objects.</translation>
+        <translation>Wenden Sie die Animation des ausgewählten Objekts auf andere Objekte an.
+        
+Doppelklicken Sie, um die Animation auf mehrere Objekte anzuwenden.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
@@ -2119,7 +2177,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation>Rahmen einer Tabelle im Dokument löschen.</translation>
+        <translation>Verwenden Sie einen Radiergummi, um Ränder in einer Tabelle zu löschen.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
@@ -2128,6 +2186,10 @@ Double click to copy to multiple objects.</translation>
     <message>
         <source>statusbarFontMissing.title</source>
         <translation>In Dokumenten verwendete Schriftarten fehlen auf diesem Computer</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.title</source>
+        <translation>Other Effect Options</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
@@ -2227,7 +2289,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Weibo-Bild exportieren</translation>
+        <translation>ExportWeiboImageCmd – Inhalt</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
@@ -2277,7 +2339,7 @@ WPSArt-Grafiken reichen von grafischen Listen und Prozessdiagrammen bis hin zu k
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation>Horizontale oder vertikale Textausrichtung für markierten Ausschnitt, das gesamte Dokument oder das markierte Textfeld oder die markierte Tabelle einstellen.</translation>
+        <translation>Horizontale oder vertikale Textausrichtung auf markierten Ausschnitt, das gesamte Dokument oder das markierte Textfeld oder die markierte Tabelle anpassen.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
@@ -2381,15 +2443,19 @@ WPSArt-Grafiken reichen von grafischen Listen und Prozessdiagrammen bis hin zu k
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Text vertikal und horizontal in der Zelle zentrieren.</translation>
+        <translation>Text vertikal zentrieren.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation>Automatisches Layout von Inhalten, einfaches Blättern der Seiten.</translation>
+        <translation>Bildschirmpräsentation im WPS Presentation-Fenster abspielen, um Animationen und Übergänge anzuzeigen, ohne in den Vollbildmodus zu wechseln.</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.title</source>
+        <translation>Wiedergabe starten</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation>Stellen Sie die automatische oder manuelle Sicherung für das aktuelle Dokument. Die Datensicherung wird auf „File Safe“ gespeichert werden.</translation>
+        <translation>Stellen Sie die automatische oder manuelle Sicherung für das aktuelle Dokument. Das Backup wird auf Ihr „File Safe“ gespeichert werden.</translation>
     </message>
     <message>
         <source>IncreaseFontSize.content</source>
@@ -2425,13 +2491,11 @@ WPSArt-Grafiken reichen von grafischen Listen und Prozessdiagrammen bis hin zu k
     </message>
     <message>
         <source>Underline.title</source>
-        <translation>Unterstreichen</translation>
+        <translation>Unterstrichen</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Text im Dokument suchen.
-
-Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Gehe zu“.</translation>
+        <translation>Text in der Präsentation suchen.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
@@ -2440,6 +2504,10 @@ Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Ge
     <message>
         <source>TableCenter.title</source>
         <translation>Zentrieren</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.content</source>
+        <translation>Löscht alle Animationseffekte aus ausgewählten Objekten, Folien oder der gesamten Präsentation.</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
@@ -2467,7 +2535,7 @@ Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Ge
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation>Tabellenradierer</translation>
+        <translation>Radiergummi</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
@@ -2475,7 +2543,7 @@ Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Ge
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Von PDF in Word konvertieren</translation>
+        <translation>Von PDF-Dateien in Word-Dateien konvertieren</translation>
     </message>
     <message>
         <source>LineSpacing.content</source>
@@ -2499,7 +2567,7 @@ Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Ge
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>PDF in Word</translation>
+        <translation>Von PDF in Word konvertieren</translation>
     </message>
     <message>
         <source>WppSharePlay2.content</source>
@@ -2507,7 +2575,7 @@ Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Ge
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation>Seitenzahl einfügen</translation>
+        <translation>Seitenzahl</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
@@ -2556,8 +2624,12 @@ Klicken Sie auf den Pfeil, um andere Optionen auszuwählen, beispielsweise „Ge
 Doppelklicken Sie auf diese Schaltfläche, um dieselbe Formatierung auf mehrere Stellen im Dokument zu übernehmen.</translation>
     </message>
     <message>
+        <source>AnimationText.title</source>
+        <translation>Textanimation</translation>
+    </message>
+    <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Reparieren von Dokumenten.</translation>
     </message>
     <message>
         <source>SlideNumber.title</source>
@@ -2589,7 +2661,7 @@ Doppelklicken Sie auf diese Schaltfläche, um dieselbe Formatierung auf mehrere 
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Textinhalt im Dokument ersetzen.</translation>
+        <translation>Text im Dokument ersetzen.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
@@ -2601,7 +2673,7 @@ Doppelklicken Sie auf diese Schaltfläche, um dieselbe Formatierung auf mehrere 
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
+        <translation>Wählen Sie die Papiergröße für die Präsentation aus, z. B. A4, A3 usw.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
@@ -2617,7 +2689,7 @@ Doppelklicken Sie auf diese Schaltfläche, um dieselbe Formatierung auf mehrere 
     </message>
     <message>
         <source>InsertEduTools.content</source>
-        <translation>InsertEduTools.content</translation>
+        <translation>Experte für die Produktion von Lehrmaterial. Unterstützung mehrerer Disziplinen</translation>
     </message>
     <message>
         <source>AudioFadeOut.title</source>
@@ -2651,7 +2723,7 @@ Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>An Telefon senden</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
@@ -2669,7 +2741,7 @@ Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
         <source>HighlightColor.content</source>
         <translation>Text so hervorheben, als wäre er mit einem Markerstift markiert worden.
 
-Auf den Pfeil klicken, um eine andere Hervorhebungsfarbe auszuwählen.</translation>
+    Auf den Pfeil klicken, um eine andere Hervorhebungsfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>TableFontEffects.content</source>
