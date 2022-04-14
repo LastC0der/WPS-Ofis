@@ -43,7 +43,7 @@ Level yang dipilih dan semua level yang lebih tinggi akan terlihat.</translation
     </message>
     <message>
         <source>OfficialVFont.content</source>
-        <translation>Set vertical font size.</translation>
+        <translation>Atur ukuran font potret untuk teks yang dipilih dan ubah ketinggian teks.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTools.content</source>
@@ -83,7 +83,7 @@ Level yang dipilih dan semua level yang lebih tinggi akan terlihat.</translation
     </message>
     <message>
         <source>ProofreadOfficial.title</source>
-        <translation>ProofreadOfficial</translation>
+        <translation>Koreksi Dokumen Resmi</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
@@ -91,7 +91,7 @@ Level yang dipilih dan semua level yang lebih tinggi akan terlihat.</translation
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Zoom</translation>
+        <translation>Tampilkan kotak dialog Zoom untuk menentukan level zoom dokumen.</translation>
     </message>
     <message>
         <source>RelocateUpOnOutlining.title</source>
@@ -111,7 +111,7 @@ Level yang dipilih dan semua level yang lebih tinggi akan terlihat.</translation
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Cetak Cepat</translation>
+        <translation>Cetak langsung</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.title</source>
@@ -123,7 +123,7 @@ Level yang dipilih dan semua level yang lebih tinggi akan terlihat.</translation
     </message>
     <message>
         <source>OfficialSingleAgency.title</source>
-        <translation>One Unit</translation>
+        <translation>Satu Penerbit</translation>
     </message>
     <message>
         <source>SplitWindow.content</source>
@@ -135,7 +135,7 @@ Level yang dipilih dan semua level yang lebih tinggi akan terlihat.</translation
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation>Membuang semua perubahan pemformatan yang Anda buat pada gambar ini.</translation>
+        <translation>Buang semua perubahan format yang Anda buat pada gambar ini.</translation>
     </message>
     <message>
         <source>m_CharacterScaling.title</source>
@@ -335,7 +335,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>OfficialUnionAgencies.title</source>
-        <translation>Five Units</translation>
+        <translation>Multi Penerbit</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
@@ -393,7 +393,7 @@ Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>FormatProof.title</source>
-        <translation>Format Proofread</translation>
+        <translation>Koreksi Format</translation>
     </message>
     <message>
         <source>RecentFontColor2.title</source>
@@ -575,7 +575,7 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     </message>
     <message>
         <source>ChartGallery_pro2.content</source>
-        <translation>ChartGallery_pro2 content</translation>
+        <translation>Kode Batang memberikan berbagai alat pembuatan kode batang, yang memungkinkan Anda dengan cepat membuat dan menyisipkan kode batang.</translation>
     </message>
     <message>
         <source>Macro.title</source>
@@ -625,11 +625,11 @@ Saat dikelompokkan, rentang teks tidak dapat diedit, kecuali di wilayah yang ber
     </message>
     <message>
         <source>PaperCheck.title</source>
-        <translation>PaperCheck.title</translation>
+        <translation>Periksa Plagiarisme Tesis</translation>
     </message>
     <message>
         <source>ComposeKit.title</source>
-        <translation>Compose Kit</translation>
+        <translation>Tips Penulisan</translation>
     </message>
     <message>
         <source>DeleteSection.content</source>
@@ -662,6 +662,10 @@ Anda dapat mencegah perubahan format, memaksa semua perubahan dilacak, atau meng
         <translation>Sisipkan AutoTeks di header atau footer untuk melihat dan menemukan artikel terkait dengan mudah.</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.title</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
         <translation>Mengubah pengaturan font, paragraf, serta gaya dan format.</translation>
     </message>
@@ -675,7 +679,7 @@ Anda dapat mencegah perubahan format, memaksa semua perubahan dilacak, atau meng
     </message>
     <message>
         <source>OfficialDocumentBarcode.content</source>
-        <translation>Generate an official document QR code for the document and insert.</translation>
+        <translation>Buat kode QR dokumen resmi dan sisipkan ke dokumen.</translation>
     </message>
     <message>
         <source>LastSection.content</source>
@@ -687,7 +691,7 @@ Anda dapat mencegah perubahan format, memaksa semua perubahan dilacak, atau meng
     </message>
     <message>
         <source>DocBarcode_pro.title</source>
-        <translation>Document Barcode</translation>
+        <translation>Kode QR Dokumen Resmi</translation>
     </message>
     <message>
         <source>Separator.content</source>
@@ -741,7 +745,7 @@ Klik tanda panah untuk memilih pilihan Ubah Huruf Besar Kecil, Karakter Tertutup
     </message>
     <message>
         <source>Signature.content</source>
-        <translation>Add a handwritten signature or an image, or enter a signature.</translation>
+        <translation>Tambahkan tanda tangan tertulis, impor gambar tanda tangan, atau ketikkan tanda tangan.</translation>
     </message>
     <message>
         <source>InsertIndexTables4ZhCnPage.title</source>
@@ -749,7 +753,7 @@ Klik tanda panah untuk memilih pilihan Ubah Huruf Besar Kecil, Karakter Tertutup
     </message>
     <message>
         <source>OfficialZoomTwoPages.title</source>
-        <translation>Multi Page</translation>
+        <translation>Multi Halaman</translation>
     </message>
     <message>
         <source>PrintOrder.title</source>
@@ -761,7 +765,7 @@ Klik tanda panah untuk memilih pilihan Ubah Huruf Besar Kecil, Karakter Tertutup
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Warna Font</translation>
+        <translation>Warna Teks</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
@@ -781,7 +785,7 @@ Klik tanda panah untuk memilih pilihan Ubah Huruf Besar Kecil, Karakter Tertutup
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation>ChartGallery_pro.content</translation>
+        <translation>Mendukung penyisipan kode batang dalam beberapa format penyandian</translation>
     </message>
     <message>
         <source>IndexMarkEntry.content</source>
@@ -825,7 +829,7 @@ Klik tanda panah untuk memilih pilihan Ubah Huruf Besar Kecil, Karakter Tertutup
     </message>
     <message>
         <source>CustomBold2.title</source>
-        <translation>Bold2</translation>
+        <translation>Tebal</translation>
     </message>
     <message>
         <source>TableBorderColor.content</source>
@@ -887,7 +891,7 @@ Klik tanda panah untuk memilih warna batas yang berbeda.</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation>Kunci rasio aspek saat menyesuaikan gambar.</translation>
+        <translation>Kunci Rasio Aspek</translation>
     </message>
     <message>
         <source>AlignTopCenter.title</source>
@@ -969,7 +973,7 @@ Menerapkan pemformatan cerdas, seperti &quot;Hapus spasi&quot;, &quot;Inden bari
     </message>
     <message>
         <source>OfficialPDFCompress.title</source>
-        <translation>PDF Compress</translation>
+        <translation>Kompres PDF</translation>
     </message>
     <message>
         <source>InsertBlankPage2.content</source>
@@ -1015,7 +1019,7 @@ Pilihan ini tersedia saat kisi ditentukan.</translation>
     </message>
     <message>
         <source>OfficialExportOFD.content</source>
-        <translation>Save the document as an OFD.</translation>
+        <translation>Output dokumen sebagai dokumen OFD.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
@@ -1069,7 +1073,7 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>OfficialView.title</source>
-        <translation>OfficialView</translation>
+        <translation>Tata Letak Dokumen Resmi</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
@@ -1104,6 +1108,10 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
         <translation>Ubah Huruf Besar Kecil</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
+    </message>
+    <message>
         <source>PageLayoutDetailedSettings.content</source>
         <translation>Konten Pengaturan Detail Tata Letak Halaman</translation>
     </message>
@@ -1113,7 +1121,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>OfficialSingleRowEdition.title</source>
-        <translation>One-row Edition Info</translation>
+        <translation>Tanda Edisi Satu Baris</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
@@ -1145,7 +1153,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>FormatProof.content</source>
-        <translation>Quick, professional review and correction for official document formats.</translation>
+        <translation>Koreksi format dokumen resmi dengan cara yang cepat dan profesional</translation>
     </message>
     <message>
         <source>InsertIndex.title</source>
@@ -1165,7 +1173,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>InsertForm.title</source>
-        <translation>Insert Form</translation>
+        <translation>Sisipkan Ruas-ruas Formulir</translation>
     </message>
     <message>
         <source>m_Rotate.title</source>
@@ -1189,7 +1197,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>OfficialSeparatingLine.content</source>
-        <translation>Choose a separator and insert it to the document.</translation>
+        <translation>Pilih pemisah dan sisipkan ke dokumen.</translation>
     </message>
     <message>
         <source>RbTableOutsideBorder.content</source>
@@ -1205,7 +1213,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Baca Teks</translation>
     </message>
     <message>
         <source>DetailedSettings_Paragraph.title</source>
@@ -1221,7 +1229,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>OfficialParaTools.content</source>
-        <translation>Click to show common paragraph tools.</translation>
+        <translation>Klik untuk menampilkan alat paragraf umum.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
@@ -1249,7 +1257,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>InsertHeaderFooterGroup.content</source>
-        <translation>The header footer group style is consist of header,footer,pagenumber at the same time</translation>
+        <translation>Set adalah gaya aplikasi gabungan mencakup header, baris header, footer, dan nomor halaman dari gaya yang sama.</translation>
     </message>
     <message>
         <source>COMAddIns.title</source>
@@ -1268,8 +1276,12 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
         <translation>Klik untuk memilih di mana jendela navigasi akan ditampilkan.</translation>
     </message>
     <message>
+        <source>SpellCheckMore.content</source>
+        <translation>Spell Check More</translation>
+    </message>
+    <message>
         <source>DecreaseIndent.title</source>
-        <translation>Kurangi Level Daftar</translation>
+        <translation>Kurangi Indent</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1281,7 +1293,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation>Barcode</translation>
+        <translation>Kode Batang</translation>
     </message>
     <message>
         <source>DetailedSettings_wps_PictureTools.title</source>
@@ -1323,7 +1335,7 @@ Klik tanda panah untuk memilih pilihan Panduan Fonetik, Karakter Tertutup, dan B
     </message>
     <message>
         <source>OfficialView.content</source>
-        <translation>View the document as it would look as Official document</translation>
+        <translation>Efek tata letak sesuai dengan versi penulisan dokumen resmi</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
@@ -1351,7 +1363,7 @@ Klik tanda panah untuk memilih pilihan Panduan Fonetik, Karakter Tertutup, dan B
     </message>
     <message>
         <source>InsertForm.content</source>
-        <translation>Choose different forms to insert into the document, such as text form fields, checkbox form fields, drop-down form fields, etc.</translation>
+        <translation>Pilih aneka ruas-ruas formulir untuk disisipkan ke dalam dokumen, seperti ruas-ruas teks, ruas-ruas kotak centang, dan ruas-ruas daftar drop-down.</translation>
     </message>
     <message>
         <source>Proofread.content</source>
@@ -1389,7 +1401,7 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Simpan Otomatis File</translation>
     </message>
     <message>
         <source>m_PageSize.content</source>
@@ -1405,7 +1417,11 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.title</source>
-        <translation>Portrait Page</translation>
+        <translation>Sisipkan Halaman Potret</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
@@ -1415,7 +1431,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>OfficialZoomTwoPages.content</source>
-        <translation>Change the zoom scale to show multiple pages in the window.</translation>
+        <translation>Perbesar dokumen sehingga Anda dapat melihat beberapa halaman dalam jendela.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
@@ -1465,7 +1481,7 @@ Misalnya, Anda dapat menunjukkan bahwa ruas khusus &quot;Pos&quot; setara dengan
     </message>
     <message>
         <source>OfficialSingleAgency.content</source>
-        <translation>Insert one issue unit to the document.</translation>
+        <translation>Sisipkan satu nama penerbit ke dokumen.</translation>
     </message>
     <message>
         <source>ShowTocNavigationPane.title</source>
@@ -1481,7 +1497,7 @@ Misalnya, Anda dapat menunjukkan bahwa ruas khusus &quot;Pos&quot; setara dengan
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.title</source>
-        <translation>Landscape Page</translation>
+        <translation>Sisipkan Halaman Lanskap</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
@@ -1489,7 +1505,7 @@ Misalnya, Anda dapat menunjukkan bahwa ruas khusus &quot;Pos&quot; setara dengan
     </message>
     <message>
         <source>OfficialFont.content</source>
-        <translation>Apply standard official document font and font size to the selected text.</translation>
+        <translation>Dengan cepat mengatur font dokumen resmi standar dan ukuran font untuk teks yang dipilih.</translation>
     </message>
     <message>
         <source>m_Style2.content</source>
@@ -1501,7 +1517,7 @@ Misalnya, Anda dapat menunjukkan bahwa ruas khusus &quot;Pos&quot; setara dengan
     </message>
     <message>
         <source>OfficialNormalPageSetup.content</source>
-        <translation>Open the Page Setup dialog box.</translation>
+        <translation>Buka kotak dialog Penyiapan Halaman.</translation>
     </message>
     <message>
         <source>HeaderFooterOptions.content</source>
@@ -1537,7 +1553,7 @@ Misalnya, Anda dapat menunjukkan bahwa ruas khusus &quot;Pos&quot; setara dengan
     </message>
     <message>
         <source>OfficialHead.content</source>
-        <translation>Choose a document head to insert to the begining of the document.</translation>
+        <translation>Pilih header versi untuk disisipkan ke awal dokumen.</translation>
     </message>
     <message>
         <source>SplitCells.content</source>
@@ -1549,7 +1565,7 @@ Misalnya, Anda dapat menunjukkan bahwa ruas khusus &quot;Pos&quot; setara dengan
     </message>
     <message>
         <source>OfficialVFont.title</source>
-        <translation>VFont</translation>
+        <translation>Ukuran Font Potret</translation>
     </message>
     <message>
         <source>Select.content</source>
@@ -1561,7 +1577,7 @@ Misalnya, Anda dapat menunjukkan bahwa ruas khusus &quot;Pos&quot; setara dengan
     </message>
     <message>
         <source>OfficialHFont.title</source>
-        <translation>HFont</translation>
+        <translation>Ukuran Font Lanskap</translation>
     </message>
     <message>
         <source>MergeToDiffNewDoc.content</source>
@@ -1603,7 +1619,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>ChartGallery_pro2.title</source>
-        <translation>Barcode</translation>
+        <translation>Kode Batang</translation>
     </message>
     <message>
         <source>EnterParagraphAdjustment.content</source>
@@ -1631,7 +1647,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>OfficialUnionAgencies.content</source>
-        <translation>Insert five issue units to the document.</translation>
+        <translation>Sisipkan lima nama penerbit ke dokumen.</translation>
     </message>
     <message>
         <source>DetailedSettings_HFTools.content</source>
@@ -1639,7 +1655,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>PaperCheck.content</source>
-        <translation>PaperCheck.content</translation>
+        <translation>Bekerja sama dengan merek resmi terkenal untuk memeriksa dengan cepat plagiarisme tesis.</translation>
     </message>
     <message>
         <source>NavigationPane.content</source>
@@ -1663,7 +1679,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>OfficialSearchComputer.title</source>
-        <translation>Search Local</translation>
+        <translation>Cari Lokal</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
@@ -1789,7 +1805,7 @@ Klik tanda panah untuk memilih pilihan Panduan Fonetik, Ubah Huruf Besar Kecil, 
     </message>
     <message>
         <source>OfficialSettings.title</source>
-        <translation>Document Settings</translation>
+        <translation>Pengaturan Dokumen</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
@@ -1801,7 +1817,7 @@ Klik tanda panah untuk memilih pilihan Panduan Fonetik, Ubah Huruf Besar Kecil, 
     </message>
     <message>
         <source>OfficialExportOFD.title</source>
-        <translation>Save as OFD</translation>
+        <translation>OFD Output</translation>
     </message>
     <message>
         <source>GotoNextEndnote.content</source>
@@ -1829,7 +1845,7 @@ Klik tanda panah untuk memilih pilihan Panduan Fonetik, Ubah Huruf Besar Kecil, 
     </message>
     <message>
         <source>OfficialPDFCompress.content</source>
-        <translation>Compress existing PDF to make them smaller.</translation>
+        <translation>Kompres file t PDF.</translation>
     </message>
     <message>
         <source>ContentControlRichText.title</source>
@@ -1961,7 +1977,7 @@ Daftar isi otomatis berisi teks yang diformat dengan gaya Kepala.</translation>
     </message>
     <message>
         <source>Official2Ordinary.content</source>
-        <translation>Official document Convert to Normal Document</translation>
+        <translation>Konversi dokumen resmi ke dokumen biasa. Buka dokumen dalam versi asal, dan efek visual pada dasarnya sama.</translation>
     </message>
     <message>
         <source>HeaderAndFooterSetting.title</source>
@@ -1989,7 +2005,7 @@ Daftar isi otomatis berisi teks yang diformat dengan gaya Kepala.</translation>
     </message>
     <message>
         <source>OfficialTextIdentification.content</source>
-        <translation>Identify text in PDF or pictures can copy them to this document.</translation>
+        <translation>Dengan cepat mengenali isi teks dalam PDF dan gambar, dan menyalinnya ke dokumen.</translation>
     </message>
     <message>
         <source>TableShadingColor.content</source>
@@ -2053,11 +2069,11 @@ Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>DocumentFix</translation>
+        <translation>Memperbaiki dengan cepat dokumen yang rusak atau tidak dapat dibuka karena alasan lain.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Simpan otomatis diaktifkan</translation>
     </message>
     <message>
         <source>AddSection.content</source>
@@ -2097,7 +2113,7 @@ Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>InsertHeader.content</source>
-        <translation>The header style can help you to display title,author and page number</translation>
+        <translation>Header membantu Anda mengulang isi di bagian teratas setiap halaman. Berguna untuk menampilkan informasi, seperti judul, penulis, dan nomor halaman.</translation>
     </message>
     <message>
         <source>SplitTable.title</source>
@@ -2135,7 +2151,7 @@ Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>Official2RowsEditions.title</source>
-        <translation>Two-row Edition Info</translation>
+        <translation>Tanda Edisi Dua Baris</translation>
     </message>
     <message>
         <source>Shapes.content</source>
@@ -2151,11 +2167,11 @@ Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>DocBarcode_pro2.content</source>
-        <translation>DocBarcode_pro2 content</translation>
+        <translation>Kode Batang memberikan berbagai alat pembuatan kode batang, yang memungkinkan Anda dengan cepat membuat dan menyisipkan kode batang.</translation>
     </message>
     <message>
         <source>PaperTypeset.content</source>
-        <translation>PaperTypeset.content</translation>
+        <translation>Dengan cerdas menyelesaikan tata letak tesis berdasarkan pada sekolah dan jurusan yang dipilih</translation>
     </message>
     <message>
         <source>CloseOutlineview.content</source>
@@ -2187,7 +2203,7 @@ Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>OfficialTemplates.content</source>
-        <translation>Apply any template to create new document. You can design your own template using </translation>
+        <translation>Menerapkan templat yang sudah ada untuk membuat dokumen resmi baru. Klik Templat Kustom untuk mendesain templat Anda sendiri.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
@@ -2195,7 +2211,7 @@ Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>OfficialTextIdentification.title</source>
-        <translation>Text Identification(Ctrl+Alt+S)</translation>
+        <translation>Pengenalan Teks</translation>
     </message>
     <message>
         <source>AlignTopRight.title</source>
@@ -2203,7 +2219,11 @@ Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>MailConfig.content</source>
-        <translation>Configure email account.</translation>
+        <translation>Konfigurasi akun email yang digunakan untuk mengirim email.</translation>
+    </message>
+    <message>
+        <source>ClickToTurnOnOffSpellCheck.content</source>
+        <translation>Click to turn on/off spell check</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
@@ -2319,11 +2339,11 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>NewOfficialDocument.title</source>
-        <translation>Official Document</translation>
+        <translation>Dokumen Resmi</translation>
     </message>
     <message>
         <source>SmartOfficial.title</source>
-        <translation>SmartOfficial</translation>
+        <translation>Konversi Smart Dokumen Resmi</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
@@ -2331,7 +2351,7 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>InsertFooter.content</source>
-        <translation>The footer style can help you to display title,author and page number</translation>
+        <translation>Footer membantu Anda mengulang isi di bagian dasar setiap halaman. Berguna untuk menampilkan informasi, seperti judul, penulis, dan nomor halaman.</translation>
     </message>
     <message>
         <source>PrintCopies.content</source>
@@ -2461,7 +2481,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>OfficialHFont.content</source>
-        <translation>Set horizontal font size.</translation>
+        <translation>Atur ukuran font lanskap untuk teks yang dipilih dan ubah lebar teks.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
@@ -2489,7 +2509,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>PaperTypeset.title</source>
-        <translation>PaperTypeset.title</translation>
+        <translation>Tata Cetak Tesis</translation>
     </message>
     <message>
         <source>ShowFormatting.content</source>
@@ -2525,7 +2545,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>PaperFormat.content</source>
-        <translation>Rapid typesetting of papers.</translation>
+        <translation>Mengonversi dengan cepat draf tesis ke dalam tesis jadi yang memenuhi standar dari berbagai institusi</translation>
     </message>
     <message>
         <source>InsertIndex.content</source>
@@ -2541,7 +2561,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.content</source>
-        <translation>Insert portrait pages to the document.</translation>
+        <translation>Sisipkan halaman potret ke dokumen.</translation>
     </message>
     <message>
         <source>AlignStyle.title</source>
@@ -2549,7 +2569,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>DocBarcode_pro2.title</source>
-        <translation>Barcode</translation>
+        <translation>Kode Batang</translation>
     </message>
     <message>
         <source>SectionNavigationPane.title</source>
@@ -2581,11 +2601,11 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>InsertFooter.title</source>
-        <translation>Add Footer</translation>
+        <translation>Tambahkan Footer</translation>
     </message>
     <message>
         <source>OfficialSettings.content</source>
-        <translation>Setup options for Official Document Writing Mode, such us puncturation type and listing.</translation>
+        <translation>Opsi penyiapan untuk mode penulisan dokumen resmi, seperti Jenis Tanda Baca dan Nomor Pintar.</translation>
     </message>
     <message>
         <source>HeaderDistance.content</source>
@@ -2613,7 +2633,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>InsertHeader.title</source>
-        <translation>Add Header</translation>
+        <translation>Tambahkan Header</translation>
     </message>
     <message>
         <source>TableBorderStyle.title</source>
@@ -2685,7 +2705,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>MailConfig.title</source>
-        <translation>Email Config</translation>
+        <translation>Konfigurasi Email</translation>
     </message>
     <message>
         <source>m_ShowReviewer.content</source>
@@ -2725,7 +2745,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
-        <translation>Professional document proofread tool in official view</translation>
+        <translation>Koreksi isi dokumen dengan cara cepat dan profesional, dan perbaiki dengan akurat kata-kata yang hilang dan kata-kata yang salah.</translation>
     </message>
     <message>
         <source>RecentTableShadingColor2.title</source>
@@ -2767,11 +2787,11 @@ Tindakan ini memudahkan untuk melihat bagian surat formulir yang akan diganti de
     </message>
     <message>
         <source>OfficialHVFont.title</source>
-        <translation>HVFont</translation>
+        <translation>Ukuran Font Lanskap/Potret</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>TextSpeech</translation>
+        <translation>Ubah teks ke ucapan. Anda memiliki uji coba gratis fitur ini setiap hari.</translation>
     </message>
     <message>
         <source>Official2Ordinary.title</source>
@@ -2884,6 +2904,10 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
         <translation>Panel Pilihan</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.content</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>LooseLineSpacing.title</source>
         <translation>Spasi Baris Longgar</translation>
     </message>
@@ -2937,7 +2961,7 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>DocBarcode_pro.content</source>
-        <translation>use document barcode for flow of documents.</translation>
+        <translation>Sisipkan kode QR dokumen resmi untuk merealisasikan sirkulasi cepat dokumen resmi.</translation>
     </message>
     <message>
         <source>MergeToPrinter.content</source>
@@ -3017,7 +3041,7 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>CustomBold2.content</source>
-        <translation>Make the selected text bold 2.</translation>
+        <translation>Klik panah untuk memilih ketebalan font.</translation>
     </message>
     <message>
         <source>XmlStructure.title</source>
@@ -3049,7 +3073,7 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Tambah Level Daftar</translation>
+        <translation>Tambah Indent</translation>
     </message>
     <message>
         <source>PageDiffOddEven.content</source>
@@ -3069,7 +3093,7 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
+        <translation>Ini dapat menyebabkan dokumen tidak dapat ditampilkan atau dicetak dengan benar. Silakan pasang dan ubah font.</translation>
     </message>
     <message>
         <source>PreviousHeader.title</source>
@@ -3077,7 +3101,7 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>InsertHeaderFooterGroup.title</source>
-        <translation>Add Header Footer Group</translation>
+        <translation>Tambahkan Set Header dan Footer</translation>
     </message>
     <message>
         <source>UpdateTocOnOutlining.content</source>
@@ -3135,7 +3159,7 @@ Semua teks akan diletakkan di kotak teks yang dipilih.</translation>
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.content</source>
-        <translation>Insert landscape pages to the document.</translation>
+        <translation>Sisipkan halaman lanskap ke dokumen.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
@@ -3215,7 +3239,7 @@ Semua teks akan diletakkan di kotak teks yang dipilih.</translation>
     </message>
     <message>
         <source>OfficialHVFont.content</source>
-        <translation>Set horizontal and vertical font size.</translation>
+        <translation>Atur ukuran font lanskap atau potret dari teks yang dipilih dan ubah lebar atau tinggi teks.</translation>
     </message>
     <message>
         <source>SplitWindow2.title</source>
@@ -3251,7 +3275,7 @@ Semua teks akan diletakkan di kotak teks yang dipilih.</translation>
     </message>
     <message>
         <source>OfficialSearchComputer.content</source>
-        <translation>Search the computer with keywords as filename or text in content, and use the results as references in this document.</translation>
+        <translation>Cari file di komputer menggunakan nama file dan isi konten, dan gunakan hasilnya sebagai referensi.</translation>
     </message>
     <message>
         <source>AlignBottomRight.content</source>
@@ -3269,11 +3293,11 @@ Ragam grafik WPSArt mulai dari daftar grafis dan diagram proses hingga grafik ya
     </message>
     <message>
         <source>OfficialFont.title</source>
-        <translation>Official Document Fonts</translation>
+        <translation>Font Dokumen Resmi</translation>
     </message>
     <message>
         <source>OfficialHead.title</source>
-        <translation>Head</translation>
+        <translation>Kop</translation>
     </message>
     <message>
         <source>DetailedSettings_References.content</source>
@@ -3353,7 +3377,7 @@ Ragam grafik WPSArt mulai dari daftar grafis dan diagram proses hingga grafik ya
     </message>
     <message>
         <source>Official2RowsEditions.content</source>
-        <translation>Insert a two-row edition information to the end of the document.</translation>
+        <translation>Sisipkan tanda edisi dua baris ke bagian akhir halaman saat ini.</translation>
     </message>
     <message>
         <source>MultiplePages.content</source>
@@ -3365,7 +3389,7 @@ Ragam grafik WPSArt mulai dari daftar grafis dan diagram proses hingga grafik ya
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Menampilkan dulu efek halaman sebelum pencetakan.</translation>
+        <translation>Tampilkan dulu dan buat perubahan pada halaman sebelum dicetak.</translation>
     </message>
     <message>
         <source>NextHeader.title</source>
@@ -3407,7 +3431,7 @@ Ini hanya akan mempengaruhi tabel yang melampaui satu halaman.</translation>
     </message>
     <message>
         <source>OfficialDocumentBarcode.title</source>
-        <translation>Official Document QR Code</translation>
+        <translation>Kode QR Dokumen Resmi</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
@@ -3415,7 +3439,7 @@ Ini hanya akan mempengaruhi tabel yang melampaui satu halaman.</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Warna Font</translation>
+        <translation>Warna Teks</translation>
     </message>
     <message>
         <source>HighlightMergeFields.title</source>
@@ -3609,7 +3633,7 @@ Hasil akan ditampilkan dalam sel beserta sel yang dipilih di baris atau kolom ya
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Ubah PDF ke Word</translation>
+        <translation>Mengonversi file PDF ke file Word.</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
@@ -3621,7 +3645,7 @@ Hasil akan ditampilkan dalam sel beserta sel yang dipilih di baris atau kolom ya
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>PDF ke Word</translation>
+        <translation>Konversi PDF ke Word</translation>
     </message>
     <message>
         <source>LineColor2.title</source>
@@ -3653,7 +3677,7 @@ Hasil akan ditampilkan dalam sel beserta sel yang dipilih di baris atau kolom ya
     </message>
     <message>
         <source>OfficialSingleRowEdition.content</source>
-        <translation>Insert a one-row edition information to the end of the document.</translation>
+        <translation>Sisipkan tanda edisi satu baris ke bagian akhir halaman saat ini.</translation>
     </message>
     <message>
         <source>sp_DeleteComment2.title</source>
@@ -3709,11 +3733,11 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Perbaikan Dokumen.</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Menggunakan printer default untuk mencetak secara langsung.</translation>
+        <translation>Kirim dokumen langsung ke printer default tanpa melakukan perubahan.</translation>
     </message>
     <message>
         <source>AlignTopRight.content</source>
@@ -3729,7 +3753,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>SmartOfficial.content</source>
-        <translation>Normal Document Convert to Official document</translation>
+        <translation>Dengan cepat mengonversi dokumen resmi yang distandarkan.</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
@@ -3745,11 +3769,11 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
+        <translation>Tentukan jenis kertas untuk bagian saat ini, seperti A4 da A3.</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation>Reset semua perubahan ke ukuran gambar yang dipilih.</translation>
+        <translation>Reset Ukuran</translation>
     </message>
     <message>
         <source>ContentControlRichText.content</source>
@@ -3761,7 +3785,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>OfficialZoomOnePage.content</source>
-        <translation>Change the zoom scale to fit a single page to the window.</translation>
+        <translation> Perbesar dokumen sehingga satu halaman utuh secara otomatis pas dengan jendela.</translation>
     </message>
     <message>
         <source>ReviewTip.title</source>
@@ -3817,7 +3841,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Kirim ke Ponsel</translation>
     </message>
     <message>
         <source>InsertSectionAfter.title</source>
