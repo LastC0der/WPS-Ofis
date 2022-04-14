@@ -3,15 +3,15 @@
     <name>KLiteCustomerServiceDlg</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>WPS customer service</source>
@@ -34,11 +34,11 @@
     </message>
     <message>
         <source>success</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil Dikonversi.</translation>
     </message>
     <message>
         <source>waiting</source>
-        <translation type="unfinished"/>
+        <translation>Harap tunggu.</translation>
     </message>
     <message>
         <source>warning</source>
@@ -181,7 +181,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>PPTX</source>
@@ -193,15 +193,15 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Folder</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
-        <translation type="unfinished"/>
+        <translation>File perusahaan hanya dapat disimpan di perusahaan tersebut.</translation>
     </message>
     <message>
         <source>Dropbox</source>
@@ -324,7 +324,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Shares received of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Pembagian yang Diterima</translation>
     </message>
     <message>
         <source>There is an extension of the data in the document</source>
@@ -356,7 +356,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>ShareFolder</source>
-        <translation type="unfinished"/>
+        <translation>Folder Berbagi</translation>
     </message>
     <message>
         <source>Folder is not exist</source>
@@ -364,15 +364,15 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Group Space of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Tim Saya</translation>
     </message>
     <message>
         <source>My Company</source>
-        <translation type="unfinished"/>
+        <translation>Perusahaan Saya</translation>
     </message>
     <message>
         <source>Syn doc to cloud then everywhere to continue accessing</source>
-        <translation type="unfinished"/>
+        <translation>File yang dicadangkan ke Cloud dapat diakses setelah masuk di ponsel atau komputer.</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -497,7 +497,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Buka (&amp;B)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -650,7 +650,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Start Now</source>
-        <translation type="unfinished"/>
+        <translation>Mulai Sekarang</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
@@ -670,7 +670,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Pembayaran gagal</translation>
     </message>
 </context>
 <context>
@@ -741,7 +741,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Pembayaran gagal</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -776,11 +776,11 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
-        <translation type="unfinished"/>
+        <translation>Docer VIP</translation>
     </message>
     <message>
         <source>Excellent office resource for Docer VIP, including templates, learning materials, etc. that help both in school and office work</source>
@@ -792,7 +792,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
@@ -810,15 +810,15 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <name>KCefLoadingProgressDlgBase</name>
     <message>
         <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
-        <translation type="unfinished"/>
+        <translation>Silakan tunggu beberapa menit sampai pengunduhan selesai.</translation>
     </message>
     <message>
         <source>Loading core support library......</source>
-        <translation type="unfinished"/>
+        <translation>Memuat perpustakaan dukungan inti...</translation>
     </message>
     <message>
         <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengunduh perpustakaan dukungan inti. Silakan periksa konektivitas jaringan dan muat ulang perpustakaan.</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -830,11 +830,11 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Core support library failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Gagal memuat perpustakaan dukungan inti.</translation>
     </message>
     <message>
         <source>This feature requires core support library,</source>
-        <translation type="unfinished"/>
+        <translation>Fitur ini memerlukan perpustakaan dukungan inti.</translation>
     </message>
 </context>
 <context>
@@ -894,11 +894,11 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
-        <translation type="unfinished"/>
+        <translation>Setelah mengotorisasi WPS Office, Anda dapat mengakses dan mengelola file Anda yang disimpan di cloud pihak ketiga.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Otorisasi</translation>
     </message>
 </context>
 <context>
@@ -913,34 +913,34 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation type="unfinished"/>
+        <translation>Pembuatan pintasan File WPS Cloud gagal!</translation>
     </message>
     <message>
         <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan File WPS Cloud telah dibuat, Anda dapat menemukannya di desktop</translation>
     </message>
 </context>
 <context>
     <name>KUploadLimitBubble</name>
     <message>
         <source>Upgrade VIP and upload</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan VIP dan unggah</translation>
     </message>
     <message>
         <source>Sync failed</source>
-        <translation type="unfinished"/>
+        <translation>Penyinkronan gagal</translation>
     </message>
     <message>
         <source>Upload failed, your WPS cloud space is full</source>
-        <translation type="unfinished"/>
+        <translation>Pengunggahan gagal, ruang cloud WPS Anda penuh</translation>
     </message>
     <message>
         <source>File exceeds %1 upload limit</source>
-        <translation type="unfinished"/>
+        <translation>File tidak disinkronkan. Ukuran file melebihi limit unggah %1.</translation>
     </message>
     <message>
         <source>Please clean up files in time</source>
-        <translation type="unfinished"/>
+        <translation>Harap bersihkan file pada waktunya</translation>
     </message>
 </context>
 <context>
@@ -981,14 +981,14 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <name>KLiteQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>Jika ada pertanyaan, silakan hubungi %1 Layanan Pelanggan WPS, atau pindai kode QR Layanan Pelanggan di sisi kiri.</translation>
     </message>
 </context>
 <context>
     <name>KAppLoadFailedWindow</name>
     <message>
         <source>Network exception, %1 failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Pengecualian jaringan, %1 gagal dimuat</translation>
     </message>
 </context>
 <context>
@@ -1003,19 +1003,20 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <message>
         <source>Upgrading
 please wait</source>
-        <translation type="unfinished"/>
+        <translation>Mengunggah
+harap tunggu</translation>
     </message>
     <message>
         <source>Wait a moment...</source>
-        <translation type="unfinished"/>
+        <translation>Tunggu beberapa saat...</translation>
     </message>
     <message>
         <source>Receiving</source>
-        <translation type="unfinished"/>
+        <translation>Menerima</translation>
     </message>
     <message>
         <source>Processing...</source>
-        <translation type="unfinished"/>
+        <translation>Memproses...</translation>
     </message>
 </context>
 <context>
@@ -1037,7 +1038,7 @@ please wait</source>
     </message>
     <message>
         <source>Backgroundg</source>
-        <translation type="unfinished"/>
+        <translation>Latar belakang</translation>
     </message>
 </context>
 <context>
@@ -1117,14 +1118,14 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <name>KActivityWidget</name>
     <message>
         <source>Dont remind me</source>
-        <translation type="unfinished"/>
+        <translation>Jangan ingatkan saya</translation>
     </message>
 </context>
 <context>
     <name>KDisclaimerDialog</name>
     <message>
         <source>Tips：One AppleID can only qualify once</source>
-        <translation type="unfinished"/>
+        <translation>Tips：Satu AppleID hanya dapat memenuhi syarat sekali</translation>
     </message>
 </context>
 <context>
@@ -1142,22 +1143,22 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <name>KVipPrivilegeComparisonWidget</name>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
-        <translation type="unfinished"/>
+        <translation>Docer VIP</translation>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source> Upgrade </source>
-        <translation type="unfinished"/>
+        <translation> Tingkatkan </translation>
     </message>
 </context>
 <context>
@@ -1187,15 +1188,15 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <name>KUploadFileGuideDlg</name>
     <message>
         <source>Account had been logouted, uploading has been canceled</source>
-        <translation type="unfinished"/>
+        <translation>Akun telah tercatat keluar, mengunggah telah dibatalkan</translation>
     </message>
     <message>
         <source>selected files have been in cloud</source>
-        <translation type="unfinished"/>
+        <translation>file-file yang dipilih telah berada di cloud</translation>
     </message>
     <message>
         <source>Account had been logouted</source>
-        <translation type="unfinished"/>
+        <translation>Akun telah tercatat keluar</translation>
     </message>
 </context>
 <context>
@@ -1294,7 +1295,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>Remind me tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Ingatkan saya besok</translation>
     </message>
 </context>
 <context>
@@ -1308,7 +1309,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <name>KLiteWaitingWidget</name>
     <message>
         <source>resource loading...</source>
-        <translation type="unfinished"/>
+        <translation>Memuat sumber...</translation>
     </message>
 </context>
 <context>
