@@ -3781,7 +3781,7 @@ Değer</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Reports</source>
@@ -28809,7 +28809,7 @@ Doldurma</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -28842,7 +28842,7 @@ Doldurma</translation>
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanı</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -35519,7 +35519,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>Entire Wor&amp;kbook</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Çalışma &amp;Kitabı</translation>
     </message>
     <message>
         <source>2 Pages</source>
