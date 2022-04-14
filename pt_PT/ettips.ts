@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation>Aumentar Tipo de Letra</translation>
+        <translation>Aumentar Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Zoom</translation>
+        <translation>Mostrar a caixa de diálogo Zoom para especificar o nível de zoom do documento.</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Impressão Rápida</translation>
+        <translation>Imprimir Diretamente</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation>Convert To Line Sparkline</translation>
+        <translation>Converter em gráfico sparkline de linhas</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Inserir ficheiro selecionado no documento.</translation>
+        <translation>Inserir o ficheiro selecionado no documento.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
+        <translation>Os gráficos sparkline são minigráficos colocados em células únicas, cada um representando uma linha de dados na seleção.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation>Toggle Sparkline Markers</translation>
+        <translation>Ativar/desativar marcadores de gráfico sparkline</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
@@ -283,9 +283,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Sublinhar o texto selecionado.
-
-Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
+        <translation>Sublinhar o texto selecionado.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
@@ -301,11 +299,11 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation>Group Selected Sparklines</translation>
+        <translation>Agrupar gráficos sparkline selecionados</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation>Extract data to grid</translation>
+        <translation>Extraia dados para uma célula.</translation>
     </message>
     <message>
         <source>Min.title</source>
@@ -363,7 +361,7 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation>Repor Tamanho</translation>
+        <translation>Repor todas as alterações ao tamanho da imagem selecionada.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
@@ -375,7 +373,7 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation>Import data from a text file.</translation>
+        <translation>Importe dados a partir de um ficheiro de texto.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
@@ -383,7 +381,7 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation>Break a set of grouped sparklines into individual sparklines.</translation>
+        <translation>Divida um conjunto de gráficos sparkline agrupados em gráficos sparkline individuais.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
@@ -403,11 +401,11 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Comentário Anterior</translation>
+        <translation>Anterior.</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation>Modo de Ecrã Inteiro</translation>
+        <translation>Ecrã Inteiro</translation>
     </message>
     <message>
         <source>RecordList.title</source>
@@ -431,11 +429,11 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>Abrir o separador Ferramentas de Programador para inserir o Botão de Opção, Caixa de Verificação e muito mais.</translation>
+        <translation>Conteúdo DevelopmentTools</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Escolha um ClipArt a partir da janela de tarefas e insira-o no documento.</translation>
+        <translation>Inserir Clip Art na folha, incluindo desenhos, filmes, sons ou fotografia geral para ilustrar um conceito específico.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
@@ -443,7 +441,7 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation>Editar o comentário.</translation>
+        <translation>Editar o comentário selecionado.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
@@ -459,7 +457,7 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation>Inserir formas prontas a utilizar, tais como retângulos e círculos, setas, linhas, símbolos de fluxogramas e notas de aviso.</translation>
+        <translation>Inserir formas prontas a utilizar, tais como linhas, retângulos, símbolos de fluxogramas e balões.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
@@ -471,7 +469,7 @@ Os livros com tabelas não podem ser partilhados.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation>Convert To Column Sparkline</translation>
+        <translation>Converter em gráfico sparkline de colunas</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
@@ -509,7 +507,7 @@ Os dados novos ou modificados na coluna só serão filtrados ou ordenados quando
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation>Get External Data From Text</translation>
+        <translation>Obter dados do texto</translation>
     </message>
     <message>
         <source>sp_Copy.title</source>
@@ -537,7 +535,7 @@ Os dados novos ou modificados na coluna só serão filtrados ou ordenados quando
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation>Ungroup Selected Sparklines</translation>
+        <translation>Desagrupar gráficos sparkline selecionados</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
@@ -563,7 +561,7 @@ A linha total é uma linha no final da tabela que apresenta os totais de cada co
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation>Highlight the first points of data in the selected sparkline group.</translation>
+        <translation>Realce o primeiro ponto de dados no grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>BottomBorder.title</source>
@@ -571,11 +569,11 @@ A linha total é uma linha no final da tabela que apresenta os totais de cada co
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Alterar as definições do tipo de letra, parágrafo, estilos e formatação.</translation>
+        <translation>Alterar as definições de formatação da célula.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation>Título WorkSpace_Backup</translation>
+        <translation>Cópia de Segurança da Área de Trabalho</translation>
     </message>
     <message>
         <source>Align.content</source>
@@ -585,7 +583,7 @@ Também pode centrar os objetos ou distribuí-los uniformemente na página.</tra
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation>Clicar aqui para mais opções, tais como colar apenas texto não formatado.</translation>
+        <translation>Clique aqui para obter mais opções como colar apenas os valores.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
@@ -609,7 +607,7 @@ Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Navegar para o comentário seguinte do documento.</translation>
+        <translation>Aceder ao comentário seguinte.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
@@ -641,7 +639,7 @@ Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Cor do Tipo de Letra</translation>
+        <translation>Cor do Texto</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
@@ -721,15 +719,15 @@ Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
+        <translation>O documento modificado é guardado automaticamente para evitar a perda do respetivo conteúdo.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation>Repor a Posição da Janela</translation>
+        <translation>Repor a Posição da Janela.</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation>SendFileTip.content</translation>
+        <translation>Enviar ficheiros para o telemóvel e outros dispositivos</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
@@ -741,7 +739,7 @@ Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation>Ver dois documentos lado a lado para comparar os conteúdos de ambos.</translation>
+        <translation>Em vez de estar sempre a passar de um documento para o outro, veja-os lado a lado. A comparação torna-se muito mais fácil.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
@@ -749,7 +747,7 @@ Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation>Convert To Win/Loss Sparkline</translation>
+        <translation>Converter em gráfico sparkline de ganho/perda</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
@@ -781,7 +779,7 @@ Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation>Adicionar um comentário no documento sobre a seleção.</translation>
+        <translation>Adicionar um comentário à folha de cálculo sobre a seleção.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
@@ -841,15 +839,15 @@ Isto só é necessário se o cálculo automático tiver sido desativado.</transl
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation>Toggle Sparkline Low Points</translation>
+        <translation>Ativar/desativar pontos baixos de gráfico sparkline</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation>Change the selected sparkline group to a win/loss sparkline.</translation>
+        <translation>Altere o grupo de gráficos sparkline selecionado para gráficos sparkline de ganho/perda.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation>Eliminar Comentário</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
@@ -885,7 +883,9 @@ Isto só é necessário se o cálculo automático tiver sido desativado.</transl
     </message>
     <message>
         <source>Table.content</source>
-        <translation>Inserir ou desenhar uma tabela no documento e converter texto em tabela ou vice-versa.</translation>
+        <translation>Criar uma tabela para gerir e analisar dados relacionados.
+
+As tabelas facilitam a ordenação, filtragem e formatação dos dados numa folha.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
@@ -925,13 +925,13 @@ Prima Esc no teclado ou volte a clicar nesta opção para sair do modo para apag
         <source>FontColor.content</source>
         <translation>Alterar a cor do texto.
 
-Clique na seta para escolher uma cor de texto diferente.</translation>
+Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation>Preencher a forma selecionada com uma cor sólida, gradação, imagem ou textura.
+        <translation>Colorir o fundo das células selecionadas.
 
-Clique na seta para selecionar efeitos de preenchimento diferentes.</translation>
+Clique na seta para selecionar outra cor de fundo.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
@@ -952,6 +952,10 @@ Clique na seta para selecionar efeitos de preenchimento diferentes.</translation
     <message>
         <source>HideWindow.title</source>
         <translation>Ocultar Janela</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
@@ -983,7 +987,7 @@ Clique na seta para selecionar efeitos de preenchimento diferentes.</translation
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation>Specific the color and weight of the sparklines in the selected sparkline group.</translation>
+        <translation>Especifique a cor e a espessura dos gráficos sparkline no grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>EnableMacro.title</source>
@@ -1003,7 +1007,7 @@ Clique na seta para selecionar efeitos de preenchimento diferentes.</translation
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation>Click here to perform operations on duplicate items, such as highlight duplicate items, refuse to enter duplicate items, delete duplicate items, etc.</translation>
+        <translation>Clique aqui para realizar operações em itens duplicados, como realçar itens duplicados, rejeitar itens duplicados e eliminar itens duplicados.</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
@@ -1031,7 +1035,7 @@ Os cabeçalhos de coluna são as letras ou números apresentados acima das colun
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Ler Texto</translation>
     </message>
     <message>
         <source>PageSize.content</source>
@@ -1071,7 +1075,7 @@ Faça duplo clique num item na lista de resultados para mudar a célula correspo
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Diminuir Nível de Lista</translation>
+        <translation>Diminuir Avanço</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1117,7 +1121,7 @@ Este tipo de formatação pode facilitar a leitura das tabelas.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Exportar Imagem Weibo</translation>
+        <translation>Exportar Como Imagem</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
@@ -1147,7 +1151,7 @@ Pode especificar as colunas a verificar relativamente à existência de informa�
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation>Ver Lado a Lado</translation>
+        <translation>Ver Lado a Lado.</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
@@ -1201,7 +1205,7 @@ Muitas pessoas optam por utilizar o texto na linha superior ou na coluna mais à
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Guardar automaticamente ficheiro</translation>
     </message>
     <message>
         <source>FormatChartObject.content</source>
@@ -1209,17 +1213,21 @@ Muitas pessoas optam por utilizar o texto na linha superior ou na coluna mais à
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation>Highlight the negative values one the selected sparkline group with a different color or marker.</translation>
+        <translation>Realce os valores negativos do grupo de gráficos sparkline selecionado com uma cor ou marcador diferente.</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation>Preenchimento de Formas</translation>
+        <translation>Cor de Preenchimento</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
         <translation>Permitir que várias pessoas editem intervalos de células num livro ou folha protegida.
 
 Antes de utilizar esta funcionalidade, defina primeiro a segurança na folha utilizando o comando de proteção de folha.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
@@ -1235,7 +1243,7 @@ Antes de utilizar esta funcionalidade, defina primeiro a segurança na folha uti
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation>Insert Data</translation>
+        <translation>Inserir dados</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
@@ -1263,7 +1271,7 @@ Antes de utilizar esta funcionalidade, defina primeiro a segurança na folha uti
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Alinhar à Direita</translation>
+        <translation>Alinhar o texto à direita.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
@@ -1282,11 +1290,11 @@ Em Pré-visualização de Quebras de Página, pode arrastar quebras de página p
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Aumentar o nível de avanço do parágrafo.</translation>
+        <translation>Aumentar a margem entre o limite e o texto na célula.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Diminuir o nível de avanço do parágrafo.</translation>
+        <translation>Diminuir a margem entre o limite e o texto na célula.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
@@ -1372,7 +1380,7 @@ No Writer, utilize esta funcionalidade para converter o texto selecionado numa t
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation>Insert form</translation>
+        <translation>Inserir campos de formulário</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1396,7 +1404,7 @@ No Writer, utilize esta funcionalidade para converter o texto selecionado numa t
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation>Change the selected sparkline group to a column sparkline.</translation>
+        <translation>Altere o grupo de gráficos sparkline selecionado para gráficos sparkline de colunas.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
@@ -1436,7 +1444,7 @@ Para fazer regressar a janela, clique no botão Mostrar.</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation>Encolher Tipo de Letra</translation>
+        <translation>Diminuir Tamanho do Tipo de Letra</translation>
     </message>
     <message>
         <source>Count.title</source>
@@ -1516,7 +1524,7 @@ Este procedimento cria um documento com um aspeto limpo.</translation>
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation>Clear Selected Sparklines</translation>
+        <translation>Limpar gráficos sparkline selecionados</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
@@ -1528,7 +1536,9 @@ Este procedimento cria um documento com um aspeto limpo.</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation>Editar o cabeçalho e rodapé do documento.</translation>
+        <translation>Editar o cabeçalho e rodapé do documento.
+
+As informações no cabeçalho ou rodapé aparecerão na parte superior ou inferior de cada página impressa.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
@@ -1536,7 +1546,7 @@ Este procedimento cria um documento com um aspeto limpo.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Localizar</translation>
+        <translation>Localizar e Substituir</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
@@ -1578,15 +1588,15 @@ As Tabelas Dinâmicas facilitam a disposição e o resumo de dados complexos e a
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Alinhar ao Centro</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
+        <translation>Marcar a área de fundo e remover de forma rápida e inteligente o fundo da imagem</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation>Change the scaling and visibility of each sparkline axis for the selected sparkline group.</translation>
+        <translation>Altere a escala e visibilidade de cada eixo de gráfico sparkline do grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>RefreshAll.title</source>
@@ -1610,7 +1620,7 @@ As Tabelas Dinâmicas facilitam a disposição e o resumo de dados complexos e a
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation>Allow WPS Spreedsheets to choose the paragraph direction based on the lanuage that is being typed.</translation>
+        <translation>Permita que o WPS Spreadsheets escolha a direção do parágrafo com base no idioma de escrita.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
@@ -1626,7 +1636,7 @@ As Tabelas Dinâmicas facilitam a disposição e o resumo de dados complexos e a
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation>Galeria WPS</translation>
+        <translation>Galeria do WPS Office</translation>
     </message>
     <message>
         <source>LockCell.content</source>
@@ -1662,7 +1672,7 @@ As Tabelas Dinâmicas facilitam a disposição e o resumo de dados complexos e a
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation>Edit Group Location &amp; Data</translation>
+        <translation>Editar localização e dados do grupo</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
@@ -1726,7 +1736,7 @@ Volte a clicar na orientação de texto atualmente selecionada para repor o text
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation>Preenchimento de Formas</translation>
+        <translation>Cor de Preenchimento</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
@@ -1752,7 +1762,7 @@ Para ativar esta funcionalidade, ative Ver Lado a Lado.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation>Toggle Sparkline Negative Points</translation>
+        <translation>Ativar/desativar pontos negativos de gráfico sparkline</translation>
     </message>
     <message>
         <source>NameManager.title</source>
@@ -1776,11 +1786,11 @@ Para ativar esta funcionalidade, ative Ver Lado a Lado.</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>DocumentFix</translation>
+        <translation>Corrigir rapidamente os documentos com erros ou que não é possível abrir por outras razões.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Guardar automático ativado</translation>
     </message>
     <message>
         <source>EDRProperties.content</source>
@@ -1864,9 +1874,7 @@ Para ativar esta funcionalidade, ative Ver Lado a Lado.</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Inserir um objeto incorporado no documento
-
-Clique na seta para inserir conteúdo do ficheiro no documento.</translation>
+        <translation>Mostrar a caixa de diálogo Inserir Objeto para selecionar um novo ficheiro ou um ficheiro a partir da pasta local.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
@@ -1874,7 +1882,7 @@ Clique na seta para inserir conteúdo do ficheiro no documento.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation>Agrupar objetos para poderem ser tratados como um objeto único.</translation>
+        <translation>Agrupar objetos para que sejam processados como um objeto único.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
@@ -1932,7 +1940,7 @@ Estas linhas só serão impressas se a opção Imprimir estiver selecionada.</tr
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>Mostrar a caixa de diálogo Galeria de WordArt para selecionar um estilo de WordArt e editar o conteúdo.</translation>
+        <translation>Dar um toque artístico ao seu documento com uma caixa de texto do WordArt.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
@@ -1952,7 +1960,7 @@ Estas linhas só serão impressas se a opção Imprimir estiver selecionada.</tr
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation>Highlight the lowest points of data in the selected sparkline group.</translation>
+        <translation>Realce os pontos de dados mais baixos no grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
@@ -1964,7 +1972,7 @@ Estas linhas só serão impressas se a opção Imprimir estiver selecionada.</tr
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Ver itens na Área de Transferência.</translation>
+        <translation>Verificar se existem os itens que são copiados para a Área de Transferência.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
@@ -2013,24 +2021,24 @@ Clique na seta para selecionar definições detalhadas para o contorno.</transla
         <translation>1. Preenchimento da forma
 Preencha os objetos selecionados com cores, gradientes, texturas e imagens.
 2. Contorno da forma
-Configure cores, espessuras e traços para os objetos selecionados.
-Clique em Setas para obter informações de configuração detalhadas.</translation>
+Configure cores, espessuras e travessões para os objetos selecionados.
+Clique em Setas para efetuar uma configuração detalhada.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation>Alinhar à Direita</translation>
+        <translation>Alinhar Texto à Direita</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation>Clear the selected sparklines.</translation>
+        <translation>Limpe os gráficos sparkline selecionados.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation>Parar a cópia de segurança automática do documento atual.</translation>
+        <translation>Parar a gravação automática do livro atual.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>WordArt</translation>
+        <translation>Inserir WordArt</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
@@ -2126,11 +2134,11 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation>Navegar para a página seguinte na apresentação.</translation>
+        <translation>Mover para a página seguinte impressa da folha de cálculo atual.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation>Quebra de Página</translation>
+        <translation>Quebras de Página</translation>
     </message>
     <message>
         <source>Min.content</source>
@@ -2150,7 +2158,9 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation>Iniciar a página seguinte na posição atual do cursor e o conteúdo após o cursor será movido para a nova página.</translation>
+        <translation>Especificar onde uma nova página deverá começar na cópia impressa.
+
+As quebras de página são inseridas acima ou à esquerda da seleção.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
@@ -2158,7 +2168,7 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation>Bloquear Proporção</translation>
+        <translation>Bloquear a proporção quando ajustar a imagem.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
@@ -2166,7 +2176,7 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation>Highlight each point in each line sparkline in the selected sparkline group.</translation>
+        <translation>Realce cada ponto em cada gráfico sparkline de linhas no grupo de gráficos sparkline de linhas selecionado.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
@@ -2178,11 +2188,11 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation>Selecionar o valor de zoom do documento atual.</translation>
+        <translation>Selecionar o tamanho do zoom da folha de cálculo atual.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation>Abrir uma janela nova com uma vista do documento atual.</translation>
+        <translation>Abrir uma nova janela com uma vista da folha de cálculo atual.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
@@ -2190,7 +2200,7 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation>Registar todas as alterações efetuadas ao documento, incluindo inserções, eliminações e alterações de formatação.</translation>
+        <translation>Registar todas as alterações efetuadas no livro, incluindo inserções, eliminações e alterações na formatação.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
@@ -2226,7 +2236,9 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Cor de Preenchimento</translation>
+        <translation>Preencher a forma selecionada com uma cor sólida, gradação, imagem ou textura.
+
+Clique na seta para selecionar efeitos de preenchimento diferentes.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
@@ -2246,7 +2258,7 @@ Clique em Setas para obter informações de configuração detalhadas.</translat
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation>Alinhar à Esquerda</translation>
+        <translation>Alinhar Texto à Esquerda</translation>
     </message>
     <message>
         <source>ProtectSheet.title</source>
@@ -2268,7 +2280,7 @@ Os nomes podem ser utilizados em fórmulas como substitutos de referências de c
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation>Cor de Preenchimento</translation>
+        <translation>Preenchimento de Formas</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
@@ -2318,7 +2330,7 @@ As ligações de dados são ligações para dados exteriores a este livro que po
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation>Edit the location and data source for the selected sparkline group.</translation>
+        <translation>Edite a localização e a origem dos dados para o grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
@@ -2330,7 +2342,7 @@ As ligações de dados são ligações para dados exteriores a este livro que po
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation>Definir o esquema de página como vertical na impressão de folhetos, páginas de notas e destaques.</translation>
+        <translation>Definir as páginas da folha de cálculo como vertical.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
@@ -2338,11 +2350,11 @@ As ligações de dados são ligações para dados exteriores a este livro que po
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Mostrar a caixa de diálogo Macros e visualizar a lista de macros, a partir da qual pode executar, criar ou eliminar diretamente uma macro.</translation>
+        <translation>Mostrar caixa de diálogo Macros. Ver a lista de macros a partir da qual pode executar, criar ou eliminar uma macro.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation>Alinhar à Esquerda</translation>
+        <translation>Alinhar o texto à esquerda.</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
@@ -2350,7 +2362,7 @@ As ligações de dados são ligações para dados exteriores a este livro que po
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Pode transformar o texto  em voz falada. Você tem trilha de dois dias.</translation>
+        <translation>Transforme texto em voz. Tem uma avaliação de 2 dias para esta função.</translation>
     </message>
     <message>
         <source>Max.title</source>
@@ -2362,7 +2374,7 @@ As ligações de dados são ligações para dados exteriores a este livro que po
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation>Clique na seta para selecionar efeitos de preenchimento diferentes.</translation>
+        <translation>Clique na seta para selecionar outra cor de fundo.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
@@ -2374,7 +2386,7 @@ As ligações de dados são ligações para dados exteriores a este livro que po
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Clique na seta para escolher uma cor de texto diferente.</translation>
+        <translation>Clique na seta para selecionar uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
@@ -2443,7 +2455,7 @@ Clique na seta para preencher com diferentes efeitos.</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Comprimir a imagem selecionada ou todas as imagens no documento para reduzir o tamanho.</translation>
+        <translation>Comprimir a imagem selecionada ou todas as imagens na folha de cálculo para reduzir o tamanho.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
@@ -2497,7 +2509,7 @@ Pode utilizar esta funcionalidade para ver múltiplos painéis afastados da sua 
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation>Toggle Sparkline First Points</translation>
+        <translation>Ativar/desativar primeiro ponto de gráfico sparkline</translation>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
@@ -2517,7 +2529,7 @@ Pode utilizar esta funcionalidade para ver múltiplos painéis afastados da sua 
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation>Pick how you want to copy the selection.</translation>
+        <translation>Selecione como pretende copiar a seleção.</translation>
     </message>
     <message>
         <source>LeftBorder.content</source>
@@ -2537,7 +2549,7 @@ Pode utilizar esta funcionalidade para ver múltiplos painéis afastados da sua 
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Aumentar Nível de Lista</translation>
+        <translation>Aumentar Avanço</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
@@ -2559,7 +2571,7 @@ A palavra-passe irá impedir outras pessoas de desativarem o registo de alteraç
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation>Deslocamento Sincronizado</translation>
+        <translation>Deslocamento Síncrono.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
@@ -2588,6 +2600,10 @@ Prima Esc no teclado ou volte a clicar nesta opção para sair do modo de desenh
         <translation>Inserir Hiperligação</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.content</source>
+        <translation>EtPhotoedit2</translation>
+    </message>
+    <message>
         <source>PrintPreviewZoomCombo.title</source>
         <translation>Zoom</translation>
     </message>
@@ -2597,7 +2613,7 @@ Prima Esc no teclado ou volte a clicar nesta opção para sair do modo de desenh
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation>Toggle Sparkline Last Points</translation>
+        <translation>Ativar/desativar último ponto de gráfico sparkline</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
@@ -2605,7 +2621,7 @@ Prima Esc no teclado ou volte a clicar nesta opção para sair do modo de desenh
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation>Eliminar o comentário.</translation>
+        <translation>Eliminar o comentário selecionado.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
@@ -2626,12 +2642,16 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
         <translation>Selecionar Dados</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.title</source>
+        <translation>EtPhotoedit2</translation>
+    </message>
+    <message>
         <source>TextFill2.title</source>
         <translation>Cor do Texto</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation>Change the selected sparkline group to a line sparkline.</translation>
+        <translation>Altere o grupo de gráficos sparkline selecionado para gráficos sparkline de linhas.</translation>
     </message>
     <message>
         <source>ResizeTable.content</source>
@@ -2651,7 +2671,7 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation>Column Sparkline</translation>
+        <translation>Gráfico sparkline de colunas</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
@@ -2659,11 +2679,11 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation>Highlight the highest points of data in the selected sparkline group.</translation>
+        <translation>Realce os pontos de dados mais elevados no grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation>Highlight the last points of data in the selected sparkline group.</translation>
+        <translation>Realce o último ponto de dados no grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>AllBorders.title</source>
@@ -2675,15 +2695,15 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Exportar Imagem Weibo</translation>
+        <translation>Exportar o documento para uma imagem</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation>Inserir Comentário</translation>
+        <translation>Novo Comentário</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Comentário Seguinte</translation>
+        <translation>Seguinte.</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
@@ -2723,11 +2743,11 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation>Definir o esquema de página como horizontal na impressão de folhetos, páginas de notas e destaques.</translation>
+        <translation>Definir as páginas da folha de cálculo como horizontal.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation>Duplicate Setting</translation>
+        <translation>Definição de duplicados</translation>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
@@ -2739,7 +2759,7 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation>Win/Loss Sparkline</translation>
+        <translation>Gráfico sparkline de ganho/perda</translation>
     </message>
     <message>
         <source>Consolidate.content</source>
@@ -2751,7 +2771,7 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Pré-visualizar os efeitos na página antes de imprimir.</translation>
+        <translation>Pré-visualizar e efetuar alterações às páginas antes de imprimir.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
@@ -2767,7 +2787,7 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation>Line Sparkline</translation>
+        <translation>Gráfico sparkline de linhas</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
@@ -2783,15 +2803,15 @@ As segmentações de dados simplificam e aceleram a filtragem de Tabelas Dinâmi
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation>Toggle Sparkline Hight Points</translation>
+        <translation>Ativar/desativar pontos altos de gráfico sparkline</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation>Ferramentas de Programador</translation>
+        <translation>Programador</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Cor do Tipo de Letra</translation>
+        <translation>Cor do Texto</translation>
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
@@ -2817,7 +2837,7 @@ Pode especificar as colunas que devem ser verificadas quanto à existência de i
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Centrar o texto na vertical e na horizontal dentro da célula.</translation>
+        <translation>Centrar o texto.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
@@ -2841,7 +2861,7 @@ Pode especificar as colunas que devem ser verificadas quanto à existência de i
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation>Conteúdo WorkSpace_Backup</translation>
+        <translation>Estabelecer backup automático ou manual para o documento actual. O backup será guardado no seu Arquivo de Segurança.</translation>
     </message>
     <message>
         <source>PTRefreshAllData.title</source>
@@ -2857,7 +2877,7 @@ Pode especificar as colunas que devem ser verificadas quanto à existência de i
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Navegar para o comentário anterior do documento.</translation>
+        <translation>Aceder ao comentário anterior.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
@@ -2911,7 +2931,7 @@ Clique na seta para definir o detalhe do contorno.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Localizar texto no documento.
+        <translation>Localizar texto no livro.
 
 Clique na seta para escolher outras opções, tal como Ir Para.</translation>
     </message>
@@ -2939,7 +2959,7 @@ Todos os dados são preservados.</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation>Change the color for negative points, markers, and all other points for the selected sparkline group.</translation>
+        <translation>Altere a cor dos pontos negativos, marcadores e todos os outros pontos do grupo de gráficos sparkline selecionado.</translation>
     </message>
     <message>
         <source>DeleteRange.title</source>
@@ -2955,11 +2975,11 @@ Todos os dados são preservados.</translation>
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation>Sparkline Axis</translation>
+        <translation>Eixo de gráfico sparkline</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Converter PDF para Word</translation>
+        <translation>Converter ficheiros de PDF para Word.</translation>
     </message>
     <message>
         <source>ExportFilterResult.title</source>
@@ -2975,7 +2995,7 @@ Todos os dados são preservados.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>PDF em Word</translation>
+        <translation>Converter PDF em Word</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.title</source>
@@ -2983,11 +3003,11 @@ Todos os dados são preservados.</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation>Choose different forms to insert into the document, such as labels, check boxes, scroll bars, fine-tuning items, etc.</translation>
+        <translation>Selecione controlos diferentes a inserir no documento, como etiquetas, caixas de verificação, barras de deslocamento e ícones de progresso.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation>Ver o documento no modo de ecrã inteiro.</translation>
+        <translation>Ver o livro no modo de ecrã inteiro</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
@@ -3023,7 +3043,7 @@ Faça duplo clique neste botão para aplicar a mesma formatação a vários loca
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Correção de Documento.</translation>
     </message>
     <message>
         <source>SpellCheck.title</source>
@@ -3031,7 +3051,7 @@ Faça duplo clique neste botão para aplicar a mesma formatação a vários loca
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Utilizar a impressora predefinida para imprimir diretamente.</translation>
+        <translation>Enviar o documento diretamente para a impressora predefinida sem efetuar alterações.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
@@ -3145,11 +3165,11 @@ Este tipo de formatação pode facilitar a leitura das tabelas.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Enviar para telemóvel</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation>The file will be automatically saved for you when it is turned on.</translation>
+        <translation>Quando esta funcionalidade está ativada, o conteúdo modificado é guardado automaticamente para evitar a perda do respetivo conteúdo.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
@@ -3157,7 +3177,7 @@ Este tipo de formatação pode facilitar a leitura das tabelas.</translation>
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation>Group sparklines together so they can share formatting and scaling options.</translation>
+        <translation>Agrupe gráficos sparkline para que possam partilhar opções de formatação e escala.</translation>
     </message>
     <message>
         <source>NameDefine.title</source>
