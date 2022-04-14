@@ -11,11 +11,11 @@
     </message>
     <message>
         <source>Association settings when upgrading: </source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia powiązania podczas aktualizacji:</translation>
     </message>
     <message>
         <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź powiązanie pliku podczas aktualizacji i automatycznie napraw, aby domyślnie otwierać pliki za pomocą WPS.</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Upgrade package download acceleration:</source>
-        <translation type="unfinished"/>
+        <translation>Zaktualizuj przyspieszenie pobierania pakietu:</translation>
     </message>
     <message>
         <source>Internet Connection:</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Disable &amp;P2P transfer acceleration</source>
-        <translation type="unfinished"/>
+        <translation>Dezaktywuj przyspieszenie transferu &amp;P2P</translation>
     </message>
     <message>
         <source>Do not &amp;update automatically (not recommended)</source>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Switching WPS Office to %1</source>
-        <translation type="unfinished"/>
+        <translation>Przełączanie WPS Office na %1</translation>
     </message>
     <message>
         <source>Successful switch to </source>
@@ -193,19 +193,19 @@
     </message>
     <message>
         <source>Your WPS account information, identity information will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>Twoje informacje o koncie WPS, informacje o tożsamości zostaną trwale usunięte i nie będzie można ich odzyskać.</translation>
     </message>
     <message>
         <source>If you delete your account, your data will be irrevocably eliminate.</source>
-        <translation type="unfinished"/>
+        <translation>Jeśli usuniesz konto, dane zostaną bezpowrotnie usunięte.</translation>
     </message>
     <message>
         <source>Documents saved in WPS Cloud will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumenty zapisane w WPS Cloud zostaną usunięte i nie będzie można ich odzyskać.</translation>
     </message>
     <message>
         <source>1, Go to &amp;quot;account.wps.com &amp;quot;. If you&apos;re not logged into WPS on the web, you&apos;ll be asked to log in first.</source>
-        <translation type="unfinished"/>
+        <translation>1. Przejdź do strony account.wps.com. Jeśli nie zalogowano się jeszcze na stronie WPS, system poprosi najpierw o zalogowanie.</translation>
     </message>
     <message>
         <source>Delete Account</source>
@@ -213,11 +213,11 @@
     </message>
     <message>
         <source>2, Click delete my account.</source>
-        <translation type="unfinished"/>
+        <translation>2. Kliknij opcję Usuń moje konto.</translation>
     </message>
     <message>
         <source>To delete your account:</source>
-        <translation type="unfinished"/>
+        <translation>Aby usunąć konto:</translation>
     </message>
 </context>
 <context>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
-        <translation type="unfinished"/>
+        <translation>Czy na pewno chcesz usunąć dane?</translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia serwera proxy</translation>
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
@@ -286,7 +286,7 @@
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzia konfiguracji Kingsoft Pdf</translation>
     </message>
     <message>
         <source>License agreement</source>
@@ -441,7 +441,7 @@
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdź poniższe pola wyboru: w przypadku wyboru określone pliki zostaną otwarte przez %1. W przeciwnym razie określone pliki zostaną otwarte przez pierwotnie powiązane aplikacje.</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
-        <translation type="unfinished"/>
+        <translation>Jeżeli wybierzesz poniższe opcje, %1 zapisze powiązane dokumenty w następujących wybranych formatach. W przeciwnym razie dokumenty zostaną zapisane w formacie %1.</translation>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
@@ -471,7 +471,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>Open the following software with Kingsoft PDF by default:</source>
-        <translation type="unfinished"/>
+        <translation>Domyślnie otwieraj następujące oprogramowanie za pomocą WPS PDF:</translation>
     </message>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
@@ -485,7 +485,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Pdf Document(*.pdf)</source>
-        <translation type="unfinished"/>
+        <translation>PDF Dokument (*.pdf)</translation>
     </message>
     <message>
         <source>eBooks(*.epub, *.mobi)</source>
@@ -493,7 +493,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished"/>
+        <translation>Jeżeli wybierzesz poniższe opcje, wprowadzone obiekty dokumentu zostaną otwarte przez %1. %1 może być także wprowadzony do oprogramowania usługodawcy zewnętrznego lub systemów, takich jak przeglądarka IE oraz OA.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
@@ -525,11 +525,11 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
-        <translation type="unfinished"/>
+        <translation>Tutaj możesz ustawić %1 jako domyślne narzędzie do otwierania standardowych plików lub przywrócić powiązania pierwotnego pliku bądź zapisać pliki w standardowym formacie. Po dokonaniu ustawienia kliknij OK, aby potwierdzić powiązanie pliku. Te operacje są odwracalne.</translation>
     </message>
     <message>
         <source>&amp;OFD Files(*.ofd)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pliki OFD (*.ofd)</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
@@ -565,12 +565,13 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation type="unfinished"/>
+        <translation>Jeżeli przyciski paska narzędzi są pomieszane, zamknij wszystkie aplikacje %1 i kliknij poniższy przycisk, aby przywrócić paski narzędzi do pierwotnych stanów. Skutek będzie widoczny po ponownym uruchomieniu WPS.</translation>
     </message>
     <message>
         <source> Registering MSO2Pdf Plugins failed
 </source>
-        <translation type="unfinished"/>
+        <translation> Nie udało się zarejestrować wtyczki mso2pdf.
+</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
@@ -631,16 +632,17 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation type="unfinished"/>
+        <translation>Utrata komponentów w rejestrze systemu może, podczas korzystania z %1, spowodować błędy, takie jak na przykład brak możliwości uruchomienia innych aplikacji. Kliknij poniższy przycisk, aby spróbować przeprowadzić naprawę. Skutek będzie widoczny po ponownym uruchomieniu WPS.</translation>
     </message>
     <message>
         <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
-        <translation type="unfinished"/>
+        <translation>%1 Jeżeli nastąpi automatyczne wyłączenie lub część funkcji wtyczki nie jest dostępna, może być to skutek niekompletnej instalacji wtyczki. Kliknij poniższy przycisk, aby spróbować naprawić błąd. Skutek będzie widoczny po ponownym uruchomieniu WPS.</translation>
     </message>
     <message>
         <source> WPS PDF not found
 </source>
-        <translation type="unfinished"/>
+        <translation> Nie znaleziono WPS PDF
+</translation>
     </message>
     <message>
         <source>Reset &amp;Plugins</source>
@@ -662,7 +664,8 @@ Operacje te mogą być cofnięte. </translation>
     <message>
         <source> Failed to register WPS Pdf
 </source>
-        <translation type="unfinished"/>
+        <translation> Nie udało się zarejestrować WPS PDF.
+</translation>
     </message>
     <message>
         <source> Failed to register WPS Spreadsheets
@@ -1170,7 +1173,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Disable webview hardware acceleration (Need reboot)(&amp;G)</source>
-        <translation type="unfinished"/>
+        <translation>Dezaktywuj przyspieszenie sprzętu widoku sieciowego (wymagane jest ponowne uruchomienie) (&amp;G)</translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
@@ -1178,11 +1181,11 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>Dezaktywuj zabezpieczenie DEP (ang. data execution protection) (po ustawieniu wymagane ponowne uruchomienie WPS) (&amp;C)</translation>
     </message>
     <message>
         <source>No Receive push messages (&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Blokuj wyskakujące reklamy (&amp;R)</translation>
     </message>
     <message>
         <source>WPS Today and push message:</source>
@@ -1194,7 +1197,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>delete</source>
-        <translation type="unfinished"/>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>cache clear finished.</source>
@@ -1210,7 +1213,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>No Subscribe &quot;WPS Today&quot;(&amp;M)</source>
-        <translation type="unfinished"/>
+        <translation>Brak subskrypcji „WPS Dzisiaj”(&amp;M)</translation>
     </message>
     <message>
         <source>Multi module mode</source>
@@ -1234,7 +1237,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Special options:</source>
-        <translation type="unfinished"/>
+        <translation>Opcje specjalne:</translation>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
@@ -1297,7 +1300,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
+        <translation>Używaj WPS PDF do czytania i edytowania dokumentów PDF.</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
@@ -1317,11 +1320,11 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Use WPS Official to edit and play presentations.</source>
-        <translation type="unfinished"/>
+        <translation>Skorzystaj z WPS Official Document, aby pisać raporty i organizować układy artykułów.</translation>
     </message>
     <message>
         <source>Uninstall KingSoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>Odinstaluj KingSoft PDF</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools.lnk</source>
@@ -1333,7 +1336,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Repair KingSoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>Napraw KingSoft PDF</translation>
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
@@ -1341,7 +1344,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Kingsoft PDF Tools</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzia Kingsoft PDF</translation>
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>
@@ -1393,11 +1396,11 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>Link to network to update Kingsoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>Podłącz do sieci, aby zaktualizować WPS PDF</translation>
     </message>
     <message>
         <source>WPS Cloud USB Drive</source>
-        <translation type="unfinished"/>
+        <translation>Dysk USB WPS Cloud</translation>
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
@@ -1420,7 +1423,7 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
-        <translation type="unfinished"/>
+        <translation>Jeżeli napotkasz jakiekolwiek błędy podczas korzystania z %1, takie jak na przykład błędy działającego programu lub paska narzędzi, zamknij wszystkie aplikacje %1 i kliknij poniższy przycisk Rozpocznij naprawę. Dołożymy wszelkich starań, aby naprawić aplikacje i przywrócić je do domyślnego, aktywnego stanu.</translation>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
@@ -1455,7 +1458,8 @@ Dołożymy wszelkich starań, aby naprawić aplikacje i przywrócić je do stanu
     <message>
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using %1 or make advanced settings here.</source>
-        <translation type="unfinished"/>
+        <translation>
+Możesz naprawić błędy napotkane podczas korzystania z %1 lub dokonać tutaj zaawansowanych ustawień.</translation>
     </message>
     <message>
         <source>General Repair/Configuration Tools
@@ -1469,7 +1473,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>%1 General Repair/Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>%1 Ogólne narzędzia naprawy/konfiguracji</translation>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
@@ -1492,7 +1496,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
-        <translation type="unfinished"/>
+        <translation>Aby chronić bezpieczeństwo dokumentów, %1 utworzył(a) wystarczającą liczbę kopii zapasowych pierwotnych plików w wielu lokalizacjach. Teraz możesz usunąć pliki kopii zapasowej, aby oszczędzić przestrzeń na dysku.</translation>
     </message>
     <message>
         <source>The clearing operation may not affect your original files. But please make sure there are no files need to be recovered before clearing them. Please check the check boxes that you need to clear separately and then click Start Clearing button.</source>
@@ -1559,7 +1563,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>Kingsoft PDF Tools</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzia Kingsoft PDF</translation>
     </message>
     <message>
         <source>KS Yanshi.lnk</source>
@@ -1618,7 +1622,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>DOCX Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentacja DOCX</translation>
     </message>
     <message>
         <source>XLSX Worksheet</source>
@@ -1626,18 +1630,18 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>RTF Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentacja RTF</translation>
     </message>
     <message>
         <source>DOC Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentacja DOC</translation>
     </message>
 </context>
 <context>
     <name>KFileAsso</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Professional</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -1649,7 +1653,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>Use WPS E-Book to read and edit e-book.</source>
-        <translation type="unfinished"/>
+        <translation>Używaj aplikacji WPS e-Book do czytania i edycji e-booków.</translation>
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
@@ -1661,7 +1665,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
+        <translation>Używaj WPS PDF do czytania i edytowania dokumentów PDF.</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -1693,7 +1697,7 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     </message>
     <message>
         <source>Kingsoft Mobi</source>
-        <translation type="unfinished"/>
+        <translation>Kingsoft Mobi</translation>
     </message>
 </context>
 <context>
@@ -1790,35 +1794,35 @@ Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS O
     <name>KFunctionCustomization</name>
     <message>
         <source>Disable online resource recommend.</source>
-        <translation type="unfinished"/>
+        <translation>Dezaktywuj zalecenia dotyczące zasobu online.</translation>
     </message>
     <message>
         <source>Function Customization</source>
-        <translation type="unfinished"/>
+        <translation>Dostosowywanie funkcji</translation>
     </message>
     <message>
         <source>Feature and resouce recommend:</source>
-        <translation type="unfinished"/>
+        <translation>Zasoby online i zalecenia dotyczące funkcji:</translation>
     </message>
     <message>
         <source>Disable Scene recommend.</source>
-        <translation type="unfinished"/>
+        <translation>Dezaktywuj zalecenia dotyczące sceny.</translation>
     </message>
     <message>
         <source>Shell extension:</source>
-        <translation type="unfinished"/>
+        <translation>Menu kontekstowe systemu:</translation>
     </message>
     <message>
         <source>Disable template recommend.</source>
-        <translation type="unfinished"/>
+        <translation>Dezaktywuj zalecenia dotyczące szablonu.</translation>
     </message>
     <message>
         <source>Hide cloud shellext.</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj elementy menu pliku WPS Cloud.</translation>
     </message>
     <message>
         <source>Hide vas shellext.</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj elementy menu funkcji rozszerzenia WPS.</translation>
     </message>
 </context>
 <context>
@@ -1944,7 +1948,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Zgłoszono wniosek Dane zostaną wkrótce usunięte.</translation>
     </message>
     <message>
         <source>Eliminate Data</source>
@@ -1964,7 +1968,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Network error, please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Błąd sieci. Spróbuj później.</translation>
     </message>
 </context>
 <context>
