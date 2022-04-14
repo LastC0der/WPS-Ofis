@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation>End</translation>
+        <translation>End Arrow</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Show the Zoom dialog box to specify the zoom level of the document.</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>StampTool.content</source>
@@ -83,11 +83,15 @@
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation>PdfInvoiceAssist</translation>
+        <translation>Invoice Assist</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
         <translation>Highlight and note</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.content</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>Superscript.title</source>
@@ -111,7 +115,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation>Rotate Image</translation>
+        <translation>Rotate an image in a certain angle</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
@@ -140,6 +144,10 @@
     <message>
         <source>FloatClose.title</source>
         <translation>Close Toolbar</translation>
+    </message>
+    <message>
+        <source>ScanEdit.title</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
@@ -211,9 +219,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Underline the selected text.
-
-Click the arrow to select different underlining styles.</translation>
+        <translation>Underline</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
@@ -289,7 +295,7 @@ Click the arrow to select different underlining styles.</translation>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation>Line Spacing</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
@@ -408,6 +414,10 @@ Click the arrow to select different underlining styles.</translation>
         <translation>Increase Font</translation>
     </message>
     <message>
+        <source>AlignJustify.content</source>
+        <translation>Distribute your text evenly between the margins.</translation>
+    </message>
+    <message>
         <source>InsertPagesFromDoc.content</source>
         <translation>Insert selected pages from document to specified position.</translation>
     </message>
@@ -473,7 +483,7 @@ Click the arrow to select different underlining styles.</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation>End</translation>
+        <translation>End Arrow</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
@@ -565,7 +575,7 @@ Click the arrow to select different underlining styles.</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Rotate an image in a certain angle</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
@@ -715,7 +725,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copy Pictures</translation>
+        <translation>Copy as Image</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -735,9 +745,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Change the text color.
-
-Click the arrow to choose a different text color.</translation>
+        <translation>Font Color</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
@@ -785,7 +793,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation>Full text translation</translation>
+        <translation>Translate Whole Text</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
@@ -801,7 +809,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation>Create small letters below the text baseline.</translation>
+        <translation>Create small letters below the text baseline</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
@@ -821,7 +829,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>Read Text</translation>
+        <translation>Speak</translation>
     </message>
     <message>
         <source>Circle.title</source>
@@ -833,11 +841,11 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation>Squiggly Underline</translation>
+        <translation>wave line</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation>PdfElectronicInvoicePrint</translation>
+        <translation>Invoice Printing</translation>
     </message>
     <message>
         <source>FreeText.content</source>
@@ -849,7 +857,11 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation>Text Highlight Color</translation>
+        <translation>Highlight</translation>
+    </message>
+    <message>
+        <source>TableRegonize.content</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
@@ -877,7 +889,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Export to Image</translation>
+        <translation>Output as Image</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
@@ -910,6 +922,10 @@ Click the arrow to choose a different text color.</translation>
     <message>
         <source>PdfImageReplace.title</source>
         <translation>Replace</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.title</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
@@ -961,7 +977,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation>Translate accurately and quickly while preserving the original layout of the document.</translation>
+        <translation>DocTranslate</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
@@ -973,7 +989,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>ReplaceBorder.title</source>
-        <translation>Replace text</translation>
+        <translation>Replacement</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.content</source>
@@ -1033,7 +1049,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation>Squiggly Underline</translation>
+        <translation>wave line</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
@@ -1049,7 +1065,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>StrikeoutBorder.title</source>
-        <translation>Strikethrough text</translation>
+        <translation>Strikethrough</translation>
     </message>
     <message>
         <source>NewImage2Bottom.title</source>
@@ -1129,7 +1145,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Align Center</translation>
+        <translation>Center</translation>
     </message>
     <message>
         <source>TemplatesPrint.title</source>
@@ -1141,7 +1157,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>UnderlineBorder.content</source>
-        <translation>Select text to underline</translation>
+        <translation>Add Underline.</translation>
     </message>
     <message>
         <source>AttachmentTip.content</source>
@@ -1164,6 +1180,10 @@ Click the arrow to choose a different text color.</translation>
         <translation>Line Style</translation>
     </message>
     <message>
+        <source>TableRegonize.title</source>
+        <translation>TableRegonize</translation>
+    </message>
+    <message>
         <source>ImagePreview.content</source>
         <translation>Preview Picture</translation>
     </message>
@@ -1177,7 +1197,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>UnderlineBorder.title</source>
-        <translation>Underline text</translation>
+        <translation>Underline</translation>
     </message>
     <message>
         <source>VerificationSignature.title</source>
@@ -1269,7 +1289,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>Quickly fix documents that are garbled or cannot be opened for other reasons.</translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>PdfNewEdit.content</source>
@@ -1300,12 +1320,16 @@ Click the arrow to choose a different text color.</translation>
         <translation>First Line Indent</translation>
     </message>
     <message>
+        <source>EditTextInPicture.content</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>NavigateForward.title</source>
         <translation>Navigate Forward</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</translation>
+        <translation>Insert line, arrow, rectangle, etc.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
@@ -1421,7 +1445,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>ReplaceBorder.content</source>
-        <translation>Add note to replace text</translation>
+        <translation>Add Replacement</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
@@ -1429,7 +1453,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation>PDF Export Photo</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
@@ -1437,7 +1461,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation>Create small letters above the line of text.</translation>
+        <translation>Create small letters above the line of text</translation>
     </message>
     <message>
         <source>Arrow.title</source>
@@ -1488,8 +1512,16 @@ Click the arrow to choose a different text color.</translation>
         <translation>Fill Color</translation>
     </message>
     <message>
+        <source>PdfPhotoedit2.content</source>
+        <translation>PdfPhotoedit2</translation>
+    </message>
+    <message>
         <source>OCRExtractText.title</source>
-        <translation>OCRExtractText</translation>
+        <translation>Extract Text</translation>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.title</source>
+        <translation>PdfPhotoedit2</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
@@ -1497,11 +1529,15 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>InsertBorder.title</source>
-        <translation>Insert text</translation>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
         <translation>Fill Color</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.title</source>
+        <translation>Find and Replace</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
@@ -1581,11 +1617,11 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Turn the text into speech. You have a free trial of this feature everyday.</translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>InsertBorder.content</source>
-        <translation>Insert text at cursor</translation>
+        <translation>Add Insert</translation>
     </message>
     <message>
         <source>FitVisible.title</source>
@@ -1597,7 +1633,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation>PDF Export Photo</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
@@ -1670,6 +1706,10 @@ Click the arrow to choose a different text color.</translation>
     <message>
         <source>FloatSelectionTool.content</source>
         <translation>Select text or images to copy.</translation>
+    </message>
+    <message>
+        <source>EditTextInPicture.title</source>
+        <translation>EditTextInPicture</translation>
     </message>
     <message>
         <source>PDFMeasureScale.content</source>
@@ -1750,11 +1790,15 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copy Pictures</translation>
+        <translation>Copy the current selection as an image</translation>
     </message>
     <message>
         <source>NextPage.title</source>
         <translation>Next Page</translation>
+    </message>
+    <message>
+        <source>ScanEdit.content</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
@@ -1846,7 +1890,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Save the document as picture format.</translation>
+        <translation>ExportWeiboImageCmd</translation>
     </message>
     <message>
         <source>Open.content</source>
@@ -1887,6 +1931,10 @@ Click the arrow to choose a different text color.</translation>
     <message>
         <source>InsertPages.title</source>
         <translation>Insert Pages</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.content</source>
+        <translation>Find and Replace</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
@@ -1986,7 +2034,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Center text vertically and horizontally within the cell.</translation>
+        <translation>Center text</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
@@ -2038,9 +2086,7 @@ Click the arrow to choose a different text color.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Find text in the document.
-
-Click the arrow to choose other options, such as Go To.</translation>
+        <translation>Find text</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
@@ -2092,11 +2138,11 @@ Click the arrow to choose other options, such as Go To.</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation>Change the spacing between lines of text.</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>Convert PDF to Word</translation>
+        <translation>PDF To Word</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.content</source>
@@ -2115,6 +2161,10 @@ Click the arrow to choose other options, such as Go To.</translation>
         <translation>Extract Image</translation>
     </message>
     <message>
+        <source>AlignJustify.title</source>
+        <translation>Justify</translation>
+    </message>
+    <message>
         <source>FloatZoomOut.content</source>
         <translation>Zoom In the page.</translation>
     </message>
@@ -2128,7 +2178,7 @@ Click the arrow to choose other options, such as Go To.</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
-        <translation>Select text to strikethrough</translation>
+        <translation>Add strikethrough.</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
@@ -2140,13 +2190,11 @@ Click the arrow to choose other options, such as Go To.</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation>Insert ghosted text and picture behind the content on the page.
-
-This is often used to indicate that the document is to be treated specially, such as Encrypted, Confidential and Do not Copy, or to mark the document source such as the addition of copyright logos and author information.</translation>
+        <translation>Add, update or delete text, image watermark</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>Document Fix.</translation>
+        <translation>Document Fix</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
@@ -2166,7 +2214,7 @@ This is often used to indicate that the document is to be treated specially, suc
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Replace text content in the document.</translation>
+        <translation>Replace</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
@@ -2214,9 +2262,7 @@ This is often used to indicate that the document is to be treated specially, suc
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation>Make text look like it was marked with a highlighter pen.
-
-Click the arrow to select a different highlight color.</translation>
+        <translation>HighlightColor</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
