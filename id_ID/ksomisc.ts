@@ -11,11 +11,11 @@
     </message>
     <message>
         <source>Association settings when upgrading: </source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan asosiasi selama peningkatan:</translation>
     </message>
     <message>
         <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
-        <translation type="unfinished"/>
+        <translation>Periksa asosiasi file selama peningkatan dan perbaiki secara otomatis untuk membuka file dengan WPS secara default</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Upgrade package download acceleration:</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan akselerasi pengunduhan paket:</translation>
     </message>
     <message>
         <source>Internet Connection:</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Disable &amp;P2P transfer acceleration</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan akselerasi transfer &amp;P2P</translation>
     </message>
     <message>
         <source>Do not &amp;update automatically (not recommended)</source>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Switching WPS Office to %1</source>
-        <translation type="unfinished"/>
+        <translation>Mengalihkan WPS Office ke %1</translation>
     </message>
     <message>
         <source>Successful switch to </source>
@@ -193,19 +193,19 @@
     </message>
     <message>
         <source>Your WPS account information, identity information will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>Informasi akun WPS·Anda, informasi identitas akan dihapus dan tidak dapat dipulihkan.</translation>
     </message>
     <message>
         <source>If you delete your account, your data will be irrevocably eliminate.</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda menghapus akun, data akan dihapus tanpa bisa ditarik kembali.</translation>
     </message>
     <message>
         <source>Documents saved in WPS Cloud will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen yang disimpan di WPS Cloud akan dihapus dan tidak dapat dipulihkan.</translation>
     </message>
     <message>
         <source>1, Go to &amp;quot;account.wps.com &amp;quot;. If you&apos;re not logged into WPS on the web, you&apos;ll be asked to log in first.</source>
-        <translation type="unfinished"/>
+        <translation>1. Buka &amp;quot;account.wps.com &amp;quot;. Jika belum masuk ke web WPS, Anda akan diminta untuk masuk dahulu.</translation>
     </message>
     <message>
         <source>Delete Account</source>
@@ -213,11 +213,11 @@
     </message>
     <message>
         <source>2, Click delete my account.</source>
-        <translation type="unfinished"/>
+        <translation>2. Klik hapus akun saya.</translation>
     </message>
     <message>
         <source>To delete your account:</source>
-        <translation type="unfinished"/>
+        <translation>Untuk menghapus akun:</translation>
     </message>
 </context>
 <context>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
-        <translation type="unfinished"/>
+        <translation>Yakin ingin menghapus data?</translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Proksi</translation>
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
@@ -286,7 +286,7 @@
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>Alat Konfigurasi Pdf Kingsoft</translation>
     </message>
     <message>
         <source>License agreement</source>
@@ -441,7 +441,7 @@
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation type="unfinished"/>
+        <translation>Centang kotak di bawah ini: jika dipilih, file yang ditentukan akan dibuka oleh %1. Jika tidak, file yang ditentukan akan dibuka oleh aplikasi terkait yang asli.</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda memilih opsi di bawah, %1 akan menyimpan dokumen terkait dalam format yang dipilih berikut. Jika tidak, dokumen akan disimpan dalam format %1.</translation>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
@@ -471,7 +471,7 @@ perlu restart Windows agar bisa diterapkan.</translation>
     </message>
     <message>
         <source>Open the following software with Kingsoft PDF by default:</source>
-        <translation type="unfinished"/>
+        <translation>Buka perangkat lunak berikut dengan WPS PDF secara default:</translation>
     </message>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
@@ -485,7 +485,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Pdf Document(*.pdf)</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen PDF(*.pdf)</translation>
     </message>
     <message>
         <source>eBooks(*.epub, *.mobi)</source>
@@ -493,7 +493,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda memilih opsi di bawah ini, objek dokumen yang ditanamkan akan dibuka oleh %1. %1 juga dapat ditanamkan ke perangkat lunak atau sistem pihak ketiga seperti browser IE dan OA.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
@@ -525,11 +525,11 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
-        <translation type="unfinished"/>
+        <translation>Di sini Anda dapat mengatur %1 sebagai alat default untuk membuka file umum, atau memulihkan asosiasi file asli, atau menyimpan file dalam format umum. Setelah pengaturan, klik OK untuk mengonfirmasi asosiasi file Anda. Operasi ini dapat dibalik.</translation>
     </message>
     <message>
         <source>&amp;OFD Files(*.ofd)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;File OFD(*.ofd)</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
@@ -566,12 +566,13 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation type="unfinished"/>
+        <translation>Jika tombol toolbar tercampur, tutup semua aplikasi %1 dan klik tombol di bawah untuk mengembalikan bar alat ke keadaan semula. Diterapkan setelah Anda memulai ulang WPS.</translation>
     </message>
     <message>
         <source> Registering MSO2Pdf Plugins failed
 </source>
-        <translation type="unfinished"/>
+        <translation> Gagal mendaftar plug-in mso2pdf.
+</translation>
     </message>
     <message>
         <source>To solve the above problems, you need to reinstall WPS Office. 
@@ -637,16 +638,17 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation type="unfinished"/>
+        <translation>Hilangnya komponen dalam pendaftaran sistem dapat menyebabkan kesalahan saat menggunakan %1, seperti tidak dapat memulai aplikasi lain. Klik tombol di bawah untuk mencoba memperbaikinya. Diterapkan setelah Anda memulai ulang WPS.</translation>
     </message>
     <message>
         <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
-        <translation type="unfinished"/>
+        <translation>%1 jika terjadi pematian otomatis atau sebagian dari fungsionalitas plug-in tidak tersedia, ini mungkin akibat dari instalasi plug-in yang tidak lengkap. Klik tombol di bawah untuk mencoba memperbaiki kesalahan. Diterapkan setelah Anda memulai ulang WPS.</translation>
     </message>
     <message>
         <source> WPS PDF not found
 </source>
-        <translation type="unfinished"/>
+        <translation> Tidak ditemukan WPS PDF
+</translation>
     </message>
     <message>
         <source>Reset &amp;Plugins</source>
@@ -669,7 +671,8 @@ Operasi ini dapat dibatalkan. </translation>
     <message>
         <source> Failed to register WPS Pdf
 </source>
-        <translation type="unfinished"/>
+        <translation> Gagal mendaftarkan WPS PDF.
+</translation>
     </message>
     <message>
         <source> Failed to register WPS Spreadsheets
@@ -1180,7 +1183,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Disable webview hardware acceleration (Need reboot)(&amp;G)</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan akselerasi perangkat keras tampilan web (diperlukan boot ulang)(&amp;G)</translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
@@ -1188,11 +1191,11 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan perlindungan eksekusi data (DEP) (perlu memulai ulang WPS setelah pengaturan) (&amp;C)</translation>
     </message>
     <message>
         <source>No Receive push messages (&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>Blokir Iklan Pop-Up (&amp;R)</translation>
     </message>
     <message>
         <source>WPS Today and push message:</source>
@@ -1204,7 +1207,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>delete</source>
-        <translation type="unfinished"/>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>cache clear finished.</source>
@@ -1220,7 +1223,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>No Subscribe &quot;WPS Today&quot;(&amp;M)</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Berlangganan &quot;WPS Hari Ini&quot;(&amp;M)</translation>
     </message>
     <message>
         <source>Multi module mode</source>
@@ -1244,7 +1247,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Special options:</source>
-        <translation type="unfinished"/>
+        <translation>Opsi khusus:</translation>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
@@ -1307,7 +1310,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan WPS PDF untuk membaca dan mengedit dokumen PDF.</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
@@ -1327,11 +1330,11 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Use WPS Official to edit and play presentations.</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan WPS Official Document untuk menulis laporan dan mengatur tata letak artikel.</translation>
     </message>
     <message>
         <source>Uninstall KingSoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>Hapus instalan PDF KingSoft</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools.lnk</source>
@@ -1343,7 +1346,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Repair KingSoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>Perbaiki PDF KingSoft</translation>
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
@@ -1351,7 +1354,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Kingsoft PDF Tools</source>
-        <translation type="unfinished"/>
+        <translation>Alat PDF Kingsoft</translation>
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>
@@ -1403,11 +1406,11 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>Link to network to update Kingsoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>Hubungkan ke jaringan untuk meningkatkan WPS PDF</translation>
     </message>
     <message>
         <source>WPS Cloud USB Drive</source>
-        <translation type="unfinished"/>
+        <translation>Disk WPS Cloud USB</translation>
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
@@ -1430,7 +1433,7 @@ Operasi ini dapat dibatalkan. </translation>
     </message>
     <message>
         <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda menemukan kesalahan apa pun saat menggunakan %1, seperti kesalahan program yang sedang berjalan atau toolbar, tutup semua aplikasi %1 dan klik tombol Mulai Memperbaiki di bawah. Kami akan melakukan yang terbaik untuk memperbaiki aplikasi dan mengembalikannya ke status aktif default.</translation>
     </message>
     <message>
         <source>You are not using an administrator account. Some features are not available.</source>
@@ -1465,7 +1468,8 @@ Kami akan melakukan yang terbaik untuk memperbaiki aplikasi dan memulihkannya ke
     <message>
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using %1 or make advanced settings here.</source>
-        <translation type="unfinished"/>
+        <translation>
+Anda dapat memperbaiki kesalahan yang ditemui saat menggunakan %1 atau buat pengaturan lanjutan di sini.</translation>
     </message>
     <message>
         <source>General Repair/Configuration Tools
@@ -1479,7 +1483,7 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>%1 General Repair/Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>Alat Perbaikan/Konfigurasi Umum %1</translation>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
@@ -1502,7 +1506,7 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
-        <translation type="unfinished"/>
+        <translation>Untuk melindungi keamanan dokumen, %1 telah membuat file cadangan yang memadai untuk file asli Anda di beberapa lokasi. Sekarang Anda dapat menghapus file cadangan untuk menghemat ruang disk.</translation>
     </message>
     <message>
         <source>The clearing operation may not affect your original files. But please make sure there are no files need to be recovered before clearing them. Please check the check boxes that you need to clear separately and then click Start Clearing button.</source>
@@ -1569,7 +1573,7 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>Kingsoft PDF Tools</source>
-        <translation type="unfinished"/>
+        <translation>Alat PDF Kingsoft</translation>
     </message>
     <message>
         <source>KS Yanshi.lnk</source>
@@ -1628,7 +1632,7 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>DOCX Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentasi DOCX</translation>
     </message>
     <message>
         <source>XLSX Worksheet</source>
@@ -1636,18 +1640,18 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>RTF Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentasi RTF</translation>
     </message>
     <message>
         <source>DOC Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentasi DOC</translation>
     </message>
 </context>
 <context>
     <name>KFileAsso</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesional</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -1659,7 +1663,7 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>Use WPS E-Book to read and edit e-book.</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan WPS e-Book untuk membaca dan mengedit e-book.</translation>
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
@@ -1671,7 +1675,7 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan WPS PDF untuk membaca dan mengedit dokumen PDF.</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -1703,7 +1707,7 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     </message>
     <message>
         <source>Kingsoft Mobi</source>
-        <translation type="unfinished"/>
+        <translation>Kingsoft Mobi</translation>
     </message>
 </context>
 <context>
@@ -1800,35 +1804,35 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <name>KFunctionCustomization</name>
     <message>
         <source>Disable online resource recommend.</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan rekomendasi sumber daya online.</translation>
     </message>
     <message>
         <source>Function Customization</source>
-        <translation type="unfinished"/>
+        <translation>Kustomisasi Fungsi</translation>
     </message>
     <message>
         <source>Feature and resouce recommend:</source>
-        <translation type="unfinished"/>
+        <translation>Rekomendasi sumber daya dan fitur online:</translation>
     </message>
     <message>
         <source>Disable Scene recommend.</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan rekomendasi pemandangan.</translation>
     </message>
     <message>
         <source>Shell extension:</source>
-        <translation type="unfinished"/>
+        <translation>Menu klik kanan sistem:</translation>
     </message>
     <message>
         <source>Disable template recommend.</source>
-        <translation type="unfinished"/>
+        <translation>Nonaktifkan rekomendasi templat.</translation>
     </message>
     <message>
         <source>Hide cloud shellext.</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan item menu file WPS Cloud.</translation>
     </message>
     <message>
         <source>Hide vas shellext.</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan item menu fitur ekstensi WPS.</translation>
     </message>
 </context>
 <context>
@@ -1954,7 +1958,7 @@ Ikon tombol, grup perintah, dan posisi jendela tugas setiap skema berbeda. Jika 
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Permintaan terkirim. Data Anda akan segera dihapus.</translation>
     </message>
     <message>
         <source>Eliminate Data</source>
@@ -1974,7 +1978,7 @@ Ikon tombol, grup perintah, dan posisi jendela tugas setiap skema berbeda. Jika 
     </message>
     <message>
         <source>Network error, please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan jaringan. Coba lagi nanti.</translation>
     </message>
 </context>
 <context>
