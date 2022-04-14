@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation>End</translation>
+        <translation>Конечная стрелка</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Открыть диалоговое окно &quot;Масштаб&quot; для выбора параметров масштабирования документа.</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>StampTool.content</source>
@@ -79,19 +79,23 @@
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Увеличение размера шрифта</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation>PdfInvoiceAssist</translation>
+        <translation>Помощь со счетом</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
         <translation>Выделить и добавить заметку</translation>
     </message>
     <message>
+        <source>setpagesizeTip.content</source>
+        <translation>setpagesizeTip</translation>
+    </message>
+    <message>
         <source>Superscript.title</source>
-        <translation>Надстрочный</translation>
+        <translation>Надстрочный знак</translation>
     </message>
     <message>
         <source>Replace.title</source>
@@ -111,7 +115,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Повернуть изображение на определенный угол</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
@@ -127,7 +131,7 @@
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation>Подстрочный</translation>
+        <translation>Подстрочный знак</translation>
     </message>
     <message>
         <source>Search.title</source>
@@ -140,6 +144,10 @@
     <message>
         <source>FloatClose.title</source>
         <translation>Закрыть панель инструментов</translation>
+    </message>
+    <message>
+        <source>ScanEdit.title</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
@@ -199,7 +207,7 @@
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation>CADTOPdf</translation>
+        <translation>Преобразовать файлы CAD в PDF-файлы</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
@@ -211,9 +219,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Подчёркивание выделенного текста.
-
-Щёлкните стрелку для выбора стиля подчеркивания.</translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
@@ -289,7 +295,7 @@
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation>Междустрочный интервал</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
@@ -341,7 +347,7 @@
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation>ClearFormat</translation>
+        <translation>Очистить форматирование</translation>
     </message>
     <message>
         <source>Shape.content</source>
@@ -408,6 +414,10 @@
         <translation>Увеличить шрифт</translation>
     </message>
     <message>
+        <source>AlignJustify.content</source>
+        <translation>Равномерное распределение текста между полями.</translation>
+    </message>
+    <message>
         <source>InsertPagesFromDoc.content</source>
         <translation>Вставка выбранных страниц из документа в указанное местоположение.</translation>
     </message>
@@ -469,11 +479,11 @@
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation>PdfSignatureEmbedBatch</translation>
+        <translation>Пакетное встраивание в документ</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation>End</translation>
+        <translation>Конечная стрелка</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
@@ -509,7 +519,7 @@
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation>TextBold</translation>
+        <translation>Выделение текста полужирным шрифтом</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
@@ -537,7 +547,7 @@
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation>TextUnderline</translation>
+        <translation>Подчеркивание выделенного текста</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
@@ -565,7 +575,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Повернуть изображение на определенный угол</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
@@ -601,7 +611,7 @@
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation>FormatBrush</translation>
+        <translation>Формат по образцу</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
@@ -715,7 +725,7 @@
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copy Images</translation>
+        <translation>Копировать как изображение</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -735,9 +745,7 @@
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Выбор цвета текста.
-
-Щёлкните стрелку для выбора цвета текста.</translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
@@ -785,7 +793,7 @@
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation>Полный перевод текста</translation>
+        <translation>Перевод всего текста</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
@@ -801,7 +809,7 @@
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation>Вставка небольших символов ниже линии текста.</translation>
+        <translation>Подстрочный знак</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
@@ -821,7 +829,7 @@
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>Чтение текста</translation>
+        <translation>Преобразовать текст в речь</translation>
     </message>
     <message>
         <source>Circle.title</source>
@@ -833,11 +841,11 @@
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation>Squiggly Underline</translation>
+        <translation>волнистая линия</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation>PdfElectronicInvoicePrint</translation>
+        <translation>Печать счета</translation>
     </message>
     <message>
         <source>FreeText.content</source>
@@ -849,7 +857,11 @@
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation>Цвет выделения текста</translation>
+        <translation>Выделить</translation>
+    </message>
+    <message>
+        <source>TableRegonize.content</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
@@ -877,7 +889,7 @@
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Экспорт изображения Weibo</translation>
+        <translation>Вывести как изображение</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
@@ -910,6 +922,10 @@
     <message>
         <source>PdfImageReplace.title</source>
         <translation>Заменить</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.title</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
@@ -961,7 +977,7 @@
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation>Точный и быстрый перевод с сохранением исходного макета документа.</translation>
+        <translation>DocTranslate</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
@@ -1033,7 +1049,7 @@
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation>Squiggly Underline</translation>
+        <translation>волнистая линия</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
@@ -1129,7 +1145,7 @@
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Центрировать по вертикали</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>TemplatesPrint.title</source>
@@ -1157,11 +1173,15 @@
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation>TextItalic</translation>
+        <translation>Выделение текста курсивом</translation>
     </message>
     <message>
         <source>Line Style.content</source>
         <translation>Стиль линии</translation>
+    </message>
+    <message>
+        <source>TableRegonize.title</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
@@ -1229,7 +1249,7 @@
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation>TextUnderline</translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
@@ -1269,7 +1289,7 @@
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>Быстрое устранение ошибок в документах, которые были повреждены или не открываются по другим причинам.</translation>
+        <translation>DocumentFix</translation>
     </message>
     <message>
         <source>PdfNewEdit.content</source>
@@ -1300,12 +1320,16 @@
         <translation>Отступ первой строки</translation>
     </message>
     <message>
+        <source>EditTextInPicture.content</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>NavigateForward.title</source>
         <translation>Перейти вперед</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation>Вставка готовых фигур, таких как прямоугольники, круги, стрелки, линии, элементы блок-схемы и выноски.</translation>
+        <translation>Вставить линию, стрелку, прямоугольник и т. д.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
@@ -1325,7 +1349,7 @@
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation>PdfImageOcrExtract</translation>
+        <translation>Извлечь текст из изображения</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
@@ -1333,7 +1357,7 @@
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation>ImageEditDelete</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
@@ -1365,7 +1389,7 @@
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation>TranslationSelectPdf</translation>
+        <translation>Перевод выделенного текста</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
@@ -1373,7 +1397,7 @@
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Увеличение уровня отступа абзаца</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
@@ -1429,7 +1453,7 @@
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation>Экспорт фото в PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
@@ -1437,7 +1461,7 @@
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation>Вставка небольших символов выше линии текста.</translation>
+        <translation>Надстрочный знак</translation>
     </message>
     <message>
         <source>Arrow.title</source>
@@ -1449,7 +1473,7 @@
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Уменьшение уровня отступа абзаца</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
@@ -1481,15 +1505,23 @@
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation>PdfSignatureDeleteBatch</translation>
+        <translation>Пакетное удаление</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
         <translation>Цвет заливки</translation>
     </message>
     <message>
+        <source>PdfPhotoedit2.content</source>
+        <translation>PdfPhotoedit2</translation>
+    </message>
+    <message>
         <source>OCRExtractText.title</source>
-        <translation>OCRExtractText</translation>
+        <translation>Извлечь текст</translation>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.title</source>
+        <translation>PdfPhotoedit2</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
@@ -1502,6 +1534,10 @@
     <message>
         <source>ShapeFillColor.title</source>
         <translation>Цвет заливки</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.title</source>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
@@ -1581,7 +1617,7 @@
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Преобразование текста в речь. Вы можете использовать эту функцию в течение двухдневного пробного периода.</translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>InsertBorder.content</source>
@@ -1597,7 +1633,7 @@
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation>Экспорт фото в PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
@@ -1629,7 +1665,7 @@
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation>TextBold</translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
@@ -1672,6 +1708,10 @@
         <translation>Выбор текста или изображений для копирования.</translation>
     </message>
     <message>
+        <source>EditTextInPicture.title</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>PDFMeasureScale.content</source>
         <translation>Коэффициент масштабирования</translation>
     </message>
@@ -1689,7 +1729,7 @@
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
@@ -1750,11 +1790,15 @@
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copy Images</translation>
+        <translation>Копировать текущий выделенный фрагмент как изображение</translation>
     </message>
     <message>
         <source>NextPage.title</source>
         <translation>Следующая страница</translation>
+    </message>
+    <message>
+        <source>ScanEdit.content</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
@@ -1842,11 +1886,11 @@
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Уменьшить отступ</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Экспорт изображения Weibo.</translation>
+        <translation>ExportWeiboImageCmd</translation>
     </message>
     <message>
         <source>Open.content</source>
@@ -1866,7 +1910,7 @@
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation>TextItalic</translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
@@ -1887,6 +1931,10 @@
     <message>
         <source>InsertPages.title</source>
         <translation>Вставить страницы</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.content</source>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
@@ -1966,7 +2014,7 @@
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Увеличить отступ</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
@@ -1986,7 +2034,7 @@
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Центрирование текста в ячейке по горизонтали и по вертикали.</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
@@ -2038,9 +2086,7 @@
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Поиск текста в документе.
-
-Щёлкните стрелку для выбора других параметров, например &quot;Перейти&quot;.</translation>
+        <translation>Найти текст</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
@@ -2068,7 +2114,7 @@
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation>CADTOPdf</translation>
+        <translation>Из CAD в PDF</translation>
     </message>
     <message>
         <source>NoteBorder.title</source>
@@ -2084,7 +2130,7 @@
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Преобразование PDF-файлов в файлы Word.</translation>
+        <translation>Преобразование PDF в Word</translation>
     </message>
     <message>
         <source>ReadingMode.content</source>
@@ -2092,11 +2138,11 @@
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation>Изменение расстояние между строками текста.</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>Преобразование PDF в Word</translation>
+        <translation>PDF в Word</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.content</source>
@@ -2112,7 +2158,11 @@
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation>ImageExtractTip</translation>
+        <translation>Извлечь изображение</translation>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Выровнять</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
@@ -2140,13 +2190,11 @@
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation>Вставка прозрачного текста и изображения позади содержания на странице.
-
-Часто это используется для указания того, что документ содержит специальную информацию, например,  зашифрованные и конфиденциальные данные и запрет копирования, или для маркировки источника документа, например, добавлением логотипа авторского права и информации об авторе.</translation>
+        <translation>Подложка</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>Исправление документа.</translation>
+        <translation>Исправление документа</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
@@ -2166,7 +2214,7 @@
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Замена содержимого текста в документе.</translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
@@ -2198,7 +2246,7 @@
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation>PDFTOCad</translation>
+        <translation>Из PDF в CAD</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
@@ -2214,9 +2262,7 @@
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation>Сделать текст похожим на выделенный цветным маркером.
-
-Щелкните стрелку для выбора цвета выделения.</translation>
+        <translation>HighlightColor</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
