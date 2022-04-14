@@ -799,15 +799,15 @@ Por favor escolha um nome diferente.</translation>
     </message>
     <message>
         <source>Are you sure to cancel sync to local path?</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar para cancelar a sincronização num caminho local?</translation>
     </message>
     <message>
         <source>Remove sync files</source>
-        <translation type="unfinished"/>
+        <translation>Remover também ficheiros sincronizados</translation>
     </message>
     <message>
         <source>After the synchronization is cancelled, the folder will no longer be synchronized locally. You can open the WPS network disk to continue to access the cloud files</source>
-        <translation type="unfinished"/>
+        <translation>Depois do cancelamento da sincronização, a pasta deixa de ser sincronizada com um caminho local. Pode abrir o disco de rede do WPS para continuar a aceder aos ficheiros na Cloud.</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -858,7 +858,8 @@ Por favor escolha um nome diferente.</translation>
     <message>
         <source>This may cause the file to be inaccessable.
 Are you sure to modify?</source>
-        <translation type="unfinished"/>
+        <translation>Se alterar a extensão de um nome de ficheiro, o ficheiro pode ficar inutilizável.
+Tem a certeza de que pretende alterar?</translation>
     </message>
     <message>
         <source>filename cannot contains characters:</source>
@@ -917,7 +918,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>You&apos;re about to exit your account</source>
-        <translation type="unfinished"/>
+        <translation>Está prestes a sair da conta</translation>
     </message>
     <message>
         <source>Continue to exit</source>
@@ -925,7 +926,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Are you sure you want to continue to exit your account?</source>
-        <translation type="unfinished"/>
+        <translation>Tem a certeza de que pretende terminar sessão na conta?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -933,7 +934,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Currently there are unuploaded files, exiting the account will abort the transfer, please check for confirmation.</source>
-        <translation type="unfinished"/>
+        <translation>Existem atualmente ficheiros que ainda não foram carregados. Se sair da conta, cancela a transferência. Verifique a confirmação.</translation>
     </message>
 </context>
 <context>
@@ -1053,7 +1054,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Did not purchase the network disk file automatic update service, please contact the enterprise administrator or consult %1WPS customer service%2</source>
-        <translation type="unfinished"/>
+        <translation>Não comprou o serviço de atualização automática para os ficheiros de armazenamento na Cloud. Para obter mais informações, contacte o administrador da empresa ou consulte o %1Suporte ao cliente do WPS%2.</translation>
     </message>
 </context>
 <context>
@@ -1111,7 +1112,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>WPS Cloud had file not uploaded successfully, logout will clear the cache, please check.Are you sure to sign out?</source>
-        <translation type="unfinished"/>
+        <translation>O Armazenamento do WPS Cloud contém um ficheiro que não foi carregado com êxito. A cache será limpa depois de terminar sessão. Verifique e volte a carregar. Tem a certeza de que pretende terminar sessão?</translation>
     </message>
     <message>
         <source>Transferring file. Logout will terminate the transfer.Are you sure to sign out?</source>
@@ -1314,7 +1315,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>rename failded</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao mudar o nome.</translation>
     </message>
     <message>
         <source>I see</source>
@@ -1338,7 +1339,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>WPS cloud disk maybe blocked by other program, please check</source>
-        <translation type="unfinished"/>
+        <translation>O disco do WPS Cloud poder estar bloqueado por outro programa, verifique</translation>
     </message>
     <message>
         <source>retry</source>
@@ -1350,7 +1351,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Finish(%1)</source>
-        <translation type="unfinished"/>
+        <translation>Concluir (%1)</translation>
     </message>
     <message>
         <source>the file is not uploaded.</source>
@@ -1362,7 +1363,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>No operation authority</source>
-        <translation type="unfinished"/>
+        <translation>sem autoridade de operação</translation>
     </message>
     <message>
         <source>file is process of uploading or downloading</source>
@@ -1370,11 +1371,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Upgrade members can have %1 cloud space, maximum upload %2 file.</source>
-        <translation type="unfinished"/>
+        <translation>Os membros da atualização podem ter %1 de espaço na nuvem; carregamento de um ficheiro de %2 no máximo.</translation>
     </message>
     <message>
         <source>Please close the currently opened files to ensure that all files can be synchronized to the cloud</source>
-        <translation type="unfinished"/>
+        <translation>Feche os ficheiros abertos para garantir que todos os ficheiros podem ser sincronizados com a Cloud.</translation>
     </message>
     <message>
         <source>Roaming File</source>
@@ -1386,7 +1387,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>There is already a file with the same name</source>
-        <translation type="unfinished"/>
+        <translation>Já existe um ficheiro com este nome.</translation>
     </message>
     <message>
         <source>The file does not exist.</source>
@@ -1398,27 +1399,27 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>upgrade to use</source>
-        <translation type="unfinished"/>
+        <translation>atualizar para utilizar</translation>
     </message>
     <message>
         <source>failed to cancel item star</source>
-        <translation type="unfinished"/>
+        <translation>Falhar ao remover estrela do item.</translation>
     </message>
     <message>
         <source>to close</source>
-        <translation type="unfinished"/>
+        <translation>para fechar</translation>
     </message>
     <message>
         <source>transfer failed. please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>transferência falhada. Volte a tentar mais tarde.</translation>
     </message>
     <message>
         <source>Download(%1)</source>
-        <translation type="unfinished"/>
+        <translation>Transferir (%1)</translation>
     </message>
     <message>
         <source>The network is abnormal. Please check your network Settings</source>
-        <translation type="unfinished"/>
+        <translation>Exceção de rede. Verifique as definições da rede.</translation>
     </message>
     <message>
         <source>failed to rename file</source>
@@ -1426,15 +1427,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>failed to remove group</source>
-        <translation type="unfinished"/>
+        <translation>falha ao remover grupo</translation>
     </message>
     <message>
         <source>failed to rename group</source>
-        <translation type="unfinished"/>
+        <translation>falha ao mudar o nome do grupo</translation>
     </message>
     <message>
         <source>failed to save as another file</source>
-        <translation type="unfinished"/>
+        <translation>falha ao guardar como outro ficheiro</translation>
     </message>
     <message>
         <source>Server operation failed</source>
@@ -1466,51 +1467,51 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>failed to get members</source>
-        <translation type="unfinished"/>
+        <translation>falha ao obter membros</translation>
     </message>
     <message>
         <source>failed to add members</source>
-        <translation type="unfinished"/>
+        <translation>falha ao adicionar membros</translation>
     </message>
     <message>
         <source>Upload failed. please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao carregar. Volte a tentar mais tarde.</translation>
     </message>
     <message>
         <source>Explore to</source>
-        <translation type="unfinished"/>
+        <translation>Explorar para</translation>
     </message>
     <message>
         <source>The operation is not supported</source>
-        <translation type="unfinished"/>
+        <translation>A operação não é suportada</translation>
     </message>
     <message>
         <source>failed to create group</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao criar uma equipa.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Erro desconhecido.</translation>
     </message>
     <message>
         <source>local sync folder expired tip</source>
-        <translation type="unfinished"/>
+        <translation>Lembrete para a funcionalidade de sincronização de pasta local expirada gratuita por um período limitado</translation>
     </message>
     <message>
         <source>To show the synchronous state, restart the resource manager</source>
-        <translation type="unfinished"/>
+        <translation>Para mostrar o estado da sincronização, reinicie o gestor de recursos</translation>
     </message>
     <message>
         <source>failed to remove group member</source>
-        <translation type="unfinished"/>
+        <translation>falha ao remover membro do grupo</translation>
     </message>
     <message>
         <source>Please close the opened files first</source>
-        <translation type="unfinished"/>
+        <translation>Primeiro, feche os ficheiros abertos</translation>
     </message>
     <message>
         <source>get local sync folder freelimit privilege tip</source>
-        <translation type="unfinished"/>
+        <translation>Obteve permissão para utilizar a funcionalidade de sincronização da pasta local.</translation>
     </message>
     <message>
         <source>Upload failed. The number of files in the group has reached its maximum limit.</source>
@@ -1530,7 +1531,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>CancelAll</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar tudo</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1538,15 +1539,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>WPS network disk - synchronous folder</source>
-        <translation type="unfinished"/>
+        <translation>Armazenamento do WPS Cloud - Pasta de sincronização</translation>
     </message>
     <message>
         <source>failed to set group notice</source>
-        <translation type="unfinished"/>
+        <translation>falha ao definir aviso do grupo</translation>
     </message>
     <message>
         <source>failed to get group notice</source>
-        <translation type="unfinished"/>
+        <translation>falha ao obter aviso do grupo</translation>
     </message>
     <message>
         <source>folder is created on server but failed to be created on local disk</source>
@@ -1562,11 +1563,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Get history version failed.</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao obter versão do histórico.</translation>
     </message>
     <message>
         <source>WPS Nse Cloud Root Name</source>
-        <translation type="unfinished"/>
+        <translation>Nome de raiz WPS Nse Cloud</translation>
     </message>
     <message>
         <source>File size Limited</source>
@@ -1574,11 +1575,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>failed to get group invite link</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao obter a ligação do convite da equipa.</translation>
     </message>
     <message>
         <source>No permission, author forbids document download</source>
-        <translation type="unfinished"/>
+        <translation>Sem permissão. O autor proíbe a transferência de documentos.</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -1590,7 +1591,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Dear WPS super member, you are downloading at high speed.</source>
-        <translation type="unfinished"/>
+        <translation>Estimado supermembro do WPS, está a transferir a alta velocidade.</translation>
     </message>
     <message>
         <source>Download canceled</source>
@@ -1598,7 +1599,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Upload(%1)</source>
-        <translation type="unfinished"/>
+        <translation>Carregar (%1)</translation>
     </message>
     <message>
         <source>today %1</source>
@@ -1606,11 +1607,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Desktop cloud synchronization is on, the folder has beensynchronized, no need to add repeatedly</source>
-        <translation type="unfinished"/>
+        <translation>A sincronização da Cloud para computador está ativada. A pasta foi sincronizada. Não adicione repetidamente.</translation>
     </message>
     <message>
         <source>These files will be moved to the system recycle bin. Under Windows 7, if there is insufficient space in the recycle bin, some files will be completely deleted</source>
-        <translation type="unfinished"/>
+        <translation>Estes ficheiros serão movidos para a reciclagem do sistema. No Windows 7, se não existir espaço suficiente na reciclagem, alguns ficheiros serão totalmente eliminados.</translation>
     </message>
     <message>
         <source>file is moved on server but failed to be moved on local disk</source>
@@ -1626,7 +1627,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>SaveAs file succeed</source>
-        <translation type="unfinished"/>
+        <translation>Os ficheiros foram guardados com êxito.</translation>
     </message>
     <message>
         <source>Invalid user.</source>
@@ -1634,7 +1635,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>my Computer</source>
-        <translation type="unfinished"/>
+        <translation>O meu computador</translation>
     </message>
     <message>
         <source>cloud file is not downloaded.</source>
@@ -1642,7 +1643,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Shared folders cannot be nested</source>
-        <translation type="unfinished"/>
+        <translation>As pastas partilhadas não podem ser movidas para este diretório.</translation>
     </message>
     <message>
         <source>about %1 GB</source>
@@ -1670,7 +1671,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>My cloud document</source>
-        <translation type="unfinished"/>
+        <translation>Os meus documentos na cloud</translation>
     </message>
     <message>
         <source>Protocol error: packet of size 0 received</source>
@@ -1678,11 +1679,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>my cloud document</source>
-        <translation type="unfinished"/>
+        <translation>os meus documentos na cloud</translation>
     </message>
     <message>
         <source>view folder</source>
-        <translation type="unfinished"/>
+        <translation>ver pasta</translation>
     </message>
     <message>
         <source>Invalid URI: %1</source>
@@ -1690,7 +1691,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Cannot set &quot;%1&quot; as a sync folder. Please change the folder name and try again</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao definir &quot;%1&quot; como uma pasta de sincronização. Mude o nome da pasta e volte a tentar.</translation>
     </message>
     <message>
         <source>resource_not_exist</source>
@@ -1702,15 +1703,16 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>This team owner&apos;s cloud space is full</source>
-        <translation type="unfinished"/>
+        <translation>O espaço na Cloud do proprietário da equipa está cheio.
+</translation>
     </message>
     <message>
         <source>The file type does not support downloading</source>
-        <translation type="unfinished"/>
+        <translation>O tipo de ficheiro não suporta transferência</translation>
     </message>
     <message>
         <source>File verification failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha na verificação do ficheiro</translation>
     </message>
     <message>
         <source>failed to create folder</source>
@@ -1734,7 +1736,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>This file belong to [%1], not allow to copy or cut to other location</source>
-        <translation type="unfinished"/>
+        <translation>Este ficheiro pertence a [%1] e não pode ser copiado nem movido para outras localizações.</translation>
     </message>
     <message>
         <source>file is used by another application</source>
@@ -1742,7 +1744,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>How to fix</source>
-        <translation type="unfinished"/>
+        <translation>Como posso resolver o problema?</translation>
     </message>
     <message>
         <source>&lt;font color = #8B97AF&gt;%1&lt;/font&gt;</source>
@@ -1758,7 +1760,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>cache dir space not enough</source>
-        <translation type="unfinished"/>
+        <translation>Espaço insuficiente no diretório da cache.</translation>
     </message>
     <message>
         <source>Socket error on %1: %2</source>
@@ -1770,7 +1772,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Get transfer record failed.</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao obter os detalhes dos registos da transferência.</translation>
     </message>
     <message>
         <source>No host name given</source>
@@ -1790,11 +1792,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Unnamed file.%1</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiro sem nome. %1</translation>
     </message>
     <message>
         <source>content infos of the freelimit privilege tip, and get %1 days privilege to use</source>
-        <translation type="unfinished"/>
+        <translation>Obteve permissão para sincronizar automaticamente a pasta local com os Documentos na Cloud durante %1 dias. Com esta funcionalidade ativada, os seus ficheiros serão mantidos atualizados sempre que quiser e onde quiser.</translation>
     </message>
     <message>
         <source>You don&apos;t have the necessary permission.</source>
@@ -1802,19 +1804,19 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Failed to set synchronize folder</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao definir a pasta de sincronização.</translation>
     </message>
     <message>
         <source>restart now</source>
-        <translation type="unfinished"/>
+        <translation>reiniciar agora</translation>
     </message>
     <message>
         <source>failed to set item star</source>
-        <translation type="unfinished"/>
+        <translation>Falhar ao marcar com estrela o item.</translation>
     </message>
     <message>
         <source>new I see</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>resource_modified</source>
@@ -1834,7 +1836,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>The currently selected folder cannot be set to a synchronous directory,please select again</source>
-        <translation type="unfinished"/>
+        <translation>A pasta atualmente selecionada não pode ser definida como diretório de sincronização. Volte a selecionar.</translation>
     </message>
     <message>
         <source>network error</source>
@@ -1842,15 +1844,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>freelimit privilege recover sync folder</source>
-        <translation type="unfinished"/>
+        <translation>Estimado membro da versão Super Premium, a funcionalidade de sincronização da pasta local foi retomada. Pode utilizá-la quando quiser.</translation>
     </message>
     <message>
         <source>do not restart</source>
-        <translation type="unfinished"/>
+        <translation>não reiniciar</translation>
     </message>
     <message>
         <source>cross group move folder is not support</source>
-        <translation type="unfinished"/>
+        <translation>a movimentação de pastas entre grupos não é suportada</translation>
     </message>
     <message>
         <source>unknow qiniu error</source>
@@ -1858,7 +1860,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>The mobile hard disk is not supported to be set to synchronization directory, please select again</source>
-        <translation type="unfinished"/>
+        <translation>O disco rígido móvel não pode ser definido como um diretório de sincronização. Volte a selecionar.</translation>
     </message>
     <message>
         <source>Transdetail</source>
@@ -1866,7 +1868,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>This folder directory already contains the synchronization folder, please select again</source>
-        <translation type="unfinished"/>
+        <translation>Este diretório de pastas já contém a pasta de sincronização. Volte a selecionar.</translation>
     </message>
     <message>
         <source>resource_existed</source>
@@ -1894,11 +1896,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>StopAll</source>
-        <translation type="unfinished"/>
+        <translation>Parar tudo</translation>
     </message>
     <message>
         <source>For the selected directory, desktop cloud synchronization is on, this path cannot be synchronized at this time</source>
-        <translation type="unfinished"/>
+        <translation>A sincronização da Cloud para computador foi ativada para o diretório selecionado. Este caminho não pode ser sincronizado.</translation>
     </message>
     <message>
         <source>updated&quot;%1&quot;</source>
@@ -1914,7 +1916,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>This folder is included in the sync folder. The sync folder cannot be nested</source>
-        <translation type="unfinished"/>
+        <translation>Esta pasta está incluída na pasta de sincronização. A pasta de sincronização não suporta aninhamento.</translation>
     </message>
     <message>
         <source>cache disk %1 has full</source>
@@ -1922,7 +1924,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>to sync</source>
-        <translation type="unfinished"/>
+        <translation>para sincronizar</translation>
     </message>
     <message>
         <source>failed to create file</source>
@@ -1946,11 +1948,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>The maximum synchronized folders supported are %1, currently.</source>
-        <translation type="unfinished"/>
+        <translation>Pode adicionar até %1 pastas de sincronização.</translation>
     </message>
     <message>
         <source>The folder has been Shared. Please unshare the folder and try again</source>
-        <translation type="unfinished"/>
+        <translation>A pasta foi partilhada. Cancele a partilha da pasta e volte a tentar.</translation>
     </message>
     <message>
         <source>Check data failed</source>
@@ -1970,7 +1972,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Later we will restart the resource manager to show the status of the synchronized files. The restart will not lose any files, but will close the folder window that has been opened</source>
-        <translation type="unfinished"/>
+        <translation>Posteriormente, iremos reiniciar o Explorador para apresentar o estado dos ficheiros sincronizados. O reinício não resulta na perda de ficheiros, mas fecha a janela da pasta aberta.</translation>
     </message>
     <message>
         <source>Move file succeed</source>
@@ -1982,7 +1984,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>This folder has been set as a sync folder. Please do not add it again</source>
-        <translation type="unfinished"/>
+        <translation>Esta pasta foi definida como pasta de sincronização. Não adicione repetidamente.</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -1994,7 +1996,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>We are uploading file for you.</source>
-        <translation type="unfinished"/>
+        <translation>Estamos a carregar o ficheiro para si.</translation>
     </message>
     <message>
         <source>upgrade</source>
@@ -2022,7 +2024,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>use now</source>
-        <translation type="unfinished"/>
+        <translation>utilizar agora</translation>
     </message>
     <message>
         <source>Do not remind</source>
@@ -2030,15 +2032,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>RetryAll</source>
-        <translation type="unfinished"/>
+        <translation>Repetir tudo</translation>
     </message>
     <message>
         <source>Ten thousand</source>
-        <translation type="unfinished"/>
+        <translation>Dez mil</translation>
     </message>
     <message>
         <source>WPS cloud document</source>
-        <translation type="unfinished"/>
+        <translation>Documento do WPS Cloud</translation>
     </message>
     <message>
         <source>My Cloud Files</source>
@@ -2054,7 +2056,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>freelimit privilege expired stop sync folder</source>
-        <translation type="unfinished"/>
+        <translation>Após a expiração, a funcionalidade de sincronização será suspensa e as alterações aos dados na pasta não serão atualizadas para a Cloud. Pode atualizar para a versão Super Premium para continuar a utilizar esta funcionalidade.</translation>
     </message>
     <message>
         <source>Remote host closed the connection prematurely on %1</source>
@@ -2062,23 +2064,23 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>The folder has been synchronized. Please unsynchronize the folder and try again</source>
-        <translation type="unfinished"/>
+        <translation>A pasta foi sincronizada. Cancele a sincronização de pastas e volte a tentar.</translation>
     </message>
     <message>
         <source>Upload failed.You do not have permission to save the file to this directory</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao carregar. Não tem permissão para guardar o ficheiro neste diretório</translation>
     </message>
     <message>
         <source>This folder is included in the sync folder, please select again</source>
-        <translation type="unfinished"/>
+        <translation>Esta pasta está incluída na pasta de sincronização. Volte a selecionar.</translation>
     </message>
     <message>
         <source>Task empty</source>
-        <translation type="unfinished"/>
+        <translation>Tarefa vazia</translation>
     </message>
     <message>
         <source>cache path too long to download this file, Please retry after change it</source>
-        <translation type="unfinished"/>
+        <translation>O caminho da cache excede o limite. Altere e volte a tentar.</translation>
     </message>
     <message>
         <source>Upload failed. You are no longer a member of the group.</source>
@@ -2090,7 +2092,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>The account is offline.</source>
-        <translation type="unfinished"/>
+        <translation>A conta está offline.</translation>
     </message>
     <message>
         <source>Upload failed. The directory does not exist. Please save the file to another directory.</source>
@@ -2106,7 +2108,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
     <message>
         <source>failed to destroy recycle files</source>
@@ -2114,7 +2116,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Dear WPS super member, we are uploading file for you.</source>
-        <translation type="unfinished"/>
+        <translation>Estimado supermembro do WPS, estamos a carregar o ficheiro para si.</translation>
     </message>
     <message>
         <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
@@ -2122,7 +2124,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>file does not exist</source>
-        <translation type="unfinished"/>
+        <translation>o ficheiro não existe</translation>
     </message>
     <message>
         <source>failed to sync files shared by others</source>
@@ -2134,7 +2136,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>WPS cloud disk can not start</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível iniciar o Armazenamento do WPS Cloud.</translation>
     </message>
     <message>
         <source>The group has been closed.</source>
@@ -2142,11 +2144,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Currently, a maximum of %1 synchronized folders are supported</source>
-        <translation type="unfinished"/>
+        <translation>Pode adicionar até %1 pastas de sincronização.</translation>
     </message>
     <message>
         <source>failed to change member role</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao alterar as permissões dos membros da equipa.</translation>
     </message>
     <message>
         <source>request_data_format_error</source>
@@ -2154,7 +2156,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>The current device is using ARM64 architecture, so this function cannot be used for the time being. We have understood the problem and are evaluating it, please wait for the subsequent update</source>
-        <translation type="unfinished"/>
+        <translation>O dispositivo atual está a utilizar a arquitetura ARM64, pelo que, por enquanto, esta funcionalidade não pode ser utilizada. Temos conhecimento deste problema e estamos a avaliá-lo. Aguarde pela atualização subsequente.</translation>
     </message>
     <message>
         <source>yesterday %1</source>
@@ -2162,11 +2164,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>local sync folder freelimit privilege recover tip</source>
-        <translation type="unfinished"/>
+        <translation>A funcionalidade de sincronização da pasta local foi retomada.</translation>
     </message>
     <message>
         <source>Thousand</source>
-        <translation type="unfinished"/>
+        <translation>Mil</translation>
     </message>
     <message>
         <source>Upload failed. File name or path is too long. Please rename or save to another location.</source>
@@ -2182,7 +2184,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>File occupied, rename failed</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiro ocupado. Falha ao mudar o nome do ficheiro.</translation>
     </message>
     <message>
         <source>The file synchronized to the cloud.</source>
@@ -2190,11 +2192,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>My Compnay Doc</source>
-        <translation type="unfinished"/>
+        <translation>Os meus documentos da empresa</translation>
     </message>
     <message>
         <source>Hundred</source>
-        <translation type="unfinished"/>
+        <translation>Cem</translation>
     </message>
     <message>
         <source>space_not_exist</source>
@@ -2202,7 +2204,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Upgrade members can enjoy high-speed download.</source>
-        <translation type="unfinished"/>
+        <translation>Os membros da atualização podem beneficiar de transferências a alta velocidade.</translation>
     </message>
 </context>
 <context>
@@ -2229,7 +2231,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2241,7 +2243,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2296,7 +2298,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Transferring file. Exiting the program will terminate the transfer.</source>
-        <translation type="unfinished"/>
+        <translation>Transferência de ficheiro em curso. Se sair do programa, para todas as transferências de ficheiros em curso.</translation>
     </message>
 </context>
 <context>
@@ -2307,7 +2309,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Transferring file. Switch user will terminate the transfer.</source>
-        <translation type="unfinished"/>
+        <translation>Transferência de ficheiro em curso. A mudança de utilizador para todas as transferências de ficheiros em curso.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2465,31 +2467,31 @@ Are you sure to modify?</source>
     <name>KOtherCloudMessageWidget</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <source>You have successfully logged in through Dropbox. And if you authorize the Dropbox cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
-        <translation type="unfinished"/>
+        <translation>Iniciou sessão com êxito com a conta Dropbox. Depois de autorizar o WPS Office, pode clicar em &quot;Abrir&quot; no ecrã de arranque do WPS Office para aceder e gerir todos os ficheiros guardados no Dropbox.</translation>
     </message>
     <message>
         <source>You have successfully logged in through Google. And if you authorize the Google Drive cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
-        <translation type="unfinished"/>
+        <translation>Iniciou sessão com êxito com a conta Google. Depois de autorizar o WPS Office, pode clicar em &quot;Abrir&quot; no ecrã de arranque do WPS Office para aceder e gerir todos os ficheiros guardados no Google Drive.</translation>
     </message>
     <message>
         <source>Do not check this when logining next time</source>
-        <translation type="unfinished"/>
+        <translation>Não voltar a lembrar-me</translation>
     </message>
     <message>
         <source>Authorize WPS Office to access Dropbox?</source>
-        <translation type="unfinished"/>
+        <translation>Autorizar o WPS Office a aceder ao Dropbox?</translation>
     </message>
     <message>
         <source>Authorize WPS Office to access Google Drive?</source>
-        <translation type="unfinished"/>
+        <translation>Autorizar o WPS Office a aceder ao Google Drive?</translation>
     </message>
 </context>
 <context>
@@ -2550,26 +2552,26 @@ Are you sure to modify?</source>
     <name>KMacCancelSyncFolderWidget</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>KMacFileSyncFailWidget</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"/>
+        <translation>Com falhas</translation>
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Comentários</translation>
     </message>
 </context>
 <context>
@@ -2580,15 +2582,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Click to show</source>
-        <translation type="unfinished"/>
+        <translation>Clique para mostrar</translation>
     </message>
     <message>
         <source>For the security of your documents, documents that are not synchronized to the cloud in your &quot;my cloud documents&quot; have been transferred to &quot;my enterprise documents&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Para preservar a segurança dos seus documentos, os ficheiros em &quot;Os meus documentos na Cloud&quot; que não foram sincronizados com a Cloud foram transferidos para &quot;Os meus documentos da empresa&quot;.</translation>
     </message>
     <message>
         <source>Unsynchronized documents backup completed</source>
-        <translation type="unfinished"/>
+        <translation>A cópia de segurança de documentos não sincronizados foi concluída</translation>
     </message>
 </context>
 <context>
@@ -2614,15 +2616,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>A file with the same name exists in the current location</source>
-        <translation type="unfinished"/>
+        <translation>Nome de ficheiro duplicado</translation>
     </message>
     <message>
         <source>Whether to replace &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Já existe um ficheiro com este nome na localização atual. Pretende substituir &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Uploading document...</source>
-        <translation type="unfinished"/>
+        <translation>A carregar ficheiro</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -2630,11 +2632,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Create a copy</source>
-        <translation type="unfinished"/>
+        <translation>Criar uma cópia</translation>
     </message>
     <message>
         <source>Replace file</source>
-        <translation type="unfinished"/>
+        <translation>Substituir ficheiro</translation>
     </message>
 </context>
 <context>
@@ -2645,11 +2647,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Go to WPS Office configuration tool</source>
-        <translation type="unfinished"/>
+        <translation>Aceder a Ferramentas de configuração do WPS Office</translation>
     </message>
     <message>
         <source>You have hidden the WPS cloud document function menu in the WPS Office configuration tool, if you need to open it, go to the ksomisc.exe to open the switch.</source>
-        <translation type="unfinished"/>
+        <translation>Antes de ativar, tem de aceder a Ferramentas de configuração para cancelar a definição &quot;Ocultar menu da funcionalidade de documentos do WPS Cloud&quot;.</translation>
     </message>
 </context>
 <context>
@@ -2660,7 +2662,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>After opening, the documents opened locally will be automatically synchronized to your personal cloud space, and you can continue to access them on other devices.</source>
-        <translation type="unfinished"/>
+        <translation>Depois de ativar esta funcionalidade, os documentos abertos localmente serão sincronizados automaticamente com o espaço na Cloud pessoal e continua a ter acesso aos mesmos noutros dispositivos.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2668,11 +2670,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Open CloudDoc sync</source>
-        <translation type="unfinished"/>
+        <translation>Ativar Sincronização de documentos da Cloud </translation>
     </message>
     <message>
         <source>The current account is [Temporary Login]. Do you want to continue to enable the document cloud sync?</source>
-        <translation type="unfinished"/>
+        <translation>A conta atual é [Início de sessão temporário]. Continuar para ativar a funcionalidade de Sincronização de documentos na Cloud?</translation>
     </message>
 </context>
 <context>
@@ -2683,11 +2685,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>If you feel that the WPS office assistant&apos;s operating rules do not meet your expectations, you can go to the cloud service settings panel to set it up.</source>
-        <translation type="unfinished"/>
+        <translation>Se considerar que as regras de funcionamento do Assistente do WPS Office não cumprem as suas expectativas, &lt;br&gt;pode aceder ao painel Definições do serviço Cloud para as definir.</translation>
     </message>
     <message>
         <source>Set up the operation of the office assistant</source>
-        <translation type="unfinished"/>
+        <translation>Configurar o funcionamento do assistente do Office</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2733,7 +2735,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>upload file failed for exceeding %1 limit,upgrade super vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>O ficheiro a sincronizar excede o limite de tamanho de %1. Atualize para a versão Super Premium para continuar com a sincronização.</translation>
     </message>
     <message>
         <source>Continue sync</source>
@@ -2749,11 +2751,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>upload file failed for exceeding %1 limit,upgrade vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>O ficheiro a sincronizar excede o limite de tamanho de %1. Atualize para a versão WPS Premium para continuar com a sincronização.</translation>
     </message>
     <message>
         <source>Your cloud space was full,increase cloud space for continue synchronization</source>
-        <translation type="unfinished"/>
+        <translation>O espaço na Cloud está cheio. Expanda o espaço na Cloud para continuar com a sincronização.</translation>
     </message>
     <message>
         <source>Free %1 cloud space was full,increase cloud space for continue synchronization</source>
@@ -2761,7 +2763,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Wechat</source>
-        <translation type="unfinished"/>
+        <translation>WeChat</translation>
     </message>
     <message>
         <source>Download</source>
@@ -2789,7 +2791,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -2839,7 +2841,7 @@ Are you sure to modify?</source>
     <name>KLogoutOverDevLimitDlg</name>
     <message>
         <source>qq</source>
-        <translation type="unfinished"/>
+        <translation>QQ</translation>
     </message>
     <message>
         <source>WPS</source>
@@ -2847,27 +2849,27 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>2. You can also log back in, login complete will automatically go off-line the earliest login device</source>
-        <translation type="unfinished"/>
+        <translation>2. Também pode voltar a iniciar sessão. Depois de iniciar sessão com êxito, o primeiro dispositivo onde iniciou sessão será desligado automaticamente.</translation>
     </message>
     <message>
         <source>dingding</source>
-        <translation type="unfinished"/>
+        <translation>dingding</translation>
     </message>
     <message>
         <source>You can resolve the issue by:</source>
-        <translation type="unfinished"/>
+        <translation>Pode resolver o problema da seguinte forma:</translation>
     </message>
     <message>
         <source>1. Remove the login device that is not commonly used, go to</source>
-        <translation type="unfinished"/>
+        <translation>1. Para remover dispositivos de início de sessão que não estão a ser utilizados, aceda a</translation>
     </message>
     <message>
         <source>Personal Center - Current Online Devices</source>
-        <translation type="unfinished"/>
+        <translation>Centro pessoal - Dispositivos online atuais</translation>
     </message>
     <message>
         <source>QRcode</source>
-        <translation type="unfinished"/>
+        <translation>Código QR</translation>
     </message>
     <message>
         <source>phoneCode</source>
@@ -2875,7 +2877,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>tempdevmax</source>
-        <translation type="unfinished"/>
+        <translation>Os dispositivos temporários excedem o limite.</translation>
     </message>
     <message>
         <source>WechatOfficial</source>
@@ -2883,27 +2885,27 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>wpsAccount</source>
-        <translation type="unfinished"/>
+        <translation>Conta do WPS</translation>
     </message>
     <message>
         <source>The same account can be trusted login on %1 PC devices at most, due to reaching the upper limit, the current device will be automatically offline</source>
-        <translation type="unfinished"/>
+        <translation>A mesma conta é fidedigna e pode ter sessão iniciada num máximo de %1 dispositivos PC. O limite máximo foi atingido e o dispositivo atual será desligado automaticamente.</translation>
     </message>
     <message>
         <source>wechat</source>
-        <translation type="unfinished"/>
+        <translation>WeChat</translation>
     </message>
     <message>
         <source>The number of login devices under your account has reached the maximum limit, the current device is automatically offline</source>
-        <translation type="unfinished"/>
+        <translation>O número de dispositivos com sessão iniciada na sua conta atingiu o limite máximo e o dispositivo atual foi desligado automaticamente.</translation>
     </message>
     <message>
         <source>overdevmax</source>
-        <translation type="unfinished"/>
+        <translation>O limite de dispositivos com sessão iniciada foi excedido.</translation>
     </message>
     <message>
         <source>Account is already offline on the current device</source>
-        <translation type="unfinished"/>
+        <translation>A conta já está offline no dispositivo atual</translation>
     </message>
     <message>
         <source>company</source>
@@ -2911,7 +2913,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>trustdevmax</source>
-        <translation type="unfinished"/>
+        <translation>Os dispositivos fidedignos excedem o limite.</translation>
     </message>
     <message>
         <source>EduCloud</source>
@@ -2923,15 +2925,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Shut down</source>
-        <translation type="unfinished"/>
+        <translation>Encerrar</translation>
     </message>
     <message>
         <source>Sign back in</source>
-        <translation type="unfinished"/>
+        <translation>Voltar a iniciar sessão</translation>
     </message>
     <message>
         <source>The same account can be temporarily login on %1 PC devices at most, due to reaching the upper limit, the current device will be automatically offline</source>
-        <translation type="unfinished"/>
+        <translation>A mesma conta pode ter sessão iniciada temporariamente num máximo de %1 dispositivos PC. O limite máximo foi atingido e o dispositivo atual será desligado automaticamente.</translation>
     </message>
 </context>
 <context>
@@ -3588,11 +3590,11 @@ Verifique a localização e o nome.</translation>
     <name>qing</name>
     <message>
         <source>App</source>
-        <translation type="unfinished"/>
+        <translation>Aplicação</translation>
     </message>
     <message>
         <source>Roaming Box</source>
-        <translation type="unfinished"/>
+        <translation>Caixa de roaming</translation>
     </message>
     <message>
         <source>Cloud Backup</source>
@@ -3604,15 +3606,15 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>WeChat Document Backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança de documentos na Cloud</translation>
     </message>
     <message>
         <source>Enterprise Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento da empresa</translation>
     </message>
     <message>
         <source>Radar Backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança de radar</translation>
     </message>
     <message>
         <source>Share Folder</source>
@@ -3620,27 +3622,27 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Roaming Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento de roaming</translation>
     </message>
     <message>
         <source>My Qing Address</source>
-        <translation type="unfinished"/>
+        <translation>O meu endereço simples</translation>
     </message>
     <message>
         <source>Tecent Document Backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança de documentos na Cloud</translation>
     </message>
     <message>
         <source>Personal Space</source>
-        <translation type="unfinished"/>
+        <translation>Espaço pessoal</translation>
     </message>
     <message>
         <source>Cloud Document Introduction</source>
-        <translation type="unfinished"/>
+        <translation>Introdução ao documento na Cloud</translation>
     </message>
     <message>
         <source>WeChat Received Backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança de documentos na Cloud</translation>
     </message>
     <message>
         <source>My Device</source>
@@ -3660,11 +3662,11 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Share With Me</source>
-        <translation type="unfinished"/>
+        <translation>Partilhado comigo</translation>
     </message>
     <message>
         <source>My Document</source>
-        <translation type="unfinished"/>
+        <translation>O meu documento</translation>
     </message>
     <message>
         <source>Share To Me</source>
@@ -3676,7 +3678,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>QQ Received Backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança de documentos recebidos</translation>
     </message>
     <message>
         <source>Share Link</source>
@@ -3684,7 +3686,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Documents Issued</source>
-        <translation type="unfinished"/>
+        <translation>Documentos emitidos</translation>
     </message>
     <message>
         <source>Auto Upload Document</source>
@@ -3704,11 +3706,11 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>My Share</source>
-        <translation type="unfinished"/>
+        <translation>A minha partilha</translation>
     </message>
     <message>
         <source>Wps Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
     <message>
         <source>Backup Center</source>
@@ -3716,19 +3718,19 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>My Download Backup</source>
-        <translation type="unfinished"/>
+        <translation>A minha transferência</translation>
     </message>
     <message>
         <source>Unsynchronized files backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança de ficheiros não sincronizados</translation>
     </message>
     <message>
         <source>Document Received</source>
-        <translation type="unfinished"/>
+        <translation>Documento recebido</translation>
     </message>
     <message>
         <source>Auto Uploaded</source>
-        <translation type="unfinished"/>
+        <translation>Carregado automaticamente</translation>
     </message>
 </context>
 <context>
@@ -4217,7 +4219,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>file size exceed %1 limit, upgrade vip to continue upload</source>
-        <translation type="unfinished"/>
+        <translation>O tamanho do ficheiro excede o limite de %1. Atualize para a versão WPS Premium para continuar a carregar.</translation>
     </message>
     <message>
         <source>upload to cloud failed</source>
@@ -4225,7 +4227,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>file size exceed %1 limit, upgrade svip to continue upload</source>
-        <translation type="unfinished"/>
+        <translation>O tamanho do ficheiro excede o limite de %1. Atualize para a versão Super Premium para continuar a carregar.</translation>
     </message>
     <message>
         <source>Cancel upload</source>
@@ -4255,7 +4257,7 @@ Verifique a localização e o nome.</translation>
     <name>KUserInfoLoginedWidget</name>
     <message>
         <source>day</source>
-        <translation type="unfinished"/>
+        <translation>dia</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
@@ -4267,11 +4269,11 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>membership period: Less than</source>
-        <translation type="unfinished"/>
+        <translation>período da subscrição: Menor que</translation>
     </message>
     <message>
         <source>membership period: Remaining</source>
-        <translation type="unfinished"/>
+        <translation>período da subscrição: Restante</translation>
     </message>
     <message>
         <source>Renewal Vip</source>
@@ -4309,7 +4311,7 @@ Verifique a localização e o nome.</translation>
     <name>KLiveMainWindow</name>
     <message>
         <source>Click to view abnormal tasks</source>
-        <translation type="unfinished"/>
+        <translation>Clique para ver as tarefas anormais</translation>
     </message>
     <message>
         <source>Init</source>
@@ -4333,7 +4335,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Send file failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao enviar ficheiro</translation>
     </message>
     <message>
         <source> have been updated, close the opennig document, and open again.</source>
@@ -4345,7 +4347,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Cloud Manage</source>
-        <translation type="unfinished"/>
+        <translation>Gestão da Cloud</translation>
     </message>
     <message>
         <source>Close the currently opened document before sign out</source>
@@ -4353,7 +4355,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>&amp;Open On Website</source>
-        <translation type="unfinished"/>
+        <translation>Abrir na página Web</translation>
     </message>
     <message>
         <source>Download failed. This group no longer exists.</source>
@@ -4361,7 +4363,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>WPS Diagnositic</source>
-        <translation type="unfinished"/>
+        <translation>Ferramenta de diagnóstico do WPS</translation>
     </message>
     <message>
         <source>Close settings dialog before sign out</source>
@@ -4393,7 +4395,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Assistant Settings</source>
-        <translation type="unfinished"/>
+        <translation>Definições do assistente</translation>
     </message>
     <message>
         <source>Preparation for cloud editing completed. Opening file.</source>
@@ -4425,7 +4427,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Open WPS %1</source>
-        <translation type="unfinished"/>
+        <translation>Abrir o WPS %1</translation>
     </message>
     <message>
         <source>UnInit</source>
@@ -4449,7 +4451,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Network abnormal ,It is recommended to restart the client to recover.</source>
-        <translation type="unfinished"/>
+        <translation>Exceção de rede. Recomendamos que reinicie o cliente para efetuar a recuperação.</translation>
     </message>
     <message>
         <source>failed to update user info</source>
@@ -4465,11 +4467,11 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>&amp;Sync and Settings</source>
-        <translation type="unfinished"/>
+        <translation>Sincronização e definições</translation>
     </message>
     <message>
         <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao criar atalho do ficheiro do WPS Cloud!</translation>
     </message>
     <message>
         <source>livecenter debug window</source>
@@ -4503,7 +4505,7 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>Syncing, click for details</source>
-        <translation type="unfinished"/>
+        <translation>A sincronizar, clique para ver os detalhes</translation>
     </message>
     <message>
         <source>Enable &amp;Right-click Upload</source>
@@ -4515,7 +4517,7 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>Please ensure your account is consistent with the Web page to log on locally, and have file permissions</source>
-        <translation type="unfinished"/>
+        <translation>Certifique-se de que a conta com sessão iniciada localmente corresponde à conta da página Web e tem as permissões para as operações de ficheiro.</translation>
     </message>
     <message>
         <source>Login status:</source>
@@ -4575,11 +4577,11 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>&amp;Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Captura de ecrã</translation>
     </message>
     <message>
         <source>Send file success</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiro enviado com êxito</translation>
     </message>
     <message>
         <source>have no access to account file</source>
@@ -4587,7 +4589,7 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>Quit WPS Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Sair da limpeza do WPS para computador</translation>
     </message>
     <message>
         <source>Upgrade failed. Please try again later.</source>
@@ -4603,11 +4605,11 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>Start WPS Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar limpeza do WPS para computador</translation>
     </message>
     <message>
         <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation type="unfinished"/>
+        <translation>O atalho do ficheiro do WPS Cloud foi criado, pode encontrá-lo no ambiente de trabalho</translation>
     </message>
     <message>
         <source>File download error</source>
@@ -4619,7 +4621,7 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>Open WpsBox Assistant Mini</source>
-        <translation type="unfinished"/>
+        <translation>Abrir WpsBox Assistant Mini</translation>
     </message>
     <message>
         <source>Hide UI</source>
@@ -4627,7 +4629,7 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>Sync complete</source>
-        <translation type="unfinished"/>
+        <translation>Sincronização concluída.</translation>
     </message>
     <message>
         <source>Show Log</source>
@@ -4686,11 +4688,11 @@ código de resposta curl:</translation>
     </message>
     <message>
         <source>Unsupported &quot;Sync folder&quot; function</source>
-        <translation type="unfinished"/>
+        <translation>As contas de empresa não suportam a funcionalidade &quot;Sincronizar com o armazenamento na Cloud&quot;.</translation>
     </message>
     <message>
         <source>Login succeed</source>
-        <translation type="unfinished"/>
+        <translation>Início de sessão efetuado com êxito</translation>
     </message>
 </context>
 <context>
@@ -5045,7 +5047,7 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -5307,34 +5309,34 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KSwitchCacheFolderWidget</name>
     <message>
         <source>Know</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Switch cache location</source>
-        <translation type="unfinished"/>
+        <translation>Mudar localização da cache</translation>
     </message>
     <message>
         <source>Please switch user to administrator</source>
-        <translation type="unfinished"/>
+        <translation>Certifique-se de que tem permissão de administrador e desativou a funcionalidade &quot;UAC&quot; antes de voltar a tentar.</translation>
     </message>
     <message>
         <source>Current user &quot;%1&quot; has not right</source>
-        <translation type="unfinished"/>
+        <translation>O utilizador atual &quot;%1&quot; não tem permissão de administrador ou ativou a funcionalidade &quot;UAC&quot;.</translation>
     </message>
 </context>
 <context>
     <name>KSyncCacheFolderWidget</name>
     <message>
         <source>Know</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Please select another directory</source>
-        <translation type="unfinished"/>
+        <translation>Selecione outro diretório.</translation>
     </message>
     <message>
         <source>The currently selected folder cannot be set to a synchronous directory</source>
-        <translation type="unfinished"/>
+        <translation>A pasta atualmente selecionada não pode ser definida como diretório de sincronização.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5342,15 +5344,15 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Sync error</source>
-        <translation type="unfinished"/>
+        <translation>Exceção da definição de sincronização</translation>
     </message>
     <message>
         <source>The folder selected contains cache folder;</source>
-        <translation type="unfinished"/>
+        <translation>A pasta selecionada contém a cache do armazenamento do WPS Cloud.</translation>
     </message>
     <message>
         <source>Please select another folder that not contains cache folder</source>
-        <translation type="unfinished"/>
+        <translation>Selecione outra pasta que não contenha a cache do armazenamento do WPS Cloud.</translation>
     </message>
 </context>
 <context>
@@ -5545,7 +5547,7 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KTrayMiddleWidget</name>
     <message>
         <source>Tool</source>
-        <translation type="unfinished"/>
+        <translation>Ferramenta</translation>
     </message>
 </context>
 <context>
@@ -5700,43 +5702,43 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KTrayTopItem</name>
     <message>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Ver</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Clean up</source>
-        <translation type="unfinished"/>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"/>
+        <translation>A transferir</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"/>
+        <translation>A carregar</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"/>
+        <translation>Em Pausa</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"/>
+        <translation>Terminar</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>Os Meus Ficheiros na Cloud</translation>
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Cloud Sync</translation>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Vá Premium</translation>
     </message>
     <message>
         <source>Cloud Space:%1/%2</source>
@@ -5751,7 +5753,7 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="unfinished"/>
+        <translation>ignorar</translation>
     </message>
 </context>
 <context>
@@ -5813,50 +5815,50 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KSyncDissociatedWidget</name>
     <message>
         <source>The following folders cannot continue to synchronize. The synchronized folders may have been removed, renamed, or deleted. Please reset</source>
-        <translation type="unfinished"/>
+        <translation>As pastas a seguir não podem continuar a ser sincronizadas. As pastas sincronizadas podem ter sido removidas ou eliminadas, ou o respetivo nome pode ter sido mudado. Volte a definir.</translation>
     </message>
     <message>
         <source>Sync setting exception</source>
-        <translation type="unfinished"/>
+        <translation>Exceção da definição de sincronização</translation>
     </message>
     <message>
         <source>Synchronization folder supports adding up to %1, you have added %2, %3 of which may be moved, renamed or deleted, please reset</source>
-        <translation type="unfinished"/>
+        <translation>A pasta de sincronização suporta a adição de um máximo de %1. Adicionou %2, %3 dos quais podem ter sido movidos ou eliminados, expiraram ou o respetivo nome foi mudado. Volte a definir.</translation>
     </message>
 </context>
 <context>
     <name>KSaveAsCloudDlgDef::KSaveAsCloudTipsTs</name>
     <message>
         <source>The current file size exceeds the limit.</source>
-        <translation type="unfinished"/>
+        <translation>O tamanho de ficheiro atual excede o limite.</translation>
     </message>
     <message>
         <source>The current file name has illegal characters:\ / : * ? &quot; &lt; &gt; | Please modify the file name and upload it again.</source>
-        <translation type="unfinished"/>
+        <translation>O nome de ficheiro atual contém carateres ilegais: \ / : * ? &quot; &lt; &gt; | Modifique o nome de ficheiro e volte a carregar o ficheiro.</translation>
     </message>
     <message>
         <source>The account is not logged in. Please log in and upload it.</source>
-        <translation type="unfinished"/>
+        <translation>A conta não tem sessão iniciada. Inicie sessão antes de carregar.</translation>
     </message>
     <message>
         <source>There is a file with the same name in the current save location. Please choose another location to upload it again.</source>
-        <translation type="unfinished"/>
+        <translation>Existe um ficheiro com um nome igual na localização para guardar atual. Escolha outra localização para voltar a carregar.</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Volte a tentar mais tarde.</translation>
     </message>
     <message>
         <source>Please try again later. (Error code : %1)</source>
-        <translation type="unfinished"/>
+        <translation>Volte a tentar mais tarde. (Código de erro: %1)</translation>
     </message>
     <message>
         <source>The current login account is inconsistent. Please log in to the original account again.</source>
-        <translation type="unfinished"/>
+        <translation>A conta atual com sessão iniciada não corresponde. Volte a iniciar sessão na conta original.</translation>
     </message>
     <message>
         <source>File upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha no carregamento do ficheiro.</translation>
     </message>
     <message>
         <source>File does not exist</source>
@@ -5961,11 +5963,11 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KSyncDissociatedItemWidget</name>
     <message>
         <source>Reassociated</source>
-        <translation type="unfinished"/>
+        <translation>Reassociado</translation>
     </message>
     <message>
         <source>Reassociation</source>
-        <translation type="unfinished"/>
+        <translation>Reassociar</translation>
     </message>
     <message>
         <source>Canceled</source>
@@ -6803,31 +6805,31 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KCustomCachePathExistDlg</name>
     <message>
         <source>Cannot change to the current directory, please reselect an empty directory</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível alterar o diretório atual. Selecione outro diretório vazio.</translation>
     </message>
     <message>
         <source>Please clean up first, Or reselect an empty directory</source>
-        <translation type="unfinished"/>
+        <translation>Remova os ficheiros do diretório e volte a tentar ou selecione outro diretório vazio.</translation>
     </message>
     <message>
         <source>Open position</source>
-        <translation type="unfinished"/>
+        <translation>Abrir localização</translation>
     </message>
     <message>
         <source>Reselect Position</source>
-        <translation type="unfinished"/>
+        <translation>Resselecionar posição</translation>
     </message>
     <message>
         <source>Directory &quot;%1&quot; existing files</source>
-        <translation type="unfinished"/>
+        <translation>O diretório &quot;%1&quot; já contém ficheiros.</translation>
     </message>
     <message>
         <source>Directory &quot;%1&quot; is already in use</source>
-        <translation type="unfinished"/>
+        <translation>O diretório &quot;%1&quot; já está a ser utilizado.</translation>
     </message>
     <message>
         <source>WPS cloud disk cache settings</source>
-        <translation type="unfinished"/>
+        <translation>Definições da cache do disco do WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -7006,11 +7008,11 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>New path space not enough</source>
-        <translation type="unfinished"/>
+        <translation>Pouco espaço de armazenamento para a localização selecionada.</translation>
     </message>
     <message>
         <source>Move complete</source>
-        <translation type="unfinished"/>
+        <translation>A movimentação foi concluída.</translation>
     </message>
     <message>
         <source>Calculating space size...</source>
@@ -7018,11 +7020,11 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Change cache settings</source>
-        <translation type="unfinished"/>
+        <translation>Alterar localização da cache</translation>
     </message>
     <message>
         <source>WPS Cloud Disk cache settings</source>
-        <translation type="unfinished"/>
+        <translation>Definições da cache do disco do WPS Cloud</translation>
     </message>
     <message>
         <source>Deleting old files...</source>
@@ -7053,7 +7055,7 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>New path can not be local sync folder or sub folder</source>
-        <translation type="unfinished"/>
+        <translation>A pasta selecionada foi definida como pasta de sincronização e não pode ser alterada para cache do disco de rede. Volte a selecionar.</translation>
     </message>
     <message>
         <source>Operation Tips</source>
@@ -7100,11 +7102,11 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Common File Backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança de ficheiros comuns</translation>
     </message>
     <message>
         <source>Intelligently back up the following location files so that they can also be used by other terminals</source>
-        <translation type="unfinished"/>
+        <translation>Faça cópias de segurança inteligentes dos ficheiros na localização a seguir para poderem ser utilizados por outros terminais.</translation>
     </message>
     <message>
         <source>Add the &quot;Upload to Cloud Document&quot; option</source>
@@ -7112,7 +7114,7 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Share and collaborate via &quot;WPS Cloud Documents&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Partilhar e colaborar através dos &quot;Documentos do WPS Cloud&quot;</translation>
     </message>
     <message>
         <source>Right Button</source>
@@ -7120,11 +7122,11 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Desktop documents and pictures</source>
-        <translation type="unfinished"/>
+        <translation>Documentos e imagens no ambiente de trabalho</translation>
     </message>
     <message>
         <source>Upload to &quot;WPS Cloud Document&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Carregar para &quot;Documento do WPS Cloud&quot;</translation>
     </message>
     <message>
         <source>WeChat received files</source>
@@ -7148,11 +7150,11 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Send to &quot;WPS File Transfer Assistant&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Enviar para &quot;Assistente de transferência de ficheiros do WPS&quot;</translation>
     </message>
     <message>
         <source>Add the &quot;Reorganize Desktop&quot; option</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar a opção &quot;Reorganizar ambiente de trabalho&quot;</translation>
     </message>
     <message>
         <source>Tips for start and end of transmission</source>
@@ -7420,11 +7422,11 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KUploadLimitBubbleP7Enterprise</name>
     <message>
         <source>To enlarge your Cloudspace, please contact your admin or %1WPS Customer Service%2.</source>
-        <translation type="unfinished"/>
+        <translation>Para expandir o espaço de armazenamento na Cloud, contacte o administrador da empresa ou consulte o %1Suporte ao cliente do WPS%2.</translation>
     </message>
     <message>
         <source>Cloud space has been full</source>
-        <translation type="unfinished"/>
+        <translation>O espaço na Cloud tem estado cheio</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -7440,7 +7442,7 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>File upload limit details, please contact your admin or %1WPS Customer Service%2.</source>
-        <translation type="unfinished"/>
+        <translation>Para obter mais informações sobre limites de carregamento de ficheiros, contacte o administrador da empresa ou contacte o %1Suporte ao cliente do WPS%2.</translation>
     </message>
 </context>
 <context>
@@ -7554,15 +7556,15 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KMacSyncFolderWidget</name>
     <message>
         <source>Sync now</source>
-        <translation type="unfinished"/>
+        <translation>Sincronizar agora</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Alterar</translation>
     </message>
     <message>
         <source>Upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar para VIP</translation>
     </message>
 </context>
 <context>
@@ -7577,15 +7579,15 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Set Sync Folder</source>
-        <translation type="unfinished"/>
+        <translation>A pasta de sincronização não foi definida</translation>
     </message>
     <message>
         <source>Switch location</source>
-        <translation type="unfinished"/>
+        <translation>Mudar localização</translation>
     </message>
     <message>
         <source>Sync cache</source>
-        <translation type="unfinished"/>
+        <translation>Alterar caminho da cache</translation>
     </message>
     <message>
         <source>Choose folder</source>
@@ -7723,7 +7725,7 @@ Por favor verifique o nome do ficheiro.</translation>
     </message>
     <message>
         <source>NetWork error</source>
-        <translation type="unfinished"/>
+        <translation>Exceção de rede. Verifique a condição da rede.</translation>
     </message>
     <message>
         <source>Full space will affect cloud document storage</source>
@@ -7797,19 +7799,19 @@ Por favor verifique o nome do ficheiro.</translation>
     <name>KMacSameFolderDialog</name>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Nuvem</translation>
     </message>
     <message>
         <source>local</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo atual</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>Os meus documentos na Cloud</translation>
     </message>
 </context>
 <context>
@@ -7884,25 +7886,25 @@ Espaço Livre: cerca de %1 MB</translation>
     </message>
     <message>
         <source>Custom Cache Path</source>
-        <translation type="unfinished"/>
+        <translation>Alterar localização da cache</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KDesktopSyncUnavailableWidget</name>
     <message>
         <source>Known</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>KSyncFolderWarningWidget</name>
     <message>
         <source>Known</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>WPS Office Assistant</source>
@@ -7910,15 +7912,15 @@ Espaço Livre: cerca de %1 MB</translation>
     </message>
     <message>
         <source>Sync folder exception</source>
-        <translation type="unfinished"/>
+        <translation>Exceção de pasta de sincronização</translation>
     </message>
     <message>
         <source>Windows XP is not supported</source>
-        <translation type="unfinished"/>
+        <translation>O Windows XP não é suportado</translation>
     </message>
     <message>
         <source>Sync folder cannot start</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao abrir a pasta de sincronização.</translation>
     </message>
 </context>
 <context>
@@ -7966,19 +7968,19 @@ Espaço Livre: cerca de %1 MB</translation>
     <name>KWpsClearCacheFileDlg</name>
     <message>
         <source>Cleaning the cache can free up the local space occupied by WPS network disk files.</source>
-        <translation type="unfinished"/>
+        <translation>A limpeza da cache pode libertar espaço local ocupado por ficheiros do Armazenamento no WPS Cloud.</translation>
     </message>
     <message>
         <source>The calculation will take some time. Please wait a moment.</source>
-        <translation type="unfinished"/>
+        <translation>O cálculo irá demorar algum tempo a ser realizado. Aguarde um momento.</translation>
     </message>
     <message>
         <source>Clean Up</source>
-        <translation type="unfinished"/>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Cleaning cache...</source>
-        <translation type="unfinished"/>
+        <translation>A limpar cache...</translation>
     </message>
     <message>
         <source>Clear Cache</source>
@@ -7994,23 +7996,23 @@ Espaço Livre: cerca de %1 MB</translation>
     </message>
     <message>
         <source>Clean cloud disk cache files</source>
-        <translation type="unfinished"/>
+        <translation>Limpar Cache do armazenamento na Cloud</translation>
     </message>
     <message>
         <source>WPS cloud disk cache used space</source>
-        <translation type="unfinished"/>
+        <translation>Espaço utilizado pela Cache do armazenamento do WPS Cloud</translation>
     </message>
     <message>
         <source>Cleared cache</source>
-        <translation type="unfinished"/>
+        <translation>Cache limpa.</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
     <message>
         <source>After cleaning up, you need to download again when you use these files again.</source>
-        <translation type="unfinished"/>
+        <translation>Após a limpeza, tem de transferir novamente estes ficheiros caso tenha de voltar a utilizá-los.</translation>
     </message>
 </context>
 <context>
@@ -8086,7 +8088,7 @@ para
     <name>KUploadLimitBubbleOld</name>
     <message>
         <source>upload file failed for exceeding %1 limit,upgrade super vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>O ficheiro a sincronizar excede o limite de tamanho de %1. Atualize para a versão Super Premium para continuar com a sincronização.</translation>
     </message>
     <message>
         <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
@@ -8098,11 +8100,11 @@ para
     </message>
     <message>
         <source>upload file failed for exceeding %1 limit,upgrade vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>O ficheiro a sincronizar excede o limite de tamanho de %1. Atualize para a versão WPS Premium para continuar com a sincronização.</translation>
     </message>
     <message>
         <source>Your cloud space was full,increase cloud space for continue synchronization</source>
-        <translation type="unfinished"/>
+        <translation>O espaço na Cloud está cheio. Expanda o espaço na Cloud para continuar com a sincronização.</translation>
     </message>
     <message>
         <source>Free %1 cloud space was full,increase cloud space for continue synchronization</source>
@@ -8184,11 +8186,11 @@ para
     </message>
     <message>
         <source>The WPS Cloud Disk cannot be changed to the current location. Please re-select it.</source>
-        <translation type="unfinished"/>
+        <translation>O disco de rede do WPS não pode ser alterado para a localização atual. Volte a selecionar.</translation>
     </message>
     <message>
         <source>Unable to change location</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível alterar a localização</translation>
     </message>
 </context>
 <context>
@@ -8254,11 +8256,11 @@ para
     <name>KPayGuideWidgetMgr</name>
     <message>
         <source>Full-text search can search for keywords in the body and quickly locate the required content</source>
-        <translation type="unfinished"/>
+        <translation>A Pesquisa de texto completo pode ser utilizada para procurar por palavras-chave no corpo e localizar rapidamente o conteúdo pretendido.</translation>
     </message>
     <message>
         <source>Upgrade WPS vip to use full text search immediately</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Premium para utilizar já a Pesquisa de texto completo</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -8266,11 +8268,11 @@ para
     </message>
     <message>
         <source>The selected folder will be updated to the computer in real time</source>
-        <translation type="unfinished"/>
+        <translation>A pasta selecionada será atualizada em tempo real no computador</translation>
     </message>
     <message>
         <source>You can export the cloud files to the local computer.Upgrade WPS membership and enjoy batch export function immediately</source>
-        <translation type="unfinished"/>
+        <translation>Pode exportar em lote ficheiros da Cloud para um disco local. Atualize para a versão Premium para tirar partido já da funcionalidade Exportação em lote.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8282,62 +8284,62 @@ para
     </message>
     <message>
         <source>The synchronization folder limit has been exceeded</source>
-        <translation type="unfinished"/>
+        <translation>O número de pastas de sincronização excede o limite.</translation>
     </message>
     <message>
         <source>Batch download/export is WPS membership function</source>
-        <translation type="unfinished"/>
+        <translation>Transferir/atualizar tudo é uma funcionalidade Premium.</translation>
     </message>
     <message>
         <source>1 synchronization folder has been set up, and Svip can set up 5 synchronization folders</source>
-        <translation type="unfinished"/>
+        <translation>Foi configurada 1 pasta de sincronização. Um utilizador da versão Super Premium pode configurar um máximo de 5 pastas de sincronização.</translation>
     </message>
     <message>
         <source>Full text search is a svip feature</source>
-        <translation type="unfinished"/>
+        <translation>A Pesquisa de texto completo é uma funcionalidade Premium.</translation>
     </message>
     <message>
         <source>You can download/export the cloud files to the local computer.Upgrade WPS membership and enjoy batch download/export function immediately</source>
-        <translation type="unfinished"/>
+        <translation>Pode atualizar em lote ficheiros da Cloud para a versão mais atual. Atualize para a versão Premium para tirar já partido da funcionalidade Transferir/atualizar tudo.</translation>
     </message>
     <message>
         <source>Batch export is WPS membership function</source>
-        <translation type="unfinished"/>
+        <translation>A Exportação em lote é uma funcionalidade Premium.</translation>
     </message>
     <message>
         <source>Upgrade WPS membership and enjoy batch download function immediately</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Premium para tirar partido já do privilégio Transferência em lote.</translation>
     </message>
     <message>
         <source>Give up using</source>
-        <translation type="unfinished"/>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>The number of members of the Shared folder has reached its maximum</source>
-        <translation type="unfinished"/>
+        <translation>Atingiu o número máximo de membros da Pasta partilhada</translation>
     </message>
     <message>
         <source>Automatic updates is svip function</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar automaticamente para obter privilégios da versão Super Premium</translation>
     </message>
     <message>
         <source>Batch download is WPS membership function</source>
-        <translation type="unfinished"/>
+        <translation>A Transferência em lote é uma funcionalidade Premium.</translation>
     </message>
     <message>
         <source>Upgrade SVIP</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar para a versão Super Premium</translation>
     </message>
     <message>
         <source>Super members can invite up to 500 people to join the Shared folder,Upgrade your membership and invite more members immediately</source>
-        <translation type="unfinished"/>
+        <translation>Os membros da versão Super Premium podem convidar até 500 pessoas para a pasta partilhada. Atualize para a versão Premium para convidar já mais membros.</translation>
     </message>
 </context>
 <context>
     <name>KSyncFolderSameNameFolderExistWidget</name>
     <message>
         <source>cloud</source>
-        <translation type="unfinished"/>
+        <translation>cloud</translation>
     </message>
     <message>
         <source>local</source>
@@ -8345,11 +8347,11 @@ para
     </message>
     <message>
         <source>Folders with the same name already exist in the cloud</source>
-        <translation type="unfinished"/>
+        <translation>Já existe uma pasta com o mesmo nome no caminho selecionado.</translation>
     </message>
     <message>
         <source>Continue to sync</source>
-        <translation type="unfinished"/>
+        <translation>Continuar para sincronizar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8357,7 +8359,7 @@ para
     </message>
     <message>
         <source>After setting up synchronization, folders with the same name are automatically merged and all files are securely preserved</source>
-        <translation type="unfinished"/>
+        <translation>Depois de configurar a sincronização, as pastas com o mesmo nome são unidas automaticamente e todos os ficheiros são mantidos em segurança.</translation>
     </message>
 </context>
 <context>
@@ -8450,23 +8452,23 @@ para
     <name>KDrag2ImEntry</name>
     <message>
         <source>switch off not intercept</source>
-        <translation type="unfinished"/>
+        <translation>Não bloquear quando o comutador está desligado</translation>
     </message>
     <message>
         <source>user not verify not intercept</source>
-        <translation type="unfinished"/>
+        <translation>Não bloquear utilizadores cujas identidades não foram verificadas.</translation>
     </message>
     <message>
         <source>Company user not intercept</source>
-        <translation type="unfinished"/>
+        <translation>Não bloquear utilizadores empresariais</translation>
     </message>
     <message>
         <source>sync cache file not intercept</source>
-        <translation type="unfinished"/>
+        <translation>Não bloquear ficheiros da cache de armazenamento na Cloud</translation>
     </message>
     <message>
         <source>get verify timeout not intercept</source>
-        <translation type="unfinished"/>
+        <translation>Não bloquear quando ocorre um erro de tempo limite excedido ao obter o nome real do utilizador.</translation>
     </message>
 </context>
 <context>
@@ -8535,15 +8537,15 @@ para
     </message>
     <message>
         <source>Failed to load, please</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao carregar, </translation>
     </message>
     <message>
         <source>Files saved in cloud space will be automatically synchronized on your computer and mobile phone, and you can access them with your mobile phone.</source>
-        <translation type="unfinished"/>
+        <translation>Os ficheiros guardados no espaço da Cloud serão sincronizados automaticamente no computador e telemóvel, e pode aceder-lhes no telemóvel.</translation>
     </message>
     <message>
         <source>Associate your mobile device</source>
-        <translation type="unfinished"/>
+        <translation>Associar dispositivo móvel</translation>
     </message>
     <message>
         <source>Finish</source>
@@ -8551,7 +8553,7 @@ para
     </message>
     <message>
         <source>Mobile phone associate succeeded</source>
-        <translation type="unfinished"/>
+        <translation>Telemóvel associado com êxito</translation>
     </message>
 </context>
 <context>
@@ -8562,7 +8564,7 @@ para
     </message>
     <message>
         <source>Failed to load, please</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao carregar, </translation>
     </message>
 </context>
 <context>
@@ -8585,7 +8587,7 @@ para
     </message>
     <message>
         <source>Retrying to create attachment link...</source>
-        <translation type="unfinished"/>
+        <translation>A repetir criação da ligação do anexo...</translation>
     </message>
 </context>
 <context>
@@ -8743,38 +8745,38 @@ para
     <name>KLogoutClearCacheStatusWidget</name>
     <message>
         <source>File is being uploaded, it is recommended to wait for the upload to complete before exiting</source>
-        <translation type="unfinished"/>
+        <translation>Os ficheiros estão a ser carregados. Não saia antes de a operação ficar concluída.</translation>
     </message>
     <message>
         <source>Click to view</source>
-        <translation type="unfinished"/>
+        <translation>Clique para ver</translation>
     </message>
     <message>
         <source>File size exceeds cannot be uploaded, please confirm and exit</source>
-        <translation type="unfinished"/>
+        <translation>O tamanho de ficheiro foi excedido e não é possível carregá-lo, confirme e saia</translation>
     </message>
     <message>
         <source>File uploaded</source>
-        <translation type="unfinished"/>
+        <translation>O ficheiro foi carregado com êxito.</translation>
     </message>
     <message>
         <source>File upload failed, please confirm and exit to avoid loss</source>
-        <translation type="unfinished"/>
+        <translation>Falha no carregamento do ficheiro, confirme e saia para evitar perdê-lo</translation>
     </message>
 </context>
 <context>
     <name>KChooseSyncLocationWidget</name>
     <message>
         <source>WPS-sync folder</source>
-        <translation type="unfinished"/>
+        <translation>WPS - Sincronizar pasta</translation>
     </message>
     <message>
         <source>The folder will be synchronized to the local location, and changes in the folder will be synchronized to the cloud in real time</source>
-        <translation type="unfinished"/>
+        <translation>A pasta será sincronizada com uma localização local e as alterações à pasta serão sincronizadas com a Cloud em tempo real.</translation>
     </message>
     <message>
         <source>The folder will be synchronized to the directory you selected after you modified the sync path</source>
-        <translation type="unfinished"/>
+        <translation>Depois de modificar o caminho de sincronização, a pasta será sincronizada com o diretório selecionado.</translation>
     </message>
 </context>
 <context>
@@ -8789,7 +8791,7 @@ para
     </message>
     <message>
         <source>Desktop Backup fail</source>
-        <translation type="unfinished"/>
+        <translation>Falha na cópia de segurança no computador</translation>
     </message>
     <message>
         <source>Operation hint</source>
@@ -8797,7 +8799,7 @@ para
     </message>
     <message>
         <source>Web download Backup fail</source>
-        <translation type="unfinished"/>
+        <translation>Ocorreu um erro durante a cópia de segurança dos ficheiros em &quot;As minhas transferências&quot;.</translation>
     </message>
     <message>
         <source>Backup fail</source>
@@ -8812,11 +8814,11 @@ para
     <name>KTransGuideBubble</name>
     <message>
         <source>files were not sync to cloud</source>
-        <translation type="unfinished"/>
+        <translation>Os ficheiros não estão sincronizados com a Cloud.</translation>
     </message>
     <message>
         <source>show trans detail</source>
-        <translation type="unfinished"/>
+        <translation>Ver detalhes</translation>
     </message>
     <message>
         <source>WPS Cloud Service</source>
@@ -8828,11 +8830,11 @@ para
     </message>
     <message>
         <source>Unsync</source>
-        <translation type="unfinished"/>
+        <translation>Anular sincronização</translation>
     </message>
     <message>
         <source>%1 files were not sync to cloud</source>
-        <translation type="unfinished"/>
+        <translation>%1 ficheiros não sincronizados com a Cloud.</translation>
     </message>
 </context>
 <context>
@@ -9196,57 +9198,57 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KQingImageBubble</name>
     <message>
         <source>Your account has been offline on this computer</source>
-        <translation type="unfinished"/>
+        <translation>A sua conta tem estado offline neste computador</translation>
     </message>
     <message>
         <source>retry logout</source>
-        <translation type="unfinished"/>
+        <translation>Ficar novamente offline</translation>
     </message>
     <message>
         <source>Your account cannot be offline at this computer</source>
-        <translation type="unfinished"/>
+        <translation>A sua conta não pode estar offline neste computador</translation>
     </message>
     <message>
         <source>Network Error, Offline Failed</source>
-        <translation type="unfinished"/>
+        <translation>Erro de rede, falha ao ficar offline</translation>
     </message>
 </context>
 <context>
     <name>KAddSyncFolderDlgJsApi</name>
     <message>
         <source>scanning now :</source>
-        <translation type="unfinished"/>
+        <translation>a digitalizar agora:</translation>
     </message>
     <message>
         <source>The first synchronization takes a long time.</source>
-        <translation type="unfinished"/>
+        <translation>A primeira sincronização é demorada.</translation>
     </message>
     <message>
         <source>files more than %1,please select again</source>
-        <translation type="unfinished"/>
+        <translation>Mais de %1 ficheiros a sincronizar. Não é possível ativar a sincronização. Volte a selecionar.</translation>
     </message>
     <message>
         <source>scan finished, %1 files</source>
-        <translation type="unfinished"/>
+        <translation>Digitalização concluída. %1 ficheiros para sincronização.</translation>
     </message>
 </context>
 <context>
     <name>KSyncFolderChooseFolder</name>
     <message>
         <source>scanning now :</source>
-        <translation type="unfinished"/>
+        <translation>a digitalizar agora:</translation>
     </message>
     <message>
         <source>files more than %1,please select again</source>
-        <translation type="unfinished"/>
+        <translation>Mais de %1 ficheiros a sincronizar. Não é possível ativar a sincronização. Volte a selecionar.</translation>
     </message>
     <message>
         <source>scan finished, %1 files</source>
-        <translation type="unfinished"/>
+        <translation>Digitalização concluída. %1 ficheiros para sincronização.</translation>
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"/>
+        <translation>Escolher pasta</translation>
     </message>
 </context>
 <context>
@@ -9415,7 +9417,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KOverlayIconRepairWidget</name>
     <message>
         <source>The file status is repaired successfully, and the file status can be displayed normally</source>
-        <translation type="unfinished"/>
+        <translation>O estado do ficheiro foi reparado com êxito e o estado do ficheiro será apresentado corretamente.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9423,7 +9425,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Repair file synchronization status</source>
-        <translation type="unfinished"/>
+        <translation>Estado da reparação da sincronização de ficheiros</translation>
     </message>
     <message>
         <source>I know</source>
@@ -9431,15 +9433,15 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>The repair will restart the Explorer and reload the file status icon</source>
-        <translation type="unfinished"/>
+        <translation>A reparação irá reiniciar o Explorador e recarregar o ícone de estado do ficheiro.</translation>
     </message>
     <message>
         <source>The process will not close other running programs, and will not cause data loss, please rest assured</source>
-        <translation type="unfinished"/>
+        <translation>O processo não fecha outros programas em execução nem causa a perda de dados. Não se preocupe.</translation>
     </message>
     <message>
         <source>Fix now</source>
-        <translation type="unfinished"/>
+        <translation>Corrigir agora</translation>
     </message>
 </context>
 <context>
@@ -9450,7 +9452,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>the files in cloud disk will be cleared, please check and backup to avoid losing some important files</source>
-        <translation type="unfinished"/>
+        <translation>A pasta de ficheiros da cache de armazenamento na Cloud será limpa. Verifique e faça uma cópia de segurança dos ficheiros para evitar perder ficheiros importantes.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -9458,7 +9460,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Clear the cache file of the current device on the WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Limpar os ficheiros da cache de armazenamento do WPS Cloud do dispositivo atual</translation>
     </message>
     <message>
         <source>You can not access the modify record of cloud file when you log out. Clearing records will further protect you privacy</source>
@@ -9474,7 +9476,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>When you log in again, it will take a few more minutes to access files on Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Quando voltar a iniciar sessão, o acesso aos ficheiros no armazenamento na Cloud vai demorar mais alguns minutos</translation>
     </message>
     <message>
         <source>Confirm to quit the account</source>
@@ -9584,35 +9586,35 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KLogoutClearCacheCheckButton</name>
     <message>
         <source>Please verify that the native is secure and trusted to avoid the risk of data leakage</source>
-        <translation type="unfinished"/>
+        <translation>Certifique-se de que o dispositivo é fidedigno para evitar a fuga de dados.</translation>
     </message>
     <message>
         <source>Clear data and delete login records</source>
-        <translation type="unfinished"/>
+        <translation>Limpe os dados e elimine os registos de início de sessão.</translation>
     </message>
     <message>
         <source>Keep data for next use.</source>
-        <translation type="unfinished"/>
+        <translation>Retenha os dados para utilização posterior.</translation>
     </message>
     <message>
         <source>Select this if you no longer use this device</source>
-        <translation type="unfinished"/>
+        <translation>Selecione se vai deixar de utilizar este dispositivo.</translation>
     </message>
     <message>
         <source>Keep data for next use</source>
-        <translation type="unfinished"/>
+        <translation>Retenha os dados para utilização posterior.</translation>
     </message>
     <message>
         <source>Cloud document cache and file backups that will keep you on your native</source>
-        <translation type="unfinished"/>
+        <translation>As cópias de segurança de ficheiros e da cache de documentos na Cloud serão retidas nestes dispositivo.</translation>
     </message>
     <message>
         <source>[Only trusted devices are optional]</source>
-        <translation type="unfinished"/>
+        <translation>[Apenas os dispositivos fidedignos são selecionáveis]</translation>
     </message>
     <message>
         <source>Cloud document caches and files that you have on your native will be deleted at the same time</source>
-        <translation type="unfinished"/>
+        <translation>As cópias de segurança de ficheiros e da cache de documentos na Cloud armazenadas no dispositivo serão eliminadas.</translation>
     </message>
 </context>
 <context>
@@ -9662,7 +9664,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>No permission, author forbids document download</source>
-        <translation type="unfinished"/>
+        <translation>Sem permissão. O autor proíbe a transferência de documentos.</translation>
     </message>
     <message>
         <source>Download canceled</source>
@@ -9713,7 +9715,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Tencent Backup success</source>
-        <translation type="unfinished"/>
+        <translation>Êxito ao criar a cópia de segurança da Tencent</translation>
     </message>
     <message>
         <source>Backup success</source>
@@ -9721,14 +9723,14 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Desktop Backup success</source>
-        <translation type="unfinished"/>
+        <translation>Êxito ao criar a cópia de segurança no computador</translation>
     </message>
 </context>
 <context>
     <name>KSyncFolderExceptionWidget</name>
     <message>
         <source>Reassociation</source>
-        <translation type="unfinished"/>
+        <translation>Reassociar</translation>
     </message>
     <message>
         <source>Cancel sync</source>
@@ -9739,7 +9741,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KSyncReassociationWidget</name>
     <message>
         <source>Reassociation</source>
-        <translation type="unfinished"/>
+        <translation>Reassociar</translation>
     </message>
     <message>
         <source>feedback</source>
@@ -9747,18 +9749,18 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"/>
+        <translation>Escolher pasta</translation>
     </message>
 </context>
 <context>
     <name>KWpsboxRecommendMgr</name>
     <message>
         <source>Open membership and enjoy privileges</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Premium e desfrute dos privilégios</translation>
     </message>
     <message>
         <source>Upgrade membership and enjoy 40+ special zones</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Premium para desfrutar de mais de 70 privilégios</translation>
     </message>
     <message>
         <source>Renew membership, privileges continue</source>
@@ -9766,7 +9768,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Upgrade membership and enjoy privileges</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar associação e beneficiar dos privilégios</translation>
     </message>
 </context>
 <context>
@@ -9796,15 +9798,15 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KSpaceFullEarlyWarningBubble</name>
     <message>
         <source>View space detail</source>
-        <translation type="unfinished"/>
+        <translation>Ver detalhe do espaço</translation>
     </message>
     <message>
         <source>The remainder cloud space is:</source>
-        <translation type="unfinished"/>
+        <translation>Espaço restante:</translation>
     </message>
     <message>
         <source>WPS Cloud Service</source>
-        <translation type="unfinished"/>
+        <translation>Serviço WPS Cloud</translation>
     </message>
     <message>
         <source>Go Premium to get more cloud storage</source>
@@ -9812,27 +9814,27 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Your WPS Cloud space is running out</source>
-        <translation type="unfinished"/>
+        <translation>Está a ficar sem espaço no WPS Cloud</translation>
     </message>
     <message>
         <source>This maybe affect uploading file to the cloud,and the mobile terminal or other devices cannot synchronize the latest documents.</source>
-        <translation type="unfinished"/>
+        <translation>O carregamento de ficheiros pode ser afetado. Os ficheiros recentes não podem ser sincronizados no terminal móvel ou noutros dispositivos.</translation>
     </message>
     <message>
         <source>You has used space is:</source>
-        <translation type="unfinished"/>
+        <translation>Espaço utilizado:</translation>
     </message>
     <message>
         <source>Total Space is:%1</source>
-        <translation type="unfinished"/>
+        <translation>Espaço total: %1</translation>
     </message>
     <message>
         <source>Upgrade and Upload</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar e carregar</translation>
     </message>
     <message>
         <source>Upgrade and Expansion</source>
-        <translation type="unfinished"/>
+        <translation>Atualização e expansão</translation>
     </message>
     <message>
         <source>Remaining Cloud storage is less than </source>
@@ -9847,31 +9849,31 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KSpaceUsageRemindBubble</name>
     <message>
         <source>View space detail</source>
-        <translation type="unfinished"/>
+        <translation>Ver detalhe do espaço</translation>
     </message>
     <message>
         <source>The remainder cloud space is:</source>
-        <translation type="unfinished"/>
+        <translation>Espaço restante:</translation>
     </message>
     <message>
         <source>You can view cloud space detail,or get more space by upgrading vip.</source>
-        <translation type="unfinished"/>
+        <translation>Recomendamos que verifique os detalhes do espaço e limpe o armazenamento ou expanda a respetiva capacidade para ter espaço suficiente.</translation>
     </message>
     <message>
         <source>Your WPS Cloud space used percent is:%1</source>
-        <translation type="unfinished"/>
+        <translation>Espaço utilizado no WPS Cloud: %1%</translation>
     </message>
     <message>
         <source>You has used space is:</source>
-        <translation type="unfinished"/>
+        <translation>Espaço utilizado:</translation>
     </message>
     <message>
         <source>Total Space is:%1</source>
-        <translation type="unfinished"/>
+        <translation>Espaço total: %1</translation>
     </message>
     <message>
         <source>Upgrade and Expansion</source>
-        <translation type="unfinished"/>
+        <translation>Atualização e expansão</translation>
     </message>
 </context>
 <context>
@@ -9897,7 +9899,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>Serviço WPS Cloud</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9905,42 +9907,42 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Renewal the VIP service,you can own the Separate Password,Private Browsing and protect you content and so on</source>
-        <translation type="unfinished"/>
+        <translation>Renove a versão Premium para beneficiar de palavras-passe independentes, navegação privada e outros privilégios para manter o seu conteúdo seguro</translation>
     </message>
     <message>
         <source>Use skill</source>
-        <translation type="unfinished"/>
+        <translation>Utilizar competência</translation>
     </message>
     <message>
         <source>The private folder is the exclusive function of the VIP</source>
-        <translation type="unfinished"/>
+        <translation>A pasta privada é uma funcionalidade Premium.</translation>
     </message>
     <message>
         <source>Upgrade VIP service,you can own the Separate Password,Private Browsing and protect you content and so on</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Premium para beneficiar de palavras-passe independentes, navegação privada e outros privilégios para manter o seu conteúdo seguro</translation>
     </message>
     <message>
         <source>Your Vip is expired</source>
-        <translation type="unfinished"/>
+        <translation>A sua versão Premium expirou.</translation>
     </message>
     <message>
         <source>Renewal the VIP</source>
-        <translation type="unfinished"/>
+        <translation>Renovar a versão Premium</translation>
     </message>
 </context>
 <context>
     <name>KWarningChangeSyncPathWidget</name>
     <message>
         <source>Unuploaded files</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiros não carregados</translation>
     </message>
     <message>
         <source>Continue to modify the synchronization path. Unuploaded files cannot be moved to the modification path you selected. You can view them in the local directory.</source>
-        <translation type="unfinished"/>
+        <translation>Continue para modificar o caminho de sincronização. Os ficheiros não carregados não podem ser movidos para o caminho modificado que selecionou. Pode vê-los no diretório local.</translation>
     </message>
     <message>
         <source>View Folder</source>
-        <translation type="unfinished"/>
+        <translation>Ver diretório local</translation>
     </message>
     <message>
         <source>Modify</source>
@@ -10001,11 +10003,11 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KAutoSyncLimitBubble</name>
     <message>
         <source>Upgrade SVIP, get privileges.</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Super Premium para obter privilégios e mais funcionalidades.</translation>
     </message>
     <message>
         <source>Intelligent updates can get more setting and make efficiency work.</source>
-        <translation type="unfinished"/>
+        <translation>As definições de funcionalidade da versão Super Premium oferecem definições mais avançadas e mais eficiência em termos de trabalho.</translation>
     </message>
     <message>
         <source>Upgrade to SVIP</source>
@@ -10020,15 +10022,15 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KUploadLimitBubbleP7</name>
     <message>
         <source>Upgrade SVIP, cloud space can upgrade to %1 at most, and can upload file %2 at most</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Premium para usufruir de espaço na Cloud até %1 GB e carregar ficheiros até %2 GB</translation>
     </message>
     <message>
         <source>WPS Cloud Service</source>
-        <translation type="unfinished"/>
+        <translation>Serviço WPS Cloud</translation>
     </message>
     <message>
         <source>Manage cloud space</source>
-        <translation type="unfinished"/>
+        <translation>Gerir espaço na cloud</translation>
     </message>
     <message>
         <source>I know</source>
@@ -10036,15 +10038,15 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Uploading files over %1 is currently not supported</source>
-        <translation type="unfinished"/>
+        <translation>De momento, o carregamento de ficheiros com mais de %1 não é suportado.</translation>
     </message>
     <message>
         <source>Unsync</source>
-        <translation type="unfinished"/>
+        <translation>Anular sincronização</translation>
     </message>
     <message>
         <source>Cloud space has been full</source>
-        <translation type="unfinished"/>
+        <translation>O espaço na Cloud tem estado cheio</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -10052,7 +10054,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Upgrade And Continue</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar e continuar</translation>
     </message>
     <message>
         <source>Come from %1</source>
@@ -10060,7 +10062,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Upgrade And Upload</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar para a versão Premium e carregar</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -10068,15 +10070,15 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Show TransDetailDlg</source>
-        <translation type="unfinished"/>
+        <translation>Ver detalhes</translation>
     </message>
     <message>
         <source>Upgrade SVIP, cloud space can upload file %1 at most, you can have %2 at most</source>
-        <translation type="unfinished"/>
+        <translation>Atualize para a versão Premium para carregar ficheiros até %1 GB e usufruir de espaço na Cloud até %2 GB</translation>
     </message>
     <message>
         <source>Manage cloud storage space</source>
-        <translation type="unfinished"/>
+        <translation>Gerir espaço de armazenamento na cloud</translation>
     </message>
     <message>
         <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
@@ -10091,11 +10093,11 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KMessageConfigMgr</name>
     <message>
         <source>Docer Member</source>
-        <translation type="unfinished"/>
+        <translation>Membro do Docer</translation>
     </message>
     <message>
         <source>WPS Member</source>
-        <translation type="unfinished"/>
+        <translation>Membro do WPS</translation>
     </message>
 </context>
 <context>
@@ -10450,35 +10452,35 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KWpsboxCacheManager</name>
     <message>
         <source>WPS File Radar</source>
-        <translation type="unfinished"/>
+        <translation>Radar de ficheiros do WPS</translation>
     </message>
     <message>
         <source>receive [$user$]&apos;s share</source>
-        <translation type="unfinished"/>
+        <translation>Partilha de [$user$] recebida</translation>
     </message>
     <message>
         <source>WPS Office Box</source>
-        <translation type="unfinished"/>
+        <translation>Caixa do WPS Office</translation>
     </message>
     <message>
         <source>Updated doc</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiro atualizado.</translation>
     </message>
     <message>
         <source>Created doc</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiro criado.</translation>
     </message>
     <message>
         <source>WPS Team File</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiro de equipa do WPS</translation>
     </message>
     <message>
         <source>WPS Share File</source>
-        <translation type="unfinished"/>
+        <translation>WPS - Gerir partilha</translation>
     </message>
     <message>
         <source>Created link</source>
-        <translation type="unfinished"/>
+        <translation>Ligação criada.</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -10489,7 +10491,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KSyncFolderExpiredWidget</name>
     <message>
         <source>Your super member has expired, the folder synchronization function has been suspended, the changes in the folder will stop updating to the cloud, please continue to use after renewal</source>
-        <translation type="unfinished"/>
+        <translation>A sua subscrição do Super Premium expirou e a funcionalidade de sincronização desta pasta foi suspensa. As alterações de dados na pasta não serão atualizadas para a Cloud. Renove a subscrição para continuar.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10497,11 +10499,11 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Renewal</source>
-        <translation type="unfinished"/>
+        <translation>Renovação</translation>
     </message>
     <message>
         <source>The ability to synchronize multiple folders has expired</source>
-        <translation type="unfinished"/>
+        <translation>A funcionalidade de sincronização de várias pastas expirou.</translation>
     </message>
 </context>
 <context>
@@ -10573,11 +10575,11 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KPayGuideStyleMessageBoxWidget</name>
     <message>
         <source>I knew it</source>
-        <translation type="unfinished"/>
+        <translation>Já sabia</translation>
     </message>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>Serviço WPS Cloud</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10585,11 +10587,11 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Sync folder limit reached</source>
-        <translation type="unfinished"/>
+        <translation>Foram configuradas %1 pastas de sincronização. Só é possível selecionar mais %2.</translation>
     </message>
     <message>
         <source>The number of synchronizations has exceeded 5 limits</source>
-        <translation type="unfinished"/>
+        <translation>O número de sincronizações excede o limite de 5.</translation>
     </message>
 </context>
 <context>
@@ -10800,7 +10802,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KExternalLinkManager</name>
     <message>
         <source>Shared file dose not exist</source>
-        <translation type="unfinished"/>
+        <translation>O ficheiro partilhado não existe.</translation>
     </message>
 </context>
 <context>
@@ -10961,29 +10963,29 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>WpsboxCommomHeadWidget</name>
     <message>
         <source>WPS office assist</source>
-        <translation type="unfinished"/>
+        <translation>Assistente do WPS Office</translation>
     </message>
 </context>
 <context>
     <name>WpsboxHeadWidget</name>
     <message>
         <source>WPS office assist</source>
-        <translation type="unfinished"/>
+        <translation>Assistente do WPS Office</translation>
     </message>
 </context>
 <context>
     <name>KWpsScrollTabWidget</name>
     <message>
         <source>Office Assistant Mini</source>
-        <translation type="unfinished"/>
+        <translation>Miniassistente do Office</translation>
     </message>
     <message>
         <source>Basic Settings</source>
-        <translation type="unfinished"/>
+        <translation>Definições básicas</translation>
     </message>
     <message>
         <source>Office Assistant</source>
-        <translation type="unfinished"/>
+        <translation>Assistente do Office</translation>
     </message>
     <message>
         <source>Cloud Sync</source>
@@ -10991,52 +10993,52 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Quick Share</source>
-        <translation type="unfinished"/>
+        <translation>Partilha rápida</translation>
     </message>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KSetAutoUpdateFolderTipDlg</name>
     <message>
         <source>Set to auto update</source>
-        <translation type="unfinished"/>
+        <translation>Definir como Atualização automática</translation>
     </message>
     <message>
         <source>When the folder is set to update automatically, the file will be updated in real time</source>
-        <translation type="unfinished"/>
+        <translation>Quando a pasta está definida para ser atualizada automaticamente, os ficheiros são atualizados em tempo real e transferidos para o computador atual.</translation>
     </message>
     <message>
         <source>Sync Manager</source>
-        <translation type="unfinished"/>
+        <translation>Gerir sincronização</translation>
     </message>
     <message>
         <source>You can go to the </source>
-        <translation type="unfinished"/>
+        <translation>Pode aceder a </translation>
     </message>
     <message>
         <source>, Manage all automatically updated cloud disk folders</source>
-        <translation type="unfinished"/>
+        <translation>, efetue a gestão de pastas de armazenamento na Cloud atualizadas automaticamente</translation>
     </message>
     <message>
         <source>Not for the time being</source>
-        <translation type="unfinished"/>
+        <translation>Agora não</translation>
     </message>
 </context>
 <context>
     <name>KSyncFolderWidgetMgr</name>
     <message>
         <source>cloud sync folder settings</source>
-        <translation type="unfinished"/>
+        <translation>Definições da pasta de sincronização</translation>
     </message>
 </context>
 <context>
     <name>KPayGuideWidget</name>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>Serviço WPS Cloud</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11051,7 +11053,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KPrivateFolderCommonWebDlg</name>
     <message>
         <source>WPS cloud service</source>
-        <translation type="unfinished"/>
+        <translation>Serviço WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -11179,7 +11181,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KAddSyncFolderDlg</name>
     <message>
         <source>WPS - New Share Folder</source>
-        <translation type="unfinished"/>
+        <translation>WPS - Sincronizar pasta</translation>
     </message>
 </context>
 <context>
@@ -11197,7 +11199,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KTrayBottomWidget</name>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Recente</translation>
     </message>
 </context>
 <context>
@@ -11215,15 +11217,15 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KOfficeAssistantMiniPageWidget</name>
     <message>
         <source>WPS Office Assistant Mini provides document search, rapid creation and other capabilities, which can be attached to the edge of the screen and appear when you need it. It is recommended to enable autorun.</source>
-        <translation type="unfinished"/>
+        <translation>O Miniassistente do WPS Office permite-lhe ver e procurar facilmente os documentos mais recentes, criar rapidamente documentos e utilizar outras funcionalidades. Pode ser afixado à extremidade do ecrã e aparecer quando for necessário. Recomendamos que ative o início automático.</translation>
     </message>
     <message>
         <source>Run the office assistant mini automatically when boot up</source>
-        <translation type="unfinished"/>
+        <translation>Executar automaticamente o Miniassistente do Office ao iniciar</translation>
     </message>
     <message>
         <source>Lightweight, convenient and worry-free WPS Office Assistant Mini is very happy to serve you!</source>
-        <translation type="unfinished"/>
+        <translation>O Miniassistente do WPS Office simples, útil e seguro tem todo o prazer em dar-lhe a ajuda de que precisa.</translation>
     </message>
 </context>
 <context>
@@ -11275,7 +11277,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KFlickerWidget</name>
     <message>
         <source>&amp;Message Flick</source>
-        <translation type="unfinished"/>
+        <translation>Aviso de mensagem intermitente</translation>
     </message>
 </context>
 <context>
@@ -11311,7 +11313,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KCustomCacheHelper</name>
     <message>
         <source>New path can not be local sync folder or sub folder</source>
-        <translation type="unfinished"/>
+        <translation>A pasta selecionada foi definida como pasta de sincronização e não pode ser alterada para cache do disco de rede. Volte a selecionar.</translation>
     </message>
     <message>
         <source>Select Location</source>
@@ -11334,19 +11336,19 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Are you sure to cancel sync to local path?</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar para cancelar a sincronização num caminho local?</translation>
     </message>
     <message>
         <source>Open sync folder</source>
-        <translation type="unfinished"/>
+        <translation>Ver pasta de sincronização</translation>
     </message>
     <message>
         <source>Sync folder has been set</source>
-        <translation type="unfinished"/>
+        <translation>A pasta de sincronização foi adicionada com êxito.</translation>
     </message>
     <message>
         <source>The local and cloud folders will be synchronized, and you can access this folder on other devices</source>
-        <translation type="unfinished"/>
+        <translation>As pastas locais e na Cloud serão sincronizadas e pode aceder a esta pasta noutros dispositivos.</translation>
     </message>
 </context>
 <context>
@@ -11367,22 +11369,22 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>FeedBackWidget</name>
     <message>
         <source>Always send as a file, no more sending options</source>
-        <translation type="unfinished"/>
+        <translation>Enviar sempre como um ficheiro, nenhuma outra opção de envio</translation>
     </message>
     <message>
         <source>WPS send type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo de envio do WPS</translation>
     </message>
     <message>
         <source>Feedback other questions or suggestions</source>
-        <translation type="unfinished"/>
+        <translation>Outros comentários ou sugestões</translation>
     </message>
 </context>
 <context>
     <name>KRoamingRecordThreadItem</name>
     <message>
         <source>create roaming task failed.</source>
-        <translation type="unfinished"/>
+        <translation>falha ao criar tarefa de roaming.</translation>
     </message>
 </context>
 <context>
@@ -11445,7 +11447,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KTrayClipboardTopWidget</name>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"/>
+        <translation>Em Pausa</translation>
     </message>
     <message>
         <source>Record</source>
@@ -11464,7 +11466,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>Operation failed. Please try again</source>
-        <translation type="unfinished"/>
+        <translation>Falha na operação. Tente novamente mais tarde.</translation>
     </message>
     <message>
         <source>Loading...</source>
@@ -11490,7 +11492,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KOtherCloudTransTabWidget</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>carregar</translation>
     </message>
     <message>
         <source>Download</source>
@@ -11501,7 +11503,7 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     <name>KSpaceFullEarlyWarningBubbleEnterprise</name>
     <message>
         <source>WPS Cloud space has been less than %1</source>
-        <translation type="unfinished"/>
+        <translation>O espaço no WPS Cloud tem sido inferior a %1</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -11509,18 +11511,18 @@ Verifica a sua instalação do Gstreamer e certifique-se de que você tem instal
     </message>
     <message>
         <source>If Cloudspace is not enough, you might fail to view cloud files on other devices. To enlarge space, please contact your admin or %1WPS Customer Service%2.</source>
-        <translation type="unfinished"/>
+        <translation>A falta de espaço de armazenamento na Cloud resulta na falha da visualização de documentos da Cloud em vários dispositivos. Se tiver de expandir a capacidade de armazenamento, contacte o administrador da empresa ou contacte o %1Suporte ao cliente do WPS%2.</translation>
     </message>
 </context>
 <context>
     <name>KCloudItemsSaveAsDlg</name>
     <message>
         <source>SaveAs file succeed</source>
-        <translation type="unfinished"/>
+        <translation>Os ficheiros foram guardados com êxito.</translation>
     </message>
     <message>
         <source>Save As:</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como:</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -11585,22 +11587,22 @@ Hora de atualização: %1</translation>
     </message>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"/>
+        <translation>Ver tudo</translation>
     </message>
 </context>
 <context>
     <name>syncenter::KFilesCacheManager</name>
     <message>
         <source>QQ backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança do QQ</translation>
     </message>
     <message>
         <source>download backup</source>
-        <translation type="unfinished"/>
+        <translation>cópia de segurança das transferências</translation>
     </message>
     <message>
         <source>desktop backup</source>
-        <translation type="unfinished"/>
+        <translation>Cópia de segurança do computador</translation>
     </message>
 </context>
 <context>
@@ -11632,48 +11634,48 @@ Hora de atualização: %1</translation>
     <name>WpsboxCommomSuccessTipDlg</name>
     <message>
         <source>got it</source>
-        <translation type="unfinished"/>
+        <translation>OK.</translation>
     </message>
     <message>
         <source>Say two words to me</source>
-        <translation type="unfinished"/>
+        <translation>Dizer-me algo</translation>
     </message>
 </context>
 <context>
     <name>KDesktopGuideWidget</name>
     <message>
         <source>quickly accessed from the desktop</source>
-        <translation type="unfinished"/>
+        <translation>acedida rapidamente a partir do computador</translation>
     </message>
     <message>
         <source>WPS Desktop Assistant</source>
-        <translation type="unfinished"/>
+        <translation>Assistente do WPS para computador</translation>
     </message>
     <message>
         <source>folderpath:</source>
-        <translation type="unfinished"/>
+        <translation>Caminho da pasta:</translation>
     </message>
     <message>
         <source>The folder is mapped to the desktop and can be quickly accessed from the desktop</source>
-        <translation type="unfinished"/>
+        <translation>A pasta será mapeada para o computador e pode ser acedida rapidamente a partir do computador.</translation>
     </message>
 </context>
 <context>
     <name>KUploadLimitBubbleP5</name>
     <message>
         <source>Promote limit to %1</source>
-        <translation type="unfinished"/>
+        <translation>Aumentar o limite para %1</translation>
     </message>
     <message>
         <source>file size exceed %1 limit, promote to continue upload</source>
-        <translation type="unfinished"/>
+        <translation>O tamanho do ficheiro excede o limite de %1. Aumente o limite do tamanho do ficheiro para continuar a carregar.</translation>
     </message>
 </context>
 <context>
     <name>KUploadLimitBubbleP6</name>
     <message>
         <source>Promote limit to %1</source>
-        <translation type="unfinished"/>
+        <translation>Aumentar o limite para %1</translation>
     </message>
 </context>
 <context>
@@ -11744,11 +11746,11 @@ Hora de atualização: %1</translation>
     <name>KSyncFolderSameNameFileExistWidget</name>
     <message>
         <source>The synchronization folder cannot be set due to the existence of this file. Please delete this file and try again</source>
-        <translation type="unfinished"/>
+        <translation>A pasta de sincronização não pode ser definida devido à existência deste ficheiro. Elimine este ficheiro e volte a tentar.</translation>
     </message>
     <message>
         <source>view file</source>
-        <translation type="unfinished"/>
+        <translation>ver ficheiro</translation>
     </message>
 </context>
 <context>
@@ -11759,7 +11761,7 @@ Hora de atualização: %1</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha no carregamento</translation>
     </message>
 </context>
 <context>
@@ -11796,32 +11798,32 @@ Hora de atualização: %1</translation>
     <name>KIntroCloudSyncWidget</name>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>Os meus documentos na Cloud</translation>
     </message>
 </context>
 <context>
     <name>KSpaceFullUsageRemindBubble</name>
     <message>
         <source>Space Full</source>
-        <translation type="unfinished"/>
+        <translation>Sem espaço</translation>
     </message>
 </context>
 <context>
     <name>KUploadWechatFileWidget</name>
     <message>
         <source>upload wechat file</source>
-        <translation type="unfinished"/>
+        <translation>carregar ficheiro do WeChat</translation>
     </message>
 </context>
 <context>
     <name>KCustomerServiceWidget</name>
     <message>
         <source>WPS customer service</source>
-        <translation type="unfinished"/>
+        <translation>Suporte ao cliente do WPS.</translation>
     </message>
     <message>
         <source>Scan the code to follow for exclusive services Customer service hotline:</source>
-        <translation type="unfinished"/>
+        <translation>Leia o código QR para nos seguir e obter serviços exclusivos &lt;br&gt;Linha direta do suporte ao cliente:</translation>
     </message>
 </context>
 <context>
@@ -11835,7 +11837,7 @@ Hora de atualização: %1</translation>
     <name>KDesktopSyncMgr</name>
     <message>
         <source>Desktop cloud synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Sincronização do ambiente de trabalho na cloud</translation>
     </message>
 </context>
 <context>
@@ -11846,14 +11848,14 @@ Hora de atualização: %1</translation>
     </message>
     <message>
         <source>Change Path</source>
-        <translation type="unfinished"/>
+        <translation>Alterar caminho</translation>
     </message>
 </context>
 <context>
     <name>KEasyRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Recomendado</translation>
     </message>
 </context>
 <context>
@@ -11888,21 +11890,21 @@ Hora de atualização: %1</translation>
     <name>KWeekRemindTipWidget</name>
     <message>
         <source>Open it then the office assistant will only appear and remind you when important messages such as &quot;Your account is registered on a strange device&quot;, &quot;Someone@you&quot;, &quot;Schedule&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Depois de ativar esta funcionalidade, o assistente do Office só irá aparecer e apresentar-lhe lembretes quando surgirem mensagens importantes, como &quot;A sua conta tem sessão iniciada num dispositivo desconhecido&quot;, &quot;alguem@utilizador&quot; e &quot;Agenda&quot;.</translation>
     </message>
 </context>
 <context>
     <name>KMessageManager</name>
     <message>
         <source>WPS Office Box</source>
-        <translation type="unfinished"/>
+        <translation>Caixa do WPS Office</translation>
     </message>
 </context>
 <context>
     <name>KSyncFolderObj</name>
     <message>
         <source>desktop</source>
-        <translation type="unfinished"/>
+        <translation>computador</translation>
     </message>
 </context>
 <context>
@@ -11942,11 +11944,11 @@ Hora de atualização: %1</translation>
     <name>afterlogin::topcactivity::KActivityToastWidget</name>
     <message>
         <source>Gifts for new users have been sent to your account. Thank you for your support to WPS Office!</source>
-        <translation type="unfinished"/>
+        <translation>Os presentes para novos utilizadores foram enviados para a sua conta. Obrigado pelo seu apoio do WPS Office!</translation>
     </message>
     <message>
         <source>Claimed Successfully</source>
-        <translation type="unfinished"/>
+        <translation>Resgatado com êxito</translation>
     </message>
 </context>
 <context>
@@ -11992,15 +11994,15 @@ Hora de atualização: %1</translation>
     <name>KPermissionDeniedBubble</name>
     <message>
         <source>Failed to open %1</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao abrir %1</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to view the document. Please sign in with the WPS Docs account you signed in on the website and open it again.</source>
-        <translation type="unfinished"/>
+        <translation>Não tem permissões para ver o documento. Inicie sessão com a conta WPS Docs com que iniciou sessão no website e abra-o novamente.</translation>
     </message>
     <message>
         <source>View the WPS Docs account: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ver a conta WPS Docs: %1</translation>
     </message>
 </context>
 <context>
@@ -12021,28 +12023,28 @@ Hora de atualização: %1</translation>
     <name>KRecommendPaneWidget</name>
     <message>
         <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KCloudDiskPopupMgr</name>
     <message>
         <source>WPS cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KPopupWidgetBase</name>
     <message>
         <source>WPS cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Disco do WPS Cloud</translation>
     </message>
 </context>
 <context>
     <name>KTransTaskManager</name>
     <message>
         <source>File name cannot exceed 240 characters</source>
-        <translation type="unfinished"/>
+        <translation>O nome de ficheiro não pode ter mais de 240 carateres</translation>
     </message>
 </context>
 <context>
@@ -12063,7 +12065,7 @@ Hora de atualização: %1</translation>
     <name>KAuthorizeBaseDlg</name>
     <message>
         <source>Trusted device setting</source>
-        <translation type="unfinished"/>
+        <translation>Definir dispositivos fidedignos</translation>
     </message>
 </context>
 <context>
@@ -12084,7 +12086,7 @@ Hora de atualização: %1</translation>
     <name>KCloudServicesWidget</name>
     <message>
         <source>Cloud Services</source>
-        <translation type="unfinished"/>
+        <translation>Serviços Cloud</translation>
     </message>
 </context>
 <context>
@@ -12882,11 +12884,11 @@ Espaço Livre: cerca de %1 MB</translation>
     </message>
     <message>
         <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao criar atalho do ficheiro do WPS Cloud!</translation>
     </message>
     <message>
         <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation type="unfinished"/>
+        <translation>O atalho do ficheiro do WPS Cloud foi criado, pode encontrá-lo no ambiente de trabalho</translation>
     </message>
 </context>
 <context>
@@ -12969,15 +12971,15 @@ Espaço Livre: cerca de %1 MB</translation>
     <name>KUploadFileGuideDlg</name>
     <message>
         <source>Account had been logouted, uploading has been canceled</source>
-        <translation type="unfinished"/>
+        <translation>A sessão tinha sido terminada na conta; o carregamento foi cancelado</translation>
     </message>
     <message>
         <source>selected files have been in cloud</source>
-        <translation type="unfinished"/>
+        <translation>os ficheiros selecionados estão na cloud</translation>
     </message>
     <message>
         <source>Account had been logouted</source>
-        <translation type="unfinished"/>
+        <translation>A sessão tinha sido terminada na conta</translation>
     </message>
 </context>
 <context>
