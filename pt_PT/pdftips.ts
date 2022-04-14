@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation>End</translation>
+        <translation>Seta de fim</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
@@ -79,19 +79,23 @@
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Aumentar o tamanho do tipo de letra</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation>PdfInvoiceAssist</translation>
+        <translation>Assistente de faturas</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
         <translation>Realçar e comentar</translation>
     </message>
     <message>
+        <source>setpagesizeTip.content</source>
+        <translation>setpagesizeTip</translation>
+    </message>
+    <message>
         <source>Superscript.title</source>
-        <translation>Superior à linha</translation>
+        <translation>Sobrescrito</translation>
     </message>
     <message>
         <source>Replace.title</source>
@@ -111,7 +115,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Rodar a imagem num ângulo específico</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
@@ -127,7 +131,7 @@
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation>Inferior à linha</translation>
+        <translation>Subscrito</translation>
     </message>
     <message>
         <source>Search.title</source>
@@ -140,6 +144,10 @@
     <message>
         <source>FloatClose.title</source>
         <translation>Fechar Barra de Ferramentas</translation>
+    </message>
+    <message>
+        <source>ScanEdit.title</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
@@ -199,7 +207,7 @@
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation>CADTOPdf</translation>
+        <translation>Converter ficheiros CAD em ficheiros PDF</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
@@ -211,9 +219,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Sublinhar o texto selecionado.
-
-Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
+        <translation>Sublinhado</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
@@ -289,7 +295,7 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation>Espaçamento entre Linhas</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
@@ -341,7 +347,7 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation>ClearFormat</translation>
+        <translation>Limpar formatos</translation>
     </message>
     <message>
         <source>Shape.content</source>
@@ -408,6 +414,10 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
         <translation>Aumentar Tipo de Letra</translation>
     </message>
     <message>
+        <source>AlignJustify.content</source>
+        <translation>Distribua uniformemente o texto entre as margens.</translation>
+    </message>
+    <message>
         <source>InsertPagesFromDoc.content</source>
         <translation>Inserir páginas selecionadas do documento na posição especificada.</translation>
     </message>
@@ -469,11 +479,11 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation>PdfSignatureEmbedBatch</translation>
+        <translation>Incorporação em lote no documento</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation>End</translation>
+        <translation>Seta de fim</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
@@ -509,7 +519,7 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation>TextBold</translation>
+        <translation>Aplicar negrito ao texto selecionado</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
@@ -537,7 +547,7 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation>TextUnderline</translation>
+        <translation>Sublinhar o texto selecionado</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
@@ -565,7 +575,7 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Rodar a imagem num ângulo específico</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
@@ -601,7 +611,7 @@ Clique na seta para selecionar estilos de sublinhado diferentes.</translation>
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation>FormatBrush</translation>
+        <translation>Pincel de formatação</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
@@ -715,7 +725,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copy Images</translation>
+        <translation>Copiar como imagem</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -735,9 +745,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Alterar a cor do texto.
-
-Clique na seta para escolher uma cor de texto diferente.</translation>
+        <translation>Cor do Tipo de Letra</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
@@ -785,7 +793,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation>Tradução de texto completo</translation>
+        <translation>Traduzir todo o texto</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
@@ -801,7 +809,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation>Criar letras minúsculas abaixo da linha de base do texto.</translation>
+        <translation>Subscrito</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
@@ -821,7 +829,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Falar</translation>
     </message>
     <message>
         <source>Circle.title</source>
@@ -833,11 +841,11 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation>Squiggly Underline</translation>
+        <translation>linha ondulada</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation>PdfElectronicInvoicePrint</translation>
+        <translation>Impressão de faturas</translation>
     </message>
     <message>
         <source>FreeText.content</source>
@@ -849,7 +857,11 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation>Cor de Realce do Texto</translation>
+        <translation>Realçar</translation>
+    </message>
+    <message>
+        <source>TableRegonize.content</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
@@ -877,7 +889,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Exportar Imagem Weibo</translation>
+        <translation>Saída como imagem</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
@@ -910,6 +922,10 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     <message>
         <source>PdfImageReplace.title</source>
         <translation>Substituir</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.title</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
@@ -961,7 +977,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation>Traduza texto de forma precisa e rápida, mantendo o esquema original do documento.</translation>
+        <translation>DocTranslate</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
@@ -1033,7 +1049,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation>Squiggly Underline</translation>
+        <translation>linha ondulada</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
@@ -1157,11 +1173,15 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation>TextItalic</translation>
+        <translation>Aplicar itálico ao texto selecionado</translation>
     </message>
     <message>
         <source>Line Style.content</source>
         <translation>Estilo de Linha</translation>
+    </message>
+    <message>
+        <source>TableRegonize.title</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
@@ -1229,7 +1249,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation>TextUnderline</translation>
+        <translation>Sublinhado</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
@@ -1281,7 +1301,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>WaterMark.title</source>
-        <translation>Marca de Água</translation>
+        <translation>Marca d&apos;água</translation>
     </message>
     <message>
         <source>Recommended PictureToText.content</source>
@@ -1300,12 +1320,16 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
         <translation>Avanço da Primeira Linha</translation>
     </message>
     <message>
+        <source>EditTextInPicture.content</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>NavigateForward.title</source>
         <translation>Navegar para a Frente</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation>Inserir formas prontas a utilizar, tais como linhas, retângulos, símbolos de fluxogramas e balões.</translation>
+        <translation>Inserir linha, seta, retângulo, etc.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
@@ -1325,7 +1349,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation>PdfImageOcrExtract</translation>
+        <translation>Extrair texto da imagem</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
@@ -1333,7 +1357,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation>ImageEditDelete</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
@@ -1365,7 +1389,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation>TranslationSelectPdf</translation>
+        <translation>Traduzir palavras selecionadas</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
@@ -1373,7 +1397,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Aumentar o nível de avanço do parágrafo</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
@@ -1429,7 +1453,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation>Exportar Fotografia para PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
@@ -1437,7 +1461,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation>Criar letras minúsculas acima da linha de texto.</translation>
+        <translation>Sobrescrito</translation>
     </message>
     <message>
         <source>Arrow.title</source>
@@ -1449,7 +1473,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Diminuir o nível de avanço do parágrafo</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
@@ -1481,15 +1505,23 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation>PdfSignatureDeleteBatch</translation>
+        <translation>Eliminação em lote</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
         <translation>Cor de Preenchimento</translation>
     </message>
     <message>
+        <source>PdfPhotoedit2.content</source>
+        <translation>PdfPhotoedit2</translation>
+    </message>
+    <message>
         <source>OCRExtractText.title</source>
-        <translation>OCRExtractText</translation>
+        <translation>Extrair texto</translation>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.title</source>
+        <translation>PdfPhotoedit2</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
@@ -1502,6 +1534,10 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     <message>
         <source>ShapeFillColor.title</source>
         <translation>Cor de Preenchimento</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.title</source>
+        <translation>Localizar e Substituir</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
@@ -1581,7 +1617,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Pode transformar o texto  em voz falada. Você tem trilha de dois dias.</translation>
+        <translation>TextSpeech</translation>
     </message>
     <message>
         <source>InsertBorder.content</source>
@@ -1597,7 +1633,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation>Exportar Fotografia para PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
@@ -1629,7 +1665,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation>TextBold</translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
@@ -1672,6 +1708,10 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
         <translation>Selecionar texto ou imagens a copiar.</translation>
     </message>
     <message>
+        <source>EditTextInPicture.title</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>PDFMeasureScale.content</source>
         <translation>Proporção da Escala</translation>
     </message>
@@ -1689,7 +1729,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Aumentar tipo de letra</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
@@ -1750,11 +1790,15 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copy Images</translation>
+        <translation>Copiar a seleção atual como uma imagem</translation>
     </message>
     <message>
         <source>NextPage.title</source>
         <translation>Página Seguinte</translation>
+    </message>
+    <message>
+        <source>ScanEdit.content</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
@@ -1842,11 +1886,11 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Diminuir avanço</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Exportar Imagem Weibo</translation>
+        <translation>ExportWeiboImageCmd</translation>
     </message>
     <message>
         <source>Open.content</source>
@@ -1866,7 +1910,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation>TextItalic</translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
@@ -1887,6 +1931,10 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     <message>
         <source>InsertPages.title</source>
         <translation>Inserir Páginas</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.content</source>
+        <translation>Localizar e Substituir</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
@@ -1966,7 +2014,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Aumentar avanço</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
@@ -1986,7 +2034,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Centrar o texto na vertical e na horizontal dentro da célula.</translation>
+        <translation>Alinhar ao Centro</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
@@ -2038,9 +2086,7 @@ Clique na seta para escolher uma cor de texto diferente.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Localizar texto no documento.
-
-Clique na seta para escolher outras opções, tal como Ir Para.</translation>
+        <translation>Localizar texto</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
@@ -2068,7 +2114,7 @@ Clique na seta para escolher outras opções, tal como Ir Para.</translation>
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation>CADTOPdf</translation>
+        <translation>CAD em PDF</translation>
     </message>
     <message>
         <source>NoteBorder.title</source>
@@ -2092,7 +2138,7 @@ Clique na seta para escolher outras opções, tal como Ir Para.</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation>Alterar o espaçamento entre linhas de texto.</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
@@ -2112,7 +2158,11 @@ Clique na seta para escolher outras opções, tal como Ir Para.</translation>
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation>ImageExtractTip</translation>
+        <translation>Extrair imagem</translation>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
@@ -2140,13 +2190,11 @@ Clique na seta para escolher outras opções, tal como Ir Para.</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation>Inserir texto fantasma e imagem por trás do conteúdo na página.
-
-Normalmente, indica que o documento será tratado de forma especial como, por exemplo, Encriptado, Confidencial ou Não Copiar, ou para marcar a origem do documento, como a adição de logótipos de direitos de autor e informações do autor.</translation>
+        <translation>Marca d&apos;água</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Correção de documento</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
@@ -2166,7 +2214,7 @@ Normalmente, indica que o documento será tratado de forma especial como, por ex
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Substituir conteúdo de texto no documento.</translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
@@ -2198,7 +2246,7 @@ Normalmente, indica que o documento será tratado de forma especial como, por ex
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation>PDFTOCad</translation>
+        <translation>PDF em CAD</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
@@ -2214,9 +2262,7 @@ Normalmente, indica que o documento será tratado de forma especial como, por ex
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation>Fazer com que o texto pareça ter sido realçado com um marcador.
-
-Clique na seta para selecionar uma cor de realce diferente.</translation>
+        <translation>HighlightColor</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
