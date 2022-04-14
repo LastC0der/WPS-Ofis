@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>PictureDesign.title</source>
-        <translation>Picture Design</translation>
+        <translation>Conception d&apos;image</translation>
     </message>
     <message>
         <source>SpeedLayout.title</source>
@@ -15,9 +15,9 @@
     </message>
     <message>
         <source>ChartCombination.content</source>
-        <translation>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
+        <translation>Utiliser ce type de graphique pour mettre en évidence différent types d&apos;informations, lorsque la plage de valeurs du graphique varie beaucoup ou lorsque les types de données sont mélangés.
 
-Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</translation>
+Cliquez sur la flèche pour afficher différents graphiques combinés prédéfinis, et faire glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document. Cliquez sur Créer un graphique combiné personnalisé pour choisir différents types de graphiques à combiner.</translation>
     </message>
     <message>
         <source>CloseWindow.content</source>
@@ -53,9 +53,9 @@ Click the arrow to see pre-set combo charts and pause over the icons to see a pr
     </message>
     <message>
         <source>ChartScatter.content</source>
-        <translation>Use this chart type to show the relationship between sets of values.
+        <translation>Utilisez ce type de graphique pour montrer les relations entre des ensembles de valeurs.
 
-Click the arrow to see the different types of scatter charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Cliquez sur la flèche pour voir les différents types de graphiques à nuage de points disponibles.</translation>
     </message>
     <message>
         <source>OneStepSaveTip.title</source>
@@ -67,19 +67,19 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>TextboxBeautify.title</source>
-        <translation>One-click quick typesetting</translation>
+        <translation>Composition rapide d&apos;un seul clic</translation>
     </message>
     <message>
         <source>PictureDesign.content</source>
-        <translation>Easy to design a picture by dragging within 3 minute.</translation>
+        <translation>Élaborez une image en 3 minutes à l&apos;aide d&apos;opérations de glissement simples.</translation>
     </message>
     <message>
         <source>ChartBubble.title</source>
-        <translation>Insert Bubble Chart</translation>
+        <translation>Insérer un graphique à bulles</translation>
     </message>
     <message>
         <source>InsertBarcode.title</source>
-        <translation>Barcode</translation>
+        <translation>Code-barres</translation>
     </message>
     <message>
         <source>WordArtSize.title</source>
@@ -91,7 +91,7 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation>ScreenGrab</translation>
+        <translation>Capture d&apos;écran</translation>
     </message>
     <message>
         <source>BringForward.title</source>
@@ -99,7 +99,7 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>RunJSMacro.content</source>
-        <translation>View the list of JS macros, from which you can run, create, or delete a JS macro.</translation>
+        <translation>La boîte de dialogue Macro JS s&apos;ouvre. Affichez la liste des macros JS, à partir de laquelle vous pouvez exécuter, créer ou supprimer une macro JS.</translation>
     </message>
     <message>
         <source>ChartLine.title</source>
@@ -119,7 +119,11 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>JavaScriptEditor.content</source>
-        <translation>Launch WPS JavaScript Editor, and edit Macros.</translation>
+        <translation>Lancez l&apos;éditeur de macros WPS et modifiez des macros.</translation>
+    </message>
+    <message>
+        <source>InkDrawEraser.title</source>
+        <translation>Gomme</translation>
     </message>
     <message>
         <source>ShapeHeight.title</source>
@@ -145,7 +149,7 @@ Cliquez sur la flèche pour remplir l&apos;objet WordArt de différentes manièr
     </message>
     <message>
         <source>FontName.content</source>
-        <translation>Définir des polices différentes</translation>
+        <translation>Modifie le type de police.</translation>
     </message>
     <message>
         <source>DonateMoney.content</source>
@@ -161,9 +165,9 @@ Cliquez sur la flèche pour remplir l&apos;objet WordArt de différentes manièr
     </message>
     <message>
         <source>ChartLine.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories.
+        <translation>Utiliser ce type de graphique pour afficher des tendances dans le temps (années, mois et jours) ou des catégories.
 
-Click the arrow to see the different types of line charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Cliquez sur la flèche pour voir les différents types de graphiques en courbes disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message>
         <source>TriggerExtendObject.title</source>
@@ -211,7 +215,7 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>OnlineIcons.content</source>
-        <translation>Icon ResourceShop is powerful and full of different icons, which are compatible with all documents.</translation>
+        <translation>La puissante bibliothèque d&apos;icônes vectorielles fournit diverses icônes compatibles avec tous les documents WPS.</translation>
     </message>
     <message>
         <source>InsertMap.content</source>
@@ -231,19 +235,19 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>EquationDelimiterGallery.content</source>
-        <translation>Add a delimiter to the equation.</translation>
+        <translation>Ajoutez un délimiteur à l&apos;équation.</translation>
     </message>
     <message>
         <source>ChartPie.content</source>
-        <translation>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
+        <translation>Utiliser ce type de graphique pour afficher les proportions d&apos;un tout, ou un total égal à 100 %.
 
-Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Cliquez sur la flèche pour voir les différents types de graphiques à secteurs et en anneau disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message>
         <source>ChartBar.content</source>
-        <translation>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
+        <translation>Utiliser ce type de graphique pour comparer visuellement les valeurs de plusieurs catégories, pour représenter une durée ou lorsque le texte de la catégorie est long.
 
-Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Cliquez sur la flèche pour voir les différents types de graphiques à barres disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message>
         <source>Themes.title</source>
@@ -255,7 +259,7 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation>Définissez la taille de la police</translation>
+        <translation>Modifie la taille de la police.</translation>
     </message>
     <message>
         <source>FontName.title</source>
@@ -268,6 +272,10 @@ Click the arrow to see the different types of bar charts available and pause the
     <message>
         <source>EditShape.content</source>
         <translation>Modifier la forme du dessin, la convertir en une forme libre, ou modifier les points d&apos;habillage pour déterminer le mode d&apos;habillage du texte autour du dessin.</translation>
+    </message>
+    <message>
+        <source>InkDrawNiteWriterPen.title</source>
+        <translation>Surligneur</translation>
     </message>
     <message>
         <source>KOSDocShare.content</source>
@@ -318,16 +326,20 @@ Click the arrow to see the different types of bar charts available and pause the
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawColorGallery2.content</source>
+        <translation>Click arrow to set custom color.</translation>
+    </message>
+    <message>
         <source>ExportToPDF.title</source>
-        <translation>ExportToPDF</translation>
+        <translation>Exporter au format PDF</translation>
     </message>
     <message>
         <source>OnlineFonts.title</source>
-        <translation>Cloud Font</translation>
+        <translation>Polices en ligne</translation>
     </message>
     <message>
         <source>OnlineIcons.title</source>
-        <translation>Online Icons</translation>
+        <translation>Icône Insérer</translation>
     </message>
     <message>
         <source>Auto_Backup.title</source>
@@ -343,9 +355,9 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>ChartArea.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
+        <translation>Utiliser ce type de graphique pour voir des tendances dans le temps (années, mois et jours) ou des catégories. Utilisez-le pour mettre en évidence l&apos;ampleur d&apos;un changement dans le temps.
 
-Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Cliquez sur la flèche pour voir les différents types de graphiques en aires disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de votre document.</translation>
     </message>
     <message>
         <source>DonateMoney.title</source>
@@ -357,7 +369,7 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation>ChartGallery_pro.content</translation>
+        <translation>Contenu de la galerie de graphiques</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.title</source>
@@ -399,11 +411,11 @@ Les données destinées à l&apos;axe X seront déplacées sur l&apos;axe Y et v
     </message>
     <message>
         <source>OnlineFonts.content</source>
-        <translation>Click for various online fonts.</translation>
+        <translation>Cliquez pour obtenir le service offrant davantage de polices en ligne.</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>Profitez de XiuTang.</translation>
     </message>
     <message>
         <source>PictureOutline2.title</source>
@@ -435,7 +447,7 @@ Les données destinées à l&apos;axe X seront déplacées sur l&apos;axe Y et v
     </message>
     <message>
         <source>DetailedSettings_PictureTools.content</source>
-        <translation>Modifie les paramètres de mise en forme d&apos;image.</translation>
+        <translation>Modifiez les paramètres de mise en forme de l&apos;image.</translation>
     </message>
     <message>
         <source>EquationDelimiterGallery.title</source>
@@ -467,11 +479,15 @@ Les données destinées à l&apos;axe X seront déplacées sur l&apos;axe Y et v
     </message>
     <message>
         <source>EquationLimitGallery.content</source>
-        <translation>Add a limit or log function to the equation.</translation>
+        <translation>Ajoutez une limite ou une fonction log à l&apos;équation.</translation>
     </message>
     <message>
         <source>ClearFormats.content</source>
         <translation>Efface complètement la mise en forme de la sélection et conserve uniquement le texte brut.</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.content</source>
+        <translation>Fermer le mode Stylo.</translation>
     </message>
     <message>
         <source>InsertSymbol.title</source>
@@ -487,11 +503,11 @@ Les données destinées à l&apos;axe X seront déplacées sur l&apos;axe Y et v
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation>Appliquez un effet d&apos;ombre et un effet 3D au graphique sélectionné.</translation>
+        <translation>Appliquez un effet visuel au graphique sélectionné, tel qu&apos;une ombre, un éclat, un reflet ou une rotation 3D.</translation>
     </message>
     <message>
         <source>WordArtOutline2.content</source>
@@ -521,11 +537,11 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs 3D.</translatio
     </message>
     <message>
         <source>Ornamentation.title</source>
-        <translation>Ornamentation</translation>
+        <translation>Décoration</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Vous fournit les modèles en ligne les plus professionnels.</translation>
     </message>
     <message>
         <source>Sentence Translation.title</source>
@@ -557,19 +573,28 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs 3D.</translatio
     </message>
     <message>
         <source>SwitchJS.content</source>
-        <translation>Switch development environment to JS language</translation>
+        <translation>Basculer l&apos;environnement de développement vers le langage JS</translation>
     </message>
     <message>
         <source>SwitchVB.content</source>
-        <translation>Switch development environment to VB language</translation>
+        <translation>Basculer l&apos;environnement de développement vers le langage VB</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.content</source>
+        <translation>Ajoutez de l&apos;encre avec les effets du stylo à bille sur la page.</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation>Italique</translation>
+        <translation>Met le texte sélectionné en italique.</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.content</source>
+        <translation>Définir des couleurs de stylo personnalisées.
+Cliquez sur la flèche pour choisir une couleur de stylo.</translation>
     </message>
     <message>
         <source>EquationInsertGallery.title</source>
-        <translation>Insert an Equation</translation>
+        <translation>Insérer une équation</translation>
     </message>
     <message>
         <source>WordArtFill2.content</source>
@@ -588,6 +613,10 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs 3D.</translatio
         <translation>Bibliothèque WordArt.</translation>
     </message>
     <message>
+        <source>InkDrawNiteWriterPen.content</source>
+        <translation>Ajoutez de l&apos;encre avec les effets du surligneur sur la page.</translation>
+    </message>
+    <message>
         <source>ClearTableStyle.content</source>
         <translation>Efface le style de tableau des cellules sélectionnées.</translation>
     </message>
@@ -596,12 +625,16 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs 3D.</translatio
         <translation>Couleurs du thème</translation>
     </message>
     <message>
+        <source>InkDrawSelectMode.title</source>
+        <translation>Sélectionner le mode</translation>
+    </message>
+    <message>
         <source>EquationScriptGallery.title</source>
         <translation>Script</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation>Barcode</translation>
+        <translation>Galerie de graphiques</translation>
     </message>
     <message>
         <source>SendBackward.title</source>
@@ -633,9 +666,9 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs 3D.</translatio
     </message>
     <message>
         <source>ChartColumn.content</source>
-        <translation>Use this chart type to visually compare values across a few categories.
+        <translation>Utiliser ce type de graphique pour comparer visuellement les valeurs de quelques catégories.
 
-Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Cliquez sur la flèche pour voir les différents types d&apos;histogrammes disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de votre document.</translation>
     </message>
     <message>
         <source>ShadowOnOff.content</source>
@@ -647,7 +680,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartStock.title</source>
-        <translation>Insert Stock Chart</translation>
+        <translation>Insérer un graphique boursier</translation>
     </message>
     <message>
         <source>WordArtQuickBarCollapse.content</source>
@@ -659,7 +692,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation>Scanner le QR code à l&apos;aide de votre téléphone mobile pour obtenir le document</translation>
+        <translation>Lisez et partagez tous vos documents lorsque vous êtes en déplacement</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.content</source>
@@ -679,7 +712,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>EquationNormalText.content</source>
-        <translation>Use non-math text in a math region.</translation>
+        <translation>Utilisez du texte non mathématique dans une zone mathématique.</translation>
     </message>
     <message>
         <source>3DTiltLeft.content</source>
@@ -707,11 +740,15 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>Ornamentation.content</source>
-        <translation>Ornamentation content</translation>
+        <translation>Des éléments de cultures traditionnelles sont intégrés à WPS par le biais de graphiques insérés, ce qui ajoute un caractère culturel plus typique à l&apos;étude, au travail et à la vie des personnes.</translation>
+    </message>
+    <message>
+        <source>InkDrawTouchToDraw.content</source>
+        <translation>Draw ink with touch.</translation>
     </message>
     <message>
         <source>EquationLargeOperatorGallery.content</source>
-        <translation>Add a large operator to the equation, such as a summation, product, union, or intersection.</translation>
+        <translation>Ajoutez un grand opérateur à l&apos;équation, tel qu&apos;une somme, un produit, une union ou une intersection.</translation>
     </message>
     <message>
         <source>WordArtSameLetterHeights.title</source>
@@ -727,7 +764,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartRadar.content</source>
-        <translation>Click the arrow to see the different types of radar charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Cliquez sur la flèche pour voir les différents types de graphiques en radar disponibles.</translation>
     </message>
     <message>
         <source>Auto_Backup_xa.title</source>
@@ -802,6 +839,10 @@ Click the arrow to see the different types of column charts available and pause 
         <translation>Les fichiers ouverts seront enregistrés sur le Cloud directement. Vous pouvez commencer votre travail sur tous les appareils.</translation>
     </message>
     <message>
+        <source>InkDrawPenGallery.content</source>
+        <translation>Dessinez avec la forme sélectionnée, telle qu&apos;une ligne, une ligne ondulée ou un rectangle. Cliquez de nouveau sur le bouton pour définir la largeur et la forme.</translation>
+    </message>
+    <message>
         <source>PictureFill.content</source>
         <translation>Remplit l&apos;objet sélectionné avec une couleur, un dégradé, un motif ou une image.
 
@@ -832,12 +873,16 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
         <translation>Ajuster l&apos;apparence de votre forme à l&apos;aide du volet Format Office de la forme.</translation>
     </message>
     <message>
+        <source>AIAssistant.content</source>
+        <translation>Intelligent analysis of user scenarios and questions,intention recognition,question and answer,provide intelligent office experience.</translation>
+    </message>
+    <message>
         <source>EquationProfessional.content</source>
-        <translation>Converts selection to 2-dimemsional form for professional display.</translation>
+        <translation>Convertit la sélection en un formulaire à deux dimensions pour un affichage professionnel.</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation>Aperçu de l&apos;image</translation>
+        <translation>Afficher l&apos;image sélectionnée dans sa taille originale ou à la taille de la fenêtre.</translation>
     </message>
     <message>
         <source>OnlineChart.content</source>
@@ -873,11 +918,11 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>ChartStock.content</source>
-        <translation>Click the arrow to see the different types of stock charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Cliquez sur la flèche pour voir les différents types de graphiques boursiers disponibles.</translation>
     </message>
     <message>
         <source>EquationLinearFormat.content</source>
-        <translation>Converts selection to a 1-dimensional form for easy editing.</translation>
+        <translation>Convertit la sélection en un formulaire à une dimension pour une modification facile.</translation>
     </message>
     <message>
         <source>ChooseDataSource.title</source>
@@ -889,7 +934,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>DocumentAuthente.content</source>
-        <translation>Once the document is certified, it will become your own document. If it is tampered with, the status of the document will be updated in real time.</translation>
+        <translation>Les fichiers certifiés sont privés et leur état sera mis à jour en temps réel en cas de falsification.</translation>
     </message>
     <message>
         <source>WordArtGallery.title</source>
@@ -906,6 +951,10 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     <message>
         <source>PictureOutline2.content</source>
         <translation>Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.title</source>
+        <translation>Smart Diagram Process</translation>
     </message>
     <message>
         <source>ChangeChartType.title</source>
@@ -999,7 +1048,7 @@ Lorsque vous cliquez sur un pixel dans le graphique actif, tous les pixels de ce
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Docer</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.content</source>
@@ -1007,7 +1056,7 @@ Lorsque vous cliquez sur un pixel dans le graphique actif, tous les pixels de ce
     </message>
     <message>
         <source>InsertBarcode.content</source>
-        <translation>Insert a barcode with information you define into the document.</translation>
+        <translation>Insérez un code-barres avec des informations que vous définissez dans le document.</translation>
     </message>
     <message>
         <source>ChangePicture.title</source>
@@ -1027,7 +1076,7 @@ Lorsque vous cliquez sur un pixel dans le graphique actif, tous les pixels de ce
     </message>
     <message>
         <source>EquationOperatorGallery.content</source>
-        <translation>Add an operator to the equation.</translation>
+        <translation>Ajoutez un opérateur à l&apos;équation.</translation>
     </message>
     <message>
         <source>EquationFunctionGallery.title</source>
@@ -1091,7 +1140,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
     </message>
     <message>
         <source>OnlineTextboxMore.content</source>
-        <translation>Docer text box provides more exquisite materials to meet personalized needs.</translation>
+        <translation>La zone de texte de modèle fournit d&apos;autres éléments superbes afin de répondre aux besoins personnalisés.</translation>
     </message>
     <message>
         <source>ShadowPalette.title</source>
@@ -1103,7 +1152,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation>DocPermission</translation>
+        <translation>Autorisation de document</translation>
     </message>
     <message>
         <source>InsertSmartDiagram.title</source>
@@ -1111,11 +1160,15 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
     </message>
     <message>
         <source>EquationOptions.content</source>
-        <translation>Show the Equation Options dialog box to configure advanced options.</translation>
+        <translation>Affichez la boîte de dialogue Options des équations pour configurer les options avancées.</translation>
     </message>
     <message>
         <source>ChartElementFormat.content</source>
         <translation>Afficher le volet Office Mise en forme pour affiner la mise en forme de l&apos;élément de graphique sélectionné.</translation>
+    </message>
+    <message>
+        <source>InkDrawTouchToDraw.title</source>
+        <translation>Touch to draw</translation>
     </message>
     <message>
         <source>ShapeFormatStyle.content</source>
@@ -1131,7 +1184,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
     </message>
     <message>
         <source>ChartScatter.title</source>
-        <translation>Insert Scatter (X, Y) Chart</translation>
+        <translation>Insérer un graphique à nuage de points (X, Y)</translation>
     </message>
     <message>
         <source>InsertOnlinePictureFromFile.content</source>
@@ -1158,6 +1211,10 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
         <translation>Avance l&apos;objet sélectionné afin qu&apos;il soit masqué par moins d&apos;objets.</translation>
     </message>
     <message>
+        <source>InkDrawEnter.title</source>
+        <translation>Entrée manuscrite</translation>
+    </message>
+    <message>
         <source>NudgeShadowUp.title</source>
         <translation>Déplacer l&apos;ombre vers le haut</translation>
     </message>
@@ -1171,7 +1228,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
     </message>
     <message>
         <source>EquationNormalText.title</source>
-        <translation>Normal Text</translation>
+        <translation>Texte normal</translation>
     </message>
     <message>
         <source>ChartPie.title</source>
@@ -1212,20 +1269,24 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
 Cela permet de garantir la correspondance entre l&apos;élément du graphique sélectionné et le thème général du document.</translation>
     </message>
     <message>
+        <source>InkDrawEnter.content</source>
+        <translation>Utiliser le stylo pour dessiner.</translation>
+    </message>
+    <message>
         <source>EquationAccentGallery.title</source>
         <translation>Accentuation</translation>
     </message>
     <message>
         <source>OnlineIconMore.title</source>
-        <translation>More Icon</translation>
+        <translation>Icône Insérer</translation>
     </message>
     <message>
         <source>EquationFractionGallery.content</source>
-        <translation>Add a fraction to the equation.</translation>
+        <translation>Ajoutez une fraction à l&apos;équation.</translation>
     </message>
     <message>
         <source>EquationFunctionGallery.content</source>
-        <translation>Add a trigonometric function to the equation.</translation>
+        <translation>Ajoutez une fonction trigonométrique à l&apos;équation.</translation>
     </message>
     <message>
         <source>ShadowColor2.title</source>
@@ -1237,7 +1298,7 @@ Cela permet de garantir la correspondance entre l&apos;élément du graphique s�
     </message>
     <message>
         <source>SwitchVB.title</source>
-        <translation>Switch to VB environment</translation>
+        <translation>Basculer vers l&apos;environnement VB</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.content</source>
@@ -1249,7 +1310,7 @@ Cela permet de garantir la correspondance entre l&apos;élément du graphique s�
     </message>
     <message>
         <source>JavaScriptEditor.title</source>
-        <translation>WPS JavaScript Editor</translation>
+        <translation>Éditeur de macros WPS</translation>
     </message>
     <message>
         <source>CTB_ViewCode.content</source>
@@ -1277,7 +1338,7 @@ Cela permet de garantir la correspondance entre l&apos;élément du graphique s�
     </message>
     <message>
         <source>OnlineTextboxMore.title</source>
-        <translation>More Textbox</translation>
+        <translation>Zone de texte</translation>
     </message>
     <message>
         <source>ChartBar.title</source>
@@ -1289,7 +1350,11 @@ Cela permet de garantir la correspondance entre l&apos;élément du graphique s�
     </message>
     <message>
         <source>OnlineIconMore.content</source>
-        <translation>Docer icon library provides a large number of high-quality icons.</translation>
+        <translation>La bibliothèque d&apos;icônes de Docer propose un grand nombre d&apos;icônes de haute qualité.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.content</source>
+        <translation>Smart Diagram Process content</translation>
     </message>
     <message>
         <source>WordArtOutline.content</source>
@@ -1331,7 +1396,7 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>ChartBubble.content</source>
-        <translation>Click the arrow to see the different types of scatter and bubble charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Cliquez sur la flèche pour voir les différents types de graphiques à bulles disponibles.</translation>
     </message>
     <message>
         <source>ShapeHeight.content</source>
@@ -1339,11 +1404,11 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>SwitchJS.title</source>
-        <translation>Switch to JS environment</translation>
+        <translation>Basculer vers l&apos;environnement JS</translation>
     </message>
     <message>
         <source>EquationRadicalGallery.content</source>
-        <translation>Add a radical to the equation.</translation>
+        <translation>Ajoutez un radical à l&apos;équation.</translation>
     </message>
     <message>
         <source>BringForward2.title</source>
@@ -1371,7 +1436,7 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation>Applique un effet d&apos;ombre et un effet 3D à la forme sélectionnée.</translation>
+        <translation>Appliquer un effet visuel à la forme sélectionnée, comme une ombre, un éclat, un reflet ou une rotation 3D.</translation>
     </message>
     <message>
         <source>EquationFractionGallery.title</source>
@@ -1387,9 +1452,8 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>EquationInsertGallery.content</source>
-        <translation>Add common mathematical equations to your document, such as the area of a circle or the quadratic formula.
-
-You can also build your own equations using the library of math symbols and structures.</translation>
+        <translation>Ajoutez des équations mathématiques courantes dans votre document, comme l&apos;aire d&apos;un cercle ou la formule quadratique.
+Vous pouvez également utiliser la bibliothèque de symboles et de structures mathématiques pour créer vos propres équations.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.title</source>
@@ -1421,7 +1485,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation>DocPermission</translation>
+        <translation>Une fois les autorisations configurées, seuls les utilisateurs autorisés peuvent ouvrir ce document.</translation>
     </message>
     <message>
         <source>ChangePicture.content</source>
@@ -1433,7 +1497,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>EquationScriptGallery.content</source>
-        <translation>Add a subscript or superscript to the equation.</translation>
+        <translation>Ajoutez un indice ou un exposant à l&apos;équation.</translation>
     </message>
     <message>
         <source>NudgeShadowLeft.content</source>
@@ -1459,11 +1523,15 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>EquationAccentGallery.content</source>
-        <translation>Add an accent mark to the equation.</translation>
+        <translation>Ajouter un signe accent à l&apos;équation.</translation>
     </message>
     <message>
         <source>SpeedLayout.content</source>
         <translation>Modifier la disposition générale du graphique.</translation>
+    </message>
+    <message>
+        <source>AIAssistant.title</source>
+        <translation>AI Assistant-XiaoMo</translation>
     </message>
     <message>
         <source>CTB_ViewCode.title</source>
@@ -1503,11 +1571,19 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation>DataRecover</translation>
+        <translation>Récupération des données</translation>
+    </message>
+    <message>
+        <source>InkDrawSelectMode.content</source>
+        <translation>Cliquez pour sélectionner le texte et l&apos;objet, en incluant l&apos;encre et la forme.</translation>
     </message>
     <message>
         <source>MarkVersion.title</source>
         <translation>Sauvegarde manuelle</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.title</source>
+        <translation>Stylo à bille</translation>
     </message>
     <message>
         <source>TextboxBeautify.content</source>
@@ -1535,7 +1611,7 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>EquationMatrixGallery.content</source>
-        <translation>Add a matrix to the equation.</translation>
+        <translation>Ajoutez une matrice à l&apos;équation.</translation>
     </message>
     <message>
         <source>ChangeChartType.content</source>
@@ -1544,6 +1620,10 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     <message>
         <source>WordArtSameLetterHeights.content</source>
         <translation>Définit la même hauteur pour toutes les lettres de l&apos;objet WordArt sélectionné.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.title</source>
+        <translation>Aquarelle</translation>
     </message>
     <message>
         <source>NudgeShadowRight.title</source>
@@ -1563,7 +1643,7 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>PictureChange.content</source>
-        <translation>Docer picture have provide a lot of pictures, replace directly.</translation>
+        <translation>L&apos;image de modèle fournit un grand nombre d&apos;images superbes pour un remplacement direct.</translation>
     </message>
     <message>
         <source>QuickBarChartFilters.content</source>
@@ -1595,11 +1675,11 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation>DataRecover</translation>
+        <translation>Vous permet de récupérer des fichiers perdus à cause d&apos;une corruption de disque ou d&apos;une suppression accidentelle.</translation>
     </message>
     <message>
         <source>ChartRadar.title</source>
-        <translation>Insert Radar Chart</translation>
+        <translation>Insérer un graphique en radar</translation>
     </message>
     <message>
         <source>TransformQuickBar.content</source>
@@ -1607,7 +1687,7 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>Bold.content</source>
-        <translation>Gras</translation>
+        <translation>Met le texte sélectionné en gras.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile.content</source>
@@ -1616,6 +1696,10 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     <message>
         <source>InsertOnlinePictureFromFile.title</source>
         <translation>Images en ligne</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.title</source>
+        <translation>Couleurs personnalisées</translation>
     </message>
     <message>
         <source>Copy.content</source>
@@ -1651,15 +1735,15 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation>ScreenGrab</translation>
+        <translation>Ajoutez rapidement à votre document une capture instantanée d&apos;une fenêtre qui s&apos;ouvre sur le bureau.</translation>
     </message>
     <message>
         <source>SmartArt InsertBullet.content</source>
-        <translation>Add text bullets to selected SmartArt shapes, only available in shapes with bullet text</translation>
+        <translation>Ajoutez des puces de texte à la forme SmartArt sélectionnée. Cette fonctionnalité est disponible pour les formes prenant en charge les puces de texte.</translation>
     </message>
     <message>
         <source>DocerMall.content</source>
-        <translation>DocerMall content</translation>
+        <translation>Ouvrir Template Mall dans un nouvel onglet</translation>
     </message>
     <message>
         <source>PictureOutline.title</source>
@@ -1683,7 +1767,15 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>EquationIntegralGallery.content</source>
-        <translation>Add an integral to the equation.</translation>
+        <translation>Ajoutez une intégrale à l&apos;équation.</translation>
+    </message>
+    <message>
+        <source>InkDrawEraser.content</source>
+        <translation>Effacer l&apos;encre sur les pages.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.content</source>
+        <translation>Ajoutez de l&apos;encre avec les effets de l&apos;aquarelle sur la page.</translation>
     </message>
     <message>
         <source>ClearTableStyle.title</source>
@@ -1692,6 +1784,10 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     <message>
         <source>DocPermissionProtection.title</source>
         <translation>Autorisation du document</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.title</source>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Protect_Eyes_Night.title</source>
@@ -1719,7 +1815,7 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>Print.content</source>
-        <translation>Imprimez les fichiers et définissez des paramètres détaillés pour l&apos;impression</translation>
+        <translation>Applique les paramètres détaillés de l&apos;impression, tels que l&apos;imprimante, l&apos;étendue, les exemplaires imprimés, les pages par feuille et le zoom.</translation>
     </message>
     <message>
         <source>ChartElementFormat.title</source>
@@ -1731,11 +1827,15 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>RunJSMacro.title</source>
-        <translation>View JS Macros</translation>
+        <translation>Afficher les macros JS</translation>
     </message>
     <message>
         <source>EquationMatrixGallery.title</source>
         <translation>Matrice</translation>
+    </message>
+    <message>
+        <source>InkDrawPenGallery.title</source>
+        <translation>Stylo de formes</translation>
     </message>
     <message>
         <source>Photo2Pdf.title</source>
@@ -1750,8 +1850,12 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
         <translation>Ouvrez le mode nocturne pour protéger vos yeux.</translation>
     </message>
     <message>
+        <source>InkDrawColorGallery2.title</source>
+        <translation>Couleurs personnalisées</translation>
+    </message>
+    <message>
         <source>ExportToPDF.content</source>
-        <translation>ExportToPDF</translation>
+        <translation>Exporter le document vers un fichier PDF.</translation>
     </message>
 </context>
 </TS>
