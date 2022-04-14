@@ -3,63 +3,63 @@
     <name/>
     <message>
         <source>EditConnectionProperties.title</source>
-        <translation>Изменить свойства подключения</translation>
+        <translation>Editar propiedades de la conexión</translation>
     </message>
     <message>
         <source>ComAddin.content</source>
-        <translation>Управление доступными надстройками COM.</translation>
+        <translation>Agrega o elimina los complementos COM disponibles.</translation>
     </message>
     <message>
         <source>Macros.content</source>
-        <translation>Просмотр списка макросов, в котором можно создать или удалить макрос.</translation>
+        <translation>Ver la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.title</source>
-        <translation>PageLayoutDetailedSettings Title</translation>
+        <translation>Configuración detallada de diseño de página</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.title</source>
-        <translation>Нарисовать текстовое поле</translation>
+        <translation>Dibujar cuadro de texto</translation>
     </message>
     <message>
         <source>Translate Image.content</source>
-        <translation>Быстрое преобразование текстового содержимого в изображении (преобразование поддерживается только для пары китайский-английский)</translation>
+        <translation>Traducir rápidamente el contenido del texto de la imagen (solo se admite la traducción chino-inglés)</translation>
     </message>
     <message>
         <source>PrintLayout.title</source>
-        <translation>Разметка страницы</translation>
+        <translation>Diseño de página</translation>
     </message>
     <message>
         <source>AlignDistributed.content</source>
-        <translation>Выравнивание абзаца одновременно по левому и правому полям за счет добавления дополнительных интервалов между символами там, где это необходимо.</translation>
+        <translation>Alinea el párrafo en los márgenes izquierdo y derecho agregando espacios adicionales entre caracteres según sea necesario.</translation>
     </message>
     <message>
         <source>EditCloumns.title</source>
-        <translation>Строка формул</translation>
+        <translation>Barra de fórmulas</translation>
     </message>
     <message>
         <source>LockTitleRows.title</source>
-        <translation>Закрепить строку заголовка</translation>
+        <translation>Inmovilizar fila de título</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.title</source>
-        <translation>Параметры</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>ShapeSize.title</source>
-        <translation>Размер фигуры</translation>
+        <translation>Tamaño de forma</translation>
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation>Увеличить размер шрифта</translation>
+        <translation>Aumentar tamaño de fuente</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
-        <translation>Отслеживайте изменения обобщенных данных при наличии разных условий фильтра.</translation>
+        <translation>Observe los cambios realizados en los datos resumidos en el tiempo cuando haya varias condiciones de filtrado.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.content</source>
-        <translation>Добавить верхнюю и нижнюю границы к выделенным ячейкам.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>ColumnSparkline.content</source>
@@ -67,896 +67,893 @@
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation>Быстро и просто систематизируйте файлы.</translation>
+        <translation>Organice los archivos de manera rápida y sencilla.</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
-        <translation>Формат по образцу</translation>
+        <translation>Copiar formato</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Открытие диалогового окна &quot;Масштаб&quot;, в котором можно выбрать масштаб документа.</translation>
+        <translation>Muestra el cuadro de diálogo Zoom para especificar el nivel de zoom del documento.</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
-        <translation>Лист</translation>
+        <translation>Hoja de cálculo</translation>
     </message>
     <message>
         <source>ClearFilter.content</source>
-        <translation>Очистка фильтра и состояния сортировки для текущего диапазона данных.</translation>
+        <translation>Borra el filtro y el estado de ordenación del rango actual de datos.</translation>
     </message>
     <message>
         <source>PTSubtotals.title</source>
-        <translation>Итоги</translation>
+        <translation>Subtotales</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.title</source>
-        <translation>Дополнительные настройки</translation>
+        <translation>Más opciones de configuración</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation>Масштаб</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Печать на принтер</translation>
+        <translation>Imprimir directamente</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
-        <translation>Просмотр списка статистических, инженерных и информационных функций.</translation>
+        <translation>Examina y selecciona desde listas de funciones estadísticas, de ingeniería y de información.</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation>Преобразовать в спарклайн-график</translation>
+        <translation>Convertir en minigráfico de línea</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
-        <translation>Укажите количество копий для печати.</translation>
+        <translation>Especifique el número de copias que desea imprimir.</translation>
     </message>
     <message>
         <source>PercentStyle.content</source>
-        <translation>Отображение значения ячейки в виде процентов.</translation>
+        <translation>Muestra el valor de la celda como un porcentaje.</translation>
     </message>
     <message>
         <source>CustomViews.content</source>
-        <translation>Сохраните текущие параметры отображения и печати в качестве пользовательского представления, которое можно быстро применить в будущем.</translation>
+        <translation>Guarde la pantalla actual y la configuración de impresión como una vista personalizada que podrá aplicar rápidamente en el futuro.</translation>
     </message>
     <message>
         <source>InsertFunction.content</source>
-        <translation>Изменение формулы в текущей ячейке выбором функций и редактированием аргументов.</translation>
+        <translation>Edita la fórmula de la celda actualmente seleccionando las funciones y editando los argumentos.</translation>
     </message>
     <message>
         <source>Eraseborder.title</source>
-        <translation>Стереть границу</translation>
+        <translation>Borrar borde</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation>Отмена всех изменений форматирования для данного изображения.</translation>
+        <translation>Descarta todos los cambios de formato realizados en esta imagen.</translation>
     </message>
     <message>
         <source>InsertFunction.title</source>
-        <translation>Вставить функцию</translation>
+        <translation>Insertar función</translation>
     </message>
     <message>
         <source>FormatStyle.title</source>
-        <translation>Форматирование объекта</translation>
+        <translation>Estilo de formato</translation>
     </message>
     <message>
         <source>TopBorder.content</source>
-        <translation>Добавить верхнюю границу к выделенным ячейкам.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>Average.title</source>
-        <translation>Среднее</translation>
+        <translation>Promedio</translation>
     </message>
     <message>
         <source>NamePaste.content</source>
-        <translation>Выделение имени, используемого в текущей книге, и вставка его в текущую формулу.</translation>
+        <translation>Selecciona un nombre usado en el libro actual y lo pega en la fórmula actual.</translation>
     </message>
     <message>
         <source>Accounting.title</source>
-        <translation>Финансовый</translation>
+        <translation>Contabilidad</translation>
     </message>
     <message>
         <source>ShowPrecedents.content</source>
-        <translation>Отображение стрелок, указывающих на ячейки, которые влияют на значение выбранной ячейки.</translation>
+        <translation>Muestra flechas que indican qué celdas afectarán al valor de la celda seleccionada actualmente.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.content</source>
-        <translation>Подбор параметра выполняет поиск значения, которое надо ввести в формулу для получения известного результата.
+        <translation>Buscar objetivo buscará la entrada correcta cuando sepa el resultado que desea.
 
-Анализ предположений определяет оптимальное значение целевой ячейки, изменяя значения ячеек, которые используются для расчёта значения целевой ячейки.</translation>
+Herramienta de análisis de hipótesis que busca el valor óptimo de una celda objetivo cambiando los valores de las celdas usadas para calcular la celda objetivo.</translation>
     </message>
     <message>
         <source>FuncCatText.title</source>
-        <translation>Текстовые функции</translation>
+        <translation>Función de texto</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Добавление выбранного файла в документ.</translation>
+        <translation>Inserta el archivo seleccionado al documento.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
-        <translation>Расположение окон всех открытых программ на экране рядом.</translation>
+        <translation>Extiende todas las hojas de cálculo abiertas en paralelo en la misma ventana de programa.</translation>
     </message>
     <message>
         <source>StopRecordMacro.title</source>
-        <translation>Остановить запись</translation>
+        <translation>Detener grabación</translation>
     </message>
     <message>
         <source>AllowEditRanges.title</source>
-        <translation>Разрешить изменение диапазонов</translation>
+        <translation>Permitir que los usuarios modifiquen rangos</translation>
     </message>
     <message>
         <source>Subtotals.content</source>
-        <translation>Расчет совместного итога для нескольких строк взаимосвязанных данных посредством автоматической вставки промежуточных и общих итогов для выделенных ячеек.</translation>
+        <translation>Obtiene el total de varias filas de datos relacionados insertando automáticamente subtotales y totales para las celdas seleccionadas.</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.title</source>
-        <translation>Параметры</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.content</source>
-        <translation>Быстро размещайте ячейки, которые соответствуют определенному набору критериев.</translation>
+        <translation>Localice fácilmente las celdas que cumplen una serie de requisitos.</translation>
     </message>
     <message>
         <source>DrawBorder.title</source>
-        <translation>Нарисовать границу</translation>
+        <translation>Dibujar borde</translation>
     </message>
     <message>
         <source>AddFavorite.title</source>
-        <translation>Добавить условия фильтра в Избранное</translation>
+        <translation>Agregar condiciones de filtrado a Favoritos</translation>
     </message>
     <message>
         <source>m_Format.content</source>
-        <translation>Изменения формата выделенных ячеек, преобразование текста в число или гиперссылку.</translation>
+        <translation>Para cambiar el formato de las celdas seleccionadas, convierte el texto al número o hipervínculo.</translation>
     </message>
     <message>
         <source>PTFieldSettings.content</source>
-        <translation>Открыть диалоговое окно &quot;Параметры поля&quot;.</translation>
+        <translation>Muestra el cuadro de diálogo Configuración de campo.</translation>
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation>Спарклайны — это мини-диаграммы, помещенные в отдельные ячейки. Каждый из спарклайнов представляет строку данных в выделенном вами фрагменте.</translation>
+        <translation>Los minigráficos son gráficos en miniatura colocados en celdas individuales, cada uno de los cuales representa una fila de datos en su selección.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
-        <translation>Справка</translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <source>BandedRows.title</source>
-        <translation>Полосы строк</translation>
+        <translation>Filas con bandas</translation>
     </message>
     <message>
         <source>sp_Paste.content</source>
-        <translation>Вставка содержимого буфера обмена.</translation>
+        <translation>Pega los contenidos del portapapeles</translation>
     </message>
     <message>
         <source>NoBorder.content</source>
-        <translation>Удаление границ ячейки.</translation>
+        <translation>Borra todos los bordes de la celda actualmente seleccionada.</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.content</source>
-        <translation>Добавить нижнюю двойную границу для выделенных ячеек.</translation>
+        <translation>Aplica bordes dobles a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation>Показать или скрыть маркеры спарклайна</translation>
+        <translation>Conmutar marcadores de minigráfico</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
-        <translation>Ширина кнопки</translation>
+        <translation>Anchura de botón</translation>
     </message>
     <message>
         <source>TotalRow.title</source>
-        <translation>Строка итогов</translation>
+        <translation>Fila de total</translation>
     </message>
     <message>
         <source>RecentLineWrap.content</source>
-        <translation>Отображение всего содержимого ячейки на нескольких строках.</translation>
+        <translation>Hace que todo el contenido sea visible dentro de una celda mostrándolo en varias líneas.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
-        <translation>Параметры страницы</translation>
+        <translation>Configuración de página</translation>
     </message>
     <message>
         <source>CircularReferences.title</source>
-        <translation>Циклические ссылки</translation>
+        <translation>Referencias circulares</translation>
     </message>
     <message>
         <source>Validation.title</source>
-        <translation>Проверка данных</translation>
+        <translation>Validación de datos</translation>
     </message>
     <message>
         <source>DataSort.content</source>
-        <translation>Установка режима автоматической сортировки поля сводной таблицы.</translation>
+        <translation>Muestra el cuadro de diálogo Ordenar para ordenar los datos según varios criterios simultáneamente.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation>Изменение параметров форматирования фигурного текста.</translation>
+        <translation>Cambia la configuración del formato de WordArt.</translation>
     </message>
     <message>
         <source>Align.title</source>
-        <translation>Выровнять</translation>
+        <translation>Alinear</translation>
     </message>
     <message>
         <source>NormalViewEt.content</source>
-        <translation>Просмотр документа в обычном режиме.</translation>
+        <translation>Muestra el documento en vista normal.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Подчеркивание выделенного текста.</translation>
+        <translation>Subraya el texto seleccionado.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
-        <translation>Вставить</translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <source>CTB_DesignMode.title</source>
-        <translation>Режим конструирования</translation>
+        <translation>Modo Diseño</translation>
     </message>
     <message>
         <source>TableMenuRefresh.title</source>
-        <translation>Обновление</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation>Сгруппировать выделенные спарклайны</translation>
+        <translation>Agrupar minigráficos seleccionados</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation>Извлечь данные в ячейку.</translation>
+        <translation>Extrae los datos a una celda.</translation>
     </message>
     <message>
         <source>Min.title</source>
-        <translation>Минимум</translation>
+        <translation>Mín</translation>
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation>Восстановление положения окна для документов, сравниваемых рядом, таким образом, чтобы каждый из них занимал половину экрана.
+        <translation>Restablece la posición de la ventana del documento que se está comparando en paralelo para que compartan la pantalla.
 
-Для применения этой функции включите &quot;Режим просмотра рядом&quot;.</translation>
+Para habilitar esta característica, active la función Ver en paralelo.</translation>
     </message>
     <message>
         <source>Macros.title</source>
-        <translation>Просмотр макросов</translation>
+        <translation>Ver macros</translation>
     </message>
     <message>
         <source>FirstColumn.content</source>
-        <translation>Применение особого форматирования к первому столбцу таблицы.</translation>
+        <translation>Muestre un formato especial en la primera columna de la tabla.</translation>
     </message>
     <message>
         <source>ShowDependents.title</source>
-        <translation>Отслеживать зависимые ячейки.</translation>
+        <translation>Seguimiento de dependientes.</translation>
     </message>
     <message>
         <source>ShowDetail.content</source>
-        <translation>Показать все элементы активного поля.</translation>
+        <translation>Muestra todos los elementos del campo activo.</translation>
     </message>
     <message>
         <source>PageSize.title</source>
-        <translation>Размер страницы</translation>
+        <translation>Tamaño de página</translation>
     </message>
     <message>
         <source>MergeCenter2.content</source>
-        <translation>Объединение выделенных ячеек в одну большую ячейку и выравнивание содержимого новой ячейки по центру.</translation>
+        <translation>Une las celdas seleccionadas en una celda de mayor tamaño y centra el contenido en la nueva celda.</translation>
     </message>
     <message>
         <source>ShareWorkbook.content</source>
-        <translation>Организация одновременной работы нескольких пользователей с одной и той же книгой.
+        <translation>Permite que varias personas trabajen en un libro al mismo tiempo.
 
-Эту книгу необходимо сохранить на общем сетевом ресурсе, чтобы ее могли открыть несколько пользователей.
+Se debe guardar el libro en una ubicación de red donde varias personas puedan abrirlo.
 
-Нельзя открыть общий доступ к книгам, содержащим таблицы.</translation>
+Los libros que contienen tablas no se pueden compartir.</translation>
     </message>
     <message>
         <source>PTHideFieldList.title</source>
-        <translation>Скрыть список полей</translation>
+        <translation>Ocultar lista de campos</translation>
     </message>
     <message>
         <source>OutsideBorders.title</source>
-        <translation>Внешние границы</translation>
+        <translation>Bordes externos</translation>
     </message>
     <message>
         <source>AlignDistributed.title</source>
-        <translation>Равномерно</translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation>Согласование всех изменений с размером выбранного рисунка.</translation>
+        <translation>Restablecer todos los cambios al tamaño de la imagen seleccionada.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
-        <translation>Вставить объект из файла</translation>
+        <translation>Insertar objeto desde Archivo</translation>
     </message>
     <message>
         <source>VAlignTop.title</source>
-        <translation>Выровнять по верхнему краю</translation>
+        <translation>Alinear en la parte superior</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation>Импорт данных из текстового файла.</translation>
+        <translation>Importe datos de un archivo de texto.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
-        <translation>Показать детали</translation>
+        <translation>Mostrar detalle</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation>Разбиение набора сгруппированных спарклайнов на отдельные спарклайны.</translation>
+        <translation>Divida un conjunto de minigráficos agrupados en minigráficos individuales.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
-        <translation>Относительные ссылки</translation>
+        <translation>Usar referencias relativas</translation>
     </message>
     <message>
         <source>Chart.content</source>
-        <translation>Открыть диалоговое окно &quot;Тип диаграммы&quot; для выбора таких параметров, как тип диаграммы.</translation>
+        <translation>Muestra el cuadro de diálogo de Tipo de gráfico para seleccionar desde opcions como Tipo de gráfico para insertar.</translation>
     </message>
     <message>
         <source>WindowReset.title</source>
-        <translation>Расположить рядом</translation>
+        <translation>Organizar todas</translation>
     </message>
     <message>
         <source>TopBorder.title</source>
-        <translation>Верхняя граница</translation>
+        <translation>Borde superior</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Предыдущее.</translation>
+        <translation>Anterior</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation>Полноэкранный режим</translation>
+        <translation>Pantalla completa</translation>
     </message>
     <message>
         <source>RecordList.title</source>
-        <translation>Форма</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <source>PivotChart.title</source>
-        <translation>Сводная диаграмма</translation>
+        <translation>Gráfico dinámico</translation>
     </message>
     <message>
         <source>MergeCenter.content</source>
-        <translation>Объединение выделенных ячеек в одну большую ячейку и выравнивание содержимого новой ячейки по центру.</translation>
+        <translation>Une las celdas seleccionadas en una celda de mayor tamaño y centra el contenido en la nueva celda.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation>Открыть диалоговое окно &quot;Параметры страницы&quot;.</translation>
+        <translation>Muestra el cuadro de diálogo Configuración de página.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
-        <translation>Выделение непрерывного ряда клеток в одной или нескольких строках с центрированием их содержимого.</translation>
+        <translation>Selecciona las celdas continuas en una o varias filas, alinea el contenido de las celdas al centro.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>DevelopmentTools Content</translation>
+        <translation>Abre la ficha de Programador e inserta controles como </translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Вставить содержимое клипа.</translation>
+        <translation>Inserta las imágenes prediseñadas.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation>Создание ссылки на веб-страницу, изображение или адрес электронной почты.</translation>
+        <translation>Crea un vínculo a una página web, una imagen o una dirección de correo electrónico.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation>Изменение выделенного примечания.</translation>
+        <translation>Edita el comentario seleccionado.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
-        <translation>Щёлкните здесь для изменения листа. Можно вставить или удалить лист, изменить название листа или изменить цвет вкладки листа.</translation>
+        <translation>Haga clic aquí para modificar la hoja de cálculo. Puede Insertar o Eliminar la hoja de cálculo, Cambiar nombre de la hoja o cambiar el color de la ficha de la hoja de cálculo.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation>Безопасность макросов</translation>
+        <translation>Seguridad de macros</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
-        <translation>Преобразование документов в файлы Excel</translation>
+        <translation>Convertir documentos a archivos Excel</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation>Вставка готовых форм, таких как линии, прямоугольники, блок-схемы символов и выноски.</translation>
+        <translation>Inserta formas previamente diseñadas como rectángulos, líneas, símbolos de diagrama de flujo y llamadas.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
-        <translation>Изменение интервала между буквами выделенного фигурного текста.</translation>
+        <translation>Cambia el espacio entre los caracteres del texto de WordArt seleccionado.</translation>
     </message>
     <message>
         <source>AlignJustify.content</source>
-        <translation>Выравнивание текста одновременно по левому и правому полям за счет добавления дополнительных интервалов между словами там, где это необходимо.</translation>
+        <translation>Alinea el texto en los márgenes izquierdo y derecho agregando espacios adicionales entre palabras según sea necesario.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation>Преобразовать в спарклайн-гистограмму</translation>
+        <translation>Convertir en minigráfico de columna</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
-        <translation>Вставить</translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <source>ReapplyFilter.title</source>
-        <translation>Применить повторно</translation>
+        <translation>Volver a aplicar</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.title</source>
-        <translation>Переключение страницы предварительного просмотра</translation>
+        <translation>Cambio a vista previa de página</translation>
     </message>
     <message>
         <source>DisplayHeadings.content</source>
-        <translation>Отображение заголовков строк и столбцов.
+        <translation>Muestra encabezados de fila y columna.
 
-Заголовки строк – это номера строк в левой или правой части листа.
+Los encabezados de fila son los números de fila situados al lado de la hoja.
 
-Заголовки столбцов – это буквы или цифры, которые отображаются над столбцами листа.</translation>
+Los encabezados de columna son las letras o números que aparecen encima de las columnas de una página.</translation>
     </message>
     <message>
         <source>ReapplyFilter.content</source>
-        <translation>Повторное применение фильтра и сортировки к текущему диапазону.
+        <translation>Vuelve a aplicar el filtro y ordena los elementos en el intervalo actual.
 
-При добавлении или изменении данных в столбце фильтрация и сортировка новых данных выполняется только после нажатия кнопки &quot;Применить повторно&quot;.</translation>
+No se filtrarán ni ordenarán los datos nuevos o modificados en la columna hasta que haga clic en Volver a aplicar.</translation>
     </message>
     <message>
         <source>HideDetail.content</source>
-        <translation>Свёртывание группы ячеек.</translation>
+        <translation>Contrae un grupo de celdas.</translation>
     </message>
     <message>
         <source>AdvancedFilter.content</source>
-        <translation>Добавление критериев отбора записей, включаемых в результат запроса.</translation>
+        <translation>Especifica criterios complejos para limitar los registros que se incluirán en el conjunto de resultados de una consulta.</translation>
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation>Получить данные из текста</translation>
+        <translation>Obtener datos del texto</translation>
     </message>
     <message>
         <source>sp_Copy.title</source>
-        <translation>Копировать</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Consolidate.title</source>
-        <translation>Консолидировать</translation>
+        <translation>Consolidar</translation>
     </message>
     <message>
         <source>MathAndTrig.title</source>
-        <translation>Математические</translation>
+        <translation>Matemáticas y trigonométricas</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.content</source>
-        <translation>Изменение детальных параметров контура.</translation>
+        <translation>Cambia la configuración avanzada del contorno.</translation>
     </message>
     <message>
         <source>DoubleAccounting.content</source>
-        <translation>Двойное подчеркивание для отчетности.</translation>
+        <translation>Subrayado doble para contabilidad.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
-        <translation>Щёлкните для добавления изображения из файла или результата сканирования.</translation>
+        <translation>Haga clic aquí para insertar una imagen de una carpeta local o desde un escáner.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation>Разгруппировать выделенные спарклайны</translation>
+        <translation>Desagrupar minigráficos seleccionados</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
-        <translation>Отображение или скрытие строки итогов в таблице.
+        <translation>Active o desactive la fila de total de la tabla.
 
-Строка итогов — это строка в конце таблицы, в которой отображаются итоги для каждого столбца.</translation>
+La fila de total es una fila situada al final de la tabla que muestra los totales de cada columna.</translation>
     </message>
     <message>
         <source>RemoveDuplicates.title</source>
-        <translation>Удаление дубликатов</translation>
+        <translation>Quitar duplicados</translation>
     </message>
     <message>
         <source>SlicerCaption.content</source>
-        <translation>Изменение подписи, которая отображается в заголовке среза.</translation>
+        <translation>Cambie la leyenda que se muestra en el encabezado del segmento.</translation>
     </message>
     <message>
         <source>InsertRange.content</source>
-        <translation>Добавление ячеек, строк или столбцов в таблицу.</translation>
+        <translation>Inserta celdas, filas o columnas a la hoja de cálculo.</translation>
     </message>
     <message>
         <source>Camera.content</source>
-        <translation>Связать клетку или диапазон ячеек с объектами рисования. Изменения, внесённые в данные ячеек рабочего листа, будут автоматически отображены в графических объектах.</translation>
+        <translation>Vincula las celdas o rangos de celda a los objetos de dibujo. Muestra automáticamente en los objetos de dibujo los cambios hechos a los datos en las celdas de hoja de cálculo. </translation>
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation>Выделение первой точки данных в выбранной группе спарклайнов.</translation>
+        <translation>Resalta el primer punto de los datos en el grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>BottomBorder.title</source>
-        <translation>Нижняя граница</translation>
+        <translation>Borde inferior</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Изменение параметров форматирования ячеек.</translation>
+        <translation>Cambia la configuración del formato de celda.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation>WorkSpace Backup</translation>
+        <translation>Copia de seguridad de área de trabajo</translation>
     </message>
     <message>
         <source>Align.content</source>
-        <translation>Выравнивание по краям нескольких выделенных объектов.
+        <translation>Alinea los bordes de varios objetos seleccionados.
 
-Также можно выровнять их по центру или равномерно распределить по всей ширине страницы.</translation>
+Puede centrarlos o distribuirlos de manera uniforme en la página.</translation>
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation>Щёлкните здесь, чтобы просмотреть дополнительные параметры, такие как вставка из буфера обмена только значений или только форматирования.</translation>
+        <translation>Haga clic aquí para obtener más opciones como pegar únicamente los valores.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
-        <translation>Выделение определенной области листа для печати.</translation>
+        <translation>Selecciona un área específico de la hoja de cálculo a imprimir en vez de toda la hoja. El resultado de impresión se ve en Vista previa de impresión.</translation>
     </message>
     <message>
         <source>SlicerColumn.content</source>
-        <translation>Изменение количества столбцов в срезе.</translation>
+        <translation>Cambie el número de columnas del segmento.</translation>
     </message>
     <message>
         <source>Currency.content</source>
-        <translation>Выбор альтернативного формата денежной еденицы для выделенной ячейки.
+        <translation>Selecciona un formato de moneda alternativo para la celda seleccionada.
 
-Например, можно выбрать евро вместо долларов.</translation>
+Por ejemplo, seleccione euros en lugar de dólares.</translation>
     </message>
     <message>
         <source>TextFill.content</source>
-        <translation>Изменение цвета текста.
+        <translation>Cambia el color de texto.
 
-Щёлкните стрелку для выбора цвета текста.</translation>
+Haga clic en la flecha para seleccionar un color diferente de texto.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Переход к следующему примечанию.</translation>
+        <translation>Se desplaza al siguiente comentario.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
-        <translation>Заливка графического объекта</translation>
+        <translation>Rellenar gráfico</translation>
     </message>
     <message>
         <source>ShowAllComments.title</source>
-        <translation>Показать все примечания.</translation>
+        <translation>Mostrar todos los comentarios</translation>
     </message>
     <message>
         <source>Margins.content</source>
-        <translation>Выбор размеров полей для всего документа или текущего раздела.</translation>
+        <translation>Selecciona los tamaños de los márgenes para todo el documento o para la sección actual.</translation>
     </message>
     <message>
         <source>PivotTable.title</source>
-        <translation>Вставить сводную таблицу</translation>
+        <translation>Insertar tabla dinámica</translation>
     </message>
     <message>
         <source>PTHide.content</source>
-        <translation>Отображение или скрытие списка полей.
-
-Список полей позволяет добавлять и удалять поля из отчета сводной таблицы.</translation>
+        <translation>Oculta los campos de tabla dinámica en página, fila, área de columna o elementos en los campos.</translation>
     </message>
     <message>
         <source>PrintNormalView.content</source>
-        <translation>Выход из режима &quot;Предварительного просмотра&quot;, и вход в режим обычного вида.</translation>
+        <translation>Sale de la vista previa de impresión y entra en la vista normal.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.title</source>
-        <translation>Восстановление текущего примечания.</translation>
+        <translation>Restablecer comentario actual.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Цвет текста</translation>
+        <translation>Color de texto</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation>Подбор синонимов (других слов
-с похожим значением) для выделенного слова.</translation>
+        <translation>Sugiere otras palabras con un significado parecido al de la palabra seleccionada.</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.title</source>
-        <translation>Другие функции</translation>
+        <translation>Más funciones</translation>
     </message>
     <message>
         <source>PrinterCollate.content</source>
-        <translation>Укажите порядок сопоставления печати (например, 123123) или порядок печатаемых страниц (например, 112233).</translation>
+        <translation>Especifique el orden de impresión: intercalar (p. ej., 123123) o imprimir páginas (p. ej., 112233).</translation>
     </message>
     <message>
         <source>NumberFormatCells.title</source>
-        <translation>Формат ячеек: числовой</translation>
+        <translation>Formato de celdas: número</translation>
     </message>
     <message>
         <source>TextToColumns.title</source>
-        <translation>Текст по столбцам</translation>
+        <translation>Texto en columnas</translation>
     </message>
     <message>
         <source>Slicer.title</source>
-        <translation>Срез</translation>
+        <translation>Segmento</translation>
     </message>
     <message>
         <source>PagePreviewSwitch.content</source>
-        <translation>Предварительный просмотр разделения листа при печати.</translation>
+        <translation>Vista de previa de cómo se dividirá esta hoja cuando se imprima.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation>Открытие документа для совместного редактирования.</translation>
+        <translation>Abra el documento para editar en colaboración.</translation>
     </message>
     <message>
         <source>PTHide.title</source>
-        <translation>Скрыть</translation>
+        <translation>Ocultar</translation>
     </message>
     <message>
         <source>Group.title</source>
-        <translation>Группировать</translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>InteractiveChart.content</source>
-        <translation>Создание интересных динамичных интерактивных диаграмм для улучшения презентации.</translation>
+        <translation>Cree gráficos interactivos, dinámicos y atractivos para mejorar el rendimiento de la presentación.</translation>
     </message>
     <message>
         <source>ShareWorkbook.title</source>
-        <translation>Управление доступом к файлу</translation>
+        <translation>Compartir libro</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation>Преобразование документов в файлы PPT</translation>
+        <translation>Convertir documentos a archivos PPT</translation>
     </message>
     <message>
         <source>ShowAllComments.content</source>
-        <translation>Отображение всех примечаний на листе.</translation>
+        <translation>Muestra todos los comentarios de la hoja.</translation>
     </message>
     <message>
         <source>LTRTextDirection.title</source>
-        <translation>Направление текста слева направо</translation>
+        <translation>Dirección del texto de izquierda a derecha</translation>
     </message>
     <message>
         <source>RTLTextDirection.title</source>
-        <translation>Направление справа налево</translation>
+        <translation>Dirección del texto de derecha a izquierda</translation>
     </message>
     <message>
         <source>AutoSum.content</source>
-        <translation>Показать сумму выделенных ячеек непосредственно после этих ячеек.</translation>
+        <translation>Muestra la suma de las celdas seleccionadas directamente después de las celdas seleccionadas.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.title</source>
-        <translation>DrawingToolsDetailedSettings Title</translation>
+        <translation>Configuración detallada de herramientas de dibujo</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation>Сохранить пропорции</translation>
+        <translation>Bloquear relación de aspecto</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation>Измененный документ автоматически сохраняется, чтобы избежать потери содержимого документа.</translation>
+        <translation>El documento modificado se guarda automáticamente para evitar la pérdida del contenido del documento.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation>Восстановление положения окна.</translation>
+        <translation>Restablecer posición de la ventana</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation>Отправить файлы на телефон и другие устройства</translation>
+        <translation>Enviar archivos al teléfono y otros dispositivos</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
-        <translation>Увеличение или уменьшение ширины или высоты вывода на печать с расчётом на определённое число страниц или в процентах от фактического размера.</translation>
+        <translation>Escala el ancho o el alto del resultado de impresión para ajustar un número máximo de páginas o a un porcentaje del tamaño actual.</translation>
     </message>
     <message>
         <source>RowsAndColumn.title</source>
-        <translation>Строки и столбцы</translation>
+        <translation>Filas y columnas</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation>Просматривайте документы рядом вместо того, чтобы постоянно переключаться с одного на другой. Так намного легче выполнять сравнение.</translation>
+        <translation>En lugar de ir y volver de un documento a otro, puede visualizarlos en paralelo, de modo que puede compararlos más fácilmente.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
-        <translation>Показать вкладку &quot;Выравнивание&quot; диалогового окна &quot;Формат ячеек&quot;.</translation>
+        <translation>Muestra la ficha Alineación en el cuadro de diálogo Formato de celdas.</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation>Преобразовать в спарклайн выигрыша/проигрыша</translation>
+        <translation>Convertir en minigráfico de pérdida/ganancia</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
-        <translation>Увеличение размера шрифта.</translation>
+        <translation>Aumenta el tamaño de fuente.</translation>
     </message>
     <message>
         <source>Legend.content</source>
-        <translation>Показать или скрыть условные обозначения диаграммы.</translation>
+        <translation>Muestra u oculta la leyenda del gráfico.</translation>
     </message>
     <message>
         <source>TextFill.title</source>
-        <translation>Цвет текста</translation>
+        <translation>Color de texto</translation>
     </message>
     <message>
         <source>RecordMacro.content</source>
-        <translation>Показать диалоговое окно &quot;Запись макроса&quot;, и начать запись макроса.</translation>
+        <translation>Muestra el cuadro de diálogo de Grabar macro y empieza a grabar macro.</translation>
     </message>
     <message>
         <source>DoubleUnderline.content</source>
-        <translation>Двойное подчеркивание выделенного текста.</translation>
+        <translation>Aplicar subrayado doble en el texto seleccionado.</translation>
     </message>
     <message>
         <source>PTHideDetail.title</source>
-        <translation>Скрыть детали</translation>
+        <translation>Ocultar detalle</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.content</source>
-        <translation>Простая классификация и обобщение данных.</translation>
+        <translation>Clasifique y resuma los datos fácilmente.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation>Добавление примечания к выделенному фрагменту.</translation>
+        <translation>Agrega un comentario a la hoja de cálculo sobre la selección.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
-        <translation>Форматирование таблицы</translation>
+        <translation>Dar formato como tabla</translation>
     </message>
     <message>
         <source>PTRepeatLabels.content</source>
-        <translation>Показать все родительские подписи элементов.</translation>
+        <translation>Mostrar todas las etiquetas de elementos principales.</translation>
     </message>
     <message>
         <source>NormalViewEt.title</source>
-        <translation>Обычный режим</translation>
+        <translation>Vista normal</translation>
     </message>
     <message>
         <source>ReadingLayout.title</source>
-        <translation>Макет для чтения</translation>
+        <translation>Diseño de lectura</translation>
     </message>
     <message>
         <source>TaskWindow.content</source>
-        <translation>Скрыть или показать панель задач текущего документа.</translation>
+        <translation>Muestra u oculta la ventana de tareas en el libro.</translation>
     </message>
     <message>
         <source>DrawGrid.content</source>
-        <translation>Чтобы нарисовать границы сетки, выберите эту функцию и передвигайте указатель мыши.
+        <translation>Para dibujar cuadrícula de borde, haga clic en esta opción y arrastre el mouse a dibujar.
 
-Для выхода из режима рисования нажмите клавишу Esc на клавиатуре или повторно выберите эту функцию.</translation>
+Presione Esc en el teclado o haga clic en esta opción de nuevo para salir del modo de dibujo.</translation>
     </message>
     <message>
         <source>ShowFormulas.content</source>
-        <translation>Отображение формулы в каждой ячейке вместо итогового значения.</translation>
+        <translation>Muestra la fórmula de cada celda en lugar del valor resultante.</translation>
     </message>
     <message>
         <source>sp_ConditionHighlight.title</source>
-        <translation>Condition Highlight</translation>
+        <translation>Resaltar condiciones</translation>
     </message>
     <message>
         <source>OutlineSettings.title</source>
-        <translation>Настройка структуры</translation>
+        <translation>Configuración del esquema</translation>
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation>Остановить запись макроса.</translation>
+        <translation>Detiene grabar la macro.</translation>
     </message>
     <message>
         <source>ClearFilter.title</source>
-        <translation>Показать всё</translation>
+        <translation>Mostrar todo </translation>
     </message>
     <message>
         <source>RecalculateBook.content</source>
-        <translation>Пересчёт всей книги.
+        <translation>Calcula todo el libro ahora.
 
-Это необходимо только в том случае, если автоматическое выполнение вычислений отключено.</translation>
+Sólo es necesario si el cálculo automático se ha desactivado.</translation>
     </message>
     <message>
         <source>Refresh.title</source>
-        <translation>Обновить данные</translation>
+        <translation>Actualizar datos</translation>
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation>Показать или скрыть минимальные точки спарклайна</translation>
+        <translation>Conmutar puntos bajos del minigráfico</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation>Изменение выбранной группы спарклайнов в спарклайн выигрыша/проигрыша.</translation>
+        <translation>Cambia el grupo de minigráficos seleccionado por un minigráfico de pérdida/ganancia.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation>Удалить примечание</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
-        <translation>Печатать на каждой странице</translation>
+        <translation>Imprimir títulos</translation>
     </message>
     <message>
         <source>PrintArea.title</source>
-        <translation>Диапазон печати</translation>
+        <translation>Área de impresión</translation>
     </message>
     <message>
         <source>ConditionalFormatting.content</source>
-        <translation>Быстрое определение трендов и моделей в блоках данных с помощью гистограмм, цветов и значков, визуально выделяющих важные значения.</translation>
+        <translation>Marca fácilmente las tendencias y los modelos en los datos usando barras, colores e iconos para resaltar visualmente valores importantes.</translation>
     </message>
     <message>
         <source>TableMenuRefresh.content</source>
-        <translation>Получение новейших данных из источника, подключенного к активной ячейке.</translation>
+        <translation>Obtenga los datos más recientes procedentes del origen conectado a la celda activa.</translation>
     </message>
     <message>
         <source>SlicerColumn.title</source>
-        <translation>Колонки</translation>
+        <translation>Columnas</translation>
     </message>
     <message>
         <source>What-If Analysis.content</source>
-        <translation>Средство анализа &quot;что если&quot; определяет оптимальное значение целевой ячейки, изменяя значения ячеек, которые используются для расчета значения целевой ячейки.</translation>
+        <translation>Herramienta de análisis de hipótesis que busca el valor óptimo de una celda objetivo cambiando los valores de las celdas usadas para calcular la celda objetivo.</translation>
     </message>
     <message>
         <source>LookupAndReference.content</source>
-        <translation>Просмотр и выбор из списка функций поиска и функций для работы со ссылками.</translation>
+        <translation>Examina y selecciona de una lista de funciones de búsqueda y referencia.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
-        <translation>Контур графического объекта</translation>
+        <translation>Contorno de gráfico</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation>Создание таблицы для управления связанными данными и их анализа.
+        <translation>Cree una tabla para administrar y analizar datos relacionados.
 
- Таблицы упрощают сортировку, фильтрацию и форматирование данных на листе.</translation>
+Las tablas facilitan la clasificación, el filtrado y el formato de datos dentro de una hoja.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
-        <translation>Пользовательские представления</translation>
+        <translation>Vistas personalizadas</translation>
     </message>
     <message>
         <source>Count.content</source>
-        <translation>Подсчёт количества ячеек в столбце, содержащих числа.</translation>
+        <translation>Cuenta el número de celdas de una columna que contenga números.</translation>
     </message>
     <message>
         <source>ShrinkFont.content</source>
-        <translation>Уменьшение размера шрифта.</translation>
+        <translation>Disminuye el tamaño de fuente.</translation>
     </message>
     <message>
         <source>TableName.content</source>
-        <translation>Изменение имени данной таблицы, на которое ссылаются формулы.</translation>
+        <translation>Edite el nombre de la tabla que se utilizará para hacer referencia a ella en las fórmulas.</translation>
     </message>
     <message>
         <source>RB_Clipboard.title</source>
-        <translation>Буфер обмена</translation>
+        <translation>Portapapeles</translation>
     </message>
     <message>
         <source>Eraseborder.content</source>
-        <translation>Чтобы стереть границу, выберите эту функцию и передвигайте указатель мыши.
+        <translation>Para borrar el borde, haga clic en esta opción y arrastre el mouse a borrar.
 
-Для выхода из режима стирания границы нажмите клавишу Esc на клавиатуре или повторно выберите эту функцию.</translation>
+Presione Esc en el teclado o haga clic en esta opción de nuevo para salir del modo de borrado.</translation>
     </message>
     <message>
         <source>VAlignCenter.title</source>
-        <translation>Выровнять по середине</translation>
+        <translation>Alinear en el medio</translation>
     </message>
     <message>
         <source>Legend.title</source>
-        <translation>Условные обозначения</translation>
+        <translation>Leyenda</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Изменение цвета текста.
+        <translation>Cambia el color de texto.
 
-Щёлкните стрелку для выбора цвета текста.</translation>
+Haga clic en la flecha para seleccionar un color diferente de texto.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation>Изменение цвета фона выделенных ячеек.
+        <translation>Colorea el fondo de las celdas seleccionadas.
 
-Щёлкните стрелку для выбора цвета заливки.</translation>
+Haga clic en la flecha para seleccionar un color diferente de fondo.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
-        <translation>Добавление таблицы данных к диаграмме.</translation>
+        <translation>Agrega una tabla de datos al gráfico.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
-        <translation>Захват экрана и OCR</translation>
+        <translation>Captura de pantalla y OCR</translation>
     </message>
     <message>
         <source>MathAndTrig.content</source>
-        <translation>Просмотр и выбор из списка математических функций.</translation>
+        <translation>Examina y selecciona de una lista de funciones matemáticas y trigonométricas.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.title</source>
-        <translation>Сортировка</translation>
+        <translation>Ordenar</translation>
     </message>
     <message>
         <source>HideWindow.title</source>
-        <translation>Скрыть окно</translation>
+        <translation>Ocultar ventana</translation>
     </message>
     <message>
         <source>PrintManualDuplex.title</source>
@@ -964,271 +961,271 @@
     </message>
     <message>
         <source>ShowPrecedents.title</source>
-        <translation>Отслеживать влияющие ячейки.</translation>
+        <translation>Seguimiento de precedentes.</translation>
     </message>
     <message>
         <source>Clear.content</source>
-        <translation>Удаление всего, что содержится в ячейке, либо выборочное удаление форматирования, содержимого или примечаний.</translation>
+        <translation>Elimina todo de la celda o quita de manera selectiva el formato, el contenido o los comentarios.</translation>
     </message>
     <message>
         <source>BookProtection.content</source>
-        <translation>Запрет на внесение нежелательных изменений в структуру книги, таких как перемещение, удаление или добавление листов.</translation>
+        <translation>Evita cambios no deseados en la estructura del libro, como mover, eliminar o agregar hojas.</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.content</source>
-        <translation>PageLayoutDetailedSettings Content</translation>
+        <translation>Contenido de PageLayoutDetailedSettings</translation>
     </message>
     <message>
         <source>ThickBottomBorder.content</source>
-        <translation>Добавление толстой нижней границы к выделенным ячейкам.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>ClearArrows.title</source>
-        <translation>Удалить все стрелки</translation>
+        <translation>Borrar todas las flechas</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation>Выбор размера, угла поворота и масштаба выделенной фигуры.</translation>
+        <translation>Define el tamaño, el grado de rotación y el zoom para la forma seleccionada.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation>Определение цвета и толщины выделенного спарклайна в выбранной группе спарклайнов.</translation>
+        <translation>Especifica el color y el peso de los minigráficos en el grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>EnableMacro.title</source>
-        <translation>Включить инструкции макросов</translation>
+        <translation>Habilitar las instrucciones de macro</translation>
     </message>
     <message>
         <source>OutlineSettings.content</source>
-        <translation>Открыть диалоговое окно &quot;Структура&quot;.</translation>
+        <translation>Muestra el cuadro de diálogo Esquema.</translation>
     </message>
     <message>
         <source>Direction.content</source>
-        <translation>Выбор эффекта направления для выделенной фигуры 3-D.</translation>
+        <translation>Selecciona el efecto de dirección de la forma 3D seleccionada.</translation>
     </message>
     <message>
         <source>Printer.title</source>
-        <translation>Принтер</translation>
+        <translation>Impresora</translation>
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation>Щелкните здесь, чтобы выполнить операции с повторяющимися элементами, например выделить повторяющиеся элементы, отклонить повторяющиеся элементы и удалить повторяющиеся элементы.</translation>
+        <translation>Haga clic aquí para realizar operaciones en los elementos duplicados, como resaltarlos, rechazarlos y eliminarlos.</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
-        <translation>Фильтр по условиям в Избранном</translation>
+        <translation>Filtrar favoritos de condición</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.content</source>
-        <translation>Задайте верхний и нижний колонтитул листа для печати.</translation>
+        <translation>Configure el encabezado y el pie de página de la hoja que se va a imprimir.</translation>
     </message>
     <message>
         <source>PrintGridlines.title</source>
-        <translation>Печать сетки</translation>
+        <translation>Imprimir cuadrículas</translation>
     </message>
     <message>
         <source>SlicerCaption.title</source>
-        <translation>Подпись среза</translation>
+        <translation>Leyenda de segmento</translation>
     </message>
     <message>
         <source>PrintHeadings.content</source>
-        <translation>Печать заголовков строк и столбцов.
+        <translation>Imprime los encabezados de fila y columna.
 
-Заголовки строк - это номера строк в левой или правой части листа.
+Los encabezados de fila son los números de fila situados al lado de la hoja.
 
-Заголовки столбцов - это буквы или цифры, которые отображаются над столбцами листа.</translation>
+Los encabezados de columna son las letras o números que aparecen encima de las columnas de una página.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>Текст в речь</translation>
+        <translation>Leer texto</translation>
     </message>
     <message>
         <source>PageSize.content</source>
-        <translation>Выбор размера бумаги для текущего раздела.
+        <translation>Selecciona un tamaño de papel para la sección actual.
 
-Щёлкните здесь, для применения определённого размера бумаги ко всем разделам в документе.</translation>
+Para aplicar un tamaño de papel específico a todas las secciones del documento, haga clic para personalizar el tamaño de papel.</translation>
     </message>
     <message>
         <source>Clear.title</source>
-        <translation>Очистить</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>DataUngroup2.title</source>
-        <translation>Разруппировать</translation>
+        <translation>Desagrupar</translation>
     </message>
     <message>
         <source>ResetPicture.title</source>
-        <translation>Восстановить исходное изображение</translation>
+        <translation>Restablecer imagen</translation>
     </message>
     <message>
         <source>CircularReferences.content</source>
-        <translation>Открыть окно &quot;Циклические ссылки&quot; для поиска ячеек книги, содержащих циклические ссылки.
+        <translation>Muestra el cuadro de diálogo de Referencias circulares. Puede buscar y ubicar todas las celdas que contengan las referencias circulares en el libro.
 
-Дважды щёлкните на элемент списка результатов для перехода к соответствующей ячейке.</translation>
+Haga doble clic en el elemento en la lista de resultados para cambiar la celda correspondiente.</translation>
     </message>
     <message>
         <source>CommaStyle.title</source>
-        <translation>Пробел между тысячами</translation>
+        <translation>Estilo millares</translation>
     </message>
     <message>
         <source>PrinterPaperSize.title</source>
-        <translation>Размер бумаги</translation>
+        <translation>Tamaño del papel</translation>
     </message>
     <message>
         <source>PTTableOptions.content</source>
-        <translation>Открытие диалогового окна &quot;Параметры сводной таблицы&quot;.</translation>
+        <translation>Muestra el cuadro de diálogo Opciones de tabla dinámica.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Уменьшить отступ</translation>
+        <translation>Disminuir sangría</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
-        <translation>Щёлкните стрелку для выбора типа заливки.</translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>Validation.content</source>
-        <translation>Защита ячейки от ввода неверных данных.
+        <translation>Evita la entrada de datos no válidos en una celda.
 
-Например, можно запретить ввод неверных дат или чисел, превышающих 1000.
+Por ejemplo, puede rechazar fechas o números no válidos superiores a 1.000.
 
-Можно также разрешить ввод значений только из предварительно определенного раскрывающегося списка.</translation>
+También puede forzar que los datos se elijan entre los valores especificados en una lista desplegable.</translation>
     </message>
     <message>
         <source>PrinterCopies.title</source>
-        <translation>Копии</translation>
+        <translation>Copias</translation>
     </message>
     <message>
         <source>EditCloumns.content</source>
-        <translation>Отображение строки формул, предназначенной для ввода текста и формул в ячейки.</translation>
+        <translation>Muestra la barra de fórmulas en la que puede escribir texto y fórmulas en las celdas.</translation>
     </message>
     <message>
         <source>DisplayHeadings.title</source>
-        <translation>Показать заголовки</translation>
+        <translation>Ver encabezados</translation>
     </message>
     <message>
         <source>PivotTableOrder.title</source>
-        <translation>Расположение</translation>
+        <translation>Orden</translation>
     </message>
     <message>
         <source>BandedRows.content</source>
-        <translation>Отображение чередующихся строк, при котором четные строки отформатированы иначе, чем нечетные.
+        <translation>Muestre filas con bandas, en las que las filas pares presentarán un formato distinto del de las impares.
 
-Такое чередование облегчает восприятие таблицы.</translation>
+Estas bandas facilitan la lectura de las tablas.</translation>
     </message>
     <message>
         <source>Recommended Chart.content</source>
-        <translation>Хотите знать, как выбрать диаграмму? Позвольте дать вам рекомендации на основе выбранных вами данных.</translation>
+        <translation>¿Se pregunta cómo elegir un gráfico? Permítanos recomendarle uno en función de sus datos seleccionados.</translation>
     </message>
     <message>
         <source>PrevLandscape.title</source>
-        <translation>Альбомная</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Экспорт в рисунок</translation>
+        <translation>Exportar como imagen</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
-        <translation>Выделение, отклонение ввода или удаление повторений строк листа.
+        <translation>Resalta, Rechaza entrada o Quitar las filas duplicadas desde la hoja.
 
-Можно указать столбцы, которые должны быть проверены на повторение информации.</translation>
+Puede especificar las columnas en las que se buscará información duplicada.</translation>
     </message>
     <message>
         <source>VerticalText.content</source>
-        <translation>Разместить текст вертикально, расположив буквы одна над другой.</translation>
+        <translation>Dibuja el texto verticalmente, con las letras apiladas unas encimas de otras.</translation>
     </message>
     <message>
         <source>ChartObjects.title</source>
-        <translation>Объекты диаграммы</translation>
+        <translation>Objetos del gráfico</translation>
     </message>
     <message>
         <source>ContextTextDirection.title</source>
-        <translation>Контекст</translation>
+        <translation>Contexto</translation>
     </message>
     <message>
         <source>Recommended Chart.title</source>
-        <translation>Рекомендованные диаграммы</translation>
+        <translation>Gráficos recomendados</translation>
     </message>
     <message>
         <source>PTRefreshAllData.content</source>
-        <translation>Получение актуальных данных при обновлении всех источников в книге.</translation>
+        <translation>Actualiza todas las fuentes del libro y permite obtener los últimos datos.</translation>
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation>Режим просмотра рядом.</translation>
+        <translation>Comparar en paralelo</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
-        <translation>Сортировка выделенного диапазона так, чтобы наименьшие значения оказались вверху столбца.</translation>
+        <translation>Ordena la selección para que los valores más bajos se encuentren en la parte superior de la columna.</translation>
     </message>
     <message>
         <source>ShapeFillColor2.content</source>
-        <translation>Щёлкните стрелку для выбора типа заливки.</translation>
+        <translation>Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>DataDetailedSettings.content</source>
-        <translation>DataDetailedSettings Content</translation>
+        <translation>Contenido de DataDetailedSettings</translation>
     </message>
     <message>
         <source>NameCreate.content</source>
-        <translation>Автоматическое создание имен для выделенных ячеек.
+        <translation>Genera automáticamente nombres desde las celdas seleccionadas.
 
-Большинство пользователей предпочитает использовать текст в верхней строке крайнего левого столбца выделения.</translation>
+Generalmente se utiliza el texto de la fila superior o de la columna situada más a la izquierda de una selección.</translation>
     </message>
     <message>
         <source>SameLetterHeights.content</source>
-        <translation>Сделать все буквы выделенного фигурного текста равными по высоте.</translation>
+        <translation>Hace que todas las letras del WordArt seleccionado tengan el mismo alto.</translation>
     </message>
     <message>
         <source>Logical.content</source>
-        <translation>Просмотр и выбор из списка логических функций.</translation>
+        <translation>Examina y selecciona de una lista de funciones lógicas.</translation>
     </message>
     <message>
         <source>DetailedSettings_WordArt.title</source>
-        <translation>Параметры</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>InsertDropDownList.content</source>
-        <translation>Создание раскрывающегося списка и настройка вариантов выбора.</translation>
+        <translation>Cree una lista desplegable y personalice las opciones que contiene.</translation>
     </message>
     <message>
         <source>ExportFilterResult.content</source>
-        <translation>Сохранение отфильтрованных результатов в виде нового файла или листа.</translation>
+        <translation>Guarde los resultados de filtrado como un nuevo archivo o una nueva hoja de cálculo.</translation>
     </message>
     <message>
         <source>PublishToSharePoint.title</source>
-        <translation>Экспорт таблицы в список SharePoint</translation>
+        <translation>Exportar tabla a lista de SharePoint</translation>
     </message>
     <message>
         <source>CalculateSheet.title</source>
-        <translation>Пересчитать лист</translation>
+        <translation>Calcular hoja</translation>
     </message>
     <message>
         <source>Refresh.content</source>
-        <translation>Обновление информации из источника данных в книге.</translation>
+        <translation>Actualiza la información del libro que provenga de una fuente de datos.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Автосохранение файла</translation>
+        <translation>Guardar archivo automáticamente</translation>
     </message>
     <message>
         <source>FormatChartObject.content</source>
-        <translation>Запуск диалогового окна &quot;Формат&quot; для объектов диаграммы. Можно использовать подробные параметры настройки диаграммы.</translation>
+        <translation>Muestra el cuadro de diálogo de Formato de objetos del gráfico. Puede utilizar la configuración detallada para las opciones del gráfico.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation>Выделение отрицательных значений в выбранной группе спарклайнов с помощью другого цвета или маркера.</translation>
+        <translation>Resalta los valores negativos en el grupo de líneas del minigráfico seleccionado con un color o marcador diferente.</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation>Цвет заливки</translation>
+        <translation>Color de relleno</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
-        <translation>Разрешить определённым пользователям изменять диапазоны ячеек защищённой книги или листа.
+        <translation>Permite que personas concretas editen rangos de celdas en un libro u hoja protegidos.
 
-Перед использованием этой функции установите параметры безопасности с помощью команды &quot;Защитить лист&quot;.</translation>
+Antes de utilizar este comando, establezca la seguridad en la hoja con la función Proteger hoja.</translation>
     </message>
     <message>
         <source>PrintManualDuplex.content</source>
@@ -1236,238 +1233,238 @@
     </message>
     <message>
         <source>NamePaste.title</source>
-        <translation>Добавление имени</translation>
+        <translation>Pegar nombre</translation>
     </message>
     <message>
         <source>ImportData.content</source>
-        <translation>Импорт внешних данных в выделенную таблицу.</translation>
+        <translation>Importa datos externos en la hoja de cálculo seleccionada. </translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.content</source>
-        <translation>Добавление горизонтального или вертикального текстового поля в документ.</translation>
+        <translation>Haga clic aquí para insertar texto horizontal o vertical.</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation>Вставить данные</translation>
+        <translation>Insertar datos</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
-        <translation>Параметры поля</translation>
+        <translation>Configuración de campo</translation>
     </message>
     <message>
         <source>RowsAndColumn.content</source>
-        <translation>Щёлкните здесь для работы со строками или столбцами. Можно отрегулировать высоту и ширину, залить или скрыть строку или столбец.</translation>
+        <translation>Haga clic aquí para operar las filas y las columnas. Puede ajustar el alto y el ancho, Rellenar u Ocultar las filas y columnas.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.content</source>
-        <translation>Классификация и обобщение данных, а также создание диаграмм с результатами.</translation>
+        <translation>Clasifique y resuma los datos. Además, también podrá crear gráficos con los resultados.</translation>
     </message>
     <message>
         <source>RefreshAll.content</source>
-        <translation>Обновить всю информацию из источника данных в книге.</translation>
+        <translation>Actualiza la información del libro que provenga de una fuente de datos.</translation>
     </message>
     <message>
         <source>SpellCheck.content</source>
-        <translation>Проверка правильности написания текста.</translation>
+        <translation>Comprueba la ortografía del texto en la hoja de cálculo actual.</translation>
     </message>
     <message>
         <source>SplitSheet.content</source>
-        <translation>Разделение текущей таблицы на несколько файлов или листов в соответствии с ее содержимым.</translation>
+        <translation>Divida la tabla actual en varios archivos u hojas de cálculo según el contenido.</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Выравнивание текста по правому краю.</translation>
+        <translation>Alinea el texto a la derecha.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
-        <translation>Выберите строку или ее первую ячейку. Над ней будет вставлен горизонтальный разрыв страницы.
-Выберите столбец или его первую ячейку. Слева от него будет вставлен вертикальный разрыв страницы.
-Выберите ячейку посередине любой строки или столбца. Будут вставлены два разрыва страницы (один сверху и один слева).
-В страничном режиме можно перетаскивать разрывы страниц для настройки.</translation>
+        <translation>Seleccione una fila o la primera celda de ella, y se insertará un salto de página horizontal arriba.
+Seleccione una columna o la primera celda de ella, y se insertará un salto de página vertical a la izquierda.
+Seleccione una celda en el medio de una fila/columna, y se insertarán dos saltos de página, uno arriba y otro a la izquierda.
+En Vista previa de salto de página, puede arrastrar los saltos de página para ajustar.</translation>
     </message>
     <message>
         <source>DeleteRange2.content</source>
-        <translation>Щёлкните здесь для удаления ячеек, строк или всего листа.</translation>
+        <translation>Haga clic aquí para eliminar las celdas, las filas o la hoja de cálculo completa.</translation>
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation>Преобразование упрощённого в традиционный китайский</translation>
+        <translation>Traducción de chino simplificado a chino tradicional</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Увеличение поля между границей и текстом ячейки.</translation>
+        <translation>Aumenta el margen entre el borde y el texto de la celda.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Уменьшение поля между границей и текстом ячейки.</translation>
+        <translation>Reduce el margen entre el borde y el texto de la celda.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
-        <translation>Сортировка выделенного диапазона так, чтобы наибольшие значения оказались вверху столбца.</translation>
+        <translation>Ordena la selección para que los valores más altos se encuentren en la parte superior de la columna.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
-        <translation>PDF в Excel</translation>
+        <translation>De PDF a Excel</translation>
     </message>
     <message>
         <source>ProtectAndShare.title</source>
-        <translation>Защита книги и общий доступ</translation>
+        <translation>Proteger y compartir libro</translation>
     </message>
     <message>
         <source>FreezePanes.content</source>
-        <translation>Закрепление на экране части листа при прокрутке остальной его части
-
-(можно отменить блокировку для прокрутки всего листа).</translation>
+        <translation>Mantiene una parte de la hoja visible durante el desplazamiento por la hoja. (Puede cancelar el bloqueo del desplazamiento a través de toda la hoja de cálculo.).</translation>
     </message>
     <message>
         <source>SourceData.content</source>
-        <translation>Изменение диапазона данных, представленных на диаграмме.</translation>
+        <translation>Cambia el rango de datos incluidos en el gráfico.</translation>
     </message>
     <message>
         <source>HeaderRow.content</source>
-        <translation>Отображение или скрытие строки заголовка в таблице.
+        <translation>Active o desactive la fila de encabezado de la tabla.
 
-Строка заголовка — это верхняя строка таблицы, которая форматируется особым образом.</translation>
+La fila de encabezado confiere un formato especial a la fila superior de la tabla.</translation>
     </message>
     <message>
         <source>TextToColumns.content</source>
-        <translation>Разделить содержимое ячеек листа на отдельные столбцы.
+        <translation>Divide el contenido de una celda de Spreadsheeta en varias columnas.
 
-Например, вы можете разделить столбец с полным именем на отдельные столбцы с фамилией, именем и отчеством.
+Por ejemplo, puede dividir una columna que contenga nombres y apellidos en dos columnas distintas para los nombres y los apellidos.
 
-В Writer это используется для преобразования выделенного текста в таблицу или разбивки на столбцы текста с помощью запятой, точки, или другого разделителя.</translation>
+En Writer, utilice esta función para convertir el texto seleccionado en una tabla, dividiendo el texto en columnas en cada coma, punto u otro carácter que especifique.</translation>
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation>Преобразовать упрощённый китайский в традиционный на основе символов или слов.</translation>
+        <translation>Decide sea carácter o palabra la unidad de traducción de chino simplificado - tradicional.</translation>
     </message>
     <message>
         <source>AllBorders.content</source>
-        <translation>Изменение границ выделенных ячеек.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>m_Format.title</source>
-        <translation>Формат</translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>MergeSheet.content</source>
-        <translation>Объединить несколько листов в один.</translation>
+        <translation>Combine varias hojas en una sola.</translation>
     </message>
     <message>
         <source>Morefunctions.title</source>
-        <translation>Другие функции</translation>
+        <translation>Más funciones</translation>
     </message>
     <message>
         <source>FreezePanes.title</source>
-        <translation>Закрепление области</translation>
+        <translation>Inmovilizar/Movilizar paneles</translation>
     </message>
     <message>
         <source>PublishToSharePoint.content</source>
-        <translation>Экспорт данных из этой таблицы в список SharePoint или схему Visio.</translation>
+        <translation>Exporte los datos de esta tabla a una lista de SharePoint o un diagrama de Visio.</translation>
     </message>
     <message>
         <source>PrevPortrait.title</source>
-        <translation>Книжная</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>NewWindow.title</source>
-        <translation>Новое окно</translation>
+        <translation>Nueva ventana</translation>
     </message>
     <message>
         <source>ImportData.title</source>
-        <translation>Импортировать данные</translation>
+        <translation>Importar datos</translation>
     </message>
     <message>
         <source>SplitPanes.title</source>
-        <translation>Разделить</translation>
+        <translation>Dividir/unir </translation>
     </message>
     <message>
         <source>RelativeReference.content</source>
-        <translation>Использование относительных ссылок, при котором действия в макросах записываются относительно ячейки, в которой находится курсор.</translation>
+        <translation>Utiliza referencias relativas para que las macros se graben con acciones relativas a la celda inicial seleccionada.</translation>
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation>Вставить поля формы</translation>
+        <translation>Insertar campos de formulario</translation>
     </message>
     <message>
         <source>Security.content</source>
-        <translation>Настройка параметров безопасности макросов.</translation>
+        <translation>Personaliza la configuración de seguridad de la macro.</translation>
     </message>
     <message>
         <source>PivotChart.content</source>
-        <translation>Используйте сводные диаграммы для обобщения данных и анализа сложных данных.</translation>
+        <translation>Use gráficos dinámicos para resumir de forma gráfica los datos y explorar datos complejos.</translation>
     </message>
     <message>
         <source>RecenttlyUsed.title</source>
-        <translation>Последние использованные</translation>
+        <translation>Recientes</translation>
     </message>
     <message>
         <source>Average.content</source>
-        <translation>Вычисление среднего арифметического аргументов функции..</translation>
+        <translation>Devuelve el promedio (media aritmética) de los argumentos.</translation>
     </message>
     <message>
         <source>FlashFill.content</source>
-        <translation>Проанализировать связи между результатами и исходными данными и интеллектуально заполнить ячейки в том же столбце.</translation>
+        <translation>Analice la relación entre los resultados y los datos originales, y rellene otras celdas en la misma columna de forma inteligente.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation>Изменение выбранной группы спарклайнов в спарклайн-гистограмму.</translation>
+        <translation>Cambia el grupo de minigráficos seleccionado por un minigráfico de columna.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
-        <translation>Разрешение фильтрации выделенных ячеек.
+        <translation>Habilita el filtrado de celdas seleccionadas.
 
-Если фильтрация включена, достаточно щелкнуть стрелку в заголовке столбца, чтобы выбрать фильтр для этого столбца.</translation>
+Una vez activado el filtrado, haga clic en la flecha del encabezado de columna para elegir un filtro.</translation>
     </message>
     <message>
         <source>ShowDetail.title</source>
-        <translation>Показать детали</translation>
+        <translation>Mostrar detalle</translation>
     </message>
     <message>
         <source>TextFill2.content</source>
-        <translation>Щёлкните стрелку для выбора цвета текста.</translation>
+        <translation>Haga clic en la flecha para seleccionar un color diferente de texto.</translation>
     </message>
     <message>
         <source>DoubleUnderline.title</source>
-        <translation>Двойной линией</translation>
+        <translation>Subrayado doble</translation>
     </message>
     <message>
         <source>UnhideWindow.content</source>
-        <translation>Отображение всех окон, скрытых функцией &quot;Скрыть окно&quot;.</translation>
+        <translation>Muestra las ventanas ocultas mediante la opción Ocultar ventana.</translation>
     </message>
     <message>
         <source>HideWindow.content</source>
-        <translation>Скрытие текущего окна.
+        <translation>Oculta la ventana actual.
 
-Чтобы вернуть окно, нажмите кнопку &quot;Показать&quot;.</translation>
+Para volver a mostrar la ventana, haga clic en el botón Mostrar.</translation>
     </message>
     <message>
         <source>EvaluateFormula.title</source>
-        <translation>Вычислить формулу</translation>
+        <translation>Evaluar fórmula</translation>
     </message>
     <message>
         <source>SlicerItemHeight.content</source>
-        <translation>Изменение высоты кнопок среза.</translation>
+        <translation>Cambie la altura de los botones del segmento.</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation>Уменьшить размер шрифта</translation>
+        <translation>Disminuir tamaño de fuente</translation>
     </message>
     <message>
         <source>Count.title</source>
-        <translation>Количество</translation>
+        <translation>Contar</translation>
     </message>
     <message>
         <source>ReadingLayout.content</source>
-        <translation>Просмотр заголовков строк и столбцов выделенной ячейки.</translation>
+        <translation>Convenient to check related data which are in the same row or column with the current cell.
+
+Haga clic en la flecha para seleccionar un color diferente.</translation>
     </message>
     <message>
         <source>Chart.title</source>
-        <translation>Создать диаграмму</translation>
+        <translation>Crear gráfico</translation>
     </message>
     <message>
         <source>What-If Analysis.title</source>
-        <translation>Анализ &quot;что если&quot;</translation>
+        <translation>Análisis de hipótesis</translation>
     </message>
     <message>
         <source>WinLossSparkline.content</source>
@@ -1475,1030 +1472,1031 @@
     </message>
     <message>
         <source>MergeColumns.content</source>
-        <translation>Выделить и объединить ячейки по одной или нескольким строкам.</translation>
+        <translation>Selecciona y combina las celdas de una o varias filas.</translation>
     </message>
     <message>
         <source>GraphicLineColor.title</source>
-        <translation>Контур графического объекта</translation>
+        <translation>Contorno de gráfico</translation>
     </message>
     <message>
         <source>ShowOrHideComment.title</source>
-        <translation>Показать/скрыть примечание.</translation>
+        <translation>Mostrar u ocultar comentario</translation>
     </message>
     <message>
         <source>ThickBoxBorder.content</source>
-        <translation>Добавление толстой границы вокруг выделенных ячеек.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>PrintLayout.content</source>
-        <translation>Просмотр документа в том виде, в котором он будет напечатан.</translation>
+        <translation>Muestra el libro tal y cómo aparecerá en la página impresa.</translation>
     </message>
     <message>
         <source>PrinterCollate.title</source>
-        <translation>Очередь печати</translation>
+        <translation>Cola de impresión</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation>Выравнивание абзаца одновременно по левому и правому краю путем добавления дополнительных пробелов между каждыми двумя символами для языков с тоновыми знаками и огласовками.
+        <translation>Alinea el texto en los márgenes izquierdo y derecho añadiendo espacio adicional entre los caracteres para los idiomas con marca de tono y marca de vocal.
 
-Это позволяет придать документу опрятный вид.</translation>
+De este modo se crea un documento con aspecto ordenado.</translation>
     </message>
     <message>
         <source>PivotTableOrder.content</source>
-        <translation>Перемещение области строк или столбцов сводной таблицы вверх или вниз.</translation>
+        <translation>Mueve el área de fila o columna de una tabla dinámica a la parte superior o inferior. </translation>
     </message>
     <message>
         <source>Scientific.content</source>
-        <translation>Формат числа в экспоненциальном представлении с 2 знаками после запятой.</translation>
+        <translation>Formato de número en notación científica con 2 decimales.</translation>
     </message>
     <message>
         <source>InteractiveChart.title</source>
-        <translation>Вставить интерактивную диаграмму</translation>
+        <translation>Insertar gráfico interactivo</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.content</source>
-        <translation>Просмотр и выбор из списка функций даты и времени.</translation>
+        <translation>Examina y selecciona de una lista de funciones de fecha y hora.</translation>
     </message>
     <message>
         <source>UnhideWindow.title</source>
-        <translation>Показать окно</translation>
+        <translation>Mostrar ventana</translation>
     </message>
     <message>
         <source>ShapeLineColor2.title</source>
-        <translation>Контур фигуры</translation>
+        <translation>Contorno de forma</translation>
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation>Очистить выбранные спарклайны</translation>
+        <translation>Borrar minigráficos seleccionados</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation>Заливка и контуры фигуры</translation>
+        <translation>Relleno y contorno de forma</translation>
     </message>
     <message>
         <source>ComAddin.title</source>
-        <translation>Надстройки COM</translation>
+        <translation>Complementos COM</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation>Изменение колонтитулов документа.
+        <translation>Edita el encabezado o el pie de página del documento
 
-Содержимое колонтитулов будет отображаться вверху или внизу каждой напечатанной страницы.</translation>
+La información del encabezado o del pie de página aparecerá en la parte superior o inferior de cada página impresa.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
-        <translation>Ряды диаграммы создаются в строках.</translation>
+        <translation>Crea un serie del gráfico en las filas.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Поиск и замена</translation>
+        <translation>Buscar y reemplazar</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation>Колонтитулы</translation>
+        <translation>Encabezado y pie de página</translation>
     </message>
     <message>
         <source>SortDescending.title</source>
-        <translation>Сортировать по убыванию</translation>
+        <translation>Descendente</translation>
     </message>
     <message>
         <source>ConditionalFormat.title</source>
-        <translation>Условное форматирование</translation>
+        <translation>Formato condicional</translation>
     </message>
     <message>
         <source>PivotTable.content</source>
-        <translation>Щёлкните здесь, чтобы выполнить сведение данных с помощью сводной таблицы.
+        <translation>Haga clic para resumir los datos usando una tabla dinámica.
 
-Сводные таблицы упрощают представление, сведение и детализацию сложных данных.</translation>
+Las tablas dinámicas hacen fácil organizar y resumir datos complicados y profundizar en los detalles.</translation>
     </message>
     <message>
         <source>ShowFormulas.title</source>
-        <translation>Показать формулы</translation>
+        <translation>Mostrar fórmulas</translation>
     </message>
     <message>
         <source>EnableMacro.content</source>
-        <translation>Чтобы включить функции макросов, необходимо установить вспомогательную библиотеку VBA. Щелкните, чтобы посмотреть сведения.</translation>
+        <translation>Para habilitar las funciones de macro, debe instalar la biblioteca de soporte VBA. Haga clic para ver los detalles.</translation>
     </message>
     <message>
         <source>FTB_Property.title</source>
-        <translation>Свойства элемента</translation>
+        <translation>Propiedades del control</translation>
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation>Угол освещения</translation>
+        <translation>Iluminación</translation>
     </message>
     <message>
         <source>DataDetailedSettings.title</source>
-        <translation>DataDetailedSettings Title</translation>
+        <translation>Configuración detallada de datos</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Выровнять по центру</translation>
+        <translation>Centrar</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation>Отметьте фоновую область, а затем быстро и точно удалите фон изображения</translation>
+        <translation>Marque el área de fondo y quite de forma rápida e inteligente el fondo de la imagen</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation>Изменение масштаба и видимости каждой оси спарклайна для выбранной группы спарклайнов.</translation>
+        <translation>Cambia la escala y la visibilidad de cada eje de minigráfico del grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>RefreshAll.title</source>
-        <translation>Обновить всё</translation>
+        <translation>Actualizar toda</translation>
     </message>
     <message>
         <source>ExistingConnections.title</source>
-        <translation>Получить данные с помощью существующего подключения</translation>
+        <translation>Obtener datos mediante una conexión existente</translation>
     </message>
     <message>
         <source>SplitSheet.title</source>
-        <translation>Разделить таблицу</translation>
+        <translation>Dividir tabla</translation>
     </message>
     <message>
         <source>FlashFill.title</source>
-        <translation>Мгновенное заполнение</translation>
+        <translation>Relleno rápido</translation>
     </message>
     <message>
         <source>LoadMacro.title</source>
-        <translation>Надстройки</translation>
+        <translation>Complementos</translation>
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation>Разрешить WPS Spreadsheets выбирать направление письма в абзаце на основании языка ввода.</translation>
+        <translation>Permite a WPS Spreadsheets elegir la dirección del párrafo según el idioma de escritura.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation>Захват экрана, извлечение текста одним нажатием клавиши.</translation>
+        <translation>Captura de pantalla, extraiga texto con un clic.</translation>
     </message>
     <message>
         <source>Margins.title</source>
-        <translation>Поля</translation>
+        <translation>Márgenes</translation>
     </message>
     <message>
         <source>ThickBoxBorder.title</source>
-        <translation>Толстая внешняя граница</translation>
+        <translation>Borde de cuadro grueso</translation>
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation>Коллекция WPS Office</translation>
+        <translation>Galería de WPS Office</translation>
     </message>
     <message>
         <source>LockCell.content</source>
-        <translation>При включённой защите листа, функция &quot;Блокировать ячейку&quot; может защитить данные от изменений.</translation>
+        <translation>Si la hoja de cálculo está protegida, esta función puede proteger los datos e impide que se los modifique.</translation>
     </message>
     <message>
         <source>NumberFormatGallery.content</source>
-        <translation>Выбор формата для ячеек, например формата процентов, валюты, даты или времени.</translation>
+        <translation>Permite elegir el formato de las celdas, como porcentaje, moneda, fecha u hora.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.content</source>
-        <translation>Установка режима автоматической сортировки поля сводной таблицы.</translation>
+        <translation>Set the auto sort option of the PivotTable field.</translation>
     </message>
     <message>
         <source>DoubleAccounting.title</source>
-        <translation>Двойное, по ячейке</translation>
+        <translation>Doble contabilidad</translation>
     </message>
     <message>
         <source>SortAndFilter.title</source>
-        <translation>Сортировка</translation>
+        <translation>Ordenar</translation>
     </message>
     <message>
         <source>SeriesInColumns.content</source>
-        <translation>Ряды диаграммы создаются в столбцах.</translation>
+        <translation>Crea una serie del gráfico en las columnas.</translation>
     </message>
     <message>
         <source>Table.title</source>
-        <translation>Таблица</translation>
+        <translation>Tabla</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation>DrawingToolsDetailedSettings Content</translation>
+        <translation>Contenido de DrawingToolsDetailedSettings</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation>Изменить данные и расположение группы</translation>
+        <translation>Editar ubicación y datos del grupo</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
-        <translation>Управление подключением сводной таблицы к различным фильтрам.</translation>
+        <translation>Gestione los filtros a los que está conectada la tabla dinámica.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation>Выбор для выделенной формы 3-D направления и силы освещения, включая, яркое, нормальное и тусклое.</translation>
+        <translation>Ajusta la dirección y la intensidad de iluminación de la forma 3D seleccionada. Lo segundo incluye brillante, normal y tenue.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation>Вставить рисунок</translation>
+        <translation>Insertar imagen</translation>
     </message>
     <message>
         <source>PTFilterConnections.title</source>
-        <translation>Подключения к фильтрам</translation>
+        <translation>Filtrar conexiones</translation>
     </message>
     <message>
         <source>CellStyleGallery.content</source>
-        <translation>Выбор предопределенного стиля для ячеек. Также можно настроить стили.</translation>
+        <translation>Seleccione un estilo predefinido para las celdas. También puede personalizar los estilos.</translation>
     </message>
     <message>
         <source>SeriesInRows.title</source>
-        <translation>Переключить строку</translation>
+        <translation>Cambiar fila</translation>
     </message>
     <message>
         <source>FTB_Property.content</source>
-        <translation>Выбор свойств объекта для выбранной формы, таких как, шрифт и размер.</translation>
+        <translation>Configura las propiedades del objeto de formulario seleccionado como la fuente y el tamaño.</translation>
     </message>
     <message>
         <source>PageOrientation.content</source>
-        <translation>Выбор книжной или альбомной ориентации страниц.</translation>
+        <translation>Cambia el diseño de la página entre horizontal y vertical.</translation>
     </message>
     <message>
         <source>RightBorder.content</source>
-        <translation>Добавление правой границы к выделенным ячейкам.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.content</source>
-        <translation>Показать только один из дубликатов родительских подписей элементов.</translation>
+        <translation>Mostrar solo una etiqueta principal duplicada de elemento.</translation>
     </message>
     <message>
         <source>TextOrientation.content</source>
-        <translation>Поворот текста таким образом, чтобы он располагался по диагонали или по вертикали.
+        <translation>Gira el texto a un ángulo diagonal o a una orientación vertical.
 
-Часто используется для размещения заголовков узких столбцов.
+Se utiliza generalmente para etiquetar columnas estrechas.
 
-Чтобы восстановить нормальную ориентацию текста, щелкните выделенную ориентацию текста еще раз.</translation>
+Haga clic en la orientación de texto actualmente seleccionada para restablecer la orientación normal del texto.</translation>
     </message>
     <message>
         <source>VAlignTop.content</source>
-        <translation>Выравнивание текста по верхнему краю ячейки.</translation>
+        <translation>Alinea texto en la parte superior de la celda.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.content</source>
-        <translation>Преобразование традиционного китайского в упрощенный китайский.</translation>
+        <translation>Traduce el chino tradicional al chino simplificado.</translation>
     </message>
     <message>
         <source>PageBreakPreview.title</source>
-        <translation>Страничный режим</translation>
+        <translation>Vista previa de salto de página</translation>
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation>Цвет заливки</translation>
+        <translation>Color de relleno</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
-        <translation>Расширенный фильтр</translation>
+        <translation>Filtro avanzado</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation>Преобразование рисунка в текст.</translation>
+        <translation>Convertir imagen en formato de texto.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.title</source>
-        <translation>Проверка наличия ошибок</translation>
+        <translation>Comprobación de errores</translation>
     </message>
     <message>
         <source>CommaStyle.content</source>
-        <translation>Использование разделителя тысяч при отображении значения ячейки.</translation>
+        <translation>Muestra el valor de la celda con un separador de miles.</translation>
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation>Одновременная прокрутка двух документов.
+        <translation>incroniza el desplazamiento de los dos documentos para que se desplacen juntos.
 
-Для применения этой функции включите &quot;Режим просмотра рядом&quot;.</translation>
+Para habilitar esta característica, habilite la función Ver en paralelo.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation>Показать или скрыть отрицательные точки спарклайна</translation>
+        <translation>Conmutar puntos negativos del minigráfico</translation>
     </message>
     <message>
         <source>NameManager.title</source>
-        <translation>Диспетчер имен</translation>
+        <translation>Administrador de nombres</translation>
     </message>
     <message>
         <source>RunMacro2.title</source>
-        <translation>Просмотр макросов</translation>
+        <translation>Ver macros</translation>
     </message>
     <message>
         <source>ChartObjects.content</source>
-        <translation>Выбор элемента диаграммы для форматирования.</translation>
+        <translation>Selecciona un elemento de gráfico para que pueda darle formato.</translation>
     </message>
     <message>
         <source>RecentLineWrap.title</source>
-        <translation>Перенос по словам</translation>
+        <translation>Ajustar texto</translation>
     </message>
     <message>
         <source>AutoSum.title</source>
-        <translation>Автосумма</translation>
+        <translation>Autosuma</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>Быстрое устранение ошибок в документах, которые были повреждены или не открываются по другим причинам.</translation>
+        <translation>Corregir rápidamente los documentos cifrados o los que no se puedan abrir por otras razones.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Автосохранение включено</translation>
+        <translation>Guardado automático activado</translation>
     </message>
     <message>
         <source>EDRProperties.content</source>
-        <translation>Изменение имён внешних источников данных, формата и макета.</translation>
+        <translation>Cambia el nombre de fuente de datos externa, el formato de números y el diseño.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation>Изменение параметров форматирования форм.</translation>
+        <translation>Cambia la configuración del formato de forma.</translation>
     </message>
     <message>
         <source>sp_AutoSum.title</source>
-        <translation>Автосумма</translation>
+        <translation>Autosuma</translation>
     </message>
     <message>
         <source>AutoFilter.title</source>
-        <translation>Автофильтр</translation>
+        <translation>Filtro automático</translation>
     </message>
     <message>
         <source>DataGroup.content</source>
-        <translation>Группирование объектов таким образом, чтобы в дальнейшем их можно было обрабатывать как один объект.</translation>
+        <translation>Agrupa un rango de celdas para expandirlas o contraerlas.</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Уменьшение файла</translation>
+        <translation>Aligeramiento de archivo</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
-        <translation>Отменить объединение ячеек</translation>
+        <translation>Separar celdas</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.title</source>
-        <translation>Не повторять подписи элементов</translation>
+        <translation>No repetir etiquetas de elementos</translation>
     </message>
     <message>
         <source>Duplicates.title</source>
-        <translation>Удалить повторения</translation>
+        <translation>Duplicados</translation>
     </message>
     <message>
         <source>ResizeTable.title</source>
-        <translation>Изменение размера таблицы</translation>
+        <translation>Cambiar tamaño de tabla</translation>
     </message>
     <message>
         <source>sp_AutoSum2.content</source>
-        <translation>Щёлкните здесь, чтобы отобразить резултат простого вычисления, например расчета среднего или максимального значения для выделенных ячеек.</translation>
+        <translation>Haga clic para mostrar el resultado del cálculo simple, como valor medio o máximo después de las celdas seleccionadas.</translation>
     </message>
     <message>
         <source>PercentStyle.title</source>
-        <translation>Процентный формат</translation>
+        <translation>Estilo porcentual</translation>
     </message>
     <message>
         <source>CellStyleGallery.title</source>
-        <translation>Стили ячеек</translation>
+        <translation>Estilos de celda</translation>
     </message>
     <message>
         <source>BandedColumns.title</source>
-        <translation>Полосы столбцов</translation>
+        <translation>Columnas con bandas</translation>
     </message>
     <message>
         <source>Camera.title</source>
-        <translation>Снимок выделения</translation>
+        <translation>Cámara</translation>
     </message>
     <message>
         <source>Currency.title</source>
-        <translation>Денежный</translation>
+        <translation>Moneda</translation>
     </message>
     <message>
         <source>FormatChartObject.title</source>
-        <translation>Формат выделенного фрагмента</translation>
+        <translation>Aplicar formato a la selección</translation>
     </message>
     <message>
         <source>sp_AutoSum.content</source>
-        <translation>Показать сумму выделенных ячеек непосредственно после этих ячеек.</translation>
+        <translation>Muestra la suma de las celdas seleccionadas directamente después de las celdas seleccionadas.</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation>разделение или слияние</translation>
+        <translation>Dividir o fusionar</translation>
     </message>
     <message>
         <source>NoBorder.title</source>
-        <translation>Без границы</translation>
+        <translation>Sin borde</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Показать диалоговое окно &quot;Вставить объект&quot; для выбора нового файла или файла из локальной папки.</translation>
+        <translation>Muestra el cuadro de diálogo de Insertar objeto para seleccionar nuevo archivo o archivo desde la carpeta local.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
-        <translation>Выравнивание текста по нижнему краю ячейки.</translation>
+        <translation>Alinea el texto en la parte inferior de la celda.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation>Группирование объектов таким образом, чтобы в дальнейшем их можно было обрабатывать как один объект.</translation>
+        <translation>Agrupa los objetos juntos para que se puedan considerar como un solo objeto.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
-        <translation>Переключить колонку</translation>
+        <translation>Cambiar columna</translation>
     </message>
     <message>
         <source>NameDefine.content</source>
-        <translation>Присвоение имен отдельным ячейкам и диапазонам ячеек. В дальнейшем можно будет ссылаться на них в формулах по данному имени.
+        <translation>Asigna nombres a celdas para referirse a ellas por sus nombres en las fórmulas.
 
-Например, диапазону ячеек A1:A10 можно присвоить имя &quot;проверка&quot;.
+Por ejemplo, puede nombrar las celdas de la A1 a la A10 como \&quot;Prueba\&quot;.
 
-Использование имен в формулах делает формулы более понятными.</translation>
+Los nombres se pueden utilizar en las fórmulas para facilitar su comprensión.</translation>
     </message>
     <message>
         <source>PTRepeatLabels.title</source>
-        <translation>Повторять все подписи элементов</translation>
+        <translation>Repetir todas las etiquetas de elementos</translation>
     </message>
     <message>
         <source>HideDetail.title</source>
-        <translation>Скрыть детали</translation>
+        <translation>Ocultar detalle</translation>
     </message>
     <message>
         <source>PrinterPaperSize.content</source>
-        <translation>Выберите размер бумаги для печати, например A3, A4 и т. д.</translation>
+        <translation>Seleccione el tamaño de papel que desea imprimir, por ejemplo, A3, A4, etc.</translation>
     </message>
     <message>
         <source>RecordList.content</source>
-        <translation>После выделения заголовка колонки, можете вводить, искать и удалять данные через форму данных.</translation>
+        <translation>Después de seleccionar el título de la columna, puede introducir, buscar o eliminar los datos a través del formulario de datos.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation>Совместная работа</translation>
+        <translation>Colaboración</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
-        <translation>Вставить объект</translation>
+        <translation>Insertar objeto</translation>
     </message>
     <message>
         <source>DataGroup.title</source>
-        <translation>Группировать</translation>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>DisplayGridlines.content</source>
-        <translation>Показать линии сетки между строками и столбцами листа для упрощения редактирования и просмотра.
+        <translation>Muestra las líneas entre filas y columnas de la hoja para facilitar la edición y la lectura.
 
-Линии сетки не будут показаны, если не установлен флажок &quot;Печать&quot;.</translation>
+Estas líneas no se imprimirán a menos que también se seleccione Imprimir.</translation>
     </message>
     <message>
         <source>OutsideBorders.content</source>
-        <translation>Показать внешние границы для выделенных ячеек.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.content</source>
-        <translation>Преобразование упрощённого в традиционный китайский.</translation>
+        <translation>Traduce el chino simplificado al chino tradicional.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>Оформление документа с помощью надписей WordArt.</translation>
+        <translation>Permite dar un toque artístico al documento con un cuadro de texto de WordArt.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
-        <translation>Объединить по строкам</translation>
+        <translation>Combinar horizontalmente</translation>
     </message>
     <message>
         <source>ModifyPivotTable.content</source>
-        <translation>Изменение источника данных сводной таблицы, и восстановление исходных параметров отображения таблицы.</translation>
+        <translation>Cambia el origen de datos de tabla dinámica y restablece su ubicación de mostrar.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.content</source>
-        <translation>Поиск ошибок, наиболее часто встречающихся в формулах.</translation>
+        <translation>Busca errores comunes en fórmulas.</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
-        <translation>Щелкните здесь, чтобы остановить чтение.</translation>
+        <translation>Haga clic aquí para detener la lectura.</translation>
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation>Выделение минимальных точек данных в выбранной группе спарклайнов.</translation>
+        <translation>Resalta los puntos más bajos de los datos en el grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
-        <translation>Управление повторениями</translation>
+        <translation>Administrar duplicados</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.title</source>
-        <translation>HomeDetailedSettings Title</translation>
+        <translation>Configuración detallada de inicio</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Просмотр элементов, копируемых в буфер обмена.</translation>
+        <translation>Ve los elementos copiados al Portapapeles.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
-        <translation>Выделение похожих записей для более легкого их сравнения.</translation>
+        <translation>Resalte registros parecidos para compararlos fácilmente.</translation>
     </message>
     <message>
         <source>PageLayoutView.title</source>
-        <translation>Разметка страницы</translation>
+        <translation>Vista de diseño de página</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
-        <translation>Преобразовать изображение</translation>
+        <translation>Traducir imagen</translation>
     </message>
     <message>
         <source>LastColumn.content</source>
-        <translation>Применение особого форматирования к последнему столбцу таблицы.</translation>
+        <translation>Muestre un formato especial en la última columna de la tabla.</translation>
     </message>
     <message>
         <source>PageOrientation.title</source>
-        <translation>Ориентация текста</translation>
+        <translation>Orientación de página</translation>
     </message>
     <message>
         <source>PageBreakPreview.content</source>
-        <translation>Предварительный просмотр разрывов страниц перед печатью документа.</translation>
+        <translation>Muestra una vista preliminar donde se interrumpen las páginas al imprimir el libro.</translation>
     </message>
     <message>
         <source>FontFormatCells.title</source>
-        <translation>Параметры шрифта</translation>
+        <translation>Configuración de fuentes</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.content</source>
-        <translation>Фильтрация таблицы простым выбором условия в Избранном. Избавляет от необходимости менять настройки условий.</translation>
+        <translation>Filtra la tabla en un paso haciendo clic en la condición en Favoritos. De este modo no debe preocuparse de configurar las condiciones.</translation>
     </message>
     <message>
         <source>ShapeLineColor.content</source>
-        <translation>Выбор цвета, ширины и стиля линии для контура выделенного объекта.
+        <translation>Especifica el color, ancho y estilo de línea del contorno del objeto seleccionado.
 
-Щёлкните стрелку для выбора детальных параметров контура.</translation>
+Haga clic en la flecha para seleccionar la configuración detallada de contorno.</translation>
     </message>
     <message>
         <source>VAlignBottom.title</source>
-        <translation>Выровнять по нижнему краю</translation>
+        <translation>Alinear en la parte inferior</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation>1. Заливка фигуры
-Заливка выбранных объектов цветами, градиентами, текстурами и изображениями.
-2. Контур фигуры
-Настройка цветов, толщины и штрихов для выбранных объектов.
-Нажмите кнопку со стрелкой, чтобы просмотреть подробную конфигурацию.</translation>
+        <translation>1. Relleno de forma
+Rellene los objetos seleccionados con colores, degradados, texturas e imágenes.
+2. Contorno de forma
+Configure los colores, pesos y guiones de los objetos seleccionados.
+Haga clic en las flechas para obtener una configuración detallada.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation>Выровнять текст по правому краю</translation>
+        <translation>Alinear a la derecha</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation>Очистка выбранных спарклайнов.</translation>
+        <translation>Borre los minigráficos seleccionados.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation>Остановить автоматическое сохранение для выделенной книги.</translation>
+        <translation>Detiene la copia de seguridad automática del libro actual.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>Вставить фигурный текст </translation>
+        <translation>Insertar WordArt</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
-        <translation>Сравнить данные и выделить или извлечь повторяющиеся и уникальные значения.</translation>
+        <translation>Compare datos, y resalte u obtenga los valores únicos y duplicados.</translation>
     </message>
     <message>
         <source>PivotTableDelete.title</source>
-        <translation>Удалить сводную таблицу</translation>
+        <translation>Eliminar tabla dinámica</translation>
     </message>
     <message>
         <source>AddFavorite.content</source>
-        <translation>Добавление текущих условий фильтра в Избранное для быстрого использования в будущем.</translation>
+        <translation>Agregue las condiciones de filtrado actuales a Favoritos para usarlas directamente la próxima vez.</translation>
     </message>
     <message>
         <source>PageZoom.title</source>
-        <translation>Масштаб страницы</translation>
+        <translation>Zoom de página</translation>
     </message>
     <message>
         <source>ShowDependents.content</source>
-        <translation>Отображение стрелок, указывающих на ячейки, на которые влияет значение выбранной ячейки.</translation>
+        <translation>Muestra flechas que indican a qué celdas afectará el valor de la celda seleccionada actualmente.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.title</source>
-        <translation>Верхняя и нижняя границы</translation>
+        <translation>Borde superior e inferior</translation>
     </message>
     <message>
         <source>BottomDoubleBorder.title</source>
-        <translation>Сдвоенная нижняя граница</translation>
+        <translation>Borde doble inferior</translation>
     </message>
     <message>
         <source>Accounting.content</source>
-        <translation>Выбор альтернативного формата денежной единицы для выделенной ячейки позволяет выровнять символ валюты по левому краю.</translation>
+        <translation>Elija un formato de moneda alternativo para la celda seleccionada que permita que el símbolo de moneda quede alineado a la izquierda.</translation>
     </message>
     <message>
         <source>DataUngroup2.content</source>
-        <translation>Разгруппирование ранее сгруппированного диапазона ячеек.</translation>
+        <translation>Desagrupa un rango de celdas agrupadas anteriormente.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
-        <translation>HomeDetailedSettings Content</translation>
+        <translation>Contenido de HomeDetailedSettings</translation>
     </message>
     <message>
         <source>FirstColumn.title</source>
-        <translation>Первый столбец</translation>
+        <translation>Primera columna</translation>
     </message>
     <message>
         <source>sp_AutoSum2.title</source>
-        <translation>Автосумма</translation>
+        <translation>Autosuma</translation>
     </message>
     <message>
         <source>MergeCenter2.title</source>
-        <translation>Объединить и выровнять по центру</translation>
+        <translation>Combinar y centrar</translation>
     </message>
     <message>
         <source>RotateRight.content</source>
-        <translation>Поворот или зеркальное отображение выделенного объекта.</translation>
+        <translation>Gira o voltea el objeto seleccionado.</translation>
     </message>
     <message>
         <source>InsertRange2.title</source>
-        <translation>Вставить ячейки</translation>
+        <translation>Insertar celdas</translation>
     </message>
     <message>
         <source>Direction.title</source>
-        <translation>Направление</translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <source>FTB_EditCode.title</source>
-        <translation>Изменить код</translation>
+        <translation>Modificar código</translation>
     </message>
     <message>
         <source>SheetBackground.content</source>
-        <translation>Выбор фонового изображения для создания индивидуального стиля листа.</translation>
+        <translation>Elija una imagen de fondo y dé un toque personal a la hoja de trabajo.</translation>
     </message>
     <message>
         <source>SlicerItemWidth.content</source>
-        <translation>Изменение ширины кнопок среза.</translation>
+        <translation>Cambie la anchura de los botones del segmento.</translation>
     </message>
     <message>
         <source>LastColumn.title</source>
-        <translation>Последний столбец</translation>
+        <translation>Última columna</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.content</source>
-        <translation>Добавить верхнюю и толстую нижнюю границы к выделенным ячейкам.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>InsertSlicer.title</source>
-        <translation>Вставить срез</translation>
+        <translation>Insertar segmento</translation>
     </message>
     <message>
         <source>Scientific.title</source>
-        <translation>Научный стиль</translation>
+        <translation>Estilo científico</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation>Переход к следующей странице при печати текущего листа.</translation>
+        <translation>Se desplaza a la página de impresión siguiente de la hoja de cálculo actual.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation>Разрыв страницы</translation>
+        <translation>Saltos de página</translation>
     </message>
     <message>
         <source>Min.content</source>
-        <translation>Определение наименьшего из набора значений.</translation>
+        <translation>Devuelve el número menor de un conjunto de valores.</translation>
     </message>
     <message>
         <source>Max.content</source>
-        <translation>Определение наибольшего из набора значений.</translation>
+        <translation>Devuelve el valor máximo de una lista de valores.</translation>
     </message>
     <message>
         <source>RTLTextDirection.content</source>
-        <translation>Задание чтения текста справа налево.</translation>
+        <translation>Establece el texto para que se lea de derecha a izquierda.</translation>
     </message>
     <message>
         <source>Printer.content</source>
-        <translation>Выберите принтер.</translation>
+        <translation>Elija una impresora.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation>Указание места, с которого начинается новая страница печатного документа.
+        <translation>Especifica el inicio de una nueva página en la copia impresa
 
-Разрывы страниц вставляются над выделенным фрагментом и слева от него.</translation>
+Los saltos de página se insertan encima y a la izquierda de la selección.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
-        <translation>Выбор строк и столбцов, которые будут повторены на каждой печатной странице.</translation>
+        <translation>Especifica las filas y columnas que se repetirán en cada página impresa.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation>Сохранить пропорции при настройке рисунка.</translation>
+        <translation>Bloquear la relación de aspecto al ajustar la imagen.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
-        <translation>Регистрация изменений</translation>
+        <translation>Control de cambios</translation>
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation>Выделение всех точек на спарклайн-графике в выбранной группе спарклайнов.</translation>
+        <translation>Resalta cada punto de cada línea del minigráfico del grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
-        <translation>Управление подключением среза к различным сводным таблицам.</translation>
+        <translation>Gestione los segmentos a los que están conectadas las tablas dinámicas.</translation>
     </message>
     <message>
         <source>ShapeLineColor2.content</source>
-        <translation>Щёлкните стрелку для выбора детальных параметров контура.</translation>
+        <translation>Haga clic en la flecha para seleccionar la configuración detallada de contorno.</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation>Выбор уровня масштабирования текущего документа.</translation>
+        <translation>Selecciona un tamaño de zoom para la hoja de cálculo actual.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation>Открытие нового окна с представлением текущего документа.</translation>
+        <translation>Abre una ventana nueva que contenga una vista de la hoja de cálculo actual.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
-        <translation>Укажите способ печати: односторонняя или двусторонняя.</translation>
+        <translation>Especifique cómo va a imprimir: a una cara o a doble cara.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation>Отслеживание всех изменений, внесенных в документ, включая вставку, удаление и изменение форматирования.</translation>
+        <translation>Controla todos los cambios realizados en el documento, incluidas las inserciones, eliminaciones y los cambios de formato.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
-        <translation>Применить границы для выбранных ячеек.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>SameLetterHeights.title</source>
-        <translation>Равной высоты</translation>
+        <translation>Mismo alto de letras de WordArt</translation>
     </message>
     <message>
         <source>LTRTextDirection.content</source>
-        <translation>Задание чтения текста слева направо.</translation>
+        <translation>Establece el texto para que se lea de izquierda a derecha.</translation>
     </message>
     <message>
         <source>ExitPreview.content</source>
-        <translation>Выход из режима предпросмотра печати и возврат к режиму редактирования документа.</translation>
+        <translation>Sale de la Vista previa de impresión y vuelve al modo de editar documento.</translation>
     </message>
     <message>
         <source>TaskWindow.title</source>
-        <translation>Область задач</translation>
+        <translation>Ventana de tareas</translation>
     </message>
     <message>
         <source>FTB_EditCode.content</source>
-        <translation>Запуск редактора Visual Basic для изменения выбранного кода формы.</translation>
+        <translation>Inicia el editor de visual basic para editar el código del formulario seleccionado.</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.title</source>
-        <translation>Поля</translation>
+        <translation>Márgenes</translation>
     </message>
     <message>
         <source>ConditionalFormat.content</source>
-        <translation>Форматирование, например, затенение фона или цвет шрифта, автоматически применяемое к ячейке, если указанное условие истинно.</translation>
+        <translation>Visualmente explora y analiza los datos, detecta los problemas críticos e identifica los patrones y tendencias.</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Заливка выделенного объекта цветом, градиентом, текстурой или изображением.
+        <translation>Rellena la forma seleccionada con un color sólido, degradado, imagen o textura.
 
-Щёлкните стрелку для выбора типа заливки.</translation>
+Haga clic en la flecha para seleccionar diferentes efectos de relleno.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
-        <translation>Восстановление всех примечаний на текущем листе.</translation>
+        <translation>Restablecer todos los comentarios de la hoja actual.</translation>
     </message>
     <message>
         <source>ColumnsCenter.title</source>
-        <translation>Через центр</translation>
+        <translation>Alinear al centro </translation>
     </message>
     <message>
         <source>PrintHeadings.title</source>
-        <translation>Печать заголовков</translation>
+        <translation>Imprimir encabezados</translation>
     </message>
     <message>
         <source>RecordMacro.title</source>
-        <translation>Запись макроса</translation>
+        <translation>Grabar macro</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation>Выровнять текст по левому краю</translation>
+        <translation>Alinear a la izquierda</translation>
     </message>
     <message>
         <source>ProtectSheet.title</source>
-        <translation>Защита листа</translation>
+        <translation>Proteger hoja</translation>
     </message>
     <message>
         <source>NameManager.content</source>
-        <translation>Создание, изменение, удаление, а также поиск всех имен, используемых в книге.
+        <translation>Cree, edite, elimine y busque todos los nombres usados en el libro
 
-Имена можно использовать в формулах вместо ссылок на ячейки.</translation>
+Los nombres se pueden usar en fórmulas como sustitutos para referencias a celdas</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
-        <translation>Тезаурус</translation>
+        <translation>Sinónimos</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.content</source>
-        <translation>Сведения о параметрах печати, например выбор принтера, печатаемые страницы, двусторонняя печать, масштабирование и т. д.</translation>
+        <translation>Detalles de configuración de impresión, como seleccionar la impresora, qué páginas se van a imprimir, impresión a doble cara, zoom, etc.</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation>Заливка фигуры</translation>
+        <translation>Relleno de forma</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
-        <translation>Постоянное отображение строки заголовка при чтении большого объема данных.</translation>
+        <translation>Mantener la fila de título siempre visible para usarla como referencia cuando se leen grandes cantidades de datos.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.content</source>
-        <translation>Щёлкните стрелку для выбора детальных параметров контура.</translation>
+        <translation>Haga clic en la flecha para seleccionar la configuración detallada de contorno.</translation>
     </message>
     <message>
         <source>ProtectSheet.content</source>
-        <translation>Запрет на внесение нежелательных изменений в данные листа с указанием, какие сведения могут быть изменены.
+        <translation>Impide que se realicen cambios no deseados en los datos de una hoja especificando la información que se puede cambiar.
 
-Например, можно запретить пользователям редактировать заблокированные ячейки или изменять форматирование документа.
+Por ejemplo, puede impedir que otros editen celdas bloqueadas o cambien el formato del documento.
 
-Можно указать пароль, который должен быть введен, чтобы снять защиту листа и разрешить эти изменения.</translation>
+Puede especificar una contraseña para desproteger la hoja y permitir esos cambios.</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.title</source>
-        <translation>Параметры</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTool.content</source>
-        <translation>Изменение параметров форматирования изображения.</translation>
+        <translation>Cambia la configuración del formato de imagen.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.title</source>
-        <translation>Цвет спарклайна</translation>
+        <translation>Color de minigráfico</translation>
     </message>
     <message>
         <source>ConditionalFormatting.title</source>
-        <translation>Условное форматирование</translation>
+        <translation>Formato condicional</translation>
     </message>
     <message>
         <source>Connections.content</source>
-        <translation>Отображение всех подключений к данным в книге.
+        <translation>Muestra todas las conexiones de datos del libro.
 
-Подключения к данным — это ссылки на данные за пределами книги, которые могут обновляться при изменении исходных данных.</translation>
+Las conexiones de datos son enlaces a datos externos al libro que se pueden actualizar si los datos de origen cambian.</translation>
     </message>
     <message>
         <source>EDRProperties.title</source>
-        <translation>Свойства диапазона данных</translation>
+        <translation>Propiedades del rango de datos</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.title</source>
-        <translation>Цвет маркера</translation>
+        <translation>Color del marcador</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation>Изменение расположения и источника данных для выбранной группы спарклайнов.</translation>
+        <translation>Edite la ubicación y el origen de datos para el grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
-        <translation>Толстая нижняя граница</translation>
+        <translation>Borde inferior grueso</translation>
     </message>
     <message>
         <source>FormatAsTable.content</source>
-        <translation>Быстрое преобразование диапазона ячеек в таблицу с применением определенного стиля.</translation>
+        <translation>Convierta rápidamente un rango de celdas en una tabla con su propio estilo.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation>Установка книжной ориентации страниц.</translation>
+        <translation>Hace que la página de hoja de cálculo sea vertical.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Преобразовать рисунок в текст</translation>
+        <translation>Convertir imagen en texto</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Открыть диалоговое окно &quot;Макросы&quot;. Показать список макросов для выполнения, создания или удаления макроса.</translation>
+        <translation>Muestra el cuadro de diálogo Macros. Muestra la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation>Выравнивание текста по левому краю.</translation>
+        <translation>Alinea el texto a la izquierda.</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
-        <translation>Преобразование в диапазон</translation>
+        <translation>Convertir en rango</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Преобразование текста в речь. Вы можете использовать эту функцию в течение двухдневного пробного периода.</translation>
+        <translation>Convierta el texto en voz. Disfrute de una versión de evaluación de esta característica durante 2 días.</translation>
     </message>
     <message>
         <source>Max.title</source>
-        <translation>Максимум</translation>
+        <translation>Máx.</translation>
     </message>
     <message>
         <source>PTRefreshData.title</source>
-        <translation>Обновить данные</translation>
+        <translation>Actualizar datos</translation>
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation>Щёлкните стрелку для выбора цвета фона.</translation>
+        <translation>Haga clic en la flecha para seleccionar un color diferente de fondo.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
-        <translation>Обычный вид</translation>
+        <translation>Vista normal</translation>
     </message>
     <message>
         <source>TextOrientation.title</source>
-        <translation>Ориентация</translation>
+        <translation>Orientación</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Щёлкните стрелку для выбора цвета текста.</translation>
+        <translation>Haga clic en la flecha para seleccionar un color diferente de texto.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
-        <translation>Заливка графического объекта</translation>
+        <translation>Rellenar gráfico</translation>
     </message>
     <message>
         <source>DeleteRange2.title</source>
-        <translation>Удалить ячейки</translation>
+        <translation>Eliminar celdas</translation>
     </message>
     <message>
         <source>PTSubtotals.content</source>
-        <translation>Отображение или скрытие промежуточных итогов.</translation>
+        <translation>Muestra u oculta subtotales.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
-        <translation>Параметры</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation>Отображение области выделения, которая позволяет выделить отдельные объекты, изменить их расположение, а также показать или скрыть их.</translation>
+        <translation>Muestra la ventana de tarea de Panel de selección para buscar con facilidad un único objeto o establecer su orden y su visibilidad.</translation>
     </message>
     <message>
         <source>PTTableOptions.title</source>
-        <translation>Параметры сводной таблицы</translation>
+        <translation>Opciones de la tabla dinámica</translation>
     </message>
     <message>
         <source>CalculateSheet.content</source>
-        <translation>Пересчёт текущего листа.
-Это необходимо только в том случае, если автоматическое выполнение вычислений отключено.</translation>
+        <translation>Calcular la hoja actual ahora.
+
+Sólo es necesario si el cálculo automático se ha desactivado.</translation>
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation>В коллекции WPS Office помещены изображения для дальнейшего использования, сохранения или изменения.
+        <translation>La galería de WPS provee todos los tipos de recursos de imágenes.
 
-Интернет-коллекцию, включённую в коллекцию WPS Office, можно использовать при подключении к Интернету.</translation>
+Para usar la galería de WPS es necesaria una conexión a Internet.</translation>
     </message>
     <message>
         <source>NumberFormatCells.content</source>
-        <translation>Отображение вкладки &quot;Числовой&quot; диалогового окна &quot;Формат ячеек&quot;.</translation>
+        <translation>Muestra la ficha Número en el cuadro de diálogo Formato de celdas.</translation>
     </message>
     <message>
         <source>LoadMacro.content</source>
-        <translation>Управление надстройками, доступными для использования с этим файлом.</translation>
+        <translation>Administra los complementos disponibles para usar con el archivo.</translation>
     </message>
     <message>
         <source>GraphicFillColor.content</source>
-        <translation>Выполните заливку выбранного графического объекта цветом.
+        <translation>Rellene el gráfico seleccionado con color.
 
-Щелкните стрелку, чтобы применить к заливке различные эффекты.</translation>
+Haga clic en la flecha para rellenarlo con diferentes efectos.</translation>
     </message>
     <message>
         <source>InsertRange2.content</source>
-        <translation>Щёлкните здесь для добавления ячеек, строк или столбцов листа или добавления нового листа.</translation>
+        <translation>Haga clic aquí para inserta celdas, filas o columnas a la hoja de cálculo o agregar una nueva hoja de cálculo completa.</translation>
     </message>
     <message>
         <source>VerticalText.title</source>
-        <translation>Вертикальный фигурный текст</translation>
+        <translation>Texto vertical de WordArt</translation>
     </message>
     <message>
         <source>ObjectSelect.title</source>
-        <translation>Область выделения</translation>
+        <translation>Panel de selección</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.title</source>
-        <translation>Формат ячеек: выравнивание</translation>
+        <translation>Formato de celdas: Alineación</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Сжатие выбранного изображения или всех изображений в документе для уменьшения размера.</translation>
+        <translation>Comprime la imagen seleccionada o todas las imágenes en el libro para reducir el tamaño.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
-        <translation>Сортировать по возрастанию</translation>
+        <translation>Ascendente</translation>
     </message>
     <message>
         <source>PTHideFieldList.content</source>
-        <translation>Показать или скрыть список полей.
+        <translation>Muestra u oculta la lista de campos.
 
-Список полей позволяет добавлять и удалять поля из отчета сводной таблицы.</translation>
+La lista de campos le permite agregar y quitar campos.</translation>
     </message>
     <message>
         <source>SlicerSetting.title</source>
-        <translation>Настройки среза</translation>
+        <translation>Configuración de los segmentos</translation>
     </message>
     <message>
         <source>LookupAndReference.title</source>
-        <translation>Ссылки и массивы</translation>
+        <translation>Búsqueda y referencia</translation>
     </message>
     <message>
         <source>SplitPanes.content</source>
-        <translation>Разделение окна на несколько областей переменного размера, в котором отображаются разные фрагменты одного листа.
+        <translation>Divida la ventana en varios paneles ajustables que contengan las vistas de su libro.
 
-Вы можете использовать эту функцию для просмотра нескольких удаленных друг от друга фрагментов листа.</translation>
+Puede utilizar esta función para ver varias partes distintas de un libro a la vez.</translation>
     </message>
     <message>
         <source>PageLayoutView.content</source>
-        <translation>Предварительный просмотр документа, который печатается.
+        <translation>Compruebe cómo se verá su documento impreso.
 
-        Это отличный способ проверить, где начинаются и заканчиваются страницы и правильно ли на них размещены верхние и нижние колонтитулы.</translation>
+        Esta es una buena manera de comprobar dónde empiezan y terminan las páginas, y ver todos los encabezados/pie de página de la página.</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.title</source>
-        <translation>Печатать верхний и нижний колонтитул</translation>
+        <translation>Imprimir encabezado y pie de página</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.content</source>
-        <translation>Для обновления данных или удаление ссылок необходимо просмотреть все файлы, связанные с данной книгой.</translation>
+        <translation>Para actualizar los datos o eliminar los vínculos, ve todos los archivos vinculado a este libro.</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
@@ -2506,103 +2504,103 @@
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation>Остановить автосохранение</translation>
+        <translation>Detener copia de seguridad automática</translation>
     </message>
     <message>
         <source>Financial.title</source>
-        <translation>Финансовые</translation>
+        <translation>Financieras</translation>
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation>Показать или скрыть первую точку спарклайна</translation>
+        <translation>Conmutar primer punto del minigráfico</translation>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
-        <translation>Предыдущая страница</translation>
+        <translation>Página anterior</translation>
     </message>
     <message>
         <source>ClearArrows.content</source>
-        <translation>Удаление стрелок, установленных функцией &quot;Отслеживать влияющие ячейки&quot; или &quot;Отслеживать зависимые ячейки&quot;.</translation>
+        <translation>Quita las flechas dibujadas por Seguimiento de predecentes o dependientes.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.title</source>
-        <translation>Преобразование в традиционный китайский</translation>
+        <translation>Chino simplificado a chino tradicional</translation>
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation>Использование редактора формул для добавления математических формул.</translation>
+        <translation>Inserta ecuaciones matemáticas con editor de ecuaciones.</translation>
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation>Выберите способ копирования выбранных данных.</translation>
+        <translation>Elija cómo quiere copiar la selección.</translation>
     </message>
     <message>
         <source>LeftBorder.content</source>
-        <translation>Добавление левой границы к выделенным ячейкам.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>Morefunctions.content</source>
-        <translation>Просмотр и выбор из списка статистических, инженерных и информационных функций.</translation>
+        <translation>Examina y selecciona desde listas de funciones estadísticas, de ingeniería, del cubo y de información.</translation>
     </message>
     <message>
         <source>OtherBorders.content</source>
-        <translation>Использование подробных параметров для выбора границ ячеек.</translation>
+        <translation>Puede utilizar la configuración detallada para seleccionar los bordes de celdas.</translation>
     </message>
     <message>
         <source>DecreaseDecimal.content</source>
-        <translation>Отображение менее точных значений путем уменьшения числа знаков после запятой.</translation>
+        <translation>Muestra valores menos precisos disminuyendo los decimales.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Увеличить отступ</translation>
+        <translation>Aumentar sangría</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
-        <translation>Межзнаковый интервал</translation>
+        <translation>Espacio entre caracteres de WordArt</translation>
     </message>
     <message>
         <source>FuncCatDateAndTime.title</source>
-        <translation>Дата и время</translation>
+        <translation>Fecha y hora</translation>
     </message>
     <message>
         <source>ProtectAndShare.content</source>
-        <translation>Открытие общего доступа к книге с одновременной защитой этой книги паролем.
+        <translation>Comparte el libro y lo protege con una contraseña al mismo tiempo.
 
-Пароль не позволит другим пользователям отключить учет изменений.</translation>
+La contraseña impedirá que otras personas desactiven el control de cambios.</translation>
     </message>
     <message>
         <source>OtherBorders.title</source>
-        <translation>Другие границы</translation>
+        <translation>Otros bordes</translation>
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation>Синхронная прокрутка.</translation>
+        <translation>Desplazamiento sincrónico</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
-        <translation>Добавить верхнюю и двойную нижнюю границы к выделенным ячейкам.</translation>
+        <translation>Aplica bordes a las celdas actualmente seleccionadas.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.title</source>
-        <translation>Анализ предположений</translation>
+        <translation>Análisis de hipótesis</translation>
     </message>
     <message>
         <source>ExistingConnections.content</source>
-        <translation>Импорт данных из стандартных источников.</translation>
+        <translation>Importe datos de orígenes comunes.</translation>
     </message>
     <message>
         <source>DrawBorder.content</source>
-        <translation>Чтобы нарисовать линию границы, выберите эту функцию и передвигайте указатель мыши.
+        <translation>Para dibujar las líneas de borde, haga clic en esta opción y arrastre el mouse a dibujar.
 
-Для выхода из режима рисования нажмите клавишу Esc на клавиатуре или повторно выберите эту функцию.</translation>
+Presione Esc en el teclado o haga clic en esta opción de nuevo para salir del modo de dibujo.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.content</source>
-        <translation>Показать более точные значения, за счёт отображения большего числа десятичных знаков.</translation>
+        <translation>Muestra valores más precisos aumentando los decimales.</translation>
     </message>
     <message>
         <source>Hyperlink.title</source>
-        <translation>Вставить гиперссылку</translation>
+        <translation>Insertar hipervínculo</translation>
     </message>
     <message>
         <source>EtPhotoedit2.content</source>
@@ -2610,41 +2608,41 @@
     </message>
     <message>
         <source>PrintPreviewZoomCombo.title</source>
-        <translation>Масштаб</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>DeleteRange.content</source>
-        <translation>Удаление ячеек, строк или столбцов листа.</translation>
+        <translation>Elimina las celdas, las filas o las columnas en la hoja de cálculo.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation>Выделить последнюю точку данных</translation>
+        <translation>Conmutar último punto del minigráfico</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
-        <translation>Предварительный просмотр</translation>
+        <translation>Vista previa de impresión</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation>Удаление выделенного примечания.</translation>
+        <translation>Elimina el comentario seleccionado.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
-        <translation>Подключения к отчетам</translation>
+        <translation>Notificar conexiones</translation>
     </message>
     <message>
         <source>Slicer.content</source>
-        <translation>Используйте срез для визуальной фильтрации данных.
+        <translation>Use un segmento para filtrar los datos de forma visual.
 
-Срезы позволяют быстрее и проще фильтровать сводные таблицы.</translation>
+Los segmentos facilitan el filtrado de las tablas dinámicas.</translation>
     </message>
     <message>
         <source>LockCell.title</source>
-        <translation>Блокировать ячейку</translation>
+        <translation>Bloquear celda</translation>
     </message>
     <message>
         <source>SourceData.title</source>
-        <translation>Выделить данные</translation>
+        <translation>Seleccionar datos</translation>
     </message>
     <message>
         <source>EtPhotoedit2.title</source>
@@ -2652,560 +2650,559 @@
     </message>
     <message>
         <source>TextFill2.title</source>
-        <translation>Цвет текста</translation>
+        <translation>Color de texto</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation>Изменение выбранной группы спарклайнов в спарклайн-график.</translation>
+        <translation>Cambia el grupo de minigráficos seleccionado por un minigráfico de línea.</translation>
     </message>
     <message>
         <source>ResizeTable.content</source>
-        <translation>Изменение размеров данной таблицы путем добавления или удаления строк и столбцов.</translation>
+        <translation>Cambie el tamaño de esta tabla agregando o eliminando filas y columnas.</translation>
     </message>
     <message>
         <source>MergeSheet.title</source>
-        <translation>Объединить таблицы</translation>
+        <translation>Combinar tablas</translation>
     </message>
     <message>
         <source>AllFunction.content</source>
-        <translation>Просмотр и выбор из спиcка всех доступных функций.</translation>
+        <translation>Examina y selecciona desde la lista que contenga todas las funciones.</translation>
     </message>
     <message>
         <source>CTB_DesignMode.content</source>
-        <translation>Вход в режим конструирования для изменения названия и функций элементов управления.</translation>
+        <translation>Entra en el modo diseño para editar los nombres y funciones de controles.</translation>
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation>Спарклайн-гистограмма</translation>
+        <translation>Minigráfico de columnas</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
-        <translation>Вставить фигуры</translation>
+        <translation>Insertar formas</translation>
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation>Выделение максимальных точек данных в выбранной группе спарклайнов.</translation>
+        <translation>Resalta los puntos más altos de los datos en el grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation>Выделение последней точки данных в выбранной группе спарклайнов.</translation>
+        <translation>Resalta el último punto de los datos en el grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>AllBorders.title</source>
-        <translation>Все границы</translation>
+        <translation>Todos los bordes</translation>
     </message>
     <message>
         <source>EditConnectionProperties.content</source>
-        <translation>Выбор типа команды, ввод соответствующего запроса и отбор, полученных данных.</translation>
+        <translation>Selecciona el tipo de comando, introduce una instrucción de consulta relacionada y filtra los datos importados.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Экспорт документа в изображение</translation>
+        <translation>Exporta el documento a una imagen.</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation>Создать примечание</translation>
+        <translation>Nuevo comentario</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Следующее.</translation>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
-        <translation>Щёлкните стрелку для выбора цвета.</translation>
+        <translation>Haga clic en la flecha para seleccionar un color diferente.</translation>
     </message>
     <message>
         <source>AllFunction.title</source>
-        <translation>Все функции</translation>
+        <translation>Todas las funciones</translation>
     </message>
     <message>
         <source>RecalculateBook.title</source>
-        <translation>Пересчитать книгу</translation>
+        <translation>Volver a calcular libro</translation>
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation>Изменить примечание</translation>
+        <translation>Editar comentario</translation>
     </message>
     <message>
         <source>SheetBackground.title</source>
-        <translation>Фон</translation>
+        <translation>Fondo</translation>
     </message>
     <message>
         <source>PTShowDetail.content</source>
-        <translation>Развертывание свернутой группы ячеек.</translation>
+        <translation>Muestra todos los elementos del campo activo.</translation>
     </message>
     <message>
         <source>ShowOrHideComment.content</source>
-        <translation>Показать/скрыть примечание на активной ячейке.</translation>
+        <translation>Muestra u oculta el comentario en la celda activa.</translation>
     </message>
     <message>
         <source>PivotTableDelete.content</source>
-        <translation>Удаление выделенной сводной таблицы.</translation>
+        <translation>Elimina la tabla dinámica seleccionada.</translation>
     </message>
     <message>
         <source>BookProtection.title</source>
-        <translation>Защита книги</translation>
+        <translation>Proteger libro</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation>Установка альбомной ориентации страниц.</translation>
+        <translation>Hace que la página de hoja de cálculo sea horizontal.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation>Повторяющийся параметр</translation>
+        <translation>Configuración duplicada</translation>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
-        <translation>Переход к печати предыдущей странице при печати текущего листа.</translation>
+        <translation>Se desplaza a la página de impresión anterior de la hoja de cálculo actual.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.title</source>
-        <translation>Преобразование в упрощенный китайский</translation>
+        <translation>Chino tradicional a chino simplificado</translation>
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation>Спарклайн выигрыша/проигрыша</translation>
+        <translation>Minigráfico de pérdida/ganancia</translation>
     </message>
     <message>
         <source>Consolidate.content</source>
-        <translation>Объединение значений из нескольких диапазонов в один новый диапазон.</translation>
+        <translation>Combina valores de varios rangos en un nuevo rango.</translation>
     </message>
     <message>
         <source>RotateRight.title</source>
-        <translation>Вращение</translation>
+        <translation>Girar</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Предварительный просмотр и внесение изменений в страницы перед печатью.</translation>
+        <translation>Obtiene una vista previa de las páginas y las modifica antes de imprimir.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
-        <translation>Правая граница</translation>
+        <translation>Borde derecho</translation>
     </message>
     <message>
         <source>NumberFormatGallery.title</source>
-        <translation>Числовой формат.</translation>
+        <translation>Formato de número</translation>
     </message>
     <message>
         <source>LeftBorder.title</source>
-        <translation>Левая граница</translation>
+        <translation>Borde izquierdo</translation>
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation>Спарклайн-график</translation>
+        <translation>Minigráfico de líneas</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation>Вставить клип</translation>
+        <translation>Insertar imágenes prediseñadas</translation>
     </message>
     <message>
         <source>MergeCancel.content</source>
-        <translation>Разбить выделенную ячейку на несколько отдельных ячеек.</translation>
+        <translation>Divide la celda actual en varias celdas.</translation>
     </message>
     <message>
         <source>Subtotals.title</source>
-        <translation>Промежуточный итог</translation>
+        <translation>Subtotal</translation>
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation>Показать или скрыть максимальные точки спарклайна</translation>
+        <translation>Conmutar puntos altos del minigráfico</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation>Разработчик</translation>
+        <translation>Programador</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Цвет текста</translation>
+        <translation>Color de texto</translation>
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
-        <translation>Удаление повторяющихся строк с листа.
+        <translation>Elimine las filas duplicadas de una hoja.
 
-Вы можете указать, какие столбцы следует проверить на повторы.</translation>
+Puede elegir las columnas que se comprobarán para ver si contienen información duplicada.</translation>
     </message>
     <message>
         <source>Logical.title</source>
-        <translation>Логические</translation>
+        <translation>Lógicas</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation>Тайский распределенный</translation>
+        <translation>Distribución de tailandés</translation>
     </message>
     <message>
         <source>InsertDropDownList.title</source>
-        <translation>Вставить раскрывающийся список</translation>
+        <translation>Insertar lista desplegable</translation>
     </message>
     <message>
         <source>PTHideDetail.content</source>
-        <translation>Скрыть все элементы активного поля.</translation>
+        <translation>Oculta todos los elementos del campo activo.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Выравнивание текста по центру.</translation>
+        <translation>Centra el texto.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
-        <translation>Выравнивание текста по центру между верхней и нижней границей ячейки.</translation>
+        <translation>Alinea el texto para que esté centrado entre la parte superior e inferior de la celda.</translation>
     </message>
     <message>
         <source>DataTable.title</source>
-        <translation>Таблица данных</translation>
+        <translation>Tabla de datos</translation>
     </message>
     <message>
         <source>PrintPreviewMargins.content</source>
-        <translation>Выбор расстояния между содержанием листа и краем печатной страницы.</translation>
+        <translation>Especifica la distancia entre el contenido de hoja de cálculo y el borde de página impresa.</translation>
     </message>
     <message>
         <source>FuncCatText.content</source>
-        <translation>Просмотр и выбор из списка текстовых функций.</translation>
+        <translation>Examina y selecciona de una lista de funciones de texto.</translation>
     </message>
     <message>
         <source>PTRefreshData.content</source>
-        <translation>Обновление информации из источника данных в книге.</translation>
+        <translation>Actualiza la información desde el origen de datos en el libro.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation>WorkSpace_Backup Content</translation>
+        <translation>Habilita la copia de seguridad automática o manual para el documento actual. Al cerrar el documento, guardará una copia de seguridad del documento en la caja fuerte de archivos.</translation>
     </message>
     <message>
         <source>PTRefreshAllData.title</source>
-        <translation>Обновить всё</translation>
+        <translation>Actualizar toda</translation>
     </message>
     <message>
         <source>ShapeFillColor2.title</source>
-        <translation>Заливка фигуры</translation>
+        <translation>Relleno de forma</translation>
     </message>
     <message>
         <source>DataUngroup.content</source>
-        <translation>Разгруппирование ранее сгруппированного диапазона ячеек.</translation>
+        <translation>Desagrupa un rango de celdas agrupadas anteriormente.</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Переход к предыдущему примечанию.</translation>
+        <translation>Saltar al comentario anterior.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation>Просмотр макросов</translation>
+        <translation>Ver macros</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.title</source>
-        <translation>Изменить ссылки</translation>
+        <translation>Modificar vínculos</translation>
     </message>
     <message>
         <source>GraphicLineColor.content</source>
-        <translation>Задайте цвет, ширину и стиль линии для контура выбранного графического объекта.
+        <translation>Establezca el color, el ancho y el estilo de línea del contorno del gráfico seleccionado.
 
-Щелкните стрелку, чтобы подробно настроить контур.</translation>
+Haga clic en la flecha para establecer los detalles del contorno.</translation>
     </message>
     <message>
         <source>SlicerSetting.content</source>
-        <translation>Изменение настроек отображения среза.</translation>
+        <translation>Cambie la configuración de visualización del segmento.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.content</source>
-        <translation>Восстановление привязки и размера текущего примечания.</translation>
+        <translation>Restablecer el delimitador y el tamaño del comentario actual.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation>Сжатие изображений</translation>
+        <translation>Comprimir imágenes</translation>
     </message>
     <message>
         <source>HighlightDisplay.title</source>
-        <translation>Выделить</translation>
+        <translation>Resaltar</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.title</source>
-        <translation>Область отслеживания</translation>
+        <translation>Panel de supervisión</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>Сокращение размера файла с помощью функции &quot;Уменьшение файла&quot;.</translation>
+        <translation>La función de &quot;aligeramiento de archivo&quot; puede ayudarle a reducir el tamaño de este.</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation>Подчеркивание</translation>
+        <translation>Subrayado</translation>
     </message>
     <message>
         <source>MergeCenter.title</source>
-        <translation>Объединить и выровнять по центру</translation>
+        <translation>Combinar y centrar</translation>
     </message>
     <message>
         <source>Fill.content</source>
-        <translation>Заливка содержимого ячеек в любом направлении согласно заданным правилам.</translation>
+        <translation>Según ciertas reglas, puede rellenar los contenidos de una celda en cualquier dirección a las celdas adyacentes.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Поиск текста в документе.
+        <translation>Busca textos en el libro.
 
-Щёлкните стрелку для выбора других функций, таких как &quot;Перейти&quot;.</translation>
+Haga clic en la flecha para seleccionar otras opciones como Ir a.</translation>
     </message>
     <message>
         <source>Financial.content</source>
-        <translation>Просмотр и выбор из списка финансовых функций.</translation>
+        <translation>Examina y selecciona de una lista de funciones financieras.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.content</source>
-        <translation>Добавление горизонтального текстового поля в документ.</translation>
+        <translation>Inserta un cuadro de texto horizontal.</translation>
     </message>
     <message>
         <source>PivotChartAnalysis.title</source>
-        <translation>Статистическая диаграмма</translation>
+        <translation>Gráfico estadístico</translation>
     </message>
     <message>
         <source>ConvertToRange.content</source>
-        <translation>Преобразование данной таблицы в обычный диапазон ячеек.
+        <translation>Convierta esta tabla en un rango normal de celdas.
 
-Потери данных не происходит.</translation>
+Se conservarán todos los datos.</translation>
     </message>
     <message>
         <source>ReadingLayout2.title</source>
-        <translation>Макет для чтения</translation>
+        <translation>Diseño de lectura</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation>Изменение цвета отрицательных точек, маркеров и всех остальных точек для выбранной группы спарклайнов.</translation>
+        <translation>Cambie el color de los puntos negativos, de los marcadores y de todos los demás puntos del grupo de minigráficos seleccionado.</translation>
     </message>
     <message>
         <source>DeleteRange.title</source>
-        <translation>Удалить ячейки</translation>
+        <translation>Eliminar celdas</translation>
     </message>
     <message>
         <source>DisplayGridlines.title</source>
-        <translation>Показать линии сетки</translation>
+        <translation>Ver líneas de la cuadrícula</translation>
     </message>
     <message>
         <source>PrinterSide.title</source>
-        <translation>Сторона печати</translation>
+        <translation>Cara de impresora</translation>
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation>Ось спарклайна</translation>
+        <translation>Eje de minigráfico</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Преобразование PDF-файлов в файлы Word.</translation>
+        <translation>Convierta archivos PDF en archivos de Word.</translation>
     </message>
     <message>
         <source>ExportFilterResult.title</source>
-        <translation>Экспортировать отфильтрованные результаты</translation>
+        <translation>Exportar resultados de filtrado</translation>
     </message>
     <message>
         <source>EvaluateFormula.content</source>
-        <translation>Открыть диалоговое окно &quot;Вычислить формулу&quot;, предназначенное для отладки формулы путем вычисления каждого из ее компонентов по отдельности.</translation>
+        <translation>Muestra el cuadro de diálogo Evaluar fórmula para depurar una fórmula evaluando cada uno de sus partes individualmente.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.content</source>
-        <translation>Восстановление привязок и размеров всех примечаний на текущем листе.</translation>
+        <translation>Restablecer el delimitador y el tamaño de todos los comentarios de la hoja actual.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>Преобразование PDF в Word</translation>
+        <translation>Convertir PDF a Word</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.title</source>
-        <translation>Нарисовать горизонтальное текстовое поле</translation>
+        <translation>Dibujar cuadro de texto horizontal</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation>Выберите разные элементы управления для вставки в документ, например метки, флажки, полосы прокрутки и вертушки.</translation>
+        <translation>Seleccione distintos controles para insertar en el documento, como etiquetas, casillas de verificación, barras de desplazamiento y controles de giro.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation>Просмотр документа в полноэкранном режиме.</translation>
+        <translation>Muestra el libro en modo de pantalla completa</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
-        <translation>Отображение диалогового окна &quot;Шрифт&quot;.</translation>
+        <translation>Muestra el cuadro de diálogo Fuente.</translation>
     </message>
     <message>
         <source>AlignJustify.title</source>
-        <translation>По ширине</translation>
+        <translation>Justificar</translation>
     </message>
     <message>
         <source>ModifyPivotTable.title</source>
-        <translation>Изменить сводную таблицу</translation>
+        <translation>Modificar estilo de tabla dinámica</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.content</source>
-        <translation>Параметры выравнивания отдельных строк многострочного фигурного текста в документе.</translation>
+        <translation>Especifica cómo se alinean las líneas individuales de WordArt que contienen varias líneas.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.title</source>
-        <translation>Верхняя и двойная нижняя граница</translation>
+        <translation>Borde superior e inferior doble</translation>
     </message>
     <message>
         <source>InsertSlicer.content</source>
-        <translation>Используйте срез для визуальной фильтрации данных.
+        <translation>Use un segmento para filtrar los datos de forma visual.
 
-Срезы позволяют быстрее и проще фильтровать сводные таблицы.</translation>
+Los segmentos facilitan el filtrado de las tablas dinámicas.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation>Копирование форматирования из одного места и применение его в другом.
+        <translation>Copia el formato de una ubicación y lo aplica a otra.
 
-Дважды щёлкните эту кнопку, чтобы применить одно и то же
-форматирование к нескольким частям документа.</translation>
+Haga doble clic en este botón de nuevo para aplicar el mismo formato a varias ubicaciones en el documento.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>Исправление документа.</translation>
+        <translation>Corrección de documento.</translation>
     </message>
     <message>
         <source>SpellCheck.title</source>
-        <translation>Проверка правописания</translation>
+        <translation>Revisión ortográfica</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Отправка документа на используемый по умолчанию принтер без внесения изменений.</translation>
+        <translation>Envía el documento directamente a la impresora predeterminada sin hacer cambios.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
-        <translation>Вставить формулу</translation>
+        <translation>Insertar ecuación</translation>
     </message>
     <message>
         <source>DataUngroup.title</source>
-        <translation>Разруппировать</translation>
+        <translation>Desagrupar</translation>
     </message>
     <message>
         <source>Fill.title</source>
-        <translation>Заливка</translation>
+        <translation>Rellenar</translation>
     </message>
     <message>
         <source>MergeSelection.content</source>
-        <translation>Объединить выделенные ячейки в одну ячейку.</translation>
+        <translation>Combina las celdas seleccionadas en una celda.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.title</source>
-        <translation>Увеличить разрядность</translation>
+        <translation>Aumentar decimales</translation>
     </message>
     <message>
         <source>DecreaseDecimal.title</source>
-        <translation>Уменьшить разрядность</translation>
+        <translation>Disminuir decimales</translation>
     </message>
     <message>
         <source>RecenttlyUsed.content</source>
-        <translation>Просмотр и выбор из списка недавно использовавшихся функций.</translation>
+        <translation>Busca y selecciona de la lista de funciones usadas recientemente.</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation>Чтение</translation>
+        <translation>Lectura</translation>
     </message>
     <message>
         <source>MergeSelection.title</source>
-        <translation>Объединение ячеек</translation>
+        <translation>Combinar celdas</translation>
     </message>
     <message>
         <source>TableName.title</source>
-        <translation>Имя таблицы</translation>
+        <translation>Nombre de tabla</translation>
     </message>
     <message>
         <source>SlicerItemHeight.title</source>
-        <translation>Высота кнопки</translation>
+        <translation>Altura de botón</translation>
     </message>
     <message>
         <source>ShapeLineColor.title</source>
-        <translation>Контур фигуры</translation>
+        <translation>Contorno de forma</translation>
     </message>
     <message>
         <source>DetailedSettings_Data.title</source>
-        <translation>Параметры</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>BandedColumns.content</source>
-        <translation>Отображение чередующихся столбцов, при котором четные столбцы отформатированы иначе, чем нечетные.
+        <translation>Muestre columnas con bandas, en las que las columnas pares presentarán un formato distinto del de las impares.
 
-Такое чередование облегчает восприятие таблицы.</translation>
+Estas bandas facilitan la lectura de las tablas.</translation>
     </message>
     <message>
         <source>FormatStyle.content</source>
-        <translation>Создание различных комбинаций форматов ячеек, таких как, численный формат или формат выравнивания, и затем их преобразование в объединёный формат.</translation>
+        <translation>Hace diferentes combinaciones de los formatos de celdas como formatos de números o alineación y genera un nuevo formato.</translation>
     </message>
     <message>
         <source>InsertRange.title</source>
-        <translation>Вставить ячейки</translation>
+        <translation>Insertar celdas</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation>Восстановить размер</translation>
+        <translation>Restablecer tamaño</translation>
     </message>
     <message>
         <source>ExitPreview.title</source>
-        <translation>Выход</translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>ArtisticWordAlignment.title</source>
-        <translation>Выравнивание</translation>
+        <translation>Alineación</translation>
     </message>
     <message>
         <source>RunMacro2.content</source>
-        <translation>Открыть диалоговое окно &quot;Макросы&quot;. Показать список макросов для выполнения, создания или удаления макроса.</translation>
+        <translation>Muestra el cuadro de diálogo Macros. Muestra la lista de macros desde la que se puede ejecutar, crear o eliminar una macro.</translation>
     </message>
     <message>
         <source>Connections.title</source>
-        <translation>Соединения</translation>
+        <translation>Conexiones</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.title</source>
-        <translation>Верхняя и толстая нижняя границы</translation>
+        <translation>Borde superior e inferior grueso</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.content</source>
-        <translation>Изменение параметров страницы.</translation>
+        <translation>Cambia la configuración de página.</translation>
     </message>
     <message>
         <source>DrawGrid.title</source>
-        <translation>Нарисовать границы сетки</translation>
+        <translation>Dibujar cuadrícula de borde</translation>
     </message>
     <message>
         <source>PivotTableAnalysis.title</source>
-        <translation>Статистический анализ</translation>
+        <translation>Análisis estadístico</translation>
     </message>
     <message>
         <source>PrevNextPage.title</source>
-        <translation>Следующая страница</translation>
+        <translation>Página siguiente</translation>
     </message>
     <message>
         <source>PDFToPPT.title</source>
-        <translation>PDF в PPT</translation>
+        <translation>De PDF a PPT</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>Отправить на телефон</translation>
+        <translation>Enviar al teléfono</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation>Если эта функция включена, измененное содержимое будет автоматически сохраняться, чтобы избежать потери содержимого документа.</translation>
+        <translation>Cuando esta característica está activada, el contenido modificado se guardará automáticamente para evitar la pérdida del contenido del documento.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
-        <translation>Печать линий сетки между столбцами и строками листа.</translation>
+        <translation>Imprime las cuadrículas entre las columnas y las filas en la hoja de cálculo.</translation>
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation>Группировка спарклайнов для использования общих параметров форматирования и масштабирования.</translation>
+        <translation>Agrupe los minigráficos para que puedan compartir las opciones de formato y escala.</translation>
     </message>
     <message>
         <source>NameDefine.title</source>
-        <translation>Присвоить имя</translation>
+        <translation>Definir nombre</translation>
     </message>
     <message>
         <source>HeaderRow.title</source>
-        <translation>Строка заголовков</translation>
+        <translation>Fila de encabezado</translation>
     </message>
     <message>
         <source>SortAndFilter.content</source>
-        <translation>Упорядочивание данных с целью упрощения их анализа.
+        <translation>Organiza los datos para que sean más fáciles de analizar.
 
-Можно отсортировать выделенные данные по возрастанию или убыванию.</translation>
+Puede ordenar los datos seleccionados en orden ascendente o descendente.</translation>
     </message>
     <message>
         <source>NameCreate.title</source>
-        <translation>Создать из выделенного</translation>
+        <translation>Crear nombres</translation>
     </message>
     <message>
         <source>DataSort.title</source>
-        <translation>Сортировка</translation>
+        <translation>Ordenar</translation>
     </message>
 </context>
 </TS>
