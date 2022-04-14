@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>You&apos;re about to exit your account</source>
-        <translation type="unfinished"/>
+        <translation>Вы собираетесь выйти из учетной записи</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -690,15 +690,15 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Повторить попытку</translation>
     </message>
     <message>
         <source>Check order</source>
-        <translation type="unfinished"/>
+        <translation>Журнал заказов</translation>
     </message>
     <message>
         <source>How to activate?</source>
-        <translation type="unfinished"/>
+        <translation>Как активировать?</translation>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -901,7 +901,7 @@ Easy mobile office.</source>
     <name>KLoginMainWindow</name>
     <message>
         <source>here</source>
-        <translation type="unfinished"/>
+        <translation>здесь</translation>
     </message>
     <message>
         <source>Email</source>
@@ -921,7 +921,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Frequent requests. Please wait a minute and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Высокая частота запросов. Подождите минуту и повторите попытку.</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -945,11 +945,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address</source>
-        <translation>Введите действительный адрес электронной почты</translation>
+        <translation>Недействительный адрес электронной почты. Повторите попытку.</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Неверный пароль</translation>
+        <translation>Неверный пароль. Проверьте пароль и повторите попытку. Или просто сбросьте пароль.</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -965,7 +965,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>There is no account for the email you entered</source>
-        <translation>Нет учетной записи, связанной с указанным адресом электронной почты</translation>
+        <translation>Не найдена учетная запись с таким адресом электронной почты. Проверьте адрес и повторите попытку.</translation>
     </message>
     <message>
         <source>Remember Me</source>
@@ -977,7 +977,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation type="unfinished"/>
+        <translation>Открыта новая вкладка браузера для входа в систему. Необходимо завершить авторизацию в браузере. По завершении работа будет автоматически продолжена здесь. </translation>
     </message>
     <message>
         <source>Continue with Google</source>
@@ -989,7 +989,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid character. Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимый символ. Повторите попытку.</translation>
     </message>
     <message>
         <source>Sign in with other accounts</source>
@@ -1057,7 +1057,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address.</source>
-        <translation type="unfinished"/>
+        <translation>Введите действительный адрес электронной почты.</translation>
     </message>
     <message>
         <source>Waiting...</source>
@@ -1081,7 +1081,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Password should be 8-16 characters. Please retry</source>
-        <translation type="unfinished"/>
+        <translation>Пароль должен содержать от 8 до 16 символов. Повторите попытку.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -1176,7 +1176,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Не удалось получить доступ к серверу учетной записи WPS. Убедитесь в наличии надежного сетевого подключения и повторите попытку.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1220,7 +1220,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Setting Document</source>
-        <translation type="unfinished"/>
+        <translation>Документ настроек DNS</translation>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1497,35 +1497,35 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>You can download unlimted templates.</source>
-        <translation type="unfinished"/>
+        <translation>Вы можете загрузить неограниченное количество шаблонов.</translation>
     </message>
     <message>
         <source>Payment timeout</source>
-        <translation type="unfinished"/>
+        <translation>Срок ожидания оплаты истек</translation>
     </message>
     <message>
         <source>Get your personal customization now.</source>
-        <translation type="unfinished"/>
+        <translation>Настройте параметры под свои задачи.</translation>
     </message>
     <message>
         <source>You can use PDF conversion unlimited.</source>
-        <translation type="unfinished"/>
+        <translation>Вы можете преобразовывать PDF-файлы без ограничений.</translation>
     </message>
     <message>
         <source>Payment successful!</source>
-        <translation type="unfinished"/>
+        <translation>Оплата выполнена успешно!</translation>
     </message>
     <message>
         <source>Fill in</source>
-        <translation type="unfinished"/>
+        <translation>Заполнить</translation>
     </message>
     <message>
         <source>You have become WPS Premium user.</source>
-        <translation type="unfinished"/>
+        <translation>Теперь ваша учетная запись имеет статус WPS Premium.</translation>
     </message>
     <message>
         <source>How to activate?</source>
-        <translation type="unfinished"/>
+        <translation>Как активировать?</translation>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -1533,7 +1533,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Сбой оплаты</translation>
     </message>
 </context>
 <context>
@@ -1753,7 +1753,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>guest account</source>
-        <translation type="unfinished"/>
+        <translation>гостевая учетная запись</translation>
     </message>
     <message>
         <source>Dingding login</source>
@@ -2026,7 +2026,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>request failed, please retry later.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось получить информацию от сервера. Повторите попытку позже.</translation>
     </message>
     <message>
         <source>Select user failed</source>
@@ -2041,35 +2041,35 @@ Easy mobile office.</source>
     <name>KLogoutClearCacheCheckButton</name>
     <message>
         <source>Please verify that the native is secure and trusted to avoid the risk of data leakage</source>
-        <translation type="unfinished"/>
+        <translation>Убедитесь в надежности устройства, чтобы предотвратить утечку данных.</translation>
     </message>
     <message>
         <source>Clear data and delete login records</source>
-        <translation type="unfinished"/>
+        <translation>Очистите данные и удалите записи о входе.</translation>
     </message>
     <message>
         <source>Keep data for next use.</source>
-        <translation type="unfinished"/>
+        <translation>Сохраните данные для следующего использования.</translation>
     </message>
     <message>
         <source>Select this if you no longer use this device</source>
-        <translation type="unfinished"/>
+        <translation>Выберите этот вариант, если не планируете использовать это устройство в будущем.</translation>
     </message>
     <message>
         <source>Keep data for next use</source>
-        <translation type="unfinished"/>
+        <translation>Сохраните данные для следующего использования.</translation>
     </message>
     <message>
         <source>Cloud document cache and file backups that will keep you on your native</source>
-        <translation type="unfinished"/>
+        <translation>Кэш документа Cloud и резервные копии файлов будут сохранены на этом устройстве.</translation>
     </message>
     <message>
         <source>[Only trusted devices are optional]</source>
-        <translation type="unfinished"/>
+        <translation>[Можно выбирать только доверенные устройства]</translation>
     </message>
     <message>
         <source>Cloud document caches and files that you have on your native will be deleted at the same time</source>
-        <translation type="unfinished"/>
+        <translation>Кэш документа Cloud и резервные копии файлов, хранящиеся на устройстве, будут удалены.</translation>
     </message>
 </context>
 <context>
@@ -2220,7 +2220,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>инструкцию по настройке DNS</translation>
+        <translation>документу о настройках DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2324,15 +2324,15 @@ Easy mobile office.</source>
     <name>KGuidePaneForTopcActivity</name>
     <message>
         <source>Sign in with WPS account to get gifts.</source>
-        <translation type="unfinished"/>
+        <translation>Войдите с учетной записью WPS, чтобы получить подарки.</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Войти</translation>
     </message>
     <message>
         <source>Gifts for New Users on PC</source>
-        <translation type="unfinished"/>
+        <translation>Подарки для новых пользователей PC</translation>
     </message>
 </context>
 <context>
