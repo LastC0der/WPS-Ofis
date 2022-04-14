@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Zoom</translation>
+        <translation>Tampilkan kotak dialog Zoom untuk menentukan level zoom dokumen.</translation>
     </message>
     <message>
         <source>ZoomFit.content</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation>Detail selengkapnya untuk pencetakan, seperti memilih printer, mencetak halaman, pencetakan dupleks, zoom, dan sebagainya.</translation>
+        <translation>Detail selengkapnya untuk pencetakan, seperti memilih printer, salinan, dupleks yang dicetak, zoom, dan sebagainya.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Menyisipkan file yang dipilih ke dalam dokumen.</translation>
+        <translation>Sisipkan file yang dipilih ke dalam dokumen.</translation>
     </message>
     <message>
         <source>AddSubordinate.content</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation>Mengonversi dokumen ke gambar untuk dibagikan di Weibo.</translation>
+        <translation>Mentransfer dokumen ke gambar untuk berbagi di Weibo.</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
@@ -203,9 +203,7 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Garis bawahi teks yang dipilih.
-
-Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
+        <translation>Garis bawahi teks yang dipilih.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
@@ -229,7 +227,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation>Menyusun semua dokumen yang terbuka dalam bentuk petak berdampingan dalam jendela program yang sama.</translation>
+        <translation>Memajang semua dokumen yang terbuka secara berdampingan di jendela program yang sama.</translation>
     </message>
     <message>
         <source>AudioPlay.title</source>
@@ -349,15 +347,15 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
         <source>InsertChart.content</source>
         <translation>Bagan yang disisipkan harus diedit di WPS Spreadsheets.
 
-Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan secara normal.</translation>
+Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan secara normal. Klik dua kali bagan jika Anda ingin mengeditnya.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation>Keamanan Macro</translation>
+        <translation>Keamanan Makro</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.content</source>
-        <translation>Memilih berbagai skema warna</translation>
+        <translation>Mengubah skema warna diagram.</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
@@ -373,7 +371,7 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     </message>
     <message>
         <source>HighlightColor2.title</source>
-        <translation>Warna Sorotan Teks</translation>
+        <translation>Hervorhebungsfarbe für Text</translation>
     </message>
     <message>
         <source>Paste2.title</source>
@@ -381,11 +379,15 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     </message>
     <message>
         <source>WordArtAlignment.title</source>
-        <translation>Perataan WordArt</translation>
+        <translation>Perataan</translation>
     </message>
     <message>
         <source>TransitionEffect.title</source>
         <translation>Efek Transisi</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.content</source>
+        <translation>Ubah waktu untuk memutar animasi. Animasi dapat dimulai setelah mouse diklik, bersamaan dengan animasi sebelumnya, atau setelah animasi sebelumnya selesai.</translation>
     </message>
     <message>
         <source>DeleteMember.content</source>
@@ -400,8 +402,12 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
         <translation>Lihat Makro</translation>
     </message>
     <message>
+        <source>WppPhotoedit2.title</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Mengubah pengaturan font, paragraf, serta gaya dan format.</translation>
+        <translation>Mengubah pengaturan font.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -414,6 +420,10 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     <message>
         <source>SlideMasterClose.title</source>
         <translation>Tutup Tampilan Master</translation>
+    </message>
+    <message>
+        <source>PictureTransparency.title</source>
+        <translation>Transparansi Gambar</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
@@ -429,11 +439,11 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation>Animation Brush</translation>
+        <translation>Pengecat Animasi</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Menavigasi ke komentar berikutnya di dokumen.</translation>
+        <translation>Komentar berikutnya.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
@@ -469,7 +479,7 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation>Klik di sini untuk menyisipkan kotak teks horizontal, vertikal, atau multigaris.</translation>
+        <translation>Klik di sini untuk menyisipkan kotak teks horizontal atau vertikal.</translation>
     </message>
     <message>
         <source>Markup.content</source>
@@ -493,7 +503,7 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     </message>
     <message>
         <source>HighlightColor2.content</source>
-        <translation>Klik panah untuk memilih warna sorotan yang berbeda.</translation>
+        <translation>Auf den Pfeil klicken, um eine andere Hervorhebungsfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>Paste2.content</source>
@@ -577,7 +587,7 @@ Saat WPS Spreadsheets tertutup, bagan dalam dokumen masih dapat ditampilkan seca
     </message>
     <message>
         <source>ChangeDiagramNum.content</source>
-        <translation>Mengubah jumlah item</translation>
+        <translation>Mengubah nomor item.</translation>
     </message>
     <message>
         <source>SlideLayouts.title</source>
@@ -734,6 +744,10 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
         <translation>Ratakan teks ke kiri.</translation>
     </message>
     <message>
+        <source>PictureTransparency.content</source>
+        <translation>Atur transparansi gambar untuk menampilkan konten di bawahnya.</translation>
+    </message>
+    <message>
         <source>CustomShows.title</source>
         <translation>Tampilan Slide Kustom</translation>
     </message>
@@ -771,13 +785,13 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation>Menggambar batas tabel.</translation>
+        <translation>Menggambar batas sel, baris, atau kolom tabel.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Ubah warna teks.
+        <translation>Mengeset warna teks.
 
-Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
+Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
@@ -790,6 +804,10 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     <message>
         <source>InsertTable.content</source>
         <translation>Menyisipkan atau menggambar tabel ke dalam slaid aktif.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
@@ -877,7 +895,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Baca Teks</translation>
     </message>
     <message>
         <source>Ruler.title</source>
@@ -895,7 +913,7 @@ Klik tanda panah untuk menyetel detail kerangka.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation>Warna Sorotan Teks</translation>
+        <translation>Hervorhebungsfarbe für Text</translation>
     </message>
     <message>
         <source>Color.title</source>
@@ -903,7 +921,7 @@ Klik tanda panah untuk menyetel detail kerangka.</translation>
     </message>
     <message>
         <source>UsePresenterView.title</source>
-        <translation>Presenter view</translation>
+        <translation>Gunakan Tampilan Penyaji</translation>
     </message>
     <message>
         <source>DrawAlignTop.title</source>
@@ -936,6 +954,10 @@ Klik tanda panah untuk menyetel detail kerangka.</translation>
     <message>
         <source>VideoBegin.content</source>
         <translation>Memulai klip video secara otomatis, atau saat diklik.</translation>
+    </message>
+    <message>
+        <source>AnimationDuration.title</source>
+        <translation>Durasi:</translation>
     </message>
     <message>
         <source>DecreaseSpace.title</source>
@@ -1011,7 +1033,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Simpan Otomatis File</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
@@ -1019,15 +1041,19 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>CellWidth.content</source>
-        <translation>Lebar Sel</translation>
+        <translation>Lebar Kolom Tabel</translation>
     </message>
     <message>
         <source>TableRight.title</source>
         <translation>Rata Kanan Teks</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
+    </message>
+    <message>
         <source>Numbering2.content</source>
-        <translation>Memulai daftar bernomor.
+        <translation>Nomor paragraf yang dipilih.
 
 Klik panah untuk memilih format penomoran lain.</translation>
     </message>
@@ -1037,7 +1063,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
-        <translation>Ubah Angka</translation>
+        <translation>Ubah Nomor</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
@@ -1073,7 +1099,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Tambah level inden paragraf.</translation>
+        <translation>Menambah level inden.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
@@ -1083,7 +1109,7 @@ Anda dapat memilih desain dan tata letak sebaran, seperti pemformatan latar bela
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Kurangi level inden paragraf.</translation>
+        <translation>Mengurangi level indent.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
@@ -1123,7 +1149,7 @@ Anda dapat memilih desain dan tata letak sebaran, seperti pemformatan latar bela
     </message>
     <message>
         <source>Select.content</source>
-        <translation>Memilih teks atau objek dalam dokumen.</translation>
+        <translation>Memilih teks, tabel, atau objek di dalam dokumen.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
@@ -1139,7 +1165,7 @@ Anda dapat memilih desain dan tata letak sebaran, seperti pemformatan latar bela
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation>Memulai daftar bernomor.
+        <translation>Nomor paragraf yang dipilih.
 
 Klik panah untuk memilih format penomoran lain.</translation>
     </message>
@@ -1162,6 +1188,10 @@ Klik panah untuk memilih format penomoran lain.</translation>
     <message>
         <source>NewWindow.title</source>
         <translation>Jendela Baru</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.title</source>
+        <translation>Hapus Animasi</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1213,7 +1243,7 @@ Klik panah untuk memilih format penomoran lain.</translation>
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation>Menampilkan kotak dialog Nomor Halaman, dan menerapkan pengaturan nomor halaman ke bagian saat ini atau seluruh dokumen.</translation>
+        <translation>Menyertakan nomor halaman dalam sebaran atau catatan yang dicetak.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
@@ -1255,7 +1285,7 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>CellHeight.content</source>
-        <translation>Tinggi Sel</translation>
+        <translation>Tinggi Baris Tabel</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
@@ -1303,7 +1333,7 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Rata Tengah</translation>
+        <translation>Tengahkan Secara Vertikal</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
@@ -1315,7 +1345,7 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>CellHeight.title</source>
-        <translation>Tinggi Sel</translation>
+        <translation>Tinggi Baris Tabel</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
@@ -1332,6 +1362,10 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     <message>
         <source>ExportToVideo.title</source>
         <translation>Ekspor ke Video</translation>
+    </message>
+    <message>
+        <source>AnimationDelayTime.content</source>
+        <translation>Putar animasi setelah beberapa detik tertentu.</translation>
     </message>
     <message>
         <source>TextBox.content</source>
@@ -1451,15 +1485,23 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>DocumentFix</translation>
+        <translation>Memperbaiki dengan cepat dokumen yang rusak atau tidak dapat dibuka karena alasan lain.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Simpan otomatis diaktifkan</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
         <translation>Ubah pengaturan format bentuk.</translation>
+    </message>
+    <message>
+        <source>WppPhotoedit2.content</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.content</source>
+        <translation>Mengubah properti efek animasi saat ini.</translation>
     </message>
     <message>
         <source>onlineMedia.title</source>
@@ -1487,13 +1529,11 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Menyisipkan objek yang ditanamkan ke dokumen.
-
-Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
+        <translation>Tampilkan kotak dialog Sisipkan Objek untuk memilih file baru atau file dari folder lokal.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation>Change the settings of Equations.</translation>
+        <translation>Ubah pengaturan Persamaan.</translation>
     </message>
     <message>
         <source>AlignBottom.content</source>
@@ -1509,9 +1549,9 @@ Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>UsePresenterView.content</source>
-        <translation>Presenter view shows the speaker view and the full screen view on different monitors.
+        <translation>Selama presentasi, Tampilan Speaker akan menampilkan &quot;tampilan layar penuh&quot; pada monitor dan &quot;tampilan speaker&quot; pada monitor lain
 
-If you only have one monitor, you can use Alt+F5 to try out presenter view, and press ESC to exit.</translation>
+Jika Anda hanya memiliki satu monitor, gunakan Alt+F5 untuk pratinjau tampilan speaker, dan tekan Esc untuk keluar dari pratinjau.</translation>
     </message>
     <message>
         <source>TableSmartStyle.title</source>
@@ -1559,7 +1599,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Menampilkan item pada Papan klip.</translation>
+        <translation>Menampilkan semua item yang disalin ke papan klip.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
@@ -1585,11 +1625,11 @@ Pemotongan gambar memberikan perbedaan pada presentasi PowerPoint Anda.</transla
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation>1. Isi Bentuk
+        <translation>1. Isian Bentuk
 Isi objek yang dipilih dengan warna, gradien, tekstur, dan gambar.
-2. Kerangka Bentuk
-Atur warna, berat, dan tanda hubung untuk objek yang dipilih.
-Klik Panak untuk konfigurasi detail.</translation>
+2. Garis Tepi Bentuk
+Konfigurasikan warna, tebal, dan garis untuk objek yang dipilih.
+Klik Panah untuk konfigurasi mendetail.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
@@ -1601,7 +1641,7 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>WordArt</translation>
+        <translation>Sisipkan WordArt</translation>
     </message>
     <message>
         <source>AudioFadeOut.content</source>
@@ -1733,15 +1773,15 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>3DPresentation.content</source>
-        <translation>Insert 3DPresentation</translation>
+        <translation>Sisipkan elemen presentasi 3D interaktif ke dokumen</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation>Menampilkan atau menyembunyikan jendela tugas di dokumen.</translation>
+        <translation>Menampilkan atau menyembunyikan jendela di dalam presentasi.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
-        <translation>Lebar Sel</translation>
+        <translation>Lebar Kolom Tabel</translation>
     </message>
     <message>
         <source>MasterLayout.content</source>
@@ -1749,7 +1789,7 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>ReadingView.title</source>
-        <translation>Tampilan Baca</translation>
+        <translation>Tampilan Membaca</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
@@ -1842,6 +1882,10 @@ Setiap halaman akan berisi satu slaid dan catatan pembicaranya, di mana Anda bis
         <translation>Ambil Foto Tampilan Slaid</translation>
     </message>
     <message>
+        <source>AnimationDuration.content</source>
+        <translation>Tentukan lama animasi. Semakin lama durasinya, semakin lambat kecepatan putarnya.</translation>
+    </message>
+    <message>
         <source>presentationTool.title</source>
         <translation>Alat Presentasi</translation>
     </message>
@@ -1879,15 +1923,15 @@ Setiap halaman akan berisi satu slaid dan catatan pembicaranya, di mana Anda bis
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Menampilkan kotak dialog Makro dan melihat daftar makro dari mana Anda dapat menjalankan, menghapus, atau membuat makro secara langsung.</translation>
+        <translation>Menampilkan kotak dialog Makro. Melihat daftar makro, dari mana Anda dapat menjalankan, membuat, atau menghapus makro.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>TextSpeech</translation>
+        <translation>Ubah teks ke ucapan. Anda memiliki uji coba gratis fitur ini setiap hari.</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
+        <translation>Klik panah untuk memilih warna font lain.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
@@ -1949,7 +1993,7 @@ Jika Anda ingin membuat catatan tapi tidak ingin keluar dari tampilan slaid, kli
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Mengompres gambar yang dipilih atau semua gambar dalam dokumen untuk mengurangi ukurannya.</translation>
+        <translation>Mengompres gambar yang dipilih atau semua gambar untuk mengurangi ukurannya.</translation>
     </message>
     <message>
         <source>InsertMedia.title</source>
@@ -1968,6 +2012,14 @@ Jika Anda ingin membuat catatan tapi tidak ingin keluar dari tampilan slaid, kli
         <translation>Hapus Master</translation>
     </message>
     <message>
+        <source>AnimationText.content</source>
+        <translation>Mengubah metode untuk memainkan animasi, termasuk Semua Sekaligus, Per Paragraf, dan Per Huruf.</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.title</source>
+        <translation>Efek Animasi</translation>
+    </message>
+    <message>
         <source>Ai Matting.title</source>
         <translation>Ai Matting</translation>
     </message>
@@ -1978,6 +2030,10 @@ Jika Anda ingin membuat catatan tapi tidak ingin keluar dari tampilan slaid, kli
     <message>
         <source>StopAutoVersion.title</source>
         <translation>Stop Autocadang</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.content</source>
+        <translation>Displays the Effect Options dialog box for you to modify the animation effect.</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
@@ -2056,16 +2112,20 @@ Jika Anda ingin membuat catatan tapi tidak ingin keluar dari tampilan slaid, kli
         <translation>Magis</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.title</source>
+        <translation>Jeda:</translation>
+    </message>
+    <message>
         <source>AudioPause.content</source>
         <translation>Menampilkan dulu klip audio atau video dengan semua perubahan pemformatan yang Anda buat.</translation>
     </message>
     <message>
         <source>InsertEduTools.title</source>
-        <translation>InsertEduTools.title</translation>
+        <translation>Alat Instruksional</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
+        <translation>Dapat mengganggu file selama tampilan atau pencetakan. Harap instal font yang sesuai atau ganti dengan font yang berbeda.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
@@ -2097,9 +2157,9 @@ Jika Anda ingin membuat catatan tapi tidak ingin keluar dari tampilan slaid, kli
     </message>
     <message>
         <source>AnimationPainter.content</source>
-        <translation>Copy the animation of selected object to other objects.
+        <translation>Terapkan animasi objek yang dipilih ke objek lain.
 
-Double click to copy to multiple objects.</translation>
+Klik dua kali untuk menerapkan animasi ke beberapa objek.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
@@ -2119,7 +2179,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation>Menghapus batas tabel di dokumen.</translation>
+        <translation>Gunakan penghapus untuk menghapus batas pada tabel.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
@@ -2128,6 +2188,10 @@ Double click to copy to multiple objects.</translation>
     <message>
         <source>statusbarFontMissing.title</source>
         <translation>Font yang digunakan dalam dokumen hilang dari komputer ini</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.title</source>
+        <translation>Other Effect Options</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
@@ -2227,7 +2291,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Ekspor ke Gambar</translation>
+        <translation>Mengekspor dokumen ke gambar.</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
@@ -2243,7 +2307,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
-        <translation>Klik tanda panah untuk memilih Superskrip atau Subskrip.</translation>
+        <translation>Klik panah untuk memilih Superskrip dan Subskrip.</translation>
     </message>
     <message>
         <source>InsertSmartArt.content</source>
@@ -2277,7 +2341,7 @@ Ragam grafik WPSArt mulai dari daftar grafis dan diagram proses hingga grafik ya
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation>Mengeset orientasi teks horizontal atau vertikal ke bagian saat ini, seluruh dokumen, kotak teks, atau tabel yang dipilih.</translation>
+        <translation>Menyesuaikan orientasi teks horizontal atau vertikal untuk bagian aktif, seluruh dokumen, atau kotak teks dan tabel yang dipilih.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
@@ -2381,11 +2445,15 @@ Ragam grafik WPSArt mulai dari daftar grafis dan diagram proses hingga grafik ya
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Menengahkan teks secara vertikal dan horizontal dalam sel.</translation>
+        <translation>Menempatkan teks di tengah-tengah secara vertikal.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation>Secara otomatis menata letak konten, membalik halaman dengan mudah.</translation>
+        <translation>Memutar tampilan slaid di jendela WPS Presentation untuk melihat animasi dan transisi tanpa beralih ke tampilan slaid layar penuh.</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.title</source>
+        <translation>Mulai Putar</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
@@ -2429,9 +2497,7 @@ Ragam grafik WPSArt mulai dari daftar grafis dan diagram proses hingga grafik ya
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Mencari teks di dokumen.
-
-Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
+        <translation>Menemukan teks di dalam presentasi.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
@@ -2440,6 +2506,10 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     <message>
         <source>TableCenter.title</source>
         <translation>Tengah</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.content</source>
+        <translation>Menghapus semua efek animasi dari objek yang dipilih, slide yang dipilih, atau keseluruhan presentasi.</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
@@ -2467,7 +2537,7 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation>Penghapus Tabel</translation>
+        <translation>Penghapus</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
@@ -2475,7 +2545,7 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Ubah PDF ke Word</translation>
+        <translation>Mengonversi file PDF ke file Word.</translation>
     </message>
     <message>
         <source>LineSpacing.content</source>
@@ -2499,7 +2569,7 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>PDF ke Word</translation>
+        <translation>Konversi PDF ke Word</translation>
     </message>
     <message>
         <source>WppSharePlay2.content</source>
@@ -2507,7 +2577,7 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation>Sisipkan Nomor Halaman</translation>
+        <translation>Nomor Halaman</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
@@ -2556,8 +2626,12 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
 Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa tempat dalam dokumen.</translation>
     </message>
     <message>
+        <source>AnimationText.title</source>
+        <translation>Animasi Teks</translation>
+    </message>
+    <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Perbaikan Dokumen.</translation>
     </message>
     <message>
         <source>SlideNumber.title</source>
@@ -2589,7 +2663,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Mengganti konten teks dalam dokumen.</translation>
+        <translation>Mengganti teks di dalam dokumen.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
@@ -2601,7 +2675,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
+        <translation>Pilih ukuran kertas untuk presentasi, seperti A4, A3, dsb.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
@@ -2617,7 +2691,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>InsertEduTools.content</source>
-        <translation>InsertEduTools.content</translation>
+        <translation>Pakar dalam produksi perangkat kursus. Mendukung multi disiplin</translation>
     </message>
     <message>
         <source>AudioFadeOut.title</source>
@@ -2651,7 +2725,7 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Kirim ke Ponsel</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
@@ -2667,9 +2741,9 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation>Membuat tampilan teks seperti ditandai dengan pena penyorot.
+        <translation>Text so hervorheben, als wäre er mit einem Markerstift markiert worden.
 
-Klik panah untuk memilih warna sorotan yang berbeda.</translation>
+    Auf den Pfeil klicken, um eine andere Hervorhebungsfarbe auszuwählen.</translation>
     </message>
     <message>
         <source>TableFontEffects.content</source>
