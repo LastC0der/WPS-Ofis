@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation>Besarkan Font</translation>
+        <translation>Perbesar Ukuran Font</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Zoom</translation>
+        <translation>Tampilkan kotak dialog Zoom untuk menentukan level zoom dokumen.</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Cetak Cepat</translation>
+        <translation>Cetak langsung</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation type="unfinished"/>
+        <translation>Konversi Ke Grafik Mini Garis</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation>Membuang semua perubahan pemformatan yang Anda buat pada gambar ini.</translation>
+        <translation>Buang semua perubahan format yang Anda buat pada gambar ini.</translation>
     </message>
     <message>
         <source>InsertFunction.title</source>
@@ -172,7 +172,7 @@ Alat Analisis Bagaimana-Jika yang menemukan nilai optimal sel target dengan meng
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Menyisipkan file yang dipilih ke dalam dokumen.</translation>
+        <translation>Sisipkan file yang dipilih ke dalam dokumen.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
@@ -216,7 +216,7 @@ Alat Analisis Bagaimana-Jika yang menemukan nilai optimal sel target dengan meng
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
+        <translation>Grafik Mini adalah grafik mini yang ditempatkan di sel tunggal, masing-masing mewakili baris data sesuai pilihan Anda.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
@@ -240,7 +240,7 @@ Alat Analisis Bagaimana-Jika yang menemukan nilai optimal sel target dengan meng
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation>Toggle Sparkline Markers</translation>
+        <translation>Ganti Penanda Grafik Mini</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
@@ -284,9 +284,7 @@ Alat Analisis Bagaimana-Jika yang menemukan nilai optimal sel target dengan meng
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Garis bawahi teks yang dipilih.
-
-Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
+        <translation>Garis bawahi teks yang dipilih.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
@@ -302,11 +300,11 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation>Group Selected Sparklines</translation>
+        <translation>Grup Grafik Mini yang Dipilih</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation>Extract data to grid</translation>
+        <translation>Ekstrak data ke dalam sel.</translation>
     </message>
     <message>
         <source>Min.title</source>
@@ -314,7 +312,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation>Reset posisi jendela dokumen yang dibandingkan secara berdampingan sehingga dokumen berbagi layar sama rata.
+        <translation>Reset posisi jendela dokumen yang dibandingkan secara berdampingan sehingga dokumen berbagi layar sama rata. 
 
 Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
@@ -376,7 +374,7 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation>Import data from a text file.</translation>
+        <translation>Impor data dari file teks.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
@@ -384,7 +382,7 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation>Break a set of grouped sparklines into individual sparklines.</translation>
+        <translation>Pecah satu set grafik mini yang dikelompokkan menjadi beberapa grafik mini terpisah.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
@@ -404,11 +402,11 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Komentar Sebelumnya</translation>
+        <translation>Sebelumnya.</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation>Mode Layar Penuh</translation>
+        <translation>Layar Penuh</translation>
     </message>
     <message>
         <source>RecordList.title</source>
@@ -432,11 +430,11 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>Membuka tab Alat Pengembang untuk menyisipkan Tombol Pilihan, Kotak Centang, dan yang lainnya.</translation>
+        <translation>Konten DevelopmentTools</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Memilih Klip Seni dari jendela tugas dan menyisipkannya ke dalam dokumen.</translation>
+        <translation>Masukkan Klip Seni ke dalam lembar kerja, termasuk gambar, film, suara, atau fotografi stok untuk mengilustrasikan konsep tertentu.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
@@ -444,7 +442,7 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation>Mengedit komentar.</translation>
+        <translation>Edit komentar yang dipilih.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
@@ -452,7 +450,7 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation>Keamanan Macro</translation>
+        <translation>Keamanan Makro</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
@@ -460,7 +458,7 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation>Menyisipkan bentuk siap pakai, seperti persegi panjang dan lingkaran, panah, garis, bagan alur, simbol, dan keterangan.</translation>
+        <translation>Masukkan bentuk siap pakai, seperti garis, persegi panjang, simbol, dan keterangan bagan alur.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
@@ -472,7 +470,7 @@ Buku kerja yang berisi tabel tidak dapat dibagikan.</translation>
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation>Convert To Column Sparkline</translation>
+        <translation>Konversi ke Grafik Mini Kolom</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
@@ -510,7 +508,7 @@ Data baru atau yang diubah dalam kolom tidak akan difilter atau diurutkan sampai
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation>Get External Data From Text</translation>
+        <translation>Ambil Data Dari Teks</translation>
     </message>
     <message>
         <source>sp_Copy.title</source>
@@ -534,11 +532,11 @@ Data baru atau yang diubah dalam kolom tidak akan difilter atau diurutkan sampai
     </message>
     <message>
         <source>InsertPictureFromFile2.content</source>
-        <translation>Klik di sini untuk menyisipkan gambar di folder lokal atau dari pemindai.</translation>
+        <translation>Klik di sini untuk menyisipkan gambar dari folder lokal atau pemindai.</translation>
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation>Ungroup Selected Sparklines</translation>
+        <translation>Pecah Grup Grafik Mini Terpilih</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
@@ -564,7 +562,7 @@ Baris total adalah baris di akhir tabel yang akan menampilkan total untuk setiap
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation>Highlight the first points of data in the selected sparkline group.</translation>
+        <translation>Sorot poin pertama data dalam grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>BottomBorder.title</source>
@@ -572,7 +570,7 @@ Baris total adalah baris di akhir tabel yang akan menampilkan total untuk setiap
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Mengubah pengaturan font, paragraf, serta gaya dan format.</translation>
+        <translation>Ubah pengaturan pemformatan sel.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -586,7 +584,7 @@ Anda juga dapat menengahkan atau mendistribusikannya secara merata di seluruh ha
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation>Klik di sini untuk pilihan lainnya seperti menempelkan teks yang belum diformat saja.</translation>
+        <translation>Klik di sini untuk pilihan lainnya seperti hanya menempel nilai.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
@@ -610,7 +608,7 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Menavigasi ke komentar berikutnya di dokumen.</translation>
+        <translation>Lompat ke komentar berikutnya.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
@@ -642,7 +640,7 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Warna Font</translation>
+        <translation>Warna Teks</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
@@ -718,19 +716,19 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>LockAspectRatio.title</source>
-        <translation>Kunci rasio aspek saat menyesuaikan gambar.</translation>
+        <translation>Kunci Rasio Aspek</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
+        <translation>Dokumen yang diubah secara otomatis akan disimpan untuk Anda agar terhindar dari hilangnya isi dokumen.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation>Reset Posisi Jendela</translation>
+        <translation>Reset Posisi Jendela.</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation>SendFileTip.content</translation>
+        <translation>Kirim File ke Ponsel dan Perangkat Lainnya</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
@@ -742,7 +740,7 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation>Menampilkan dua dokumen secara berdampingan untuk membandingkan kontennya.</translation>
+        <translation>Daripada bolak-balik ganti antar dokumen, lihat dokumen secara berdampingan. Tindakan ini mempermudah perbandingan dokumen.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
@@ -750,7 +748,7 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation>Convert To Win/Loss Sparkline</translation>
+        <translation>Konversi ke Grafik Mini Menang/Kalah</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
@@ -782,7 +780,7 @@ Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation>Menambahkan komentar ke dokumen tentang pilihan.</translation>
+        <translation>Tambahkan komentar ke lembar kerja tentang pemilihan.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
@@ -842,15 +840,15 @@ Ini hanya diperlukan jika perhitungan otomatis telah dimatikan.</translation>
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation>Toggle Sparkline Low Points</translation>
+        <translation>Ganti Titik Terendah Grafik Mini</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation>Change the selected sparkline group to a win/loss sparkline.</translation>
+        <translation>Ubah grup grafik mini yang dipilih menjadi grafik mini menang/kalah.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation>Hapus Komentar</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
@@ -886,7 +884,9 @@ Ini hanya diperlukan jika perhitungan otomatis telah dimatikan.</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation>Menyisipkan atau menggambar tabel ke dokumen, dan mengonversi teks ke tabel atau sebaliknya.</translation>
+        <translation>Buat tabel untuk mengatur dan menganalisis data terkait.
+
+Tabel mempermudah untuk mengurutkan, memfilter, dan memformat data dalam lembar.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
@@ -926,13 +926,13 @@ Tekan Esc pada keyboard atau klik lagi di sini untuk keluar dari mode penghapusa
         <source>FontColor.content</source>
         <translation>Ubah warna teks.
 
-Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
+Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation>Isi bentuk yang dipilih dengan warna solid, gradien, gambar, atau tekstur.
+        <translation>Warnai latar belakang sel yang dipilih.
 
-Klik panah untuk memilih efek isi yang berbeda.</translation>
+Klik panah untuk memilih warna latar belakang yang berbeda.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
@@ -953,6 +953,10 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     <message>
         <source>HideWindow.title</source>
         <translation>Sembunyikan Jendela</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
@@ -984,7 +988,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation>Specific the color and weight of the sparklines in the selected sparkline group.</translation>
+        <translation>Tentukan warna dan tebal grafik mini di grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>EnableMacro.title</source>
@@ -1004,7 +1008,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation>Click here to perform operations on duplicate items, such as highlight duplicate items, refuse to enter duplicate items, delete duplicate items, etc.</translation>
+        <translation>Klik di sini untuk menjalankan operasi pada item-item duplikat, seperti menyorot item-item duplikat, menolak item-item duplikat, dan menghapus item-item duplikat.</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
@@ -1032,7 +1036,7 @@ Kepala kolom adalah huruf atau angka yang muncul di atas kolom pada lembar.</tra
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Baca Teks</translation>
     </message>
     <message>
         <source>PageSize.content</source>
@@ -1072,7 +1076,7 @@ Klik dua kali item dalam daftar hasil untuk beralih sel yang sesuai.</translatio
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Kurangi Level Daftar</translation>
+        <translation>Kurangi Indent</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1118,7 +1122,7 @@ Pemblokan ini dapat membuat tabel lebih mudah dibaca.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Ekspor ke Gambar</translation>
+        <translation>Ekspor sebagai Gambar</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
@@ -1148,7 +1152,7 @@ Anda dapat menentukan kolom mana yang harus dicek untuk informasi duplikat.</tra
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation>Tampilkan Berdampingan</translation>
+        <translation>Lihat Secara Berdampingan.</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
@@ -1202,7 +1206,7 @@ Banyak orang memilih menggunakan teks di baris atas atau kolom pilihan paling ki
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Simpan Otomatis File</translation>
     </message>
     <message>
         <source>FormatChartObject.content</source>
@@ -1210,17 +1214,21 @@ Banyak orang memilih menggunakan teks di baris atas atau kolom pilihan paling ki
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation>Highlight the negative values one the selected sparkline group with a different color or marker.</translation>
+        <translation>Sorot nilai negatif pada grup grafik mini yang dipilih dengan warna atau penanda yang berbeda.</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation>Isian Bentuk</translation>
+        <translation>Warna Isian</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
         <translation>Memungkinkan orang-orang tertentu mengedit rentang sel di buku kerja atau lembar kerja yang diproteksi.
 
 Sebelum menggunakan fitur ini, set dulu keamanan pada lembar dengan menggunakan perintah Proteksi Lembar.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
@@ -1236,7 +1244,7 @@ Sebelum menggunakan fitur ini, set dulu keamanan pada lembar dengan menggunakan 
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation>Insert Data</translation>
+        <translation>Sisipkan Data</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
@@ -1264,7 +1272,7 @@ Sebelum menggunakan fitur ini, set dulu keamanan pada lembar dengan menggunakan 
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Rata Kanan</translation>
+        <translation>Ratakan teks ke kanan.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
@@ -1283,11 +1291,11 @@ Dalam Pratinjau Ganti Halaman, Anda dapat menyeret ganti halaman untuk penyesuai
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Tambah level inden paragraf.</translation>
+        <translation>Naikkan margin antara batas dan teks di dalam sel.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Kurangi level inden paragraf.</translation>
+        <translation>Kurangi margin antara batas dan teks dalam sel.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
@@ -1373,7 +1381,7 @@ Di Writer, gunakan fitur ini untuk mengonversi teks yang dipilih ke dalam tabel,
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation>Insert form</translation>
+        <translation>Sisipkan Ruas-ruas Formulir</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1397,7 +1405,7 @@ Di Writer, gunakan fitur ini untuk mengonversi teks yang dipilih ke dalam tabel,
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation>Change the selected sparkline group to a column sparkline.</translation>
+        <translation>Ubah grup grafik mini yang dipilih menjadi grafik mini kolom.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
@@ -1437,7 +1445,7 @@ Untuk mengembalikan jendela, klik tombol Tampilkan.</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation>Kecilkan Font</translation>
+        <translation>Perkecil Ukuran Font</translation>
     </message>
     <message>
         <source>Count.title</source>
@@ -1517,7 +1525,7 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation>Clear Selected Sparklines</translation>
+        <translation>Hapus Grafik Mini yang Dipilih</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
@@ -1529,7 +1537,9 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation>Edit header dan footer dokumen.</translation>
+        <translation>Edit header dan footer dokumen.
+
+Informasi di header atau footer akan muncul di bagian atas atau bawah setiap halaman yang dicetak.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
@@ -1537,11 +1547,11 @@ Tindakan ini membuat dokumen dengan tampilan bersih.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Cari</translation>
+        <translation>Cari dan Ganti</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation>Header dan Footer</translation>
+        <translation>Header/Footer</translation>
     </message>
     <message>
         <source>SortDescending.title</source>
@@ -1579,15 +1589,15 @@ PivotTable memudahkan untuk menyusun dan meringkas data yang rumit dan menelusur
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Rata Tengah</translation>
+        <translation>Tengah</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
+        <translation>Tandai area latar belakang dan hapus latar belakang gambar dengan cepat dan cerdas</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation>Change the scaling and visibility of each sparkline axis for the selected sparkline group.</translation>
+        <translation>Ubah penskalaan dan visibilitas setiap sumbu grafik mini untuk grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>RefreshAll.title</source>
@@ -1611,7 +1621,7 @@ PivotTable memudahkan untuk menyusun dan meringkas data yang rumit dan menelusur
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation>Allow WPS Spreedsheets to choose the paragraph direction based on the lanuage that is being typed.</translation>
+        <translation>Izinkan WPS Spreadsheet untuk memilih arah paragraf berdasarkan bahasa yang diketik.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
@@ -1627,7 +1637,7 @@ PivotTable memudahkan untuk menyusun dan meringkas data yang rumit dan menelusur
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation>Galeri WPS</translation>
+        <translation>Galeri WPS Office</translation>
     </message>
     <message>
         <source>LockCell.content</source>
@@ -1663,7 +1673,7 @@ PivotTable memudahkan untuk menyusun dan meringkas data yang rumit dan menelusur
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation>Edit Group Location &amp; Data</translation>
+        <translation>Edit Data &amp; Lokasi Grup</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
@@ -1727,7 +1737,7 @@ Klik lagi orientasi teks yang dipilih saat ini untuk mengeset reset teks ke orie
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation>Isian Bentuk</translation>
+        <translation>Warna Isian</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
@@ -1747,13 +1757,13 @@ Klik lagi orientasi teks yang dipilih saat ini untuk mengeset reset teks ke orie
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation>Sinkronkan pengguliran dua dokumen sehingga dokumen bergulir bersama.
+        <translation>Sinkronkan pengguliran dua dokumen sehingga dokumen bergulir bersama. 
 
 Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation>Toggle Sparkline Negative Points</translation>
+        <translation>Ganti Titik Negatif Grafik Mini</translation>
     </message>
     <message>
         <source>NameManager.title</source>
@@ -1777,11 +1787,11 @@ Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
-        <translation>DocumentFix</translation>
+        <translation>Memperbaiki dengan cepat dokumen yang rusak atau tidak dapat dibuka karena alasan lain.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Simpan otomatis diaktifkan</translation>
     </message>
     <message>
         <source>EDRProperties.content</source>
@@ -1865,9 +1875,7 @@ Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Menyisipkan objek yang ditanamkan ke dokumen.
-
-Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
+        <translation>Tampilkan kotak dialog Sisipkan Objek untuk memilih file baru atau file dari folder lokal.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
@@ -1875,7 +1883,7 @@ Klik tanda panah untuk memasukkan konten file ke dalam dokumen.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation>Mengelompokkan objek bersama-sama agar dapat diperlakukan sebagai objek tunggal.</translation>
+        <translation>Kelompokkan objek bersama-sama agar dapat diperlakukan seperti objek tunggal.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
@@ -1933,7 +1941,7 @@ Garis ini tidak akan dicetak kecuali Cetak juga dicentang.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>Menampilkan kotak dialog Galeri WordArt untuk memilih gaya WordArt dan mengedit konten.</translation>
+        <translation>Tambahkan beberapa fitur artistik ke dokumen Anda menggunakan kotak teks WordArt.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
@@ -1953,7 +1961,7 @@ Garis ini tidak akan dicetak kecuali Cetak juga dicentang.</translation>
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation>Highlight the lowest points of data in the selected sparkline group.</translation>
+        <translation>Sorot titik terendah data dalam grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
@@ -1965,7 +1973,7 @@ Garis ini tidak akan dicetak kecuali Cetak juga dicentang.</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Menampilkan item pada Papan klip.</translation>
+        <translation>Periksa item-item yang disalin ke Papan klip.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
@@ -2011,27 +2019,27 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation>1. Isi Bentuk
+        <translation>1. Isian Bentuk
 Isi objek yang dipilih dengan warna, gradien, tekstur, dan gambar.
-2. Kerangka Bentuk
-Atur warna, berat, dan tanda hubung untuk objek yang dipilih.
-Klik Panak untuk konfigurasi detail.</translation>
+2. Garis Tepi Bentuk
+Konfigurasikan warna, tebal, dan garis untuk objek yang dipilih.
+Klik Panah untuk konfigurasi mendetail.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation>Rata Kanan</translation>
+        <translation>Rata Kanan Teks</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation>Clear the selected sparklines.</translation>
+        <translation>Hapus grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation>Hentikan pencadangan otomatis dokumen saat ini.</translation>
+        <translation>Hentikan buku kerja saat ini agar tidak menyimpan otomatis.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>WordArt</translation>
+        <translation>Sisipkan WordArt</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
@@ -2127,11 +2135,11 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation>Menavigasi ke halaman berikutnya di dalam presentasi.</translation>
+        <translation>Pindah ke halaman cetak berikutnya dari lembar kerja saat ini.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation>Pemisah Halaman</translation>
+        <translation>Jeda Halaman</translation>
     </message>
     <message>
         <source>Min.content</source>
@@ -2151,7 +2159,9 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation>Memulai halaman berikutnya pada posisi kursor saat ini, dan konten setelah kursor akan dipindahkan ke halaman baru.</translation>
+        <translation>Tentukan di mana memulai halaman baru dalam salinan cetak.
+
+Jeda halaman akan disisipkan di atas dan di sebelah kiri pilihan.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
@@ -2167,7 +2177,7 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation>Highlight each point in each line sparkline in the selected sparkline group.</translation>
+        <translation>Sorot tiap titik di tiap grafik mini garis di grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
@@ -2179,11 +2189,11 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation>Pilih ukuran zoom dari dokumen saat ini.</translation>
+        <translation>Pilih ukuran zoom lembar kerja saat ini.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation>Membuka jendela baru yang berisi tampilan dokumen saat ini.</translation>
+        <translation>Buka jendela baru yang berisi tampilan lembar kerja saat ini.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
@@ -2191,7 +2201,7 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation>Melacak semua perubahan yang dilakukan pada dokumen, termasuk penyisipan, penghapusan, dan perubahan format.</translation>
+        <translation>Lacak semua perubahan yang dibuat ke buku kerja, termasuk penyisipan, penghapusan, dan perubahan format.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
@@ -2227,7 +2237,9 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Warna Isi</translation>
+        <translation>Isi bentuk yang dipilih dengan warna solid, gradien, gambar, atau tekstur.
+
+Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
@@ -2247,7 +2259,7 @@ Klik Panak untuk konfigurasi detail.</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation>Rata Kiri</translation>
+        <translation>Rata Kiri Teks</translation>
     </message>
     <message>
         <source>ProtectSheet.title</source>
@@ -2269,7 +2281,7 @@ Nama dapat digunakan dalam formula sebagai pengganti referensi sel.</translation
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation>Warna Isi</translation>
+        <translation>Isian Bentuk</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
@@ -2319,7 +2331,7 @@ Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui 
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation>Edit the location and data source for the selected sparkline group.</translation>
+        <translation>Edit lokasi dan sumber data untuk grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
@@ -2331,7 +2343,7 @@ Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui 
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation>Mengeset tata letak halaman ke potret dalam pencetakan sebaran, halaman catatan, dan kerangka.</translation>
+        <translation>Set halaman lembar kerja ke potret.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
@@ -2339,11 +2351,11 @@ Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui 
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Menampilkan kotak dialog Makro dan melihat daftar makro dari mana Anda dapat menjalankan, menghapus, atau membuat makro secara langsung.</translation>
+        <translation>Tampilkan kotak dialog Makro. Melihat daftar makro, dari mana Anda dapat menjalankan, membuat, atau menghapus makro.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation>Rata Kiri</translation>
+        <translation>Ratakan teks ke kiri.</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
@@ -2351,7 +2363,7 @@ Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui 
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>TextSpeech</translation>
+        <translation>Ubah teks ke ucapan. Anda memiliki uji coba gratis fitur ini setiap hari.</translation>
     </message>
     <message>
         <source>Max.title</source>
@@ -2363,7 +2375,7 @@ Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui 
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation>Klik panah untuk memilih efek isi yang berbeda.</translation>
+        <translation>Klik panah untuk memilih warna latar belakang yang berbeda.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
@@ -2375,7 +2387,7 @@ Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui 
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
+        <translation>Klik panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
@@ -2444,7 +2456,7 @@ Klik tanda panah untuk diisi dengan efek yang lain.</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Mengompres gambar yang dipilih atau semua gambar dalam dokumen untuk mengurangi ukurannya.</translation>
+        <translation>Kompres gambar yang dipilih atau semua gambar di lembar kerja untuk mengurangi ukuran.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
@@ -2498,7 +2510,7 @@ Anda dapat menggunakan fitur ini untuk menampilkan beberapa bagian lembar kerja 
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation>Toggle Sparkline First Points</translation>
+        <translation>Ganti Titik Pertama Grafik Mini</translation>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
@@ -2518,7 +2530,7 @@ Anda dapat menggunakan fitur ini untuk menampilkan beberapa bagian lembar kerja 
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation>Pick how you want to copy the selection.</translation>
+        <translation>Pilih cara yang Anda ingin untuk menyalin pilihan.</translation>
     </message>
     <message>
         <source>LeftBorder.content</source>
@@ -2538,7 +2550,7 @@ Anda dapat menggunakan fitur ini untuk menampilkan beberapa bagian lembar kerja 
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Tambah Level Daftar</translation>
+        <translation>Tambah Indent</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
@@ -2560,7 +2572,7 @@ Kata sandi akan mencegah orang lain mematikan pelacakan perubahan.</translation>
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation>Pengguliran Sinkron</translation>
+        <translation>Pengguliran Sinkronisasi.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
@@ -2589,6 +2601,10 @@ Tekan Esc pada keyboard atau klik lagi di sini untuk keluar dari mode menggambar
         <translation>Sisipkan Hyperlink</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.content</source>
+        <translation>EtPhotoedit2</translation>
+    </message>
+    <message>
         <source>PrintPreviewZoomCombo.title</source>
         <translation>Zoom</translation>
     </message>
@@ -2598,7 +2614,7 @@ Tekan Esc pada keyboard atau klik lagi di sini untuk keluar dari mode menggambar
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation>Toggle Sparkline Last Points</translation>
+        <translation>Ganti Titik Terakhir Grafik Mini</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
@@ -2606,7 +2622,7 @@ Tekan Esc pada keyboard atau klik lagi di sini untuk keluar dari mode menggambar
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation>Menghapus komentar.</translation>
+        <translation>Hapus komentar yang dipilih.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
@@ -2627,12 +2643,16 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
         <translation>Pilih Data</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.title</source>
+        <translation>EtPhotoedit2</translation>
+    </message>
+    <message>
         <source>TextFill2.title</source>
         <translation>Warna Teks</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation>Change the selected sparkline group to a line sparkline.</translation>
+        <translation>Ubah grup grafik mini yang dipilih menjadi grafik mini garis.</translation>
     </message>
     <message>
         <source>ResizeTable.content</source>
@@ -2652,7 +2672,7 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation>Column Sparkline</translation>
+        <translation>Grafik Mini Kolom</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
@@ -2660,11 +2680,11 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation>Highlight the highest points of data in the selected sparkline group.</translation>
+        <translation>Sorot titik tertinggi data dalam grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation>Highlight the last points of data in the selected sparkline group.</translation>
+        <translation>Sorot poin terakhir data dalam grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>AllBorders.title</source>
@@ -2676,15 +2696,15 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Ekspor ke Gambar</translation>
+        <translation>Ekspor dokumen ke gambar</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation>Sisipkan Komentar</translation>
+        <translation>Komentar Baru</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Komentar Berikutnya</translation>
+        <translation>Berikutnya.</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
@@ -2724,11 +2744,11 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation>Mengeset tata letak halaman ke lanskap dalam pencetakan sebaran, halaman catatan, dan kerangka.</translation>
+        <translation>Set halaman lembar kerja ke lanskap.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation>Duplicate Setting</translation>
+        <translation>Duplikasi Pengaturan</translation>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
@@ -2740,7 +2760,7 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation>Win/Loss Sparkline</translation>
+        <translation>Grafik Mini Menang/Kalah</translation>
     </message>
     <message>
         <source>Consolidate.content</source>
@@ -2752,7 +2772,7 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Menampilkan dulu efek halaman sebelum pencetakan.</translation>
+        <translation>Tampilkan dulu dan buat perubahan pada halaman sebelum dicetak.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
@@ -2768,7 +2788,7 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation>Line Sparkline</translation>
+        <translation>Grafik Mini Garis</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
@@ -2784,15 +2804,15 @@ Pengiris membuat proses pemfilteran PivotTable lebih cepat dan lebih mudah.</tra
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation>Toggle Sparkline Hight Points</translation>
+        <translation>Ganti Titik Tertinggi Grafik Mini</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation>Alat pengembang</translation>
+        <translation>Pengembang</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Warna Font</translation>
+        <translation>Warna Teks</translation>
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
@@ -2818,7 +2838,7 @@ Anda dapat memilih kolom yang harus dicek dari informasi duplikat.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Menengahkan teks secara vertikal dan horizontal dalam sel.</translation>
+        <translation>Tengahkan teks.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
@@ -2858,7 +2878,7 @@ Anda dapat memilih kolom yang harus dicek dari informasi duplikat.</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Menavigasi ke komentar sebelumnya di dokumen.</translation>
+        <translation>Lompat ke komentar sebelumnya.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
@@ -2912,7 +2932,7 @@ Klik tanda panah untuk menyetel detail kerangka.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Mencari teks di dokumen.
+        <translation>Cari teks di buku kerja.
 
 Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
@@ -2940,7 +2960,7 @@ Semua data dipertahankan.</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation>Change the color for negative points, markers, and all other points for the selected sparkline group.</translation>
+        <translation>Ubah warna untuk titik negatif, penanda, dan semua titik lain untuk grup grafik mini yang dipilih.</translation>
     </message>
     <message>
         <source>DeleteRange.title</source>
@@ -2956,11 +2976,11 @@ Semua data dipertahankan.</translation>
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation>Sparkline Axis</translation>
+        <translation>Sumbu Grafik Mini</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Ubah PDF ke Word</translation>
+        <translation>Mengonversi file PDF ke file Word.</translation>
     </message>
     <message>
         <source>ExportFilterResult.title</source>
@@ -2976,7 +2996,7 @@ Semua data dipertahankan.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>PDF ke Word</translation>
+        <translation>Konversi PDF ke Word</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.title</source>
@@ -2984,11 +3004,11 @@ Semua data dipertahankan.</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation>Choose different forms to insert into the document, such as labels, check boxes, scroll bars, fine-tuning items, etc.</translation>
+        <translation>Pilih kontrol lain untuk menyisipkan ke dalam dokumen, seperti label, kotak centang, bar gulir, dan pemutar.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation>Menampilkan dokumen dalam mode layar penuh.</translation>
+        <translation>Lihat buku kerja dalam mode layar penuh</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
@@ -3024,7 +3044,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Perbaikan Dokumen.</translation>
     </message>
     <message>
         <source>SpellCheck.title</source>
@@ -3032,7 +3052,7 @@ Klik dua kali tombol ini untuk menerapkan pemformatan yang sama ke beberapa temp
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Menggunakan printer default untuk mencetak secara langsung.</translation>
+        <translation>Kirim dokumen langsung ke printer default tanpa melakukan perubahan.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
@@ -3102,7 +3122,7 @@ Pemblokan ini dapat membuat tabel lebih mudah dibaca.</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
-        <translation>Reset semua perubahan ke ukuran gambar yang dipilih.</translation>
+        <translation>Reset Ukuran</translation>
     </message>
     <message>
         <source>ExitPreview.title</source>
@@ -3146,11 +3166,11 @@ Pemblokan ini dapat membuat tabel lebih mudah dibaca.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Kirim ke Ponsel</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation>The file will be automatically saved for you when it is turned on.</translation>
+        <translation>Jika fitur ini diaktifkan, konten yang dimodifikasi akan disimpan secara otomatis untuk Anda agar terhindar dari hilangnya isi dokumen.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
@@ -3158,7 +3178,7 @@ Pemblokan ini dapat membuat tabel lebih mudah dibaca.</translation>
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation>Group sparklines together so they can share formatting and scaling options.</translation>
+        <translation>Kelompokkan grafik mini bersama-sama sehingga dapat berbagi opsi pemformatan dan penskalaan.</translation>
     </message>
     <message>
         <source>NameDefine.title</source>
