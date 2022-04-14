@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>PictureDesign.title</source>
-        <translation>Picture Design</translation>
+        <translation>Desain Gambar</translation>
     </message>
     <message>
         <source>SpeedLayout.title</source>
@@ -15,9 +15,9 @@
     </message>
     <message>
         <source>ChartCombination.content</source>
-        <translation>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
+        <translation>Gunakan jenis bagan ini untuk menyoroti berbagai jenis informasi. Gunakan saat rentang nilai dalam bagan sangat bervariasi atau Anda memiliki jenis data campuran.
 
-Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</translation>
+Klik panah untuk melihat bagan kombo preset dan hentikan sementara ikon untuk melihat pratampilan di dokumen Anda. Klik Buat Bagan Kombo Khusus untuk memilih jenis bagan yang berbeda untuk digabungkan.</translation>
     </message>
     <message>
         <source>CloseWindow.content</source>
@@ -53,9 +53,9 @@ Click the arrow to see pre-set combo charts and pause over the icons to see a pr
     </message>
     <message>
         <source>ChartScatter.content</source>
-        <translation>Use this chart type to show the relationship between sets of values.
+        <translation>Gunakan jenis bagan ini untuk menampilkan hubungan antara kumpulan nilai.
 
-Click the arrow to see the different types of scatter charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Klik panah untuk melihat berbagai jenis bagan sebar yang tersedia.</translation>
     </message>
     <message>
         <source>OneStepSaveTip.title</source>
@@ -67,19 +67,19 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>TextboxBeautify.title</source>
-        <translation>One-click quick typesetting</translation>
+        <translation>Pengaturan huruf cepat sekali klik</translation>
     </message>
     <message>
         <source>PictureDesign.content</source>
-        <translation>Easy to design a picture by dragging within 3 minute.</translation>
+        <translation>Desain sebuah gambar dalam 3 menit menggunakan operasi seret yang sederhana.</translation>
     </message>
     <message>
         <source>ChartBubble.title</source>
-        <translation>Insert Bubble Chart</translation>
+        <translation>Sisipkan Bagan Gelembung</translation>
     </message>
     <message>
         <source>InsertBarcode.title</source>
-        <translation>Barcode</translation>
+        <translation>Kode Batang</translation>
     </message>
     <message>
         <source>WordArtSize.title</source>
@@ -91,7 +91,7 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation>ScreenGrab</translation>
+        <translation>Pengambilan Layar</translation>
     </message>
     <message>
         <source>BringForward.title</source>
@@ -99,7 +99,7 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>RunJSMacro.content</source>
-        <translation>View the list of JS macros, from which you can run, create, or delete a JS macro.</translation>
+        <translation>Kotak dialog JS Macro muncul. Lihat daftar makro JS, di mana Anda dapat menjalankan, membuat, atau menghapus makro JS.</translation>
     </message>
     <message>
         <source>ChartLine.title</source>
@@ -119,7 +119,11 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>JavaScriptEditor.content</source>
-        <translation>Launch WPS JavaScript Editor, and edit Macros.</translation>
+        <translation>Luncurkan Editor Makro WPS dan edit makro.</translation>
+    </message>
+    <message>
+        <source>InkDrawEraser.title</source>
+        <translation>Penghapus</translation>
     </message>
     <message>
         <source>ShapeHeight.title</source>
@@ -145,7 +149,7 @@ Klik panah untuk mengisi WordArt dengan cara berbeda.</translation>
     </message>
     <message>
         <source>FontName.content</source>
-        <translation>Atur fon yang berbeda</translation>
+        <translation>Mengubah wajah font.</translation>
     </message>
     <message>
         <source>DonateMoney.content</source>
@@ -161,9 +165,9 @@ Klik panah untuk mengisi WordArt dengan cara berbeda.</translation>
     </message>
     <message>
         <source>ChartLine.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories.
+        <translation>Gunakan jenis bagan ini untuk menunjukkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori.
 
-Click the arrow to see the different types of line charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Klik tanda panah untuk melihat berbagai jenis bagan garis yang tersedia dan hentikan sementara pointer pada ikon untuk melihat pratampilan di dokumen Anda.</translation>
     </message>
     <message>
         <source>TriggerExtendObject.title</source>
@@ -211,7 +215,7 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>OnlineIcons.content</source>
-        <translation>Icon ResourceShop is powerful and full of different icons, which are compatible with all documents.</translation>
+        <translation>Pustaka ikon vektor yang canggih menyediakan berbagai ikon yang kompatibel dengan semua dokumen WPS.</translation>
     </message>
     <message>
         <source>InsertMap.content</source>
@@ -231,19 +235,19 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>EquationDelimiterGallery.content</source>
-        <translation>Add a delimiter to the equation.</translation>
+        <translation>Tambahkan pembatas ke persamaan.</translation>
     </message>
     <message>
         <source>ChartPie.content</source>
-        <translation>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
+        <translation>Gunakan jenis bagan ini untuk menunjukkan proporsi keseluruhan. Gunakan saat jumlah total Anda 100%.
 
-Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Klik panah untuk melihat berbagai jenis bagan pie dan donat yang tersedia dan hentikan sementara penunjuk pada ikon untuk melihat pratinjau di dokumen Anda.</translation>
     </message>
     <message>
         <source>ChartBar.content</source>
-        <translation>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
+        <translation>Gunakan jenis bagan ini untuk membandingkan nilai secara visual di beberapa kategori saat bagan menunjukkan durasi atau teks kategori panjang.
 
-Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Klik tanda panah untuk melihat berbagai jenis bagan bar yang tersedia dan hentikan sementara pointer pada ikon untuk melihat pratampilan di dokumen Anda.</translation>
     </message>
     <message>
         <source>Themes.title</source>
@@ -255,7 +259,7 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation>Atur ukuran fon</translation>
+        <translation>Mengubah ukuran font.</translation>
     </message>
     <message>
         <source>FontName.title</source>
@@ -263,11 +267,15 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>FontSize.title</source>
-        <translation>Ukuran fon</translation>
+        <translation>Ukuran Font</translation>
     </message>
     <message>
         <source>EditShape.content</source>
         <translation>Mengubah bentuk gambar ini, mengonversinya menjadi bentuk bebas, atau mengedit titik pembungkusan untuk menentukan cara membungkus teks di sekitar gambar.</translation>
+    </message>
+    <message>
+        <source>InkDrawNiteWriterPen.title</source>
+        <translation>Pena Penyorot</translation>
     </message>
     <message>
         <source>KOSDocShare.content</source>
@@ -318,16 +326,20 @@ Click the arrow to see the different types of bar charts available and pause the
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawColorGallery2.content</source>
+        <translation>Click arrow to set custom color.</translation>
+    </message>
+    <message>
         <source>ExportToPDF.title</source>
-        <translation>ExportToPDF</translation>
+        <translation>Ekspor ke PDF</translation>
     </message>
     <message>
         <source>OnlineFonts.title</source>
-        <translation>Cloud Font</translation>
+        <translation>Font Online</translation>
     </message>
     <message>
         <source>OnlineIcons.title</source>
-        <translation>Online Icons</translation>
+        <translation>Sisipkan Ikon</translation>
     </message>
     <message>
         <source>Auto_Backup.title</source>
@@ -343,9 +355,9 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>ChartArea.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
+        <translation>Gunakan jenis bagan ini untuk menunjukkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori. Gunakan untuk menyoroti besarnya perubahan seiring waktu.
 
-Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Klik tanda panah untuk melihat berbagai jenis bagan area yang tersedia dan hentikan sementara pointer pada ikon untuk melihat pratampilan di dokumen Anda.</translation>
     </message>
     <message>
         <source>DonateMoney.title</source>
@@ -357,7 +369,7 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation>ChartGallery_pro.content</translation>
+        <translation>Konten Galeri bagan</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.title</source>
@@ -399,11 +411,11 @@ Data yang dipetakan pada sumbu X akan berpindah ke sumbu Y dan sebaliknya.</tran
     </message>
     <message>
         <source>OnlineFonts.content</source>
-        <translation>Click for various online fonts.</translation>
+        <translation>Klik untuk mendapatkan layanan font online lainnya.</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>Nikmati XiuTang.</translation>
     </message>
     <message>
         <source>PictureOutline2.title</source>
@@ -467,11 +479,15 @@ Data yang dipetakan pada sumbu X akan berpindah ke sumbu Y dan sebaliknya.</tran
     </message>
     <message>
         <source>EquationLimitGallery.content</source>
-        <translation>Add a limit or log function to the equation.</translation>
+        <translation>Tambahkan fungsi limit atau log ke persamaan.</translation>
     </message>
     <message>
         <source>ClearFormats.content</source>
         <translation>Menghapus semua pemformatan dari pilihan, hanya menyisakan teks biasa.</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.content</source>
+        <translation>Tutup mode Pena.</translation>
     </message>
     <message>
         <source>InsertSymbol.title</source>
@@ -487,11 +503,11 @@ Data yang dipetakan pada sumbu X akan berpindah ke sumbu Y dan sebaliknya.</tran
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation>Terapkan efek bayangan dan 3D ke gambar yang dipilih.</translation>
+        <translation>Terapkan efek visual ke grafis yang dipilih, seperti bayangan, kilau, pantulan, atau rotasi 3D.</translation>
     </message>
     <message>
         <source>WordArtOutline2.content</source>
@@ -521,11 +537,11 @@ Klik panah untuk memilih dari warna 3-D yang berbeda.</translation>
     </message>
     <message>
         <source>Ornamentation.title</source>
-        <translation>Ornamentation</translation>
+        <translation>Ornamentasi</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Memberi Anda templat online yang paling profesional.</translation>
     </message>
     <message>
         <source>Sentence Translation.title</source>
@@ -557,19 +573,28 @@ Klik panah untuk memilih dari warna 3-D yang berbeda.</translation>
     </message>
     <message>
         <source>SwitchJS.content</source>
-        <translation>Switch development environment to JS language</translation>
+        <translation>Alihkan Lingkungan Pengembangan ke Bahasa JS</translation>
     </message>
     <message>
         <source>SwitchVB.content</source>
-        <translation>Switch development environment to VB language</translation>
+        <translation>Alihkan Lingkungan Pengembangan ke Bahasa VB</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.content</source>
+        <translation>Tambahkan tinta dengan efek bolpoin pada halaman.</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation>Miring</translation>
+        <translation>Memiringkan teks yang dipilih.</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.content</source>
+        <translation>Atur warna pena khusus.
+Klik panah untuk memilih warna untuk pena Anda.</translation>
     </message>
     <message>
         <source>EquationInsertGallery.title</source>
-        <translation>Insert an Equation</translation>
+        <translation>Sisipkan Persamaan</translation>
     </message>
     <message>
         <source>WordArtFill2.content</source>
@@ -588,6 +613,10 @@ Klik panah untuk memilih dari warna 3-D yang berbeda.</translation>
         <translation>Galeri WordArt</translation>
     </message>
     <message>
+        <source>InkDrawNiteWriterPen.content</source>
+        <translation>Tambahkan tinta dengan efek penyorot pada halaman.</translation>
+    </message>
+    <message>
         <source>ClearTableStyle.content</source>
         <translation>Menghapus gaya tabel sel yang dipilih.</translation>
     </message>
@@ -596,12 +625,16 @@ Klik panah untuk memilih dari warna 3-D yang berbeda.</translation>
         <translation>Warna Tema</translation>
     </message>
     <message>
+        <source>InkDrawSelectMode.title</source>
+        <translation>Pilih Mode</translation>
+    </message>
+    <message>
         <source>EquationScriptGallery.title</source>
         <translation>Skrip</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation>Barcode</translation>
+        <translation>Galeri Bagan</translation>
     </message>
     <message>
         <source>SendBackward.title</source>
@@ -633,9 +666,9 @@ Klik panah untuk memilih dari warna 3-D yang berbeda.</translation>
     </message>
     <message>
         <source>ChartColumn.content</source>
-        <translation>Use this chart type to visually compare values across a few categories.
+        <translation>Gunakan jenis bagan ini untuk membandingkan nilai secara visual di beberapa kategori.
 
-Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Klik panah untuk melihat berbagai jenis bagan kolom yang tersedia dan hentikan sementara pointer pada ikon untuk melihat pratampilan di dokumen Anda.</translation>
     </message>
     <message>
         <source>ShadowOnOff.content</source>
@@ -647,7 +680,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartStock.title</source>
-        <translation>Insert Stock Chart</translation>
+        <translation>Sisipkan Bagan Stok</translation>
     </message>
     <message>
         <source>WordArtQuickBarCollapse.content</source>
@@ -659,7 +692,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation>Pindai kode QR dengan ponsel Anda untuk mendapatkan dokumen</translation>
+        <translation>Baca dan bagikan semua dokumen Anda saat bepergian</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.content</source>
@@ -679,7 +712,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>EquationNormalText.content</source>
-        <translation>Use non-math text in a math region.</translation>
+        <translation>Gunakan teks non-matematika di bidang matematis.</translation>
     </message>
     <message>
         <source>3DTiltLeft.content</source>
@@ -707,11 +740,15 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>Ornamentation.content</source>
-        <translation>Ornamentation content</translation>
+        <translation>Unsur-unsur budaya tradisional diintegrasikan ke dalam WPS melalui grafik yang disisipkan, menambah pesona budaya yang lebih khas pada studi, pekerjaan, dan kehidupan masyarakat.</translation>
+    </message>
+    <message>
+        <source>InkDrawTouchToDraw.content</source>
+        <translation>Draw ink with touch.</translation>
     </message>
     <message>
         <source>EquationLargeOperatorGallery.content</source>
-        <translation>Add a large operator to the equation, such as a summation, product, union, or intersection.</translation>
+        <translation>Tambahkan operator besar ke persamaan, seperti penjumlahan, perkalian, gabungan, atau irisan.</translation>
     </message>
     <message>
         <source>WordArtSameLetterHeights.title</source>
@@ -727,7 +764,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartRadar.content</source>
-        <translation>Click the arrow to see the different types of radar charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Klik panah untuk melihat berbagai jenis bagan radar yang tersedia.</translation>
     </message>
     <message>
         <source>Auto_Backup_xa.title</source>
@@ -802,6 +839,10 @@ Click the arrow to see the different types of column charts available and pause 
         <translation>File otomatis akan dibagikan ke WPS Office Cloud dan ke PC serta perangkat seluler Anda menggunakan WPS Office.</translation>
     </message>
     <message>
+        <source>InkDrawPenGallery.content</source>
+        <translation>Gambarlah dengan bentuk yang dipilih seperti garis, garis bergelombang, atau persegi panjang. Klik tombolnya lagi untuk mengatur lebar dan bentuk.</translation>
+    </message>
+    <message>
         <source>PictureFill.content</source>
         <translation>Mengisi objek yang dipilih dengan warna, gradien, pola, dan gambar.
 
@@ -832,12 +873,16 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
         <translation>Melakukan penyempurnaan pada tampilan bentuk Anda menggunakan panel tugas Format Bentuk.</translation>
     </message>
     <message>
+        <source>AIAssistant.content</source>
+        <translation>Intelligent analysis of user scenarios and questions,intention recognition,question and answer,provide intelligent office experience.</translation>
+    </message>
+    <message>
         <source>EquationProfessional.content</source>
-        <translation>Converts selection to 2-dimemsional form for professional display.</translation>
+        <translation>Mengonversi pilihan ke bentuk 2 dimensi untuk tampilan profesional.</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation>Tinjau Gambar</translation>
+        <translation>Melihat gambar yang dipilih dalam ukuran aslinya atau dalam ukuran jendela.</translation>
     </message>
     <message>
         <source>OnlineChart.content</source>
@@ -873,11 +918,11 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>ChartStock.content</source>
-        <translation>Click the arrow to see the different types of stock charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Klik panah untuk melihat berbagai jenis bagan stok yang tersedia.</translation>
     </message>
     <message>
         <source>EquationLinearFormat.content</source>
-        <translation>Converts selection to a 1-dimensional form for easy editing.</translation>
+        <translation>Mengonversi pilihan ke bentuk 1 dimensi untuk pengeditan yang mudah.</translation>
     </message>
     <message>
         <source>ChooseDataSource.title</source>
@@ -889,7 +934,7 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     </message>
     <message>
         <source>DocumentAuthente.content</source>
-        <translation>Once the document is certified, it will become your own document. If it is tampered with, the status of the document will be updated in real time.</translation>
+        <translation>File bersertifikat bersifat pribadi dan statusnya akan diperbarui dalam waktu riil jika disesuaikan.</translation>
     </message>
     <message>
         <source>WordArtGallery.title</source>
@@ -906,6 +951,10 @@ Klik panah untuk memilih efek isi yang berbeda.</translation>
     <message>
         <source>PictureOutline2.content</source>
         <translation>Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.title</source>
+        <translation>Smart Diagram Process</translation>
     </message>
     <message>
         <source>ChangeChartType.title</source>
@@ -999,7 +1048,7 @@ Ketika Anda mengeklik piksel dalam grafik ini, semua piksel warna tertentu itu a
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Docer</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.content</source>
@@ -1007,7 +1056,7 @@ Ketika Anda mengeklik piksel dalam grafik ini, semua piksel warna tertentu itu a
     </message>
     <message>
         <source>InsertBarcode.content</source>
-        <translation>Insert a barcode with information you define into the document.</translation>
+        <translation>Sisipkan kode batang dengan informasi yang Anda tentukan ke dalam dokumen.</translation>
     </message>
     <message>
         <source>ChangePicture.title</source>
@@ -1027,7 +1076,7 @@ Ketika Anda mengeklik piksel dalam grafik ini, semua piksel warna tertentu itu a
     </message>
     <message>
         <source>EquationOperatorGallery.content</source>
-        <translation>Add an operator to the equation.</translation>
+        <translation>Tambahkan operator ke persamaan.</translation>
     </message>
     <message>
         <source>EquationFunctionGallery.title</source>
@@ -1091,7 +1140,7 @@ Klik panah untuk memilih warna bayangan lain.</translation>
     </message>
     <message>
         <source>OnlineTextboxMore.content</source>
-        <translation>Docer text box provides more exquisite materials to meet personalized needs.</translation>
+        <translation>Kotak teks templat menyediakan materi yang lebih indah untuk memenuhi kebutuhan yang dipersonalisasi.</translation>
     </message>
     <message>
         <source>ShadowPalette.title</source>
@@ -1103,7 +1152,7 @@ Klik panah untuk memilih warna bayangan lain.</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation>DocPermission</translation>
+        <translation>Izin Dokumen</translation>
     </message>
     <message>
         <source>InsertSmartDiagram.title</source>
@@ -1111,11 +1160,15 @@ Klik panah untuk memilih warna bayangan lain.</translation>
     </message>
     <message>
         <source>EquationOptions.content</source>
-        <translation>Show the Equation Options dialog box to configure advanced options.</translation>
+        <translation>Tampilkan kotak dialog Opsi Persamaan untuk mengonfigurasi opsi lanjutan.</translation>
     </message>
     <message>
         <source>ChartElementFormat.content</source>
         <translation>Menampilkan panel tugas Format untuk menyempurnakan pemformatan untuk elemen bagan yang dipilih.</translation>
+    </message>
+    <message>
+        <source>InkDrawTouchToDraw.title</source>
+        <translation>Touch to draw</translation>
     </message>
     <message>
         <source>ShapeFormatStyle.content</source>
@@ -1131,7 +1184,7 @@ Klik panah untuk memilih warna bayangan lain.</translation>
     </message>
     <message>
         <source>ChartScatter.title</source>
-        <translation>Insert Scatter (X, Y) Chart</translation>
+        <translation>Sisipkan Bagan Sebar (X, Y)</translation>
     </message>
     <message>
         <source>InsertOnlinePictureFromFile.content</source>
@@ -1158,6 +1211,10 @@ Klik panah untuk memilih warna bayangan lain.</translation>
         <translation>Membawa objek yang dipilih ke depan sehingga tersembunyi oleh objek yang lebih sedikit yang ada di depannya.</translation>
     </message>
     <message>
+        <source>InkDrawEnter.title</source>
+        <translation>Tinta</translation>
+    </message>
+    <message>
         <source>NudgeShadowUp.title</source>
         <translation>Senggol Bayangan ke Atas</translation>
     </message>
@@ -1171,7 +1228,7 @@ Klik panah untuk memilih warna bayangan lain.</translation>
     </message>
     <message>
         <source>EquationNormalText.title</source>
-        <translation>Normal Text</translation>
+        <translation>Teks Normal</translation>
     </message>
     <message>
         <source>ChartPie.title</source>
@@ -1212,20 +1269,24 @@ Klik panah untuk memilih warna bayangan lain.</translation>
 Ini memastikan bahwa elemen bagan yang dipilih cocok dengan tema dokumen secara keseluruhan.</translation>
     </message>
     <message>
+        <source>InkDrawEnter.content</source>
+        <translation>Gunakan pena untuk menggambar.</translation>
+    </message>
+    <message>
         <source>EquationAccentGallery.title</source>
         <translation>Aksen</translation>
     </message>
     <message>
         <source>OnlineIconMore.title</source>
-        <translation>More Icon</translation>
+        <translation>Sisipkan Ikon</translation>
     </message>
     <message>
         <source>EquationFractionGallery.content</source>
-        <translation>Add a fraction to the equation.</translation>
+        <translation>Tambahkan pecahan ke persamaan.</translation>
     </message>
     <message>
         <source>EquationFunctionGallery.content</source>
-        <translation>Add a trigonometric function to the equation.</translation>
+        <translation>Tambahkan fungsi trigonometri ke persamaan.</translation>
     </message>
     <message>
         <source>ShadowColor2.title</source>
@@ -1237,7 +1298,7 @@ Ini memastikan bahwa elemen bagan yang dipilih cocok dengan tema dokumen secara 
     </message>
     <message>
         <source>SwitchVB.title</source>
-        <translation>Switch to VB environment</translation>
+        <translation>Beralih ke lingkungan VB</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.content</source>
@@ -1249,7 +1310,7 @@ Ini memastikan bahwa elemen bagan yang dipilih cocok dengan tema dokumen secara 
     </message>
     <message>
         <source>JavaScriptEditor.title</source>
-        <translation>WPS JavaScript Editor</translation>
+        <translation>Editor Makro WPS</translation>
     </message>
     <message>
         <source>CTB_ViewCode.content</source>
@@ -1277,7 +1338,7 @@ Ini memastikan bahwa elemen bagan yang dipilih cocok dengan tema dokumen secara 
     </message>
     <message>
         <source>OnlineTextboxMore.title</source>
-        <translation>More Textbox</translation>
+        <translation>Kotak Teks</translation>
     </message>
     <message>
         <source>ChartBar.title</source>
@@ -1289,7 +1350,11 @@ Ini memastikan bahwa elemen bagan yang dipilih cocok dengan tema dokumen secara 
     </message>
     <message>
         <source>OnlineIconMore.content</source>
-        <translation>Docer icon library provides a large number of high-quality icons.</translation>
+        <translation>Pustaka ikon Docer menyediakan banyak ikon berkualitas tinggi.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.content</source>
+        <translation>Smart Diagram Process content</translation>
     </message>
     <message>
         <source>WordArtOutline.content</source>
@@ -1331,7 +1396,7 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>ChartBubble.content</source>
-        <translation>Click the arrow to see the different types of scatter and bubble charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Klik panah untuk melihat berbagai jenis bagan gelembung yang tersedia.</translation>
     </message>
     <message>
         <source>ShapeHeight.content</source>
@@ -1339,11 +1404,11 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>SwitchJS.title</source>
-        <translation>Switch to JS environment</translation>
+        <translation>Beralih ke lingkungan JS</translation>
     </message>
     <message>
         <source>EquationRadicalGallery.content</source>
-        <translation>Add a radical to the equation.</translation>
+        <translation>Tambahkan bentuk akar ke persamaan.</translation>
     </message>
     <message>
         <source>BringForward2.title</source>
@@ -1371,7 +1436,7 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation>Menerapkan efek bayangan dan efek 3D untuk bentuk yang dipilih.</translation>
+        <translation>Menerapkan efek visual ke bentuk yang dipilih, seperti bayangan, cahaya, pantulan, atau rotasi 3D.</translation>
     </message>
     <message>
         <source>EquationFractionGallery.title</source>
@@ -1387,9 +1452,8 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>EquationInsertGallery.content</source>
-        <translation>Add common mathematical equations to your document, such as the area of a circle or the quadratic formula.
-
-You can also build your own equations using the library of math symbols and structures.</translation>
+        <translation>Tambahkan persamaan matematika ke dalam dokumen Anda, termasuk area lingkar atau formula kuadratik.
+Anda juga dapat menggunakan perpustakaan simbol dan struktur matematika untuk membangun persamaan Anda sendiri.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.title</source>
@@ -1421,7 +1485,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation>DocPermission</translation>
+        <translation>Setelah mengeset izin, hanya pengguna yang diotorisasi yang dapat membuka dokumen ini.</translation>
     </message>
     <message>
         <source>ChangePicture.content</source>
@@ -1433,7 +1497,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>EquationScriptGallery.content</source>
-        <translation>Add a subscript or superscript to the equation.</translation>
+        <translation>Tambahkan subskrip atau superskrip ke persamaan.</translation>
     </message>
     <message>
         <source>NudgeShadowLeft.content</source>
@@ -1451,7 +1515,7 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation>Tinjau Gambar</translation>
+        <translation>Pratinjau Gambar</translation>
     </message>
     <message>
         <source>3DTiltUp.title</source>
@@ -1459,11 +1523,15 @@ Klik panah untuk memilih pengaturan detail untuk kerangka.</translation>
     </message>
     <message>
         <source>EquationAccentGallery.content</source>
-        <translation>Add an accent mark to the equation.</translation>
+        <translation>Tambahkan tanda aksen ke persamaan.</translation>
     </message>
     <message>
         <source>SpeedLayout.content</source>
         <translation>Mengubah tata letak bagan secara keseluruhan.</translation>
+    </message>
+    <message>
+        <source>AIAssistant.title</source>
+        <translation>AI Assistant-XiaoMo</translation>
     </message>
     <message>
         <source>CTB_ViewCode.title</source>
@@ -1505,11 +1573,19 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation>DataRecover</translation>
+        <translation>Pemulihan Data</translation>
+    </message>
+    <message>
+        <source>InkDrawSelectMode.content</source>
+        <translation>Klik untuk memilih teks dan objek, termasuk tinta dan bentuk.</translation>
     </message>
     <message>
         <source>MarkVersion.title</source>
         <translation>Pencadangan Manual</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.title</source>
+        <translation>Pena Bolpoin</translation>
     </message>
     <message>
         <source>TextboxBeautify.content</source>
@@ -1537,7 +1613,7 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>EquationMatrixGallery.content</source>
-        <translation>Add a matrix to the equation.</translation>
+        <translation>Tambahkan matriks ke persamaan.</translation>
     </message>
     <message>
         <source>ChangeChartType.content</source>
@@ -1546,6 +1622,10 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     <message>
         <source>WordArtSameLetterHeights.content</source>
         <translation>Samakan semua tinggi huruf dari WordArt yang dipilih.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.title</source>
+        <translation>Pena Cat Air</translation>
     </message>
     <message>
         <source>NudgeShadowRight.title</source>
@@ -1565,7 +1645,7 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>PictureChange.content</source>
-        <translation>Docer picture have provide a lot of pictures, replace directly.</translation>
+        <translation>Gambar templat menyediakan banyak gambar indah untuk penggantian langsung.</translation>
     </message>
     <message>
         <source>QuickBarChartFilters.content</source>
@@ -1597,11 +1677,11 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation>DataRecover</translation>
+        <translation>Membantu Anda memulihkan file yang hilang karena kerusakan diska atau penghapusan yang tidak disengaja.</translation>
     </message>
     <message>
         <source>ChartRadar.title</source>
-        <translation>Insert Radar Chart</translation>
+        <translation>Sisipkan Bagan Radar</translation>
     </message>
     <message>
         <source>TransformQuickBar.content</source>
@@ -1609,7 +1689,7 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>Bold.content</source>
-        <translation>Tebal</translation>
+        <translation>Membuat teks yang dipilih menjadi tebal.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile.content</source>
@@ -1618,6 +1698,10 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     <message>
         <source>InsertOnlinePictureFromFile.title</source>
         <translation>Gambar Online</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.title</source>
+        <translation>Warna Sendiri</translation>
     </message>
     <message>
         <source>Copy.content</source>
@@ -1653,15 +1737,15 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation>ScreenGrab</translation>
+        <translation>Dengan cepat menambahkan snapshot jendela mana pun yang terbuka di desktop Anda ke dokumen.</translation>
     </message>
     <message>
         <source>SmartArt InsertBullet.content</source>
-        <translation>Add text bullets to selected SmartArt shapes, only available in shapes with bullet text</translation>
+        <translation>Tambahkan poin teks ke bentuk SmartArt yang dipilih. Fitur ini tersedia untuk bentuk yang mendukung poin teks.</translation>
     </message>
     <message>
         <source>DocerMall.content</source>
-        <translation>DocerMall content</translation>
+        <translation>Buka Mall Templat di tab baru</translation>
     </message>
     <message>
         <source>PictureOutline.title</source>
@@ -1685,7 +1769,15 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>EquationIntegralGallery.content</source>
-        <translation>Add an integral to the equation.</translation>
+        <translation>Tambahkan integral ke persamaan.</translation>
+    </message>
+    <message>
+        <source>InkDrawEraser.content</source>
+        <translation>Hapus tinta pada halaman.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.content</source>
+        <translation>Tambahkan tinta dengan efek cat air pada halaman.</translation>
     </message>
     <message>
         <source>ClearTableStyle.title</source>
@@ -1694,6 +1786,10 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     <message>
         <source>DocPermissionProtection.title</source>
         <translation>Izin Doc</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.title</source>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Protect_Eyes_Night.title</source>
@@ -1721,7 +1817,7 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>Print.content</source>
-        <translation>Cetak file dan buat pengaturan mendetail untuk mencetak</translation>
+        <translation>Terapkan pengaturan detail untuk pencetakan, seperti printer, rentang cetak, salinan cetak, halaman per lembar, dan zoom.</translation>
     </message>
     <message>
         <source>ChartElementFormat.title</source>
@@ -1733,11 +1829,15 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
     </message>
     <message>
         <source>RunJSMacro.title</source>
-        <translation>View JS Macros</translation>
+        <translation>Lihat Makro JS</translation>
     </message>
     <message>
         <source>EquationMatrixGallery.title</source>
         <translation>Matriks</translation>
+    </message>
+    <message>
+        <source>InkDrawPenGallery.title</source>
+        <translation>Bentuk Pena</translation>
     </message>
     <message>
         <source>Photo2Pdf.title</source>
@@ -1752,8 +1852,12 @@ Jenis diagram hubungan meliputi: Bagan Organisasi, SWOT, Berdampingan, dll.</tra
         <translation>Beralih ke Mode Malam untuk memproteksi penglihatan mata Anda.</translation>
     </message>
     <message>
+        <source>InkDrawColorGallery2.title</source>
+        <translation>Warna Sendiri</translation>
+    </message>
+    <message>
         <source>ExportToPDF.content</source>
-        <translation>ExportToPDF</translation>
+        <translation>Mengekspor dokumen ke file PDF.</translation>
     </message>
 </context>
 </TS>
