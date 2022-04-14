@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation>Akhir</translation>
+        <translation>Panah Akhir</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
@@ -79,15 +79,19 @@
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Tambah ukuran font</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation>PdfInvoiceAssist</translation>
+        <translation>Bantuan Faktur</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
         <translation>Sorot dan beri komentar</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.content</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>Superscript.title</source>
@@ -111,7 +115,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Memutar gambar ke sudut tertentu</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
@@ -140,6 +144,10 @@
     <message>
         <source>FloatClose.title</source>
         <translation>Tutup Toolbar</translation>
+    </message>
+    <message>
+        <source>ScanEdit.title</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
@@ -199,7 +207,7 @@
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation>CADTOPdf</translation>
+        <translation>Konversi File CAD ke File PDF</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
@@ -211,9 +219,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Garis bawahi teks yang dipilih.
-
-Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
+        <translation>Garis bawah</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
@@ -289,7 +295,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation>Penspasian Baris</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
@@ -341,7 +347,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation>ClearFormat</translation>
+        <translation>Hapus Format</translation>
     </message>
     <message>
         <source>Shape.content</source>
@@ -408,6 +414,10 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
         <translation>Tingkatkan Font</translation>
     </message>
     <message>
+        <source>AlignJustify.content</source>
+        <translation>Distribusikan teks Anda secara merata antarmargin.</translation>
+    </message>
+    <message>
         <source>InsertPagesFromDoc.content</source>
         <translation>Sisipkan halaman yang dipilih dari dokumen ke posisi yang ditentukan.</translation>
     </message>
@@ -469,11 +479,11 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation>PdfSignatureEmbedBatch</translation>
+        <translation>Tanam Batch ke Dokumen</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation>Akhir</translation>
+        <translation>Panah Akhir</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
@@ -509,7 +519,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation>TextBold</translation>
+        <translation>Tebalkan teks yang dipilih</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
@@ -537,7 +547,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation>TextUnderline</translation>
+        <translation>Garis bawahi teks yang dipilih</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
@@ -565,7 +575,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Memutar gambar ke sudut tertentu</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
@@ -601,7 +611,7 @@ Klik tanda panah untuk memilih gaya garis bawah yang berbeda.</translation>
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation>FormatBrush</translation>
+        <translation>Pelukis Format</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
@@ -715,7 +725,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copy Images</translation>
+        <translation>Salin sebagai Gambar</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -735,9 +745,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Ubah warna teks.
-
-Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
+        <translation>Warna Font</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
@@ -785,7 +793,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation>Terjemahan teks lengkap</translation>
+        <translation>Terjemahkan Keseluruhan Teks</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
@@ -801,7 +809,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation>Membuat huruf kecil di bawah garis dasar teks.</translation>
+        <translation>Subskrip</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
@@ -821,7 +829,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Bicara</translation>
     </message>
     <message>
         <source>Circle.title</source>
@@ -833,11 +841,11 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation>Squiggly Underline</translation>
+        <translation>garis gelombang</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation>PdfElectronicInvoicePrint</translation>
+        <translation>Pencetakan Faktur</translation>
     </message>
     <message>
         <source>FreeText.content</source>
@@ -849,7 +857,11 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation>Warna Sorotan Teks</translation>
+        <translation>Sorotan</translation>
+    </message>
+    <message>
+        <source>TableRegonize.content</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
@@ -877,7 +889,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Ekspor ke Gambar</translation>
+        <translation>Output sebagai Gambar</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
@@ -910,6 +922,10 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     <message>
         <source>PdfImageReplace.title</source>
         <translation>Ganti</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.title</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
@@ -961,7 +977,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation>Menerjemahkan dengan akurat dan cepat sekaligus mempertahankan keaslian tata letak dokumen.</translation>
+        <translation>DocTranslate</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
@@ -1033,7 +1049,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation>Squiggly Underline</translation>
+        <translation>garis gelombang</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
@@ -1117,7 +1133,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Cari</translation>
+        <translation>Temukan</translation>
     </message>
     <message>
         <source>FloatClose.content</source>
@@ -1157,11 +1173,15 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation>TextItalic</translation>
+        <translation>Miringkan teks yang dipilih</translation>
     </message>
     <message>
         <source>Line Style.content</source>
         <translation>Gaya Garis</translation>
+    </message>
+    <message>
+        <source>TableRegonize.title</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
@@ -1229,7 +1249,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation>TextUnderline</translation>
+        <translation>Garis bawah</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
@@ -1300,12 +1320,16 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
         <translation>Inden Baris Pertama</translation>
     </message>
     <message>
+        <source>EditTextInPicture.content</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>NavigateForward.title</source>
         <translation>Navigasi Maju</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation>Masukkan bentuk siap pakai, seperti garis, persegi panjang, simbol, dan keterangan bagan alur.</translation>
+        <translation>Sisipkan garis, panah, persegi panjang, dll.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
@@ -1325,7 +1349,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation>PdfImageOcrExtract</translation>
+        <translation>Ekstrak Teks dari Gambar</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
@@ -1333,7 +1357,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation>ImageEditDelete</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
@@ -1365,7 +1389,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation>TranslationSelectPdf</translation>
+        <translation>Terjemahkan Kata yang Dipilih</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
@@ -1373,7 +1397,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Tambah level inden paragraf</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
@@ -1429,7 +1453,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation>Foto Ekspor PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
@@ -1437,7 +1461,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation>Membuat huruf kecil di atas garis teks.</translation>
+        <translation>Superskrip</translation>
     </message>
     <message>
         <source>Arrow.title</source>
@@ -1449,7 +1473,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Kurangi level inden paragraf</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
@@ -1481,15 +1505,23 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation>PdfSignatureDeleteBatch</translation>
+        <translation>Penghapusan Batch</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
         <translation>Warna Isi</translation>
     </message>
     <message>
+        <source>PdfPhotoedit2.content</source>
+        <translation>PdfPhotoedit2</translation>
+    </message>
+    <message>
         <source>OCRExtractText.title</source>
-        <translation>OCRExtractText</translation>
+        <translation>Ekstrak Teks</translation>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.title</source>
+        <translation>PdfPhotoedit2</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
@@ -1502,6 +1534,10 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     <message>
         <source>ShapeFillColor.title</source>
         <translation>Warna Isi</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.title</source>
+        <translation>Temukan dan Ganti</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
@@ -1597,7 +1633,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation>Foto Ekspor PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
@@ -1629,7 +1665,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation>TextBold</translation>
+        <translation>Tebal</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
@@ -1672,6 +1708,10 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
         <translation>Pilih teks atau gambar untuk disalin.</translation>
     </message>
     <message>
+        <source>EditTextInPicture.title</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>PDFMeasureScale.content</source>
         <translation>Rasio Skala</translation>
     </message>
@@ -1689,7 +1729,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Tambah Font</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
@@ -1750,11 +1790,15 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copy Images</translation>
+        <translation>Salin pilihan saat ini sebagai gambar</translation>
     </message>
     <message>
         <source>NextPage.title</source>
         <translation>Halaman Berikutnya</translation>
+    </message>
+    <message>
+        <source>ScanEdit.content</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
@@ -1842,11 +1886,11 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Kurangi Inden</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Ekspor ke Gambar</translation>
+        <translation>ExportWeiboImageCmd</translation>
     </message>
     <message>
         <source>Open.content</source>
@@ -1866,7 +1910,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation>TextItalic</translation>
+        <translation>Miring</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
@@ -1887,6 +1931,10 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     <message>
         <source>InsertPages.title</source>
         <translation>Sisipkan Halaman</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.content</source>
+        <translation>Temukan dan Ganti</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
@@ -1966,7 +2014,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Tambah Inden</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
@@ -1986,7 +2034,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Menengahkan teks secara vertikal dan horizontal dalam sel.</translation>
+        <translation>Rata Tengah</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
@@ -2038,9 +2086,7 @@ Klik tanda panah untuk memilih warna teks yang berbeda.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Mencari teks di dokumen.
-
-Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
+        <translation>Cari teks</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
@@ -2068,7 +2114,7 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation>CADTOPdf</translation>
+        <translation>CAD ke PDF</translation>
     </message>
     <message>
         <source>NoteBorder.title</source>
@@ -2092,7 +2138,7 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation>Mengubah penspasian antar baris teks.</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
@@ -2112,7 +2158,11 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation>ImageExtractTip</translation>
+        <translation>Ekstrak Gambar</translation>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Rata</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
@@ -2140,13 +2190,11 @@ Klik panah untuk memilih pilihan lain, seperti Ke.</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation>Sisipkan teks dan gambar berbayang di belakang konten pada halaman.
-
-Sering digunakan untuk menunjukkan bahwa dokumen tersebut harus diperlakukan secara khusus, seperti Terenkripsi, Rahasia, dan Jangan Disalin, atau untuk menandai sumber dokumen seperti penambahan logo hak cipta dan informasi penulis.</translation>
+        <translation>Cap Air</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Perbaikan Dokumen</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
@@ -2166,7 +2214,7 @@ Sering digunakan untuk menunjukkan bahwa dokumen tersebut harus diperlakukan sec
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Mengganti konten teks dalam dokumen.</translation>
+        <translation>Ganti</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
@@ -2198,7 +2246,7 @@ Sering digunakan untuk menunjukkan bahwa dokumen tersebut harus diperlakukan sec
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation>PDFTOCad</translation>
+        <translation>PDF ke CAD</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
@@ -2214,9 +2262,7 @@ Sering digunakan untuk menunjukkan bahwa dokumen tersebut harus diperlakukan sec
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation>Membuat tampilan teks seperti ditandai dengan pena penyorot.
-
-Klik panah untuk memilih warna sorotan yang berbeda.</translation>
+        <translation>HighlightColor</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
