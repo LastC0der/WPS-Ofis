@@ -19572,7 +19572,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanı</translation>
     </message>
     <message>
         <source>Comment Field Context Menu</source>
