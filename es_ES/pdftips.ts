@@ -3,27 +3,27 @@
     <name/>
     <message>
         <source>CAD2PDF.title</source>
-        <translation>CAD a PDF</translation>
+        <translation>CAD в PDF</translation>
     </message>
     <message>
         <source>FitPageSize.content</source>
-        <translation>Aumentar o reducir página para ajustar tamaño</translation>
+        <translation>Подогнать масштаб страницы по размеру</translation>
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation>Fin</translation>
+        <translation>Конечная стрелка</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
-        <translation>Exportar PDF</translation>
+        <translation>Экспорт PDF</translation>
     </message>
     <message>
         <source>ChangeBackGround.content</source>
-        <translation>Cambiar el color de fondo de la página</translation>
+        <translation>Изменение цвета фона страницы</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.title</source>
-        <translation>Ajustar a extremos</translation>
+        <translation>Привязка к конечным точкам</translation>
     </message>
     <message>
         <source>OCRExtractPageText.title</source>
@@ -31,47 +31,47 @@
     </message>
     <message>
         <source>ZoomIn.content</source>
-        <translation>Alejar</translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>Start Arrow.title</source>
-        <translation>Iniciar</translation>
+        <translation>Начать</translation>
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Muestra el cuadro de diálogo de Zoom para especificar el nivel de zoom del documento.</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>StampTool.content</source>
-        <translation>Sello</translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>Strikeout.title</source>
-        <translation>Tachado</translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>Zoom.title</source>
-        <translation>Zoom</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>MenuHandTool.content</source>
-        <translation>Herramienta de selección para arrastrar documentos</translation>
+        <translation>Инструмент выбора для перетаскивания документа</translation>
     </message>
     <message>
         <source>PdfImageReplace.content</source>
-        <translation>Reemplazar</translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>SplitPDF.title</source>
-        <translation>Dividir PDF</translation>
+        <translation>Разделить PDF</translation>
     </message>
     <message>
         <source>InsertPages.content</source>
-        <translation>Inserta las páginas especificadas en el documento actual.</translation>
+        <translation>Вставка указанных страниц в текущий документ.</translation>
     </message>
     <message>
         <source>ZoomOut.content</source>
-        <translation>Acercar</translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.content</source>
@@ -79,23 +79,27 @@
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Увеличение размера шрифта</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation>PdfInvoiceAssist</translation>
+        <translation>Помощь со счетом</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
-        <translation>Resaltar y anotar</translation>
+        <translation>Выделить и добавить заметку</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.content</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation>Superíndice</translation>
+        <translation>Надстрочный знак</translation>
     </message>
     <message>
         <source>Replace.title</source>
-        <translation>Reemplazar</translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>ScreenGrab.title</source>
@@ -103,15 +107,15 @@
     </message>
     <message>
         <source>PDF2Photo.content</source>
-        <translation>Convertir documentos a archivos de imagen</translation>
+        <translation>Преобразование документов в файлы изображений</translation>
     </message>
     <message>
         <source>PlaySlide.title</source>
-        <translation>Reproducir diapositiva</translation>
+        <translation>Воспроизвести слайд</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Повернуть изображение на определенный угол</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
@@ -119,145 +123,147 @@
     </message>
     <message>
         <source>DeletePages.title</source>
-        <translation>Eliminar páginas</translation>
+        <translation>Удаление страниц</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.title</source>
-        <translation>Editar imagen</translation>
+        <translation>Редактировать изображение</translation>
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation>Subíndice</translation>
+        <translation>Подстрочный знак</translation>
     </message>
     <message>
         <source>Search.title</source>
-        <translation>Búsqueda</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.title</source>
-        <translation>Ajustar a rutas de acceso</translation>
+        <translation>Привязка к путям</translation>
     </message>
     <message>
         <source>FloatClose.title</source>
-        <translation>Cerrar barra de herramientas</translation>
+        <translation>Закрыть панель инструментов</translation>
+    </message>
+    <message>
+        <source>ScanEdit.title</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
-        <translation>Ocultar panel de navegación</translation>
+        <translation>Скрыть область навигации</translation>
     </message>
     <message>
         <source>FillSignDot.title</source>
-        <translation>Punto</translation>
+        <translation>точка</translation>
     </message>
     <message>
         <source>ClockwiseDoc.title</source>
-        <translation>Girar documento</translation>
+        <translation>Повернуть документ</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.title</source>
-        <translation>modo de nota</translation>
+        <translation>режим заметок</translation>
     </message>
     <message>
         <source>LastPage.title</source>
-        <translation>Última página</translation>
+        <translation>Последняя страница</translation>
     </message>
     <message>
         <source>HideNavigationPannel.content</source>
-        <translation>Ocultar</translation>
+        <translation>Скрыть</translation>
     </message>
     <message>
         <source>Cloudy.title</source>
-        <translation>Nuboso</translation>
+        <translation>Облачный</translation>
     </message>
     <message>
         <source>PDF2Office.title</source>
-        <translation>PDF a Office</translation>
+        <translation>PDF в Office</translation>
     </message>
     <message>
         <source>Line Style.title</source>
-        <translation>Estilo de línea</translation>
+        <translation>Стиль линии</translation>
     </message>
     <message>
         <source>Annotate.content</source>
-        <translation>Anotar como SuperNote</translation>
+        <translation>Добавить комментарий как SuperNote</translation>
     </message>
     <message>
         <source>PageCorrectFinished.content</source>
-        <translation>Corrección finalizada</translation>
+        <translation>Исправление завершено</translation>
     </message>
     <message>
         <source>FormFillingDate.title</source>
-        <translation>Añadir fecha</translation>
+        <translation>Добавить дату</translation>
     </message>
     <message>
         <source>PDFEditTextExit.title</source>
-        <translation>Salir de edición</translation>
+        <translation>Выйти из режима редактирования</translation>
     </message>
     <message>
         <source>FontName.content</source>
-        <translation>Establecer fuentes diferentes</translation>
+        <translation>Задание разных шрифтов</translation>
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation>CADTOPdf</translation>
+        <translation>Преобразовать файлы CAD в PDF-файлы</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
-        <translation>Convertir documentos a archivos PPT</translation>
+        <translation>Преобразование документов в файлы PPT</translation>
     </message>
     <message>
         <source>FloatZoomIn.content</source>
-        <translation>Aleja la página.</translation>
+        <translation>Уменьшить страницу.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Subrayar el texto seleccionado.
-
-Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
-        <translation>Transparencia</translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>WaterMarkTips.title</source>
-        <translation>Añadir marca de agua al documento</translation>
+        <translation>Добавить подложку в документ</translation>
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF a CAD</translation>
+        <translation>PDF в CAD</translation>
     </message>
     <message>
         <source>LastPage.content</source>
-        <translation>Muestra la última página.</translation>
+        <translation>Показать последнюю страницу.</translation>
     </message>
     <message>
         <source>NextPage.content</source>
-        <translation>Muestra la página siguiente.</translation>
+        <translation>Показать следующую страницу.</translation>
     </message>
     <message>
         <source>Italic.title</source>
-        <translation>Cursiva</translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>TextBoxBkColor.title</source>
-        <translation>Rellenar</translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>RotateToTheRight.title</source>
-        <translation>Girar a la derecha</translation>
+        <translation>Повернуть вправо</translation>
     </message>
     <message>
         <source>Open.title</source>
-        <translation>Abrir</translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.title</source>
-        <translation>MD a PDF</translation>
+        <translation>MD в PDF</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.title</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Колонтитулы</translation>
     </message>
     <message>
         <source>TranslationSelect.content</source>
@@ -269,19 +275,19 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>PageCorrectExit.title</source>
-        <translation>Salir</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>FillSign.title</source>
-        <translation>Rellenar y firmar formularios</translation>
+        <translation>Заполнить и подписать формы</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.content</source>
-        <translation>Adaptación automática</translation>
+        <translation>Самостоятельная адаптация</translation>
     </message>
     <message>
         <source>SplitPage.content</source>
-        <translation>Dividir una página en varias</translation>
+        <translation>Разделение страницы на несколько страниц</translation>
     </message>
     <message>
         <source>PDFTOCad.content</source>
@@ -289,111 +295,111 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation>Interlineado</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
-        <translation>Medir la distancia, el perímetro y el área en el archivo</translation>
+        <translation>Измеряйте дистанцию, периметр и область в файле</translation>
     </message>
     <message>
         <source>FirstPage.content</source>
-        <translation>Muestra la primera página.</translation>
+        <translation>Показать первую страницу.</translation>
     </message>
     <message>
         <source>ImageEditTransparency.content</source>
-        <translation>Cambiar la transparencia</translation>
+        <translation>Изменить прозрачность</translation>
     </message>
     <message>
         <source>AutoClipPage.content</source>
-        <translation>Grupo inteligente</translation>
+        <translation>Интеллектуальная аудитория</translation>
     </message>
     <message>
         <source>ImageClip.content</source>
-        <translation>Recortar imagen</translation>
+        <translation>Обрезать изображение</translation>
     </message>
     <message>
         <source>Replace Text.content</source>
-        <translation>Reemplazar símbolo</translation>
+        <translation>Символ замены</translation>
     </message>
     <message>
         <source>ExportPdf.content</source>
-        <translation>Exportar PDF</translation>
+        <translation>Экспорт PDF</translation>
     </message>
     <message>
         <source>NavigateBack.title</source>
-        <translation>Ir atrás</translation>
+        <translation>Вернуться назад</translation>
     </message>
     <message>
         <source>ClipPageRange.title</source>
-        <translation>Página</translation>
+        <translation>Страница</translation>
     </message>
     <message>
         <source>SaveAs.title</source>
-        <translation>Guardar como</translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.title</source>
-        <translation>Barra de herramientas flotante</translation>
+        <translation>Незакрепленная панель инструментов</translation>
     </message>
     <message>
         <source>Shapes.title</source>
-        <translation>Formas</translation>
+        <translation>Фигуры</translation>
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation>ClearFormat</translation>
+        <translation>Очистить форматирование</translation>
     </message>
     <message>
         <source>Shape.content</source>
-        <translation>Insertar anotación de estilo de formas</translation>
+        <translation>Вставка аннотации в форме фигуры</translation>
     </message>
     <message>
         <source>FitPageSize.title</source>
-        <translation>Ajustar tamaño</translation>
+        <translation>По размеру</translation>
     </message>
     <message>
         <source>NewImage2top.title</source>
-        <translation>Mover al inicio</translation>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <source>ImageEditReplace.content</source>
-        <translation>Reemplazar la imagen</translation>
+        <translation>Заменить изображение</translation>
     </message>
     <message>
         <source>AutoClipPage.title</source>
-        <translation>Grupo inteligente</translation>
+        <translation>Интеллектуальная аудитория</translation>
     </message>
     <message>
         <source>AddBookMark.content</source>
-        <translation>Agregar marca de agua al documento</translation>
+        <translation>Добавить закладку в документ</translation>
     </message>
     <message>
         <source>PDF2Office.content</source>
-        <translation>Convertir archivos PDF en archivos de Office</translation>
+        <translation>Преобразование PDF-файлов в файлы Office</translation>
     </message>
     <message>
         <source>PdfImageClip.title</source>
-        <translation>Clip de imagen de PDF</translation>
+        <translation>Картинка из PDF</translation>
     </message>
     <message>
         <source>AnnotGraffiti.content</source>
-        <translation>Área de círculo aleatorio para comentarios</translation>
+        <translation>Случайная круглая область для комментариев</translation>
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation>Establecer el tamaño de fuente</translation>
+        <translation>Задание размера шрифта</translation>
     </message>
     <message>
         <source>FontName.title</source>
-        <translation>Fuente</translation>
+        <translation>Шрифт</translation>
     </message>
     <message>
         <source>FontSize.title</source>
-        <translation>Tamaño de fuente</translation>
+        <translation>Размер шрифта</translation>
     </message>
     <message>
         <source>AreaHighlight.content</source>
-        <translation>Resaltado de área.</translation>
+        <translation>Выделение области.</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.content</source>
@@ -401,47 +407,51 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>FillSignCross.content</source>
-        <translation>Añadir cruz</translation>
+        <translation>Добавить крестик</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.title</source>
-        <translation>Aumentar tamaño de fuente</translation>
+        <translation>Увеличить шрифт</translation>
+    </message>
+    <message>
+        <source>AlignJustify.content</source>
+        <translation>Равномерное распределение текста между полями.</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.content</source>
-        <translation>Inserta las páginas seleccionadas del documento en la posición especificada.</translation>
+        <translation>Вставка выбранных страниц из документа в указанное местоположение.</translation>
     </message>
     <message>
         <source>CancelImageClip.title</source>
-        <translation>Cancelar</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.title</source>
-        <translation>Reducir tamaño de fuente</translation>
+        <translation>Уменьшить шрифт</translation>
     </message>
     <message>
         <source>FloatFitWidth.content</source>
-        <translation>Se adapta a la anchura de la ventana.</translation>
+        <translation>По ширине окна.</translation>
     </message>
     <message>
         <source>EditPageHeaderFooter.content</source>
-        <translation>Establecer encabezado y pie de página para el documento PDF</translation>
+        <translation>Задать верхний и нижний колонтитул для PDF-документа</translation>
     </message>
     <message>
         <source>ZoomPage.title</source>
-        <translation>Zoom</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>AddPageNumberTips.content</source>
-        <translation>Agregar un número de página al documento actual</translation>
+        <translation>Добавление номеров страниц в текущий документ</translation>
     </message>
     <message>
         <source>Markdown2PDFTips.content</source>
-        <translation>MD a PDF</translation>
+        <translation>MD в PDF</translation>
     </message>
     <message>
         <source>Page Number.title</source>
-        <translation>Número de página</translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>KOSLogoutTip.content</source>
@@ -449,19 +459,19 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>PolyLine.title</source>
-        <translation>Gráficos personalizados</translation>
+        <translation>Пользовательская графика</translation>
     </message>
     <message>
         <source>ClipPageRange.content</source>
-        <translation>Página</translation>
+        <translation>Страница</translation>
     </message>
     <message>
         <source>CompleteClipPage.title</source>
-        <translation>Completar</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>VerificationSignature2.title</source>
-        <translation>Verificar firma</translation>
+        <translation>Проверить подпись</translation>
     </message>
     <message>
         <source>ExportToPDF.title</source>
@@ -469,111 +479,111 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation>PdfSignatureEmbedBatch</translation>
+        <translation>Пакетное встраивание в документ</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation>Fin</translation>
+        <translation>Конечная стрелка</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
-        <translation>Aplicar a varias páginas</translation>
+        <translation>Применить к нескольким страницам</translation>
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Cubre áreas que usted no quiere</translation>
+        <translation>Закрытие ненужных областей</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
-        <translation>Oculta el panel de navegación izquierdo.</translation>
+        <translation>Скрыть область навигации слева.</translation>
     </message>
     <message>
         <source>SaveAs.content</source>
-        <translation>Guarda el archivo en otra ruta.</translation>
+        <translation>Сохранить файл в папке по другому пути.</translation>
     </message>
     <message>
         <source>Line Width.content</source>
-        <translation>Ancho de línea</translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <source>TextQuery.content</source>
-        <translation>Busque contenido, marcadores, comentarios, etc. del documento.</translation>
+        <translation>Найдите содержимое, закладки, комментарии к документу и т. д.</translation>
     </message>
     <message>
         <source>FullScreen.title</source>
-        <translation>Lectura de pantalla completa</translation>
+        <translation>Во весь экран</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Color de fuente</translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation>TextBold</translation>
+        <translation>Выделение текста полужирным шрифтом</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
-        <translation>Todo</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>PDFEditImage.content</source>
-        <translation>Edite el tamaño, la transparencia, el ángulo, etc. de la imagen.</translation>
+        <translation>Изменить размер, прозрачность, угол изображения и т. д.</translation>
     </message>
     <message>
         <source>Arrow.content</source>
-        <translation>Flecha</translation>
+        <translation>Стрелка</translation>
     </message>
     <message>
         <source>HighlightBorder.title</source>
-        <translation>Resaltar</translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>GraffitiEraser.title</source>
-        <translation>Borrador</translation>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>ShapeBorderColor.content</source>
-        <translation>Color del borde</translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation>TextUnderline</translation>
+        <translation>Подчеркивание выделенного текста</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
-        <translation>Agregar texto</translation>
+        <translation>Добавить текст</translation>
     </message>
     <message>
         <source>Square.content</source>
-        <translation>Cuadrado</translation>
+        <translation>Вокруг рамки</translation>
     </message>
     <message>
         <source>Stamp.title</source>
-        <translation>Sello</translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>ImageEditReplace.title</source>
-        <translation>Reemplazar</translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>LetterSpace.content</source>
-        <translation>Espaciado entre caracteres</translation>
+        <translation>Межзнаковый интервал</translation>
     </message>
     <message>
         <source>Annotate.title</source>
-        <translation>Anotar</translation>
+        <translation>Добавить комментарий</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Повернуть изображение на определенный угол</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
-        <translation>Dibujo aleatorio</translation>
+        <translation>Случайный чертеж</translation>
     </message>
     <message>
         <source>EnterSuperNoteMode.content</source>
-        <translation>Mostrar visualmente las anotaciones</translation>
+        <translation>Отображение аннотаций</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
@@ -585,23 +595,23 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>ExportHighlight.content</source>
-        <translation>Exportar todo el contenido destacado</translation>
+        <translation>Экспортировать все выделенное содержимое</translation>
     </message>
     <message>
         <source>PDFEditImage.title</source>
-        <translation>Edite el tamaño, la transparencia, el ángulo, etc. de la imagen.</translation>
+        <translation>Изменить размер, прозрачность, угол изображения и т. д.</translation>
     </message>
     <message>
         <source>PdfNewEdit.title</source>
-        <translation>Editar PDF</translation>
+        <translation>Редактировать PDF</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.title</source>
-        <translation>Medir perímetro</translation>
+        <translation>Измерение периметра</translation>
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation>FormatBrush</translation>
+        <translation>Формат по образцу</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
@@ -609,39 +619,39 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>EditBackGround.title</source>
-        <translation>Fondo</translation>
+        <translation>Фон</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.content</source>
-        <translation>Resaltar y anotar</translation>
+        <translation>Выделить и добавить заметку</translation>
     </message>
     <message>
         <source>FillSign_FreeText.content</source>
-        <translation>Añadir texto en campos del formulario</translation>
+        <translation>Добавить текст в поля формы</translation>
     </message>
     <message>
         <source>InsertBlankPages.content</source>
-        <translation>Inserta una página en blanco en la ubicación especificada del documento.</translation>
+        <translation>Вставка пустых страниц в указанное местоположение в документе.</translation>
     </message>
     <message>
         <source>PDF2CAD.title</source>
-        <translation>PDF a CAD</translation>
+        <translation>PDF в CAD</translation>
     </message>
     <message>
         <source>PDF2PPT.title</source>
-        <translation>De PDF a PPT</translation>
+        <translation>PDF в PPT</translation>
     </message>
     <message>
         <source>FloatNavigationBar.content</source>
-        <translation>Muestra el panel de navegación de la izquierda.</translation>
+        <translation>Показать область навигации слева.</translation>
     </message>
     <message>
         <source>Search.content</source>
-        <translation>Búsqueda</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Square.title</source>
-        <translation>Cuadrado</translation>
+        <translation>Вокруг рамки</translation>
     </message>
     <message>
         <source>AddHeaderFooterTips.title</source>
@@ -653,19 +663,19 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>Clockwise.title</source>
-        <translation>Girar a la derecha</translation>
+        <translation>Повернуть вправо</translation>
     </message>
     <message>
         <source>GraffitiHline.title</source>
-        <translation>Dibujo libre de líneas horizontales</translation>
+        <translation>Свободное рисование горизонтальных линий</translation>
     </message>
     <message>
         <source>EbookSelfAdaptionPage.title</source>
-        <translation>Adaptación automática</translation>
+        <translation>Самостоятельная адаптация</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.content</source>
-        <translation>Completar</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
@@ -673,29 +683,29 @@ Haga clic en la flecha para seleccionar diferentes estilos de subrayado.</transl
     </message>
     <message>
         <source>AreaHighlight.title</source>
-        <translation>Resaltar área</translation>
+        <translation>Область выделения</translation>
     </message>
     <message>
         <source>WaterMarkTips.content</source>
-        <translation>Añadir marca de agua al documento</translation>
+        <translation>Добавить подложку в документ</translation>
     </message>
     <message>
         <source>GraffitiVline.title</source>
-        <translation>Dibujo libre de líneas verticales</translation>
+        <translation>Свободное рисование вертикальных линий</translation>
     </message>
     <message>
         <source>PlaySlide.content</source>
-        <translation>Reproduce la diapositiva de forma discontinua a pantalla completa</translation>
+        <translation>Прерывающееся воспроизведение слайдов во весь экран</translation>
     </message>
     <message>
         <source>PDFCompress.title</source>
-        <translation>PDF Compress</translation>
+        <translation>Сжатие PDF</translation>
     </message>
     <message>
         <source>TextColor.content</source>
-        <translation>Establece el color del texto.
+        <translation>Установить цвет текста.
 
-Haga clic en la flecha para seleccionar el color.</translation>
+Выберите цвет с помощью стрелки.</translation>
     </message>
     <message>
         <source>kxPdfLogoutTip.title</source>
@@ -703,31 +713,31 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>PdfImageRotate90.content</source>
-        <translation>Rotación</translation>
+        <translation>Вращение</translation>
     </message>
     <message>
         <source>PdfSignatureEmbed.content</source>
-        <translation>Aplicar</translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>EbookDecreaseFont.content</source>
-        <translation>Reducir tamaño de fuente</translation>
+        <translation>Уменьшить шрифт</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copy Images</translation>
+        <translation>Копировать как изображение</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
-        <translation>Completar</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>PDFMeasureArea.content</source>
-        <translation>Medir área</translation>
+        <translation>Измерение области</translation>
     </message>
     <message>
         <source>LineSpace.content</source>
-        <translation>Interlineado</translation>
+        <translation>Междустрочный интервал</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
@@ -735,13 +745,11 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Cambia el color del texto.
-
-Haga clic en la flecha para seleccionar un color del texto diferente.</translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
-        <translation>Reemplazar páginas</translation>
+        <translation>Заменить страницы</translation>
     </message>
     <message>
         <source>NewFromMDTips.title</source>
@@ -749,7 +757,7 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>PdfSignatureDelete.content</source>
-        <translation>Eliminar</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>NavigationBar.content</source>
@@ -757,103 +765,107 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>Page Select.title</source>
-        <translation>Intervalo de páginas</translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>FloatFitSize.content</source>
-        <translation>Aumenta o reduce la página para ajustar el tamaño.</translation>
+        <translation>Подогнать масштаб по размеру.</translation>
     </message>
     <message>
         <source>ClockwiseDoc.content</source>
-        <translation>Gira todas las páginas del documento.</translation>
+        <translation>Повернуть все страницы документа.</translation>
     </message>
     <message>
         <source>TBLineStyle.title</source>
-        <translation>Estilo de línea</translation>
+        <translation>Стиль линии</translation>
     </message>
     <message>
         <source>ImageEditTransparency.title</source>
-        <translation>Transparencia</translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>Counterclockwise.content</source>
-        <translation>Gira 90° a la izquierda.</translation>
+        <translation>Повернуть влево на 90°.</translation>
     </message>
     <message>
         <source>FillSignCheck.content</source>
-        <translation>Añadir marca</translation>
+        <translation>Добавить галочку</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation>Conversión de texto completo</translation>
+        <translation>Перевод всего текста</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
-        <translation>Dibujar una línea de trazo al azar</translation>
+        <translation>Изображение случайной линии</translation>
     </message>
     <message>
         <source>CreatePdf.content</source>
-        <translation>Crear PDF</translation>
+        <translation>Создать PDF</translation>
     </message>
     <message>
         <source>FloatZoomOut.title</source>
-        <translation>Acercar</translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation>Crea letras minúsculas debajo de la línea de base del texto.</translation>
+        <translation>Подстрочный знак</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
-        <translation>Crear PDF</translation>
+        <translation>Создать PDF</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation>Cursiva</translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>LineSpace.title</source>
-        <translation>Interlineado</translation>
+        <translation>Междустрочный интервал</translation>
     </message>
     <message>
         <source>EbookSinglePage.content</source>
-        <translation>Páginas impares</translation>
+        <translation>Нечетные страницы</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Преобразовать текст в речь</translation>
     </message>
     <message>
         <source>Circle.title</source>
-        <translation>Círculo</translation>
+        <translation>Круг</translation>
     </message>
     <message>
         <source>Encrypt.content</source>
-        <translation>Establece la contraseña del documento actual.</translation>
+        <translation>Задать пароль для текущего документа.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation>Squiggly Underline</translation>
+        <translation>волнистая линия</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation>PdfElectronicInvoicePrint</translation>
+        <translation>Печать счета</translation>
     </message>
     <message>
         <source>FreeText.content</source>
-        <translation>Insertar texto en PDF.</translation>
+        <translation>Вставить текст в PDF.</translation>
     </message>
     <message>
         <source>Stamp.content</source>
-        <translation>Sello</translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation>Color de resaltado de texto</translation>
+        <translation>Выделить</translation>
+    </message>
+    <message>
+        <source>TableRegonize.content</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
-        <translation>Ajustar a puntos medios</translation>
+        <translation>Привязка к средним точкам</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.content</source>
@@ -861,35 +873,35 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>CompleteClipPage.content</source>
-        <translation>Completar</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>SplitPage.title</source>
-        <translation>Dividir página</translation>
+        <translation>Разделение страницы</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.content</source>
-        <translation>Salir</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>ClipPage.title</source>
-        <translation>Recortar página</translation>
+        <translation>Обрезать страницу</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Exporta la imagen de Weibo</translation>
+        <translation>Вывести как изображение</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
-        <translation>Cruz</translation>
+        <translation>Пересечение</translation>
     </message>
     <message>
         <source>PDFEditText.content</source>
-        <translation>Edite el contenido, la fuente, el tamaño, etc. del texto.</translation>
+        <translation>Изменить содержимое, шрифт, размер текста и т. д.</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.title</source>
-        <translation>PDF a TXT</translation>
+        <translation>PDF в TXT</translation>
     </message>
     <message>
         <source>FitVisible.content</source>
@@ -897,39 +909,43 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>TextCommentBox.content</source>
-        <translation>Cuadro de texto</translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>PdfImageReverse.title</source>
-        <translation>Voltear</translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.content</source>
-        <translation>Color del borde</translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>PdfImageReplace.title</source>
-        <translation>Reemplazar</translation>
+        <translation>Заменить</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.title</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
-        <translation>Insertar páginas del documento</translation>
+        <translation>Вставить страницы из документа</translation>
     </message>
     <message>
         <source>FitWidth.content</source>
-        <translation>Se adapta a la anchura de la ventana.</translation>
+        <translation>По ширине окна.</translation>
     </message>
     <message>
         <source>PdfImageRotate90.title</source>
-        <translation>Rotación</translation>
+        <translation>Вращение</translation>
     </message>
     <message>
         <source>TextQuery.title</source>
-        <translation>Buscar</translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>PDFMeasureScale.title</source>
-        <translation>Relación de escala</translation>
+        <translation>Коэффициент масштабирования</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.title</source>
@@ -937,51 +953,51 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>MergePDF.title</source>
-        <translation>Combinar PDF</translation>
+        <translation>Объединить PDF</translation>
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation>Escanear el código QR con el teléfono móvil para obtener el documento</translation>
+        <translation>Сканируйте QR-код с помощью мобильного телефона, чтобы получить документ</translation>
     </message>
     <message>
         <source>Quick_PageDelete.title</source>
-        <translation>Eliminar</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>PdfImageEnterEdit.content</source>
-        <translation>Editar imagen</translation>
+        <translation>Редактировать изображение</translation>
     </message>
     <message>
         <source>PreviousPage.title</source>
-        <translation>Página anterior</translation>
+        <translation>Предыдущая страница</translation>
     </message>
     <message>
         <source>MergePDF.content</source>
-        <translation>Combina varios archivos PDF.</translation>
+        <translation>Объединить несколько файлов PDF.</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation>Convierte el texto con precisión y rapidez respetando el diseño original del documento.</translation>
+        <translation>DocTranslate</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
-        <translation>Desplazar el documento a una cierta velocidad</translation>
+        <translation>Прокручивайте документ с определенной скоростью</translation>
     </message>
     <message>
         <source>TextCommentBox.title</source>
-        <translation>Cuadro de texto</translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>ReplaceBorder.title</source>
-        <translation>Reemplazo</translation>
+        <translation>Замена</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.content</source>
-        <translation>Edición de texto</translation>
+        <translation>Редактирование текста</translation>
     </message>
     <message>
         <source>AutoWheel.title</source>
-        <translation>Desplazar automáticamente</translation>
+        <translation>Автоматическая прокрутка</translation>
     </message>
     <message>
         <source>DeleteHeaderFooterTips.content</source>
@@ -989,79 +1005,79 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>FloatHandTool.title</source>
-        <translation>Herramienta de mano</translation>
+        <translation>Инструмент «рука»</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.title</source>
-        <translation>Corrección manual</translation>
+        <translation>Исправить вручную</translation>
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Alinear a la derecha</translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>HideAnnotations.title</source>
-        <translation>Ocultar anotaciones</translation>
+        <translation>Скрыть аннотации</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Intercepta el contenido de la pantalla para la comparación gráfica</translation>
+        <translation>Наложение содержимого экрана для графического сравнения</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
-        <translation>Editar contenido</translation>
+        <translation>Изменить содержимое</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.title</source>
-        <translation>Copiar texto</translation>
+        <translation>Копировать текст</translation>
     </message>
     <message>
         <source>FloatHandTool.content</source>
-        <translation>Arrastrar y soltar el documento</translation>
+        <translation>Перетащите документ</translation>
     </message>
     <message>
         <source>ImageClip.title</source>
-        <translation>Recortar imagen</translation>
+        <translation>Обрезать изображение</translation>
     </message>
     <message>
         <source>FormFilling.title</source>
-        <translation>Rellenar y firmar</translation>
+        <translation>Заполнить и подписать</translation>
     </message>
     <message>
         <source>TextBoxAlpha.content</source>
-        <translation>Transparencia</translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation>Squiggly Underline</translation>
+        <translation>волнистая линия</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
-        <translation>Insertar</translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>PDFAddText.content</source>
-        <translation>Agregar contenido de texto al documento</translation>
+        <translation>Добавление текстового комментария в документ</translation>
     </message>
     <message>
         <source>GraffitiVline.content</source>
-        <translation>Dibujar una línea vertical a mano alzada</translation>
+        <translation>Изображение вертикальной линии от руки</translation>
     </message>
     <message>
         <source>StrikeoutBorder.title</source>
-        <translation>Tachado</translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>NewImage2Bottom.title</source>
-        <translation>Mover al final</translation>
+        <translation>Переместить вниз</translation>
     </message>
     <message>
         <source>FillSignCircle.title</source>
-        <translation>Óvalo</translation>
+        <translation>Овал</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyText.content</source>
-        <translation>Copiar texto</translation>
+        <translation>Копировать текст</translation>
     </message>
     <message>
         <source>ZoomOutThumbnails.content</source>
@@ -1069,11 +1085,11 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>PDF2Excel.content</source>
-        <translation>Convertir documentos a archivos Excel</translation>
+        <translation>Преобразование документов в файлы Excel</translation>
     </message>
     <message>
         <source>DeletePages.content</source>
-        <translation>Elimina las páginas especificadas del documento actual.</translation>
+        <translation>Удалить указанные страницы из текущего документа.</translation>
     </message>
     <message>
         <source>ClearFormat.content</source>
@@ -1081,23 +1097,23 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>Print.title</source>
-        <translation>Imprimir</translation>
+        <translation>Печать</translation>
     </message>
     <message>
         <source>StampTool.title</source>
-        <translation>Sello</translation>
+        <translation>Штамп</translation>
     </message>
     <message>
         <source>PageDelete.content</source>
-        <translation>Eliminar páginas</translation>
+        <translation>Удаление страниц</translation>
     </message>
     <message>
         <source>PdfImageOpacity.title</source>
-        <translation>Transparencia</translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>RotateToTheLeft.title</source>
-        <translation>Girar a la izquierda</translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.content</source>
@@ -1105,167 +1121,171 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>ZoomIn.title</source>
-        <translation>Alejar</translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>TextStrikethought.title</source>
-        <translation>Tachado</translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>Bold.title</source>
-        <translation>Negrita</translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Buscar</translation>
+        <translation>Найти</translation>
     </message>
     <message>
         <source>FloatClose.content</source>
-        <translation>Cierra la barra de herramientas flotante.</translation>
+        <translation>Закрыть не закрепленную панель инструментов.</translation>
     </message>
     <message>
         <source>ImageEditFlip.content</source>
-        <translation>Voltear la imagen</translation>
+        <translation>Повернуть изображение</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Alinear al centro</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>TemplatesPrint.title</source>
-        <translation>Imprimir plantillas</translation>
+        <translation>Шаблоны для печати</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.title</source>
-        <translation>Borrar todo</translation>
+        <translation>Стереть все</translation>
     </message>
     <message>
         <source>UnderlineBorder.content</source>
-        <translation>Añade subrayado.</translation>
+        <translation>Добавить подчеркивание.</translation>
     </message>
     <message>
         <source>AttachmentTip.content</source>
-        <translation>Agregar datos adjuntos a la ubicación del documento especificada</translation>
+        <translation>Добавить файлы вложений в указанное расположение документа</translation>
     </message>
     <message>
         <source>PdfImageReverse.content</source>
-        <translation>Voltear</translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>ContinuousRead.title</source>
-        <translation>Lectura continua</translation>
+        <translation>Непрерывное чтение</translation>
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation>TextItalic</translation>
+        <translation>Выделение текста курсивом</translation>
     </message>
     <message>
         <source>Line Style.content</source>
-        <translation>Estilo de línea</translation>
+        <translation>Стиль линии</translation>
+    </message>
+    <message>
+        <source>TableRegonize.title</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation>Vista previa de la imagen</translation>
+        <translation>Предварительный просмотр изображения</translation>
     </message>
     <message>
         <source>Shape.title</source>
-        <translation>Anotación de formas</translation>
+        <translation>Аннотация в фигуре</translation>
     </message>
     <message>
         <source>IndentFisrtLine.title</source>
-        <translation>Sangría de primera línea</translation>
+        <translation>Отступ первой строки</translation>
     </message>
     <message>
         <source>UnderlineBorder.title</source>
-        <translation>Subrayado</translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>VerificationSignature.title</source>
-        <translation>Verificar firma</translation>
+        <translation>Проверить подпись</translation>
     </message>
     <message>
         <source>Counterclockwise.title</source>
-        <translation>Girar a la izquierda</translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <source>FullScreen.content</source>
-        <translation>Muestra el documento a pantalla completa.</translation>
+        <translation>Просмотр документа в полноэкранном режиме.</translation>
     </message>
     <message>
         <source>Page Select.content</source>
-        <translation>Escriba números o intervalos de páginas separados por comas. Por ejemplo: 1,3,5-12.</translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.content</source>
-        <translation>Medir distancia</translation>
+        <translation>Измерение расстояния</translation>
     </message>
     <message>
         <source>Page Number.content</source>
-        <translation>Número de página</translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>PDF2Excel.title</source>
-        <translation>De PDF a Excel</translation>
+        <translation>PDF в Excel</translation>
     </message>
     <message>
         <source>Polygon.title</source>
-        <translation>Polígono</translation>
+        <translation>Многоугольник</translation>
     </message>
     <message>
         <source>ZoomOut.title</source>
-        <translation>Acercar</translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>MenuFloatToolBar.content</source>
-        <translation>Barra de herramientas flotante</translation>
+        <translation>Незакрепленная панель инструментов</translation>
     </message>
     <message>
         <source>ReadingMode.title</source>
-        <translation>Modo de lectura</translation>
+        <translation>Режим чтения</translation>
     </message>
     <message>
         <source>FillSign_FreeText.title</source>
-        <translation>Añadir texto</translation>
+        <translation>Добавить текст</translation>
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation>TextUnderline</translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation>Convertir imagen en formato de texto.</translation>
+        <translation>Преобразование рисунка в текст.</translation>
     </message>
     <message>
         <source>PDFEditContent.content</source>
-        <translation>Editar textos e imágenes</translation>
+        <translation>Изменить тексты и изображения</translation>
     </message>
     <message>
         <source>Note.title</source>
-        <translation>Nota</translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>Save.title</source>
-        <translation>Guardar</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>PDFMeasureArea.title</source>
-        <translation>Medir área</translation>
+        <translation>Измерение области</translation>
     </message>
     <message>
         <source>CustomClipPage.content</source>
-        <translation>Ajuste de grupo</translation>
+        <translation>Настройка аудитории</translation>
     </message>
     <message>
         <source>OS_PhoneShare.title</source>
-        <translation>Escanear a dispositivo móvil</translation>
+        <translation>Отсканировать на мобильное устройство</translation>
     </message>
     <message>
         <source>PdfReplacePages.title</source>
-        <translation>Reemplazar páginas</translation>
+        <translation>Заменить страницы</translation>
     </message>
     <message>
         <source>PolyLine.content</source>
-        <translation>Gráficos personalizados</translation>
+        <translation>Пользовательская графика</translation>
     </message>
     <message>
         <source>DocumentFix.content</source>
@@ -1273,15 +1293,15 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>PdfNewEdit.content</source>
-        <translation>Editar texto, imágenes, etc.</translation>
+        <translation>Редактируйте текст, изображения и многое другое</translation>
     </message>
     <message>
         <source>PageCorrectFinished.title</source>
-        <translation>Corrección finalizada</translation>
+        <translation>Исправление завершено</translation>
     </message>
     <message>
         <source>WaterMark.title</source>
-        <translation>Marca de agua</translation>
+        <translation>Подложка</translation>
     </message>
     <message>
         <source>Recommended PictureToText.content</source>
@@ -1289,67 +1309,71 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>GraffitiDeleteAll.content</source>
-        <translation>Todo</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Reducción del tamaño de los archivos PDF</translation>
+        <translation>Уменьшение размера файлов PDF</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
-        <translation>Sangría de primera línea</translation>
+        <translation>Отступ первой строки</translation>
+    </message>
+    <message>
+        <source>EditTextInPicture.content</source>
+        <translation>EditTextInPicture</translation>
     </message>
     <message>
         <source>NavigateForward.title</source>
-        <translation>Ir adelante</translation>
+        <translation>Перейти вперед</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation>Inserta formas prediseñadas como líneas, rectángulos, símbolos de diagrama de flujo y llamadas.</translation>
+        <translation>Вставить линию, стрелку, прямоугольник и т. д.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
-        <translation>Ajustar a la anchura</translation>
+        <translation>По ширине</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.content</source>
-        <translation>Copiar formularios</translation>
+        <translation>Копировать формы</translation>
     </message>
     <message>
         <source>EyeShield.content</source>
-        <translation>Modo de protección de ojos</translation>
+        <translation>Режим защиты глаз</translation>
     </message>
     <message>
         <source>FloatFitPageSize.title</source>
-        <translation>Página adecuada</translation>
+        <translation>Подходящая страница</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation>PdfImageOcrExtract</translation>
+        <translation>Извлечь текст из изображения</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
-        <translation>Una página</translation>
+        <translation>Одна страница</translation>
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation>ImageEditDelete</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
-        <translation>PDF a imagen</translation>
+        <translation>PDF в изображение</translation>
     </message>
     <message>
         <source>NavigateBack.content</source>
-        <translation>Ir atrás</translation>
+        <translation>Вернуться назад</translation>
     </message>
     <message>
         <source>PDFAdsorptionPath.content</source>
-        <translation>Ajustar a rutas de acceso</translation>
+        <translation>Привязка к путям</translation>
     </message>
     <message>
         <source>EbookDoublePage.title</source>
-        <translation>Páginas pares</translation>
+        <translation>Четные страницы</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
@@ -1357,31 +1381,31 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>FillSignCircle.content</source>
-        <translation>Añadir óvalo</translation>
+        <translation>Добавить овал</translation>
     </message>
     <message>
         <source>PDFExtractPage.title</source>
-        <translation>Pagina de extracción de PDF</translation>
+        <translation>Извлечение страницы в PDF</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation>TranslationSelectPdf</translation>
+        <translation>Перевод выделенного текста</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation>Alinear a la derecha</translation>
+        <translation>Выровнять по правому краю</translation>
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Увеличение уровня отступа абзаца</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
-        <translation>Añadir punto</translation>
+        <translation>Добавить точку</translation>
     </message>
     <message>
         <source>ConfirmImageClip.title</source>
-        <translation>Confirmar</translation>
+        <translation>Дополнительно</translation>
     </message>
     <message>
         <source>ZoomInThumbnails.content</source>
@@ -1393,35 +1417,35 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>ReduceFontSize.title</source>
-        <translation>Reducir fuente</translation>
+        <translation>Уменьшить размер</translation>
     </message>
     <message>
         <source>Strikeout.content</source>
-        <translation>Tachado</translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>EditBackGround.content</source>
-        <translation>Establecer el fondo del documento</translation>
+        <translation>Задать фон документа</translation>
     </message>
     <message>
         <source>TwoPageContinuous.title</source>
-        <translation>Dos páginas</translation>
+        <translation>Две страницы</translation>
     </message>
     <message>
         <source>FillSign.content</source>
-        <translation>Rellenar y firmar formularios</translation>
+        <translation>Заполнить и подписать формы</translation>
     </message>
     <message>
         <source>TranslationAll.content</source>
-        <translation>Traducir el texto completo</translation>
+        <translation>Перевод всего текста</translation>
     </message>
     <message>
         <source>CustomClipPage.title</source>
-        <translation>Ajuste de grupo</translation>
+        <translation>Настройка аудитории</translation>
     </message>
     <message>
         <source>ReplaceBorder.content</source>
-        <translation>Añadir reemplazo</translation>
+        <translation>Добавить замену</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
@@ -1429,91 +1453,103 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation>Imagen de exportación PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
-        <translation>Medir perímetro</translation>
+        <translation>Измерение периметра</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation>Crea letras minúsculas encima de la línea de texto.</translation>
+        <translation>Надстрочный знак</translation>
     </message>
     <message>
         <source>Arrow.title</source>
-        <translation>Flecha</translation>
+        <translation>Стрелка</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.title</source>
-        <translation>Ajustar a intersecciones</translation>
+        <translation>Привязка к пересечениям</translation>
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Уменьшение уровня отступа абзаца</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
-        <translation>Rellenar y firmar</translation>
+        <translation>Заполнить и подписать</translation>
     </message>
     <message>
         <source>AttachmentTip.title</source>
-        <translation>Datos adjuntos</translation>
+        <translation>Вложение</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.title</source>
-        <translation>Completar</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>ImageEditFlip.title</source>
-        <translation>Voltear</translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>ShowAnnotations.title</source>
-        <translation>Mostrar anotaciones</translation>
+        <translation>Отобразить аннотации</translation>
     </message>
     <message>
         <source>AddImage.content</source>
-        <translation>Inserta una imagen de una carpeta local.</translation>
+        <translation>Вставить изображение из локальной папки.</translation>
     </message>
     <message>
         <source>FileCollect.content</source>
-        <translation>Recopilar archivos</translation>
+        <translation>Сбор файлов</translation>
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation>PdfSignatureDeleteBatch</translation>
+        <translation>Пакетное удаление</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Color de relleno</translation>
+        <translation>Цвет заливки</translation>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.content</source>
+        <translation>PdfPhotoedit2</translation>
     </message>
     <message>
         <source>OCRExtractText.title</source>
-        <translation>OCRExtractText</translation>
+        <translation>Извлечь текст</translation>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.title</source>
+        <translation>PdfPhotoedit2</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation>Alinear a la izquierda</translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>InsertBorder.title</source>
-        <translation>Insertar</translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation>Color de relleno</translation>
+        <translation>Цвет заливки</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.title</source>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
-        <translation>Divide un archivo PDF en varios archivos PDF.</translation>
+        <translation>Разделить файл PDF на несколько файлов PDF.</translation>
     </message>
     <message>
         <source>MenuSelectionTool.title</source>
-        <translation>Herramienta de selección</translation>
+        <translation>Инструмент выбора</translation>
     </message>
     <message>
         <source>Circle.content</source>
-        <translation>Círculo</translation>
+        <translation>Круг</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.content</source>
@@ -1525,59 +1561,59 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>EditTextToolBarTips.title</source>
-        <translation>Edición de texto</translation>
+        <translation>Редактирование текста</translation>
     </message>
     <message>
         <source>AddPageNumberTips.title</source>
-        <translation>Agregar número de página</translation>
+        <translation>Добавить номер страницы</translation>
     </message>
     <message>
         <source>FloatZoomIn.title</source>
-        <translation>Alejar</translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>TemplatesPrint.content</source>
-        <translation>Imprimir plantillas</translation>
+        <translation>Шаблоны для печати</translation>
     </message>
     <message>
         <source>PreviousPage.content</source>
-        <translation>Muestra la página anterior.</translation>
+        <translation>Показать предыдущую страницу.</translation>
     </message>
     <message>
         <source>Encrypt.title</source>
-        <translation>Cifrar</translation>
+        <translation>Шифрование</translation>
     </message>
     <message>
         <source>PDFMeasureDistance.title</source>
-        <translation>Medir distancia</translation>
+        <translation>Измерение расстояния</translation>
     </message>
     <message>
         <source>Strikethrough.title</source>
-        <translation>Tachado</translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>FloatFitPageSize.content</source>
-        <translation>Escalado al tamaño de la página para la visualización de la ventana</translation>
+        <translation>Масштабирование размера страницы для отображения в окне</translation>
     </message>
     <message>
         <source>Translation.title</source>
-        <translation>Traducción</translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <source>UnderlineAndAnnotation.title</source>
-        <translation>Subrayar y anotar</translation>
+        <translation>Подчеркнуть и добавить примечание</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Organiza las diapositivas en secciones.</translation>
+        <translation>Преобразовать рисунок в текст</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation>Alinear a la izquierda</translation>
+        <translation>Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Cloudy.content</source>
-        <translation>Nuboso</translation>
+        <translation>Облачный</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
@@ -1585,7 +1621,7 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>InsertBorder.content</source>
-        <translation>Añadir inserción</translation>
+        <translation>Добавить вставку</translation>
     </message>
     <message>
         <source>FitVisible.title</source>
@@ -1593,11 +1629,11 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>FillSignLine.content</source>
-        <translation>Añadir línea</translation>
+        <translation>Добавить строку</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation>Imagen de exportación PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
@@ -1605,23 +1641,23 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>PDFCompress.content</source>
-        <translation>Reduce el tamaño del archivo PDF.</translation>
+        <translation>Уменьшить размер файла PDF.</translation>
     </message>
     <message>
         <source>PDFMeasureTool.title</source>
-        <translation>Medir la distancia, el perímetro y el área en el archivo</translation>
+        <translation>Измеряйте дистанцию, периметр и область в файле</translation>
     </message>
     <message>
         <source>PdfImageClip.content</source>
-        <translation>Clip de imagen de PDF</translation>
+        <translation>Картинка из PDF</translation>
     </message>
     <message>
         <source>Translation.content</source>
-        <translation>Traducción</translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <source>NoteBorder.content</source>
-        <translation>Añadir nota</translation>
+        <translation>Добавить примечание</translation>
     </message>
     <message>
         <source>ImageEditDelete.content</source>
@@ -1629,27 +1665,27 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation>TextBold</translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
-        <translation>Reemplazar símbolo</translation>
+        <translation>Символ замены</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Capturas de pantalla y comparativas</translation>
+        <translation>Снимки экрана и сравнение</translation>
     </message>
     <message>
         <source>Polygon.content</source>
-        <translation>Polígono</translation>
+        <translation>Многоугольник</translation>
     </message>
     <message>
         <source>FitWidth.title</source>
-        <translation>Ajustar a la anchura</translation>
+        <translation>По ширине</translation>
     </message>
     <message>
         <source>PDFEditTextExit.content</source>
-        <translation>Salir de edición</translation>
+        <translation>Выйти из режима редактирования</translation>
     </message>
     <message>
         <source>NavigationBar.title</source>
@@ -1657,23 +1693,27 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>ContinuousRead.content</source>
-        <translation>Desplazar página para ver</translation>
+        <translation>Прокрутите страницу для просмотра</translation>
     </message>
     <message>
         <source>EbookSinglePage.title</source>
-        <translation>Páginas impares</translation>
+        <translation>Нечетные страницы</translation>
     </message>
     <message>
         <source>PDF2TXTConvert.content</source>
-        <translation>Convertir documentos a archivos TXT</translation>
+        <translation>Преобразование документов в файлы TXT</translation>
     </message>
     <message>
         <source>FloatSelectionTool.content</source>
-        <translation>Seleccione el texto o las imágenes que desee copiar.</translation>
+        <translation>Выбор текста или изображений для копирования.</translation>
+    </message>
+    <message>
+        <source>EditTextInPicture.title</source>
+        <translation>EditTextInPicture</translation>
     </message>
     <message>
         <source>PDFMeasureScale.content</source>
-        <translation>Relación de escala</translation>
+        <translation>Коэффициент масштабирования</translation>
     </message>
     <message>
         <source>KOSLogoutTip.title</source>
@@ -1681,88 +1721,92 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>ZoomPage.content</source>
-        <translation>Otras opciones de zoom.</translation>
+        <translation>Другие параметры масштаба.</translation>
     </message>
     <message>
         <source>AddBookMark.title</source>
-        <translation>Añadir marcador</translation>
+        <translation>Добавить закладку</translation>
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
-        <translation>Tachado</translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>TextBoxBorderColor.title</source>
-        <translation>Color del borde</translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>ReduceFontSize.content</source>
-        <translation>Reducir fuente</translation>
+        <translation>Уменьшить размер</translation>
     </message>
     <message>
         <source>PdfSignature.content</source>
-        <translation>Agregar escritura a mano, imagen o firma de tipo texto</translation>
+        <translation>Добавление рукописной подписи, подписи в виде изображения или текста</translation>
     </message>
     <message>
         <source>VerificationSignature2.content</source>
-        <translation>Verificar todas las firmas digitales del documento
-(Este documento no contiene una firma digital)</translation>
+        <translation>Проверяйте все цифровые подписи в документе
+(Этот документ не содержит цифровую подпись)</translation>
     </message>
     <message>
         <source>LetterSpace.title</source>
-        <translation>Espaciado entre caracteres</translation>
+        <translation>Межзнаковый интервал</translation>
     </message>
     <message>
         <source>AnnotGraffiti.title</source>
-        <translation>Dibujo libre</translation>
+        <translation>Свободное рисование</translation>
     </message>
     <message>
         <source>Start Arrow.content</source>
-        <translation>Iniciar</translation>
+        <translation>Начать</translation>
     </message>
     <message>
         <source>VerificationSignature.content</source>
-        <translation>Verificar firma</translation>
+        <translation>Проверить подпись</translation>
     </message>
     <message>
         <source>Photo2PDF.content</source>
-        <translation>Conversor de imagen a PDF</translation>
+        <translation>Инструмент преобразования фото в PDF</translation>
     </message>
     <message>
         <source>PDFAdsorptionIntersection.content</source>
-        <translation>Ajustar a intersecciones</translation>
+        <translation>Привязка к пересечениям</translation>
     </message>
     <message>
         <source>TextBoxBkColor.content</source>
-        <translation>Rellenar</translation>
+        <translation>Заливка</translation>
     </message>
     <message>
         <source>HyperLink.title</source>
-        <translation>Vínculo</translation>
+        <translation>Ссылка</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.title</source>
-        <translation>Borrar parte</translation>
+        <translation>Стереть часть</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copy Images</translation>
+        <translation>Копировать текущий выделенный фрагмент как изображение</translation>
     </message>
     <message>
         <source>NextPage.title</source>
-        <translation>Página siguiente</translation>
+        <translation>Следующая страница</translation>
+    </message>
+    <message>
+        <source>ScanEdit.content</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
-        <translation>Establezca el estilo del contorno del documento seleccionado.</translation>
+        <translation>Установите стиль контура для выбранного текста.</translation>
     </message>
     <message>
         <source>Highlight.title</source>
-        <translation>Resaltar</translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>DocPermission.content</source>
@@ -1770,27 +1814,27 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>PageCorrectExit.content</source>
-        <translation>Salir</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>HideAnnotations.content</source>
-        <translation>Ocultar anotaciones</translation>
+        <translation>Скрыть аннотации</translation>
     </message>
     <message>
         <source>ShowAnnotations.content</source>
-        <translation>Mostrar anotaciones</translation>
+        <translation>Отобразить аннотации</translation>
     </message>
     <message>
         <source>MenuSelectionTool.content</source>
-        <translation>Haga clic para seleccionar texto y objetos</translation>
+        <translation>Щелкните, чтобы выбрать текст и объект</translation>
     </message>
     <message>
         <source>TextColor.title</source>
-        <translation>Color de texto</translation>
+        <translation>Цвет текста</translation>
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation>Vista previa de la imagen</translation>
+        <translation>Предварительный просмотр изображения</translation>
     </message>
     <message>
         <source>AIOCR2PDF.title</source>
@@ -1798,7 +1842,7 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>SinglePageContinuous.content</source>
-        <translation>Una página a pantalla completa</translation>
+        <translation>Одна страница во весь экран</translation>
     </message>
     <message>
         <source>NewFromMDTips.content</source>
@@ -1806,31 +1850,31 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Líquido corrector</translation>
+        <translation>Замазка</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
-        <translation>Combine varios tipos de archivo en un documento PDF.</translation>
+        <translation>Объединить несколько типов файлов в один PDF-документ.</translation>
     </message>
     <message>
         <source>Highlight.content</source>
-        <translation>Resaltar</translation>
+        <translation>Выделить</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectFinished.title</source>
-        <translation>Completar</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType.content</source>
-        <translation>Borrar todo el grafiti</translation>
+        <translation>Стереть граффити целиком</translation>
     </message>
     <message>
         <source>Clockwise.content</source>
-        <translation>Gira 90° a la derecha.</translation>
+        <translation>Повернуть вправо на 90°.</translation>
     </message>
     <message>
         <source>Note.content</source>
-        <translation>Nota</translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>OCRExtractText.content</source>
@@ -1838,27 +1882,27 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>PDFMeasureResultPanel.content</source>
-        <translation>Panel de resultados de medición</translation>
+        <translation>Панель результатов измерения</translation>
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Уменьшить отступ</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Exporta la imagen de Weibo</translation>
+        <translation>ExportWeiboImageCmd</translation>
     </message>
     <message>
         <source>Open.content</source>
-        <translation>Abrir archivo</translation>
+        <translation>Открыть файл</translation>
     </message>
     <message>
         <source>ClipPage.content</source>
-        <translation>Recortar tamaño de página</translation>
+        <translation>Уменьшение размера страницы</translation>
     </message>
     <message>
         <source>FillSignLine.title</source>
-        <translation>Líneas</translation>
+        <translation>Линия</translation>
     </message>
     <message>
         <source>OCRExtractPageText.content</source>
@@ -1866,7 +1910,7 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation>TextItalic</translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
@@ -1874,11 +1918,11 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>FileCollect.title</source>
-        <translation>Recopilar archivos</translation>
+        <translation>Сбор файлов</translation>
     </message>
     <message>
         <source>FillSignCheck.title</source>
-        <translation>Marcar</translation>
+        <translation>Отметить</translation>
     </message>
     <message>
         <source>AIOCR2PDF.content</source>
@@ -1886,15 +1930,19 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>InsertPages.title</source>
-        <translation>Insertar páginas</translation>
+        <translation>Вставить страницы</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.content</source>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
-        <translation>Trazar dibujo al azar</translation>
+        <translation>Отображение случайного рисунка</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyExcel.title</source>
-        <translation>Copiar formularios</translation>
+        <translation>Копировать формы</translation>
     </message>
     <message>
         <source>DataRecover.title</source>
@@ -1902,55 +1950,55 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>ActualSize.content</source>
-        <translation>Aumenta o reduce la página al tamaño real.</translation>
+        <translation>Изменить масштаб страницы до фактического размера.</translation>
     </message>
     <message>
         <source>ExportHighlight.title</source>
-        <translation>Exportar contenido destacado</translation>
+        <translation>Экспортировать выделенные фрагменты</translation>
     </message>
     <message>
         <source>InsertBlankPages.title</source>
-        <translation>Insertar páginas en blanco</translation>
+        <translation>Вставить пустые страницы</translation>
     </message>
     <message>
         <source>EyeShield.title</source>
-        <translation>Modo de protección de ojos</translation>
+        <translation>Режим защиты глаз</translation>
     </message>
     <message>
         <source>NewImage2Bottom.content</source>
-        <translation>Mover la imagen al final</translation>
+        <translation>Переместить изображение вниз в конец</translation>
     </message>
     <message>
         <source>TranslationAll.title</source>
-        <translation>Traducción de texto completo</translation>
+        <translation>Полный перевод текста</translation>
     </message>
     <message>
         <source>PDFExtractPage.content</source>
-        <translation>Seleccione una página para generar un archivo PDF nuevo</translation>
+        <translation>Выберите страницу для создания нового файла PDF</translation>
     </message>
     <message>
         <source>Save.content</source>
-        <translation>Guardar archivo</translation>
+        <translation>Сохранить файл</translation>
     </message>
     <message>
         <source>EbookDoublePage.content</source>
-        <translation>Páginas pares</translation>
+        <translation>Четные страницы</translation>
     </message>
     <message>
         <source>ActualSize.title</source>
-        <translation>Tamaño real</translation>
+        <translation>Фактический размер</translation>
     </message>
     <message>
         <source>TBLineWidth.content</source>
-        <translation>Establezca el grosor del contorno del documento seleccionado.</translation>
+        <translation>Установите толщину контура для выбранного текста.</translation>
     </message>
     <message>
         <source>Line Width.title</source>
-        <translation>Ancho de línea</translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <source>PDFEditText.title</source>
-        <translation>Editar texto</translation>
+        <translation>Изменить текст</translation>
     </message>
     <message>
         <source>OcrExtractScrawl.content</source>
@@ -1958,101 +2006,99 @@ Haga clic en la flecha para seleccionar un color del texto diferente.</translati
     </message>
     <message>
         <source>GraffitiEraser.content</source>
-        <translation>Borrador</translation>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>Quick_Clockwise.title</source>
-        <translation>Girar a la derecha</translation>
+        <translation>Повернуть вправо</translation>
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Увеличить отступ</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
-        <translation>Mover la imagen al inicio</translation>
+        <translation>Переместить изображение вверх в начало</translation>
     </message>
     <message>
         <source>GraffitiDraw.title</source>
-        <translation>Dibujo libre</translation>
+        <translation>Свободное рисование</translation>
     </message>
     <message>
         <source>GraffitiEraserPartType.content</source>
-        <translation>Borrar parte del grafiti</translation>
+        <translation>Стереть часть граффити</translation>
     </message>
     <message>
         <source>MenuHandTool.title</source>
-        <translation>Herramienta de mano</translation>
+        <translation>Инструмент «рука»</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Centra el texto verticalmente y horizontalmente en la celda.</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
-        <translation>Ocultar</translation>
+        <translation>Скрыть</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>compresión</translation>
+        <translation>сжатие</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
-        <translation>Ir adelante</translation>
+        <translation>Перейти вперед</translation>
     </message>
     <message>
         <source>Quick_Counterclockwise.title</source>
-        <translation>Girar a la izquierda</translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <source>QuickBar_PageCorrectExit.title</source>
-        <translation>Salir</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>FloatSelectionTool.title</source>
-        <translation>Herramienta de selección</translation>
+        <translation>Инструмент выбора</translation>
     </message>
     <message>
         <source>ChangeBackGround.title</source>
-        <translation>Fondo</translation>
+        <translation>Фон</translation>
     </message>
     <message>
         <source>RandomDraw.content</source>
-        <translation>Dibujo aleatorio</translation>
+        <translation>Случайный чертеж</translation>
     </message>
     <message>
         <source>HighlightBorder.content</source>
-        <translation>Resalta el texto.</translation>
+        <translation>Выделение текста.</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.title</source>
-        <translation>Mostrar</translation>
+        <translation>Показать</translation>
     </message>
     <message>
         <source>Underline.title</source>
-        <translation>Subrayado</translation>
+        <translation>Подчеркивание</translation>
     </message>
     <message>
         <source>PDFAdsorptionEndpoint.content</source>
-        <translation>Ajustar a extremos</translation>
+        <translation>Привязка к конечным точкам</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Busca texto en el documento.
-
-Haga clic en la flecha para seleccionar otras opciones, como Ir a.</translation>
+        <translation>Найти текст</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
-        <translation>Girar 90 grados a la izquierda</translation>
+        <translation>Повернуть на 90 градусов влево</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.content</source>
-        <translation>Ajustar a puntos medios</translation>
+        <translation>Привязка к средним точкам</translation>
     </message>
     <message>
         <source>PdfImageOpacity.content</source>
-        <translation>Transparencia</translation>
+        <translation>Прозрачность</translation>
     </message>
     <message>
         <source>FormatBrush.content</source>
@@ -2060,7 +2106,7 @@ Haga clic en la flecha para seleccionar otras opciones, como Ir a.</translation>
     </message>
     <message>
         <source>TextStrikethought.content</source>
-        <translation>Tachado</translation>
+        <translation>Зачеркнутый</translation>
     </message>
     <message>
         <source>DataRecover.content</source>
@@ -2068,43 +2114,43 @@ Haga clic en la flecha para seleccionar otras opciones, como Ir a.</translation>
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation>CADTOPdf</translation>
+        <translation>Из CAD в PDF</translation>
     </message>
     <message>
         <source>NoteBorder.title</source>
-        <translation>Nota</translation>
+        <translation>Примечание</translation>
     </message>
     <message>
         <source>AddImage.title</source>
-        <translation>Agregar imagen</translation>
+        <translation>Добавить рисунок</translation>
     </message>
     <message>
         <source>Bold.content</source>
-        <translation>Negrita</translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
-        <translation>Convertir PDF a Word</translation>
+        <translation>Преобразование PDF в Word</translation>
     </message>
     <message>
         <source>ReadingMode.content</source>
-        <translation>Entrar en el modo de lectura</translation>
+        <translation>Войти в режим чтения</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation>Cambiar el espaciado entre las líneas de texto</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>De PDF a Word</translation>
+        <translation>PDF в Word</translation>
     </message>
     <message>
         <source>ShowNavigationPannel.content</source>
-        <translation>Mostrar</translation>
+        <translation>Показать</translation>
     </message>
     <message>
         <source>PageCorrectManualAdjust.content</source>
-        <translation>Corrección manual</translation>
+        <translation>Исправить вручную</translation>
     </message>
     <message>
         <source>UpdateHeaderFooterTips.title</source>
@@ -2112,23 +2158,27 @@ Haga clic en la flecha para seleccionar otras opciones, como Ir a.</translation>
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation>ImageExtractTip</translation>
+        <translation>Извлечь изображение</translation>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Выровнять</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
-        <translation>Acerca la página.</translation>
+        <translation>Увеличить страницу.</translation>
     </message>
     <message>
         <source>TwoPageContinuous.content</source>
-        <translation>Dos páginas a pantalla completa</translation>
+        <translation>Две страницы во весь экран</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD a PDF</translation>
+        <translation>CAD в PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
-        <translation>Añade tachado.</translation>
+        <translation>Добавить зачеркивание.</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
@@ -2136,45 +2186,43 @@ Haga clic en la flecha para seleccionar otras opciones, como Ir a.</translation>
     </message>
     <message>
         <source>FormFillingDate.content</source>
-        <translation>Añadir fecha</translation>
+        <translation>Добавить дату</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation>Inserta texto fantasma detrás del contenido de la página.
-
-Generalmente se utiliza para indicar que un documento se debe tratar de manera especial, como Cifrado, Confidencial y No copiar o marcar el origen de documento como añadir logotipos de copyright e informaciones de autor.</translation>
+        <translation>Подложка</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Исправление документа</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
-        <translation>Panel de resultados de medición</translation>
+        <translation>Панель результатов измерения</translation>
     </message>
     <message>
         <source>EbookIncreaseFont.content</source>
-        <translation>Aumentar tamaño de fuente</translation>
+        <translation>Увеличить шрифт</translation>
     </message>
     <message>
         <source>PdfSignature.title</source>
-        <translation>firma</translation>
+        <translation>подпись</translation>
     </message>
     <message>
         <source>FloatFitSize.title</source>
-        <translation>Ajustar tamaño</translation>
+        <translation>По размеру</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Reemplaza el contenido de texto en el documento.</translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
-        <translation>Color del borde</translation>
+        <translation>Цвет рамки</translation>
     </message>
     <message>
         <source>TBLineWidth.title</source>
-        <translation>Ancho de línea</translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <source>FitHeight.title</source>
@@ -2182,23 +2230,23 @@ Generalmente se utiliza para indicar que un documento se debe tratar de manera e
     </message>
     <message>
         <source>UnderlineAndAnnotation.content</source>
-        <translation>Subrayar y anotar</translation>
+        <translation>Подчеркнуть и добавить примечание</translation>
     </message>
     <message>
         <source>Print.content</source>
-        <translation>Imprime archivos y realiza ajustes detallados para la impresión</translation>
+        <translation>Печать файлов и создание подробных настроек для печати</translation>
     </message>
     <message>
         <source>FreeText.title</source>
-        <translation>Insertar texto</translation>
+        <translation>Вставить текст</translation>
     </message>
     <message>
         <source>FloatNavigationBar.title</source>
-        <translation>Mostrar panel de navegación</translation>
+        <translation>Показать область навигации</translation>
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation>PDFTOCad</translation>
+        <translation>Из PDF в CAD</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
@@ -2206,25 +2254,23 @@ Generalmente se utiliza para indicar que un documento se debe tratar de manera e
     </message>
     <message>
         <source>HyperLink.content</source>
-        <translation>Vínculo</translation>
+        <translation>Ссылка</translation>
     </message>
     <message>
         <source>Photo2PDF.title</source>
-        <translation>Imagen a PDF</translation>
+        <translation>Изображение в PDF</translation>
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation>Cambia el aspecto del texto como si estuviera resaltado con un marcador.
-
-Haga clic en la flecha para seleccionar diferentes colores de marcador.</translation>
+        <translation>HighlightColor</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
-        <translation>Primera página</translation>
+        <translation>Первая страница</translation>
     </message>
     <message>
         <source>PageDelete.title</source>
-        <translation>Eliminar páginas</translation>
+        <translation>Удаление страниц</translation>
     </message>
     <message>
         <source>ExportToPDF.content</source>
@@ -2232,7 +2278,7 @@ Haga clic en la flecha para seleccionar diferentes colores de marcador.</transla
     </message>
     <message>
         <source>RotateToTheRight.content</source>
-        <translation>Girar 90 grados a la derecha</translation>
+        <translation>Повернуть на 90 градусов вправо</translation>
     </message>
 </context>
 </TS>
