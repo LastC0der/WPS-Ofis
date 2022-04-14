@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>OfficialVFont.content</source>
-        <translation>Set vertical font size.</translation>
+        <translation>Задание размера шрифта в книжной ориентации для выделенного текста и изменение высоты текста.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTools.content</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>ProofreadOfficial.title</source>
-        <translation>ProofreadOfficial</translation>
+        <translation>Коррекция официального документа</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>OfficialSingleAgency.title</source>
-        <translation>One Unit</translation>
+        <translation>Один издатель</translation>
     </message>
     <message>
         <source>SplitWindow.content</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>OfficialUnionAgencies.title</source>
-        <translation>Five Units</translation>
+        <translation>Несколько издателей</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
@@ -393,7 +393,7 @@
     </message>
     <message>
         <source>FormatProof.title</source>
-        <translation>Format Proofread</translation>
+        <translation>Корректура формата</translation>
     </message>
     <message>
         <source>RecentFontColor2.title</source>
@@ -409,7 +409,7 @@
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation>Восстановить размер</translation>
+        <translation>Согласование всех изменений с размером выбранного рисунка.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
@@ -575,7 +575,7 @@
     </message>
     <message>
         <source>ChartGallery_pro2.content</source>
-        <translation>ChartGallery_pro2 content</translation>
+        <translation>Доступно несколько средств, которые позволяют быстро создавать и вставлять штрих-коды.</translation>
     </message>
     <message>
         <source>Macro.title</source>
@@ -625,11 +625,11 @@
     </message>
     <message>
         <source>PaperCheck.title</source>
-        <translation>PaperCheck.title</translation>
+        <translation>Проверка реферата на плагиат</translation>
     </message>
     <message>
         <source>ComposeKit.title</source>
-        <translation>Compose Kit</translation>
+        <translation>Советы по написанию</translation>
     </message>
     <message>
         <source>DeleteSection.content</source>
@@ -662,6 +662,10 @@
         <translation>Вставка автотекста в верхний или нижний колонтитул для облегчения просмотра и нахождения статьи по теме.</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.title</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
         <translation>Изменение настроек шрифта, абзаца, стилей и форматирования.</translation>
     </message>
@@ -675,7 +679,7 @@
     </message>
     <message>
         <source>OfficialDocumentBarcode.content</source>
-        <translation>Generate an official document QR code for the document and insert.</translation>
+        <translation>Создайте QR-код официального документа и вставьте его в документ.</translation>
     </message>
     <message>
         <source>LastSection.content</source>
@@ -689,7 +693,7 @@
     </message>
     <message>
         <source>DocBarcode_pro.title</source>
-        <translation>Document Barcode</translation>
+        <translation>QR-код официального документа</translation>
     </message>
     <message>
         <source>Separator.content</source>
@@ -743,7 +747,7 @@
     </message>
     <message>
         <source>Signature.content</source>
-        <translation>Add a handwritten signature or an image, or enter a signature.</translation>
+        <translation>Добавьте рукописную подпись, импортируйте изображение подписи или введите подпись.</translation>
     </message>
     <message>
         <source>InsertIndexTables4ZhCnPage.title</source>
@@ -751,7 +755,7 @@
     </message>
     <message>
         <source>OfficialZoomTwoPages.title</source>
-        <translation>Multi Page</translation>
+        <translation>Несколько страниц</translation>
     </message>
     <message>
         <source>PrintOrder.title</source>
@@ -767,7 +771,8 @@
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation>Подбор синонимов (других слов с похожим значением) для выделенного слова.</translation>
+        <translation>Подбор синонимов (других слов
+с похожим значением) для выделенного слова.</translation>
     </message>
     <message>
         <source>TextBox2.content</source>
@@ -783,7 +788,7 @@
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation>ChartGallery_pro.content</translation>
+        <translation>Поддержка вставки штрих-кодов в разных форматах кодирования</translation>
     </message>
     <message>
         <source>IndexMarkEntry.content</source>
@@ -827,7 +832,7 @@
     </message>
     <message>
         <source>CustomBold2.title</source>
-        <translation>Bold2</translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <source>TableBorderColor.content</source>
@@ -971,7 +976,7 @@
     </message>
     <message>
         <source>OfficialPDFCompress.title</source>
-        <translation>PDF Compress</translation>
+        <translation>Сжатие PDF</translation>
     </message>
     <message>
         <source>InsertBlankPage2.content</source>
@@ -1017,7 +1022,7 @@
     </message>
     <message>
         <source>OfficialExportOFD.content</source>
-        <translation>Save the document as an OFD.</translation>
+        <translation>Вывод документа в формате OFD.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
@@ -1071,7 +1076,7 @@
     </message>
     <message>
         <source>OfficialView.title</source>
-        <translation>OfficialView</translation>
+        <translation>Разметка официального документа</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
@@ -1089,7 +1094,7 @@
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Выбор цвета текста.
+        <translation>Изменение цвета текста.
 
 Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
@@ -1108,6 +1113,10 @@
         <translation>Регистр</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
+    </message>
+    <message>
         <source>PageLayoutDetailedSettings.content</source>
         <translation>PageLayoutDetailedSettings Content</translation>
     </message>
@@ -1117,7 +1126,7 @@
     </message>
     <message>
         <source>OfficialSingleRowEdition.title</source>
-        <translation>One-row Edition Info</translation>
+        <translation>Однострочный знак редактирования</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
@@ -1149,7 +1158,7 @@
     </message>
     <message>
         <source>FormatProof.content</source>
-        <translation>Quick, professional review and correction for official document formats.</translation>
+        <translation>Быстрая и профессиональная корректировка формата официальных документов</translation>
     </message>
     <message>
         <source>InsertIndex.title</source>
@@ -1169,7 +1178,7 @@
     </message>
     <message>
         <source>InsertForm.title</source>
-        <translation>Insert Form</translation>
+        <translation>Вставить поля формы</translation>
     </message>
     <message>
         <source>m_Rotate.title</source>
@@ -1193,7 +1202,7 @@
     </message>
     <message>
         <source>OfficialSeparatingLine.content</source>
-        <translation>Choose a separator and insert it to the document.</translation>
+        <translation>Выберите разделитель и вставьте его в документ.</translation>
     </message>
     <message>
         <source>RbTableOutsideBorder.content</source>
@@ -1225,7 +1234,7 @@
     </message>
     <message>
         <source>OfficialParaTools.content</source>
-        <translation>Click to show common paragraph tools.</translation>
+        <translation>Нажмите, чтобы показать стандартные инструменты для абзацев.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
@@ -1253,7 +1262,7 @@
     </message>
     <message>
         <source>InsertHeaderFooterGroup.content</source>
-        <translation>The header footer group style is consist of header,footer,pagenumber at the same time</translation>
+        <translation>Набор представляет собой объединенный прикладной стиль, включающий верхние колонтитулы, строки заголовков, нижние колонтитулы и номера страниц в одном стиле.</translation>
     </message>
     <message>
         <source>COMAddIns.title</source>
@@ -1272,8 +1281,12 @@
         <translation>Щелкните, чтобы выбрать место отображения панели навигации.</translation>
     </message>
     <message>
+        <source>SpellCheckMore.content</source>
+        <translation>Spell Check More</translation>
+    </message>
+    <message>
         <source>DecreaseIndent.title</source>
-        <translation>Понизить уровень списка</translation>
+        <translation>Уменьшить отступ</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1285,7 +1298,7 @@
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation>Barcode</translation>
+        <translation>Штрих-код</translation>
     </message>
     <message>
         <source>DetailedSettings_wps_PictureTools.title</source>
@@ -1327,7 +1340,7 @@
     </message>
     <message>
         <source>OfficialView.content</source>
-        <translation>View the document as it would look as Official document</translation>
+        <translation>Эффект разметки соответствует версии составления официального документа.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
@@ -1355,7 +1368,7 @@
     </message>
     <message>
         <source>InsertForm.content</source>
-        <translation>Choose different forms to insert into the document, such as text form fields, checkbox form fields, drop-down form fields, etc.</translation>
+        <translation>Выберите разные поля формы для вставки в документ, например текстовые поля, поля флажков и поля с раскрывающимися списками.</translation>
     </message>
     <message>
         <source>Proofread.content</source>
@@ -1393,7 +1406,7 @@
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Автосохранение файла</translation>
     </message>
     <message>
         <source>m_PageSize.content</source>
@@ -1409,7 +1422,11 @@
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.title</source>
-        <translation>Portrait Page</translation>
+        <translation>Вставить страницу с книжной ориентацией</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
@@ -1419,7 +1436,7 @@
     </message>
     <message>
         <source>OfficialZoomTwoPages.content</source>
-        <translation>Change the zoom scale to show multiple pages in the window.</translation>
+        <translation>Изменение масштаба документа таким образом, чтобы в окне были показаны сразу несколько страниц.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
@@ -1467,7 +1484,7 @@
     </message>
     <message>
         <source>OfficialSingleAgency.content</source>
-        <translation>Insert one issue unit to the document.</translation>
+        <translation>Вставьте имя одного издателя в документ.</translation>
     </message>
     <message>
         <source>ShowTocNavigationPane.title</source>
@@ -1483,7 +1500,7 @@
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.title</source>
-        <translation>Landscape Page</translation>
+        <translation>Вставить страницу с альбомной ориентацией</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
@@ -1491,7 +1508,7 @@
     </message>
     <message>
         <source>OfficialFont.content</source>
-        <translation>Apply standard official document font and font size to the selected text.</translation>
+        <translation>Быстро задавайте стандартный шрифт официальных документов и размер шрифта для выделенного текста.</translation>
     </message>
     <message>
         <source>m_Style2.content</source>
@@ -1503,7 +1520,7 @@
     </message>
     <message>
         <source>OfficialNormalPageSetup.content</source>
-        <translation>Open the Page Setup dialog box.</translation>
+        <translation>Откройте диалоговое окно &quot;Параметры страницы&quot;.</translation>
     </message>
     <message>
         <source>HeaderFooterOptions.content</source>
@@ -1539,7 +1556,7 @@
     </message>
     <message>
         <source>OfficialHead.content</source>
-        <translation>Choose a document head to insert to the begining of the document.</translation>
+        <translation>Выберите верхний колонтитул версии, чтобы вставить его в начале документа.</translation>
     </message>
     <message>
         <source>SplitCells.content</source>
@@ -1551,7 +1568,7 @@
     </message>
     <message>
         <source>OfficialVFont.title</source>
-        <translation>VFont</translation>
+        <translation>Размер шрифта в книжной ориентации</translation>
     </message>
     <message>
         <source>Select.content</source>
@@ -1563,7 +1580,7 @@
     </message>
     <message>
         <source>OfficialHFont.title</source>
-        <translation>HFont</translation>
+        <translation>Размер шрифта в альбомной ориентации</translation>
     </message>
     <message>
         <source>MergeToDiffNewDoc.content</source>
@@ -1605,7 +1622,7 @@
     </message>
     <message>
         <source>ChartGallery_pro2.title</source>
-        <translation>Barcode</translation>
+        <translation>Штрих-код</translation>
     </message>
     <message>
         <source>EnterParagraphAdjustment.content</source>
@@ -1633,7 +1650,7 @@
     </message>
     <message>
         <source>OfficialUnionAgencies.content</source>
-        <translation>Insert five issue units to the document.</translation>
+        <translation>Вставьте имена пяти издателей в документ.</translation>
     </message>
     <message>
         <source>DetailedSettings_HFTools.content</source>
@@ -1641,7 +1658,7 @@
     </message>
     <message>
         <source>PaperCheck.content</source>
-        <translation>PaperCheck.content</translation>
+        <translation>Проверка реферата на плагиат с помощью официальных известных брендов.</translation>
     </message>
     <message>
         <source>NavigationPane.content</source>
@@ -1665,7 +1682,7 @@
     </message>
     <message>
         <source>OfficialSearchComputer.title</source>
-        <translation>Search Local</translation>
+        <translation>Локальный поиск</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
@@ -1763,7 +1780,7 @@
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Найти</translation>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>Sort.title</source>
@@ -1791,11 +1808,11 @@
     </message>
     <message>
         <source>OfficialSettings.title</source>
-        <translation>Document Settings</translation>
+        <translation>Настройки документа</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Центрировать по вертикали</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
@@ -1803,7 +1820,7 @@
     </message>
     <message>
         <source>OfficialExportOFD.title</source>
-        <translation>Save as OFD</translation>
+        <translation>Вывод в формате OFD</translation>
     </message>
     <message>
         <source>GotoNextEndnote.content</source>
@@ -1831,7 +1848,7 @@
     </message>
     <message>
         <source>OfficialPDFCompress.content</source>
-        <translation>Compress existing PDF to make them smaller.</translation>
+        <translation>Сжатие файлов PDF.</translation>
     </message>
     <message>
         <source>ContentControlRichText.title</source>
@@ -1963,7 +1980,7 @@
     </message>
     <message>
         <source>Official2Ordinary.content</source>
-        <translation>Official document Convert to Normal Document</translation>
+        <translation>Преобразование официального документа в стандартный документ. Открытие в обычной версии, где визуальный эффект почти не отличается.</translation>
     </message>
     <message>
         <source>HeaderAndFooterSetting.title</source>
@@ -1995,7 +2012,7 @@
     </message>
     <message>
         <source>OfficialTextIdentification.content</source>
-        <translation>Identify text in PDF or pictures can copy them to this document.</translation>
+        <translation>Быстрое распознавание текстового содержимого в PDF-файлах и на изображениях и копирование в документ.</translation>
     </message>
     <message>
         <source>TableShadingColor.content</source>
@@ -2063,7 +2080,7 @@
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Автосохранение включено</translation>
     </message>
     <message>
         <source>AddSection.content</source>
@@ -2103,7 +2120,7 @@
     </message>
     <message>
         <source>InsertHeader.content</source>
-        <translation>The header style can help you to display title,author and page number</translation>
+        <translation>Верхние колонтитулы помогают повторять содержимое в верхней части каждой страницы. С их помощью показывают такие сведения, как название документа, автор и номер страницы.</translation>
     </message>
     <message>
         <source>SplitTable.title</source>
@@ -2141,7 +2158,7 @@
     </message>
     <message>
         <source>Official2RowsEditions.title</source>
-        <translation>Two-row Edition Info</translation>
+        <translation>Двухстрочный знак редактирования</translation>
     </message>
     <message>
         <source>Shapes.content</source>
@@ -2157,11 +2174,11 @@
     </message>
     <message>
         <source>DocBarcode_pro2.content</source>
-        <translation>DocBarcode_pro2 content</translation>
+        <translation>Доступно несколько средств, которые позволяют быстро создавать и вставлять штрих-коды.</translation>
     </message>
     <message>
         <source>PaperTypeset.content</source>
-        <translation>PaperTypeset.content</translation>
+        <translation>Интеллектуальная верстка реферата в зависимости от выбранного учебного заведения и основной дисциплины</translation>
     </message>
     <message>
         <source>CloseOutlineview.content</source>
@@ -2193,7 +2210,7 @@
     </message>
     <message>
         <source>OfficialTemplates.content</source>
-        <translation>Apply any template to create new document. You can design your own template using </translation>
+        <translation>Примените существующий шаблон, чтобы создать новый официальный документ. Нажмите &quot;Настраиваемые шаблоны&quot;, чтобы создать собственные шаблоны.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
@@ -2201,7 +2218,7 @@
     </message>
     <message>
         <source>OfficialTextIdentification.title</source>
-        <translation>Text Identification(Ctrl+Alt+S)</translation>
+        <translation>Распознавание текста</translation>
     </message>
     <message>
         <source>AlignTopRight.title</source>
@@ -2209,7 +2226,11 @@
     </message>
     <message>
         <source>MailConfig.content</source>
-        <translation>Configure email account.</translation>
+        <translation>Настройте учетную запись электронной почты, которая используется для отправки писем.</translation>
+    </message>
+    <message>
+        <source>ClickToTurnOnOffSpellCheck.content</source>
+        <translation>Click to turn on/off spell check</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
@@ -2325,11 +2346,11 @@
     </message>
     <message>
         <source>NewOfficialDocument.title</source>
-        <translation>Official Document</translation>
+        <translation>Официальный документ</translation>
     </message>
     <message>
         <source>SmartOfficial.title</source>
-        <translation>SmartOfficial</translation>
+        <translation>Интеллектуальное преобразование официальных документов</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
@@ -2337,7 +2358,7 @@
     </message>
     <message>
         <source>InsertFooter.content</source>
-        <translation>The footer style can help you to display title,author and page number</translation>
+        <translation>Нижние колонтитулы помогают повторять содержимое в нижней части каждой страницы. С их помощью показывают такие сведения, как название документа, автор и номер страницы.</translation>
     </message>
     <message>
         <source>PrintCopies.content</source>
@@ -2467,7 +2488,7 @@
     </message>
     <message>
         <source>OfficialHFont.content</source>
-        <translation>Set horizontal font size.</translation>
+        <translation>Задание размера шрифта в альбомной ориентации для выделенного текста и изменение ширины текста.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
@@ -2495,7 +2516,7 @@
     </message>
     <message>
         <source>PaperTypeset.title</source>
-        <translation>PaperTypeset.title</translation>
+        <translation>Набор реферата</translation>
     </message>
     <message>
         <source>ShowFormatting.content</source>
@@ -2503,7 +2524,7 @@
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation>Сохранить пропорции</translation>
+        <translation>Сохранить пропорции при настройке рисунка.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
@@ -2531,7 +2552,7 @@
     </message>
     <message>
         <source>PaperFormat.content</source>
-        <translation>Rapid typesetting of papers.</translation>
+        <translation>Быстро преобразовывайте черновые рефераты в готовые в соответствии со стандартами различных учреждений</translation>
     </message>
     <message>
         <source>InsertIndex.content</source>
@@ -2547,7 +2568,7 @@
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.content</source>
-        <translation>Insert portrait pages to the document.</translation>
+        <translation>Вставка страниц с книжной ориентацией в документ.</translation>
     </message>
     <message>
         <source>AlignStyle.title</source>
@@ -2555,7 +2576,7 @@
     </message>
     <message>
         <source>DocBarcode_pro2.title</source>
-        <translation>Barcode</translation>
+        <translation>Штрих-код</translation>
     </message>
     <message>
         <source>SectionNavigationPane.title</source>
@@ -2591,7 +2612,7 @@
     </message>
     <message>
         <source>OfficialSettings.content</source>
-        <translation>Setup options for Official Document Writing Mode, such us puncturation type and listing.</translation>
+        <translation>Настройте параметры для режима составления официальных документов, например тип пунктуации и интеллектуальное нумерование.</translation>
     </message>
     <message>
         <source>HeaderDistance.content</source>
@@ -2693,7 +2714,7 @@
     </message>
     <message>
         <source>MailConfig.title</source>
-        <translation>Email Config</translation>
+        <translation>Конфигурация электронной почты</translation>
     </message>
     <message>
         <source>m_ShowReviewer.content</source>
@@ -2733,7 +2754,7 @@
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
-        <translation>Professional document proofread tool in official view</translation>
+        <translation>Исправьте содержимое документа быстро и профессионально, добавив недостающие слова и заменив неподходящие.</translation>
     </message>
     <message>
         <source>RecentTableShadingColor2.title</source>
@@ -2775,7 +2796,7 @@
     </message>
     <message>
         <source>OfficialHVFont.title</source>
-        <translation>HVFont</translation>
+        <translation>Размер шрифта в альбомной/книжной ориентации</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
@@ -2892,6 +2913,10 @@
         <translation>Область выделения</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.content</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>LooseLineSpacing.title</source>
         <translation>Разреженный междустрочный интервал</translation>
     </message>
@@ -2905,7 +2930,7 @@
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Сжатие выделенного изображения или всех изображений в документе для уменьшения размера.</translation>
+        <translation>Сжатие выбранного изображения или всех изображений в документе для уменьшения размера.</translation>
     </message>
     <message>
         <source>DemoteToLowestLevelOnOutlining.content</source>
@@ -2945,7 +2970,7 @@
     </message>
     <message>
         <source>DocBarcode_pro.content</source>
-        <translation>use document barcode for flow of documents.</translation>
+        <translation>Вставьте QR-код официального документа, чтобы обеспечить быстрый документооборот.</translation>
     </message>
     <message>
         <source>MergeToPrinter.content</source>
@@ -3025,7 +3050,7 @@
     </message>
     <message>
         <source>CustomBold2.content</source>
-        <translation>Make the selected text bold 2.</translation>
+        <translation>Нажмите стрелку, чтобы выбрать насыщенность шрифта.</translation>
     </message>
     <message>
         <source>XmlStructure.title</source>
@@ -3059,7 +3084,7 @@
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Повысить уровень списка</translation>
+        <translation>Увеличить отступ</translation>
     </message>
     <message>
         <source>PageDiffOddEven.content</source>
@@ -3079,7 +3104,7 @@
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
+        <translation>Это может привести к невозможности правильного отображения или печати документа. Установите или измените шрифт.</translation>
     </message>
     <message>
         <source>PreviousHeader.title</source>
@@ -3087,7 +3112,7 @@
     </message>
     <message>
         <source>InsertHeaderFooterGroup.title</source>
-        <translation>Add Header Footer Group</translation>
+        <translation>Добавить набор верхних и нижних колонтитулов</translation>
     </message>
     <message>
         <source>UpdateTocOnOutlining.content</source>
@@ -3145,7 +3170,7 @@
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.content</source>
-        <translation>Insert landscape pages to the document.</translation>
+        <translation>Вставка страниц с альбомной ориентацией в документ.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
@@ -3225,7 +3250,7 @@
     </message>
     <message>
         <source>OfficialHVFont.content</source>
-        <translation>Set horizontal and vertical font size.</translation>
+        <translation>Задание размера шрифта в альбомной или книжной ориентации для выделенного текста и изменение ширины и высоты текста.</translation>
     </message>
     <message>
         <source>SplitWindow2.title</source>
@@ -3261,7 +3286,7 @@
     </message>
     <message>
         <source>OfficialSearchComputer.content</source>
-        <translation>Search the computer with keywords as filename or text in content, and use the results as references in this document.</translation>
+        <translation>Поиск файлов на компьютере по имени и текстовому содержимому и использование результатов для справки.</translation>
     </message>
     <message>
         <source>AlignBottomRight.content</source>
@@ -3279,11 +3304,11 @@
     </message>
     <message>
         <source>OfficialFont.title</source>
-        <translation>Official Document Fonts</translation>
+        <translation>Шрифты официальных документов</translation>
     </message>
     <message>
         <source>OfficialHead.title</source>
-        <translation>Head</translation>
+        <translation>Заголовок</translation>
     </message>
     <message>
         <source>DetailedSettings_References.content</source>
@@ -3363,7 +3388,7 @@
     </message>
     <message>
         <source>Official2RowsEditions.content</source>
-        <translation>Insert a two-row edition information to the end of the document.</translation>
+        <translation>Вставьте двухстрочный знак редактирования в конце текущей страницы.</translation>
     </message>
     <message>
         <source>MultiplePages.content</source>
@@ -3417,7 +3442,7 @@
     </message>
     <message>
         <source>OfficialDocumentBarcode.title</source>
-        <translation>Official Document QR Code</translation>
+        <translation>QR-код официального документа</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
@@ -3555,7 +3580,7 @@
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation>Сжать изображение</translation>
+        <translation>Сжатие изображений</translation>
     </message>
     <message>
         <source>UpdateIndex.content</source>
@@ -3663,7 +3688,7 @@
     </message>
     <message>
         <source>OfficialSingleRowEdition.content</source>
-        <translation>Insert a one-row edition information to the end of the document.</translation>
+        <translation>Вставьте однострочный знак редактирования в конце текущей страницы.</translation>
     </message>
     <message>
         <source>sp_DeleteComment2.title</source>
@@ -3739,11 +3764,11 @@
     </message>
     <message>
         <source>SmartOfficial.content</source>
-        <translation>Normal Document Convert to Official document</translation>
+        <translation>Быстрое преобразование в стандартные официальные документы.</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation>Читение</translation>
+        <translation>Чтение</translation>
     </message>
     <message>
         <source>MailMergeRecipients.title</source>
@@ -3755,7 +3780,7 @@
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
+        <translation>Укажите тип бумаги для текущего раздела, например A4 или A3.</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
@@ -3771,7 +3796,7 @@
     </message>
     <message>
         <source>OfficialZoomOnePage.content</source>
-        <translation>Change the zoom scale to fit a single page to the window.</translation>
+        <translation> Автоматическое изменение масштаба документа таким образом, чтобы страница целиком поместилась в окне.</translation>
     </message>
     <message>
         <source>ReviewTip.title</source>
@@ -3827,7 +3852,7 @@
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Отправить на телефон</translation>
     </message>
     <message>
         <source>InsertSectionAfter.title</source>
