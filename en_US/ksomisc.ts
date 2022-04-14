@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>I have read and agree with WPS Office</source>
@@ -1206,7 +1206,7 @@ These operations can be undone. </translation>
     </message>
     <message>
         <source>delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>cache clear finished.</source>
@@ -1309,7 +1309,7 @@ These operations can be undone. </translation>
     </message>
     <message>
         <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"/>
+        <translation>Use WPS PDF to read and edit PDF documents.</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
@@ -1650,7 +1650,7 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     <name>KFileAsso</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Professional</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
