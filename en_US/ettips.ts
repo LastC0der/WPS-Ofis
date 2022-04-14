@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation>Grow Font</translation>
+        <translation>Increase Font Size</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Quick Print</translation>
+        <translation>Print Directly</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation>Discard all the formatting changes you have made to this picture.</translation>
+        <translation>Discard all of the formatting changes you have made to this picture.</translation>
     </message>
     <message>
         <source>InsertFunction.title</source>
@@ -172,7 +172,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Insert selected file into the document.</translation>
+        <translation>Insert the selected file into document.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
@@ -284,9 +284,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Underline the selected text.
-
-Click the arrow to select different underlining styles.</translation>
+        <translation>Underline the selected text.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
@@ -314,7 +312,7 @@ Click the arrow to select different underlining styles.</translation>
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
+        <translation>Reset the window position of the documents being compared side-by-side so that they share the screen equally. 
 
 To enable this feature, turn on View Side by Side.</translation>
     </message>
@@ -404,11 +402,11 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Previous Comment</translation>
+        <translation>Previous.</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
-        <translation>Full Screen Mode</translation>
+        <translation>Full Screen</translation>
     </message>
     <message>
         <source>RecordList.title</source>
@@ -424,7 +422,7 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation>Show the Page Setup dialog box.</translation>
+        <translation>Show the page setup dialog box.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
@@ -432,11 +430,11 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>Open the Developer Tools tab to insert the Option Button, Check Box and more.</translation>
+        <translation>DevelopmentTools Content</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Choose a Clip Art from the task window and insert it into the document.</translation>
+        <translation>Insert Clip Art into the worksheet, including drawings, movies, sounds, or stock photography to illustrate a specific concept.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
@@ -444,7 +442,7 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation>Edit the comment.</translation>
+        <translation>Edit the selected comment.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
@@ -452,7 +450,7 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation>Macros Security</translation>
+        <translation>Macro Security</translation>
     </message>
     <message>
         <source>PDFToExcel.content</source>
@@ -460,7 +458,7 @@ Workbooks containing tables cannot be shared.</translation>
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation>Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts.</translation>
+        <translation>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
@@ -572,7 +570,7 @@ The total row is a row at the end of the table which displays totals for each co
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Change the settings of font, paragraph, and styles and formatting.</translation>
+        <translation>Change the settings of cell formatting.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -586,7 +584,7 @@ You can also center them or distribute them evenly across the page.</translation
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation>Click here for more options such as pasting only unformatted text.</translation>
+        <translation>Click here for more options such as pasting only the values.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
@@ -610,7 +608,7 @@ Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Next comment.</translation>
+        <translation>Jump to the next comment.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
@@ -642,7 +640,7 @@ Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Font Color</translation>
+        <translation>Text Color</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
@@ -726,11 +724,11 @@ Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation>Reset Window Position</translation>
+        <translation>Reset Window Position.</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation>SendFileTip.content</translation>
+        <translation>Send Files to Phone and Other Devices</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
@@ -782,7 +780,7 @@ Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation>Add a comment to the document about the selection.</translation>
+        <translation>Add a comment to the worksheet about the selection.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
@@ -850,7 +848,7 @@ This is only necessary if automatic calculation has been turned off.</translatio
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation>Delete Comment</translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
@@ -886,7 +884,9 @@ This is only necessary if automatic calculation has been turned off.</translatio
     </message>
     <message>
         <source>Table.content</source>
-        <translation>Insert or draw a table into the document, and convert text to table or vice versa.</translation>
+        <translation>Create a table to manage and analyze related data.
+
+Tables make it easy to sort, filter, and format data within a sheet.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
@@ -926,13 +926,13 @@ Press Esc on the keyboard or click here again to exit the erasing mode.</transla
         <source>FontColor.content</source>
         <translation>Change the text color.
 
-Click the arrow to choose a different text color.</translation>
+Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation>Fill the selected shape with a solid color, gradient, picture, or texture.
+        <translation>Color the background of selected cells.
 
-Click the arrow to select different fill effects.</translation>
+Click the arrow to select a different background color.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
@@ -953,6 +953,10 @@ Click the arrow to select different fill effects.</translation>
     <message>
         <source>HideWindow.title</source>
         <translation>Hide Window</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
@@ -1072,7 +1076,7 @@ Double-click an item in the list of results to switch the corresponding cell.</t
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Decrease List Level</translation>
+        <translation>Decrease Indent</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1118,7 +1122,7 @@ This banding can make tables easier to read.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Export to Image</translation>
+        <translation>Export to Picture</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
@@ -1148,7 +1152,7 @@ You can specify which columns should be checked for duplicate information.</tran
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation>View Side by Side</translation>
+        <translation>View Side by Side.</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
@@ -1214,13 +1218,17 @@ Many people choose to use the text in the top row or the leftmost column of a se
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation>Shape Fill</translation>
+        <translation>Fill Color</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
         <translation>Allows specific people to edit ranges of cells in a protected workbook or sheet.
 
 Before using this feature, first set security on the sheet by using the Protect Sheet command.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
@@ -1264,7 +1272,7 @@ Before using this feature, first set security on the sheet by using the Protect 
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Align text to the right</translation>
+        <translation>Align text to the right.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
@@ -1283,11 +1291,11 @@ In Page Break Preview, you can drag page breaks for adjustment.</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Increase the indent level of the  paragraph.</translation>
+        <translation>Increase the margin between the border and the text in the cell.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Decrease the indent level of the paragraph.</translation>
+        <translation>Decrease the margin between the border and the text in the cell.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
@@ -1373,7 +1381,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation>Insert Form</translation>
+        <translation>Insert Form Fields</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1437,7 +1445,7 @@ To bring the window back, click the Unhide button.</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation>Shrink Font</translation>
+        <translation>Decrease Font Size</translation>
     </message>
     <message>
         <source>Count.title</source>
@@ -1530,7 +1538,9 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation>Edit the header and footer of the document.</translation>
+        <translation>Edit the header and footer of the document.
+
+The information in the header or footer will appear at the top or bottom of each printed page.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
@@ -1538,7 +1548,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Find</translation>
+        <translation>Find and Replace</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
@@ -1580,11 +1590,11 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Align Center</translation>
+        <translation>Center</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
+        <translation>Mark the background area and quickly and intelligently remove the background of the image</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
@@ -1628,7 +1638,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation>WPS Gallery</translation>
+        <translation>WPS Office Gallery</translation>
     </message>
     <message>
         <source>LockCell.content</source>
@@ -1729,7 +1739,7 @@ Click the currently selected text orientation again to reset the text back to no
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation>Shape Fill</translation>
+        <translation>Fill Color</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
@@ -1749,7 +1759,7 @@ Click the currently selected text orientation again to reset the text back to no
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation>Synchronize the scrolling of two documents so that they scroll together.
+        <translation>Synchronize the scrolling of two documents so that they scroll together. 
 
 To enable this feature, turn on View Side by Side.</translation>
     </message>
@@ -1860,7 +1870,7 @@ Text</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation>Split or Merge.</translation>
+        <translation>Split or Merge</translation>
     </message>
     <message>
         <source>NoBorder.title</source>
@@ -1868,9 +1878,7 @@ Text</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Insert an embedded object into the document.
-
-Click the arrow to insert file content into the document.</translation>
+        <translation>Show the Insert Object dialog box to select new file or file from local folder.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
@@ -1878,7 +1886,7 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation>Group objects together so that they can be treated as a single object.</translation>
+        <translation>Group objects together so that they can be treated like a single object.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
@@ -1936,7 +1944,7 @@ These lines will not print unless Print is also checked.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>Show the WordArt Gallery dialog box to select a WordArt style and edit content.</translation>
+        <translation>Add Some artistic flair to your document using a WordArt text box.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
@@ -1968,7 +1976,7 @@ These lines will not print unless Print is also checked.</translation>
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>View items on Clipboard.</translation>
+        <translation>Check for the items that are copied to the Clipboard.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
@@ -2030,11 +2038,11 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation>Stop the auto backup of the current document.</translation>
+        <translation>Stop the current workbook from auto saving.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>WordArt</translation>
+        <translation>Insert WordArt</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
@@ -2130,11 +2138,11 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation>Navigate to the next page in the presentation.</translation>
+        <translation>Move to the next print page of the current worksheet.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
-        <translation>Page Break</translation>
+        <translation>Page Breaks</translation>
     </message>
     <message>
         <source>Min.content</source>
@@ -2154,7 +2162,9 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</translation>
+        <translation>Specify where a new page will begin in the printed copy.
+
+Page breaks are inserted above and to the left of the selection.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
@@ -2182,11 +2192,11 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation>Select the zoom size of the current document.</translation>
+        <translation>Select the zoom size of the current worksheet.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation>Open a new window containing a view of the current document.</translation>
+        <translation>Open a new window containing a view of the current worksheet.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
@@ -2194,7 +2204,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation>Track all changes made to the document, including insertions, deletions and formatting changes.</translation>
+        <translation>Track all changes made to the workbook, including insertions, deletions, and formatting changes.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
@@ -2230,7 +2240,9 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Fill Color</translation>
+        <translation>Fill the selected shape with a solid color, gradient, picture, or texture.
+
+Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
@@ -2272,7 +2284,7 @@ Names can be used in formulas as substitutes for cell references.</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation>Fill Color</translation>
+        <translation>Shape Fill</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
@@ -2334,7 +2346,7 @@ Data Connections are links to data outside of this workbook which can be updated
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation>Set the page layout to portrait in the printing of handouts, notes pages and outline.</translation>
+        <translation>Set the worksheet pages to portrait.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
@@ -2342,11 +2354,11 @@ Data Connections are links to data outside of this workbook which can be updated
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Show Macros dialog box and view the list of macros, from which you can run, delete, or create a macro directly.</translation>
+        <translation>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation>Align text to the left</translation>
+        <translation>Align text to the left.</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
@@ -2366,7 +2378,7 @@ Data Connections are links to data outside of this workbook which can be updated
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation>Click the arrow to select different fill effects.</translation>
+        <translation>Click the arrow to select a different background color.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
@@ -2378,7 +2390,7 @@ Data Connections are links to data outside of this workbook which can be updated
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Click the arrow to choose a different text color.</translation>
+        <translation>Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
@@ -2448,7 +2460,7 @@ Pane</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Compress the selected picture or all pictures in the document to reduce size.</translation>
+        <translation>Compress the selected picture or all pictures in the worksheet to reduce size.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
@@ -2542,7 +2554,7 @@ This is a good way to check out where pages begin and end, and to see any header
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Increase List Level</translation>
+        <translation>Increase Indent</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
@@ -2564,7 +2576,7 @@ The password will prevent others from turning off change tracking.</translation>
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation>Synchronous Scrolling</translation>
+        <translation>Synchronous Scrolling.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
@@ -2594,6 +2606,10 @@ Press Esc on the keyboard or click here again to exit the drawing mode.</transla
         <translation>Insert Hyperlink</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.content</source>
+        <translation>EtPhotoedit2</translation>
+    </message>
+    <message>
         <source>PrintPreviewZoomCombo.title</source>
         <translation>Zoom</translation>
     </message>
@@ -2611,7 +2627,7 @@ Press Esc on the keyboard or click here again to exit the drawing mode.</transla
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation>Delete the comment.</translation>
+        <translation>Delete the selected comment.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
@@ -2630,6 +2646,10 @@ Slicers make it faster and easier to filter PivotTables.</translation>
     <message>
         <source>SourceData.title</source>
         <translation>Select Data</translation>
+    </message>
+    <message>
+        <source>EtPhotoedit2.title</source>
+        <translation>EtPhotoedit2</translation>
     </message>
     <message>
         <source>TextFill2.title</source>
@@ -2681,15 +2701,15 @@ Slicers make it faster and easier to filter PivotTables.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Save the document as picture format.</translation>
+        <translation>Export the document to an image</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation>Insert Comment</translation>
+        <translation>New Comment</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Next Comment</translation>
+        <translation>Next.</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
@@ -2729,7 +2749,7 @@ Slicers make it faster and easier to filter PivotTables.</translation>
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation>Set the page layout to landscape in the printing of handouts, notes pages and outline.</translation>
+        <translation>Set the worksheet pages to landscape.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
@@ -2757,7 +2777,7 @@ Slicers make it faster and easier to filter PivotTables.</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Preview page effects before printing.</translation>
+        <translation>Preview and make changes to pages before printing.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
@@ -2777,7 +2797,7 @@ Slicers make it faster and easier to filter PivotTables.</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation>Insert Clip Art</translation>
+        <translation>Insert ClipArt</translation>
     </message>
     <message>
         <source>MergeCancel.content</source>
@@ -2793,11 +2813,11 @@ Slicers make it faster and easier to filter PivotTables.</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation>Developer Tools</translation>
+        <translation>Developer</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Font Color</translation>
+        <translation>Text Color</translation>
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
@@ -2823,7 +2843,7 @@ You can pick which columns should be checked for duplicate information.</transla
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Center text vertically and horizontally within the cell.</translation>
+        <translation>Center text.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
@@ -2863,7 +2883,7 @@ You can pick which columns should be checked for duplicate information.</transla
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Navigate to the previous comment in the document.</translation>
+        <translation>Jump to the previous comment.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
@@ -2917,7 +2937,7 @@ Click arrow to set the detail of outline.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Find text in the document.
+        <translation>Find text in the workbook.
 
 Click the arrow to choose other options, such as Go To.</translation>
     </message>
@@ -2989,11 +3009,11 @@ All of the data is preserved.</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation type="unfinished"/>
+        <translation>Select different controls to insert into the document, such as labels, check boxes, scroll bars, and spinners.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation>View the document in full screen mode.</translation>
+        <translation>View the workbook in full screen mode</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
@@ -3037,7 +3057,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Use the default printer to print directly.</translation>
+        <translation>Send the document directly to the default printer without making changes.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
@@ -3151,11 +3171,11 @@ This banding can make tables easier to read.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Send to Phone</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation>The file will be automatically saved for you when it is turned on.</translation>
+        <translation>When this feature is turned on, the modified content will be automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
