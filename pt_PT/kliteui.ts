@@ -3,15 +3,15 @@
     <name>KLiteCustomerServiceDlg</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>WPS customer service</source>
@@ -34,11 +34,11 @@
     </message>
     <message>
         <source>success</source>
-        <translation type="unfinished"/>
+        <translation>Convertido com êxito.</translation>
     </message>
     <message>
         <source>waiting</source>
-        <translation type="unfinished"/>
+        <translation>Aguarde.</translation>
     </message>
     <message>
         <source>warning</source>
@@ -181,7 +181,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>PPTX</source>
@@ -193,15 +193,15 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
-        <translation type="unfinished"/>
+        <translation>Os ficheiros da empresa só podem ser guardados nessa empresa.</translation>
     </message>
     <message>
         <source>Dropbox</source>
@@ -324,7 +324,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Shares received of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Partilha recebida</translation>
     </message>
     <message>
         <source>There is an extension of the data in the document</source>
@@ -356,7 +356,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>ShareFolder</source>
-        <translation type="unfinished"/>
+        <translation>Pasta partilhada</translation>
     </message>
     <message>
         <source>Folder is not exist</source>
@@ -364,15 +364,15 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Group Space of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>As minhas equipas</translation>
     </message>
     <message>
         <source>My Company</source>
-        <translation type="unfinished"/>
+        <translation>A minha empresa</translation>
     </message>
     <message>
         <source>Syn doc to cloud then everywhere to continue accessing</source>
-        <translation type="unfinished"/>
+        <translation>Os ficheiros com cópias de segurança na Cloud podem ser acedidos após iniciar sessão no telemóvel ou computador.</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -497,7 +497,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Abrir</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -650,7 +650,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Start Now</source>
-        <translation type="unfinished"/>
+        <translation>Começar já</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
@@ -670,7 +670,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha no pagamento</translation>
     </message>
 </context>
 <context>
@@ -741,7 +741,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha no pagamento</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -776,11 +776,11 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
-        <translation type="unfinished"/>
+        <translation>Docer VIP</translation>
     </message>
     <message>
         <source>Excellent office resource for Docer VIP, including templates, learning materials, etc. that help both in school and office work</source>
@@ -792,7 +792,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
@@ -810,15 +810,15 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     <name>KCefLoadingProgressDlgBase</name>
     <message>
         <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
-        <translation type="unfinished"/>
+        <translation>Aguarde alguns minutos até o carregamento ficar concluído.</translation>
     </message>
     <message>
         <source>Loading core support library......</source>
-        <translation type="unfinished"/>
+        <translation>A carregar a biblioteca de suporte base...</translation>
     </message>
     <message>
         <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao transferir a biblioteca de suporte base. Verifique a conectividade da rede e volte a carregar a biblioteca.</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -830,11 +830,11 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Core support library failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao carregar a biblioteca de suporte base.</translation>
     </message>
     <message>
         <source>This feature requires core support library,</source>
-        <translation type="unfinished"/>
+        <translation>Esta funcionalidade requer a biblioteca de suporte base.</translation>
     </message>
 </context>
 <context>
@@ -894,11 +894,11 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
-        <translation type="unfinished"/>
+        <translation>Depois de autorizar o WPS Office, pode aceder e gerir os seus ficheiros guardados na cloud de terceiros.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Autorizar</translation>
     </message>
 </context>
 <context>
@@ -913,34 +913,34 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao criar atalho do ficheiro do WPS Cloud!</translation>
     </message>
     <message>
         <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation type="unfinished"/>
+        <translation>O atalho do ficheiro do WPS Cloud foi criado, pode encontrá-lo no ambiente de trabalho</translation>
     </message>
 </context>
 <context>
     <name>KUploadLimitBubble</name>
     <message>
         <source>Upgrade VIP and upload</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar para a versão VIP e carregar</translation>
     </message>
     <message>
         <source>Sync failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao sincronizar</translation>
     </message>
     <message>
         <source>Upload failed, your WPS cloud space is full</source>
-        <translation type="unfinished"/>
+        <translation>Falha no carregamento. O espaço na cloud do WPS está cheio</translation>
     </message>
     <message>
         <source>File exceeds %1 upload limit</source>
-        <translation type="unfinished"/>
+        <translation>O ficheiro não foi sincronizado. O tamanho do ficheiro excede o limite de carregamento de %1.</translation>
     </message>
     <message>
         <source>Please clean up files in time</source>
-        <translation type="unfinished"/>
+        <translation>Limpe os ficheiros atempadamente</translation>
     </message>
 </context>
 <context>
@@ -981,14 +981,14 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     <name>KLiteQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>Se tiver dúvidas, contacte o Suporte ao cliente do WPS %1 ou leia o código QR do suporte ao cliente apresentado no lado esquerdo.</translation>
     </message>
 </context>
 <context>
     <name>KAppLoadFailedWindow</name>
     <message>
         <source>Network exception, %1 failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Exceção de rede, falha ao carrear %1</translation>
     </message>
 </context>
 <context>
@@ -1003,19 +1003,20 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     <message>
         <source>Upgrading
 please wait</source>
-        <translation type="unfinished"/>
+        <translation>A atualizar
+aguarde</translation>
     </message>
     <message>
         <source>Wait a moment...</source>
-        <translation type="unfinished"/>
+        <translation>Aguarde um momento...</translation>
     </message>
     <message>
         <source>Receiving</source>
-        <translation type="unfinished"/>
+        <translation>A receber</translation>
     </message>
     <message>
         <source>Processing...</source>
-        <translation type="unfinished"/>
+        <translation>A processar...</translation>
     </message>
 </context>
 <context>
@@ -1037,7 +1038,7 @@ please wait</source>
     </message>
     <message>
         <source>Backgroundg</source>
-        <translation type="unfinished"/>
+        <translation>Fundo</translation>
     </message>
 </context>
 <context>
@@ -1117,14 +1118,14 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     <name>KActivityWidget</name>
     <message>
         <source>Dont remind me</source>
-        <translation type="unfinished"/>
+        <translation>Não me lembrar</translation>
     </message>
 </context>
 <context>
     <name>KDisclaimerDialog</name>
     <message>
         <source>Tips：One AppleID can only qualify once</source>
-        <translation type="unfinished"/>
+        <translation>Sugestões: cada ID Apple só pode qualificar-se uma vez</translation>
     </message>
 </context>
 <context>
@@ -1142,22 +1143,22 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     <name>KVipPrivilegeComparisonWidget</name>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
-        <translation type="unfinished"/>
+        <translation>Docer VIP</translation>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source> Upgrade </source>
-        <translation type="unfinished"/>
+        <translation> Atualizar </translation>
     </message>
 </context>
 <context>
@@ -1187,15 +1188,15 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     <name>KUploadFileGuideDlg</name>
     <message>
         <source>Account had been logouted, uploading has been canceled</source>
-        <translation type="unfinished"/>
+        <translation>A sessão tinha sido terminada na conta; o carregamento foi cancelado</translation>
     </message>
     <message>
         <source>selected files have been in cloud</source>
-        <translation type="unfinished"/>
+        <translation>os ficheiros selecionados estão na cloud</translation>
     </message>
     <message>
         <source>Account had been logouted</source>
-        <translation type="unfinished"/>
+        <translation>A sessão tinha sido terminada na conta</translation>
     </message>
 </context>
 <context>
@@ -1294,7 +1295,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>Remind me tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Lembrar-me amanhã</translation>
     </message>
 </context>
 <context>
@@ -1308,7 +1309,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     <name>KLiteWaitingWidget</name>
     <message>
         <source>resource loading...</source>
-        <translation type="unfinished"/>
+        <translation>A carregar recurso...</translation>
     </message>
 </context>
 <context>
