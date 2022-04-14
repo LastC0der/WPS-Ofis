@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>End Arrow.title</source>
-        <translation>Koniec</translation>
+        <translation>Strzałka końca</translation>
     </message>
     <message>
         <source>ExportPdf.title</source>
@@ -79,15 +79,19 @@
     </message>
     <message>
         <source>MagnifyFontSize.content</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Zwiększ rozmiar czcionki</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist.title</source>
-        <translation>PdfInvoiceAssist</translation>
+        <translation>Pomoc w zakresie faktury</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation.title</source>
         <translation>Zakreśl i wpisz komentarz</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.content</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>Superscript.title</source>
@@ -111,7 +115,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Obróć obraz o wybrany kąt</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
@@ -140,6 +144,10 @@
     <message>
         <source>FloatClose.title</source>
         <translation>Zamknij pasek narzędzi</translation>
+    </message>
+    <message>
+        <source>ScanEdit.title</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
@@ -199,7 +207,7 @@
     </message>
     <message>
         <source>CADTOPdf.content</source>
-        <translation>CADTOPdf</translation>
+        <translation>Skonwertuj pliki CAD na pliki PDF</translation>
     </message>
     <message>
         <source>PDF2PPT.content</source>
@@ -211,9 +219,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Umożliwia podkreślenie zaznaczonego tekstu.
-
-Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>TextBoxAlpha.title</source>
@@ -289,7 +295,7 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>m_LineSpacing.title</source>
-        <translation>Interlinia</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFMeasureTool.content</source>
@@ -341,7 +347,7 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>ClearFormat.title</source>
-        <translation>ClearFormat</translation>
+        <translation>Wyczyść formaty</translation>
     </message>
     <message>
         <source>Shape.content</source>
@@ -408,6 +414,10 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
         <translation>Zwiększ czcionkę</translation>
     </message>
     <message>
+        <source>AlignJustify.content</source>
+        <translation>Rozłóż tekst równomiernie między marginesami.</translation>
+    </message>
+    <message>
         <source>InsertPagesFromDoc.content</source>
         <translation>Wstaw wybrane strony z dokumentu w określonym miejscu.</translation>
     </message>
@@ -469,11 +479,11 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>PdfSignatureEmbedBatch.content</source>
-        <translation>PdfSignatureEmbedBatch</translation>
+        <translation>Partia wprowadzona do dokumentu</translation>
     </message>
     <message>
         <source>End Arrow.content</source>
-        <translation>Koniec</translation>
+        <translation>Strzałka końca</translation>
     </message>
     <message>
         <source>PdfSignatureApplyMultiPage.content</source>
@@ -509,7 +519,7 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>TextBold.content</source>
-        <translation>TextBold</translation>
+        <translation>Pogrub wybrany tekst</translation>
     </message>
     <message>
         <source>GraffitiDeleteAll.title</source>
@@ -537,7 +547,7 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>TextUnderline.content</source>
-        <translation>TextUnderline</translation>
+        <translation>Podkreśl wybrany tekst</translation>
     </message>
     <message>
         <source>PDFAddText.title</source>
@@ -565,7 +575,7 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation>EditPicNewTool_Rotate</translation>
+        <translation>Obróć obraz o wybrany kąt</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
@@ -601,7 +611,7 @@ Kliknij strzałkę, aby wybrać inne style podkreślenia.</translation>
     </message>
     <message>
         <source>FormatBrush.title</source>
-        <translation>FormatBrush</translation>
+        <translation>Malarz formatów</translation>
     </message>
     <message>
         <source>Zoom Page.title</source>
@@ -715,7 +725,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copy Images</translation>
+        <translation>Kopiuj jako obraz</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -735,9 +745,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Umożliwia ustawienie koloru tekstu.
-
-Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
+        <translation>Kolor czcionki</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
@@ -785,7 +793,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
-        <translation>Pełne tłumaczenie tekstu</translation>
+        <translation>Przetłumacz cały tekst</translation>
     </message>
     <message>
         <source>GraffitiHline.content</source>
@@ -801,7 +809,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>Subscript.content</source>
-        <translation>Umożliwia utworzenie małych liter poniżej linii bazowej tekstu.</translation>
+        <translation>Indeks dolny</translation>
     </message>
     <message>
         <source>CreatePdf.title</source>
@@ -821,7 +829,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>TextSpeech</translation>
+        <translation>Wypowiedz</translation>
     </message>
     <message>
         <source>Circle.title</source>
@@ -833,11 +841,11 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>Squiggly Underline.title</source>
-        <translation>Squiggly Underline</translation>
+        <translation>linia falista</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint.title</source>
-        <translation>PdfElectronicInvoicePrint</translation>
+        <translation>Drukowanie faktury</translation>
     </message>
     <message>
         <source>FreeText.content</source>
@@ -849,7 +857,11 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
-        <translation>Kolor wyróżnienia tekstu</translation>
+        <translation>Wyróżnij</translation>
+    </message>
+    <message>
+        <source>TableRegonize.content</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>PDFAdsorptionMidpoint.title</source>
@@ -877,7 +889,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Eksportuj obraz Weibo</translation>
+        <translation>Wynik w formie obrazu</translation>
     </message>
     <message>
         <source>FillSignCross.title</source>
@@ -910,6 +922,10 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message>
         <source>PdfImageReplace.title</source>
         <translation>Zastąp</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.title</source>
+        <translation>setpagesizeTip</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
@@ -961,7 +977,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>DocTranslate.content</source>
-        <translation>Tłumacz dokładnie i szybko, zachowując oryginalny układ dokumentu.</translation>
+        <translation>DocTranslate</translation>
     </message>
     <message>
         <source>AutoWheel.content</source>
@@ -1033,7 +1049,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>Squiggly Underline.content</source>
-        <translation>Squiggly Underline</translation>
+        <translation>linia falista</translation>
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
@@ -1157,11 +1173,15 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>TextItalic.content</source>
-        <translation>TextItalic</translation>
+        <translation>Zapisz wybrany tekst kursywą</translation>
     </message>
     <message>
         <source>Line Style.content</source>
         <translation>Styl linii</translation>
+    </message>
+    <message>
+        <source>TableRegonize.title</source>
+        <translation>TableRegonize</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
@@ -1229,7 +1249,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>TextUnderline.title</source>
-        <translation>TextUnderline</translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
@@ -1300,12 +1320,16 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <translation>Wcięcie pierwszego wiersza</translation>
     </message>
     <message>
+        <source>EditTextInPicture.content</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>NavigateForward.title</source>
         <translation>Przejdź do przodu</translation>
     </message>
     <message>
         <source>Shapes.content</source>
-        <translation>Umożliwia wstawianie gotowych kształtów, takich jak linie, prostokąty, symbole schematu blokowego i objaśnienia.</translation>
+        <translation>Wstaw linię, strzałkę, prostokąt itp.</translation>
     </message>
     <message>
         <source>FloatFitWidth.title</source>
@@ -1325,7 +1349,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>PdfImageOcrExtract.title</source>
-        <translation>PdfImageOcrExtract</translation>
+        <translation>Wyodrębnij tekst z obrazu</translation>
     </message>
     <message>
         <source>SinglePageContinuous.title</source>
@@ -1333,7 +1357,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>ImageEditDelete.title</source>
-        <translation>ImageEditDelete</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>PDF2Photo.title</source>
@@ -1365,7 +1389,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>TranslationSelectPdf.title</source>
-        <translation>TranslationSelectPdf</translation>
+        <translation>Przetłumacz wybrane słowa</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
@@ -1373,7 +1397,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>MagnifyIndentation.content</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Zwiększ poziom wcięcia akapitu</translation>
     </message>
     <message>
         <source>FillSignDot.content</source>
@@ -1429,7 +1453,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.content</source>
-        <translation>Eksport zdjęcia do pliku PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>PDFMeasurePerimeter.content</source>
@@ -1437,7 +1461,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>Superscript.content</source>
-        <translation>Umożliwia utworzenie małych liter powyżej wiersza tekstu.</translation>
+        <translation>Indeks górny</translation>
     </message>
     <message>
         <source>Arrow.title</source>
@@ -1449,7 +1473,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>ReduceIndentation.content</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Zmniejsz poziom wcięcia akapitu</translation>
     </message>
     <message>
         <source>FormFilling.content</source>
@@ -1481,15 +1505,23 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation>PdfSignatureDeleteBatch</translation>
+        <translation>Usunięcie partii</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
         <translation>Kolor wypełnienia</translation>
     </message>
     <message>
+        <source>PdfPhotoedit2.content</source>
+        <translation>PdfPhotoedit2</translation>
+    </message>
+    <message>
         <source>OCRExtractText.title</source>
-        <translation>OCRExtractText</translation>
+        <translation>Wyodrębnij tekst</translation>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.title</source>
+        <translation>PdfPhotoedit2</translation>
     </message>
     <message>
         <source>AlignLeft.title</source>
@@ -1502,6 +1534,10 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message>
         <source>ShapeFillColor.title</source>
         <translation>Kolor wypełnienia</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.title</source>
+        <translation>Znajdź i zamień</translation>
     </message>
     <message>
         <source>SplitPDF.content</source>
@@ -1597,7 +1633,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>Pdf2PhotoCmd.title</source>
-        <translation>Eksport zdjęcia do pliku PDF</translation>
+        <translation>Pdf2PhotoCmd</translation>
     </message>
     <message>
         <source>ImageExtractTip.content</source>
@@ -1629,7 +1665,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>TextBold.title</source>
-        <translation>TextBold</translation>
+        <translation>Pogrubienie</translation>
     </message>
     <message>
         <source>Replace Text.title</source>
@@ -1672,6 +1708,10 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <translation>Zaznacz tekst lub obrazy do skopiowania.</translation>
     </message>
     <message>
+        <source>EditTextInPicture.title</source>
+        <translation>EditTextInPicture</translation>
+    </message>
+    <message>
         <source>PDFMeasureScale.content</source>
         <translation>Współczynnik skali</translation>
     </message>
@@ -1689,7 +1729,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>MagnifyFontSize.title</source>
-        <translation>MagnifyFontSize</translation>
+        <translation>Zwiększ czcionkę</translation>
     </message>
     <message>
         <source>Strikethrough.content</source>
@@ -1750,11 +1790,15 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copy Images</translation>
+        <translation>Kopiuj bieżące zaznaczenie jako obraz</translation>
     </message>
     <message>
         <source>NextPage.title</source>
         <translation>Następna strona</translation>
+    </message>
+    <message>
+        <source>ScanEdit.content</source>
+        <translation>ScanEdit</translation>
     </message>
     <message>
         <source>TBLineStyle.content</source>
@@ -1842,11 +1886,11 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>ReduceIndentation.title</source>
-        <translation>ReduceIndentation</translation>
+        <translation>Zmniejsz wcięcie</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Eksportuj obraz Weibo</translation>
+        <translation>ExportWeiboImageCmd</translation>
     </message>
     <message>
         <source>Open.content</source>
@@ -1866,7 +1910,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>TextItalic.title</source>
-        <translation>TextItalic</translation>
+        <translation>Kursywa</translation>
     </message>
     <message>
         <source>Zoom Page.content</source>
@@ -1887,6 +1931,10 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message>
         <source>InsertPages.title</source>
         <translation>Wstaw strony</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.content</source>
+        <translation>Znajdź i zamień</translation>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
@@ -1966,7 +2014,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>MagnifyIndentation.title</source>
-        <translation>MagnifyIndentation</translation>
+        <translation>Zwiększ wcięcie</translation>
     </message>
     <message>
         <source>NewImage2top.content</source>
@@ -1986,7 +2034,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Umożliwia wyśrodkowanie tekstu w pionie i poziomie wewnątrz komrki.</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
@@ -2038,9 +2086,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Umożliwia znalezienie tekstu w dokumencie.
-
-Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
+        <translation>Znajdź tekst</translation>
     </message>
     <message>
         <source>RotateToTheLeft.content</source>
@@ -2068,7 +2114,7 @@ Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>CADTOPdf.title</source>
-        <translation>CADTOPdf</translation>
+        <translation>CAD do PDF</translation>
     </message>
     <message>
         <source>NoteBorder.title</source>
@@ -2092,7 +2138,7 @@ Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>m_LineSpacing.content</source>
-        <translation>Umożliwia zmianę odstępów między wierszami tekstu.</translation>
+        <translation>m_LineSpacing</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
@@ -2112,7 +2158,11 @@ Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>ImageExtractTip.title</source>
-        <translation>ImageExtractTip</translation>
+        <translation>Wyodrębnij obraz</translation>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Justuj</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
@@ -2140,13 +2190,11 @@ Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
-        <translation>Umożliwia wstawienie półprzezroczystego tekstu i obrazu pod zawartością strony.
-
-Taki tekst jest często używany w celu wskazania, że materiał jest dokumentem specjalnym, na przykład zaszyfrowanym, poufnym i nie przeznaczonym do kopiowania lub do oznaczenia źródła dokumentu takiego jak dodawanie loga praw autorskich i informacji o autorze.</translation>
+        <translation>Znak wodny</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>DocumentFix</translation>
+        <translation>Naprawa dokumentu</translation>
     </message>
     <message>
         <source>PDFMeasureResultPanel.title</source>
@@ -2166,7 +2214,7 @@ Taki tekst jest często używany w celu wskazania, że materiał jest dokumentem
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Umożliwia zamianę zawartości tekstowej w dokumencie.</translation>
+        <translation>Zamień</translation>
     </message>
     <message>
         <source>ShapeBorderColor.title</source>
@@ -2198,7 +2246,7 @@ Taki tekst jest często używany w celu wskazania, że materiał jest dokumentem
     </message>
     <message>
         <source>PDFTOCad.title</source>
-        <translation>PDFTOCad</translation>
+        <translation>PDF do CAD</translation>
     </message>
     <message>
         <source>Recommended PictureToText.title</source>
@@ -2214,9 +2262,7 @@ Taki tekst jest często używany w celu wskazania, że materiał jest dokumentem
     </message>
     <message>
         <source>HighlightColor.content</source>
-        <translation>Umożliwia nadanie tekstowi takiego wyglądu, jak gdyby był oznaczony zakreślaczem.
-
-Kliknij strzałkę, aby wybrać inny kolor wyróżnienia.</translation>
+        <translation>HighlightColor</translation>
     </message>
     <message>
         <source>FirstPage.title</source>
