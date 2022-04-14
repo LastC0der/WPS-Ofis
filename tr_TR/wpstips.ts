@@ -658,6 +658,10 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
         <translation>Insert AutoText in the header or footer to easily view and locate the related article.</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
         <translation>Hücre biçimlendirme ayarlarını değiştirin.</translation>
     </message>
@@ -1100,6 +1104,10 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
         <translation>Change Case</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PageLayoutDetailedSettings.content</source>
         <translation>Sayfa Düzeni Ayrıntılı Ayarlar İçeriği</translation>
     </message>
@@ -1264,6 +1272,10 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
         <translation>Click to choose display navigation pane display location.</translation>
     </message>
     <message>
+        <source>SpellCheckMore.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DecreaseIndent.title</source>
         <translation>Girintiyi Azalt</translation>
     </message>
@@ -1401,6 +1413,10 @@ Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2202,6 +2218,10 @@ Click the arrow to insert file content into the document.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>ClickToTurnOnOffSpellCheck.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TextSpeech2.content</source>
         <translation>Okumayı durdurmak için burayı tıklayın.</translation>
     </message>
@@ -2872,6 +2892,10 @@ Farklı dolgu efektleri seçmek için oku tıklayın.</translation>
     <message>
         <source>ObjectSelect.title</source>
         <translation>Seçim Bölmesi</translation>
+    </message>
+    <message>
+        <source>WpsPhotoedit2.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>LooseLineSpacing.title</source>
