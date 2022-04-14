@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation>Быстро и легко упорядочивайте файлы.</translation>
+        <translation>Быстро и просто систематизируйте файлы.</translation>
     </message>
     <message>
         <source>AnimationSchemes.title</source>
@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Открыть диалоговое окно &quot;Масштаб&quot; для выбора параметров масштабирования документа.</translation>
+        <translation>Показать диалоговое окно &quot;Масштаб&quot; для выбора масштаба документа.</translation>
     </message>
     <message>
         <source>ZoomFit.content</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>InsertDateTime.content</source>
-        <translation>Отображение диалогового окна &quot;Дата и время&quot; для вставки текущей даты или времени в текущий документ.</translation>
+        <translation>Добавление текущей даты и времени в текущий документ.</translation>
     </message>
     <message>
         <source>InsertChart.title</source>
@@ -71,11 +71,11 @@
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation>Отмена всех изменений форматирования, внесённых в изображение.</translation>
+        <translation>Отмена всех изменений форматирования для данного изображения.</translation>
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation>Дополнительные сведения о печати, например выбор принтера, печатаемые страницы, двусторонняя печать, масштабирование и т. д.</translation>
+        <translation>Дополнительные сведения о печати, например выбор принтера, копии, двусторонняя печать, масштабирование и т. д.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
@@ -91,7 +91,7 @@
     </message>
     <message>
         <source>Superscript.title</source>
-        <translation>Надстрочный</translation>
+        <translation>Надстрочный знак</translation>
     </message>
     <message>
         <source>Replace.title</source>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Вставка выбранного файла в документ.</translation>
+        <translation>Добавление выбранного файла в документ.</translation>
     </message>
     <message>
         <source>AddSubordinate.content</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>Subscript.title</source>
-        <translation>Подстрочный</translation>
+        <translation>Подстрочный знак</translation>
     </message>
     <message>
         <source>Arrange.title</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation>Преобразование документа в изображение и предоставление для коллективного доступа в Weibo.</translation>
+        <translation>weibotool Content</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>TaskPane.title</source>
-        <translation>Окно задач</translation>
+        <translation>Область задач</translation>
     </message>
     <message>
         <source>Rotate.content</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation>Изменение настроек форматирования фигурного текста.</translation>
+        <translation>Изменение параметров форматирования фигурного текста.</translation>
     </message>
     <message>
         <source>InsertColumnsRight.content</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>WordArtAlignment.content</source>
-        <translation>Выравнивание фигурного текста.</translation>
+        <translation>Выбор типа выравнивания для отдельных строк фигурного текста.</translation>
     </message>
     <message>
         <source>TextFontColor2.title</source>
@@ -203,9 +203,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Подчёркивание выделенного текста.
-
-Щёлкните стрелку для выбора стиля подчеркивания.</translation>
+        <translation>Подчеркивание выделенного текста.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
@@ -229,7 +227,7 @@
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation>Расположить все открытые документы рядом с окном программы.</translation>
+        <translation>Расположение всех открытых документов на экране рядом.</translation>
     </message>
     <message>
         <source>AudioPlay.title</source>
@@ -273,7 +271,7 @@
     </message>
     <message>
         <source>TextBox.title</source>
-        <translation>Горизонтальное текстовое поле</translation>
+        <translation>Нарисовать горизонтальную надпись</translation>
     </message>
     <message>
         <source>TransitionEffect.content</source>
@@ -305,7 +303,7 @@
     </message>
     <message>
         <source>Ruler.content</source>
-        <translation>Отображение линеек, которые используются для измерения и выравнивания объектов на странице.</translation>
+        <translation>Показать линейки, используемые для измерения и выравнивания объектов в документе.</translation>
     </message>
     <message>
         <source>ShapeFill.content</source>
@@ -315,7 +313,7 @@
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation>Отображение диалогового окна &quot;Параметры страницы&quot;.</translation>
+        <translation>Показать диалоговое окно &quot;Параметры страницы&quot;.</translation>
     </message>
     <message>
         <source>RB_Font.title</source>
@@ -323,7 +321,7 @@
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>Открытие вкладки &quot;Конструктор&quot; для вставки переключателя, флажка и других функций.</translation>
+        <translation>Открытие вкладки &quot;Инструменты разработчика&quot; для добавления переключателя, флажка и других элементов.</translation>
     </message>
     <message>
         <source>GraphicFill.title</source>
@@ -331,7 +329,7 @@
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Выбор клипа в окне задач и вставка его в документ.</translation>
+        <translation>Выберите клип из панели задач и вставьте в документ.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.title</source>
@@ -349,7 +347,7 @@
         <source>InsertChart.content</source>
         <translation>Вставленную диаграмму можно изменить в WPS Spreadsheets.
 
-После закрытия WPS Spreadsheets диаграмма будет отображаться в документе как обычно. Дважды щёлкните по диаграмме для редактирования.</translation>
+После закрытия WPS Spreadsheets диаграмма будет показана в документе. Для начала изменения дважды щёлкните по диаграмме.</translation>
     </message>
     <message>
         <source>Security.title</source>
@@ -388,6 +386,10 @@
         <translation>Эффекты перехода</translation>
     </message>
     <message>
+        <source>AnimationStartPlay.content</source>
+        <translation>Изменить время для воспроизведения анимаций. Анимации могут запускаться после щелчка мыши, одновременно с предыдущей анимацией или после завершения предыдущей анимации.</translation>
+    </message>
+    <message>
         <source>DeleteMember.content</source>
         <translation>Удаление выделенного элемента.</translation>
     </message>
@@ -400,8 +402,12 @@
         <translation>Макросы</translation>
     </message>
     <message>
+        <source>WppPhotoedit2.title</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Изменение настроек шрифта, абзаца, стилей и форматирования.</translation>
+        <translation>Изменение параметров шрифта.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -414,6 +420,10 @@
     <message>
         <source>SlideMasterClose.title</source>
         <translation>Закрыть режим образца</translation>
+    </message>
+    <message>
+        <source>PictureTransparency.title</source>
+        <translation>Прозрачность изображения</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
@@ -429,11 +439,11 @@
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation>Animation Brush</translation>
+        <translation>Анимация по образцу</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Переход к следующему примечанию в документе.</translation>
+        <translation>Переход к следующему примечанию.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
@@ -453,7 +463,7 @@
     </message>
     <message>
         <source>weibotool.title</source>
-        <translation>Weibotool</translation>
+        <translation>weibotool Title</translation>
     </message>
     <message>
         <source>FontColor.title</source>
@@ -465,15 +475,16 @@
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation>Подбор синонимов (других слов с похожим значением) для выделенного слова.</translation>
+        <translation>Подбор синонимов (других слов
+с похожим значением) для выделенного слова.</translation>
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation>Щёлкните здесь для добавления горизонтального, вертикального или многострочного текстового поля.</translation>
+        <translation>Щелкните здесь для вставки горизонтальной или вертикальной надписи.</translation>
     </message>
     <message>
         <source>Markup.content</source>
-        <translation>Показать или скрыть пометки исправлений в документе.</translation>
+        <translation>Показать или скрыть исправления в документе.</translation>
     </message>
     <message>
         <source>Arrange.content</source>
@@ -734,6 +745,10 @@
         <translation>Выравнивание текста по левому краю.</translation>
     </message>
     <message>
+        <source>PictureTransparency.content</source>
+        <translation>Задать прозрачность изображения, чтобы показать содержимое под ним.</translation>
+    </message>
+    <message>
         <source>CustomShows.title</source>
         <translation>Произвольный показ</translation>
     </message>
@@ -771,7 +786,7 @@
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation>Рисование границ таблицы.</translation>
+        <translation>Рисует границы ячейки, строки или столбца таблицы.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
@@ -790,6 +805,10 @@
     <message>
         <source>InsertTable.content</source>
         <translation>Вставить или нарисовать таблицу в текущем слайде.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
@@ -817,7 +836,7 @@
     </message>
     <message>
         <source>COMAddIns.content</source>
-        <translation>Добавление или удаление доступных надстроек COM.</translation>
+        <translation>Управление доступными надстройками COM.</translation>
     </message>
     <message>
         <source>DocTranslate.title</source>
@@ -845,7 +864,7 @@
     </message>
     <message>
         <source>CheckSpelling.content</source>
-        <translation>Проверка орфографии и грамматики в текущем документе.</translation>
+        <translation>Проверка правописания в документе.</translation>
     </message>
     <message>
         <source>AudioFadeIn.title</source>
@@ -869,7 +888,7 @@
     </message>
     <message>
         <source>SimplifiedChinese.content</source>
-        <translation>Преобразование в символы упрощенного китайского.</translation>
+        <translation>Преобразование в символы упрощенного китайского письма.</translation>
     </message>
     <message>
         <source>Delete.title</source>
@@ -877,7 +896,7 @@
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>Чтение текста</translation>
+        <translation>Текст в речь</translation>
     </message>
     <message>
         <source>Ruler.title</source>
@@ -903,7 +922,7 @@
     </message>
     <message>
         <source>UsePresenterView.title</source>
-        <translation>Presenter view</translation>
+        <translation>Использовать режим докладчика</translation>
     </message>
     <message>
         <source>DrawAlignTop.title</source>
@@ -938,6 +957,10 @@
         <translation>автоматически или после нажатия.</translation>
     </message>
     <message>
+        <source>AnimationDuration.title</source>
+        <translation>Длительность:</translation>
+    </message>
+    <message>
         <source>DecreaseSpace.title</source>
         <translation>Уменьшить междустрочный интервал</translation>
     </message>
@@ -951,7 +974,7 @@
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Экспорт изображения Weibo</translation>
+        <translation>Экспорт в изображение</translation>
     </message>
     <message>
         <source>sp_Macros2.content</source>
@@ -1011,7 +1034,7 @@
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Автосохранение файла</translation>
     </message>
     <message>
         <source>SlideTransOnTime.content</source>
@@ -1026,10 +1049,14 @@
         <translation>Выровнять текст по правому краю</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
+    </message>
+    <message>
         <source>Numbering2.content</source>
         <translation>Начало нумерованного списка.
 
-Щелкните стрелку для выбора формата нумерации.</translation>
+Щелкните стрелку, чтобы выбрать другие форматы нумерации.</translation>
     </message>
     <message>
         <source>HeaderPlaceHolder.content</source>
@@ -1073,7 +1100,7 @@
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Увеличение уровня отступа абзаца.</translation>
+        <translation>Увеличение отступа.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
@@ -1083,7 +1110,7 @@
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Уменьшение уровня отступа абзаца.</translation>
+        <translation>Уменьшение отступа.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
@@ -1123,7 +1150,7 @@
     </message>
     <message>
         <source>Select.content</source>
-        <translation>Выделение текста или объектов в документе.</translation>
+        <translation>Выделение строки, таблицы или объекта в документе.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
@@ -1139,9 +1166,7 @@
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation>Начало нумерованного списка.
-
-Щёлкните стрелку для выбора формата нумерации.</translation>
+        <translation>Щёлкните стрелку для выбора формата нумерации.</translation>
     </message>
     <message>
         <source>RewindVideo.title</source>
@@ -1164,12 +1189,16 @@
         <translation>Новое окно</translation>
     </message>
     <message>
+        <source>AnimationDelete.title</source>
+        <translation>Удалить анимацию</translation>
+    </message>
+    <message>
         <source>Security.content</source>
         <translation>Настройка параметров безопасности макросов.</translation>
     </message>
     <message>
         <source>SplitCells.title</source>
-        <translation>Разделение ячеек</translation>
+        <translation>Разделить ячейки</translation>
     </message>
     <message>
         <source>MergeCells.content</source>
@@ -1213,7 +1242,7 @@
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation>Отображение диалогового окна &quot;Номера страниц&quot; и применение параметров номера страницы к текущему разделу или ко всему документу.</translation>
+        <translation>Включение номера страниц в печатные выдачи или заметки.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
@@ -1334,8 +1363,12 @@
         <translation>Экспортировать в видеофайл</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.content</source>
+        <translation>Воспроизвести анимацию через определенное количество секунд.</translation>
+    </message>
+    <message>
         <source>TextBox.content</source>
-        <translation>Вставка в документ горизонтального текстового поля.</translation>
+        <translation>Вставка горизонтальной надписи в документ.</translation>
     </message>
     <message>
         <source>SlideShow.title</source>
@@ -1407,7 +1440,7 @@
     </message>
     <message>
         <source>Markup.title</source>
-        <translation>Пометки исправлений</translation>
+        <translation>Исправления</translation>
     </message>
     <message>
         <source>SlideTransDuration.content</source>
@@ -1455,11 +1488,19 @@
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Автосохранение включено</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation>Изменение настроек форматирования форм.</translation>
+        <translation>Изменение параметров форматирования фигуры.</translation>
+    </message>
+    <message>
+        <source>WppPhotoedit2.content</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.content</source>
+        <translation>Изменяет свойства эффекта текущей анимации.</translation>
     </message>
     <message>
         <source>onlineMedia.title</source>
@@ -1487,13 +1528,11 @@
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Вставка внедренного объекта в документ.
-
-Щёлкните стрелку для добавления содержимого файла в документ.</translation>
+        <translation>Добавление внедренного объекта.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
-        <translation>Change the settings of Equations.</translation>
+        <translation>Измените параметры формул.</translation>
     </message>
     <message>
         <source>AlignBottom.content</source>
@@ -1509,9 +1548,9 @@
     </message>
     <message>
         <source>UsePresenterView.content</source>
-        <translation>Presenter view shows the speaker view and the full screen view on different monitors.
+        <translation>Во время презентации представление в полноэкранном режиме отображается на одном мониторе, а &quot;представление докладчика&quot; — на другом.
 
-If you only have one monitor, you can use Alt+F5 to try out presenter view, and press ESC to exit.</translation>
+Если у вас только один монитор, используйте сочетание клавиш Alt+F5, чтобы предварительно посмотреть представление докладчика, и клавишу Esc, чтобы завершить предварительный просмотр.</translation>
     </message>
     <message>
         <source>TableSmartStyle.title</source>
@@ -1535,7 +1574,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>Открытие диалогового окна &quot;Коллекция&quot; для выбора стиля фигурного текста и редактирования содержимого.</translation>
+        <translation>Добавление фигурного текста в документ.</translation>
     </message>
     <message>
         <source>Replace2.title</source>
@@ -1559,7 +1598,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Просмотр элементов в буфере обмена.</translation>
+        <translation>Просмотр элементов, скопированных в буфер обмена.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
@@ -1581,15 +1620,15 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>Superscript2.title</source>
-        <translation>Другие функции</translation>
+        <translation>Другие параметры</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
         <translation>1. Заливка фигуры
-Заполните выбранные объекты цветом, градиентами, текстурами и изображениями.
-2. Контуры фигуры
-Настройте цвет, толщину линий и штриховку для выбранных объектов.
-Нажмите стрелки для подробной настройки.</translation>
+Заливка выбранных объектов цветами, градиентами, текстурами и изображениями.
+2. Контур фигуры
+Настройка цветов, толщины и штрихов для выбранных объектов.
+Нажмите кнопку со стрелкой, чтобы просмотреть подробную конфигурацию.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
@@ -1637,7 +1676,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>TextBox2.title</source>
-        <translation>Добавление надписи</translation>
+        <translation>Нарисовать надпись</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
@@ -1661,7 +1700,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>MergeCells.title</source>
-        <translation>Объединение ячеек</translation>
+        <translation>Объединить ячейки</translation>
     </message>
     <message>
         <source>SetBackground.content</source>
@@ -1733,11 +1772,11 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>3DPresentation.content</source>
-        <translation>Insert 3DPresentation</translation>
+        <translation>Вставить интерактивные элементы 3D-презентации в документ</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation>Показать или скрыть окно задач.</translation>
+        <translation>Показать или скрыть область задач в презентации.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
@@ -1842,6 +1881,10 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
         <translation>Записать слайд-шоу</translation>
     </message>
     <message>
+        <source>AnimationDuration.content</source>
+        <translation>Укажите длину анимации. Чем больше длительность, тем меньше скорость воспроизведения.</translation>
+    </message>
+    <message>
         <source>presentationTool.title</source>
         <translation>Средство презентации</translation>
     </message>
@@ -1879,7 +1922,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Отображение диалогового окна &quot;Макросы&quot; и вывод списка макросов для выполнения, создания или удаления макроса.</translation>
+        <translation>Вывод списка макросов для выполнения, создания или удаления макроса.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
@@ -1887,7 +1930,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Щелкните стрелку для выбора цвета текста.</translation>
+        <translation>Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
@@ -1921,9 +1964,9 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation>Коллекция WPS предоставляет все виды источников изображений для использования, сбора, редактирования и управления.
+        <translation>Коллекция WPS предоставляет все виды источников изображения для использования, сбора коллекции изображений, изменения и управления.
 
-Для использования коллекции WPS из Интернета необходимо подключение к Интернету.</translation>
+Для использования коллекции WPS необходимо подключение к Интернету.</translation>
     </message>
     <message>
         <source>Justify.title</source>
@@ -1931,7 +1974,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>RB_Font.content</source>
-        <translation>Отображение диалогового окна &quot;Шрифт&quot;.</translation>
+        <translation>Показать диалоговое окно &quot;Шрифт&quot;.</translation>
     </message>
     <message>
         <source>RehearseAllSlides.content</source>
@@ -1968,6 +2011,14 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
         <translation>Удалить образец</translation>
     </message>
     <message>
+        <source>AnimationText.content</source>
+        <translation>Изменяет метод воспроизведения анимации, в том числе &quot;Все сразу&quot;, &quot;По абзацу&quot; и &quot;По букве&quot;.</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.title</source>
+        <translation>Эффект анимации</translation>
+    </message>
+    <message>
         <source>Ai Matting.title</source>
         <translation>Ai Matting</translation>
     </message>
@@ -1978,6 +2029,10 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     <message>
         <source>StopAutoVersion.title</source>
         <translation>Остановить автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.content</source>
+        <translation>Displays the Effect Options dialog box for you to modify the animation effect.</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
@@ -2033,7 +2088,7 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>TraditionalChinese.content</source>
-        <translation>Преобразование в символы традиционного китайского письма.</translation>
+        <translation>Преобразовать в символы традиционного китайского письма.</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
@@ -2056,16 +2111,20 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
         <translation>Волшебный</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.title</source>
+        <translation>Задержка:</translation>
+    </message>
+    <message>
         <source>AudioPause.content</source>
         <translation>Приостановка воспроизведения звука.</translation>
     </message>
     <message>
         <source>InsertEduTools.title</source>
-        <translation>InsertEduTools.title</translation>
+        <translation>Средства для инструкций</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
+        <translation>Это может привести к дезорганизации файла во время отображения или печати. Установите соответствующий шрифт или замените его другим шрифтом.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
@@ -2097,9 +2156,9 @@ If you only have one monitor, you can use Alt+F5 to try out presenter view, and 
     </message>
     <message>
         <source>AnimationPainter.content</source>
-        <translation>Copy the animation of selected object to other objects.
+        <translation>Применить анимацию выделенного объекта к другим объектам.
 
-Double click to copy to multiple objects.</translation>
+Дважды щелкните, чтобы применить анимацию к нескольким объектам.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
@@ -2119,7 +2178,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation>Стирание границ таблицы в документе.</translation>
+        <translation>Используйте ластик, чтобы стереть границы в таблице.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
@@ -2128,6 +2187,10 @@ Double click to copy to multiple objects.</translation>
     <message>
         <source>statusbarFontMissing.title</source>
         <translation>Шрифты, используемые в документах, отсутствуют на этом компьютере</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.title</source>
+        <translation>Other Effect Options</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
@@ -2227,7 +2290,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Экспорт изображения Weibo.</translation>
+        <translation>Экспорт документа в изображение.</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
@@ -2277,7 +2340,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation>Изменение ориентации текста на вертикальную или горизонтальную для текущего раздела, всего документа, текстового поля или таблицы.</translation>
+        <translation>Изменение ориентации текста на вертикальную или горизонтальную.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
@@ -2309,7 +2372,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Просмотр страниц перед печатью и внесение необходимых изменений.</translation>
+        <translation>Предварительный просмотр и внесение изменений перед печатью.</translation>
     </message>
     <message>
         <source>SlideShowFromCurrent2.title</source>
@@ -2341,7 +2404,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation>Вставка клипа</translation>
+        <translation>Вставить клип</translation>
     </message>
     <message>
         <source>SelectAll.title</source>
@@ -2353,7 +2416,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation>Средства разработчика</translation>
+        <translation>Инструменты разработчика</translation>
     </message>
     <message>
         <source>DecreaseFontSize.content</source>
@@ -2381,11 +2444,15 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Центрирование текста в ячейке по горизонтали и по вертикали.</translation>
+        <translation>Выравнивание текста по центру по вертикали.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation>Автоматическое расположение содержимого, удобное пролистывание страниц.</translation>
+        <translation>Запуск слайд-шоу в окне WPS Presentation для просмотра анимации и эффектов перехода без переключения в полноэкранный режим.</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.title</source>
+        <translation>Начало воспроизведения</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
@@ -2429,9 +2496,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Поиск текста в документе.
-
-Щёлкните стрелку для выбора других параметров, например &quot;Перейти&quot;.</translation>
+        <translation>Поиск текста в презентации.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
@@ -2440,6 +2505,10 @@ Double click to copy to multiple objects.</translation>
     <message>
         <source>TableCenter.title</source>
         <translation>Выровнять по центру</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.content</source>
+        <translation>Удаляет все эффекты анимации из выбранных объектов, слайдов или всей презентации.</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
@@ -2467,7 +2536,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation>Ластик для таблицы</translation>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
@@ -2507,11 +2576,11 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation>Вставить номер страницы</translation>
+        <translation>Номер страницы</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
-        <translation>По центру</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>TableOnekeyBeautify.title</source>
@@ -2551,9 +2620,13 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation>Копирование элементов форматирования из одного места и применение к другому.
+        <translation>Копирование форматирования для применения в другом месте.
 
-Дважды щёлкните эту кнопку для применения одинакового форматирования к нескольким частям документа.</translation>
+Дважды щёлкните эту кнопку для применения одного форматирования нескольких местах в документе.</translation>
+    </message>
+    <message>
+        <source>AnimationText.title</source>
+        <translation>Анимация текста</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
@@ -2565,7 +2638,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Отправка документа на, используемый по умолчанию, принтер без внесения изменений.</translation>
+        <translation>Отправить документ без изменений на принтер, заданный по умолчанию.</translation>
     </message>
     <message>
         <source>ShadowButton.title</source>
@@ -2589,7 +2662,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Замена содержимого текста в документе.</translation>
+        <translation>Замена текста в документе.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
@@ -2601,7 +2674,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
+        <translation>Выберите размер бумаги для презентации, например A4, A3 или другой.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
@@ -2617,7 +2690,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>InsertEduTools.content</source>
-        <translation>InsertEduTools.content</translation>
+        <translation>Эксперт в создании учебных курсов. Поддержка нескольких дисциплин</translation>
     </message>
     <message>
         <source>AudioFadeOut.title</source>
@@ -2651,7 +2724,7 @@ Double click to copy to multiple objects.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Отправить на телефон</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
