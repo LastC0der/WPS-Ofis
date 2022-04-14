@@ -6689,7 +6689,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanı</translation>
     </message>
     <message>
         <source>Insert Text</source>
