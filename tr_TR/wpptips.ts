@@ -384,6 +384,10 @@ Click the arrow to select different fill effects.</translation>
         <translation>Transition Effects</translation>
     </message>
     <message>
+        <source>AnimationStartPlay.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DeleteMember.content</source>
         <translation>Delete the selected member</translation>
     </message>
@@ -394,6 +398,10 @@ Click the arrow to select different fill effects.</translation>
     <message>
         <source>sp_Macros.title</source>
         <translation>View Macros</translation>
+    </message>
+    <message>
+        <source>WppPhotoedit2.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
@@ -410,6 +418,10 @@ Click the arrow to select different fill effects.</translation>
     <message>
         <source>SlideMasterClose.title</source>
         <translation>Close Master View</translation>
+    </message>
+    <message>
+        <source>PictureTransparency.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PaperSize.title</source>
@@ -728,6 +740,10 @@ Click the arrow to select different fill effects.</translation>
         <translation>Align text to the left.</translation>
     </message>
     <message>
+        <source>PictureTransparency.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CustomShows.title</source>
         <translation>Custom Slide Shows</translation>
     </message>
@@ -784,6 +800,10 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     <message>
         <source>InsertTable.content</source>
         <translation>Insert or draw a table into the current slide.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
@@ -930,6 +950,10 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
         <translation>auto start or when click.</translation>
     </message>
     <message>
+        <source>AnimationDuration.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>DecreaseSpace.title</source>
         <translation>Decrease Spacing</translation>
     </message>
@@ -1012,6 +1036,10 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     <message>
         <source>TableRight.title</source>
         <translation>Align Text Right</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Numbering2.content</source>
@@ -1148,6 +1176,10 @@ Click the arrow to select different numbering formats.</translation>
     <message>
         <source>NewWindow.title</source>
         <translation>Yeni Pencere</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Security.content</source>
@@ -1322,6 +1354,10 @@ This creates a document with clean look.</translation>
         <translation>Export to Video</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>TextBox.content</source>
         <translation>Insert a horizontal text box into the document.</translation>
     </message>
@@ -1448,6 +1484,14 @@ This creates a document with clean look.</translation>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
         <translation>Şekil biçimlendirme ayarlarını değiştirin.</translation>
+    </message>
+    <message>
+        <source>WppPhotoedit2.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AnimationProperty.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>onlineMedia.title</source>
@@ -1820,6 +1864,10 @@ Click the arrow to insert file content into the document.</translation>
         <translation>Capture SlideShow</translation>
     </message>
     <message>
+        <source>AnimationDuration.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>presentationTool.title</source>
         <translation>Presentation Tool</translation>
     </message>
@@ -1942,6 +1990,14 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
         <translation>Delete Master</translation>
     </message>
     <message>
+        <source>AnimationText.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AnimationProperty.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Ai Matting.title</source>
         <translation type="unfinished"/>
     </message>
@@ -1952,6 +2008,10 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     <message>
         <source>StopAutoVersion.title</source>
         <translation>Otomatik Yedeklemeyi Durdur</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ColorScheme.content</source>
@@ -2030,6 +2090,10 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
         <translation>Magic</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>AudioPause.content</source>
         <translation>Pause audio.</translation>
     </message>
@@ -2099,6 +2163,10 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AnimationEffectOption.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2358,6 +2426,10 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
         <translation>Play a slide show in the Powerpoint window to view the animation and switch effect, and no need to switch to full screen slide show.</translation>
     </message>
     <message>
+        <source>AnimationStartPlay.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WorkSpace_Backup.content</source>
         <translation>Geçerli belge için otomatik veya manuel yedeklemeyi ayarlayın. Yedekleme Dosya Kasanıza kaydedilir.</translation>
     </message>
@@ -2410,6 +2482,10 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     <message>
         <source>TableCenter.title</source>
         <translation>Center</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AudioTrim.content</source>
@@ -2524,6 +2600,10 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
         <translation>Biçimlendirmeyi bir yerden kopyalayın ve başka bir yere uygulayın.
 
 Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi çift tıklayın.</translation>
+    </message>
+    <message>
+        <source>AnimationText.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DocumentFix.title</source>
