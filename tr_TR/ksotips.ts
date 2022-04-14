@@ -118,6 +118,10 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawEraser.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ShapeHeight.title</source>
         <translation>Şekil Yüksekliği</translation>
     </message>
@@ -264,6 +268,10 @@ Genişletme nesnesi içeriğini düzenle</translation>
         <translation>Bu çizimin şeklini değiştirin, serbest biçimli bir şekle dönüştürün veya metnin çizimin etrafına nasıl sarıldığını belirlemek için kaydırma noktalarını düzenleyin.</translation>
     </message>
     <message>
+        <source>InkDrawNiteWriterPen.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>KOSDocShare.content</source>
         <translation>Belgeyi bağlantı veya ek yoluyla paylaşın.</translation>
     </message>
@@ -309,6 +317,10 @@ Genişletme nesnesi içeriğini düzenle</translation>
     </message>
     <message>
         <source>DocumentSecurityCenter.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InkDrawColorGallery2.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -466,6 +478,10 @@ X ekseninde çizilen veriler Y eksenine veya tam tersine hareket edecektir.</tra
         <translation>Seçimdeki tüm biçimlendirmeyi temizleyin ve yalnızca düz metni bırakın.</translation>
     </message>
     <message>
+        <source>InkDrawExit.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>InsertSymbol.title</source>
         <translation>Sembol Ekle</translation>
     </message>
@@ -556,8 +572,16 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawBallPen.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Italic.content</source>
         <translation>Italicize the selected text.</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationInsertGallery.title</source>
@@ -580,12 +604,20 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
         <translation>Word art library.</translation>
     </message>
     <message>
+        <source>InkDrawNiteWriterPen.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ClearTableStyle.content</source>
         <translation>Clear table style of selected cells.</translation>
     </message>
     <message>
         <source>Theme Colors.title</source>
         <translation>Theme Colors</translation>
+    </message>
+    <message>
+        <source>InkDrawSelectMode.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationScriptGallery.title</source>
@@ -700,6 +732,10 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawTouchToDraw.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>EquationLargeOperatorGallery.content</source>
         <translation type="unfinished"/>
     </message>
@@ -792,6 +828,10 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
         <translation>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</translation>
     </message>
     <message>
+        <source>InkDrawPenGallery.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PictureFill.content</source>
         <translation>Fill the selected object with a color, gradient, pattern and picture.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Click the arrow to select different fill effects.</translation>
     </message>
@@ -818,6 +858,10 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     <message>
         <source>FormatObject.content</source>
         <translation>Use&apos;Format Object‘task pane to fine tune the appearance of your shape</translation>
+    </message>
+    <message>
+        <source>AIAssistant.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationProfessional.content</source>
@@ -894,6 +938,10 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     <message>
         <source>PictureOutline2.content</source>
         <translation>Click the arrow to select detailed settings for the outline.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ChangeChartType.title</source>
@@ -1102,6 +1150,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
         <translation>Show the Format task pane to fine-tune formatting for the selected chart element.</translation>
     </message>
     <message>
+        <source>InkDrawTouchToDraw.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ShapeFormatStyle.content</source>
         <translation>Apply different preset effect to the selected shape.</translation>
     </message>
@@ -1140,6 +1192,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     <message>
         <source>BringForward.content</source>
         <translation>Bring the selected object forward so that it is hidden by fewer objects that are in front of it.</translation>
+    </message>
+    <message>
+        <source>InkDrawEnter.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
@@ -1192,6 +1248,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     <message>
         <source>ResetToFitStyle.content</source>
         <translation>Clear the custom formatting of the selected chart element back to the overall visual style applied to the chart.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The ensures that selected chart element matches the overall theme of the document.</translation>
+    </message>
+    <message>
+        <source>InkDrawEnter.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EquationAccentGallery.title</source>
@@ -1271,6 +1331,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     </message>
     <message>
         <source>OnlineIconMore.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1442,6 +1506,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
         <translation>Change the overall layout of the chart.</translation>
     </message>
     <message>
+        <source>AIAssistant.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>CTB_ViewCode.title</source>
         <translation>View Code</translation>
     </message>
@@ -1482,8 +1550,16 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
         <translation>Data Recover</translation>
     </message>
     <message>
+        <source>InkDrawSelectMode.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>MarkVersion.title</source>
         <translation>Manual Backup</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextboxBeautify.content</source>
@@ -1520,6 +1596,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     <message>
         <source>WordArtSameLetterHeights.content</source>
         <translation>Make all the letters of the selected WordArt exactly the same height.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NudgeShadowRight.title</source>
@@ -1594,6 +1674,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
         <translation>Online Pictures</translation>
     </message>
     <message>
+        <source>InkDrawColorGallery.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Copy.content</source>
         <translation>Seçimi kopyalayın ve sistem panosuna yerleştirin.</translation>
     </message>
@@ -1662,12 +1746,24 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawEraser.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ClearTableStyle.title</source>
         <translation>Clear Table Style</translation>
     </message>
     <message>
         <source>DocPermissionProtection.title</source>
         <translation>Doc Permission Protection&apos;s title</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Protect_Eyes_Night.title</source>
@@ -1714,6 +1810,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawPenGallery.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Photo2Pdf.title</source>
         <translation>Photo to Pdf</translation>
     </message>
@@ -1724,6 +1824,10 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     <message>
         <source>Night_Mode.content</source>
         <translation>Gözlerinizi korumak için Gece Moduna geçin.</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery2.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ExportToPDF.content</source>
