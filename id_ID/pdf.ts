@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>border color:</source>
-        <translation type="unfinished"/>
+        <translation>Warna Batas :</translation>
     </message>
     <message>
         <source>Check</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>fill color:</source>
-        <translation type="unfinished"/>
+        <translation>Isi Warna :</translation>
     </message>
     <message>
         <source>Annotation Properties</source>
@@ -167,11 +167,11 @@
     </message>
     <message>
         <source>End(E):</source>
-        <translation>Selesai :</translation>
+        <translation>Panah Akhir :</translation>
     </message>
     <message>
         <source>end(E):</source>
-        <translation type="unfinished"/>
+        <translation>Panah Akhir :</translation>
     </message>
     <message>
         <source>General</source>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Horizontal:</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal: </translation>
     </message>
     <message>
         <source>Transparency:</source>
@@ -362,7 +362,7 @@
     </message>
     <message>
         <source>Vertical:</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal:</translation>
     </message>
     <message>
         <source>rotate-45°</source>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>Load page effect</source>
-        <translation>Efek halaman memuat:</translation>
+        <translation>Efek halaman memuat</translation>
     </message>
     <message>
         <source>Doc read options</source>
@@ -662,7 +662,7 @@
     </message>
     <message>
         <source>Cloud Synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Sinkronisasi Cloud</translation>
     </message>
     <message>
         <source>Default layout&apos;s mode and scale</source>
@@ -702,7 +702,7 @@
     </message>
     <message>
         <source>Auto Select</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Otomatis</translation>
     </message>
     <message>
         <source>Fit Width</source>
@@ -734,7 +734,7 @@
     </message>
     <message>
         <source>Always ask</source>
-        <translation>Selalu tanyakan(&amp;A)</translation>
+        <translation>Selalu tanyakan</translation>
     </message>
     <message>
         <source>Multi Progress Tips</source>
@@ -742,7 +742,7 @@
     </message>
     <message>
         <source>Enable Association Protection</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan Perlindungan Asosisasi</translation>
     </message>
     <message>
         <source>Hide page gap</source>
@@ -770,11 +770,11 @@
     </message>
     <message>
         <source>PDF Signature</source>
-        <translation type="unfinished"/>
+        <translation>Tanda tangan PDF</translation>
     </message>
     <message>
         <source>Verification of a signature when opening a document</source>
-        <translation>Verifikasi tanda tangan saat membuka dokumen(&amp;V)</translation>
+        <translation>Verifikasi tanda tangan saat membuka dokumen</translation>
     </message>
     <message>
         <source>Set as default PDF reader</source>
@@ -790,7 +790,7 @@
     </message>
     <message>
         <source>AssociateSetting</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Asosiasi</translation>
     </message>
     <message>
         <source>NormalSetting</source>
@@ -810,7 +810,7 @@
     </message>
     <message>
         <source>No inquiries</source>
-        <translation>Jangan tanyakan(&amp;N)</translation>
+        <translation>Jangan tanyakan</translation>
     </message>
     <message>
         <source>Alpha Anim</source>
@@ -952,7 +952,7 @@
     </message>
     <message>
         <source>Edit WaterMark</source>
-        <translation type="unfinished"/>
+        <translation>Edit tanda air</translation>
     </message>
     <message>
         <source>Update WaterMark</source>
@@ -996,7 +996,7 @@
     </message>
     <message>
         <source>watermark export failed!</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengatur tanda air bawaan.</translation>
     </message>
     <message>
         <source>PDF water mark is VIP exclusive privilege</source>
@@ -1012,7 +1012,7 @@
     </message>
     <message>
         <source>Cannot find the current custom watermark save location, please check whether the current login account is the original account</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menemukan lokasi di mana watermark kustom saat ini disimpan. Cek apakah akun yang saat ini tercatat masuk adalah akun asli.</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -1044,7 +1044,7 @@
     </message>
     <message>
         <source>There are more than 20. Please delete them and add them later</source>
-        <translation type="unfinished"/>
+        <translation>Anda telah menambah lebih dari 20 tanda air. Hapus beberapa tanda air dan tambah lagi.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1193,7 +1193,7 @@
     </message>
     <message>
         <source>The signer identity is unknown because it is not a trusted certificate and its parent certificate is not a trusted certificate.</source>
-        <translation type="unfinished"/>
+        <translation>Identitas penandatangan tidak dikenal karena bukan sertifikat tepercaya dan sertifikat induknya bukan sertifikat tepercaya.</translation>
     </message>
     <message>
         <source>TwoTimesSpeedScrollDown</source>
@@ -1287,7 +1287,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Memory allocation failure.</source>
-        <translation type="unfinished"/>
+        <translation>Permintaan memori gagal.</translation>
     </message>
     <message>
         <source>Clip image failed, please try again.</source>
@@ -1323,7 +1323,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signer certificate is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat penandatangan valid.</translation>
     </message>
     <message>
         <source>Continue to edit</source>
@@ -1339,7 +1339,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Cannot open a document to be signed as read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat membuka dokumen untuk ditandai hanya baca.</translation>
     </message>
     <message>
         <source>Are you sure to delete the selected page?The operation is irrevocable</source>
@@ -1355,11 +1355,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signature is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Tanda tangan valid.</translation>
     </message>
     <message>
         <source>BackupFile</source>
-        <translation type="unfinished"/>
+        <translation>(Pencadangan)</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -1371,7 +1371,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signature details.</source>
-        <translation type="unfinished"/>
+        <translation>Detail tanda tangan.</translation>
     </message>
     <message>
         <source>Are you sure to delete all history files?</source>
@@ -1391,19 +1391,19 @@ Please batches operations</source>
     </message>
     <message>
         <source>Repair Document</source>
-        <translation type="unfinished"/>
+        <translation>Perbaiki Dokumen</translation>
     </message>
     <message>
         <source>Visible signature.</source>
-        <translation type="unfinished"/>
+        <translation>Tanda tangan terlihat.</translation>
     </message>
     <message>
         <source>Invisible signature.</source>
-        <translation type="unfinished"/>
+        <translation>Tanda tangan tidak terlihat.</translation>
     </message>
     <message>
         <source>PDF electronic invoice print loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal memuat faktur untuk dicetak.</translation>
     </message>
     <message>
         <source>Adding attachment</source>
@@ -1427,7 +1427,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Cannot open a document to be signed as write-only.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat membuka dokumen yang ditandai hanya tulis.</translation>
     </message>
     <message>
         <source>Cannot open this file</source>
@@ -1464,15 +1464,15 @@ Please batches operations</source>
     </message>
     <message>
         <source>There is an error in the signed certificate area in the document.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan di area sertifikat dalam dokumen.</translation>
     </message>
     <message>
         <source>AI OCR2PDF loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Pemuatan alat pengenalan pemindaian gagal.</translation>
     </message>
     <message>
         <source>Failed to open the signature file.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuka file tanda tangan.</translation>
     </message>
     <message>
         <source>return clip current page</source>
@@ -1536,11 +1536,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signer cert is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Identitas penandatangan valid.</translation>
     </message>
     <message>
         <source>New BIO failed.</source>
-        <translation type="unfinished"/>
+        <translation>BIO baru gagal.</translation>
     </message>
     <message>
         <source>The Security document save must have edit right</source>
@@ -1576,7 +1576,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>PDF invoice assist loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal memuat asisten faktur.</translation>
     </message>
     <message>
         <source>FoldNote</source>
@@ -1629,7 +1629,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Unsupported signature format.</source>
-        <translation type="unfinished"/>
+        <translation>Format tanda tangan tidak didukung.</translation>
     </message>
     <message>
         <source>The Security document can not be inserted for ole</source>
@@ -1637,7 +1637,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Save prompt</source>
-        <translation type="unfinished"/>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>Changes would not be undone after saving as compression, sure to continue?</source>
@@ -1645,7 +1645,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Normal Files (Text/Word format; Form/Excel format; Demo/PowerPoint format; Image Files)</source>
-        <translation type="unfinished"/>
+        <translation>File Normal (format Teks/Word; format Formulir/Excel; format Demo/PowerPoint; File Gambar)</translation>
     </message>
     <message>
         <source>If the information the site, click &quot; Allow &quot;, otherwise select &quot; Disable &quot; </source>
@@ -1686,7 +1686,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>PaperCheck loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Pemuatan PaperCheck gagal.</translation>
     </message>
     <message>
         <source>%1 page</source>
@@ -1694,7 +1694,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signing document exception, certificate conversion failed.</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan dokumen tanda tangan. Konversi sertifikat gagal.</translation>
     </message>
     <message>
         <source>No matches found. The current document encoding is missing, and the document content may not be found properly</source>
@@ -1710,11 +1710,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>There is an error in the document and the /Cert cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan dalam dokumen dan /Cert tidak dapat diperoleh.</translation>
     </message>
     <message>
         <source>Unsupported digest algorithm type.</source>
-        <translation type="unfinished"/>
+        <translation>Jenis algoritma ringkasan tidak didukung.</translation>
     </message>
     <message>
         <source>The document is Picture, You can only add text.</source>
@@ -1752,7 +1752,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Can&apos;t get the signature page info.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak bisa mendapatkan info halaman tanda tangan.</translation>
     </message>
     <message>
         <source>Insert Pdf file page Too Large</source>
@@ -1796,7 +1796,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>There is an error in the document and the /ByteRange cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan dalam dokumen dan /ByteRange tidak dapat diperoleh.</translation>
     </message>
     <message>
         <source>Link function is VIP function, please upgrade VIP</source>
@@ -1812,7 +1812,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi</translation>
     </message>
     <message>
         <source>OneTimesSpeedScrollUp</source>
@@ -1840,15 +1840,15 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Signing encrypted files is not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Menandatangani file terenkripsi tidak didukung.</translation>
     </message>
     <message>
         <source>No signature object found.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ditemukan objek tanda tangan.</translation>
     </message>
     <message>
         <source>_Watermark</source>
-        <translation type="unfinished"/>
+        <translation>_Sisipkan Tanda Air</translation>
     </message>
     <message>
         <source>The erased content cannot be displayed after saving. Do you want to save it?</source>
@@ -1913,7 +1913,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Image Files(*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff)|*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff</source>
-        <translation type="unfinished"/>
+        <translation>File Gambar (*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff)|*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff</translation>
     </message>
     <message>
         <source>This Security document The Version not Support</source>
@@ -1921,11 +1921,11 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>There is an error in the document and the /V cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan dalam dokumen dan /V tidak dapat diperoleh.</translation>
     </message>
     <message>
         <source>Can&apos;t verify because sign data error.</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan data tanda tangan. Tidak dapat memverifikasi.</translation>
     </message>
     <message>
         <source>Cannot open this file &quot;%s&quot;, Please check that source files are available!</source>
@@ -1973,7 +1973,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Too many pages inserted, only the first 5 pages are inserted.</source>
-        <translation type="unfinished"/>
+        <translation>Terlalu banyak halaman disisipkan, hanya 5 halaman pertama yang disisipkan.</translation>
     </message>
     <message>
         <source>WPSFile(*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm)|*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm</source>
@@ -2006,7 +2006,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>There is an error in the document and the /SubFilter cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan dalam dokumen dan /SubFilter tidak dapat diperoleh.</translation>
     </message>
     <message>
         <source>Cannot correct,Non-scanning correction may reduce document quality,recommended cropping.</source>
@@ -2026,7 +2026,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Please save the erased content first. After saving, undo processing is not supported. Do you want to save it?</source>
-        <translation type="unfinished"/>
+        <translation>Beberapa konten dokumen Anda telah dihapus. Kami sarankan untuk mencadangkan dokumen asli terlebih dahulu karena Anda tidak dapat membatalkan penghapusan setelah menyimpannya. Apakah Anda yakin ingin menyimpan?</translation>
     </message>
     <message>
         <source>PDF Post Match function loading failed.</source>
@@ -2070,7 +2070,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Invalid signature.</source>
-        <translation type="unfinished"/>
+        <translation>Tanda tangan tidak valid.</translation>
     </message>
     <message>
         <source>Extracting text</source>
@@ -2078,7 +2078,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Document Repair</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan Dokumen</translation>
     </message>
     <message>
         <source>Text boxes cannot be merged</source>
@@ -2096,7 +2096,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
+        <translation>%1tahun%2bulan%3hari</translation>
     </message>
     <message>
         <source>The current document need to be saved before merge.</source>
@@ -2113,7 +2113,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>The document has been modified since it was signed.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen telah diubah sejak ditandatangani.</translation>
     </message>
     <message>
         <source>This file may contain or harm you change the machine program, if allowed to run?</source>
@@ -2224,11 +2224,11 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Input error</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan input.</translation>
     </message>
     <message>
         <source>custom</source>
@@ -2329,11 +2329,11 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Online Security PDF Files (*.pdf)|*.pdf|</source>
-        <translation type="unfinished"/>
+        <translation>File PDF Keamanan Online (*.pdf)|*.pdf|</translation>
     </message>
     <message>
         <source>All Pictures(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Semua Gambar(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</translation>
     </message>
     <message>
         <source>Attachment is VIP function, please upgrade VIP</source>
@@ -2345,15 +2345,15 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>The Function is Exclusive</source>
-        <translation type="unfinished"/>
+        <translation>Fitur dibatasi.</translation>
     </message>
     <message>
         <source>All Pictures(*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif)|*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif</source>
-        <translation type="unfinished"/>
+        <translation>Semua Gambar(*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif)|*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif</translation>
     </message>
     <message>
         <source>This file type is not supported</source>
-        <translation type="unfinished"/>
+        <translation>Jenis file ini tidak didukung</translation>
     </message>
     <message>
         <source>Document in %s</source>
@@ -2378,7 +2378,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Sure to delete selected attachments?</source>
-        <translation type="unfinished"/>
+        <translation>Yakin ingin menghapus lampiran yang dipilih?</translation>
     </message>
     <message>
         <source>Ebook Files(*.mobi;*.epub) | *.mobi;*.epub; |</source>
@@ -2395,11 +2395,11 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>The Function is Exclusive functions of enterprise,You don&apos;t have The Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Ini hak akses eksklusif hanya untuk pengguna perusahaan. Nyalakan ulang dan coba lagi. Jika masih bermasalah, hubungi administrator IT atau layanan pelanggan WPS 400-677-5005.</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.pdf)|*.pdf</source>
-        <translation type="unfinished"/>
+        <translation>Format Dokumen Keamanan Online WPS (*.pdf)|*.pdf</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -2407,11 +2407,11 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Failed to add attachment because of insufficient memory</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menambahkan lampiran karena memori tidak cukup</translation>
     </message>
     <message>
         <source>Entered the form filling mode, click the document line, box and other positions to start filling.</source>
-        <translation type="unfinished"/>
+        <translation>Masuk mode pengisian formulir. Klik garis horizontal dokumen, kotak, dan lokasi lainnya untuk memulai pengisian.</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
@@ -2423,11 +2423,11 @@ Operasi ini tidak dapat dibatalkan</translation>
     </message>
     <message>
         <source>Failed to add attachment</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menambahkan lampiran</translation>
     </message>
     <message>
         <source>certificate file (*.pfx;*.p12)|*.pfx;*.p12|</source>
-        <translation type="unfinished"/>
+        <translation>File Sertifikat Digital (*.pfx;*.p12)|*.pfx;*.p12|</translation>
     </message>
 </context>
 <context>
@@ -2913,7 +2913,7 @@ Operasi ini tidak dapat dibatalkan</translation>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. 
 For example, 1,3,5-12.</source>
-        <translation type="unfinished"/>
+        <translation>Ketikkan nomor halaman dan/atau rentang halaman dipisahkan dengan koma. Misalnya, ketik 1, 3 atau 5-12.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -3039,7 +3039,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>top:</source>
-        <translation type="unfinished"/>
+        <translation>Atas:</translation>
     </message>
     <message>
         <source>PIXEL</source>
@@ -3051,11 +3051,11 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>left:</source>
-        <translation type="unfinished"/>
+        <translation>Kiri:</translation>
     </message>
     <message>
         <source>Margin Settings</source>
-        <translation type="unfinished"/>
+        <translation>Margin</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -3063,7 +3063,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>right:</source>
-        <translation type="unfinished"/>
+        <translation>Kanan:</translation>
     </message>
     <message>
         <source>out of print range</source>
@@ -3071,11 +3071,11 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>bottom:</source>
-        <translation type="unfinished"/>
+        <translation>Bawah:</translation>
     </message>
     <message>
         <source>The current printer has a margin limit. The setting is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Printer saat ini dalam limit pengaturan margin. Pengaturan tidak valid.</translation>
     </message>
 </context>
 <context>
@@ -3187,15 +3187,15 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>continue to scan more pages</source>
-        <translation type="unfinished"/>
+        <translation>lanjutkan untuk memindai halaman lainnya</translation>
     </message>
     <message>
         <source>scan is completed or scan more pages?</source>
-        <translation type="unfinished"/>
+        <translation>Selesaikan pemindaian atau pindai halaman lainnya?</translation>
     </message>
     <message>
         <source>continue to scan reverse page</source>
-        <translation type="unfinished"/>
+        <translation>lanjutkan untuk memindai halaman kebalikannya</translation>
     </message>
 </context>
 <context>
@@ -3210,11 +3210,11 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>If you need to change the default software, you can modify it through the open method in the file properties.</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda perlu mengubah perangkat lunak default, Anda dapat mengubahnya melalui metode terbuka dalam properti file.</translation>
     </message>
     <message>
         <source>Protect PDF files to open with WPS by default</source>
-        <translation type="unfinished"/>
+        <translation>Buka file PDF terproteksi dengan WPS secara default</translation>
     </message>
     <message>
         <source>Quick Task Tools</source>
@@ -3226,23 +3226,23 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>What is cloud synchronization?</source>
-        <translation type="unfinished"/>
+        <translation>Apa itu sinkronisasi cloud?</translation>
     </message>
     <message>
         <source>ReadSetting</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Baca</translation>
     </message>
     <message>
         <source>Cloud synchronization description</source>
-        <translation type="unfinished"/>
+        <translation>Jika Sinkronisasi Cloud diaktifkan, tanda tangan PDF secara otomatis akan disinkronkan ke cloud.&lt;br&gt; Setelah penyinkronan, masuk ke akun WPS di perangkat lain, maka kemudian Anda akan bisa menggunakan tanda tangan yang disinkronkan.</translation>
     </message>
     <message>
         <source>NormalSetting</source>
-        <translation type="unfinished"/>
+        <translation>Umum</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
 </context>
 <context>
@@ -3257,7 +3257,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Ok(C)</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>total %2 pages</source>
@@ -3277,7 +3277,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>has checked %1 </source>
@@ -3330,11 +3330,11 @@ Masukkan 5-9, berarti ekstrak halaman 5 hingga 9</translation>
     </message>
     <message>
         <source>Ctrl + Roll back the mouse wheel or Ctrl + &apos;-&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Tekan dan tahan tombol Ctrl dan putar roda mouse ke belakang, atau tekan dan tahan tombol Ctrl kemudian tekan &apos;-&apos;</translation>
     </message>
     <message>
         <source>Ctrl + Roll forward the mouse wheel or Ctrl + &apos;+&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Tekan dan tahan tombol Ctrl dan putar roda mouse ke depan, atau tekan dan tahan tombol Ctrl kemudian tekan &apos;+&apos;</translation>
     </message>
     <message>
         <source>Esc or Ctrl+Break</source>
@@ -3762,7 +3762,7 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     </message>
     <message>
         <source>Insert Pages From Images</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Halaman Dari Gambar</translation>
     </message>
     <message>
         <source>InsertImage is a VIP privilege</source>
@@ -3770,7 +3770,7 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     </message>
     <message>
         <source>MoreScannerOpt</source>
-        <translation type="unfinished"/>
+        <translation>Opsi Pemindai Lainnya</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3778,11 +3778,11 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     </message>
     <message>
         <source>Insert Pages From File</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Halaman Dari File</translation>
     </message>
     <message>
         <source>Insert Pages From Scan</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Halaman Dari Pemindai</translation>
     </message>
     <message>
         <source>Only insert 5 pages</source>
@@ -3790,7 +3790,7 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     </message>
     <message>
         <source>Can&apos;t get date from scanner, the operation is terminated</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengambil pindaian data. Operasi terhenti. Cek dan coba lagi.</translation>
     </message>
     <message>
         <source>Unable to process the file, please make sure it&apos;s valid</source>
@@ -3798,7 +3798,7 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     </message>
     <message>
         <source>Insert Pages From Clipborad</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Halaman Dari Papan Klip</translation>
     </message>
     <message>
         <source>Default document size (%1x%2mm)</source>
@@ -3818,7 +3818,7 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     </message>
     <message>
         <source>Select Scaner</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Pemindai</translation>
     </message>
     <message>
         <source>Is Inserting</source>
@@ -3826,7 +3826,7 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     </message>
     <message>
         <source>Insert 5 or more scanPages  is enterprise authority privilege</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Sisipkan 5 atau Lebih Pindaian Salinan&quot; adalah hak akses eksklusif untuk pengguna perusahaan.</translation>
     </message>
     <message>
         <source>Insert Blank Pages</source>
@@ -4087,7 +4087,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Copy Picture</source>
-        <translation type="unfinished"/>
+        <translation>Salin Gambar</translation>
     </message>
     <message>
         <source>edit member prompt</source>
@@ -4095,7 +4095,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Login WPS account to get a complete functional experience</source>
-        <translation type="unfinished"/>
+        <translation>Masuk dengan akun WPS untuk mengakses semua fitur dan mendapatkan pengalaman lengkap.</translation>
     </message>
     <message>
         <source>Text query has been moved here</source>
@@ -4103,11 +4103,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>edit image is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Edit Gambar&quot; adalah fitur VIP. Silakan daftar untuk keanggotaan.</translation>
     </message>
     <message>
         <source>InvoicePrint has been Upgraded to BillMgr</source>
-        <translation type="unfinished"/>
+        <translation>[Pencetakan Faktur] telah ditingkatkan ke [Pemegang Faktur WPS].</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4119,15 +4119,15 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Save As(Trial)</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Sebagai(Uji Coba)</translation>
     </message>
     <message>
         <source>edit content is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Edit Konten&quot; adalah fitur berbayar. Tingkatkan dulu ke Premium.</translation>
     </message>
     <message>
         <source>edit text is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Edit Teks&quot; adalah fitur VIP. Silakan daftar untuk keanggotaan.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is VIP function, please upgrade VIP</source>
@@ -4151,7 +4151,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>The invoice printing function can be executed in the BillMgr</source>
-        <translation type="unfinished"/>
+        <translation>Fitur pencetakan faktur dapat dilakukan dalam [Pemegang Faktur WPS].</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -4175,11 +4175,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Save(Trial)</source>
-        <translation type="unfinished"/>
+        <translation>Simpan(Uji Coba)</translation>
     </message>
     <message>
         <source>Correction fluid is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Hapus&quot; adalah fitur VIP. Silakan daftar untuk keanggotaan.</translation>
     </message>
     <message>
         <source>Correction Extraction login prompt</source>
@@ -4196,11 +4196,11 @@ log in to save changes?</source>
     </message>
     <message>
         <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen pencadangan saat ini telah menggunakan fitur Premium pengeditan PDF. Tingkatkan ke Premium untuk menyimpan dokumen yang diubah.</translation>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
+        <translation>%1tahun%2bulan%3hari</translation>
     </message>
     <message>
         <source>EditText</source>
@@ -4303,7 +4303,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Open Directory(R)</source>
-        <translation type="unfinished"/>
+        <translation>Buka Direktori (R)</translation>
     </message>
     <message>
         <source>Export Directory:</source>
@@ -4311,19 +4311,19 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Document exporting</source>
-        <translation type="unfinished"/>
+        <translation>Pengeksporan dokumen</translation>
     </message>
     <message>
         <source>Open File(A)</source>
-        <translation type="unfinished"/>
+        <translation>Buka File(A)</translation>
     </message>
     <message>
         <source>Exported successfully</source>
-        <translation type="unfinished"/>
+        <translation>Pengeksporan berhasil.</translation>
     </message>
     <message>
         <source>Exported failed, please retry</source>
-        <translation type="unfinished"/>
+        <translation>Pengeksporan gagal. Silakan coba lagi.</translation>
     </message>
 </context>
 <context>
@@ -4507,7 +4507,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>SaveAsPermission:</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Sebagai:</translation>
     </message>
     <message>
         <source>Not Allowed</source>
@@ -4755,7 +4755,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Embedding signatures/stamp in documents, this operation cannot be undone, do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda menanamkan tanda tangan/stempel dalam dokumen, Anda tidak dapat membatalkan operasi ini. Apakah Anda yakin ingin melanjutkan?</translation>
     </message>
     <message>
         <source>Example</source>
@@ -4818,7 +4818,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Synchronize to cloud</source>
-        <translation>Sinkronkan ke Cloud</translation>
+        <translation>Sinkronisasi Cloud</translation>
     </message>
     <message>
         <source>The size of the inserted image is too large.</source>
@@ -4851,7 +4851,9 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Cloud synchronization description</source>
-        <translation>Jika Sinkronisasi Cloud diaktifkan, tanda tangan PDF secara otomatis akan disinkronkan ke cloud.&lt;br&gt; Setelah penyinkronan, masuk ke akun WPS di perangkat lain, maka kemudian Anda akan bisa menggunakan tanda tangan yang disinkronkan.</translation>
+        <translation>Tanda tangan akan disinkronkan secara otomatis ke awan.
+Jika Anda masuk dengan akun yang sama di perangkat lain,
+Anda masih dapat menggunakan tanda tangan yang disinkronkan.</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -4982,7 +4984,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cannot find waterMark that can be removed in the file.If you can see the watermark, it cannot be deleted because it is not a standard watermark format.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mendeteksi tanda air yang dapat dihapus dalam file. Tanda air yang Anda lihat mungkin tidak dalam format standar sehingga tidak dapat dihapus.</translation>
     </message>
     <message>
         <source>Cannot find waterMark that can be removed in the file.&lt;br/&gt;The waterMark may not be added through kingsoft PDF.</source>
@@ -5274,7 +5276,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>please select ca for encrypt pdf file</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan sertifikat digital untuk mengenkripsi file.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -5282,7 +5284,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>import</source>
-        <translation type="unfinished"/>
+        <translation>impor</translation>
     </message>
     <message>
         <source>Is Encrypt</source>
@@ -5301,7 +5303,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>you can select ca where added before to encrypt pdf file</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat memilih sertifikat digital yang ditambahkan sebelum mengenkripsi file.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -5316,11 +5318,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>delete ca</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Sertifikat Digital</translation>
     </message>
     <message>
         <source>CA encrypt tip</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi Sertifikat Digital</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5328,15 +5330,15 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>some ca has imported,cannt import again.</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat duplikat telah difilter.</translation>
     </message>
     <message>
         <source>cannt import ca used to digital ca.</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan sertifikat yang dapat digunakan untuk enkripsi berbasis kunci.</translation>
     </message>
     <message>
         <source>The file is encrypt by ca,please install ca or connect the auth to get ca file.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen ini menggunakan enkripsi sertifikat digital. Instal sertifikat digital yang sesuai, atau hubungi pemilik dokumen untuk memperoleh sertifikat digital.</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -5344,23 +5346,23 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>install ca</source>
-        <translation type="unfinished"/>
+        <translation>Instal Sertifikat</translation>
     </message>
     <message>
         <source>the operation will be delete local ca file also,please confirm the ca dosnt has other use.</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat lokal akan dihapus bersamaan. Pastikan sertifikat tidak digunakan untuk mendekripsi dokumen. Apakah Anda yakin ingin melanjutkan?</translation>
     </message>
     <message>
         <source>can&apos;t open file</source>
-        <translation type="unfinished"/>
+        <translation>tidak dapat membuka file</translation>
     </message>
     <message>
         <source>imported tip</source>
-        <translation type="unfinished"/>
+        <translation>Impor Sertifikat Digital</translation>
     </message>
     <message>
         <source>Encrypt list has expire ca,please remove it.</source>
-        <translation type="unfinished"/>
+        <translation>Daftar enkripsi berisi sertifikat digital yang telah berakhir. Hapus sertifikat yang sudah berakhir dan coba lagi.</translation>
     </message>
 </context>
 <context>
@@ -5492,11 +5494,11 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfTableExtractDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>all page</source>
-        <translation type="unfinished"/>
+        <translation>Semua halaman</translation>
     </message>
 </context>
 <context>
@@ -5718,7 +5720,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Print</source>
@@ -5726,7 +5728,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Cepat</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -5766,7 +5768,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Pages From Pic</source>
-        <translation type="unfinished"/>
+        <translation>Pilih dari Gambar</translation>
     </message>
     <message>
         <source>Pages From Doc</source>
@@ -5786,7 +5788,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SplitMerge</source>
-        <translation type="unfinished"/>
+        <translation>Pisah/Gabung Dokumen</translation>
     </message>
     <message>
         <source>StatusBar Slider Zoom</source>
@@ -5818,7 +5820,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SplitAndMergePage</source>
-        <translation type="unfinished"/>
+        <translation>Pecah dan Gabung</translation>
     </message>
     <message>
         <source>Paste Comment</source>
@@ -5826,11 +5828,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Pages From Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Pilih dari Papan Klip</translation>
     </message>
     <message>
         <source>CA Management</source>
-        <translation type="unfinished"/>
+        <translation>Manajemen CA</translation>
     </message>
     <message>
         <source>EbookReadType</source>
@@ -5842,7 +5844,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SplitPDFPage</source>
-        <translation type="unfinished"/>
+        <translation>Pecah PDF</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -5850,7 +5852,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ImageForwardLayer</source>
-        <translation type="unfinished"/>
+        <translation>Pindahkan ke Depan</translation>
     </message>
     <message>
         <source>Auto Wheel</source>
@@ -5902,7 +5904,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>MergePDFPage</source>
-        <translation type="unfinished"/>
+        <translation>Gabung PDF</translation>
     </message>
     <message>
         <source>HeadAnnotate</source>
@@ -5914,7 +5916,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"/>
+        <translation>Rata</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType</source>
@@ -5954,7 +5956,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan Faktur</translation>
     </message>
     <message>
         <source>Update Watermark</source>
@@ -5978,7 +5980,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractText2Word</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor sebagai Dokumen Word</translation>
     </message>
     <message>
         <source>AnnotManagement</source>
@@ -5994,7 +5996,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Translate Pane</source>
-        <translation type="unfinished"/>
+        <translation>Terjemahkan</translation>
     </message>
     <message>
         <source>ClipPage</source>
@@ -6018,7 +6020,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractTextCopyText</source>
-        <translation type="unfinished"/>
+        <translation>Salin Teks</translation>
     </message>
     <message>
         <source>FloatSelectionTool</source>
@@ -6218,7 +6220,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan</translation>
     </message>
     <message>
         <source>BatchEmbedDocument</source>
@@ -6226,7 +6228,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Split and Merge</source>
-        <translation type="unfinished"/>
+        <translation>Pecah dan Gabung</translation>
     </message>
     <message>
         <source>Annotate</source>
@@ -6246,7 +6248,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractScrawl</source>
-        <translation type="unfinished"/>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>DeleteEraserMenu</source>
@@ -6402,7 +6404,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Komentar</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -6414,7 +6416,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDF Export as Photo</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor PDF ke Foto</translation>
     </message>
     <message>
         <source>EditPicExit</source>
@@ -6518,7 +6520,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search and repace pane</source>
-        <translation type="unfinished"/>
+        <translation>Temukan dan Ganti</translation>
     </message>
     <message>
         <source>ClipPageRange</source>
@@ -6582,7 +6584,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Pages From Scan</source>
-        <translation type="unfinished"/>
+        <translation>Pilih dari Pemindai</translation>
     </message>
     <message>
         <source>Form Filling</source>
@@ -6610,7 +6612,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Set MarkAttribute</source>
-        <translation type="unfinished"/>
+        <translation>Properti</translation>
     </message>
     <message>
         <source>FoldAllNote</source>
@@ -6714,7 +6716,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>property</source>
-        <translation type="unfinished"/>
+        <translation>PROPERTI</translation>
     </message>
     <message>
         <source>PDF2Excel</source>
@@ -6742,7 +6744,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FindFunctions</source>
-        <translation type="unfinished"/>
+        <translation>Cari Fitur</translation>
     </message>
     <message>
         <source>ApplyOtherPage</source>
@@ -6750,11 +6752,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PdfInvoiceAssist</source>
-        <translation type="unfinished"/>
+        <translation>Bantuan Faktur</translation>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation type="unfinished"/>
+        <translation>Cetak Batch</translation>
     </message>
     <message>
         <source>FloatFitSize</source>
@@ -6774,7 +6776,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>InstructBox</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Komentar</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
@@ -6870,7 +6872,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ImageBackLayer</source>
-        <translation type="unfinished"/>
+        <translation>Pindahkan ke Belakang</translation>
     </message>
     <message>
         <source>clockwise doc</source>
@@ -6882,7 +6884,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractText2Excel</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor sebagai Dokumen Excel</translation>
     </message>
     <message>
         <source>PasteText</source>
@@ -6906,7 +6908,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Annotations</source>
-        <translation type="unfinished"/>
+        <translation>Anotasi</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -7038,7 +7040,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>CA Encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi CA</translation>
     </message>
     <message>
         <source>SplitSetPage</source>
@@ -7050,7 +7052,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Hierarki</translation>
     </message>
     <message>
         <source>MergePDF</source>
@@ -7106,7 +7108,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TextContentQuery</source>
-        <translation type="unfinished"/>
+        <translation>Cari Isi Dokumen</translation>
     </message>
     <message>
         <source>Bg_Huyan</source>
@@ -7190,7 +7192,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>addnewcatalog</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan ke Direktori</translation>
     </message>
     <message>
         <source>ShowContentFrame</source>
@@ -7206,7 +7208,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Klik untuk mengaktifkan/menonaktifkan AutoBackup</translation>
     </message>
     <message>
         <source>CorrectionFluidRoundCap</source>
@@ -7218,7 +7220,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TextQueryAndReplace</source>
-        <translation type="unfinished"/>
+        <translation>Temukan dan Ganti</translation>
     </message>
     <message>
         <source>Navigate Back</source>
@@ -7302,7 +7304,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OCRExtractText</source>
-        <translation type="unfinished"/>
+        <translation>Ekstrak Teks</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation</source>
@@ -7325,7 +7327,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfWaterMarkGalleryCommand</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -7337,7 +7339,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Unable to find the watermark source file you specified, please re-select</source>
@@ -7349,7 +7351,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Ganti</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -7357,7 +7359,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Add failed! WaterMark apply range does not match the number of document pages</source>
-        <translation type="unfinished"/>
+        <translation>Penambahan gagal! Rentang penerapan Tanda Air tidak cocok dengan jumlah halaman dokumen</translation>
     </message>
     <message>
         <source>DO NOT COPY</source>
@@ -7426,7 +7428,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Tentang</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -7434,7 +7436,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimalkan</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -7462,7 +7464,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Bar Alat</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -7526,7 +7528,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TranslationAll</source>
-        <translation type="unfinished"/>
+        <translation>Terjemahan teks lengkap</translation>
     </message>
     <message>
         <source>Kingsoft PDF Help</source>
@@ -7542,7 +7544,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Extraction identification</source>
-        <translation type="unfinished"/>
+        <translation>Pengenalan &amp; Ekstrasi</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -7620,7 +7622,7 @@ COM</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>Konversikan ke PDF Hanya Gambar</translation>
     </message>
     <message>
         <source>Line Number</source>
@@ -7716,11 +7718,11 @@ COM</translation>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Jendela Sebelumnya</translation>
     </message>
     <message>
         <source>Hide TaskPane</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Jendela Tugas</translation>
     </message>
     <message>
         <source>Options</source>
@@ -7900,7 +7902,7 @@ COM</translation>
     </message>
     <message>
         <source>Create Link</source>
-        <translation type="unfinished"/>
+        <translation>Buat Tautan</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -7964,7 +7966,7 @@ COM</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -7992,7 +7994,7 @@ COM</translation>
     </message>
     <message>
         <source>Show Next Window</source>
-        <translation type="unfinished"/>
+        <translation>Show Next Window</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8064,7 +8066,7 @@ COM</translation>
     </message>
     <message>
         <source>New Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Ruang Kerja Baru</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
@@ -8120,7 +8122,7 @@ COM</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Bar Alat</translation>
     </message>
     <message>
         <source>Sign out</source>
@@ -8203,7 +8205,7 @@ COM</translation>
     </message>
     <message>
         <source>NewClipboardFile</source>
-        <translation type="unfinished"/>
+        <translation>Buat dari Papan Klip</translation>
     </message>
     <message>
         <source>NewBlankFile</source>
@@ -8219,7 +8221,7 @@ COM</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>Konversikan ke PDF Hanya Gambar</translation>
     </message>
     <message>
         <source>SaveAs</source>
@@ -8271,7 +8273,7 @@ COM</translation>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation type="unfinished"/>
+        <translation>Cetak Batch</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -8283,7 +8285,7 @@ COM</translation>
     </message>
     <message>
         <source>Kingsoft PDF Website</source>
-        <translation type="unfinished"/>
+        <translation>Situs Web Resmi WPS PDF</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -8295,11 +8297,11 @@ COM</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Pencadangan Otomatis</translation>
     </message>
     <message>
         <source>NewHtml2PdfFile</source>
-        <translation type="unfinished"/>
+        <translation>Buat PDF dari Halaman Web</translation>
     </message>
     <message>
         <source>The export of PDF is</source>
@@ -8314,7 +8316,7 @@ COM</translation>
     <name>KxPdfAnnoToolboxWidget</name>
     <message>
         <source>Pen</source>
-        <translation type="unfinished"/>
+        <translation>Pena</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -8330,7 +8332,7 @@ COM</translation>
     </message>
     <message>
         <source>Hightlight</source>
-        <translation type="unfinished"/>
+        <translation>Sorot</translation>
     </message>
 </context>
 <context>
@@ -8379,11 +8381,11 @@ COM</translation>
     </message>
     <message>
         <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan &lt;b&gt;ekstensi [WPS PDF]&lt;/b&gt; di browser Anda untuk membuatnya lebih mudah mengonversi halaman web ke file PDF. Cobalah.</translation>
     </message>
     <message>
         <source>Add the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan &lt;b&gt;ekstensi [WPS PDF]&lt;/b&gt; ke browser Anda untuk membuatnya lebih mudah mengonversi halaman web ke file PDF. Cobalah.</translation>
     </message>
 </context>
 <context>
@@ -8398,7 +8400,7 @@ COM</translation>
     </message>
     <message>
         <source>annot</source>
-        <translation type="unfinished"/>
+        <translation>Komentar</translation>
     </message>
     <message>
         <source>print</source>
@@ -8406,15 +8408,15 @@ COM</translation>
     </message>
     <message>
         <source>insert and delete page</source>
-        <translation type="unfinished"/>
+        <translation>sisipkan dan hapus halaman</translation>
     </message>
     <message>
         <source>form and annot</source>
-        <translation type="unfinished"/>
+        <translation>Isi Formulir &amp; Komentar</translation>
     </message>
     <message>
         <source>use this ca encrypt pdf:</source>
-        <translation type="unfinished"/>
+        <translation>Atur enkripsi fitur untuk sertifikat ini:</translation>
     </message>
 </context>
 <context>
@@ -8429,128 +8431,128 @@ COM</translation>
     </message>
     <message>
         <source>value</source>
-        <translation type="unfinished"/>
+        <translation>nilai</translation>
     </message>
     <message>
         <source>Issuer:</source>
-        <translation type="unfinished"/>
+        <translation>Penerbit:</translation>
     </message>
     <message>
         <source>Public key</source>
-        <translation type="unfinished"/>
+        <translation>Kunci publik</translation>
     </message>
     <message>
         <source>Lisence</source>
-        <translation type="unfinished"/>
+        <translation>Nomor Seri</translation>
     </message>
     <message>
         <source>ca name:</source>
-        <translation type="unfinished"/>
+        <translation>Nama Sertifikat:</translation>
     </message>
     <message>
         <source>End Time</source>
-        <translation type="unfinished"/>
+        <translation>Waktu Selesai</translation>
     </message>
     <message>
         <source>Issuer</source>
-        <translation type="unfinished"/>
+        <translation>Penerbit</translation>
     </message>
     <message>
         <source>Start Time:</source>
-        <translation type="unfinished"/>
+        <translation>Waktu Mulai:</translation>
     </message>
     <message>
         <source>End Time:</source>
-        <translation type="unfinished"/>
+        <translation>Waktu Selesai:</translation>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"/>
+        <translation>Waktu Mulai</translation>
     </message>
     <message>
         <source>Public key param</source>
-        <translation type="unfinished"/>
+        <translation>Param kunci publik</translation>
     </message>
     <message>
         <source>ENCRYPT</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi berbasis Kunci</translation>
     </message>
     <message>
         <source>SIGNATURE</source>
-        <translation type="unfinished"/>
+        <translation>TANDA TANGAN</translation>
     </message>
     <message>
         <source>purpose:</source>
-        <translation type="unfinished"/>
+        <translation>Tujuan:</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Versi</translation>
     </message>
 </context>
 <context>
     <name>KxPdfImageOCRCommand</name>
     <message>
         <source>pic</source>
-        <translation type="unfinished"/>
+        <translation>Versi hanya gambar</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCheckboxesSet</name>
     <message>
         <source>red</source>
-        <translation type="unfinished"/>
+        <translation>Merah</translation>
     </message>
     <message>
         <source>blue</source>
-        <translation type="unfinished"/>
+        <translation>Biru</translation>
     </message>
     <message>
         <source>pink</source>
-        <translation type="unfinished"/>
+        <translation>Merah Muda</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>Hitam</translation>
     </message>
     <message>
         <source>green</source>
-        <translation type="unfinished"/>
+        <translation>Hijau</translation>
     </message>
     <message>
         <source>purple</source>
-        <translation type="unfinished"/>
+        <translation>Ungu</translation>
     </message>
     <message>
         <source>yellow</source>
-        <translation type="unfinished"/>
+        <translation>Kuning</translation>
     </message>
 </context>
 <context>
     <name>KxPdfNewColorModel</name>
     <message>
         <source>red</source>
-        <translation type="unfinished"/>
+        <translation>Merah</translation>
     </message>
     <message>
         <source>blue</source>
-        <translation type="unfinished"/>
+        <translation>Biru</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>Hitam</translation>
     </message>
     <message>
         <source>green</source>
-        <translation type="unfinished"/>
+        <translation>Hijau</translation>
     </message>
     <message>
         <source>lake blue</source>
-        <translation type="unfinished"/>
+        <translation>biru danau</translation>
     </message>
     <message>
         <source>yellow</source>
-        <translation type="unfinished"/>
+        <translation>Kuning</translation>
     </message>
     <message>
         <source>Recent Colors</source>
@@ -8561,7 +8563,7 @@ COM</translation>
     <name>KxPdfCaItemWidget</name>
     <message>
         <source>set</source>
-        <translation type="unfinished"/>
+        <translation>atur</translation>
     </message>
     <message>
         <source>delete</source>
@@ -8569,7 +8571,7 @@ COM</translation>
     </message>
     <message>
         <source>detail</source>
-        <translation type="unfinished"/>
+        <translation>Detail</translation>
     </message>
     <message>
         <source>export</source>
@@ -8581,11 +8583,11 @@ COM</translation>
     </message>
     <message>
         <source>ENCRYPT</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi berbasis Kunci</translation>
     </message>
     <message>
         <source>SIGNATURE</source>
-        <translation type="unfinished"/>
+        <translation>TANDA TANGAN</translation>
     </message>
 </context>
 <context>
@@ -8654,11 +8656,11 @@ COM</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar dan OCR</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Ambil Layar</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -8687,11 +8689,11 @@ File</translation>
     </message>
     <message>
         <source>Special Apps</source>
-        <translation type="unfinished"/>
+        <translation>Fitur Khusus</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan Faktur</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -8727,11 +8729,11 @@ File</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Poligon Ambil</translation>
     </message>
     <message>
         <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
+        <translation>Statistik Data</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -8752,7 +8754,7 @@ File</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
     </message>
     <message>
         <source>Interface Settings</source>
@@ -8808,7 +8810,7 @@ File</translation>
     </message>
     <message>
         <source>Grab Rect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Ambil Layar</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -8868,7 +8870,7 @@ File</translation>
     </message>
     <message>
         <source>Graffiti</source>
-        <translation type="unfinished"/>
+        <translation>Corat-coret</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -8876,7 +8878,7 @@ File</translation>
     </message>
     <message>
         <source>PDFTOCad</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke CAD</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -8892,11 +8894,11 @@ File</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist</source>
-        <translation type="unfinished"/>
+        <translation>Bantuan Faktur</translation>
     </message>
     <message>
         <source>PDF Settings</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -8920,7 +8922,7 @@ File</translation>
     </message>
     <message>
         <source>Launch Online Metting</source>
-        <translation type="unfinished"/>
+        <translation>Buka Rapat Online</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -8969,7 +8971,7 @@ File</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9075,7 +9077,7 @@ File</translation>
     <name>KxPdfOutlineTreeView</name>
     <message>
         <source>Blod</source>
-        <translation type="unfinished"/>
+        <translation>Tebal</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -9469,7 +9471,7 @@ File</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Terjemahkan Document</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -9493,7 +9495,7 @@ File</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Word</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -9505,7 +9507,7 @@ File</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9671,11 +9673,11 @@ File</translation>
     <name>KxPdfSearchPane</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Temukan</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Ganti</translation>
     </message>
 </context>
 <context>
@@ -9855,7 +9857,7 @@ File</translation>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Ditandatangani oleh &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Signature property</source>
@@ -9972,7 +9974,7 @@ File</translation>
     <name>KxPdfReplaceContentUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulir</translation>
     </message>
 </context>
 <context>
@@ -9987,7 +9989,7 @@ File</translation>
     </message>
     <message>
         <source>SelectFileName</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Nama File</translation>
     </message>
     <message>
         <source>PageTo</source>
@@ -10142,11 +10144,11 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Docmgr</source>
-        <translation type="unfinished"/>
+        <translation>Pengelolaan Documen</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Pecah PDF</translation>
     </message>
     <message>
         <source>StampTool</source>
@@ -10170,7 +10172,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan PDF</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -10185,11 +10187,11 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Cepat</translation>
     </message>
     <message>
         <source>Share</source>
@@ -10234,7 +10236,7 @@ File</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Perekam Layar</translation>
     </message>
     <message>
         <source>DeleteBackGround</source>
@@ -10250,7 +10252,7 @@ File</translation>
     </message>
     <message>
         <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
+        <translation>Statistik Data</translation>
     </message>
     <message>
         <source>Share documents.</source>
@@ -10266,7 +10268,7 @@ File</translation>
     </message>
     <message>
         <source>CADTOPdf</source>
-        <translation type="unfinished"/>
+        <translation>CAD ke PDF</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
@@ -10318,7 +10320,7 @@ File</translation>
     </message>
     <message>
         <source>TranslateSelectedPane</source>
-        <translation type="unfinished"/>
+        <translation>Semat Panel Tugas</translation>
     </message>
     <message>
         <source>Translate selected text</source>
@@ -10326,7 +10328,7 @@ File</translation>
     </message>
     <message>
         <source>PDFTOCad</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke CAD</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
@@ -10334,7 +10336,7 @@ File</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist</source>
-        <translation type="unfinished"/>
+        <translation>Bantuan Faktur</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
@@ -10342,7 +10344,7 @@ File</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan jendela aktif saat mengambil tangkapan layar</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -10354,7 +10356,7 @@ File</translation>
     </message>
     <message>
         <source>TranslateSelectedFollow</source>
-        <translation type="unfinished"/>
+        <translation>Panel Terjemahan untuk Kata yang Dipilih</translation>
     </message>
     <message>
         <source>UpdateHeaderFooter</source>
@@ -10382,11 +10384,11 @@ File</translation>
     </message>
     <message>
         <source>Convert2Photo</source>
-        <translation type="unfinished"/>
+        <translation>Ubah ke Foto</translation>
     </message>
     <message>
         <source>Page-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Baca Halaman Ini</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
@@ -10415,7 +10417,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Send via Email</source>
-        <translation type="unfinished"/>
+        <translation>Kirim via email</translation>
     </message>
     <message>
         <source>AddPageNumber</source>
@@ -10479,11 +10481,11 @@ Ponsel</translation>
     </message>
     <message>
         <source>The document could not be saved. %1</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen tidak dapat disimpan.</translation>
     </message>
     <message>
         <source>The document could not be saved. The file may be read-only, or opend by another user.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen tidak dapat disimpan. File mungkin hanya-baca, atau pengguna lain sedang membukanya.</translation>
     </message>
 </context>
 <context>
@@ -10550,11 +10552,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Ok(C)</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -10562,7 +10564,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>ResizePage(A)</source>
-        <translation>Ukur Ulang Halaman (A)</translation>
+        <translation>Ukur Ulang Halaman</translation>
     </message>
 </context>
 <context>
@@ -11034,7 +11036,7 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>Batch Deletion</source>
-        <translation type="unfinished"/>
+        <translation>Penghapusan Batch</translation>
     </message>
     <message>
         <source>All Author</source>
@@ -11070,11 +11072,11 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>FileAttachment</source>
-        <translation type="unfinished"/>
+        <translation>Lampiran</translation>
     </message>
     <message>
         <source>Graffiti</source>
-        <translation type="unfinished"/>
+        <translation>Corat-coret</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -11086,7 +11088,7 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>InstructBox</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Komentar</translation>
     </message>
     <message>
         <source>TextComment</source>
@@ -11094,7 +11096,7 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>Is Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Memuat...</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -11114,7 +11116,7 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>Annotation Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filter Komentar</translation>
     </message>
     <message>
         <source>TextCommentBox</source>
@@ -11122,7 +11124,7 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>Close Annotation Panel</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
 </context>
 <context>
@@ -11222,7 +11224,7 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>Are you sure to save the modification of current document?</source>
-        <translation type="unfinished"/>
+        <translation>Apakah Anda yakin ingin menyimpan perubahan dokumen saat ini?</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
@@ -11234,38 +11236,38 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen saat ini telah menggunakan fitur Premium &quot;%1&quot;. Tingkatkan ke Premium untuk menyimpan dokumen yang diubah.</translation>
     </message>
     <message>
         <source>VIP rights ineffective?</source>
-        <translation type="unfinished"/>
+        <translation>Hak Premium tidak berlaku?</translation>
     </message>
     <message>
         <source>You are using &quot;%1&quot; member function, please upgrade to member</source>
-        <translation type="unfinished"/>
+        <translation>Anda sedang menggunakan fitur &quot;%1&quot; Premium. Tingkatkan dulu ke Premium.</translation>
     </message>
     <message>
         <source>Current document is a scanning document, only able to add text, &quot;Add text&quot; is member function, please upgrade to member</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen saat ini hanya memuat gambar dan Anda hanya dapat menambahkan teks. &quot;Tambah Teks&quot; adalah fitur berbayar. Tingkatkan ke Premium.</translation>
     </message>
     <message>
         <source>Login now</source>
-        <translation type="unfinished"/>
+        <translation>Masuk sekarang</translation>
     </message>
     <message>
         <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen pencadangan saat ini telah menggunakan fitur Premium pengeditan PDF. Tingkatkan ke Premium untuk menyimpan dokumen yang diubah.</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCaAddDlg</name>
     <message>
         <source>Scan</source>
-        <translation type="unfinished"/>
+        <translation>Telusuri</translation>
     </message>
     <message>
         <source>next</source>
-        <translation type="unfinished"/>
+        <translation>berikutnya</translation>
     </message>
     <message>
         <source>Please enter department name</source>
@@ -11273,71 +11275,71 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>You can add certificates in two ways:</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat menambahkan sertifikat dalam dua cara:</translation>
     </message>
     <message>
         <source>Please reenter passwords</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan lagi kata sandi</translation>
     </message>
     <message>
         <source>Please enter company name</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nama perusahaan</translation>
     </message>
     <message>
         <source>ca file:</source>
-        <translation type="unfinished"/>
+        <translation>File Sertifikat:</translation>
     </message>
     <message>
         <source>ca name:</source>
-        <translation type="unfinished"/>
+        <translation>Nama Sertifikat:</translation>
     </message>
     <message>
         <source>ca used:</source>
-        <translation type="unfinished"/>
+        <translation>Penggunaan Sertifikat:</translation>
     </message>
     <message>
         <source>Please enter more than six passwords</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi yang berisi sedikitnya 6 digit.</translation>
     </message>
     <message>
         <source>Encrypt data</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi berbasis Kunci</translation>
     </message>
     <message>
         <source>Wrong password. Please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi salah. Harap masukkan lagi.</translation>
     </message>
     <message>
         <source>encrypt:</source>
-        <translation type="unfinished"/>
+        <translation>Algoritma Kunci:</translation>
     </message>
     <message>
         <source>please click browse to select ca file</source>
-        <translation type="unfinished"/>
+        <translation>Klik Telusuri untuk menambahkan file sertifikat</translation>
     </message>
     <message>
         <source>Wrong path, Please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>Jalur impor tidak valid. Pilih jalur file yang lain.</translation>
     </message>
     <message>
         <source>Create a new certificate</source>
-        <translation type="unfinished"/>
+        <translation>Buat sertifikat baru</translation>
     </message>
     <message>
         <source>Please enter email address</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan alamat email</translation>
     </message>
     <message>
         <source>company:</source>
-        <translation type="unfinished"/>
+        <translation>Nama Perusahaan:</translation>
     </message>
     <message>
         <source>pwd again:</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi Kata Sandi:</translation>
     </message>
     <message>
         <source>Invalid save path, Please adjust it.</source>
-        <translation type="unfinished"/>
+        <translation>Jalur penyimpanan tidak valid. Pilih jalur file yang lain.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -11345,67 +11347,67 @@ Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
     <message>
         <source>email:</source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>country:</source>
-        <translation type="unfinished"/>
+        <translation>Negara/Wilayah:</translation>
     </message>
     <message>
         <source>finish</source>
-        <translation type="unfinished"/>
+        <translation>selesai</translation>
     </message>
     <message>
         <source>Please input ca name</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nama sertifikat</translation>
     </message>
     <message>
         <source>previous</source>
-        <translation type="unfinished"/>
+        <translation>Sebelumnya</translation>
     </message>
     <message>
         <source>Use existing certificate file</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan file sertifikat yang ada</translation>
     </message>
     <message>
         <source>ca pwd:</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Kata Sandi:</translation>
     </message>
     <message>
         <source>department:</source>
-        <translation type="unfinished"/>
+        <translation>departemen:</translation>
     </message>
     <message>
         <source>Encrypt ca</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan Digital</translation>
     </message>
     <message>
         <source>ca password:</source>
-        <translation type="unfinished"/>
+        <translation>Kata Sandi Sertifikat:</translation>
     </message>
     <message>
         <source>1024 bit RSA</source>
-        <translation type="unfinished"/>
+        <translation>RSA 1024 bit</translation>
     </message>
     <message>
         <source>2048 bit RSA</source>
-        <translation type="unfinished"/>
+        <translation>RSA 2048 bit</translation>
     </message>
     <message>
         <source>To create a new certificate,fill the following information</source>
-        <translation type="unfinished"/>
+        <translation>Untuk membuat sertifikat digital baru, Anda harus mengisikan informasi berikut:</translation>
     </message>
     <message>
         <source>please input ca password</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi sertifikat</translation>
     </message>
     <message>
         <source>Two different password entries</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi Anda tidak cocok.</translation>
     </message>
     <message>
         <source>Browse and select the certificate and enter the certificate password</source>
-        <translation type="unfinished"/>
+        <translation>Telusuri dan pilih sertifikat, lalu masukkan kata sandi sertifikat</translation>
     </message>
 </context>
 <context>
@@ -11588,7 +11590,7 @@ Window</source>
     </message>
     <message>
         <source>please input url</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan URL.</translation>
     </message>
 </context>
 <context>
@@ -11740,11 +11742,11 @@ Window</source>
     <name>ongmani.ct_instructbox</name>
     <message>
         <source>Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat</translation>
     </message>
     <message>
         <source>TextStyle</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Komentar</translation>
     </message>
 </context>
 <context>
@@ -12034,35 +12036,35 @@ Window</source>
     <name>KxPdfTemplatePrintWidget</name>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Cetak</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Surat</translation>
     </message>
     <message>
         <source>Squarepaper</source>
-        <translation type="unfinished"/>
+        <translation>Kotak persegi</translation>
     </message>
     <message>
         <source>Connell</source>
-        <translation type="unfinished"/>
+        <translation>Cornell</translation>
     </message>
     <message>
         <source>Dotmatrix</source>
-        <translation type="unfinished"/>
+        <translation>Matriks titik</translation>
     </message>
     <message>
         <source>Weekgtd</source>
-        <translation type="unfinished"/>
+        <translation>Tugas Mingguan</translation>
     </message>
     <message>
         <source>Singleline</source>
-        <translation type="unfinished"/>
+        <translation>Satu baris</translation>
     </message>
 </context>
 <context>
@@ -12073,7 +12075,7 @@ Window</source>
     </message>
     <message>
         <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan &lt;b&gt;ekstensi [WPS PDF]&lt;/b&gt; di browser Anda untuk membuatnya lebih mudah mengonversi halaman web ke file PDF. Cobalah.</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -12107,26 +12109,26 @@ Window</source>
     <name>KxPdfSplitMergeCommand</name>
     <message>
         <source>Combine PDF</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan PDF</translation>
     </message>
 </context>
 <context>
     <name>KxPdfSplitPrintDialog</name>
     <message>
         <source>Please add a divider</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan pembagi</translation>
     </message>
     <message>
         <source>Longitudinal split</source>
-        <translation type="unfinished"/>
+        <translation>Pecah Vertikal</translation>
     </message>
     <message>
         <source>immediately split</source>
-        <translation type="unfinished"/>
+        <translation>Pecah Sekarang</translation>
     </message>
     <message>
         <source>Auto align center line (hold Alt to unalign)</source>
-        <translation type="unfinished"/>
+        <translation>Rata otomatis garis tengah (tekan dan tahan Alt untuk membatalkan perataan)</translation>
     </message>
     <message>
         <source>AllPages</source>
@@ -12182,7 +12184,7 @@ Window</source>
     </message>
     <message>
         <source>Horizontal split</source>
-        <translation type="unfinished"/>
+        <translation>Pecah Horizontal</translation>
     </message>
 </context>
 <context>
@@ -12281,82 +12283,82 @@ Window</source>
     <name>KxPdfPremiumGuideDialog</name>
     <message>
         <source>Cancel anytime</source>
-        <translation type="unfinished"/>
+        <translation>Batalkan kapan saja</translation>
     </message>
     <message>
         <source>Split Page</source>
-        <translation type="unfinished"/>
+        <translation>Pecah halaman jadi beberapa halaman</translation>
     </message>
     <message>
         <source>(Current feature)</source>
-        <translation type="unfinished"/>
+        <translation>(sedang digunakan)</translation>
     </message>
     <message>
         <source>Change Fluid</source>
-        <translation type="unfinished"/>
+        <translation>Cairan Koreksi</translation>
     </message>
     <message>
         <source>Output as image-only PDF</source>
-        <translation type="unfinished"/>
+        <translation>Hasilkan sebagai file PDF hanya gambar</translation>
     </message>
     <message>
         <source>Crop Page</source>
-        <translation type="unfinished"/>
+        <translation>Halaman Klip</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Image vers PDF</translation>
     </message>
     <message>
         <source>Edit content in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Edit teks/gambar di file PDF</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
-        <translation type="unfinished"/>
+        <translation>Gratis uji coba 7 hari</translation>
     </message>
     <message>
         <source>View more</source>
-        <translation type="unfinished"/>
+        <translation>Lihat selengkapnya</translation>
     </message>
     <message>
         <source>WPS Premium include 51 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Premium menyertakan 51 fitur lanjutan untuk Dokumen, Spreadsheets, Presentasi dan WPS PDF editor.</translation>
     </message>
     <message>
         <source>Add Attachment</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Lampiran</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan PDF</translation>
     </message>
     <message>
         <source>You are using a premium feature. Try Premium for free to enable this feature and save the changes.</source>
-        <translation type="unfinished"/>
+        <translation>Anda menggunakan fitur berbayar. Coba gratis WPS Premium untuk mengaktifkan fitur ini dan menyimpan perubahan.</translation>
     </message>
     <message>
         <source>Try All Premium Features</source>
-        <translation type="unfinished"/>
+        <translation>Coba Semua Fitur WPS Premium</translation>
     </message>
     <message>
         <source>Manager PDF page</source>
-        <translation type="unfinished"/>
+        <translation>Kelola halaman PDF</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCopyPageExtractPageDialog</name>
     <message>
         <source>IsCopying %1%</source>
-        <translation type="unfinished"/>
+        <translation>Menyalin %1%</translation>
     </message>
     <message>
         <source>Is Copying</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menyalin</translation>
     </message>
 </context>
 <context>
@@ -12394,7 +12396,7 @@ Window</source>
     </message>
     <message>
         <source>Signature List</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan</translation>
     </message>
     <message>
         <source>Close Signature Panel</source>
@@ -12593,7 +12595,7 @@ Window</source>
     </message>
     <message>
         <source>New function</source>
-        <translation type="unfinished"/>
+        <translation>Fungsi baru</translation>
     </message>
 </context>
 <context>
@@ -12669,7 +12671,7 @@ Window</source>
     </message>
     <message>
         <source>Input error</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan input.</translation>
     </message>
 </context>
 <context>
@@ -12692,11 +12694,11 @@ Window</source>
     </message>
     <message>
         <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen saat ini telah menggunakan fitur Premium &quot;%1&quot;. Tingkatkan ke Premium untuk menyimpan dokumen yang diubah.</translation>
     </message>
     <message>
         <source>VIP rights ineffective?</source>
-        <translation type="unfinished"/>
+        <translation>Hak Premium tidak berlaku?</translation>
     </message>
     <message>
         <source>Save(S)</source>
@@ -12704,11 +12706,11 @@ Window</source>
     </message>
     <message>
         <source>Save(Trial)</source>
-        <translation type="unfinished"/>
+        <translation>Simpan(Uji Coba)</translation>
     </message>
     <message>
         <source>Login now</source>
-        <translation type="unfinished"/>
+        <translation>Masuk sekarang</translation>
     </message>
     <message>
         <source>closing Doc,Whether to save the current changes?</source>
@@ -12716,7 +12718,7 @@ Window</source>
     </message>
     <message>
         <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen pencadangan saat ini telah menggunakan fitur Premium pengeditan PDF. Tingkatkan ke Premium untuk menyimpan dokumen yang diubah.</translation>
     </message>
 </context>
 <context>
@@ -12829,11 +12831,11 @@ Window</source>
     <name>KxPdfPagePropertyDialog</name>
     <message>
         <source>Ok(F)</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel(C)</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>transverse</source>
@@ -12845,7 +12847,7 @@ Window</source>
     </message>
     <message>
         <source>ResizePage(A)</source>
-        <translation>Ukur Ulang Halaman (A)</translation>
+        <translation>Ukur Ulang Halaman</translation>
     </message>
     <message>
         <source>page size:%1 cmx%2cm</source>
@@ -12879,11 +12881,11 @@ Window</source>
     <name>KxPdfOcrExtractTextOutputEtCommand</name>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <source> files</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
 </context>
 <context>
@@ -12921,7 +12923,7 @@ Window</source>
     </message>
     <message>
         <source>During data export:</source>
-        <translation type="unfinished"/>
+        <translation>Mengekspor data:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -12929,15 +12931,15 @@ Window</source>
     </message>
     <message>
         <source>Excerpt export failed, please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengekspor data terekstrak. Silakan coba lagi.</translation>
     </message>
     <message>
         <source>Excerpt data export</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor Data Terekstrak</translation>
     </message>
     <message>
         <source>My excerpt</source>
-        <translation type="unfinished"/>
+        <translation>Kutipan saya</translation>
     </message>
 </context>
 <context>
@@ -13081,7 +13083,7 @@ Window</source>
     </message>
     <message>
         <source>Docmgr</source>
-        <translation type="unfinished"/>
+        <translation>Manajemen dokumen</translation>
     </message>
     <message>
         <source>Menu Tools</source>
@@ -13108,15 +13110,15 @@ Window</source>
     <name>KxPdfTextEditGuideDlg</name>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"/>
+        <translation>Uji Coba</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Jadi Premium</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -13127,11 +13129,11 @@ Window</source>
     </message>
     <message>
         <source>SplitPDFPage</source>
-        <translation type="unfinished"/>
+        <translation>Pecah PDF</translation>
     </message>
     <message>
         <source>MergePDFPage</source>
-        <translation type="unfinished"/>
+        <translation>Gabung PDF</translation>
     </message>
     <message>
         <source>Document Views</source>
@@ -13139,11 +13141,11 @@ Window</source>
     </message>
     <message>
         <source>Docmgr</source>
-        <translation type="unfinished"/>
+        <translation>Manajemen dokumen</translation>
     </message>
     <message>
         <source>Organize Page</source>
-        <translation type="unfinished"/>
+        <translation>Operasi Halaman</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -13195,11 +13197,11 @@ Window</source>
     </message>
     <message>
         <source>Open Directory(W)</source>
-        <translation type="unfinished"/>
+        <translation>Buka Folder</translation>
     </message>
     <message>
         <source>Replace Up</source>
-        <translation type="unfinished"/>
+        <translation>Bawah ke atas</translation>
     </message>
     <message>
         <source>Cur page num</source>
@@ -13231,7 +13233,7 @@ Window</source>
     </message>
     <message>
         <source>Open File(E)</source>
-        <translation type="unfinished"/>
+        <translation>Buka Dokumen (E)</translation>
     </message>
     <message>
         <source>WholeWordsSearch</source>
@@ -13259,7 +13261,7 @@ Window</source>
     </message>
     <message>
         <source>Replace Down</source>
-        <translation type="unfinished"/>
+        <translation>Atas ke bawah</translation>
     </message>
     <message>
         <source>All Fonts</source>
@@ -13271,7 +13273,7 @@ Window</source>
     </message>
     <message>
         <source>Replace direction</source>
-        <translation type="unfinished"/>
+        <translation>Ganti Arah</translation>
     </message>
     <message>
         <source>IncludeBookmarks</source>
@@ -13344,11 +13346,11 @@ Window</source>
     <name>KxPdfPicturePropertyTabbar</name>
     <message>
         <source>level</source>
-        <translation type="unfinished"/>
+        <translation>Level</translation>
     </message>
     <message>
         <source>replace image</source>
-        <translation type="unfinished"/>
+        <translation>Ganti gambar</translation>
     </message>
 </context>
 <context>
@@ -13482,15 +13484,15 @@ Window</source>
     </message>
     <message>
         <source>Save the current view as a catalog</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Tampilan Saat Ini sebagai Direktori</translation>
     </message>
     <message>
         <source>Delete a catalog</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Direktori Saat Ini</translation>
     </message>
     <message>
         <source>The document has no catalog</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen tidak memiliki katalog</translation>
     </message>
     <message>
         <source>No relevant content was found. Please check the input or spelling</source>
@@ -13502,7 +13504,7 @@ Window</source>
     </message>
     <message>
         <source>Collapse All Catalog</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Semua Direktori</translation>
     </message>
     <message>
         <source>Outline Search</source>
@@ -13518,7 +13520,7 @@ Window</source>
     </message>
     <message>
         <source>Expand All Catalog</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Semua Direktori</translation>
     </message>
     <message>
         <source>Close Outline Panel</source>
@@ -13530,7 +13532,7 @@ Window</source>
     </message>
     <message>
         <source>Catalogue Search</source>
-        <translation type="unfinished"/>
+        <translation>Pencarian Katalog</translation>
     </message>
 </context>
 <context>
@@ -13575,7 +13577,7 @@ Window</source>
     <name>pdfongmani.mainwindow</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesional</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -13590,11 +13592,11 @@ Window</source>
     <name>KxPdfAnnotationView</name>
     <message>
         <source>The comment has been hidden. Click the &quot;Show Comment&quot; function to display the content of the comment hidden in the text.</source>
-        <translation type="unfinished"/>
+        <translation>Komentar telah disembunyikan. Klik fitur &quot;Tampilkan Komentar&quot; untuk menampilkan isi komentar yang disembunyikan dalam teks.</translation>
     </message>
     <message>
         <source>Is Deleteing</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menghapus</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -13660,7 +13662,7 @@ Window</source>
     </message>
     <message>
         <source>Send via Email</source>
-        <translation type="unfinished"/>
+        <translation>Kirim via email</translation>
     </message>
 </context>
 <context>
@@ -13698,19 +13700,19 @@ Window</source>
     <name>KxPdfCaDeleteDlgWidget</name>
     <message>
         <source>issuer:</source>
-        <translation type="unfinished"/>
+        <translation>penerbit:</translation>
     </message>
     <message>
         <source>delete ca</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Sertifikat Digital</translation>
     </message>
     <message>
         <source>ca name:</source>
-        <translation type="unfinished"/>
+        <translation>Nama Sertifikat:</translation>
     </message>
     <message>
         <source>Wrong password. Please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi salah. Harap masukkan lagi.</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -13718,7 +13720,7 @@ Window</source>
     </message>
     <message>
         <source>Please enter the certificate password to delete the certificate</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi sertifikat untuk menghapus sertifikat</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -13726,7 +13728,7 @@ Window</source>
     </message>
     <message>
         <source>ca pwd:</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Kata Sandi:</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -13737,54 +13739,54 @@ Window</source>
     <name>KxPdfReplaceContentWidget</name>
     <message>
         <source>Looking for...</source>
-        <translation type="unfinished"/>
+        <translation>Mencari...</translation>
     </message>
     <message>
         <source>Got it</source>
-        <translation type="unfinished"/>
+        <translation>Mengerti</translation>
     </message>
     <message>
         <source>Find prompt</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menemukan</translation>
     </message>
     <message>
         <source>The current document is a scanned document, and the content cannot be searched and replaced.</source>
-        <translation type="unfinished"/>
+        <translation>Temukan dan Ganti tidak tersedia dalam file PDF yang dipindai.</translation>
     </message>
     <message>
         <source>replace</source>
-        <translation type="unfinished"/>
+        <translation>Ganti</translation>
     </message>
     <message>
         <source>The search content was not found.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ditemukan hasil yang cocok.</translation>
     </message>
     <message>
         <source>Enter replacement content</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan pengganti</translation>
     </message>
     <message>
         <source>Replacement prompt</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengganti</translation>
     </message>
     <message>
         <source>The current document is not a PDF file, and the content cannot be searched and replaced.</source>
-        <translation type="unfinished"/>
+        <translation>Temukan dan Ganti tidak tersedia karena file yang Anda buka bukan file PDF.</translation>
     </message>
     <message>
         <source>Replacing...</source>
-        <translation type="unfinished"/>
+        <translation>Mengganti...</translation>
     </message>
 </context>
 <context>
     <name>KxPdfPasteInsertPageDialog</name>
     <message>
         <source>IsPasting %1%</source>
-        <translation type="unfinished"/>
+        <translation>Menempelkan %1%</translation>
     </message>
     <message>
         <source>Is Pasting</source>
-        <translation type="unfinished"/>
+        <translation>Menempelkan</translation>
     </message>
 </context>
 <context>
@@ -13819,7 +13821,7 @@ Window</source>
     </message>
     <message>
         <source>Create a PDF from any format</source>
-        <translation type="unfinished"/>
+        <translation>Buat PDF dari format apapun</translation>
     </message>
     <message>
         <source>Convert an Office file (.docx, .xlsx, .ppt, .jpg, etc.) to a PDF.</source>
@@ -13942,11 +13944,11 @@ Pengguna</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Tombol Rahasia Offline</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Maju</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
@@ -14005,31 +14007,31 @@ Saya</translation>
     <name>KxPdfLdpDetailDialog</name>
     <message>
         <source>Why use protection?</source>
-        <translation type="unfinished"/>
+        <translation>Mengapa menggunakan proteksi?</translation>
     </message>
     <message>
         <source>Step 2: Check [Enable Association Protection] in &quot;Association Settings&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Langkah 2: Pilih [Aktifkan Proteksi Asosiasi] di &quot;Pengaturan Asosiasi&quot;.</translation>
     </message>
     <message>
         <source>Protected PDF files are opened with WPS by default.&lt;br/&gt;If you need to change the default software, you can modify it by opening the file properties.</source>
-        <translation type="unfinished"/>
+        <translation>File PDF terproteksi secara default akan dibuka dengan WPS.&lt;br/&gt;Jika Anda perlu mengubah perangkat lunak default, Anda dapat mengubahnya melalui metode terbuka dalam properti file.</translation>
     </message>
     <message>
         <source>How to turn on associated protection?</source>
-        <translation type="unfinished"/>
+        <translation>Cara mengaktifkan proteksi terasosiasi?</translation>
     </message>
     <message>
         <source>Enable WPS PDF association protection</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan Perlindungan Asosiasi WPS PDF</translation>
     </message>
     <message>
         <source>Step 1: Go to the PDF component and click the [Settings] button in the upper right corner</source>
-        <translation type="unfinished"/>
+        <translation>Langkah 1: Masuk ke komponen PDF lalu klik tombol [Pengaturan] di sudut kanan atas.</translation>
     </message>
     <message>
         <source>Turn on protection</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan proteksi</translation>
     </message>
 </context>
 <context>
@@ -14142,7 +14144,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Is using the &quot;Delete Page&quot; membership privilege, non-member users can delete 5 pages for free</source>
-        <translation type="unfinished"/>
+        <translation>Anda menggunakan manfaat &quot;Hapus Halaman&quot; dari WPS Premium. Pengguna non-Premium dapat menghapus 5 halaman secara gratis.</translation>
     </message>
     <message>
         <source>move page is VIP function, save modify need upgrade VIP</source>
@@ -14159,15 +14161,15 @@ Please batches operations</source>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
+        <translation>%1tahun%2bulan%3hari</translation>
     </message>
     <message>
         <source>Is using the &quot;insert page&quot; membership privilege, non-member users can insert 5 pages for free</source>
-        <translation type="unfinished"/>
+        <translation>Anda menggunakan manfaat &quot;Sisipkan Halaman &quot;dari WPS Premium. Pengguna non-Premium dapat menyisipkan 5 halaman secara gratis.</translation>
     </message>
     <message>
         <source>Using PDF %1 member function</source>
-        <translation type="unfinished"/>
+        <translation>Anda menggunakan manfaat %1 dari WPS Premium.</translation>
     </message>
     <message>
         <source>Keep</source>
@@ -14198,7 +14200,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Quit Full Screen(Esc)</source>
-        <translation type="unfinished"/>
+        <translation>Keluar Layar Penuh (Esc)</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -14245,7 +14247,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Ditandatangani oleh &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -14285,7 +14287,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>disignautre</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan Digital</translation>
     </message>
     <message>
         <source>Signed time of signature:</source>
@@ -14312,7 +14314,7 @@ Please batches operations</source>
     <name>KxPdfExcerptExportTipDlg</name>
     <message>
         <source>Please click the &quot;Export&quot; button to back up the excerpt.</source>
-        <translation type="unfinished"/>
+        <translation>Silakan klik tombol &quot;Ekspor&quot; untuk mencadangkan kutipan.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14328,19 +14330,19 @@ Please batches operations</source>
     </message>
     <message>
         <source>Do not remind again</source>
-        <translation type="unfinished"/>
+        <translation>Jangan ingatkan lagi</translation>
     </message>
     <message>
         <source>The current version does not support the extract function.</source>
-        <translation type="unfinished"/>
+        <translation>Versi saat ini tidak mendukung fungsi ekstrak.</translation>
     </message>
     <message>
         <source>Excerpt data export</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor Data Terekstrak</translation>
     </message>
     <message>
         <source>My excerpt</source>
-        <translation type="unfinished"/>
+        <translation>Kutipan saya</translation>
     </message>
     <message>
         <source>取消</source>
@@ -14348,7 +14350,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>导出</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor</translation>
     </message>
 </context>
 <context>
@@ -14491,7 +14493,7 @@ Please batches operations</source>
     <name>KxPdfCaAddDlgWidget</name>
     <message>
         <source>You can add certificates in two ways:</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat menambahkan sertifikat dalam dua cara:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -14499,30 +14501,30 @@ Please batches operations</source>
     </message>
     <message>
         <source>add ca</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Sertifikat Digital</translation>
     </message>
 </context>
 <context>
     <name>KxPdfWaterMarkGalleryModel</name>
     <message>
         <source>edit watermark</source>
-        <translation type="unfinished"/>
+        <translation>Edit Tanda Air</translation>
     </message>
     <message>
         <source>click is to delete watermark</source>
-        <translation type="unfinished"/>
+        <translation>Klik untuk Hapus Tanda Air</translation>
     </message>
     <message>
         <source>click is to edit watermark</source>
-        <translation type="unfinished"/>
+        <translation>Klik untuk Mengedit Tanda Air</translation>
     </message>
     <message>
         <source>complete</source>
-        <translation type="unfinished"/>
+        <translation>Selesai</translation>
     </message>
     <message>
         <source>delete watermark</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Tanda Air</translation>
     </message>
     <message>
         <source>manage</source>
@@ -14530,7 +14532,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Drag adjustment order</source>
-        <translation type="unfinished"/>
+        <translation>Seret untuk Mengubah Urutan</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14541,15 +14543,15 @@ Please batches operations</source>
     <name>KxPdfBackgroundGuideDlg</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Latar Belakang</translation>
     </message>
     <message>
         <source>The background function has moved to the bottom of the window, and the current entrance will be blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Kami telah menambahkan tombol Latar Belakang lain ke bagian bawah. Tombol ini akan dihapus nanti.</translation>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Mengerti</translation>
     </message>
 </context>
 <context>
@@ -14608,11 +14610,11 @@ Please batches operations</source>
     <name>KxPdfCAManagementDlgWidget</name>
     <message>
         <source>Trusted certificate</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat tepercaya</translation>
     </message>
     <message>
         <source>ca manager</source>
-        <translation type="unfinished"/>
+        <translation>Manajemen Sertifikat</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -14620,7 +14622,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Certificate I added</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat yang saya tambahkan</translation>
     </message>
 </context>
 <context>
@@ -14748,7 +14750,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>immediately crop</source>
-        <translation type="unfinished"/>
+        <translation>Pangkas Sekarang</translation>
     </message>
     <message>
         <source>OddPages</source>
@@ -14768,7 +14770,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>Document cropping in progress</source>
-        <translation type="unfinished"/>
+        <translation>Memangkas Dokumen... </translation>
     </message>
     <message>
         <source>input 1,3 means add watermark in no.1 and no.3</source>
@@ -14835,19 +14837,19 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>PDF to Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Excel</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Alat Teks</translation>
+        <translation>Tata Ketik Kata</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>Pecah PDF</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke PPT</translation>
     </message>
     <message>
         <source>PDFPagesOper</source>
@@ -14859,7 +14861,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Terjemahkan Document</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
@@ -14867,15 +14869,15 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Fitur Khusus</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Word</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan PDF</translation>
     </message>
 </context>
 <context>
@@ -14933,11 +14935,13 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>Only WPS Premium members can sync signatures to the cloud.Go Premium to enjoy value-added features.</source>
-        <translation type="unfinished"/>
+        <translation>Penyinkronan tanda tangan ke Cloud hanya tersedia di WPS Premium. Gunakan Premium untuk menikmati lebih banyak manfaat.</translation>
     </message>
     <message>
         <source>Cloud synchronization description</source>
-        <translation>Jika Sinkronisasi Cloud diaktifkan, tanda tangan PDF secara otomatis akan disinkronkan ke cloud.&lt;br&gt; Setelah penyinkronan, masuk ke akun WPS di perangkat lain, maka kemudian Anda akan bisa menggunakan tanda tangan yang disinkronkan.</translation>
+        <translation>Tanda tangan akan disinkronkan secara otomatis ke awan.
+Jika Anda masuk dengan akun yang sama di perangkat lain,
+Anda masih dapat menggunakan tanda tangan yang disinkronkan.</translation>
     </message>
 </context>
 <context>
@@ -14951,7 +14955,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>KxPdfAttachmentTreeView</name>
     <message>
         <source>The attachment %1 already exists, sure to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>Lampiran sudah memuat file bernama %1. &lt;br&gt;Apakah Anda yakin ingin mengganti file?</translation>
     </message>
 </context>
 <context>
@@ -15023,7 +15027,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>kpdfBuidNotesPainter</name>
     <message>
         <source>Print Notes preView</source>
-        <translation type="unfinished"/>
+        <translation>Cetak Pratinjau Catatan</translation>
     </message>
     <message>
         <source>Now is building the Notes preView. Please Wait...</source>
@@ -15045,7 +15049,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>KxPdfCaDeleteDlg</name>
     <message>
         <source>Please enter certificate password</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi sertifikat</translation>
     </message>
 </context>
 <context>
@@ -15071,19 +15075,19 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>KxPdfImageRecognizeDialog</name>
     <message>
         <source>current page</source>
-        <translation type="unfinished"/>
+        <translation>Halaman Saat Ini</translation>
     </message>
     <message>
         <source>Custom page</source>
-        <translation type="unfinished"/>
+        <translation>Rentang Kustom:</translation>
     </message>
     <message>
         <source>continue</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi</translation>
     </message>
 </context>
 <context>
@@ -15097,23 +15101,23 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>KxPdfCannotEraseObjDlg</name>
     <message>
         <source>The part of the content that cannot be erased will be covered.</source>
-        <translation type="unfinished"/>
+        <translation>Konten yang tidak dapat dihapus akan ditutup.</translation>
     </message>
     <message>
         <source>Got it</source>
-        <translation type="unfinished"/>
+        <translation>Mengerti</translation>
     </message>
     <message>
         <source>There is content that cannot be erased</source>
-        <translation type="unfinished"/>
+        <translation>Ada konten yang tidak dapat dihapus</translation>
     </message>
     <message>
         <source>Do not remind again</source>
-        <translation type="unfinished"/>
+        <translation>Jangan ingatkan lagi</translation>
     </message>
     <message>
         <source>Erasable objects : text, pictures, notes, hyperlinks, etc.</source>
-        <translation type="unfinished"/>
+        <translation>Objek yang dapat dihapus: teks, gambar, catatan, hyperlink, dll.</translation>
     </message>
 </context>
 <context>
@@ -15147,7 +15151,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>KxPdfCompleteClipPageCommand</name>
     <message>
         <source>Clip Page is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Pemangkasan Halaman adalah fitur berbayar. Tingkatkan ke Premium.</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -15166,11 +15170,11 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>local signature</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan Lokal</translation>
     </message>
     <message>
         <source>cloud signature</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan Cloud</translation>
     </message>
 </context>
 <context>
@@ -15184,31 +15188,31 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     <name>KxPdfCaTableWidget</name>
     <message>
         <source>End Time</source>
-        <translation type="unfinished"/>
+        <translation>Waktu Selesai</translation>
     </message>
     <message>
         <source>Issuer</source>
-        <translation type="unfinished"/>
+        <translation>Penerbit</translation>
     </message>
     <message>
         <source>CA name</source>
-        <translation type="unfinished"/>
+        <translation>Nama Sertifikat</translation>
     </message>
     <message>
         <source>purpose</source>
-        <translation type="unfinished"/>
+        <translation>Tujuan</translation>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"/>
+        <translation>Waktu Mulai</translation>
     </message>
     <message>
         <source>no content</source>
-        <translation type="unfinished"/>
+        <translation>tidak ada konten</translation>
     </message>
     <message>
         <source>Deadline Time</source>
-        <translation type="unfinished"/>
+        <translation>Waktu Berakhir</translation>
     </message>
 </context>
 <context>
@@ -15223,7 +15227,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>Konversikan ke PDF Hanya Gambar</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
@@ -15266,7 +15270,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Ditandatangani oleh &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Verify the signature result</source>
@@ -15274,7 +15278,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>Signature attribute</source>
-        <translation type="unfinished"/>
+        <translation>Atribut Tanda Tangan</translation>
     </message>
     <message>
         <source>Form</source>
@@ -15355,15 +15359,15 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>details info</source>
-        <translation type="unfinished"/>
+        <translation>Detail</translation>
     </message>
     <message>
         <source>common info</source>
-        <translation type="unfinished"/>
+        <translation>Info umum</translation>
     </message>
     <message>
         <source>ca details</source>
-        <translation type="unfinished"/>
+        <translation>Detail Sertifikat Digital</translation>
     </message>
 </context>
 <context>
@@ -15374,7 +15378,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>ca encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi berbasis Sertifikat</translation>
     </message>
 </context>
 <context>
@@ -15385,7 +15389,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>ca import</source>
-        <translation type="unfinished"/>
+        <translation>Impor Sertifikat Digital</translation>
     </message>
 </context>
 <context>
@@ -15505,7 +15509,7 @@ Halaman yang dihapus tidak dapat dipulihkan</translation>
     </message>
     <message>
         <source>longin</source>
-        <translation type="unfinished"/>
+        <translation>masuk</translation>
     </message>
 </context>
 <context>
@@ -15673,23 +15677,23 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KRbSignature</name>
     <message>
         <source>local signature</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan Lokal</translation>
     </message>
     <message>
         <source>Synchronous success</source>
-        <translation>Penyinkronan berhasil</translation>
+        <translation>Disinkronkan.</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Segarkan</translation>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Synchronization failure</source>
-        <translation>Penyinkronan gagal, silakan</translation>
+        <translation>Penyinkronan gagal.</translation>
     </message>
     <message>
         <source>cloud signature</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Tangan Cloud</translation>
     </message>
     <message>
         <source>In the synchronous</source>
@@ -15700,23 +15704,23 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KxPdfLdpGuideDialog</name>
     <message>
         <source>No more reminders</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada lagi</translation>
     </message>
     <message>
         <source>Enable WPS PDF association protection</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan Perlindungan Asosiasi WPS PDF</translation>
     </message>
     <message>
         <source>It is recommended to turn on protection. The protected PDF file is opened by WPS by default.</source>
-        <translation type="unfinished"/>
+        <translation>Sebaiknya Anda mengaktifkan fitur proteksi. File PDF terproteksi akan secara default dibuka dengan WPS.</translation>
     </message>
     <message>
         <source>Turn on protection</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan proteksi</translation>
     </message>
     <message>
         <source>Why protect?</source>
-        <translation type="unfinished"/>
+        <translation>Mengapa proteksi diperlukan?</translation>
     </message>
 </context>
 <context>
@@ -15738,22 +15742,22 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KxPdfGuideUpVipDialog</name>
     <message>
         <source>Log in using</source>
-        <translation type="unfinished"/>
+        <translation>sembunyikan latar belakang</translation>
     </message>
     <message>
         <source>if is VIP then</source>
-        <translation type="unfinished"/>
+        <translation>VIP dapat</translation>
     </message>
 </context>
 <context>
     <name>KxPdfPayFunctionTipsDialog</name>
     <message>
         <source>Log in using</source>
-        <translation type="unfinished"/>
+        <translation>setelah masuk</translation>
     </message>
     <message>
         <source>if is VIP then</source>
-        <translation type="unfinished"/>
+        <translation>VIP dapat</translation>
     </message>
     <message>
         <source>upgrade VIP</source>
@@ -15761,7 +15765,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>click for update</source>
-        <translation type="unfinished"/>
+        <translation>Klik untuk perbarui</translation>
     </message>
 </context>
 <context>
@@ -15863,7 +15867,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     </message>
     <message>
         <source>Close Panel</source>
-        <translation type="unfinished"/>
+        <translation>Tutup Panel</translation>
     </message>
 </context>
 <context>
@@ -15914,7 +15918,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>Tips</name>
     <message>
         <source>Please add pictures below 18M</source>
-        <translation type="unfinished"/>
+        <translation>Memori tidak cukup. Operasi yang berkelanjutan dapat menyebabkan aplikasi berhenti berfungsi. Kurangi ukuran gambar dan coba lagi.</translation>
     </message>
 </context>
 <context>
@@ -15932,7 +15936,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KxPdfUpdateWaterMarkCommand</name>
     <message>
         <source>Cannot find waterMark that can be updated in the file.If you can see the watermark, it cannot be updated because it is not a standard watermark format.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mendeteksi tanda air yang dapat diperbarui dalam file. Tanda air yang Anda lihat mungkin tidak dalam format standar sehingga tidak dapat diperbarui.</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -15972,7 +15976,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KxPdfShapeEndStyleWidget</name>
     <message>
         <source>End Arrow</source>
-        <translation>Akhir</translation>
+        <translation>Panah Akhir</translation>
     </message>
 </context>
 <context>
@@ -15993,7 +15997,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KxPdfExtractPageTask</name>
     <message>
         <source>Unable to name#%1</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat menamai #%1</translation>
     </message>
     <message>
         <source>#</source>
@@ -16034,7 +16038,8 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Can't Find File.
 For File Lost or Path Changed!</source>
-        <translation type="unfinished"/>
+        <translation>File tidak ditemukan.
+File mungkin hilang atau jalur file mungkin telah berubah.</translation>
     </message>
     <message>
         <source>No file found!</source>
@@ -16302,14 +16307,14 @@ silakan masuk untuk menggunakan WPS Office.</translation>
     <name>KxEbookFontWidget</name>
     <message>
         <source>AutoFont</source>
-        <translation type="unfinished"/>
+        <translation>Otomatis</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCustomCommand</name>
     <message>
         <source>Bookmark Shortcut key changed to Ctrl + B</source>
-        <translation type="unfinished"/>
+        <translation>Tandai kunci Pintasan yang diubah ke Ctrl + B</translation>
     </message>
 </context>
 <context>
@@ -16323,7 +16328,7 @@ silakan masuk untuk menggunakan WPS Office.</translation>
     <name>KxPdfScanDialog</name>
     <message>
         <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
-        <translation type="unfinished"/>
+        <translation>Pemindai saat ini mungkin sedang beroperasi. Apakah Anda yakin ingin menghentikan pemindai dan menutup jendela?</translation>
     </message>
 </context>
 <context>
