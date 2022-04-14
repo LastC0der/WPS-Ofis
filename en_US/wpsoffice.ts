@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Tab 1</translation>
     </message>
     <message>
         <source>Recovery options</source>
@@ -803,7 +803,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger</source>
-        <translation type="unfinished"/>
+        <translation>Ledger</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -867,7 +867,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation type="unfinished"/>
+        <translation>Tabloid</translation>
     </message>
     <message>
         <source>A4 (210 x 297 mm, 8.26 x 11.7 inches)</source>
@@ -964,7 +964,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>WPS Diagnositic</source>
-        <translation type="unfinished"/>
+        <translation>WPS Diagnostic Tool</translation>
     </message>
     <message>
         <source>New version is available, please lookup cloudfile state.</source>
@@ -1040,7 +1040,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Account was logged out. Please log in again.</source>
-        <translation type="unfinished"/>
+        <translation>Account was logged out. Please log in again.</translation>
     </message>
     <message>
         <source>Details and diagnosis</source>
@@ -1092,7 +1092,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Uploading files over %1 is currently not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Uploading files over %1 is currently not supported.</translation>
     </message>
 </context>
 <context>
@@ -1118,7 +1118,7 @@ Please choose a different file name.</source>
     <name>KForceLoginModalWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>No, thanks</source>
@@ -1363,18 +1363,18 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeCloudSvrReinstallDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"/>
+        <translation>FAQ</translation>
     </message>
 </context>
 <context>
     <name>KPromeFallbackBubble</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1388,7 +1388,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeMainWindow</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>New</source>
@@ -1408,19 +1408,19 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Star Items</source>
-        <translation type="unfinished"/>
+        <translation>Starred</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Recheck and restart WPS</source>
-        <translation type="unfinished"/>
+        <translation>Please try to uncheck and exit WPS in &quot;System Preferences-Security &amp; Privacy-Privacy-Files and Folders-WPS Oﬃce&quot;, then recheck all options and restart WPS.</translation>
     </message>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Cannot open file, unsupported file format!
@@ -1438,7 +1438,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>WPS have no access to the ﬁle</source>
-        <translation type="unfinished"/>
+        <translation>WPS Oﬃce have no access to the ﬁle.</translation>
     </message>
     <message>
         <source>Blank Spreadsheets</source>
@@ -1446,7 +1446,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Close Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Close Workspace</translation>
     </message>
 </context>
 <context>
@@ -1457,7 +1457,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Activate now</source>
-        <translation type="unfinished"/>
+        <translation>Activate now</translation>
     </message>
 </context>
 <context>
@@ -1851,7 +1851,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Defaults</source>
@@ -1905,11 +1905,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Save</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Save</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -1921,7 +1921,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2027,7 +2027,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2039,7 +2039,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2223,7 +2223,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2258,11 +2258,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KPromeWindowLoadingWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>save</source>
-        <translation type="unfinished"/>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -2294,7 +2294,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>You can, </source>
@@ -2302,7 +2302,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>upgrade vip</source>
-        <translation type="unfinished"/>
+        <translation>Upgrade VIP</translation>
     </message>
     <message>
         <source>Download Failed</source>
@@ -2420,7 +2420,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Print</source>
@@ -2436,7 +2436,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Landscape</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -2448,7 +2448,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Portrait</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -2582,7 +2582,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Save</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2630,7 +2630,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>R&amp;eload</source>
@@ -2704,7 +2704,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"/>
+        <translation>Special</translation>
     </message>
     <message>
         <source>Write-only</source>
@@ -2818,7 +2818,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <source>Output &amp;file:</source>
@@ -2830,7 +2830,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Preview</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -2865,7 +2865,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Black</translation>
     </message>
     <message>
         <source>Greek</source>
@@ -2881,7 +2881,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Light</translation>
     </message>
     <message>
         <source>Ogham</source>
@@ -2941,7 +2941,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"/>
+        <translation>General</translation>
     </message>
     <message>
         <source>Oblique</source>
@@ -3298,7 +3298,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Copy Image</source>
-        <translation type="unfinished"/>
+        <translation>Copy Image</translation>
     </message>
     <message>
         <source>Select to the end of the document</source>
@@ -3573,7 +3573,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>You can resolve the issue by:</source>
-        <translation type="unfinished"/>
+        <translation>You can resolve the issue by:</translation>
     </message>
     <message>
         <source>The number of login devices under your account has reached the maximum limit, the current device is automatically offline</source>
@@ -3589,22 +3589,22 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Shut down</source>
-        <translation type="unfinished"/>
+        <translation>Shut down</translation>
     </message>
     <message>
         <source>Sign back in</source>
-        <translation type="unfinished"/>
+        <translation>Sign back in</translation>
     </message>
 </context>
 <context>
     <name>KPromeStartPageSubPage</name>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Professional</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -3893,7 +3893,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Save</translation>
     </message>
     <message>
         <source>Drive</source>
@@ -4150,7 +4150,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Float</source>
@@ -4188,7 +4188,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Commit</source>
@@ -4243,11 +4243,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>Margins</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Landscape</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -4259,7 +4259,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Portrait</translation>
     </message>
     <message>
         <source>top margin</source>
@@ -4891,7 +4891,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>False</source>
@@ -4906,7 +4906,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Execute</source>
@@ -4984,7 +4984,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source> (Read-only)</source>
-        <translation type="unfinished"/>
+        <translation> (Read-only)</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -4992,7 +4992,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>history version</source>
-        <translation type="unfinished"/>
+        <translation>History version</translation>
     </message>
     <message>
         <source>transfer to my device</source>
@@ -5016,7 +5016,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source> (Shared)</source>
-        <translation type="unfinished"/>
+        <translation> (Shared)</translation>
     </message>
     <message>
         <source>Reloading file...</source>
@@ -6120,7 +6120,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"/>
+        <translation>Sample</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
@@ -6182,7 +6182,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -6748,7 +6748,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Unable to initialize non-blocking socket</source>
@@ -6842,7 +6842,7 @@ Sorry for the inconvenience.</source>
     <name>KCloudSyncRetainDialog</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
 </context>
 <context>
@@ -6880,7 +6880,7 @@ and you can view them in Backup center.</translation>
     <name>Q3TitleBar</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -6992,7 +6992,7 @@ and you can view them in Backup center.</translation>
     <name>KxDlgVbaBuy</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"/>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>&amp;Buy Now</source>
@@ -7007,7 +7007,7 @@ and you can view them in Backup center.</translation>
     <name>KxDlgVbaInstallation</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"/>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Macros require VBA to function correctly. </source>
@@ -7030,7 +7030,7 @@ and you can view them in Backup center.</translation>
     <name>KxDlgVbaReminder</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"/>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Macros require VBA to function correctly. </source>
@@ -7380,7 +7380,7 @@ to
     </message>
     <message>
         <source>No longer the default display (the docer mall updates the template, picture and other materials from time to time)</source>
-        <translation type="unfinished"/>
+        <translation>Do not display by default (Template Mall updates the templates, pictures and other materials from time to time)</translation>
     </message>
 </context>
 <context>
@@ -7433,7 +7433,7 @@ to
     <name>KPromeStartup</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Professional</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -7561,7 +7561,7 @@ to
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Connection closed</source>
@@ -7584,7 +7584,7 @@ to
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"/>
+        <translation>User Login</translation>
     </message>
     <message>
         <source>You are not currently logged in and will user WPS as a guest</source>
@@ -7932,7 +7932,7 @@ to
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
 </context>
 <context>
@@ -8074,7 +8074,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>New Workspace</source>
-        <translation type="unfinished"/>
+        <translation>New Workspace</translation>
     </message>
 </context>
 <context>
@@ -8099,7 +8099,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>New Official Document</source>
-        <translation type="unfinished"/>
+        <translation>New Official Document</translation>
     </message>
     <message>
         <source>New Document From Template</source>
@@ -8165,7 +8165,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. Expected build key &quot;%2&quot;, got &quot;%3&quot;</source>
@@ -8285,7 +8285,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Invalid HTTP response header</source>
@@ -8996,7 +8996,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Too many open files</source>
@@ -9046,7 +9046,7 @@ All Rights Reserved.</source>
     <name>KxQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>If you have any questions, please call WPS Customer Service %1, or scan the Customer Service QR code on the left side.</translation>
     </message>
 </context>
 <context>
@@ -9158,7 +9158,7 @@ All Rights Reserved.</source>
     <name>KTristateWidget</name>
     <message>
         <source>loading</source>
-        <translation type="unfinished"/>
+        <translation>Loading</translation>
     </message>
     <message>
         <source>reload</source>
@@ -9219,7 +9219,7 @@ All Rights Reserved.</source>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>AppStore Evaluation</source>
-        <translation type="unfinished"/>
+        <translation>I Like WPS Office</translation>
     </message>
     <message>
         <source>Hide Others</source>
@@ -9285,11 +9285,12 @@ All Rights Reserved.</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Command+N</source>
-        <translation type="unfinished"/>
+        <translation>New Tab
+Create a blank tab with Command+N</translation>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>New</translation>
+        <translation>New Tab</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9306,8 +9307,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>New
-Create a new document tab with Ctrl+N</translation>
+        <translation>New Tab
+Create a blank tab with Ctrl+N</translation>
     </message>
 </context>
 <context>
@@ -9451,7 +9452,7 @@ p, li { white-space: pre-wrap; }
     <name>KPromePermissionDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -9466,7 +9467,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Confirm to exit?</source>
@@ -9486,14 +9487,14 @@ Exit login panel will lead to exiting WPS 2019.</source>
     <name>Q3ProgressDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
     <name>QProgressDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -9752,7 +9753,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>login immediately</source>
-        <translation type="unfinished"/>
+        <translation>Log In Now</translation>
     </message>
     <message>
         <source>Unlogin</source>
@@ -9774,7 +9775,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
 </context>
 <context>
@@ -9893,11 +9894,11 @@ Customer service hotline:</translation>
     <name>KPromeTabWebAppMenu</name>
     <message>
         <source>report</source>
-        <translation type="unfinished"/>
+        <translation>Report Inappropriate Content</translation>
     </message>
     <message>
         <source>feed back</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>refresh page</source>
@@ -9908,15 +9909,15 @@ Customer service hotline:</translation>
     <name>KPromeWebAppContentWidget</name>
     <message>
         <source>report</source>
-        <translation type="unfinished"/>
+        <translation>Report Inappropriate Content</translation>
     </message>
     <message>
         <source>feed back</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>refresh page</source>
-        <translation type="unfinished"/>
+        <translation>Refresh Page</translation>
     </message>
 </context>
 <context>
@@ -9969,11 +9970,11 @@ Customer service hotline:</translation>
     <name>KLoadingtipsDefaultWidget</name>
     <message>
         <source>Olympic and Paralympic Winter Games Beijing 2022</source>
-        <translation type="unfinished"/>
+        <translation>of the Olympic and Paralympic Winter Games Beijing 2022</translation>
     </message>
     <message>
         <source>Official Office Collaboration Software Supplier</source>
-        <translation type="unfinished"/>
+        <translation>Official Office Collaboration Software Supplier</translation>
     </message>
     <message>
         <source>Official collaborative office software provider for Beijing 2022 Winter Olympic Games and winter Paralympic Games.</source>
@@ -10092,11 +10093,11 @@ Customer service hotline:</translation>
     <name>KPromeFloatButton</name>
     <message>
         <source>Add Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Add Shortcut</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
 </context>
 <context>
@@ -10117,22 +10118,22 @@ Customer service hotline:</translation>
     <name>KPromeUnloginExitDlg</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Confirm to exit?</source>
-        <translation type="unfinished"/>
+        <translation>Confirm to exit?</translation>
     </message>
     <message>
         <source>Exit Now</source>
-        <translation type="unfinished"/>
+        <translation>Exit</translation>
     </message>
 </context>
 <context>
     <name>QHostInfo</name>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
 </context>
 <context>
