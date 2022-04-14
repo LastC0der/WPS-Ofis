@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>GrowFont.title</source>
-        <translation>Увеличить шрифт</translation>
+        <translation>Увеличить размер шрифта</translation>
     </message>
     <message>
         <source>AutoFilterAnalysis.content</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>SplitMerge.content</source>
-        <translation>Быстро и легко упорядочивайте файлы.</translation>
+        <translation>Быстро и просто систематизируйте файлы.</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Zoom.content</source>
-        <translation>Открыть диалоговое окно &quot;Масштаб&quot; для выбора параметров масштабирования документа.</translation>
+        <translation>Открытие диалогового окна &quot;Масштаб&quot;, в котором можно выбрать масштаб документа.</translation>
     </message>
     <message>
         <source>WorkSheet.title</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Быстрая печать</translation>
+        <translation>Печать на принтер</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>SparklineConvertToLine.title</source>
-        <translation>Convert To Line Sparkline</translation>
+        <translation>Преобразовать в спарклайн-график</translation>
     </message>
     <message>
         <source>PrinterCopies.content</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation>Отмена всех изменений форматирования, внесённых в изображение.</translation>
+        <translation>Отмена всех изменений форматирования для данного изображения.</translation>
     </message>
     <message>
         <source>InsertFunction.title</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Вставка выбранного файла в документ.</translation>
+        <translation>Добавление выбранного файла в документ.</translation>
     </message>
     <message>
         <source>WindowReset.content</source>
@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>LineSparkline.content</source>
-        <translation>Sparklines are mini charts placed in single cells, each representing a row of data in your selection.</translation>
+        <translation>Спарклайны — это мини-диаграммы, помещенные в отдельные ячейки. Каждый из спарклайнов представляет строку данных в выделенном вами фрагменте.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.title</source>
@@ -229,7 +229,7 @@
     </message>
     <message>
         <source>sp_Paste.content</source>
-        <translation>Вставка содержимого из буфера обмена.</translation>
+        <translation>Вставка содержимого буфера обмена.</translation>
     </message>
     <message>
         <source>NoBorder.content</source>
@@ -241,7 +241,7 @@
     </message>
     <message>
         <source>SparklineMarkers.title</source>
-        <translation>Toggle Sparkline Markers</translation>
+        <translation>Показать или скрыть маркеры спарклайна</translation>
     </message>
     <message>
         <source>SlicerItemWidth.title</source>
@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>DetailedSettings_WordArt.content</source>
-        <translation>Изменение настроек форматирования фигурного текста.</translation>
+        <translation>Изменение параметров форматирования фигурного текста.</translation>
     </message>
     <message>
         <source>Align.title</source>
@@ -285,9 +285,7 @@
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Подчёркивание выделенного текста.
-
-Щёлкните стрелку для выбора стиля подчеркивания.</translation>
+        <translation>Подчеркивание выделенного текста.</translation>
     </message>
     <message>
         <source>sp_Paste2.title</source>
@@ -295,7 +293,7 @@
     </message>
     <message>
         <source>CTB_DesignMode.title</source>
-        <translation>Конструктор</translation>
+        <translation>Режим конструирования</translation>
     </message>
     <message>
         <source>TableMenuRefresh.title</source>
@@ -303,11 +301,11 @@
     </message>
     <message>
         <source>SparklineGroup.title</source>
-        <translation>Group Selected Sparklines</translation>
+        <translation>Сгруппировать выделенные спарклайны</translation>
     </message>
     <message>
         <source>LinkedDataTypeListPanel.content</source>
-        <translation>Extract data to grid</translation>
+        <translation>Извлечь данные в ячейку.</translation>
     </message>
     <message>
         <source>Min.title</source>
@@ -315,9 +313,9 @@
     </message>
     <message>
         <source>VerbSideBySide.content</source>
-        <translation>Исходное положение окна для документов, сравниваемых рядом, чтобы они делили ширину экрана поровну.
+        <translation>Восстановление положения окна для документов, сравниваемых рядом, таким образом, чтобы каждый из них занимал половину экрана.
 
-Чтобы включить эту функцию, включите функцию &quot;Просмотр рядом&quot;.</translation>
+Для применения этой функции включите &quot;Режим просмотра рядом&quot;.</translation>
     </message>
     <message>
         <source>Macros.title</source>
@@ -365,7 +363,7 @@
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation>Восстановить размер</translation>
+        <translation>Согласование всех изменений с размером выбранного рисунка.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
@@ -377,7 +375,7 @@
     </message>
     <message>
         <source>ImportTxt.content</source>
-        <translation>Import data from a text file.</translation>
+        <translation>Импорт данных из текстового файла.</translation>
     </message>
     <message>
         <source>PTShowDetail.title</source>
@@ -385,7 +383,7 @@
     </message>
     <message>
         <source>SparklineUnGroup.content</source>
-        <translation>Break a set of grouped sparklines into individual sparklines.</translation>
+        <translation>Разбиение набора сгруппированных спарклайнов на отдельные спарклайны.</translation>
     </message>
     <message>
         <source>RelativeReference.title</source>
@@ -405,7 +403,7 @@
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Предыдущее примечание</translation>
+        <translation>Предыдущее.</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
@@ -425,7 +423,7 @@
     </message>
     <message>
         <source>PageSetup.content</source>
-        <translation>Отображение диалогового окна &quot;Параметры страницы&quot;.</translation>
+        <translation>Открыть диалоговое окно &quot;Параметры страницы&quot;.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
@@ -433,15 +431,15 @@
     </message>
     <message>
         <source>DevelopmentTools.content</source>
-        <translation>Открытие вкладки &quot;Конструктор&quot; для вставки переключателя, флажка и других функций.</translation>
+        <translation>DevelopmentTools Content</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Выбор клипа в окне задач и вставка его в документ.</translation>
+        <translation>Вставить содержимое клипа.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
-        <translation>Создание ссылки на веб-страницу, изображение, или адрес электронной почты.</translation>
+        <translation>Создание ссылки на веб-страницу, изображение или адрес электронной почты.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
@@ -461,7 +459,7 @@
     </message>
     <message>
         <source>DynamicShape.content</source>
-        <translation>Добавление готовых форм, таких как прямоугольники и окружности, стрелки, линии, символы блок-схем и выноски</translation>
+        <translation>Вставка готовых форм, таких как линии, прямоугольники, блок-схемы символов и выноски.</translation>
     </message>
     <message>
         <source>CharacterSpacing.content</source>
@@ -473,7 +471,7 @@
     </message>
     <message>
         <source>SparklineConvertToColumn.title</source>
-        <translation>Convert To Column Sparkline</translation>
+        <translation>Преобразовать в спарклайн-гистограмму</translation>
     </message>
     <message>
         <source>sp_Paste.title</source>
@@ -511,7 +509,7 @@
     </message>
     <message>
         <source>ImportTxt.title</source>
-        <translation>Get External Data From Text</translation>
+        <translation>Получить данные из текста</translation>
     </message>
     <message>
         <source>sp_Copy.title</source>
@@ -539,7 +537,7 @@
     </message>
     <message>
         <source>SparklineUnGroup.title</source>
-        <translation>Ungroup Selected Sparklines</translation>
+        <translation>Разгруппировать выделенные спарклайны</translation>
     </message>
     <message>
         <source>TotalRow.content</source>
@@ -565,7 +563,7 @@
     </message>
     <message>
         <source>SparklineFirstPoint.content</source>
-        <translation>Highlight the first points of data in the selected sparkline group.</translation>
+        <translation>Выделение первой точки данных в выбранной группе спарклайнов.</translation>
     </message>
     <message>
         <source>BottomBorder.title</source>
@@ -573,11 +571,11 @@
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Изменение настроек шрифта, абзаца, стилей и форматирования.</translation>
+        <translation>Изменение параметров форматирования ячеек.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
-        <translation>WorkSpace_Backup Title</translation>
+        <translation>WorkSpace Backup</translation>
     </message>
     <message>
         <source>Align.content</source>
@@ -587,7 +585,7 @@
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation>Щёлкните здесь для выбора других функций, таких как, вставка из буфера только значений или форматирование.</translation>
+        <translation>Щёлкните здесь, чтобы просмотреть дополнительные параметры, такие как вставка из буфера обмена только значений или только форматирования.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
@@ -611,7 +609,7 @@
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Переход к следующему примечанию в документе.</translation>
+        <translation>Переход к следующему примечанию.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
@@ -649,7 +647,8 @@
     </message>
     <message>
         <source>Thesaurus.content</source>
-        <translation>Подбор синонимов (других слов с похожим значением) для выделенного слова.</translation>
+        <translation>Подбор синонимов (других слов
+с похожим значением) для выделенного слова.</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.title</source>
@@ -725,15 +724,15 @@
     </message>
     <message>
         <source>AutoSaveFile_On.content</source>
-        <translation>The modified document is automatically saved for you to avoid loss of document content.</translation>
+        <translation>Измененный документ автоматически сохраняется, чтобы избежать потери содержимого документа.</translation>
     </message>
     <message>
         <source>VerbSideBySide.title</source>
-        <translation>Исходное положение окна</translation>
+        <translation>Восстановление положения окна.</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation>SendFileTip.content</translation>
+        <translation>Отправить файлы на телефон и другие устройства</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
@@ -745,7 +744,7 @@
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation>Просмотр двух документов рядом для сравнения их содержимого.</translation>
+        <translation>Просматривайте документы рядом вместо того, чтобы постоянно переключаться с одного на другой. Так намного легче выполнять сравнение.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
@@ -753,7 +752,7 @@
     </message>
     <message>
         <source>SparklineConvertToWinLoss.title</source>
-        <translation>Convert To Win/Loss Sparkline</translation>
+        <translation>Преобразовать в спарклайн выигрыша/проигрыша</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
@@ -769,7 +768,7 @@
     </message>
     <message>
         <source>RecordMacro.content</source>
-        <translation>Отображение диалогового окна &quot;Запись макроса&quot; и начало записи макроса.</translation>
+        <translation>Показать диалоговое окно &quot;Запись макроса&quot;, и начать запись макроса.</translation>
     </message>
     <message>
         <source>DoubleUnderline.content</source>
@@ -785,7 +784,7 @@
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation>Добавление примечания к выделенному фрагменту документа.</translation>
+        <translation>Добавление примечания к выделенному фрагменту.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
@@ -827,7 +826,7 @@
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation>Остановка записи макроса.</translation>
+        <translation>Остановить запись макроса.</translation>
     </message>
     <message>
         <source>ClearFilter.title</source>
@@ -845,11 +844,11 @@
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
-        <translation>Toggle Sparkline Low Points</translation>
+        <translation>Показать или скрыть минимальные точки спарклайна</translation>
     </message>
     <message>
         <source>SparklineConvertToWinLoss.content</source>
-        <translation>Change the selected sparkline group to a win/loss sparkline.</translation>
+        <translation>Изменение выбранной группы спарклайнов в спарклайн выигрыша/проигрыша.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
@@ -877,7 +876,7 @@
     </message>
     <message>
         <source>What-If Analysis.content</source>
-        <translation>Средство анализа &amp;quot;что если&amp;quot; определяет оптимальное значение целевой ячейки, изменяя значения ячеек, которые используются для расчета значения целевой ячейки.</translation>
+        <translation>Средство анализа &quot;что если&quot; определяет оптимальное значение целевой ячейки, изменяя значения ячеек, которые используются для расчета значения целевой ячейки.</translation>
     </message>
     <message>
         <source>LookupAndReference.content</source>
@@ -889,7 +888,9 @@
     </message>
     <message>
         <source>Table.content</source>
-        <translation>Рисование или вставка таблицы в документ и преобразование текста в таблицу или наоборот.</translation>
+        <translation>Создание таблицы для управления связанными данными и их анализа.
+
+ Таблицы упрощают сортировку, фильтрацию и форматирование данных на листе.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
@@ -927,15 +928,15 @@
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Выбор цвета текста.
+        <translation>Изменение цвета текста.
 
 Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation>Заполнение выделенной формы цветом, плавным переходом цвета, текстурой или изображением.
+        <translation>Изменение цвета фона выделенных ячеек.
 
-Выберите тип заливки щелчком курсора.</translation>
+Щёлкните стрелку для выбора цвета заливки.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
@@ -956,6 +957,10 @@
     <message>
         <source>HideWindow.title</source>
         <translation>Скрыть окно</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
@@ -983,11 +988,11 @@
     </message>
     <message>
         <source>ShapeSize.content</source>
-        <translation>Задание размера, угла поворота и масштаба для выделенной фигуры.</translation>
+        <translation>Выбор размера, угла поворота и масштаба выделенной фигуры.</translation>
     </message>
     <message>
         <source>SparklineSeriesColor.content</source>
-        <translation>Specific the color and weight of the sparklines in the selected sparkline group.</translation>
+        <translation>Определение цвета и толщины выделенного спарклайна в выбранной группе спарклайнов.</translation>
     </message>
     <message>
         <source>EnableMacro.title</source>
@@ -999,7 +1004,7 @@
     </message>
     <message>
         <source>Direction.content</source>
-        <translation>Выбор эффекта направления для выделенной объемной фигуры.</translation>
+        <translation>Выбор эффекта направления для выделенной фигуры 3-D.</translation>
     </message>
     <message>
         <source>Printer.title</source>
@@ -1007,7 +1012,7 @@
     </message>
     <message>
         <source>HighlighDuplicates.content</source>
-        <translation>Click here to perform operations on duplicate items, such as highlight duplicate items, refuse to enter duplicate items, delete duplicate items, etc.</translation>
+        <translation>Щелкните здесь, чтобы выполнить операции с повторяющимися элементами, например выделить повторяющиеся элементы, отклонить повторяющиеся элементы и удалить повторяющиеся элементы.</translation>
     </message>
     <message>
         <source>AutoFilterFavorite.title</source>
@@ -1035,7 +1040,7 @@
     </message>
     <message>
         <source>TextSpeech.title</source>
-        <translation>Чтение текста</translation>
+        <translation>Текст в речь</translation>
     </message>
     <message>
         <source>PageSize.content</source>
@@ -1075,11 +1080,11 @@
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Понизить уровень списка</translation>
+        <translation>Уменьшить отступ</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
-        <translation>Щёлкните стрелку для выбора из различных эффектов заливки.</translation>
+        <translation>Щёлкните стрелку для выбора типа заливки.</translation>
     </message>
     <message>
         <source>Validation.content</source>
@@ -1121,7 +1126,7 @@
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Экспорт изображения Weibo</translation>
+        <translation>Экспорт в рисунок</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
@@ -1151,7 +1156,7 @@
     </message>
     <message>
         <source>CmpSideBySide.title</source>
-        <translation>Режим просмотра рядом</translation>
+        <translation>Режим просмотра рядом.</translation>
     </message>
     <message>
         <source>SortAscending.content</source>
@@ -1205,7 +1210,7 @@
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Автосохранение файла</translation>
     </message>
     <message>
         <source>FormatChartObject.content</source>
@@ -1213,17 +1218,21 @@
     </message>
     <message>
         <source>SparklineNegativePoint.content</source>
-        <translation>Highlight the negative values one the selected sparkline group with a different color or marker.</translation>
+        <translation>Выделение отрицательных значений в выбранной группе спарклайнов с помощью другого цвета или маркера.</translation>
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation>Заливка фигуры</translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
         <translation>Разрешить определённым пользователям изменять диапазоны ячеек защищённой книги или листа.
 
 Перед использованием этой функции установите параметры безопасности с помощью команды &quot;Защитить лист&quot;.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>NamePaste.title</source>
@@ -1239,7 +1248,7 @@
     </message>
     <message>
         <source>LinkedDataTypeListPanel.title</source>
-        <translation>Insert Data</translation>
+        <translation>Вставить данные</translation>
     </message>
     <message>
         <source>PTFieldSettings.title</source>
@@ -1267,7 +1276,7 @@
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Выровнять по правому краю</translation>
+        <translation>Выравнивание текста по правому краю.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
@@ -1282,15 +1291,15 @@
     </message>
     <message>
         <source>ChineseTranslation.title</source>
-        <translation>Преобразовать в символы традиционного китайского письма</translation>
+        <translation>Преобразование упрощённого в традиционный китайский</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Увеличение уровня отступа абзаца.</translation>
+        <translation>Увеличение поля между границей и текстом ячейки.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Уменьшение уровня отступа абзаца.</translation>
+        <translation>Уменьшение поля между границей и текстом ячейки.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
@@ -1330,7 +1339,7 @@
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation>Преобразование упрощенного китайского в традиционный на основе символов или слов.</translation>
+        <translation>Преобразовать упрощённый китайский в традиционный на основе символов или слов.</translation>
     </message>
     <message>
         <source>AllBorders.content</source>
@@ -1378,7 +1387,7 @@
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation>Insert form</translation>
+        <translation>Вставить поля формы</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1402,7 +1411,7 @@
     </message>
     <message>
         <source>SparklineConvertToColumn.content</source>
-        <translation>Change the selected sparkline group to a column sparkline.</translation>
+        <translation>Изменение выбранной группы спарклайнов в спарклайн-гистограмму.</translation>
     </message>
     <message>
         <source>AutoFilter.content</source>
@@ -1442,7 +1451,7 @@
     </message>
     <message>
         <source>ShrinkFont.title</source>
-        <translation>Уменьшить шрифт</translation>
+        <translation>Уменьшить размер шрифта</translation>
     </message>
     <message>
         <source>Count.title</source>
@@ -1520,7 +1529,7 @@
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation>Clear Selected Sparklines</translation>
+        <translation>Очистить выбранные спарклайны</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
@@ -1532,7 +1541,9 @@
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation>Изменение колонтитулов документа.</translation>
+        <translation>Изменение колонтитулов документа.
+
+Содержимое колонтитулов будет отображаться вверху или внизу каждой напечатанной страницы.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
@@ -1540,7 +1551,7 @@
     </message>
     <message>
         <source>Find.title</source>
-        <translation>Найти</translation>
+        <translation>Поиск и замена</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
@@ -1574,7 +1585,7 @@
     </message>
     <message>
         <source>Lighting.title</source>
-        <translation>Освещение</translation>
+        <translation>Угол освещения</translation>
     </message>
     <message>
         <source>DataDetailedSettings.title</source>
@@ -1582,15 +1593,15 @@
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Центрировать по вертикали</translation>
+        <translation>Выровнять по центру</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation>Mark the background area and quickly and intelligently remove the background of the picture</translation>
+        <translation>Отметьте фоновую область, а затем быстро и точно удалите фон изображения</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation>Change the scaling and visibility of each sparkline axis for the selected sparkline group.</translation>
+        <translation>Изменение масштаба и видимости каждой оси спарклайна для выбранной группы спарклайнов.</translation>
     </message>
     <message>
         <source>RefreshAll.title</source>
@@ -1614,7 +1625,7 @@
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation>Allow WPS Spreedsheets to choose the paragraph direction based on the lanuage that is being typed.</translation>
+        <translation>Разрешить WPS Spreadsheets выбирать направление письма в абзаце на основании языка ввода.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
@@ -1630,7 +1641,7 @@
     </message>
     <message>
         <source>Gallery.title</source>
-        <translation>Коллекция WPS</translation>
+        <translation>Коллекция WPS Office</translation>
     </message>
     <message>
         <source>LockCell.content</source>
@@ -1666,7 +1677,7 @@
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation>Edit Group Location &amp; Data</translation>
+        <translation>Изменить данные и расположение группы</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
@@ -1674,11 +1685,11 @@
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation>Задайте направление освещения для выбранной фигуры 3-D, а также интенсивность освещения из яркого, нормального и тусклого.</translation>
+        <translation>Выбор для выделенной формы 3-D направления и силы освещения, включая, яркое, нормальное и тусклое.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation>Вставить изображение</translation>
+        <translation>Вставить рисунок</translation>
     </message>
     <message>
         <source>PTFilterConnections.title</source>
@@ -1698,7 +1709,7 @@
     </message>
     <message>
         <source>PageOrientation.content</source>
-        <translation>Переключение ориентации страниц между книжной и альбомной.</translation>
+        <translation>Выбор книжной или альбомной ориентации страниц.</translation>
     </message>
     <message>
         <source>RightBorder.content</source>
@@ -1730,7 +1741,7 @@
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation>Заливка фигуры</translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
@@ -1750,13 +1761,13 @@
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation>Синхронизация прокрутки двух документов таким образом, чтобы они прокручивались одновременно.
+        <translation>Одновременная прокрутка двух документов.
 
-Для применения этой функции включите &quot;Просмотр в одном ряду&quot;.</translation>
+Для применения этой функции включите &quot;Режим просмотра рядом&quot;.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation>Toggle Sparkline Negative Points</translation>
+        <translation>Показать или скрыть отрицательные точки спарклайна</translation>
     </message>
     <message>
         <source>NameManager.title</source>
@@ -1784,7 +1795,7 @@
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Автосохранение включено</translation>
     </message>
     <message>
         <source>EDRProperties.content</source>
@@ -1792,7 +1803,7 @@
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
-        <translation>Изменение настроек форматирования форм.</translation>
+        <translation>Изменение параметров форматирования форм.</translation>
     </message>
     <message>
         <source>sp_AutoSum.title</source>
@@ -1868,9 +1879,7 @@
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Вставка внедренного объекта в документ.
-
-Щёлкните стрелку для добавления содержимого файла в документ.</translation>
+        <translation>Показать диалоговое окно &quot;Вставить объект&quot; для выбора нового файла или файла из локальной папки.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
@@ -1878,7 +1887,7 @@
     </message>
     <message>
         <source>Group.content</source>
-        <translation>Группирование объектов вместе, как единого объекта.</translation>
+        <translation>Группирование объектов таким образом, чтобы в дальнейшем их можно было обрабатывать как один объект.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
@@ -1936,7 +1945,7 @@
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>Открытие диалогового окна &quot;Коллекция&quot; для выбора стиля фигурного текста и редактирования содержимого.</translation>
+        <translation>Оформление документа с помощью надписей WordArt.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
@@ -1956,7 +1965,7 @@
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation>Highlight the lowest points of data in the selected sparkline group.</translation>
+        <translation>Выделение минимальных точек данных в выбранной группе спарклайнов.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
@@ -1968,7 +1977,7 @@
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>Просмотр элементов в буфере обмена.</translation>
+        <translation>Просмотр элементов, копируемых в буфер обмена.</translation>
     </message>
     <message>
         <source>HighlightDisplay.content</source>
@@ -1988,7 +1997,7 @@
     </message>
     <message>
         <source>PageOrientation.title</source>
-        <translation>Ориентация страницы</translation>
+        <translation>Ориентация текста</translation>
     </message>
     <message>
         <source>PageBreakPreview.content</source>
@@ -2015,26 +2024,26 @@
     <message>
         <source>ShapeFillAndOutLine.content</source>
         <translation>1. Заливка фигуры
-Заполните выбранные объекты цветом, градиентами, текстурами и изображениями.
-2. Контуры фигуры
-Настройте цвет, толщину линий и штриховку для выбранных объектов.
-Нажмите стрелки для подробной настройки.</translation>
+Заливка выбранных объектов цветами, градиентами, текстурами и изображениями.
+2. Контур фигуры
+Настройка цветов, толщины и штрихов для выбранных объектов.
+Нажмите кнопку со стрелкой, чтобы просмотреть подробную конфигурацию.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
-        <translation>Выровнять по правому краю</translation>
+        <translation>Выровнять текст по правому краю</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation>Clear the selected sparklines.</translation>
+        <translation>Очистка выбранных спарклайнов.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
-        <translation>Остановка автоматического резервного копирования текущего документа.</translation>
+        <translation>Остановить автоматическое сохранение для выделенной книги.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>Вставить фигурный текст</translation>
+        <translation>Вставить фигурный текст </translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
@@ -2130,7 +2139,7 @@
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation>Переход к следующей странице презентации.</translation>
+        <translation>Переход к следующей странице при печати текущего листа.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
@@ -2154,7 +2163,9 @@
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation>Начало следующей страницы с текущей позиции курсора, и перемещение после установки курсора части содержимого на новую страницу.</translation>
+        <translation>Указание места, с которого начинается новая страница печатного документа.
+
+Разрывы страниц вставляются над выделенным фрагментом и слева от него.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
@@ -2162,15 +2173,15 @@
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation>Сохранить пропорции</translation>
+        <translation>Сохранить пропорции при настройке рисунка.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
-        <translation>Исправления</translation>
+        <translation>Регистрация изменений</translation>
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation>Highlight each point in each line sparkline in the selected sparkline group.</translation>
+        <translation>Выделение всех точек на спарклайн-графике в выбранной группе спарклайнов.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
@@ -2182,11 +2193,11 @@
     </message>
     <message>
         <source>PrintPreviewZoomCombo.content</source>
-        <translation>Выбор размера масштабирования текущего документа.</translation>
+        <translation>Выбор уровня масштабирования текущего документа.</translation>
     </message>
     <message>
         <source>NewWindow.content</source>
-        <translation>Открыть новое окно с видом текущего документа.</translation>
+        <translation>Открытие нового окна с представлением текущего документа.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
@@ -2194,7 +2205,7 @@
     </message>
     <message>
         <source>TrackChanges.content</source>
-        <translation>Отслеживание всех изменений, внесённых в документ, в том числе вставок, удалений и форматирования.</translation>
+        <translation>Отслеживание всех изменений, внесенных в документ, включая вставку, удаление и изменение форматирования.</translation>
     </message>
     <message>
         <source>BottomBorder.content</source>
@@ -2230,7 +2241,9 @@
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Цвет заливки</translation>
+        <translation>Заливка выделенного объекта цветом, градиентом, текстурой или изображением.
+
+Щёлкните стрелку для выбора типа заливки.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
@@ -2250,7 +2263,7 @@
     </message>
     <message>
         <source>AlignLeft.title</source>
-        <translation>Выровнять по левому краю</translation>
+        <translation>Выровнять текст по левому краю</translation>
     </message>
     <message>
         <source>ProtectSheet.title</source>
@@ -2272,7 +2285,7 @@
     </message>
     <message>
         <source>ShapeFillColor.title</source>
-        <translation>Цвет заливки</translation>
+        <translation>Заливка фигуры</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
@@ -2322,7 +2335,7 @@
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation>Edit the location and data source for the selected sparkline group.</translation>
+        <translation>Изменение расположения и источника данных для выбранной группы спарклайнов.</translation>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
@@ -2334,7 +2347,7 @@
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation>Установка книжного макета презентации.</translation>
+        <translation>Установка книжной ориентации страниц.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
@@ -2342,11 +2355,11 @@
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Отображение диалогового окна &quot;Макросы&quot; и вывод списка макросов для выполнения, создания или удаления макроса.</translation>
+        <translation>Открыть диалоговое окно &quot;Макросы&quot;. Показать список макросов для выполнения, создания или удаления макроса.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
-        <translation>Выровнять по левому краю</translation>
+        <translation>Выравнивание текста по левому краю.</translation>
     </message>
     <message>
         <source>ConvertToRange.title</source>
@@ -2366,7 +2379,7 @@
     </message>
     <message>
         <source>FillColor2.content</source>
-        <translation>Щёлкните стрелку для выбора из различных эффектов заливки.</translation>
+        <translation>Щёлкните стрелку для выбора цвета фона.</translation>
     </message>
     <message>
         <source>PrintNormalView.title</source>
@@ -2378,7 +2391,7 @@
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Щелкните стрелку для выбора цвета текста.</translation>
+        <translation>Щёлкните стрелку для выбора цвета текста.</translation>
     </message>
     <message>
         <source>GraphicFillColor2.title</source>
@@ -2398,7 +2411,7 @@
     </message>
     <message>
         <source>ObjectSelect.content</source>
-        <translation>Отображение области выделения, которая позволяет выделить отдельные объекты, изменить их порядок, а также показать или скрыть их.</translation>
+        <translation>Отображение области выделения, которая позволяет выделить отдельные объекты, изменить их расположение, а также показать или скрыть их.</translation>
     </message>
     <message>
         <source>PTTableOptions.title</source>
@@ -2411,9 +2424,9 @@
     </message>
     <message>
         <source>Gallery.content</source>
-        <translation>Коллекция WPS предоставляет все виды источников изображений для использования, сбора, редактирования и управления.
+        <translation>В коллекции WPS Office помещены изображения для дальнейшего использования, сохранения или изменения.
 
-Для использования коллекции WPS из Интернета необходимо подключение к Интернету.</translation>
+Интернет-коллекцию, включённую в коллекцию WPS Office, можно использовать при подключении к Интернету.</translation>
     </message>
     <message>
         <source>NumberFormatCells.content</source>
@@ -2447,7 +2460,7 @@
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Сжатие выделенного изображения или всех изображений в документе для уменьшения размера.</translation>
+        <translation>Сжатие выбранного изображения или всех изображений в документе для уменьшения размера.</translation>
     </message>
     <message>
         <source>SortAscending.title</source>
@@ -2493,7 +2506,7 @@
     </message>
     <message>
         <source>StopAutoVersion.title</source>
-        <translation>Остановить автоматическое резервное копирование</translation>
+        <translation>Остановить автосохранение</translation>
     </message>
     <message>
         <source>Financial.title</source>
@@ -2501,7 +2514,7 @@
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation>Toggle Sparkline First Points</translation>
+        <translation>Показать или скрыть первую точку спарклайна</translation>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
@@ -2517,11 +2530,11 @@
     </message>
     <message>
         <source>EquationEditor.content</source>
-        <translation>Вставка математических формул, используя редактор формул.</translation>
+        <translation>Использование редактора формул для добавления математических формул.</translation>
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation>Pick how you want to copy the selection.</translation>
+        <translation>Выберите способ копирования выбранных данных.</translation>
     </message>
     <message>
         <source>LeftBorder.content</source>
@@ -2541,7 +2554,7 @@
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Повысить уровень списка</translation>
+        <translation>Увеличить отступ</translation>
     </message>
     <message>
         <source>CharacterSpacing.title</source>
@@ -2563,7 +2576,7 @@
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation>Синхронная прокрутка</translation>
+        <translation>Синхронная прокрутка.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
@@ -2592,6 +2605,10 @@
         <translation>Вставить гиперссылку</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.content</source>
+        <translation>EtPhotoedit2</translation>
+    </message>
+    <message>
         <source>PrintPreviewZoomCombo.title</source>
         <translation>Масштаб</translation>
     </message>
@@ -2601,7 +2618,7 @@
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation>Toggle Sparkline Last Points</translation>
+        <translation>Выделить последнюю точку данных</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
@@ -2630,12 +2647,16 @@
         <translation>Выделить данные</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.title</source>
+        <translation>EtPhotoedit2</translation>
+    </message>
+    <message>
         <source>TextFill2.title</source>
         <translation>Цвет текста</translation>
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation>Change the selected sparkline group to a line sparkline.</translation>
+        <translation>Изменение выбранной группы спарклайнов в спарклайн-график.</translation>
     </message>
     <message>
         <source>ResizeTable.content</source>
@@ -2651,11 +2672,11 @@
     </message>
     <message>
         <source>CTB_DesignMode.content</source>
-        <translation>Вход в режим разработчика для изменения имён элементов управления и функций.</translation>
+        <translation>Вход в режим конструирования для изменения названия и функций элементов управления.</translation>
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation>Column Sparkline</translation>
+        <translation>Спарклайн-гистограмма</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
@@ -2663,11 +2684,11 @@
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation>Highlight the highest points of data in the selected sparkline group.</translation>
+        <translation>Выделение максимальных точек данных в выбранной группе спарклайнов.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation>Highlight the last points of data in the selected sparkline group.</translation>
+        <translation>Выделение последней точки данных в выбранной группе спарклайнов.</translation>
     </message>
     <message>
         <source>AllBorders.title</source>
@@ -2679,7 +2700,7 @@
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Экспорт изображения Weibo.</translation>
+        <translation>Экспорт документа в изображение</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
@@ -2687,7 +2708,7 @@
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Следующее примечание</translation>
+        <translation>Следующее.</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
@@ -2727,11 +2748,11 @@
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation>Установка альбомного макета страницы.</translation>
+        <translation>Установка альбомной ориентации страниц.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation>Duplicate Setting</translation>
+        <translation>Повторяющийся параметр</translation>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
@@ -2743,7 +2764,7 @@
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation>Win/Loss Sparkline</translation>
+        <translation>Спарклайн выигрыша/проигрыша</translation>
     </message>
     <message>
         <source>Consolidate.content</source>
@@ -2755,7 +2776,7 @@
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Просмотр страниц перед печатью и внесение необходимых изменений.</translation>
+        <translation>Предварительный просмотр и внесение изменений в страницы перед печатью.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
@@ -2771,11 +2792,11 @@
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation>Line Sparkline</translation>
+        <translation>Спарклайн-график</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
-        <translation>Вставка клипа</translation>
+        <translation>Вставить клип</translation>
     </message>
     <message>
         <source>MergeCancel.content</source>
@@ -2787,11 +2808,11 @@
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation>Toggle Sparkline Hight Points</translation>
+        <translation>Показать или скрыть максимальные точки спарклайна</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
-        <translation>Средства разработчика</translation>
+        <translation>Разработчик</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
@@ -2821,7 +2842,7 @@
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Центрирование текста в ячейке по горизонтали и по вертикали.</translation>
+        <translation>Выравнивание текста по центру.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
@@ -2861,11 +2882,11 @@
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Переход к предыдущему примечанию в документе.</translation>
+        <translation>Переход к предыдущему примечанию.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
-        <translation>Макросы</translation>
+        <translation>Просмотр макросов</translation>
     </message>
     <message>
         <source>EditCrossBookLinks.title</source>
@@ -2887,7 +2908,7 @@
     </message>
     <message>
         <source>CompressPictures.title</source>
-        <translation>Сжать изображение</translation>
+        <translation>Сжатие изображений</translation>
     </message>
     <message>
         <source>HighlightDisplay.title</source>
@@ -2917,7 +2938,7 @@
         <source>Find.content</source>
         <translation>Поиск текста в документе.
 
-Щёлкните стрелку для выбора других параметров, например &quot;Перейти&quot;.</translation>
+Щёлкните стрелку для выбора других функций, таких как &quot;Перейти&quot;.</translation>
     </message>
     <message>
         <source>Financial.content</source>
@@ -2943,7 +2964,7 @@
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation>Change the color for negative points, markers, and all other points for the selected sparkline group.</translation>
+        <translation>Изменение цвета отрицательных точек, маркеров и всех остальных точек для выбранной группы спарклайнов.</translation>
     </message>
     <message>
         <source>DeleteRange.title</source>
@@ -2959,7 +2980,7 @@
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation>Sparkline Axis</translation>
+        <translation>Ось спарклайна</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
@@ -2987,7 +3008,7 @@
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation>Choose different forms to insert into the document, such as labels, check boxes, scroll bars, fine-tuning items, etc.</translation>
+        <translation>Выберите разные элементы управления для вставки в документ, например метки, флажки, полосы прокрутки и вертушки.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
@@ -3021,9 +3042,10 @@
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation>Копирование элементов форматирования из одного места и применение к другому.
+        <translation>Копирование форматирования из одного места и применение его в другом.
 
-Дважды щёлкните эту кнопку для применения одинакового форматирования к нескольким частям документа.</translation>
+Дважды щёлкните эту кнопку, чтобы применить одно и то же
+форматирование к нескольким частям документа.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
@@ -3035,7 +3057,7 @@
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Отправка документа на, используемый по умолчанию, принтер без внесения изменений.</translation>
+        <translation>Отправка документа на используемый по умолчанию принтер без внесения изменений.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
@@ -3067,7 +3089,7 @@
     </message>
     <message>
         <source>TextSpeech2.title</source>
-        <translation>Читение</translation>
+        <translation>Чтение</translation>
     </message>
     <message>
         <source>MergeSelection.title</source>
@@ -3149,11 +3171,11 @@
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Отправить на телефон</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation>The file will be automatically saved for you when it is turned on.</translation>
+        <translation>Если эта функция включена, измененное содержимое будет автоматически сохраняться, чтобы избежать потери содержимого документа.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
@@ -3161,7 +3183,7 @@
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation>Group sparklines together so they can share formatting and scaling options.</translation>
+        <translation>Группировка спарклайнов для использования общих параметров форматирования и масштабирования.</translation>
     </message>
     <message>
         <source>NameDefine.title</source>
