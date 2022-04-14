@@ -7,15 +7,15 @@
     </message>
     <message>
         <source>&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;.</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS</translation>
     </message>
     <message>
         <source>&quot;Tab</source>
-        <translation>&quot;Pestaña</translation>
+        <translation>&quot;Tabulador</translation>
     </message>
     <message>
         <source>Close</source>
@@ -23,23 +23,23 @@
     </message>
     <message>
         <source>&amp;Categories:</source>
-        <translation>Categorías(&amp;C):</translation>
+        <translation>Categorías:</translation>
     </message>
     <message>
         <source>Press &amp;new shortcut key:</source>
-        <translation>Pulse la tecla de nuevo acceso directo(&amp;N):</translation>
+        <translation>Pulse la tecla de nuevo acceso directo:</translation>
     </message>
     <message>
         <source>File menu</source>
-        <translation>Menú &quot;Archivo&quot;</translation>
+        <translation>Menú de archivo</translation>
     </message>
     <message>
         <source>All Commands</source>
-        <translation type="unfinished"/>
+        <translation>Todos los comandos</translation>
     </message>
     <message>
         <source>C&amp;ommands:</source>
-        <translation>Comandos(&amp;O):</translation>
+        <translation>Comandos:</translation>
     </message>
     <message>
         <source>Customize keyboard</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Macr&amp;os:</source>
-        <translation>Macros(&amp;O):</translation>
+        <translation>Macros:</translation>
     </message>
     <message>
         <source>Specify a command</source>
@@ -67,35 +67,35 @@
     </message>
     <message>
         <source>O&amp;ffice Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Teclas de método abreviado de O&amp;ffice </translation>
     </message>
     <message>
         <source>Click here</source>
-        <translation type="unfinished"/>
+        <translation>Pulse aquí</translation>
     </message>
     <message>
         <source>&amp;Assign</source>
-        <translation>Asignar(&amp;A)</translation>
+        <translation>Asignar</translation>
     </message>
     <message>
         <source>&amp;WPS Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Teclas de método abreviado de &amp;WPS </translation>
     </message>
     <message>
         <source>Sa&amp;ve changes in:</source>
-        <translation>Guardar cambios en(&amp;V):</translation>
+        <translation>Guardar cambios en:</translation>
     </message>
     <message>
         <source>C&amp;urrent keys:</source>
-        <translation>Teclas actuales(&amp;U):</translation>
+        <translation>Teclas actuales:</translation>
     </message>
     <message>
         <source>Re&amp;set All...</source>
-        <translation>Restablecer todo(&amp;S)...</translation>
+        <translation>Restablecer todo...</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
@@ -385,15 +385,15 @@
     <name>ContentPictureTransparency</name>
     <message>
         <source>%</source>
-        <translation type="unfinished"/>
+        <translation>%</translation>
     </message>
     <message>
         <source>Enter %0 to 100% of value</source>
-        <translation type="unfinished"/>
+        <translation>Especifique un valor entre 0% y 100%</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Transparencia</translation>
     </message>
 </context>
 <context>
@@ -1482,7 +1482,7 @@ Revise sus datos y asegúrese de que la referencia es válida y el libro existe.
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"/>
+        <translation>Confiar</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -1623,7 +1623,8 @@ ciclo</translation>
     </message>
     <message>
         <source>Enter network password to connect to:%1</source>
-        <translation type="unfinished"/>
+        <translation>Conectarse a %1
+Introduzca sus credenciales:</translation>
     </message>
     <message>
         <source>Load on Demand</source>
@@ -1720,7 +1721,7 @@ ciclo</translation>
     </message>
     <message>
         <source>Currently using %1 keyboard shortcuts template, for more details of the differences between the two sets of templates WPS and Generic Office, please</source>
-        <translation type="unfinished"/>
+        <translation>Está utilizando la plantilla de teclas de método abreviado de %1. Para obtener más información sobre las diferencias entre la plantilla de teclas de método abreviado de WPS y la plantilla general de teclas de método abreviado de Office,</translation>
     </message>
     <message>
         <source>Bright Green</source>
@@ -1905,7 +1906,7 @@ Usado para mostrar relaciones basadas en la infraestructura</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1917,7 +1918,7 @@ Usado para mostrar relaciones basadas en la infraestructura</translation>
     </message>
     <message>
         <source>Preset Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Preestablecidos</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -1941,7 +1942,7 @@ Si desea cambiar el nombre del campo de la tabla, debe escribir un nombre nuevo 
     </message>
     <message>
         <source>The XML extension package security settings have been disabled, which will facilitate solution development but allow for the running of unsafe XML extension package components. Do you re-enable the XML extension package security settings?</source>
-        <translation type="unfinished"/>
+        <translation>Se ha deshabilitado la seguridad del paquete de expansión XML. Esto facilita el desarrollo de la solución, pero permite la ejecución de componentes del paquete de expansión XML que no son seguros. ¿Seguro que desea volver a habilitar la seguridad del paquete de expansión XML?</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -2010,7 +2011,8 @@ Si desea cambiar el nombre del campo de la tabla, debe escribir un nombre nuevo 
     <message>
         <source>%1
 Please carefully identify the website to ensure that it is trustworthy and safe, so as not to disturb you by sending irrelevant content, or Because unsafe operations cause you losses. If you trust it, it will have the right to display its web page information in WPS application and access document content and computer resources.</source>
-        <translation type="unfinished"/>
+        <translation>%1
+Identifique minuciosamente el sitio web para asegurarse de que sea fiable y seguro, de modo que no se vea perturbado por contenidos irrelevantes enviados por el sitio web, ni sufra pérdidas debido a operaciones no seguras. Si confía en el sitio web, este tendrá derecho a mostrar la información de su página web en la aplicación WPS y a acceder al contenido de los documentos y recursos del ordenador.</translation>
     </message>
     <message>
         <source>Paused</source>
@@ -2166,7 +2168,7 @@ elementos</translation>
     </message>
     <message>
         <source>Don&apos;t Trust</source>
-        <translation type="unfinished"/>
+        <translation>No confiar</translation>
     </message>
     <message>
         <source>Dark vertical</source>
@@ -2672,7 +2674,7 @@ consulte al departamento informático de su empresa, o llame al servicio al clie
     </message>
     <message>
         <source>Custom Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Personalizar</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -3100,7 +3102,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>You are about to visit a third-party website</source>
-        <translation type="unfinished"/>
+        <translation>Está a punto de visitar un sitio web de terceros</translation>
     </message>
     <message>
         <source>Part of %s</source>
@@ -3736,7 +3738,7 @@ Usado para mostrar relaciones jerárquicas</translation>
     <name>kso_ksocomm</name>
     <message>
         <source>,</source>
-        <translation type="unfinished"/>
+        <translation>,</translation>
     </message>
     <message>
         <source>No</source>
@@ -3764,7 +3766,7 @@ Usado para mostrar relaciones jerárquicas</translation>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Sugerencia</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3801,7 +3803,7 @@ Usado para mostrar relaciones jerárquicas</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -3833,7 +3835,7 @@ Usado para mostrar relaciones jerárquicas</translation>
     </message>
     <message>
         <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation type="unfinished"/>
+        <translation>Este software solo lo puede utilizar un usuario individual para fines personales. No puede utilizarse para fines comerciales como la producción, los negocios y otros. ||Este software incluye: El proyecto FreeType, con su autorización gratuita concedida en base a las cláusulas de autorización de la licencia FreeType; el segmento de palabras chinas, las anotaciones fonéticas chinas y la tecnología para la conversión entre el chino simplificado y el chino tradicional proporcionada por el Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology; el corrector ortográfico Hunspell, y el código fuente de Hunspell es el código abierto aplicable para múltiples licencias: la MPL 1.1, la GPL 2.0 y la LGPL 2.1; Sqlite3, según su licencia comercial gratuita, utiliza sus datos para almacenar y leer código abierto.</translation>
     </message>
     <message>
         <source>WPS Simulation Error Recovery Help</source>
@@ -3906,7 +3908,7 @@ Usado para mostrar relaciones jerárquicas</translation>
     </message>
     <message>
         <source>New Workbook.uos</source>
-        <translation type="unfinished"/>
+        <translation>Nuevo Workbook.uos</translation>
     </message>
     <message>
         <source>Calendar Item</source>
@@ -3981,7 +3983,7 @@ Archivo;%s
     </message>
     <message>
         <source>WPS Writer cannot inert a file into self. (%1)</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer no puede insertar un documento en el propio documento. (%1)</translation>
     </message>
     <message>
         <source>WPS SpreadSheet</source>
@@ -4223,7 +4225,13 @@ Puede hacer clic el botón para recuperar los archivos que trabaja con.</transla
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation type="unfinished"/>
+        <translation>Se han producido %s errores durante la operación de copia de seguridad. Intente las operaciones siguientes: 
+•Compruebe si el directorio de copia de seguridad tiene permisos de escritura o intente cambiar el directorio de copia de seguridad.
+•[Deshacer] la operación anterior y [Guardar]; 
+•[Guardar como...] archivos de texto（*.txt）; 
+•[Copiar/Pegar] el contenido en el archivo nuevo; 
+•Descartar los cambios en este archivo.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
@@ -4439,11 +4447,11 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>New Workbook.xlsx</source>
-        <translation type="unfinished"/>
+        <translation>Nuevo Workbook.xlsx</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Abrir archivo</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
@@ -4484,7 +4492,11 @@ Do you want to open it using a different set of credentials?</source>
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation type="unfinished"/>
+        <translation>Se han producido %s errores durante la operación de copia de seguridad. Intente las operaciones siguientes:
+•Compruebe si el directorio de copia de seguridad tiene permisos de escritura o intente cambiar el directorio de copia de seguridad.
+•[Deshacer] la operación anterior y [Guardar]; 
+•[Copiar/Pegar] el contenido en el archivo nuevo; 
+•Descartar los cambios en este archivo.</translation>
     </message>
     <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
@@ -4567,7 +4579,7 @@ Esta posición podría no ser segura.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation type="unfinished"/>
+        <translation>Este software incluye: El proyecto FreeType, con su autorización gratuita concedida en base a las cláusulas de autorización de la licencia FreeType; el segmento de palabras chinas, las anotaciones fonéticas chinas y la tecnología para la conversión entre el chino simplificado y el chino tradicional proporcionada por el Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology; el corrector ortográfico Hunspell, y el código fuente de Hunspell es el código abierto aplicable para múltiples licencias: la MPL 1.1, la GPL 2.0 y la LGPL 2.1; fuentes de Founder para su uso en WPS Office Linux, con la autorización oficial de Founder; Sqlite3, según su licencia comercial gratuita, utiliza sus datos para almacenar y leer código abierto.</translation>
     </message>
     <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
@@ -11075,7 +11087,7 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Scan Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Modo de escaneo:</translation>
     </message>
     <message>
         <source>More...</source>
@@ -11083,23 +11095,23 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Scan Color:</source>
-        <translation type="unfinished"/>
+        <translation>Color de escaneo:</translation>
     </message>
     <message>
         <source>Image Size:</source>
-        <translation type="unfinished"/>
+        <translation>Tamaño de imagen:</translation>
     </message>
     <message>
         <source>The Scanner Automatically Adapt</source>
-        <translation type="unfinished"/>
+        <translation>Escáner adaptable</translation>
     </message>
     <message>
         <source>Scan Dpi:</source>
-        <translation type="unfinished"/>
+        <translation>PPP de escaneo:</translation>
     </message>
     <message>
         <source>Scanner:</source>
-        <translation type="unfinished"/>
+        <translation>Escáner:</translation>
     </message>
     <message>
         <source>Scanner</source>
@@ -11111,11 +11123,11 @@ Elija un nombre de fichero diferente.</translation>
     </message>
     <message>
         <source>Searched</source>
-        <translation type="unfinished"/>
+        <translation>Búsqueda completada.</translation>
     </message>
     <message>
         <source>Scanner Setup</source>
-        <translation type="unfinished"/>
+        <translation>Configuración del escáner</translation>
     </message>
 </context>
 <context>
@@ -11189,7 +11201,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>%1 year %2 month</source>
-        <translation type="unfinished"/>
+        <translation>%1 año %2 mes</translation>
     </message>
 </context>
 <context>
@@ -11204,35 +11216,35 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Label as classified</source>
-        <translation type="unfinished"/>
+        <translation>Marcar como confidencial</translation>
     </message>
     <message>
         <source>who to infrom:</source>
-        <translation type="unfinished"/>
+        <translation>Rango de notificación:</translation>
     </message>
     <message>
         <source>change time:</source>
-        <translation type="unfinished"/>
+        <translation>Cambiado a las:</translation>
     </message>
     <message>
         <source>lift person:</source>
-        <translation type="unfinished"/>
+        <translation>Confidencialidad exenta por:</translation>
     </message>
     <message>
         <source>setup time:</source>
-        <translation type="unfinished"/>
+        <translation>Confidencialidad confirmada a las:</translation>
     </message>
     <message>
         <source>document name:</source>
-        <translation type="unfinished"/>
+        <translation>nombre de documento:</translation>
     </message>
     <message>
         <source>type of encryption:</source>
-        <translation type="unfinished"/>
+        <translation>tipo de cifrado:</translation>
     </message>
     <message>
         <source>issue copy number:</source>
-        <translation type="unfinished"/>
+        <translation>Copias emitidas:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11244,67 +11256,67 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>issue number:</source>
-        <translation type="unfinished"/>
+        <translation>número de emisión:</translation>
     </message>
     <message>
         <source>classification setup based on:</source>
-        <translation type="unfinished"/>
+        <translation>Base de la confidencialidad:</translation>
     </message>
     <message>
         <source>draft time:</source>
-        <translation type="unfinished"/>
+        <translation>hora de redacción:</translation>
     </message>
     <message>
         <source>issue person:</source>
-        <translation type="unfinished"/>
+        <translation>Emitido por:</translation>
     </message>
     <message>
         <source>unit name:</source>
-        <translation type="unfinished"/>
+        <translation>Nombre de unidad:</translation>
     </message>
     <message>
         <source>lift time:</source>
-        <translation type="unfinished"/>
+        <translation>Confidencialidad exenta a las:</translation>
     </message>
     <message>
         <source>issue time:</source>
-        <translation type="unfinished"/>
+        <translation>hora de emisión:</translation>
     </message>
     <message>
         <source>desc of inform:</source>
-        <translation type="unfinished"/>
+        <translation>Descripción de notificación:</translation>
     </message>
     <message>
         <source>change person:</source>
-        <translation type="unfinished"/>
+        <translation>Cambiado por:</translation>
     </message>
     <message>
         <source>level of calssification:</source>
-        <translation type="unfinished"/>
+        <translation>Nivel de confidencialidad:</translation>
     </message>
     <message>
         <source>drafter:</source>
-        <translation type="unfinished"/>
+        <translation>redactor:</translation>
     </message>
     <message>
         <source>resson:</source>
-        <translation type="unfinished"/>
+        <translation>Emisión:</translation>
     </message>
     <message>
         <source>decrypt person:</source>
-        <translation type="unfinished"/>
+        <translation>Cancelado por:</translation>
     </message>
     <message>
         <source>issue opinion:</source>
-        <translation type="unfinished"/>
+        <translation>Comentarios de emisión:</translation>
     </message>
     <message>
         <source>decrypt time:</source>
-        <translation type="unfinished"/>
+        <translation>Cancelado a las:</translation>
     </message>
     <message>
         <source>setup person:</source>
-        <translation type="unfinished"/>
+        <translation>Confidencialidad confirmada por:</translation>
     </message>
 </context>
 <context>
@@ -11319,7 +11331,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Cannot open this object.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha encontrado ninguna aplicación que permita abrir el objeto actual.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11327,11 +11339,11 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>No, thanks</source>
-        <translation type="unfinished"/>
+        <translation>No, gracias</translation>
     </message>
     <message>
         <source>Open failed!</source>
-        <translation type="unfinished"/>
+        <translation>Error al abrir.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -11339,11 +11351,11 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office no puede abrir el objeto actual. El vínculo a este objeto puede que no sea válido o que haya cambiado.</translation>
     </message>
     <message>
         <source>WPS Office cannot open this object. You can open it on your computer with other apps. To save your changes, please insert it after changing it with other apps.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office no permite abrir el objeto actual. Puede abrirlo en un ordenador con aplicaciones de terceros. Para guardar los cambios realizados en el objeto, vuelva a insertar el objeto después de modificarlo mediante aplicaciones de terceros.</translation>
     </message>
 </context>
 <context>
@@ -11546,35 +11558,35 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>No (&amp;N)</source>
-        <translation>No (&amp;N)</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Continuar</translation>
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
-        <translation>Omitir (&amp;I)</translation>
+        <translation>Omitir</translation>
     </message>
     <message>
         <source>Save(&amp;S)</source>
-        <translation>Sí (&amp;Y)</translation>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>Abort (&amp;A)</source>
-        <translation>Interrumpir (&amp;A)</translation>
+        <translation>Interrumpir</translation>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
-        <translation>Reintentar (&amp;R)</translation>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
-        <translation>Sí (&amp;Y)</translation>
+        <translation>Sí</translation>
     </message>
     <message>
         <source>Not Save(&amp;N)</source>
-        <translation>No (&amp;N)</translation>
+        <translation>No</translation>
     </message>
 </context>
 <context>
@@ -11605,7 +11617,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Probation period %1 days - Due time %2 </source>
-        <translation type="unfinished"/>
+        <translation>Período de prueba: %1 días - Fecha de caducidad: %2</translation>
     </message>
     <message>
         <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
@@ -11625,7 +11637,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>%1-%2year%3month%4day Expired</source>
-        <translation type="unfinished"/>
+        <translation>Ha caducado el %1-%2-%3-%4</translation>
     </message>
     <message>
         <source>Part of %1</source>
@@ -11637,7 +11649,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Official Document</translation>
     </message>
     <message>
         <source>About WPS Office</source>
@@ -11653,7 +11665,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Due time %1</source>
-        <translation type="unfinished"/>
+        <translation>Fecha de caducidad: %1</translation>
     </message>
     <message>
         <source>License information should be based on authorized documents issued by kingsoft office or authorized information displayed in WPS + enterprise management.</source>
@@ -11677,7 +11689,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Expired</source>
-        <translation type="unfinished"/>
+        <translation>Caducado</translation>
     </message>
     <message>
         <source>License Agreement</source>
@@ -11685,7 +11697,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>trial unlimited</source>
-        <translation type="unfinished"/>
+        <translation>Modo de prueba</translation>
     </message>
     <message>
         <source>Technical Support</source>
@@ -11693,7 +11705,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>About WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Acerca de WPS Official Document</translation>
     </message>
     <message>
         <source>About WPS Office(Kingsoft Kylin WPS)</source>
@@ -11771,7 +11783,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Label as classified</source>
-        <translation type="unfinished"/>
+        <translation>Marcar como confidencial</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11883,19 +11895,19 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Watermark protection, the watermark is composed of the name of the enterprise, the outsider and the production time</source>
-        <translation type="unfinished"/>
+        <translation>Protección de marca de agua. La marca de agua está compuesta por el nombre de la empresa, el remitente del documento saliente y la hora de producción.</translation>
     </message>
     <message>
         <source>Make Ourward Document</source>
-        <translation type="unfinished"/>
+        <translation>Crear documento externo</translation>
     </message>
     <message>
         <source>Document password:</source>
-        <translation type="unfinished"/>
+        <translation>Contraseña de documento:</translation>
     </message>
     <message>
         <source>Comfirm password:</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar contraseña:</translation>
     </message>
 </context>
 <context>
@@ -11918,19 +11930,19 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Clave secreta sin conexión</translation>
     </message>
     <message>
         <source>comfirm password:</source>
-        <translation type="unfinished"/>
+        <translation>confirmar contraseña:</translation>
     </message>
     <message>
         <source>offline password:</source>
-        <translation type="unfinished"/>
+        <translation>contraseña sin conexión:</translation>
     </message>
     <message>
         <source>new offline password:</source>
-        <translation type="unfinished"/>
+        <translation>contraseña sin conexión nueva:</translation>
     </message>
 </context>
 <context>
@@ -11941,15 +11953,15 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Download the latest version of the WPS EndNote plug-in. To insert and edit citations, download and install the latest version. Restart your EndNote software after installation.</source>
-        <translation type="unfinished"/>
+        <translation>Descargue la última versión del complemento de WPS EndNote. Para insertar y editar citas, descargue e instale la última versión. Reinicie el software EndNote después de la instalación.</translation>
     </message>
     <message>
         <source>You need to use the latest version of WPS to use the EndNote plug-in. It is recommended that you install the latest version of WPS and experience more features.</source>
-        <translation type="unfinished"/>
+        <translation>Debe utilizar la última versión de WPS para utilizar el complemento de EndNote. Se recomienda que instale la última versión de WPS para disfrutar de más funciones.</translation>
     </message>
     <message>
         <source>Your EndNote was not detected. Please download and install the latest version of EndNote (X9.3 or above) before trying.</source>
-        <translation type="unfinished"/>
+        <translation>EndNote no se ha detectado. Descargue e instale la última versión de EndNote (X9.3 o superior) antes de intentarlo.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -12219,19 +12231,19 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>The network connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Se ha producido una excepción al conectarse a la red y no se puede cambiar la contraseña sin conexión. Compruebe la red y vuelva a intentarlo más tarde.</translation>
     </message>
     <message>
         <source>Import succeeded.</source>
-        <translation type="unfinished"/>
+        <translation>Importación correcta.</translation>
     </message>
     <message>
         <source>old offline password:</source>
-        <translation type="unfinished"/>
+        <translation>contraseña sin conexión antigua:</translation>
     </message>
     <message>
         <source>You have successfully set your offline password.</source>
-        <translation type="unfinished"/>
+        <translation>Ha establecido correctamente la contraseña sin conexión.</translation>
     </message>
     <message>
         <source>You have not set the offline password yet.</source>
@@ -12239,27 +12251,27 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>You have successfully modify your offline password.</source>
-        <translation type="unfinished"/>
+        <translation>Ha modificado correctamente la contraseña si conexión.</translation>
     </message>
     <message>
         <source>modify password</source>
-        <translation type="unfinished"/>
+        <translation>modificar contraseña</translation>
     </message>
     <message>
         <source>Please click broswer button to import</source>
-        <translation type="unfinished"/>
+        <translation>Haga clic en el botón del navegador para importar</translation>
     </message>
     <message>
         <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido importar la clave sin conexión porque no tiene permiso sin conexión para ningún documento.</translation>
     </message>
     <message>
         <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Se ha producido una excepción durante la conexión al servidor. No puede realizar la operación %1 con la contraseña sin conexión. Vuelva a intentarlo más tarde.</translation>
     </message>
     <message>
         <source>modified</source>
-        <translation type="unfinished"/>
+        <translation>modificado</translation>
     </message>
     <message>
         <source>You have enter two different passwords.</source>
@@ -12267,43 +12279,43 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Import failed</source>
-        <translation type="unfinished"/>
+        <translation>La importación ha fallado</translation>
     </message>
     <message>
         <source>setted</source>
-        <translation type="unfinished"/>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Please enter a new password again</source>
-        <translation type="unfinished"/>
+        <translation>Vuelva a introducir la contraseña nueva</translation>
     </message>
     <message>
         <source>Please enter current offline password</source>
-        <translation type="unfinished"/>
+        <translation>Introduzca la contraseña sin conexión actual</translation>
     </message>
     <message>
         <source>Modify password successfully</source>
-        <translation type="unfinished"/>
+        <translation>La contraseña se ha cambiado correctamente.</translation>
     </message>
     <message>
         <source>Offline secret key has been successfully cached to your local computer.</source>
-        <translation type="unfinished"/>
+        <translation>La clave sin conexión se ha almacenado correctamente en la caché de su ordenador local.</translation>
     </message>
     <message>
         <source>Failed to modify password</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido modificar la contraseña</translation>
     </message>
     <message>
         <source>comfirm password:</source>
-        <translation type="unfinished"/>
+        <translation>confirmar contraseña:</translation>
     </message>
     <message>
         <source>offline password:</source>
-        <translation type="unfinished"/>
+        <translation>contraseña sin conexión:</translation>
     </message>
     <message>
         <source>All files *.*</source>
-        <translation type="unfinished"/>
+        <translation>Todos los archivos *.*</translation>
     </message>
     <message>
         <source>Current password can&apos;t be empty.</source>
@@ -12311,19 +12323,19 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>When there is no network, the encrypted document can be opened by verifying the offline password of the current account.</source>
-        <translation type="unfinished"/>
+        <translation>Cuando no hay red, el documento cifrado puede abrirse verificando la contraseña sin conexión de la cuenta actual.</translation>
     </message>
     <message>
         <source>The original offline password input wrong</source>
-        <translation type="unfinished"/>
+        <translation>La contraseña original sin conexión introducida es incorrecta.</translation>
     </message>
     <message>
         <source>Invalid import path, please readjust the file path.</source>
-        <translation type="unfinished"/>
+        <translation>Ruta de importación no válida. Reajuste la ruta del archivo.</translation>
     </message>
     <message>
         <source>Import offline key</source>
-        <translation type="unfinished"/>
+        <translation>Importar la clave sin conexión</translation>
     </message>
     <message>
         <source>Password&apos;s length must greater than 8</source>
@@ -12331,15 +12343,15 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Failed to set password</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido establecer la contraseña</translation>
     </message>
     <message>
         <source>new offline password:</source>
-        <translation type="unfinished"/>
+        <translation>contraseña sin conexión nueva:</translation>
     </message>
     <message>
         <source>comfirm new password:</source>
-        <translation type="unfinished"/>
+        <translation>confirmar contraseña nueva:</translation>
     </message>
     <message>
         <source>Set password successfully</source>
@@ -12347,15 +12359,15 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>To change the password, please click &quot;modify password&quot; button.</source>
-        <translation type="unfinished"/>
+        <translation>Para cambiar la contraseña, haga clic en el botón &quot;Modificar contraseña&quot;.</translation>
     </message>
     <message>
         <source>Please enter a new password with more than 8 digits</source>
-        <translation type="unfinished"/>
+        <translation>Introduzca una nueva contraseña de más de 8 dígitos</translation>
     </message>
     <message>
         <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>El archivo no se puede importar porque el formato del archivo es incorrecto o el archivo está corrupto. Póngase en contacto con el administrador.</translation>
     </message>
 </context>
 <context>
@@ -12382,7 +12394,7 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
     </message>
     <message>
         <source>Do not remind again</source>
-        <translation type="unfinished"/>
+        <translation>No volver a recordarme</translation>
     </message>
     <message>
         <source>Cannot open this document</source>
@@ -12642,7 +12654,7 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>here</source>
-        <translation type="unfinished"/>
+        <translation>aquí</translation>
     </message>
     <message>
         <source>This function needs to be activated before use.</source>
@@ -12665,15 +12677,15 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>distribute unit</source>
-        <translation type="unfinished"/>
+        <translation>Emisor</translation>
     </message>
     <message>
         <source>people info</source>
-        <translation type="unfinished"/>
+        <translation>Información personal</translation>
     </message>
     <message>
         <source>strictly confidential</source>
-        <translation type="unfinished"/>
+        <translation>Estrictamente confidencial</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -12681,11 +12693,11 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>Confidentiality period</source>
-        <translation type="unfinished"/>
+        <translation>Período de confidencialidad</translation>
     </message>
     <message>
         <source>internal</source>
-        <translation type="unfinished"/>
+        <translation>interno</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -12693,47 +12705,47 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>File level</source>
-        <translation type="unfinished"/>
+        <translation>Nivel de confidencialidad de archivo:</translation>
     </message>
     <message>
         <source>public</source>
-        <translation type="unfinished"/>
+        <translation>público</translation>
     </message>
     <message>
         <source>secret</source>
-        <translation type="unfinished"/>
+        <translation>secreto</translation>
     </message>
     <message>
         <source>confidential setting</source>
-        <translation type="unfinished"/>
+        <translation>configuración confidencial</translation>
     </message>
     <message>
         <source>pdf file</source>
-        <translation type="unfinished"/>
+        <translation>archivo PDF</translation>
     </message>
     <message>
         <source>recieve unit</source>
-        <translation type="unfinished"/>
+        <translation>Unidad receptora</translation>
     </message>
     <message>
         <source>confidential</source>
-        <translation type="unfinished"/>
+        <translation>Confidencial</translation>
     </message>
     <message>
         <source>ofd file</source>
-        <translation type="unfinished"/>
+        <translation>archivo ofd</translation>
     </message>
     <message>
         <source>distribution settings</source>
-        <translation type="unfinished"/>
+        <translation>Configuración de distribución</translation>
     </message>
     <message>
         <source>sy info setting</source>
-        <translation type="unfinished"/>
+        <translation>Información de origen</translation>
     </message>
     <message>
         <source>Knowledgeable range</source>
-        <translation type="unfinished"/>
+        <translation>Rango de notificación:</translation>
     </message>
 </context>
 <context>
@@ -12825,7 +12837,7 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>Unlock to edit</source>
-        <translation type="unfinished"/>
+        <translation>Desbloquear para editar</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -12857,7 +12869,7 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>Open in read-only</source>
-        <translation type="unfinished"/>
+        <translation>Abrir como solo lectura</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -13039,7 +13051,7 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>Local backup on</source>
-        <translation type="unfinished"/>
+        <translation>Copia de seguridad local activada</translation>
     </message>
     <message>
         <source>Do not check this when starting WPS Office next time</source>
@@ -13099,7 +13111,7 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>printing left %1 copies, the current setting exceeds the limit, please input again</source>
-        <translation type="unfinished"/>
+        <translation>Quedan %1 ejemplares para imprimir. La configuración actual supera el límite. Introdúzcala de nuevo.</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
@@ -13107,7 +13119,7 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>local font, click available</source>
-        <translation type="unfinished"/>
+        <translation>Haga clic para utilizar las fuentes locales disponibles</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13133,7 +13145,7 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     </message>
     <message>
         <source>Local backup off</source>
-        <translation type="unfinished"/>
+        <translation>Copia de seguridad local desactivada</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -13203,7 +13215,7 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>please input password</source>
-        <translation type="unfinished"/>
+        <translation>introduzca la contraseña</translation>
     </message>
     <message>
         <source>Fully compatible with Microsoft Excel</source>
@@ -13231,7 +13243,7 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>WPS ScreenGrab OCR</source>
-        <translation type="unfinished"/>
+        <translation>Captura de pantalla de WPS</translation>
     </message>
     <message>
         <source>Fully compatible with Microsoft Office&apos;s document formats</source>
@@ -13379,7 +13391,7 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>do not has current document&apos;s printing right</source>
-        <translation type="unfinished"/>
+        <translation>No tiene permiso para imprimir el archivo actual.</translation>
     </message>
     <message>
         <source>Share as a link for comments</source>
@@ -13549,7 +13561,7 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>Upload to WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Cargar en WPS Cloud</translation>
     </message>
     <message>
         <source>fail! please insert USB Key and try again.</source>
@@ -13577,7 +13589,7 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>must be 6-16 chars(case-sensitive)</source>
-        <translation type="unfinished"/>
+        <translation>Debe contener entre 6 y 16 caracteres (distingue entre mayúsculas y minúsculas).</translation>
     </message>
     <message>
         <source>Manage Duplicates</source>
@@ -13608,7 +13620,7 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13620,7 +13632,7 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -14084,7 +14096,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Origen:</translation>
     </message>
     <message>
         <source>Document Issuing organization</source>
@@ -14104,7 +14116,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Valor:</translation>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
@@ -14266,7 +14278,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz</source>
-        <translation type="unfinished"/>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -14302,7 +14314,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"/>
+        <translation>Tachado</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -14343,7 +14355,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>Duplicate Slide</source>
-        <translation type="unfinished"/>
+        <translation>Duplicar diapositiva</translation>
     </message>
     <message>
         <source>Format Shape</source>
@@ -14443,7 +14455,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>Insert JdeControl</source>
-        <translation type="unfinished"/>
+        <translation>Insertar control JDE</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
@@ -14548,7 +14560,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>Unidentifiable sound format.</source>
-        <translation type="unfinished"/>
+        <translation>Formato de audio no identificable.</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -14577,7 +14589,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Transparencia</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
@@ -14830,7 +14842,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv)</source>
-        <translation type="unfinished"/>
+        <translation>Archivos de película (*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv)</translation>
     </message>
     <message>
         <source>Delete Segment</source>
@@ -15038,11 +15050,11 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>Convert To Smartart Graphic</source>
-        <translation type="unfinished"/>
+        <translation>Convertir en gráfico de SmartArt</translation>
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz)</source>
-        <translation type="unfinished"/>
+        <translation>Archivo multimedia de Windows (asf) (*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz)</translation>
     </message>
     <message>
         <source>Decrease Paragraph Spacing</source>
@@ -15227,7 +15239,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod</source>
-        <translation type="unfinished"/>
+        <translation>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod</translation>
     </message>
     <message>
         <source>Update Link</source>
@@ -15303,7 +15315,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Unidentifiable format.</source>
-        <translation type="unfinished"/>
+        <translation>Formato no identificable.</translation>
     </message>
     <message>
         <source>Edit WordArt</source>
@@ -15412,7 +15424,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Reset Crop</source>
-        <translation type="unfinished"/>
+        <translation>Restablecer forma y tamaño</translation>
     </message>
     <message>
         <source>Change Series</source>
@@ -15441,7 +15453,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Unidentifiable movie format.</source>
-        <translation type="unfinished"/>
+        <translation>Formato de vídeo no identificable.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -15589,7 +15601,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod)</source>
-        <translation type="unfinished"/>
+        <translation>Archivo de película (mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod)</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -15605,7 +15617,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>MP4 Video(*.mp4;*.mp4v)</source>
-        <translation type="unfinished"/>
+        <translation>Vídeo MP4 (*.mp4;*.mp4v)</translation>
     </message>
     <message>
         <source>Smart Compression</source>
@@ -15621,7 +15633,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>*.mp4;*.mp4v</source>
-        <translation type="unfinished"/>
+        <translation>*.mp4;*.mp4v</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
@@ -15714,11 +15726,11 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Offline Password Verification</source>
-        <translation type="unfinished"/>
+        <translation>Verificación de contraseñas sin conexión</translation>
     </message>
     <message>
         <source>Offline Key:</source>
-        <translation type="unfinished"/>
+        <translation>Clave sin conexión:</translation>
     </message>
     <message>
         <source>Please enter your account</source>
@@ -15738,7 +15750,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>User Account:</source>
-        <translation type="unfinished"/>
+        <translation>Cuenta de usuario:</translation>
     </message>
 </context>
 <context>
@@ -16084,11 +16096,11 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Vertical(right to left)</source>
-        <translation type="unfinished"/>
+        <translation>Vertical (de derecha a izquierda)</translation>
     </message>
     <message>
         <source>Vertical(left to right)</source>
-        <translation type="unfinished"/>
+        <translation>Vertical (de izquierda a derecha)</translation>
     </message>
     <message>
         <source>Right-to-left</source>
@@ -16238,7 +16250,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>please insert the USB Key to verify</source>
-        <translation type="unfinished"/>
+        <translation>inserte la llave USB para verificar</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -16246,11 +16258,11 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>please input USB Key password</source>
-        <translation type="unfinished"/>
+        <translation>introduzca la contraseña de la llave USB</translation>
     </message>
     <message>
         <source>verify PIN</source>
-        <translation type="unfinished"/>
+        <translation>Verificar PIN</translation>
     </message>
 </context>
 <context>
@@ -16745,11 +16757,11 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Right Angle Ae&amp;xs</source>
-        <translation type="unfinished"/>
+        <translation>Ejes de ángulo recto (X)</translation>
     </message>
     <message>
         <source>Auto&amp;scale</source>
-        <translation type="unfinished"/>
+        <translation>Escala automática (S)</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -16757,7 +16769,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Depth(% of base)</source>
-        <translation type="unfinished"/>
+        <translation>Profundidad (% de la base)</translation>
     </message>
     <message>
         <source>P&amp;erspective</source>
@@ -16773,15 +16785,15 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>&amp;X Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotación &amp;X</translation>
     </message>
     <message>
         <source>&amp;Y Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotación &amp;Y</translation>
     </message>
     <message>
         <source>&amp;Z Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotación &amp;Z</translation>
     </message>
     <message>
         <source>Enter -40000 to 4000 Pounds of value</source>
@@ -16789,7 +16801,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Hight(% of base)</source>
-        <translation type="unfinished"/>
+        <translation>Altura (% de la base)</translation>
     </message>
     <message>
         <source>&amp;Presets</source>
@@ -16809,7 +16821,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Default R&amp;otation</source>
-        <translation type="unfinished"/>
+        <translation>R&amp;otación predeterminada</translation>
     </message>
     <message>
         <source>Enter 0 to 120 Degres  of value</source>
@@ -18944,7 +18956,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Relationship</source>
-        <translation type="unfinished"/>
+        <translation>Relación</translation>
     </message>
     <message>
         <source>Segmented Pyramid</source>
@@ -18980,7 +18992,7 @@ Compruebe la ruta y el nombre del fichero.</translation>
     </message>
     <message>
         <source>Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Jerarquía</translation>
     </message>
     <message>
         <source>Use to show an ascending series of pictures with descriptive text. Works best with a small amount of text.</source>
@@ -19242,7 +19254,7 @@ asistente</translation>
     <message>
         <source>Hierarchy</source>
         <comment>_kso_SmartArtHierarchy1Name</comment>
-        <translation type="unfinished"/>
+        <translation>Jerarquía</translation>
     </message>
     <message>
         <source>Use to show pictures with corresponding Level 1 text displayed in a frame.</source>
@@ -19829,7 +19841,7 @@ asistente</translation>
     </message>
     <message>
         <source>Pie of 3d</source>
-        <translation type="unfinished"/>
+        <translation>Gráfico circular 3-D</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
@@ -19929,7 +19941,7 @@ asistente</translation>
     </message>
     <message>
         <source>DsOnlineChart</source>
-        <translation type="unfinished"/>
+        <translation>Gráfico animado</translation>
     </message>
     <message>
         <source>OnlineChart</source>
@@ -20084,7 +20096,7 @@ asistente</translation>
     </message>
     <message>
         <source>Pie of 3d</source>
-        <translation type="unfinished"/>
+        <translation>Gráfico circular 3-D</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
@@ -20200,7 +20212,7 @@ asistente</translation>
     <message>
         <source>Letter-Like Symbols</source>
         <comment>OMATH_SYMBOL_CLLS_LETTER_LIKE_SYMBOL</comment>
-        <translation type="unfinished"/>
+        <translation>Símbolos similares a letras</translation>
     </message>
     <message>
         <source>Check</source>
@@ -20233,12 +20245,12 @@ asistente</translation>
     <message>
         <source>Geometry</source>
         <comment>OMATH_SYMBOL_CG_GEOMETRY</comment>
-        <translation type="unfinished"/>
+        <translation>Geometría</translation>
     </message>
     <message>
         <source>Negated Relations</source>
         <comment>OMATH_SYMBOL_CNR_NEGATED_RELATIONS</comment>
-        <translation type="unfinished"/>
+        <translation>Relaciones negadas</translation>
     </message>
     <message>
         <source>Maximum</source>
@@ -20258,20 +20270,20 @@ asistente</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"/>
+        <translation>Script</translation>
     </message>
     <message>
         <source>Integral</source>
-        <translation type="unfinished"/>
+        <translation>Integral</translation>
     </message>
     <message>
         <source>Basic Math</source>
         <comment>OMATH_SYMBOL_CBM_BASIC_MATH</comment>
-        <translation type="unfinished"/>
+        <translation>Matemáticas básicas</translation>
     </message>
     <message>
         <source>Operator</source>
-        <translation type="unfinished"/>
+        <translation>Operador</translation>
     </message>
     <message>
         <source>Remove Opening Bracket</source>
@@ -20287,7 +20299,7 @@ asistente</translation>
     </message>
     <message>
         <source>Negated Relations</source>
-        <translation type="unfinished"/>
+        <translation>Relaciones negadas</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -20299,7 +20311,7 @@ asistente</translation>
     </message>
     <message>
         <source>Radical</source>
-        <translation type="unfinished"/>
+        <translation>Radical</translation>
     </message>
     <message>
         <source>Greater Than</source>
@@ -20315,7 +20327,7 @@ asistente</translation>
     </message>
     <message>
         <source>Scripts</source>
-        <translation type="unfinished"/>
+        <translation>Scripts</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -20345,11 +20357,11 @@ asistente</translation>
     </message>
     <message>
         <source>Greek Letters</source>
-        <translation type="unfinished"/>
+        <translation>Letras griegas</translation>
     </message>
     <message>
         <source>Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Geometría</translation>
     </message>
     <message>
         <source>Remove Enclosing Characters</source>
@@ -20357,11 +20369,11 @@ asistente</translation>
     </message>
     <message>
         <source>Align at =</source>
-        <translation type="unfinished"/>
+        <translation>Alinear en</translation>
     </message>
     <message>
         <source>Letter-Like Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Símbolos similares a letras</translation>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
@@ -20369,7 +20381,7 @@ asistente</translation>
     </message>
     <message>
         <source>Basic Math</source>
-        <translation type="unfinished"/>
+        <translation>Matemáticas básicas</translation>
     </message>
 </context>
 <context>
@@ -20411,7 +20423,7 @@ asistente</translation>
     </message>
     <message>
         <source>type of encryption:</source>
-        <translation type="unfinished"/>
+        <translation>tipo de cifrado:</translation>
     </message>
 </context>
 <context>
@@ -21599,7 +21611,7 @@ asistente</translation>
     </message>
     <message>
         <source>&amp;LinkToContent</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Vincular al origen</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
@@ -21678,43 +21690,43 @@ asistente</translation>
     <name>KLocaleSymbolLCIDManager</name>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"/>
+        <translation>Lao</translation>
     </message>
     <message>
         <source>Peru</source>
-        <translation type="unfinished"/>
+        <translation>Perú</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Tailandés</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Griego</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"/>
+        <translation>Khmer</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"/>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"/>
+        <translation>Kanada</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalam</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Árabe</translation>
     </message>
     <message>
         <source>French</source>
@@ -21726,55 +21738,55 @@ asistente</translation>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"/>
+        <translation>Mongol</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Hebreo</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Coreano</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Sirio</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"/>
+        <translation>Japonés</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengalí</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"/>
+        <translation>Armenio</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Chino</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Cingalés</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"/>
+        <translation>Tibetano</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamita</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Gujarati</translation>
     </message>
     <message>
         <source>English</source>
@@ -21782,11 +21794,11 @@ asistente</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Georgiano</translation>
     </message>
     <message>
         <source>Cherokee</source>
-        <translation type="unfinished"/>
+        <translation>Cheroqui</translation>
     </message>
 </context>
 <context>
@@ -22275,7 +22287,7 @@ asistente</translation>
     </message>
     <message>
         <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.</source>
-        <translation type="unfinished"/>
+        <translation>Esta plantilla no se puede aplicar porque está dañada o no funciona con el gráfico seleccionado.</translation>
     </message>
     <message>
         <source>Delete Value Axis</source>
@@ -22362,7 +22374,7 @@ asistente</translation>
     </message>
     <message>
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
-        <translation type="unfinished"/>
+        <translation>El tipo de gráfico actual no se puede combinar con otros tipos de gráfico. Puede cambiar el tipo de gráfico de todas las series de datos, o bien, conservar el gráfico actual.</translation>
     </message>
     <message>
         <source>LEGEND</source>
@@ -22475,7 +22487,7 @@ asistente</translation>
     </message>
     <message>
         <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
-        <translation type="unfinished"/>
+        <translation>No se puedo cambiar el tipo de gráfico. Los datos elegidos no se pueden cambiar en este tipo de gráfico.</translation>
     </message>
     <message>
         <source>Reset To Match Style</source>
@@ -22785,7 +22797,7 @@ asistente</translation>
     </message>
     <message>
         <source>Premium</source>
-        <translation type="unfinished"/>
+        <translation>Superior</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
@@ -22977,11 +22989,11 @@ El archivo puede ser renombrado, eliminado o movido.</translation>
     </message>
     <message>
         <source>yyyy-M-d h:m</source>
-        <translation type="unfinished"/>
+        <translation>aaaa-M-d h:m</translation>
     </message>
     <message>
         <source>Expired date : </source>
-        <translation type="unfinished"/>
+        <translation>Fecha de caducidad: </translation>
     </message>
 </context>
 <context>
@@ -23004,7 +23016,7 @@ El archivo puede ser renombrado, eliminado o movido.</translation>
     </message>
     <message>
         <source>3DPie</source>
-        <translation type="unfinished"/>
+        <translation>Gráfico circular 3-D</translation>
     </message>
     <message>
         <source>Combo</source>
@@ -23175,136 +23187,137 @@ El archivo puede ser renombrado, eliminado o movido.</translation>
     <name>KScreenGrabDialog</name>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Anclar</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Terminar</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Más</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar barra de herramientas</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elipse de captura de pantalla</translation>
     </message>
     <message>
         <source>Translate Text</source>
-        <translation type="unfinished"/>
+        <translation>Traducir texto</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Polígono de captura de pantalla</translation>
     </message>
     <message>
         <source>you can set screen grab ocr global shortcut here</source>
-        <translation type="unfinished"/>
+        <translation>Puede configurar el acceso directo de captura de pantalla aquí</translation>
     </message>
     <message>
         <source>Save As PDF</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como PDF</translation>
     </message>
     <message>
         <source>RGB:(%1, %2, %3)</source>
-        <translation type="unfinished"/>
+        <translation>RGB:(%1, %2, %3)</translation>
     </message>
     <message>
         <source>Screenshot Ocr</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Arrow Tool</source>
-        <translation type="unfinished"/>
+        <translation>Herramienta Flecha</translation>
     </message>
     <message>
         <source>Grab Rect</source>
-        <translation type="unfinished"/>
+        <translation>Rectángulo de captura de pantalla</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copiar al Portapapeles</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"/>
+        <translation>Captura%1</translation>
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation type="unfinished"/>
+        <translation>Presione Alt 
+para absorber línea</translation>
     </message>
     <message>
         <source>%1 * %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 * %2</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation type="unfinished"/>
+        <translation>(%1, %2)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <source>Brush Tool</source>
-        <translation type="unfinished"/>
+        <translation>Herramienta Pincel</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"/>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Rect Tool</source>
-        <translation type="unfinished"/>
+        <translation>Herramienta Rectángulo</translation>
     </message>
     <message>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>¡Copiado en el Portapapeles!</translation>
     </message>
     <message>
         <source>Reselect Region</source>
-        <translation type="unfinished"/>
+        <translation>Volver a seleccionar región</translation>
     </message>
     <message>
         <source>you can set screen grab global shortcut here</source>
-        <translation type="unfinished"/>
+        <translation>Puede configurar el acceso directo de captura de pantalla aquí</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"/>
+        <translation>%1;;%2;;%3</translation>
     </message>
     <message>
         <source>Ellipse Tool</source>
-        <translation type="unfinished"/>
+        <translation>Herramienta Elipse</translation>
     </message>
     <message>
         <source>Grab RoundedRect</source>
-        <translation type="unfinished"/>
+        <translation>Rectángulo de captura redondeada</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"/>
+        <translation>Herramientas de texto</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar barra de herramientas</translation>
     </message>
 </context>
 <context>
@@ -23573,7 +23586,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>&amp;Choose commands from:</source>
-        <translation>Seleccionar comandos de: (&amp;C)</translation>
+        <translation>Seleccionar comandos de:</translation>
     </message>
     <message>
         <source>Customizations:</source>
@@ -23597,7 +23610,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Rena&amp;me...</source>
-        <translation>Cambiar nombre... (&amp;M)</translation>
+        <translation>Cambiar nombre...</translation>
     </message>
     <message>
         <source>New Tab</source>
@@ -23609,11 +23622,11 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Customize the Ri&amp;bbon:</source>
-        <translation>Personalizar la cinta de opciones: (&amp;B)</translation>
+        <translation>Personalizar la cinta de opciones:</translation>
     </message>
     <message>
         <source>Ne&amp;w Tab</source>
-        <translation>Nueva ficha (&amp;W)</translation>
+        <translation>Nueva ficha</translation>
     </message>
     <message>
         <source>Reset all customizations</source>
@@ -23625,11 +23638,11 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Macro name</source>
-        <translation type="unfinished"/>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>&amp;New Group</source>
-        <translation>Nuevo grupo (&amp;N)</translation>
+        <translation>Nuevo grupo</translation>
     </message>
     <message>
         <source>New Group</source>
@@ -23986,7 +23999,7 @@ to Adsorb Line</source>
     <name>kso_filter</name>
     <message>
         <source>Zip</source>
-        <translation type="unfinished"/>
+        <translation>Zip</translation>
     </message>
     <message>
         <source>Word XML Document</source>
@@ -24019,7 +24032,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Uniform Office Spreadsheet Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato de Spreadsheet de Office uniforme</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -24036,7 +24049,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Uniform Office Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato de texto de Office uniforme</translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
@@ -24080,7 +24093,7 @@ Posibles razones:
     </message>
     <message>
         <source>WPS Writer Official Template</source>
-        <translation type="unfinished"/>
+        <translation>Plantilla de WPS Official Document</translation>
     </message>
     <message>
         <source>%1 outward document  applicant : %2  approver : %3</source>
@@ -24094,11 +24107,11 @@ Posibles razones:
     </message>
     <message>
         <source>OFD Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato OFD</translation>
     </message>
     <message>
         <source>PDF Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato PDF</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
@@ -24139,7 +24152,7 @@ Posibles razones:
     </message>
     <message>
         <source>Uniform Office Presentation Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato de Presentation de Office uniforme</translation>
     </message>
     <message>
         <source>RTF File</source>
@@ -24176,7 +24189,7 @@ Posibles razones:
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Libro de trabajo de Microsoft Excel 97-2003</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
@@ -24209,7 +24222,7 @@ Posibles razones:
     </message>
     <message>
         <source>Chinese Office Software Document Format*.uot</source>
-        <translation type="unfinished"/>
+        <translation>Formato de documento de software Office chino*.uot</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
@@ -24226,7 +24239,7 @@ Posibles razones:
     </message>
     <message>
         <source>WPS Writer Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Official Document</translation>
     </message>
     <message>
         <source>XML Files</source>
@@ -24265,7 +24278,7 @@ Posibles razones:
     </message>
     <message>
         <source>Have read and agreed to Kingsoft Office Software</source>
-        <translation type="unfinished"/>
+        <translation>He leído y acepto el software de Kingsoft Office</translation>
     </message>
     <message>
         <source>about:blank</source>
@@ -24273,7 +24286,7 @@ Posibles razones:
     </message>
     <message>
         <source>I &amp;Confirm</source>
-        <translation type="unfinished"/>
+        <translation>C&amp;onfirmar</translation>
     </message>
     <message>
         <source>I &amp;Accept</source>
@@ -24281,11 +24294,11 @@ Posibles razones:
     </message>
     <message>
         <source>I &amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <source>Kingsoft Office Software License Agreement and Privacy Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Contrato de licencia de software y Contrato de privacidad de Kingsoft Office</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -24316,7 +24329,7 @@ Posibles razones:
     <name>KxImageToPDFOneCommand</name>
     <message>
         <source>pic</source>
-        <translation type="unfinished"/>
+        <translation>Versión de solo imagen</translation>
     </message>
 </context>
 <context>
@@ -24448,7 +24461,7 @@ Posibles razones:
     <name>KxServerConnectableTipDlg</name>
     <message>
         <source>Login Hint</source>
-        <translation type="unfinished"/>
+        <translation>Consejo de inicio de sesión</translation>
     </message>
     <message>
         <source>Login</source>
@@ -24456,15 +24469,15 @@ Posibles razones:
     </message>
     <message>
         <source>The network connection has been restored to normal. To ensure the normal use of the function, please log in to the account %1 before encrypting the document.</source>
-        <translation type="unfinished"/>
+        <translation>La conexión de red se ha restaurado a la normalidad. Para garantizar el uso normal de la característica, inicie sesión con la cuenta %1 antes de cifrar el documento.</translation>
     </message>
     <message>
         <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
-        <translation type="unfinished"/>
+        <translation>La cuenta %1 que ha iniciado la sesión no es coherente con la cuenta %2 sin conexión. Utilice la cuenta sin conexión para la verificación.</translation>
     </message>
     <message>
         <source>Login Exception Hint</source>
-        <translation type="unfinished"/>
+        <translation>Alerta de excepción de inicio de sesión</translation>
     </message>
 </context>
 <context>
@@ -24518,7 +24531,7 @@ Posibles razones:
     <name>KxDlgRunMacro</name>
     <message>
         <source>&amp;Run</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ejecutar</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -24542,7 +24555,7 @@ Posibles razones:
     </message>
     <message>
         <source>M&amp;acro in:</source>
-        <translation type="unfinished"/>
+        <translation>M&amp;acro en:</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -24554,11 +24567,11 @@ Posibles razones:
     </message>
     <message>
         <source>&amp;Step Into</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Paso a paso</translation>
     </message>
     <message>
         <source>Descript&amp;ion:</source>
-        <translation type="unfinished"/>
+        <translation>Descripc&amp;ión:</translation>
     </message>
 </context>
 <context>
@@ -25214,7 +25227,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>If WPS client is already running, you need to restart it to take effect.</source>
-        <translation type="unfinished"/>
+        <translation>Si el cliente WPS ya está abierto, deberá reiniciar WPS para que tenga efecto.</translation>
     </message>
     <message>
         <source>Allow</source>
@@ -25234,15 +25247,15 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Confirm that the add-on &quot;%1&quot; is allowed to run in the WPS client?</source>
-        <translation type="unfinished"/>
+        <translation>¿Confirma que desea permitir que el complemento &quot;%1&quot; se ejecute en el cliente WPS?</translation>
     </message>
     <message>
         <source>Confirm that &quot;%1&quot; delete WPS Addon &quot;%2&quot; is allowed?</source>
-        <translation type="unfinished"/>
+        <translation>¿Confirma que desea permitir a &quot;%1&quot; eliminar el complemento &quot;%2&quot; de WPS?</translation>
     </message>
     <message>
         <source>Unknown Origin</source>
-        <translation type="unfinished"/>
+        <translation>Origen desconocido</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -25250,7 +25263,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Refuse</source>
-        <translation type="unfinished"/>
+        <translation>Rechazar</translation>
     </message>
     <message>
         <source>SaveAs</source>
@@ -25258,15 +25271,15 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Always allowed</source>
-        <translation type="unfinished"/>
+        <translation>Permitir siempre</translation>
     </message>
     <message>
         <source>Confirm to allow &quot;%1&quot; to access WPS Addon &quot;%2&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>¿Confirma que desea permitir a &quot;%1&quot; acceder al complemento &quot;%2&quot; de WPS?</translation>
     </message>
     <message>
         <source>F4Repeat</source>
-        <translation type="unfinished"/>
+        <translation>Rehacer</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -25274,19 +25287,19 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Please make sure that the site is trusted, it has the right to display its web page information in WPS and access your document contentand computer resources.</source>
-        <translation type="unfinished"/>
+        <translation>Asegúrese de que el sitio sea de confianza y tenga derecho a mostrar la información de su página web en WPS y a acceder al contenido de sus documentos y recursos informáticos.</translation>
     </message>
     <message>
         <source>Allowed this time</source>
-        <translation type="unfinished"/>
+        <translation>Permitir esta vez</translation>
     </message>
     <message>
         <source>Confirm to add WPS Addon &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>¿Confirma que desea agregar el complemento de WPS &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>This add-on is a third-party program, can add new features to WPS, But it has access to your document content, computer resources.</source>
-        <translation type="unfinished"/>
+        <translation>Este complemento es un programa de terceros que puede añadir nuevas funciones a WPS, pero tiene acceso al contenido de sus documentos y a los recursos del ordenador.</translation>
     </message>
 </context>
 <context>
@@ -25324,7 +25337,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation>Impresión a doble cara (&amp;X)</translation>
+        <translation>Impresión a doble cara</translation>
     </message>
     <message>
         <source>Flip on long edge</source>
@@ -25336,7 +25349,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Conectando</translation>
     </message>
     <message>
         <source>Manual duplex</source>
@@ -25422,31 +25435,31 @@ Verifique que el nombre del fichero es correcto.</translation>
     <name>KScreenGrabPin</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Guardar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"/>
+        <translation>Captura%1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"/>
+        <translation>%1;;%2;;%3</translation>
     </message>
 </context>
 <context>
@@ -25550,87 +25563,87 @@ Verifique que el nombre del fichero es correcto.</translation>
     <name>KxDlgCustomThemeColor</name>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"/>
+        <translation>Oscuro</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nombre:</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Restablecer</translation>
     </message>
     <message>
         <source>Text/&amp;Backdrop-Light 1</source>
-        <translation type="unfinished"/>
+        <translation>Texto/&amp;Fondo - Claro 1</translation>
     </message>
     <message>
         <source>Text/Backdrop-&amp;Dark 2</source>
-        <translation type="unfinished"/>
+        <translation>Texto/Fondo - &amp;Oscuro 2</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hipervínculo</translation>
     </message>
     <message>
         <source>Theme color</source>
-        <translation type="unfinished"/>
+        <translation>Colores del tema</translation>
     </message>
     <message>
         <source>&amp;Text/Backdrop-Dark 1</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Texto/Fondo - Oscuro 1</translation>
     </message>
     <message>
         <source>Coloring &amp;1</source>
-        <translation type="unfinished"/>
+        <translation>Color &amp;1</translation>
     </message>
     <message>
         <source>Coloring &amp;2</source>
-        <translation type="unfinished"/>
+        <translation>Color &amp;2</translation>
     </message>
     <message>
         <source>Coloring &amp;3</source>
-        <translation type="unfinished"/>
+        <translation>Color &amp;3</translation>
     </message>
     <message>
         <source>Coloring &amp;4</source>
-        <translation type="unfinished"/>
+        <translation>Color &amp;4</translation>
     </message>
     <message>
         <source>Coloring &amp;5</source>
-        <translation type="unfinished"/>
+        <translation>Color &amp;5</translation>
     </message>
     <message>
         <source>Coloring &amp;6</source>
-        <translation type="unfinished"/>
+        <translation>Color &amp;6</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Colores personalizados</translation>
     </message>
     <message>
         <source>Example</source>
-        <translation type="unfinished"/>
+        <translation>Ejemplo</translation>
     </message>
     <message>
         <source>Text/Backdrop-&amp;Light 2</source>
-        <translation type="unfinished"/>
+        <translation>Texto/Fondo - &amp;Claro 2</translation>
     </message>
     <message>
         <source>&amp;Visited hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hipervínculo visitado</translation>
     </message>
 </context>
 <context>
@@ -25714,7 +25727,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Make</source>
-        <translation type="unfinished"/>
+        <translation>Crear</translation>
     </message>
 </context>
 <context>
@@ -25823,7 +25836,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     <name>KxMBCommand</name>
     <message>
         <source>Else</source>
-        <translation type="unfinished"/>
+        <translation>En caso contrario</translation>
     </message>
     <message>
         <source>tips</source>
@@ -25831,111 +25844,111 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>You cannot issue this document because you are not the issuer. Contact your administrator to solve the problem.</source>
-        <translation type="unfinished"/>
+        <translation>No puede emitir este documento porque no es el emisor. Póngase en contacto con el administrador para emitir el documento.</translation>
     </message>
     <message>
         <source>confirm decrypt classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Revisado correctamente. La confidencialidad se ha cancelado.</translation>
     </message>
     <message>
         <source>confirm lift classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Revisado correctamente. El documento está exento de confidencialidad.</translation>
     </message>
     <message>
         <source>Cannot issue</source>
-        <translation type="unfinished"/>
+        <translation>No se puede emitir</translation>
     </message>
     <message>
         <source>withdraw issued doc success!</source>
-        <translation type="unfinished"/>
+        <translation>Ha recuperado con éxito el documento emitido, y el documento se restablece al estado confidencial confirmado.</translation>
     </message>
     <message>
         <source>submit change classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Se ha enviado al personal pertinente para que revise los cambios.</translation>
     </message>
     <message>
         <source>Cannot setup classification level</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido confirmar el nivel de confidencialidad.</translation>
     </message>
     <message>
         <source>withdraw issue success</source>
-        <translation type="unfinished"/>
+        <translation>El documento emitido se ha recuperado con éxito.</translation>
     </message>
     <message>
         <source>You cannot lift the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>No puede cancelar el nivel de confidencialidad de este documento porque no es el redactor ni la persona responsable. Póngase en contacto con el administrador para cancelar el nivel de confidencialidad.</translation>
     </message>
     <message>
         <source>You cannot change the classification level for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>No puede cambiar el nivel de confidencialidad de este documento porque no es el redactor ni la persona responsable. Póngase en contacto con el administrador para cambiar el nivel de confidencialidad.</translation>
     </message>
     <message>
         <source>can not operate</source>
-        <translation type="unfinished"/>
+        <translation>no se puede operar</translation>
     </message>
     <message>
         <source>label classification success!</source>
-        <translation type="unfinished"/>
+        <translation>El documento se ha marcado como confidencial. Envíelo al personal pertinente para que revise la confirmación de confidencialidad.</translation>
     </message>
     <message>
         <source>Cannot lift classification</source>
-        <translation type="unfinished"/>
+        <translation>No puede levantar la clasificación</translation>
     </message>
     <message>
         <source>You cannot setup the classification level for this document because you are not the person responsible. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>No puede confirmar el nivel de confidencialidad de este documento porque no es la persona responsable. Póngase en contacto con el administrador para confirmar el nivel de confidencialidad.</translation>
     </message>
     <message>
         <source>signed classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Revisado correctamente. El documento ya se ha emitido.</translation>
     </message>
     <message>
         <source>Cannot remove classification</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido eximir el documento de la confidencialidad.</translation>
     </message>
     <message>
         <source>this document has applying %1, can not operate %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 aplicada por el documento actual no se ha revisado. Realice las operaciones de %2 después de la revisión.</translation>
     </message>
     <message>
         <source>Cannot withdraw issued</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido emitir el documento recuperado.</translation>
     </message>
     <message>
         <source>setup classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Revisado correctamente. El nivel de confidencialidad del documento está confirmado.</translation>
     </message>
     <message>
         <source>You cannot label the classification level for this document because you are not the drafter. You can contact your administrator for labeling.</source>
-        <translation type="unfinished"/>
+        <translation>No puede establecer el nivel de confidencialidad de este documento porque no es el redactor. Póngase en contacto con el administrador para establecer el nivel de confidencialidad.</translation>
     </message>
     <message>
         <source>You cannot remove the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>No puede eximir el documento de la confidencialidad porque no es el redactor ni la persona responsable. Póngase en contacto con el administrador para eximir el documento de la confidencialidad.</translation>
     </message>
     <message>
         <source>submit lift classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Se ha enviado al personal pertinente para que revise la exención de confidencialidad.</translation>
     </message>
     <message>
         <source>Cannot change classification level</source>
-        <translation type="unfinished"/>
+        <translation>No se puede cambiar el nivel de clasificación</translation>
     </message>
     <message>
         <source>You cannot withdraw issue because you are not the issuer.</source>
-        <translation type="unfinished"/>
+        <translation>No puede retirar la emisión porque no es el emisor.</translation>
     </message>
     <message>
         <source>confirm change classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Revisado correctamente. El nivel de confidencialidad ha cambiado.</translation>
     </message>
     <message>
         <source>Cannot label classification level</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido marcar como confidencial.</translation>
     </message>
     <message>
         <source>submit decrypt classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Se ha enviado al personal pertinente para que revise la cancelación.</translation>
     </message>
 </context>
 <context>
@@ -25962,7 +25975,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Uniform Office Spreadsheet Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato de Spreadsheet de Office uniforme</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation.</source>
@@ -25978,7 +25991,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Uniform Office Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato de texto de Office uniforme</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
@@ -25990,7 +26003,7 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>XLS Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Libro de trabajo XLS</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -26018,11 +26031,11 @@ Verifique que el nombre del fichero es correcto.</translation>
     </message>
     <message>
         <source>Uniform Office Presentation Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato de Presentation de Office uniforme</translation>
     </message>
     <message>
         <source>XLSX Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Libro de trabajo XLSX</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
@@ -26585,7 +26598,7 @@ móvil</translation>
     </message>
     <message>
         <source>&amp;Choose commands from:</source>
-        <translation>Seleccionar comandos de: (&amp;C)</translation>
+        <translation>Seleccionar comandos de:</translation>
     </message>
     <message>
         <source>Customize Quick Access Toolbar</source>
@@ -26593,15 +26606,15 @@ móvil</translation>
     </message>
     <message>
         <source>All Commands</source>
-        <translation type="unfinished"/>
+        <translation>Todos los comandos</translation>
     </message>
     <message>
         <source>All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Todas las fichas</translation>
     </message>
     <message>
         <source>Assign [Alt+number] hot keys to commands in quick toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Puede configurar teclas de método abreviado [Alt+número] para los comandos agregados a una barra de herramientas de acceso rápido.</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
@@ -26613,11 +26626,11 @@ móvil</translation>
     </message>
     <message>
         <source>Hot keys</source>
-        <translation type="unfinished"/>
+        <translation>Teclas de método abreviado</translation>
     </message>
     <message>
         <source>Macro name</source>
-        <translation type="unfinished"/>
+        <translation>Macro</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -26652,11 +26665,11 @@ móvil</translation>
     </message>
     <message>
         <source>Do&amp;n&apos;t remind me</source>
-        <translation>No recordar (&amp;N)</translation>
+        <translation>No recordar</translation>
     </message>
     <message>
         <source>&amp;Receive Help and QA notices</source>
-        <translation>Ayuda y avisos de QA (&amp;R)</translation>
+        <translation>Ayuda y avisos de QA</translation>
     </message>
     <message>
         <source>Notification</source>
@@ -26709,7 +26722,7 @@ móvil</translation>
     </message>
     <message>
         <source>No results found, please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>No se han encontrado resultados. Vuelva a introducirlos.</translation>
     </message>
     <message>
         <source>Search</source>
@@ -26717,7 +26730,7 @@ móvil</translation>
     </message>
     <message>
         <source>Enter at least two keywords</source>
-        <translation type="unfinished"/>
+        <translation>Introduzca dos palabras clave como mínimo</translation>
     </message>
 </context>
 <context>
@@ -26728,11 +26741,11 @@ móvil</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"/>
+        <translation>Confiar</translation>
     </message>
     <message>
         <source>Don&apos;t Trust</source>
-        <translation type="unfinished"/>
+        <translation>No confiar</translation>
     </message>
     <message>
         <source>Details</source>
@@ -26740,7 +26753,7 @@ móvil</translation>
     </message>
     <message>
         <source>You are about to visit a third-party website</source>
-        <translation type="unfinished"/>
+        <translation>Está a punto de visitar un sitio web de terceros</translation>
     </message>
 </context>
 <context>
@@ -27290,11 +27303,11 @@ móvil</translation>
     </message>
     <message>
         <source>This file format is not supported at this time.</source>
-        <translation type="unfinished"/>
+        <translation>Este formato de archivo no se admite en este momento.</translation>
     </message>
     <message>
         <source>The document need to be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Es necesario guardar el documento.</translation>
     </message>
 </context>
 <context>
@@ -27397,7 +27410,7 @@ móvil</translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation type="unfinished"/>
+        <translation>Abrir documento local</translation>
     </message>
     <message>
         <source>CloudDisk</source>
@@ -27666,15 +27679,15 @@ móvil</translation>
     <name>KxInkDrawPenGalleryCommand</name>
     <message>
         <source>Line</source>
-        <translation type="unfinished"/>
+        <translation>Línea</translation>
     </message>
     <message>
         <source>Rect</source>
-        <translation type="unfinished"/>
+        <translation>Rectángulo de captura de pantalla</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Onda</translation>
     </message>
     <message>
         <source>1pound</source>
@@ -27705,7 +27718,7 @@ móvil</translation>
     <name>KxOutwardDocTableModelV2</name>
     <message>
         <source>Made</source>
-        <translation type="unfinished"/>
+        <translation>Creado</translation>
     </message>
     <message>
         <source>Time</source>
@@ -27713,7 +27726,7 @@ móvil</translation>
     </message>
     <message>
         <source>nothing</source>
-        <translation type="unfinished"/>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Status</source>
@@ -27725,7 +27738,7 @@ móvil</translation>
     </message>
     <message>
         <source>ToBeReviewed</source>
-        <translation type="unfinished"/>
+        <translation>Revisión pendiente</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -27741,11 +27754,11 @@ móvil</translation>
     </message>
     <message>
         <source>Reviewed</source>
-        <translation type="unfinished"/>
+        <translation>Revisado</translation>
     </message>
     <message>
         <source>Expired</source>
-        <translation type="unfinished"/>
+        <translation>Caducado</translation>
     </message>
     <message>
         <source>Protect Type</source>
@@ -27756,7 +27769,7 @@ móvil</translation>
     <name>KxDlgChooseOutwardDocV2</name>
     <message>
         <source>Make</source>
-        <translation type="unfinished"/>
+        <translation>Crear</translation>
     </message>
     <message>
         <source>=+new</source>
@@ -27768,7 +27781,7 @@ móvil</translation>
     </message>
     <message>
         <source>Make outward document</source>
-        <translation type="unfinished"/>
+        <translation>Crear documento externo</translation>
     </message>
 </context>
 <context>
@@ -27796,7 +27809,7 @@ móvil</translation>
     <name>KScreenGrabMenu</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Más</translation>
     </message>
 </context>
 <context>
@@ -28084,7 +28097,7 @@ móvil</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Acercar</translation>
     </message>
     <message>
         <source>Close Full Screen</source>
@@ -28096,7 +28109,7 @@ móvil</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Alejar</translation>
     </message>
     <message>
         <source>Real Size</source>
@@ -28236,11 +28249,11 @@ móvil</translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation type="unfinished"/>
+        <translation>Abrir documento local</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -28381,23 +28394,23 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     <name>KScreenGrabWindow</name>
     <message>
         <source>Rect</source>
-        <translation type="unfinished"/>
+        <translation>Rectángulo de captura de pantalla</translation>
     </message>
     <message>
         <source>Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Polígono</translation>
     </message>
     <message>
         <source>RoundedRect</source>
-        <translation type="unfinished"/>
+        <translation>Rectángulo de captura de pantalla redondeada</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Óvalo</translation>
     </message>
     <message>
         <source>WPS Screengrab</source>
-        <translation type="unfinished"/>
+        <translation>Captura de pantalla de WPS</translation>
     </message>
 </context>
 <context>
@@ -28426,7 +28439,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     <name>KQuitCoopEditMsgBox</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Salir</translation>
     </message>
 </context>
 <context>
@@ -28682,11 +28695,11 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Level of classification</source>
-        <translation type="unfinished"/>
+        <translation>Nivel de confidencialidad</translation>
     </message>
     <message>
         <source>People</source>
-        <translation type="unfinished"/>
+        <translation>Personal</translation>
     </message>
     <message>
         <source>Status</source>
@@ -28694,7 +28707,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Type of encryption</source>
-        <translation type="unfinished"/>
+        <translation>Tipo de cifrado</translation>
     </message>
     <message>
         <source>Operation</source>
@@ -28705,23 +28718,23 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     <name>KxCustomThemeColorDlg</name>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>Consejos</translation>
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>texto</translation>
     </message>
     <message>
         <source>Change Theme Color</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar colores del tema</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Hipervínculo</translation>
     </message>
     <message>
         <source>Theme color name cannot be empty</source>
@@ -28849,7 +28862,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>This file has been opened as read-only. Enable edit?</source>
-        <translation type="unfinished"/>
+        <translation>Este archivo está actualmente en modo de solo lectura. ¿Desea habilitar la edición?</translation>
     </message>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
@@ -28861,7 +28874,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>%1%2%3click here to view more details, and get more solution%4</source>
-        <translation type="unfinished"/>
+        <translation>%1%2%3Haga clic aquí para ver otras soluciones o para saber cómo activar las macros.%4</translation>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored(If you do not need the restored file, close it directly and reopen the original document).</source>
@@ -28869,19 +28882,19 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>check key word</source>
-        <translation type="unfinished"/>
+        <translation>Ver detalles</translation>
     </message>
     <message>
         <source>WPS Diagnositic</source>
-        <translation type="unfinished"/>
+        <translation>Herramienta de diagnóstico de WPS</translation>
     </message>
     <message>
         <source>You can only edit under read-only mode since other users are editing this file.</source>
-        <translation type="unfinished"/>
+        <translation>Únicamente puede editar en modo de solo lectura, ya que otros usuarios están editando este documento.</translation>
     </message>
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.</source>
-        <translation type="unfinished"/>
+        <translation>Las macros no se pueden ejecutar porque la biblioteca de soporte de VBA no está instalada.</translation>
     </message>
     <message>
         <source>%1To find an earlier version, it is recommended to restore it from the backupcenter%2</source>
@@ -28901,7 +28914,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>security warning: JS macros have been disabled</source>
-        <translation type="unfinished"/>
+        <translation>advertencia de seguridad: Las macros JS se han deshabilitado</translation>
     </message>
     <message>
         <source>send report</source>
@@ -28917,7 +28930,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>%1To find an earlier version%2</source>
-        <translation type="unfinished"/>
+        <translation>%1Para ver las versiones anteriores%2</translation>
     </message>
     <message>
         <source>immediately fix</source>
@@ -28961,19 +28974,19 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>find some keywords</source>
-        <translation type="unfinished"/>
+        <translation>Se ha comprobado el nivel de confidencialidad del archivo. Resultado: un total de</translation>
     </message>
     <message>
         <source>There was an error in the backup replay process, and some backup content may have been lost.</source>
-        <translation type="unfinished"/>
+        <translation>Se ha producido un error al reanudar la copia de seguridad. Es posible que se pierda parte del contenido de la copia de seguridad.</translation>
     </message>
     <message>
         <source>To change this file from server, please check out first.</source>
-        <translation type="unfinished"/>
+        <translation>Para modificar este documento del servidor, es necesario extraerlo.</translation>
     </message>
     <message>
         <source>checkout</source>
-        <translation type="unfinished"/>
+        <translation>extraer</translation>
     </message>
     <message>
         <source>Do not show again</source>
@@ -28992,14 +29005,14 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>show more</source>
-        <translation type="unfinished"/>
+        <translation>mostrar más</translation>
     </message>
 </context>
 <context>
     <name>KxRnTpTitle</name>
     <message>
         <source>lock</source>
-        <translation type="unfinished"/>
+        <translation>Desanclar panel</translation>
     </message>
     <message>
         <source>(page to doc area)</source>
@@ -29015,7 +29028,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>unlock</source>
-        <translation type="unfinished"/>
+        <translation>Anclar panel</translation>
     </message>
     <message>
         <source>(page to task pane)</source>
@@ -29162,15 +29175,15 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Are you sure to withdraw issue?</source>
-        <translation type="unfinished"/>
+        <translation>Una vez recuperado el documento emitido, se restaurará el estado confidencial confirmado. ¿Seguro que desea recuperar el documento emitido?</translation>
     </message>
     <message>
         <source>can not operate</source>
-        <translation type="unfinished"/>
+        <translation>no se puede operar</translation>
     </message>
     <message>
         <source>this document has applying %1, can not withdraw issue.</source>
-        <translation type="unfinished"/>
+        <translation>%1 aplicada por este documento no se revisa. Revíselo antes de recuperar los documentos emitidos o de realizar operaciones relacionadas.</translation>
     </message>
 </context>
 <context>
@@ -29309,11 +29322,11 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>SupportType_Office</source>
-        <translation type="unfinished"/>
+        <translation>Compatible con el software Office</translation>
     </message>
     <message>
         <source>not support yet</source>
-        <translation type="unfinished"/>
+        <translation>No compatible</translation>
     </message>
     <message>
         <source>OutwardType_WaterMark</source>
@@ -29321,15 +29334,15 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>OutwardType_PasswordAndWatermark</source>
-        <translation type="unfinished"/>
+        <translation>Protección con contraseña y marca de agua</translation>
     </message>
     <message>
         <source>SupportType_Wps</source>
-        <translation type="unfinished"/>
+        <translation>Compatible solo con la versión de WPS Security</translation>
     </message>
     <message>
         <source>NoProtect</source>
-        <translation type="unfinished"/>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>description</source>
@@ -29341,15 +29354,15 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>open password:</source>
-        <translation type="unfinished"/>
+        <translation>contraseña para abrir:</translation>
     </message>
     <message>
         <source>watermark:</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar marca de agua:</translation>
     </message>
     <message>
         <source>Support Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipos compatibles</translation>
     </message>
     <message>
         <source>Authorize Id</source>
@@ -29411,7 +29424,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     <name>KxGalleryFontComboBox</name>
     <message>
         <source>Hide theme fonts</source>
-        <translation type="unfinished"/>
+        <translation>Haga clic para ocultar las fuentes del tema</translation>
     </message>
     <message>
         <source> (Body)</source>
@@ -29423,42 +29436,42 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Show theme fonts</source>
-        <translation type="unfinished"/>
+        <translation>Haga clic para mostrar las fuentes del tema</translation>
     </message>
     <message>
         <source>Show theme Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar fuentes de tema</translation>
     </message>
 </context>
 <context>
     <name>KXBlackTipWidget</name>
     <message>
         <source>%1Not again for this file%2</source>
-        <translation type="unfinished"/>
+        <translation>%1No volver a recordar en este documento%2</translation>
     </message>
     <message>
         <source>Takes too long to open? Slim the file to clear invalid data.</source>
-        <translation type="unfinished"/>
+        <translation>¿Los archivos tardan mucho en abrirse? Le recomendamos que aligere el archivo, lo que no afectará a los datos ni a las fórmulas.</translation>
     </message>
     <message>
         <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
-        <translation type="unfinished"/>
+        <translation>¿Las operaciones son lentas? ¿Los archivos tardan en guardarse? Le recomendamos que aligere el archivo, lo que no afectará a los datos ni a las fórmulas.</translation>
     </message>
     <message>
         <source>The file has too much data excess. Auto-slimming it down:</source>
-        <translation type="unfinished"/>
+        <translation>Para mejorar la experiencia, estamos optimizando y comprimiendo el archivo grande... xx%</translation>
     </message>
     <message>
         <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
-        <translation type="unfinished"/>
+        <translation>No volver a recordar en este documento. Para usar el aligeramiento de archivo, búsquelo en Características especiales.</translation>
     </message>
     <message>
         <source>Not again for this file</source>
-        <translation type="unfinished"/>
+        <translation>No volver a recordar en este documento</translation>
     </message>
     <message>
         <source>Slim list</source>
-        <translation type="unfinished"/>
+        <translation>Lista de aligeramiento</translation>
     </message>
 </context>
 <context>
@@ -30451,7 +30464,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a TIFF picture.</source>
-        <translation type="unfinished"/>
+        <translation>El contenido del portapapeles se insertará como una imagen TIFF.</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
@@ -30658,7 +30671,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     <name>KxFormatGroupContentChartNumber</name>
     <message>
         <source>Malay(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>Malayo (Malasia)</translation>
     </message>
     <message>
         <source>English(United Kingdom)</source>
@@ -30674,11 +30687,11 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Portuguese(Brazil)</source>
-        <translation type="unfinished"/>
+        <translation>Portugués (Brasil)</translation>
     </message>
     <message>
         <source>English(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>Inglés (Malasia)</translation>
     </message>
     <message>
         <source>English(United States)</source>
@@ -30690,11 +30703,11 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Russian(Russia)</source>
-        <translation type="unfinished"/>
+        <translation>Ruso (Rusia)</translation>
     </message>
     <message>
         <source>Portuguese(Portugal)</source>
-        <translation type="unfinished"/>
+        <translation>Portugués (Portugal)</translation>
     </message>
     <message>
         <source>English(Australia)</source>
@@ -30706,15 +30719,15 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Hindi(India)</source>
-        <translation type="unfinished"/>
+        <translation>Hindi (India)</translation>
     </message>
     <message>
         <source>English(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>Inglés (Indonesia)</translation>
     </message>
     <message>
         <source>Indonesian(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>Indonesio (Indonesia)</translation>
     </message>
     <message>
         <source>Thai(Thailand)</source>
@@ -30730,7 +30743,7 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Spanish(Spain)</source>
-        <translation type="unfinished"/>
+        <translation>Español (España)</translation>
     </message>
     <message>
         <source>Japanese(Japan)</source>
@@ -30742,26 +30755,26 @@ Registro no válido.  Quizás se ha renombrado, eliminado o movido el archivo.
     </message>
     <message>
         <source>Chinese(HongKong S.A.R)</source>
-        <translation type="unfinished"/>
+        <translation>Chino (Hong Kong, R.A.E.)</translation>
     </message>
     <message>
         <source>Chinese(Taiwan China)</source>
-        <translation type="unfinished"/>
+        <translation>Chino (Taiwán)</translation>
     </message>
     <message>
         <source>English(Philippines)</source>
-        <translation type="unfinished"/>
+        <translation>Inglés (Filipinas)</translation>
     </message>
 </context>
 <context>
     <name>KxShortcutsDiffDlg</name>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vista preliminar</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Acceso directo</translation>
     </message>
 </context>
 <context>
@@ -31420,19 +31433,19 @@ El registro es inválido. El archivo puede ser renombrado, eliminado o movido.</
     </message>
     <message>
         <source>Caps Lock is on.</source>
-        <translation type="unfinished"/>
+        <translation>Bloq Mayús está activada.</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly. </source>
-        <translation type="unfinished"/>
+        <translation>Si tiene activada la tecla Bloq Mayús, es posible que escriba mal la contraseña.</translation>
     </message>
     <message>
         <source>You cannot copy from the password.</source>
-        <translation type="unfinished"/>
+        <translation>No puede copiar desde la contraseña.</translation>
     </message>
     <message>
         <source>Not Allowed.</source>
-        <translation type="unfinished"/>
+        <translation>No permitido.</translation>
     </message>
 </context>
 <context>
@@ -32250,11 +32263,11 @@ El registro es inválido. El archivo puede ser renombrado, eliminado o movido.</
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation type="unfinished"/>
+        <translation>Abrir documento local</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -32956,7 +32969,7 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     </message>
     <message>
         <source>Custom toolbar needs to login.</source>
-        <translation type="unfinished"/>
+        <translation>La operación actual solo es válida en este ordenador. Se puede sincronizar con otros dispositivos después de iniciar la sesión.</translation>
     </message>
 </context>
 <context>
@@ -32967,15 +32980,15 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     </message>
     <message>
         <source>After closing, when WPS is unexpectedly closed, unsaved documents will be at risk of losing data. It is recommended to turn on backup.</source>
-        <translation type="unfinished"/>
+        <translation>Después de cerrar, cuando WPS se cierra de forma inesperada, los documentos no guardados corren el riesgo de perder datos. Se recomienda activar la copia de seguridad.</translation>
     </message>
     <message>
         <source>Keep on</source>
-        <translation type="unfinished"/>
+        <translation>Mantener activada</translation>
     </message>
     <message>
         <source>Are you sure to close local backup?</source>
-        <translation type="unfinished"/>
+        <translation>¿Seguro que desea cerrar la copia de seguridad local?</translation>
     </message>
 </context>
 <context>
@@ -33432,7 +33445,7 @@ documento</translation>
     <name>KxOfdPreviewProgressDlg</name>
     <message>
         <source>OFD Print Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vista preliminar de OFD</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -33440,19 +33453,19 @@ documento</translation>
     </message>
     <message>
         <source>Ofd preview is being generated.</source>
-        <translation type="unfinished"/>
+        <translation>Generando vista previa...</translation>
     </message>
     <message>
         <source>Preview Ofd Failed! Please Click Retry.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido generar una vista previa. Haga clic para intentarlo de nuevo.</translation>
     </message>
     <message>
         <source>%1 Done</source>
-        <translation type="unfinished"/>
+        <translation>%1 páginas hechas</translation>
     </message>
     <message>
         <source>Cancel Preview</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar vista previa</translation>
     </message>
 </context>
 <context>
@@ -33682,7 +33695,7 @@ a
     </message>
     <message>
         <source>&amp;Auto add as Trusted document.</source>
-        <translation>Agregar automáticamente como documento de confianza (&amp;A)</translation>
+        <translation>Agregar automáticamente como documento de confianza</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -33698,7 +33711,7 @@ a
     </message>
     <message>
         <source>&amp;Add new location...</source>
-        <translation>Agregar nueva ubicación (&amp;A)</translation>
+        <translation>Agregar nueva ubicación</translation>
     </message>
     <message>
         <source>User Locations:</source>
@@ -33710,7 +33723,7 @@ a
     </message>
     <message>
         <source>&amp;Disable all Trusted Locations</source>
-        <translation>Deshabilitar todas las ubicaciones de confianza (&amp;D)</translation>
+        <translation>Deshabilitar todas las ubicaciones de confianza</translation>
     </message>
     <message>
         <source>Add Objects with &amp;Hyperlink as Trusted Objects</source>
@@ -33718,7 +33731,7 @@ a
     </message>
     <message>
         <source>&amp;Edit link...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Editar vínculo</translation>
     </message>
     <message>
         <source>Trusted File Link</source>
@@ -33784,7 +33797,7 @@ a
     <name>KxFormatGroupContentChartAxisOptions</name>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Restablecer</translation>
     </message>
     <message>
         <source>Veritcal axis crosses</source>
@@ -33803,7 +33816,7 @@ a
     </message>
     <message>
         <source>loaded failed</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido cargar. Haga clic para intentarlo de nuevo.</translation>
     </message>
     <message>
         <source>Online resource deployment failed</source>
@@ -33903,71 +33916,71 @@ a
     <name>KPinKeyVerifyDlg</name>
     <message>
         <source>install</source>
-        <translation type="unfinished"/>
+        <translation>instalar</translation>
     </message>
     <message>
         <source>server not %1, please try later</source>
-        <translation type="unfinished"/>
+        <translation>El servicio no está %1. Vuelva a intentarlo más tarde.</translation>
     </message>
     <message>
         <source>cert not valid yet</source>
-        <translation type="unfinished"/>
+        <translation>certificado todavía no válido</translation>
     </message>
     <message>
         <source>insert USB Key success</source>
-        <translation type="unfinished"/>
+        <translation>La unidad USB se ha insertado correctamente.</translation>
     </message>
     <message>
         <source>USB Key will be locked when the remaining count is zero.</source>
-        <translation type="unfinished"/>
+        <translation>La llave USB se bloqueará cuando la cuenta restante sea cero.</translation>
     </message>
     <message>
         <source>please insert the USB Key to verify</source>
-        <translation type="unfinished"/>
+        <translation>inserte la llave USB para verificar</translation>
     </message>
     <message>
         <source>validate cert Fail</source>
-        <translation type="unfinished"/>
+        <translation>Error al validar el certificado.</translation>
     </message>
     <message>
         <source>cert holded</source>
-        <translation type="unfinished"/>
+        <translation>El certificado está congelado. Póngase en contacto con el administrador.</translation>
     </message>
     <message>
         <source>unknow error, please make sure install correctly and try later</source>
-        <translation type="unfinished"/>
+        <translation>error desconocido, asegúrese de instalar correctamente e inténtelo más tarde</translation>
     </message>
     <message>
         <source>startup</source>
-        <translation type="unfinished"/>
+        <translation>iniciar</translation>
     </message>
     <message>
         <source>USB Key has been locked, need deblocking, please contact the manager</source>
-        <translation type="unfinished"/>
+        <translation>La unidad USB está bloqueada y es necesario desbloquearla para poder utilizarla. Póngase en contacto con el administrador.</translation>
     </message>
     <message>
         <source>cert not trust</source>
-        <translation type="unfinished"/>
+        <translation>El certificado no es de confianza.</translation>
     </message>
     <message>
         <source>your PC is linking more than one USB Key</source>
-        <translation type="unfinished"/>
+        <translation>El PC está conectado a varias unidades USB.</translation>
     </message>
     <message>
         <source>please insert the USB Key</source>
-        <translation type="unfinished"/>
+        <translation>inserte la llave USB</translation>
     </message>
     <message>
         <source>cert revoked</source>
-        <translation type="unfinished"/>
+        <translation>certificado revocado</translation>
     </message>
     <message>
         <source>Invalid password, please retry. remaining count:[%1]</source>
-        <translation type="unfinished"/>
+        <translation>Contraseña no válida. Vuelva a intentarlo. Recuento restante:[%1]</translation>
     </message>
     <message>
         <source>cert has expired, please contact the manager to update the cert</source>
-        <translation type="unfinished"/>
+        <translation>El certificado ha caducado. Póngase en contacto con el administrador para actualizar el certificado.</translation>
     </message>
 </context>
 <context>
@@ -34115,38 +34128,38 @@ a
     <name>KxPermissionLoginTipDlg</name>
     <message>
         <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation type="unfinished"/>
+        <translation>Si ha establecido la contraseña sin conexión, puede seguir utilizando el documento después de la verificación sin conexión.</translation>
     </message>
     <message>
         <source>Offline verification</source>
-        <translation type="unfinished"/>
+        <translation>Verificación sin conexión</translation>
     </message>
     <message>
         <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Se ha producido una excepción al conectarse a la red y el documento cifrado no se puede operar. Compruebe la red y vuelva a intentarlo más tarde.</translation>
     </message>
     <message>
         <source>Abnormal network connection</source>
-        <translation type="unfinished"/>
+        <translation>Conexión de red anormal</translation>
     </message>
 </context>
 <context>
     <name>KxServerDownTipDlg</name>
     <message>
         <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation type="unfinished"/>
+        <translation>Si ha establecido la contraseña sin conexión, puede seguir utilizando el documento después de la verificación sin conexión.</translation>
     </message>
     <message>
         <source>Offline verification</source>
-        <translation type="unfinished"/>
+        <translation>Verificación sin conexión</translation>
     </message>
     <message>
         <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Se ha producido una excepción al conectarse a la red y el documento cifrado no se puede operar. Compruebe la red y vuelva a intentarlo más tarde.</translation>
     </message>
     <message>
         <source>Abnormal network connection</source>
-        <translation type="unfinished"/>
+        <translation>Conexión de red anormal</translation>
     </message>
 </context>
 <context>
@@ -34292,7 +34305,8 @@ Puede agregar el papel personalizado %dmm x %dmm en propiedades de impresora e i
     <message>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in system and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office no puede imprimir. Compruebe si la impresora está encendida o conectada.
+Si el problema persiste, puede imprimir una página de prueba a través de Propiedades de impresión para comprobar si la impresora se instaló correctamente.</translation>
     </message>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
@@ -34326,11 +34340,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>JS Macros</source>
-        <translation type="unfinished"/>
+        <translation>Macros JS</translation>
     </message>
     <message>
         <source>VB Macros</source>
-        <translation type="unfinished"/>
+        <translation>Macros VB</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -34338,11 +34352,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Are you sure to delete macro &apos;%1&apos; ?</source>
-        <translation type="unfinished"/>
+        <translation>¿Seguro que desea eliminar la macro &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Las macros en el proyecto están deshabilitadas.</translation>
     </message>
 </context>
 <context>
@@ -34374,11 +34388,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <name>KxGetVbaRightsDialog</name>
     <message>
         <source>upgrated, refresh</source>
-        <translation type="unfinished"/>
+        <translation>Actualizado correctamente. Actualizar</translation>
     </message>
     <message>
         <source>Get VBA Permission</source>
-        <translation type="unfinished"/>
+        <translation>Obtener permisos VBA</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -34386,15 +34400,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>How to Get</source>
-        <translation type="unfinished"/>
+        <translation>Cómo habilitar las macros</translation>
     </message>
     <message>
         <source>upgrade package</source>
-        <translation type="unfinished"/>
+        <translation>actualizar paquete</translation>
     </message>
     <message>
         <source>The current package %1 does not support macro. After upgrading the package (to Commercial / Advanced Commercial), you can obtain the installation permission of VBA.</source>
-        <translation type="unfinished"/>
+        <translation>El paquete actual %1 no admite la habilitación de macros. Después de actualizar el paquete (a Comercial/Comercial avanzado), puede obtener el permiso de instalación de la biblioteca de soporte de VBA.</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -34402,7 +34416,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
-        <translation type="unfinished"/>
+        <translation>El paquete actual %1 no admite la habilitación de macros. Póngase en contacto con el superadministrador de la empresa %2 para actualizar el paquete y obtener el permiso de instalación de la biblioteca de soporte de VBA.</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -34481,23 +34495,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <name>KScreenGrabShortcutConflictDlg</name>
     <message>
         <source>no tips again</source>
-        <translation type="unfinished"/>
+        <translation>No mostrar nunca</translation>
     </message>
     <message>
         <source>Setting Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Modificar acceso directo</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The shortcut keys for WPS screenshots have been occupied. It is suggested that you change the shortcut keys for conflict software or modify the shortcut keys for WPS screenshots.</source>
-        <translation type="unfinished"/>
+        <translation>El acceso directo de captura de pantalla de WPS está ocupado. Se recomienda que cambie el acceso directo.</translation>
     </message>
     <message>
         <source>shortcut keys have been occupied</source>
-        <translation type="unfinished"/>
+        <translation>El acceso directo ya está en uso</translation>
     </message>
 </context>
 <context>
@@ -34721,7 +34735,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     </message>
     <message>
         <source>System Style</source>
-        <translation type="unfinished"/>
+        <translation>Preestablecidos</translation>
     </message>
     <message>
         <source>More</source>
@@ -35128,7 +35142,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     </message>
     <message>
         <source>Import Cache offline key in this computer</source>
-        <translation type="unfinished"/>
+        <translation>Importar el archivo de claves sin conexión a este ordenador</translation>
     </message>
     <message>
         <source>&amp;Password</source>
@@ -35144,7 +35158,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Importar</translation>
     </message>
     <message>
         <source>Offline state:</source>
@@ -35301,7 +35315,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <name>KxSmartArtInsertDlg</name>
     <message>
         <source>Insert Smartart Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Insert WPSArt Dialog</translation>
     </message>
 </context>
 <context>
@@ -35382,7 +35396,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     </message>
     <message>
         <source>Excel Template</source>
-        <translation type="unfinished"/>
+        <translation>Plantilla de Excel</translation>
     </message>
     <message>
         <source>Download</source>
@@ -35394,11 +35408,11 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     </message>
     <message>
         <source>Excel Template Macro Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Plantilla de Excel con macro habilitada (*.xltm)</translation>
     </message>
     <message>
         <source>PowerPoint Template Macro Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Plantilla de PowerPoint con macro habilitada (*.potm)</translation>
     </message>
     <message>
         <source>PowerPoint Template</source>
@@ -35804,7 +35818,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <name>KxSwitchLanguageTipWidget</name>
     <message>
         <source>You can switch to %1 macro in &quot;Developer Tools&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Puede cambiar a la macro %1 en &quot;Herramientas para desarrolladores&quot;</translation>
     </message>
 </context>
 <context>
@@ -36397,19 +36411,19 @@ Vuelva a instalar WPS Office, por favor. </translation>
     <name>KxChartTemplateStackedWidget_xa</name>
     <message>
         <source>No local chart template</source>
-        <translation type="unfinished"/>
+        <translation>No hay plantillas de gráficos locales disponibles.</translation>
     </message>
     <message>
         <source>Manage Templates</source>
-        <translation type="unfinished"/>
+        <translation>Administrar las plantillas</translation>
     </message>
     <message>
         <source>Local chart templates</source>
-        <translation type="unfinished"/>
+        <translation>Plantillas de gráficos locales</translation>
     </message>
     <message>
         <source>Tips: By saving the chart template to the folder in the &quot;Manage Templates&quot; button, you can use the local chart template.</source>
-        <translation type="unfinished"/>
+        <translation>Sugerencia: Puede usar rápidamente los gráficos que haya guardado como plantillas o hacer clic en &quot;Administrar las plantillas&quot; para administrar los archivos de plantillas de gráficos.</translation>
     </message>
 </context>
 <context>
@@ -36447,26 +36461,26 @@ Vuelva a instalar WPS Office, por favor. </translation>
     </message>
     <message>
         <source>Find functions or document content</source>
-        <translation type="unfinished"/>
+        <translation>Buscar funciones o contenido de documentos</translation>
     </message>
 </context>
 <context>
     <name>KxAuthorizedExpirationCommand</name>
     <message>
         <source>Authorized Expiration</source>
-        <translation type="unfinished"/>
+        <translation>Activación pendiente</translation>
     </message>
     <message>
         <source>%1-day used</source>
-        <translation type="unfinished"/>
+        <translation>Quedan %1 días</translation>
     </message>
     <message>
         <source>%1-day trial</source>
-        <translation type="unfinished"/>
+        <translation>Días de prueba restantes: %1</translation>
     </message>
     <message>
         <source>trial unlimited</source>
-        <translation type="unfinished"/>
+        <translation>Modo de prueba</translation>
     </message>
 </context>
 <context>
@@ -36610,7 +36624,7 @@ Vuelva a instalar WPS Office, por favor. </translation>
     </message>
     <message>
         <source>Macros may contain viruses. It is always safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
-        <translation>Tenga en cuenta que es posible que las macros contengan virus. Se aconseja por seguridad deshabilitar las macros, pero si son seguros es posible que pierda parte de la funcionalidad.</translation>
+        <translation>Las macros pueden contener virus. Se aconseja por seguridad deshabilitar las macros, pero si son legítimas, es posible que pierda parte de la funcionalidad.</translation>
     </message>
     <message>
         <source>&amp;Enable Macros</source>
@@ -36799,11 +36813,11 @@ La configuración surtirá efecto después de que se reinicie WPS Office.</trans
     <name>KxDlgRunMacroOption</name>
     <message>
         <source>Macro name:</source>
-        <translation type="unfinished"/>
+        <translation>Nombre de macro:</translation>
     </message>
     <message>
         <source>Macro Options</source>
-        <translation type="unfinished"/>
+        <translation>Opciones de la macro</translation>
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
@@ -36954,11 +36968,11 @@ La configuración surtirá efecto después de que se reinicie WPS Office.</trans
     <name>KxPluginPathDlg</name>
     <message>
         <source>If you cancel this download, to protect data, the file will not open. Sure to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Si cancela esta descarga, el archivo no se abrirá para proteger los datos. ¿Seguro que desea cancelar la descarga?</translation>
     </message>
     <message>
         <source>Download Moji plugin failed. The file will be closed to prent data loss. Please check your network and retry download.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido descargar el complemento de tinta. El archivo se cerrará para evitar la pérdida de datos. Compruebe la red e intente descargarlo de nuevo.</translation>
     </message>
 </context>
 <context>
@@ -36980,38 +36994,38 @@ La configuración surtirá efecto después de que se reinicie WPS Office.</trans
     <name>KScrnGrabOcrShortcutSettingDlg</name>
     <message>
         <source>Remark:When the global shortcut key is turned on, it can also be used without wps opened</source>
-        <translation type="unfinished"/>
+        <translation>Aviso: también puede usar la captura de pantalla sin WPS cuando el acceso directo está activado</translation>
     </message>
     <message>
         <source>enable global shortcut for sreengrab ocr</source>
-        <translation type="unfinished"/>
+        <translation>Habilitar acceso directo para captura de pantalla</translation>
     </message>
     <message>
         <source>WPS ScreenGrabOcr Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Acceso directo de la captura de pantalla de WPS</translation>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>valor predeterminado</translation>
     </message>
 </context>
 <context>
     <name>KScrnGrabShortcutSettingDlg</name>
     <message>
         <source>Remark:When the global shortcut key is turned on, it can also be used without wps opened</source>
-        <translation type="unfinished"/>
+        <translation>Aviso: también puede usar la captura de pantalla sin WPS cuando el acceso directo está activado</translation>
     </message>
     <message>
         <source>WPS ScreenGrab Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Acceso directo de la captura de pantalla de WPS</translation>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>valor predeterminado</translation>
     </message>
     <message>
         <source>enable global shortcut for sreengrab</source>
-        <translation type="unfinished"/>
+        <translation>Habilitar acceso directo global para captura de pantalla</translation>
     </message>
 </context>
 <context>
@@ -37340,7 +37354,7 @@ Compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>online taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Panel de tareas</translation>
     </message>
 </context>
 <context>
@@ -37432,7 +37446,7 @@ Compruebe su conexión de red.</translation>
     <name>KPPDOptionsEditor</name>
     <message>
         <source>There are conflicting options.The changes can only be applied after the conflict has been resolved.</source>
-        <translation type="unfinished"/>
+        <translation>Hay opciones en conflicto. Todos los conflictos deben resolverse antes para que sus cambios se puedan aplicar.</translation>
     </message>
     <message>
         <source>Property</source>
@@ -37608,7 +37622,7 @@ Compruebe su conexión de red.</translation>
     <name>KxHistoryDisplayDlg</name>
     <message>
         <source>View classification</source>
-        <translation type="unfinished"/>
+        <translation>Ver confidencialidad</translation>
     </message>
     <message>
         <source>Document Name:</source>
@@ -37735,7 +37749,7 @@ Compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido importar la clave sin conexión porque no tiene permiso sin conexión para ningún documento.</translation>
     </message>
     <message>
         <source>User account:</source>
@@ -37759,7 +37773,7 @@ Compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>All files *.*</source>
-        <translation type="unfinished"/>
+        <translation>Todos los archivos *.*</translation>
     </message>
     <message>
         <source>You don&apos;t have any document&apos;s offline permission, download offline data failed.</source>
@@ -37767,7 +37781,7 @@ Compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>Import offline key</source>
-        <translation type="unfinished"/>
+        <translation>Importar la clave sin conexión</translation>
     </message>
     <message>
         <source>Logged in</source>
@@ -37779,11 +37793,11 @@ Compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>Import offline data successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Clave sin conexión importada correctamente.</translation>
     </message>
     <message>
         <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>El archivo no se puede importar porque el formato del archivo es incorrecto o el archivo está corrupto. Póngase en contacto con el administrador.</translation>
     </message>
 </context>
 <context>
@@ -37824,11 +37838,11 @@ Compruebe su conexión de red.</translation>
     <name>KxThemeItemPopupMenuCommand</name>
     <message>
         <source>Do you want to delete &quot;%1&quot; custom colors ?</source>
-        <translation type="unfinished"/>
+        <translation>¿Confirma que desea eliminar los colores &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Delete colors</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar colores</translation>
     </message>
 </context>
 <context>
@@ -37871,7 +37885,7 @@ Compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007/2010 Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 2007/2010 Presentation</translation>
     </message>
     <message>
         <source>Create &amp;new</source>
@@ -37879,23 +37893,23 @@ Compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 Presentation</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Libro de Microsoft Excel 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Libro de Microsoft Excel 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento de Microsoft Word 2007/2010</translation>
     </message>
 </context>
 <context>
@@ -38166,15 +38180,15 @@ La protección de la contraseña y los permisos de los documentos se invalidará
     <name>KVipTipButton</name>
     <message>
         <source>Buy separately on demand</source>
-        <translation type="unfinished"/>
+        <translation>Comprar por separado bajo demanda</translation>
     </message>
     <message>
         <source>TimeLimited</source>
-        <translation type="unfinished"/>
+        <translation>Gratis por tiempo limitado</translation>
     </message>
     <message>
         <source>Free for a limited time for WPS members</source>
-        <translation type="unfinished"/>
+        <translation>Gratis por tiempo limitado para WPS Premium</translation>
     </message>
     <message>
         <source>DocerVip</source>
@@ -38186,15 +38200,15 @@ La protección de la contraseña y los permisos de los documentos se invalidará
     </message>
     <message>
         <source>Free for Docer members</source>
-        <translation type="unfinished"/>
+        <translation>Gratis para Template Premium y Super Premium</translation>
     </message>
     <message>
         <source>PaySeparately</source>
-        <translation type="unfinished"/>
+        <translation>Pagar por separado</translation>
     </message>
     <message>
         <source>Free for WPS members</source>
-        <translation type="unfinished"/>
+        <translation>Gratis para WPS Premium y Super Premium</translation>
     </message>
 </context>
 <context>
@@ -38448,7 +38462,7 @@ El archivo puede ser renombrado, eliminado o movido.</translation>
     <name>KxNewOutwardDocDlg</name>
     <message>
         <source>Please enter a password with 8-15 digits of numbers, letters or symbols</source>
-        <translation type="unfinished"/>
+        <translation>Introduzca una contraseña que tenga entre 8-15 caracteres formada por números, letras o símbolos</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
@@ -38456,11 +38470,11 @@ El archivo puede ser renombrado, eliminado o movido.</translation>
     </message>
     <message>
         <source>Please enter the document password again</source>
-        <translation type="unfinished"/>
+        <translation>Vuelva a introducir la contraseña del documento</translation>
     </message>
     <message>
         <source>The current password cannot be empty</source>
-        <translation type="unfinished"/>
+        <translation>La contraseña actual no puede estar vacía.</translation>
     </message>
 </context>
 <context>
@@ -38641,7 +38655,7 @@ p, li { white-space: pre-wrap; }
     <name>KxOfflineManagement</name>
     <message>
         <source>The offline account %1 is inconsistent with the login account %2, please use the login account to verify</source>
-        <translation type="unfinished"/>
+        <translation>La cuenta sin conexión %1 no es coherente con la cuenta %2 que ha iniciado la sesión. Utilice la cuenta que ha iniciado la sesión para la verificación.</translation>
     </message>
     <message>
         <source>Please close all security document before log out.</source>
@@ -38649,26 +38663,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Verification Exception Hint</source>
-        <translation type="unfinished"/>
+        <translation>Alerta de excepción de verificación</translation>
     </message>
     <message>
         <source>Offline verfication</source>
-        <translation type="unfinished"/>
+        <translation>Verificación sin conexión</translation>
     </message>
     <message>
         <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
-        <translation type="unfinished"/>
+        <translation>La cuenta %1 que ha iniciado la sesión no es coherente con la cuenta %2 sin conexión. Utilice la cuenta sin conexión para la verificación.</translation>
     </message>
     <message>
         <source>Login Exception Hint</source>
-        <translation type="unfinished"/>
+        <translation>Alerta de excepción de inicio de sesión</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrustedLocation</name>
     <message>
         <source>&amp;Path:</source>
-        <translation>Ruta: (&amp;P)</translation>
+        <translation>Ruta:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -38680,7 +38694,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;SubFolders of this location are also trusted</source>
-        <translation>Las subcarpetas de esta ubicación también son de confianza (&amp;S)</translation>
+        <translation>Las subcarpetas de esta ubicación también son de confianza</translation>
     </message>
     <message>
         <source>This location will be treated as s trusted source.Make sure the location is secure.</source>
@@ -38893,26 +38907,26 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     <name>KxEtCollectionFormWidget</name>
     <message>
         <source>Immediate experience</source>
-        <translation type="unfinished"/>
+        <translation>Disfrútelo ahora</translation>
     </message>
     <message>
         <source>Support multi-person filling, mobile submission, automatic data aggregation</source>
-        <translation type="unfinished"/>
+        <translation>Admite la cumplimentación por varias personas, el envío a través de teléfonos móviles y la agregación automática de datos</translation>
     </message>
     <message>
         <source>View brief</source>
-        <translation type="unfinished"/>
+        <translation>Ver introducción</translation>
     </message>
     <message>
         <source>%1Not remind%2</source>
-        <translation type="unfinished"/>
+        <translation>%1No volver a recordármelo%2</translation>
     </message>
 </context>
 <context>
     <name>KxQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>Si tiene alguna pregunta, llame al Servicio de atención al cliente de WPS %1 o escanee el código QR del Servicio de atención al cliente de la izquierda.</translation>
     </message>
 </context>
 <context>
@@ -39193,11 +39207,11 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     <name>KShortcutSettingDlg</name>
     <message>
         <source>The selected shortcut keys have been occupied. It is suggested that you go to change the shortcut keys of conflict software or choose other shortcut keys.</source>
-        <translation type="unfinished"/>
+        <translation>El acceso directo de captura de pantalla de WPS está ocupado. Se recomienda que cambie el acceso directo.</translation>
     </message>
     <message>
         <source>shortcut keys have been occupied</source>
-        <translation type="unfinished"/>
+        <translation>El acceso directo ya está en uso</translation>
     </message>
 </context>
 <context>
@@ -39231,7 +39245,7 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     </message>
     <message>
         <source>Backup Notice</source>
-        <translation type="unfinished"/>
+        <translation>Aviso de copia de seguridad</translation>
     </message>
 </context>
 <context>
@@ -39319,7 +39333,7 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     <name>KxMakeOutwardDocEntranceCommand</name>
     <message>
         <source>You don&apos;t have outgoing permissions for this document(docid: %1). Please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>No tiene permiso para emitir el documento externo (ID de documento: %1). Póngase en contacto con el administrador.</translation>
     </message>
     <message>
         <source>You have not applied for watermark protect yet or last application is out of expired.</source>
@@ -39338,11 +39352,11 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     </message>
     <message>
         <source>The document was made successfully</source>
-        <translation type="unfinished"/>
+        <translation>El documento se ha creado correctamente</translation>
     </message>
     <message>
         <source>This document can not make outward document</source>
-        <translation type="unfinished"/>
+        <translation>Este documento no se puede utilizar para crear un documento externo.</translation>
     </message>
     <message>
         <source>Open file</source>
@@ -39350,19 +39364,19 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     </message>
     <message>
         <source>Can not make outward document</source>
-        <translation type="unfinished"/>
+        <translation>Error al crear el documento externo.</translation>
     </message>
     <message>
         <source>The outgoing document has been made successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Documento externo creado correctamente.</translation>
     </message>
     <message>
         <source>You haven&apos;t makeoutward permission of document. If you want to make outward document, please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>No tiene permiso para emitir un documento externo. Póngase en contacto con el administrador para emitir un documento externo.</translation>
     </message>
     <message>
         <source>Your document is in the form of attachment, unable to make outward document.</source>
-        <translation type="unfinished"/>
+        <translation>El documento está en formato de archivo adjunto y no se puede utilizar para crear un documento externo.</translation>
     </message>
 </context>
 <context>
@@ -39418,7 +39432,7 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     <name>KxPermissionLoginTipDlgV2</name>
     <message>
         <source>This document has private document protection turned on, log in to the document owner account or authorized account to open the document.</source>
-        <translation type="unfinished"/>
+        <translation>Este documento tiene habilitada la protección de documento privado. Inicie sesión con la cuenta de propietario del documento o la cuenta autorizada para abrir el documento.</translation>
     </message>
     <message>
         <source>Login Account</source>
@@ -39426,19 +39440,19 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     </message>
     <message>
         <source>This document is protected by account access</source>
-        <translation type="unfinished"/>
+        <translation>Este documento está protegido por el acceso a la cuenta</translation>
     </message>
     <message>
         <source>turned on private document protection.</source>
-        <translation type="unfinished"/>
+        <translation>ha activado la protección de documento privado.</translation>
     </message>
     <message>
         <source>The document was</source>
-        <translation type="unfinished"/>
+        <translation>El documento estaba</translation>
     </message>
     <message>
         <source>Log in the authorized account to open the document.</source>
-        <translation type="unfinished"/>
+        <translation>Inicie sesión con esta cuenta o con la cuenta autorizada para abrir el documento.</translation>
     </message>
 </context>
 <context>
@@ -39643,30 +39657,33 @@ Conviértase en VIP para obtener un uso ilimitado de esta función.</translation
     <name>KScrnGrabOcrHelperDlg</name>
     <message>
         <source>Quick Extraction of Text Content by three steps</source>
-        <translation type="unfinished"/>
+        <translation>Extracción rápida del contenido de texto en tres pasos</translation>
     </message>
     <message>
         <source>getting start</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <source>Select the area of text to be extracted
 Start recognizing and extracting text</source>
-        <translation type="unfinished"/>
+        <translation>Seleccione el área de texto
+Iniciar reconocimiento de texto</translation>
     </message>
     <message>
         <source>Waiting for a moment to complete recognition
 Automatic Text Replication of Recognition Result</source>
-        <translation type="unfinished"/>
+        <translation>Esperando el reconocimiento
+Copiar automáticamente el resultado del reconocimiento de texto</translation>
     </message>
     <message>
         <source>When encountering text that cannot be selected in PDF, pictures, web pages</source>
-        <translation type="unfinished"/>
+        <translation>Si no se puede seleccionar el texto en PDF, imágenes, páginas web</translation>
     </message>
     <message>
         <source>Keyboard shortcut Ctrl + Alt + S to
 enter the screenshot to extract words</source>
-        <translation type="unfinished"/>
+        <translation>Introduzca la tecla de acceso directo Ctrl + Alt + S
+para usar OCR y la captura de pantalla de WPS</translation>
     </message>
 </context>
 <context>
@@ -39711,7 +39728,7 @@ enter the screenshot to extract words</source>
     <name>KAppFailureTipWidget</name>
     <message>
         <source>Download %1 failed due to possible network problems. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>La descarga de %1 ha fallado debido a excepciones de red. Inténtelo de nuevo más tarde.</translation>
     </message>
 </context>
 <context>
@@ -39805,7 +39822,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefiniert</translation>
     </message>
 </context>
 <context>
@@ -39856,7 +39873,7 @@ p, li { white-space: pre-wrap; }
     <name>KxUpdateMessageDlg</name>
     <message>
         <source>Immediately upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Actualizar inmediatamente</translation>
     </message>
     <message>
         <source>Ignore it</source>
@@ -39864,7 +39881,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Next time</source>
-        <translation type="unfinished"/>
+        <translation>Próxima vez</translation>
     </message>
 </context>
 <context>
@@ -39878,7 +39895,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDevelopLanguageTipWidget</name>
     <message>
         <source>Set JS as default. You can change it to VB. When opening VB-only files, the environment is still VB.</source>
-        <translation type="unfinished"/>
+        <translation>Establecer JS como predeterminado. Puede cambiarlo a VB. Cuando se abren archivos que solo son VB, se utiliza de manera predeterminada el entorno VB.</translation>
     </message>
 </context>
 <context>
@@ -39960,7 +39977,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Downloading Moji plugin, please wait</source>
-        <translation type="unfinished"/>
+        <translation>Descargando el complemento Moji. Espere</translation>
     </message>
 </context>
 <context>
@@ -40026,11 +40043,11 @@ p, li { white-space: pre-wrap; }
     <name>KxThemeColorGalleryModelItem</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modificar</translation>
     </message>
 </context>
 <context>
@@ -40091,7 +40108,7 @@ p, li { white-space: pre-wrap; }
     <name>KxVasEnterClientWidget</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Entendido</translation>
     </message>
 </context>
 <context>
@@ -40109,7 +40126,7 @@ p, li { white-space: pre-wrap; }
     <name>KxMBRejectDlg</name>
     <message>
         <source>You sure reject the application? Please brief the reason.</source>
-        <translation type="unfinished"/>
+        <translation>¿Seguro que desea rechazar la revisión? Describa los motivos del rechazo.</translation>
     </message>
     <message>
         <source>Rejected</source>
@@ -40120,7 +40137,7 @@ p, li { white-space: pre-wrap; }
     <name>KRibbonFindCmdWidget</name>
     <message>
         <source>Find Functions</source>
-        <translation type="unfinished"/>
+        <translation>Funciones de búsqueda</translation>
     </message>
     <message>
         <source>Find Commands</source>
@@ -40135,11 +40152,11 @@ p, li { white-space: pre-wrap; }
     <name>KxSetMBCommand</name>
     <message>
         <source>Your document is in the form of attachment, unable to set mb.</source>
-        <translation type="unfinished"/>
+        <translation>Su documento está en forma de archivo adjunto y no se puede marcar como confidencial.</translation>
     </message>
     <message>
         <source>This document can not set MB</source>
-        <translation type="unfinished"/>
+        <translation>Este documento no se puede marcar como confidencial.</translation>
     </message>
 </context>
 <context>
@@ -40153,7 +40170,7 @@ p, li { white-space: pre-wrap; }
     <name>KScreenGrabTip</name>
     <message>
         <source>Intro:</source>
-        <translation type="unfinished"/>
+        <translation>Intro:</translation>
     </message>
 </context>
 <context>
@@ -40347,15 +40364,15 @@ p, li { white-space: pre-wrap; }
     <name>KScrnGrabTipsDialog</name>
     <message>
         <source>No(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>No (&amp;N)</translation>
     </message>
     <message>
         <source>Ok(&amp;O)</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar(&amp;O)</translation>
     </message>
     <message>
         <source>Yes(&amp;Y)</source>
-        <translation type="unfinished"/>
+        <translation>Sí (&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -40510,15 +40527,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"/>
+        <translation>Actualizar ahora</translation>
     </message>
     <message>
         <source>A new version is available. Do you want to update it?</source>
-        <translation type="unfinished"/>
+        <translation>Hay una nueva versión disponible. ¿Desea actualizarla?</translation>
     </message>
     <message>
         <source>Application update</source>
-        <translation type="unfinished"/>
+        <translation>Actualización de la aplicación</translation>
     </message>
 </context>
 <context>
@@ -40543,15 +40560,15 @@ p, li { white-space: pre-wrap; }
     <name>KxVasEnterGuideInCoopShellDlg</name>
     <message>
         <source>Split Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Dividir hoja de cálculo</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Combinar hoja</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtro avanzado</translation>
     </message>
 </context>
 <context>
@@ -40577,7 +40594,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDocSecurityTipHelper</name>
     <message>
         <source>can not operate</source>
-        <translation type="unfinished"/>
+        <translation>no se puede operar</translation>
     </message>
     <message>
         <source>Please usse security document function after saving this document as security document.</source>
@@ -40848,11 +40865,11 @@ para crear el documento de salida</translation>
     </message>
     <message>
         <source>Please enter the password, or open in read-only mode:</source>
-        <translation type="unfinished"/>
+        <translation>Introduzca la contraseña o abra en modo de solo lectura:</translation>
     </message>
     <message>
         <source>Document is setted edit password</source>
-        <translation type="unfinished"/>
+        <translation>La contraseña de edición está establecida para el documento.</translation>
     </message>
     <message>
         <source>(Recommended)</source>
@@ -40981,11 +40998,11 @@ para crear el documento de salida</translation>
     <name>TitleBarWidget</name>
     <message>
         <source>Advanced ScreenGrab</source>
-        <translation type="unfinished"/>
+        <translation>Captura de pantalla de WPS</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Comentarios</translation>
     </message>
 </context>
 <context>
@@ -41069,7 +41086,7 @@ para crear el documento de salida</translation>
     <name>KGraphLoadingDialog</name>
     <message>
         <source>Uploading: </source>
-        <translation type="unfinished"/>
+        <translation>Cargando: </translation>
     </message>
     <message>
         <source>Downloading: </source>
@@ -41183,7 +41200,7 @@ para crear el documento de salida</translation>
     <name>KxListFillPictureCommand</name>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar imagen</translation>
     </message>
 </context>
 <context>
@@ -41267,7 +41284,7 @@ para crear el documento de salida</translation>
     <name>KXBlackTipWidgetProxy</name>
     <message>
         <source>The file has too much data excess. Auto-slimming it down:</source>
-        <translation type="unfinished"/>
+        <translation>Para mejorar la experiencia, estamos optimizando y comprimiendo el archivo grande... xx%</translation>
     </message>
 </context>
 <context>
@@ -41306,25 +41323,25 @@ para crear el documento de salida</translation>
     <name>KCoopReadOnlyCannotSyncMsgBox</name>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como</translation>
     </message>
 </context>
 <context>
     <name>KxColorSnapperWidget</name>
     <message>
         <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido inicializar el selector de color porque esta característica no es compatible con el sistema actual.</translation>
     </message>
 </context>
 <context>
     <name>JdeListWidgetItemData</name>
     <message>
         <source>Project is unviewable</source>
-        <translation type="unfinished"/>
+        <translation>El proyecto no es visible</translation>
     </message>
     <message>
         <source>Project Locked</source>
-        <translation type="unfinished"/>
+        <translation>Proyecto bloqueado</translation>
     </message>
 </context>
 <context>
@@ -41345,7 +41362,7 @@ para crear el documento de salida</translation>
     <name>KxVbaQuestionButton</name>
     <message>
         <source>how to enable</source>
-        <translation type="unfinished"/>
+        <translation>Cómo habilitar las macros</translation>
     </message>
 </context>
 <context>
@@ -41359,7 +41376,7 @@ para crear el documento de salida</translation>
     <name>KxFormatGroupContent_RepairEnhancement</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"/>
+        <translation>Claridad</translation>
     </message>
 </context>
 <context>
@@ -41391,7 +41408,7 @@ para crear el documento de salida</translation>
     <name>QCalendarEdit</name>
     <message>
         <source>please select date</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar fecha</translation>
     </message>
 </context>
 <context>
@@ -41550,7 +41567,7 @@ propiedades</translation>
     </message>
     <message>
         <source>mail subject</source>
-        <translation type="unfinished"/>
+        <translation>Comentarios acerca de WPS</translation>
     </message>
 </context>
 <context>
@@ -41582,7 +41599,7 @@ propiedades</translation>
     <name>KxCustomMessageBox</name>
     <message>
         <source>Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento oficial</translation>
     </message>
 </context>
 <context>
@@ -41780,7 +41797,7 @@ El registro es inválido. El archivo puede ser renombrado, eliminado o movido.</
     <name>KxDocSecurityLoadingWidget</name>
     <message>
         <source>Loading. Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Cargando... Espere.</translation>
     </message>
 </context>
 <context>
