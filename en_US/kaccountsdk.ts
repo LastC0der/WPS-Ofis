@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>You&apos;re about to exit your account</source>
-        <translation type="unfinished"/>
+        <translation>You&apos;re about to exit your account</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -637,7 +637,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Sign in User</source>
-        <translation type="unfinished"/>
+        <translation>Sign in User</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -663,7 +663,7 @@ we will make continuous improvements</translation>
     </message>
     <message>
         <source>Premium User</source>
-        <translation type="unfinished"/>
+        <translation>Premium User</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -902,7 +902,7 @@ Easy mobile office.</source>
     <name>KLoginMainWindow</name>
     <message>
         <source>here</source>
-        <translation type="unfinished"/>
+        <translation>here</translation>
     </message>
     <message>
         <source>Email</source>
@@ -922,7 +922,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Frequent requests. Please wait a minute and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Frequent requests. Please wait a minute and try again.</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -978,7 +978,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation type="unfinished"/>
+        <translation>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </translation>
     </message>
     <message>
         <source>Continue with Google</source>
@@ -990,7 +990,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid character. Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Invalid character. Please retry.</translation>
     </message>
     <message>
         <source>Sign in with other accounts</source>
@@ -1058,7 +1058,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address.</source>
-        <translation type="unfinished"/>
+        <translation>Please enter a valid email address.</translation>
     </message>
     <message>
         <source>Waiting...</source>
@@ -1082,7 +1082,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Password should be 8-16 characters. Please retry</source>
-        <translation type="unfinished"/>
+        <translation>Password should be 8-16 characters. Please retry.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -1272,7 +1272,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>SslHandshakeFailedError</source>
-        <translation>Service in local might have some errors, please contact us to fix it.</translation>
+        <translation>SslHandshakeFailedError</translation>
     </message>
     <message>
         <source>ProxyTimeoutError</source>
@@ -1288,7 +1288,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>RemoteHostClosedError</source>
-        <translation>Server disconnected. Please try again.</translation>
+        <translation>RemoteHostClosedError</translation>
     </message>
     <message>
         <source>ContentReSendError</source>
@@ -1296,7 +1296,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>ContentAccessDenied</source>
-        <translation>Access to remote content denied. Please try again.</translation>
+        <translation>ContentAccessDenied</translation>
     </message>
     <message>
         <source>ProxyNotFoundError</source>
@@ -1316,7 +1316,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>UnknownNetworkError</source>
-        <translation>Unknown network error. Please try again.</translation>
+        <translation>UnknownNetworkError</translation>
     </message>
     <message>
         <source>TimeoutError</source>
@@ -1352,11 +1352,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Login time out</source>
-        <translation>Your sessions has timed out. Please try again.</translation>
+        <translation>Login time out</translation>
     </message>
     <message>
         <source>ConnectionRefusedError</source>
-        <translation>Server disconnected. Please try again.</translation>
+        <translation>ConnectionRefusedError</translation>
     </message>
 </context>
 <context>
@@ -1370,39 +1370,39 @@ Easy mobile office.</source>
     <name>KThirdLoginWidgetDlg</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source> Do you want to close it</source>
-        <translation type="unfinished"/>
+        <translation> account.If you close this page, the sign-in will be discontinued.</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>Notice</source>
-        <translation type="unfinished"/>
+        <translation>Notice</translation>
     </message>
     <message>
         <source>FaceBook</source>
-        <translation type="unfinished"/>
+        <translation>Facebook</translation>
     </message>
     <message>
         <source>It is trying to sign in with </source>
-        <translation type="unfinished"/>
+        <translation>You are signing in with </translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>DropBox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
     <message>
         <source>Twitter</source>
-        <translation type="unfinished"/>
+        <translation>Twitter</translation>
     </message>
 </context>
 <context>
@@ -1483,7 +1483,7 @@ Easy mobile office.</source>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
-        <translation>Third</translation>
+        <translation>第三处</translation>
     </message>
     <message>
         <source>School</source>
@@ -1754,7 +1754,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>guest account</source>
-        <translation type="unfinished"/>
+        <translation>guest account</translation>
     </message>
     <message>
         <source>Dingding login</source>
@@ -1913,7 +1913,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>WechatOfficial</source>
-        <translation type="unfinished"/>
+        <translation>WechatOfficial</translation>
     </message>
     <message>
         <source>Account has been frozen, unseal, please contact customer service</source>
@@ -2181,7 +2181,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Diagnosing tool</source>
-        <translation type="unfinished"/>
+        <translation>Diagnose network</translation>
     </message>
     <message>
         <source> or refer to the </source>
@@ -2205,7 +2205,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation type="unfinished"/>
+        <translation>Request timeout. Click Refresh and try again.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -2221,7 +2221,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>DNS configuration instruction</translation>
+        <translation>DNS Settings document</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2325,15 +2325,15 @@ Easy mobile office.</source>
     <name>KGuidePaneForTopcActivity</name>
     <message>
         <source>Sign in with WPS account to get gifts.</source>
-        <translation type="unfinished"/>
+        <translation>Sign in with WPS account to get gifts.</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Gifts for New Users on PC</source>
-        <translation type="unfinished"/>
+        <translation>Gifts for New Users on PC</translation>
     </message>
 </context>
 <context>
