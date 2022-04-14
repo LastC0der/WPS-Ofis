@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>You&apos;re about to exit your account</source>
-        <translation type="unfinished"/>
+        <translation>Está a punto de salir de la cuenta</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -691,15 +691,15 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Inténtelo de nuevo</translation>
     </message>
     <message>
         <source>Check order</source>
-        <translation type="unfinished"/>
+        <translation>Historial de pedidos</translation>
     </message>
     <message>
         <source>How to activate?</source>
-        <translation type="unfinished"/>
+        <translation>¿Cómo se activa?</translation>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -902,7 +902,7 @@ Easy mobile office.</source>
     <name>KLoginMainWindow</name>
     <message>
         <source>here</source>
-        <translation type="unfinished"/>
+        <translation>aquí</translation>
     </message>
     <message>
         <source>Email</source>
@@ -922,7 +922,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Frequent requests. Please wait a minute and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Solicitudes frecuentes. Espere un minuto e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -946,11 +946,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address</source>
-        <translation>Introduzca una dirección de correo electrónico válida</translation>
+        <translation>Dirección de correo electrónico no válida. Inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Contraseña incorrecta</translation>
+        <translation>Contraseña incorrecta. Compruébelo e inténtelo de nuevo. O simplemente restablezca la contraseña.</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -966,7 +966,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>There is no account for the email you entered</source>
-        <translation>No hay una cuenta para el correo electrónico que especificó</translation>
+        <translation>No se ha encontrado ninguna cuenta con esa dirección de correo electrónico. Compruébelo e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Remember Me</source>
@@ -978,7 +978,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation type="unfinished"/>
+        <translation>Hemos abierto una nueva pestaña del navegador para que pueda iniciar sesión. Debe finalizar la autenticación en el navegador. Cuando lo haya hecho, continuará automáticamente aquí. </translation>
     </message>
     <message>
         <source>Continue with Google</source>
@@ -990,7 +990,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid character. Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Carácter no válido. Inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Sign in with other accounts</source>
@@ -1058,7 +1058,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address.</source>
-        <translation type="unfinished"/>
+        <translation>Introduzca una dirección de correo electrónico válida.</translation>
     </message>
     <message>
         <source>Waiting...</source>
@@ -1082,7 +1082,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Password should be 8-16 characters. Please retry</source>
-        <translation type="unfinished"/>
+        <translation>La contraseña debe tener entre 8 y 16 caracteres. Inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -1177,7 +1177,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;No se ha podido acceder al servidor de cuentas de WPS. Asegúrese de que la conectividad de red sea buena y vuelva a intentarlo.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1221,7 +1221,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Setting Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento de configuración de DNS</translation>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1382,7 +1382,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Notice</source>
-        <translation type="unfinished"/>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>FaceBook</source>
@@ -1498,35 +1498,35 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>You can download unlimted templates.</source>
-        <translation type="unfinished"/>
+        <translation>Puede descargar plantillas ilimitadas.</translation>
     </message>
     <message>
         <source>Payment timeout</source>
-        <translation type="unfinished"/>
+        <translation>Tiempo de espera agotado para el pago</translation>
     </message>
     <message>
         <source>Get your personal customization now.</source>
-        <translation type="unfinished"/>
+        <translation>Obtenga la personalización que desea ahora mismo.</translation>
     </message>
     <message>
         <source>You can use PDF conversion unlimited.</source>
-        <translation type="unfinished"/>
+        <translation>Puede usar la conversión de PDF de manera ilimitada.</translation>
     </message>
     <message>
         <source>Payment successful!</source>
-        <translation type="unfinished"/>
+        <translation>Pago correcto</translation>
     </message>
     <message>
         <source>Fill in</source>
-        <translation type="unfinished"/>
+        <translation>Rellenar</translation>
     </message>
     <message>
         <source>You have become WPS Premium user.</source>
-        <translation type="unfinished"/>
+        <translation>Su cuenta es ahora WPS Premium.</translation>
     </message>
     <message>
         <source>How to activate?</source>
-        <translation type="unfinished"/>
+        <translation>¿Cómo se activa?</translation>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -1534,7 +1534,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Error de pago</translation>
     </message>
 </context>
 <context>
@@ -1754,7 +1754,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>guest account</source>
-        <translation type="unfinished"/>
+        <translation>cuenta de invitado</translation>
     </message>
     <message>
         <source>Dingding login</source>
@@ -2027,7 +2027,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>request failed, please retry later.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido obtener información del servidor. Vuelva a intentarlo más tarde.</translation>
     </message>
     <message>
         <source>Select user failed</source>
@@ -2042,35 +2042,35 @@ Easy mobile office.</source>
     <name>KLogoutClearCacheCheckButton</name>
     <message>
         <source>Please verify that the native is secure and trusted to avoid the risk of data leakage</source>
-        <translation type="unfinished"/>
+        <translation>Asegúrese de que su dispositivo sea de confianza para evitar la fuga de datos.</translation>
     </message>
     <message>
         <source>Clear data and delete login records</source>
-        <translation type="unfinished"/>
+        <translation>Borre los datos y elimine los registros de acceso.</translation>
     </message>
     <message>
         <source>Keep data for next use.</source>
-        <translation type="unfinished"/>
+        <translation>Conserve los datos para el próximo uso.</translation>
     </message>
     <message>
         <source>Select this if you no longer use this device</source>
-        <translation type="unfinished"/>
+        <translation>Seleccione esta opción si no va a utilizar más este dispositivo.</translation>
     </message>
     <message>
         <source>Keep data for next use</source>
-        <translation type="unfinished"/>
+        <translation>Conserve los datos para el próximo uso.</translation>
     </message>
     <message>
         <source>Cloud document cache and file backups that will keep you on your native</source>
-        <translation type="unfinished"/>
+        <translation>La caché de los documentos en Cloud y las copias de seguridad de los archivos se conservarán en este dispositivo.</translation>
     </message>
     <message>
         <source>[Only trusted devices are optional]</source>
-        <translation type="unfinished"/>
+        <translation>[Solo se pueden seleccionar dispositivos de confianza]</translation>
     </message>
     <message>
         <source>Cloud document caches and files that you have on your native will be deleted at the same time</source>
-        <translation type="unfinished"/>
+        <translation>La caché de los documentos en Cloud y las copias de seguridad de los archivos almacenados en el dispositivo se eliminarán.</translation>
     </message>
 </context>
 <context>
@@ -2221,7 +2221,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>instrucción de configuración DNS</translation>
+        <translation>documento de configuración de DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2325,15 +2325,15 @@ Easy mobile office.</source>
     <name>KGuidePaneForTopcActivity</name>
     <message>
         <source>Sign in with WPS account to get gifts.</source>
-        <translation type="unfinished"/>
+        <translation>Inicie sesión con una cuenta de WPS para recibir regalos.</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar sesión</translation>
     </message>
     <message>
         <source>Gifts for New Users on PC</source>
-        <translation type="unfinished"/>
+        <translation>Regalos para nuevos usuarios en PC</translation>
     </message>
 </context>
 <context>
