@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>border color:</source>
-        <translation type="unfinished"/>
+        <translation>Rahmenfarbe :</translation>
     </message>
     <message>
         <source>Check</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>fill color:</source>
-        <translation type="unfinished"/>
+        <translation>Füllfarbe :</translation>
     </message>
     <message>
         <source>Annotation Properties</source>
@@ -167,11 +167,11 @@
     </message>
     <message>
         <source>End(E):</source>
-        <translation>Ende :</translation>
+        <translation>Endpfeil :</translation>
     </message>
     <message>
         <source>end(E):</source>
-        <translation type="unfinished"/>
+        <translation>Endpfeil :</translation>
     </message>
     <message>
         <source>General</source>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Horizontal:</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal: </translation>
     </message>
     <message>
         <source>Transparency:</source>
@@ -362,7 +362,7 @@
     </message>
     <message>
         <source>Vertical:</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal:</translation>
     </message>
     <message>
         <source>rotate-45°</source>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>Load page effect</source>
-        <translation>Effekt beim Laden einer Seite:</translation>
+        <translation>Effekt beim Laden einer Seite</translation>
     </message>
     <message>
         <source>Doc read options</source>
@@ -662,7 +662,7 @@
     </message>
     <message>
         <source>Cloud Synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Cloud-Synchronisierung</translation>
     </message>
     <message>
         <source>Default layout&apos;s mode and scale</source>
@@ -702,7 +702,7 @@
     </message>
     <message>
         <source>Auto Select</source>
-        <translation type="unfinished"/>
+        <translation>Automatische Auswahl</translation>
     </message>
     <message>
         <source>Fit Width</source>
@@ -734,7 +734,7 @@
     </message>
     <message>
         <source>Always ask</source>
-        <translation>Immer fragen(&amp;A)</translation>
+        <translation>Immer fragen</translation>
     </message>
     <message>
         <source>Multi Progress Tips</source>
@@ -742,7 +742,7 @@
     </message>
     <message>
         <source>Enable Association Protection</source>
-        <translation type="unfinished"/>
+        <translation>Assziationsschutz aktivieren</translation>
     </message>
     <message>
         <source>Hide page gap</source>
@@ -770,11 +770,11 @@
     </message>
     <message>
         <source>PDF Signature</source>
-        <translation type="unfinished"/>
+        <translation>PDF-Signatur</translation>
     </message>
     <message>
         <source>Verification of a signature when opening a document</source>
-        <translation>Signatur beim Öffnen eines Dokuments überprüfen(&amp;V)</translation>
+        <translation>Signatur beim Öffnen eines Dokuments überprüfen</translation>
     </message>
     <message>
         <source>Set as default PDF reader</source>
@@ -790,7 +790,7 @@
     </message>
     <message>
         <source>AssociateSetting</source>
-        <translation type="unfinished"/>
+        <translation>Zuordnungseinstellungen</translation>
     </message>
     <message>
         <source>NormalSetting</source>
@@ -810,7 +810,7 @@
     </message>
     <message>
         <source>No inquiries</source>
-        <translation>Nicht fragen(&amp;N)</translation>
+        <translation>Nicht fragen</translation>
     </message>
     <message>
         <source>Alpha Anim</source>
@@ -952,7 +952,7 @@
     </message>
     <message>
         <source>Edit WaterMark</source>
-        <translation type="unfinished"/>
+        <translation>Wasserzeichen bearbeiten</translation>
     </message>
     <message>
         <source>Update WaterMark</source>
@@ -996,7 +996,7 @@
     </message>
     <message>
         <source>watermark export failed!</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Festlegen des integrierten Wasserzeichens.</translation>
     </message>
     <message>
         <source>PDF water mark is VIP exclusive privilege</source>
@@ -1012,7 +1012,7 @@
     </message>
     <message>
         <source>Cannot find the current custom watermark save location, please check whether the current login account is the original account</source>
-        <translation type="unfinished"/>
+        <translation>Der Speicherort, an dem das aktuelle benutzerdefinierte Wasserzeichen gespeichert ist, wurde nicht gefunden. Prüfen Sie, ob das aktuell angemeldete Konto das ursprüngliche Konto ist.</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -1044,7 +1044,7 @@
     </message>
     <message>
         <source>There are more than 20. Please delete them and add them later</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben mehr als 20 Wasserzeichen hinzugefügt. Löschen Sie einige Wasserzeichen und versuchen Sie es erneut.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1193,7 +1193,7 @@
     </message>
     <message>
         <source>The signer identity is unknown because it is not a trusted certificate and its parent certificate is not a trusted certificate.</source>
-        <translation type="unfinished"/>
+        <translation>Die Identität des Signaturgebers ist unbekannt, da es sich nicht um ein vertrauenswürdiges Zertifikat handelt und das übergeordnete Zertifikat kein vertrauenswürdiges Zertifikat ist.</translation>
     </message>
     <message>
         <source>TwoTimesSpeedScrollDown</source>
@@ -1287,7 +1287,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Memory allocation failure.</source>
-        <translation type="unfinished"/>
+        <translation>Arbeitsspeicheranforderung fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Clip image failed, please try again.</source>
@@ -1323,7 +1323,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signer certificate is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Das Zertifikat des Signaturgebers ist gültig.</translation>
     </message>
     <message>
         <source>Continue to edit</source>
@@ -1339,7 +1339,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Cannot open a document to be signed as read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Ein zu signierendes Dokument kann nicht mit Schreibzugriff geöffnet werden.</translation>
     </message>
     <message>
         <source>Are you sure to delete the selected page?The operation is irrevocable</source>
@@ -1355,11 +1355,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signature is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Signatur ist gültig.</translation>
     </message>
     <message>
         <source>BackupFile</source>
-        <translation type="unfinished"/>
+        <translation>(Sicherung)</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -1371,7 +1371,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signature details.</source>
-        <translation type="unfinished"/>
+        <translation>Signaturdetails.</translation>
     </message>
     <message>
         <source>Are you sure to delete all history files?</source>
@@ -1391,19 +1391,19 @@ Please batches operations</source>
     </message>
     <message>
         <source>Repair Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokument reparieren</translation>
     </message>
     <message>
         <source>Visible signature.</source>
-        <translation type="unfinished"/>
+        <translation>Sichtbare Signatur.</translation>
     </message>
     <message>
         <source>Invisible signature.</source>
-        <translation type="unfinished"/>
+        <translation>Unsichtbare Signatur.</translation>
     </message>
     <message>
         <source>PDF electronic invoice print loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Laden der zu druckenden Rechnung.</translation>
     </message>
     <message>
         <source>Adding attachment</source>
@@ -1427,7 +1427,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Cannot open a document to be signed as write-only.</source>
-        <translation type="unfinished"/>
+        <translation>Ein zu signierendes Dokument kann nicht mit Lesezugriff geöffnet werden.</translation>
     </message>
     <message>
         <source>Cannot open this file</source>
@@ -1464,15 +1464,15 @@ Please batches operations</source>
     </message>
     <message>
         <source>There is an error in the signed certificate area in the document.</source>
-        <translation type="unfinished"/>
+        <translation>Es gibt einen Fehler im Bereich des signierten Zertifikats im Dokument.</translation>
     </message>
     <message>
         <source>AI OCR2PDF loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Das Laden des Tools zur Erkennung beim Scannen ist fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Failed to open the signature file.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Öffnen der Signaturdatei.</translation>
     </message>
     <message>
         <source>return clip current page</source>
@@ -1536,11 +1536,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signer cert is valid.</source>
-        <translation type="unfinished"/>
+        <translation>Die Identität des Signaturgebers ist gültig.</translation>
     </message>
     <message>
         <source>New BIO failed.</source>
-        <translation type="unfinished"/>
+        <translation>Neues BIO fehlgeschlagen.</translation>
     </message>
     <message>
         <source>The Security document save must have edit right</source>
@@ -1576,7 +1576,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>PDF invoice assist loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Laden des Rechnungsassistenten.</translation>
     </message>
     <message>
         <source>FoldNote</source>
@@ -1629,7 +1629,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Unsupported signature format.</source>
-        <translation type="unfinished"/>
+        <translation>Nicht unterstütztes Signaturformat.</translation>
     </message>
     <message>
         <source>The Security document can not be inserted for ole</source>
@@ -1637,7 +1637,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Save prompt</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Changes would not be undone after saving as compression, sure to continue?</source>
@@ -1645,7 +1645,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Normal Files (Text/Word format; Form/Excel format; Demo/PowerPoint format; Image Files)</source>
-        <translation type="unfinished"/>
+        <translation>Normale Dateien (Text/Word-Format; Formular/Excel-Format; Demo/PowerPoint-Format; Bilddateien)</translation>
     </message>
     <message>
         <source>If the information the site, click &quot; Allow &quot;, otherwise select &quot; Disable &quot; </source>
@@ -1686,7 +1686,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>PaperCheck loading failed.</source>
-        <translation type="unfinished"/>
+        <translation>Das Laden der Papierprüfung ist fehlgeschlagen.</translation>
     </message>
     <message>
         <source>%1 page</source>
@@ -1694,7 +1694,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signing document exception, certificate conversion failed.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler im Signaturdokument. Zertifikatsumwandlung fehlgeschlagen.</translation>
     </message>
     <message>
         <source>No matches found. The current document encoding is missing, and the document content may not be found properly</source>
@@ -1710,11 +1710,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>There is an error in the document and the /Cert cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Es liegt ein Fehler im Dokument vor und das /Zertifikat kann nicht abgerufen werden.</translation>
     </message>
     <message>
         <source>Unsupported digest algorithm type.</source>
-        <translation type="unfinished"/>
+        <translation>Nicht unterstützter Typ des Zusammenfassungsalgorithmus.</translation>
     </message>
     <message>
         <source>The document is Picture, You can only add text.</source>
@@ -1752,7 +1752,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Can&apos;t get the signature page info.</source>
-        <translation type="unfinished"/>
+        <translation>Informationen über die Signaturseite können nicht abgerufen werden.</translation>
     </message>
     <message>
         <source>Insert Pdf file page Too Large</source>
@@ -1796,7 +1796,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>There is an error in the document and the /ByteRange cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Es liegt ein Fehler im Dokument vor und der /Byte-Bereich kann nicht abgerufen werden.</translation>
     </message>
     <message>
         <source>Link function is VIP function, please upgrade VIP</source>
@@ -1812,7 +1812,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Bestätigen</translation>
     </message>
     <message>
         <source>OneTimesSpeedScrollUp</source>
@@ -1840,15 +1840,15 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Signing encrypted files is not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Das Signieren verschlüsselter Dateien wird nicht unterstützt.</translation>
     </message>
     <message>
         <source>No signature object found.</source>
-        <translation type="unfinished"/>
+        <translation>Es wurde kein Signaturobjekt gefunden.</translation>
     </message>
     <message>
         <source>_Watermark</source>
-        <translation type="unfinished"/>
+        <translation>_Wasserzeichen einfügen</translation>
     </message>
     <message>
         <source>The erased content cannot be displayed after saving. Do you want to save it?</source>
@@ -1913,7 +1913,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Image Files(*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff)|*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Bilddateien(*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff)|*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff</translation>
     </message>
     <message>
         <source>This Security document The Version not Support</source>
@@ -1921,11 +1921,11 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>There is an error in the document and the /V cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Es liegt ein Fehler im Dokument vor und das /V kann nicht abgerufen werden.</translation>
     </message>
     <message>
         <source>Can&apos;t verify because sign data error.</source>
-        <translation type="unfinished"/>
+        <translation>Signaturdatenfehler. Kann nicht überprüft werden.</translation>
     </message>
     <message>
         <source>Cannot open this file &quot;%s&quot;, Please check that source files are available!</source>
@@ -1973,7 +1973,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Too many pages inserted, only the first 5 pages are inserted.</source>
-        <translation type="unfinished"/>
+        <translation>Zu viele Seiten eingefügt, nur die ersten 5 Seiten sind eingefügt.</translation>
     </message>
     <message>
         <source>WPSFile(*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm)|*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm</source>
@@ -2006,7 +2006,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>There is an error in the document and the /SubFilter cannot be obtained.</source>
-        <translation type="unfinished"/>
+        <translation>Es liegt ein Fehler im Dokument vor und der /Unterfilter kann nicht abgerufen werden.</translation>
     </message>
     <message>
         <source>Cannot correct,Non-scanning correction may reduce document quality,recommended cropping.</source>
@@ -2026,7 +2026,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Please save the erased content first. After saving, undo processing is not supported. Do you want to save it?</source>
-        <translation type="unfinished"/>
+        <translation>Ein Teil des Inhalts Ihres Dokuments wurde nicht gelöscht. Wir empfehlen Ihnen, zunächst eine Sicherungskopie des Originaldokuments zu erstellen, da Sie den Löschvorgang nach dem Speichern nicht mehr rückgängig machen können. Möchten Sie das Dokument wirklich speichern?</translation>
     </message>
     <message>
         <source>PDF Post Match function loading failed.</source>
@@ -2070,7 +2070,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Invalid signature.</source>
-        <translation type="unfinished"/>
+        <translation>Ungültige Signatur.</translation>
     </message>
     <message>
         <source>Extracting text</source>
@@ -2078,7 +2078,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Document Repair</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentreparatur</translation>
     </message>
     <message>
         <source>Text boxes cannot be merged</source>
@@ -2096,7 +2096,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
+        <translation>%1Jahr%2Monat%3Tag</translation>
     </message>
     <message>
         <source>The current document need to be saved before merge.</source>
@@ -2113,7 +2113,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>The document has been modified since it was signed.</source>
-        <translation type="unfinished"/>
+        <translation>Das Dokument wurde seit seiner Unterzeichnung geändert.</translation>
     </message>
     <message>
         <source>This file may contain or harm you change the machine program, if allowed to run?</source>
@@ -2224,11 +2224,11 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Input error</source>
-        <translation type="unfinished"/>
+        <translation>Eingabefehler.</translation>
     </message>
     <message>
         <source>custom</source>
@@ -2329,11 +2329,11 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Online Security PDF Files (*.pdf)|*.pdf|</source>
-        <translation type="unfinished"/>
+        <translation>Online-Sicherheit PDF-Dateien (*.pdf)|*.pdf|</translation>
     </message>
     <message>
         <source>All Pictures(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Alle Bilder (*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</translation>
     </message>
     <message>
         <source>Attachment is VIP function, please upgrade VIP</source>
@@ -2345,15 +2345,15 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>The Function is Exclusive</source>
-        <translation type="unfinished"/>
+        <translation>Diese Funktion ist limitiert.</translation>
     </message>
     <message>
         <source>All Pictures(*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif)|*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif</source>
-        <translation type="unfinished"/>
+        <translation>Alle Bilder (*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif)|*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif</translation>
     </message>
     <message>
         <source>This file type is not supported</source>
-        <translation type="unfinished"/>
+        <translation>Dieser Dateityp wird nicht unterstützt</translation>
     </message>
     <message>
         <source>Document in %s</source>
@@ -2378,7 +2378,7 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Sure to delete selected attachments?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie die ausgewählten Anhänge wirklich löschen?</translation>
     </message>
     <message>
         <source>Ebook Files(*.mobi;*.epub) | *.mobi;*.epub; |</source>
@@ -2395,11 +2395,11 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>The Function is Exclusive functions of enterprise,You don&apos;t have The Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Dies ist eine exklusive Berechtigung nur für Unternehmensbenutzer. Führen Sie einen Neustart durch und versuchen Sie es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an Ihren IT-Administrator oder den WPS-Kundendienst unter 400-677-5005.</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format(*.pdf)|*.pdf</source>
-        <translation type="unfinished"/>
+        <translation>WPS Online-Sicherheitsdokumentformat (*.pdf)|*.pdf</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -2407,11 +2407,11 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Failed to add attachment because of insufficient memory</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Hinzufügen der Anlage aufgrund von unzureichendem Arbeitsspeicher</translation>
     </message>
     <message>
         <source>Entered the form filling mode, click the document line, box and other positions to start filling.</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben den Modus zum Ausfüllen des Formulars aufgerufen. Klicken Sie auf die horizontale Linie des Dokuments, den Rahmen und andere Stellen, um mit dem Ausfüllen zu beginnen.</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
@@ -2423,11 +2423,11 @@ Dieser Vorgang kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
         <source>Failed to add attachment</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Hinzufügen der Anlage</translation>
     </message>
     <message>
         <source>certificate file (*.pfx;*.p12)|*.pfx;*.p12|</source>
-        <translation type="unfinished"/>
+        <translation>Digitale Zertifikatsdatei (*.pfx;*.p12)|*.pfx;*.p12|</translation>
     </message>
 </context>
 <context>
@@ -3040,7 +3040,7 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>top:</source>
-        <translation type="unfinished"/>
+        <translation>Oben:</translation>
     </message>
     <message>
         <source>PIXEL</source>
@@ -3052,11 +3052,11 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>left:</source>
-        <translation type="unfinished"/>
+        <translation>Links:</translation>
     </message>
     <message>
         <source>Margin Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ränder</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -3064,7 +3064,7 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>right:</source>
-        <translation type="unfinished"/>
+        <translation>Rechts:</translation>
     </message>
     <message>
         <source>out of print range</source>
@@ -3072,11 +3072,11 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>bottom:</source>
-        <translation type="unfinished"/>
+        <translation>Unten:</translation>
     </message>
     <message>
         <source>The current printer has a margin limit. The setting is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Der aktuelle Drucker hat eine Begrenzung der Randeinstellungen. Die Einstellung ist ungültig.</translation>
     </message>
 </context>
 <context>
@@ -3188,15 +3188,15 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>continue to scan more pages</source>
-        <translation type="unfinished"/>
+        <translation>weitere Seiten scannen</translation>
     </message>
     <message>
         <source>scan is completed or scan more pages?</source>
-        <translation type="unfinished"/>
+        <translation>Scannen beenden oder weitere Seiten scannen?</translation>
     </message>
     <message>
         <source>continue to scan reverse page</source>
-        <translation type="unfinished"/>
+        <translation>weiter zum Scannen der Rückseite</translation>
     </message>
 </context>
 <context>
@@ -3211,11 +3211,11 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>If you need to change the default software, you can modify it through the open method in the file properties.</source>
-        <translation type="unfinished"/>
+        <translation>Wenn Sie die Standardsoftware ändern möchten, können Sie dies über die Öffnungsmethode in den Dateieigenschaften tun.</translation>
     </message>
     <message>
         <source>Protect PDF files to open with WPS by default</source>
-        <translation type="unfinished"/>
+        <translation>Geschützte PDF-Dateien standardmäßig mit WPS öffnen</translation>
     </message>
     <message>
         <source>Quick Task Tools</source>
@@ -3227,23 +3227,23 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>What is cloud synchronization?</source>
-        <translation type="unfinished"/>
+        <translation>Was ist Cloud-Synchronisierung?</translation>
     </message>
     <message>
         <source>ReadSetting</source>
-        <translation type="unfinished"/>
+        <translation>Leseeinstellung</translation>
     </message>
     <message>
         <source>Cloud synchronization description</source>
-        <translation type="unfinished"/>
+        <translation>Bei Aktivierung der Cloud-Synchronisierung wird die PDF-Signatur automatisch in der Cloud synchronisiert.&lt;br&gt; Melden Sie sich nach der Synchronisierung auf einem anderen Gerät beim WPS-Konto an, woraufhin Sie die synchronisierte Signatur verwenden können.</translation>
     </message>
     <message>
         <source>NormalSetting</source>
-        <translation type="unfinished"/>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Automatischen Sicherung</translation>
     </message>
 </context>
 <context>
@@ -3258,7 +3258,7 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>Ok(C)</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>total %2 pages</source>
@@ -3278,7 +3278,7 @@ Beispiel: 1,3,5-12.</translation>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>has checked %1 </source>
@@ -3331,11 +3331,11 @@ Eingabe 5-9 bedeutet die Auswahl der Seiten 5 bis 9</translation>
     </message>
     <message>
         <source>Ctrl + Roll back the mouse wheel or Ctrl + &apos;-&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Halten Sie die Strg-Taste gedrückt und drehen Sie das Mausrad rückwärts, oder halten Sie die Strg-Taste gedrückt und drücken Sie dann &apos;-&apos;.</translation>
     </message>
     <message>
         <source>Ctrl + Roll forward the mouse wheel or Ctrl + &apos;+&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Halten Sie die Strg-Taste gedrückt und drehen Sie das Mausrad vorwärts, oder halten Sie die Strg-Taste gedrückt und drücken Sie dann &apos;+&apos;.</translation>
     </message>
     <message>
         <source>Esc or Ctrl+Break</source>
@@ -3763,7 +3763,7 @@ Bereits eingefügte Seiten müssen Sie selbst löschen.</translation>
     </message>
     <message>
         <source>Insert Pages From Images</source>
-        <translation type="unfinished"/>
+        <translation>Seiten aus Bildern einfügen</translation>
     </message>
     <message>
         <source>InsertImage is a VIP privilege</source>
@@ -3771,7 +3771,7 @@ Bereits eingefügte Seiten müssen Sie selbst löschen.</translation>
     </message>
     <message>
         <source>MoreScannerOpt</source>
-        <translation type="unfinished"/>
+        <translation>Weitere Scanner-Optionen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3779,11 +3779,11 @@ Bereits eingefügte Seiten müssen Sie selbst löschen.</translation>
     </message>
     <message>
         <source>Insert Pages From File</source>
-        <translation type="unfinished"/>
+        <translation>Seiten aus Datei einfügen</translation>
     </message>
     <message>
         <source>Insert Pages From Scan</source>
-        <translation type="unfinished"/>
+        <translation>Seiten aus Scanner einfügen</translation>
     </message>
     <message>
         <source>Only insert 5 pages</source>
@@ -3791,7 +3791,7 @@ Bereits eingefügte Seiten müssen Sie selbst löschen.</translation>
     </message>
     <message>
         <source>Can&apos;t get date from scanner, the operation is terminated</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Abrufen der gescannten Daten. Dieser Vorgang wurde beendet. Überprüfen Sie dies und versuchen Sie es erneut.</translation>
     </message>
     <message>
         <source>Unable to process the file, please make sure it&apos;s valid</source>
@@ -3799,7 +3799,7 @@ Bereits eingefügte Seiten müssen Sie selbst löschen.</translation>
     </message>
     <message>
         <source>Insert Pages From Clipborad</source>
-        <translation type="unfinished"/>
+        <translation>Seiten aus Zwischenablage einfügen</translation>
     </message>
     <message>
         <source>Default document size (%1x%2mm)</source>
@@ -3819,7 +3819,7 @@ Bereits eingefügte Seiten müssen Sie selbst löschen.</translation>
     </message>
     <message>
         <source>Select Scaner</source>
-        <translation type="unfinished"/>
+        <translation>Scanner auswählen</translation>
     </message>
     <message>
         <source>Is Inserting</source>
@@ -3827,7 +3827,7 @@ Bereits eingefügte Seiten müssen Sie selbst löschen.</translation>
     </message>
     <message>
         <source>Insert 5 or more scanPages  is enterprise authority privilege</source>
-        <translation type="unfinished"/>
+        <translation>Die Funktion „5 oder mehr gescannte Kopien einfügen“ ist eine exklusive Berechtigung für Unternehmensanwender.</translation>
     </message>
     <message>
         <source>Insert Blank Pages</source>
@@ -4088,7 +4088,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Copy Picture</source>
-        <translation type="unfinished"/>
+        <translation>Bild kopieren</translation>
     </message>
     <message>
         <source>edit member prompt</source>
@@ -4096,7 +4096,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Login WPS account to get a complete functional experience</source>
-        <translation type="unfinished"/>
+        <translation>Melden Sie sich mit dem WPS-Konto an, um auf alle Funktionen zuzugreifen und ein umfassendes Erlebnis zu erhalten.</translation>
     </message>
     <message>
         <source>Text query has been moved here</source>
@@ -4104,11 +4104,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>edit image is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>„Bild bearbeiten“ ist eine VIP-Funktion. Bitte melden Sie sich für die Mitgliedschaft an.</translation>
     </message>
     <message>
         <source>InvoicePrint has been Upgraded to BillMgr</source>
-        <translation type="unfinished"/>
+        <translation>Die Funktion [Rechnungsdruck] wurde auf [WPS-Rechnungsinhaber] erweitert.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4120,15 +4120,15 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Save As(Trial)</source>
-        <translation type="unfinished"/>
+        <translation>Speichern unter (Testversion)</translation>
     </message>
     <message>
         <source>edit content is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>„Inhalt bearbeiten“ ist eine kostenpflichtige Funktion. Führen Sie zunächst ein Upgrade auf Premium durch.</translation>
     </message>
     <message>
         <source>edit text is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>„Text bearbeiten“ ist eine VIP-Funktion. Bitte melden Sie sich für die Mitgliedschaft an.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is VIP function, please upgrade VIP</source>
@@ -4152,7 +4152,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>The invoice printing function can be executed in the BillMgr</source>
-        <translation type="unfinished"/>
+        <translation>Die Rechnungsdruckfunktion kann in [WPS-Rechnungsinhaber] ausgeführt werden.</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -4176,11 +4176,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Save(Trial)</source>
-        <translation type="unfinished"/>
+        <translation>Speichern (Testversion)</translation>
     </message>
     <message>
         <source>Correction fluid is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>„Löschen“ ist eine VIP-Funktion. Bitte melden Sie sich für die Mitgliedschaft an.</translation>
     </message>
     <message>
         <source>Correction Extraction login prompt</source>
@@ -4197,11 +4197,11 @@ log in to save changes?</source>
     </message>
     <message>
         <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Das aktuelle Sicherungsdokument hat die PDF-Bearbeitungsfunktion Premium verwendet. Aktualisieren Sie auf Premium, um das geänderte Dokument zu speichern.</translation>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
+        <translation>%1Jahr%2Monat%3Tag</translation>
     </message>
     <message>
         <source>EditText</source>
@@ -4304,7 +4304,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Open Directory(R)</source>
-        <translation type="unfinished"/>
+        <translation>Verzeichnis öffnen (R)</translation>
     </message>
     <message>
         <source>Export Directory:</source>
@@ -4312,19 +4312,19 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Document exporting</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentexport</translation>
     </message>
     <message>
         <source>Open File(A)</source>
-        <translation type="unfinished"/>
+        <translation>Datei öffnen (A)</translation>
     </message>
     <message>
         <source>Exported successfully</source>
-        <translation type="unfinished"/>
+        <translation>Export erfolgreich</translation>
     </message>
     <message>
         <source>Exported failed, please retry</source>
-        <translation type="unfinished"/>
+        <translation>Export fehlgeschlagen. Wiederholen Sie den Vorgang.</translation>
     </message>
 </context>
 <context>
@@ -4508,7 +4508,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>SaveAsPermission:</source>
-        <translation type="unfinished"/>
+        <translation>Speichern unter:</translation>
     </message>
     <message>
         <source>Not Allowed</source>
@@ -4756,7 +4756,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Embedding signatures/stamp in documents, this operation cannot be undone, do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Wenn Sie Signaturen/Stempel in Dokumente einbetten, können Sie diesen Vorgang nicht rückgängig machen. Möchten Sie den Vorgang wirklich fortsetzen?</translation>
     </message>
     <message>
         <source>Example</source>
@@ -4811,7 +4811,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Cloud Synchronization</source>
-        <translation>Cloud-Synchronisierung</translation>
+        <translation>Cloud-Sync</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -4819,7 +4819,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Synchronize to cloud</source>
-        <translation>In die Cloud synchronisieren</translation>
+        <translation>Cloud-Sync</translation>
     </message>
     <message>
         <source>The size of the inserted image is too large.</source>
@@ -4852,7 +4852,9 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Cloud synchronization description</source>
-        <translation>Bei Aktivierung der Cloud-Synchronisierung wird die PDF-Signatur automatisch in der Cloud synchronisiert.&lt;br&gt; Melden Sie sich nach der Synchronisierung auf einem anderen Gerät beim WPS-Konto an, woraufhin Sie die synchronisierte Signatur verwenden können.</translation>
+        <translation>Die Signatur wird automatisch mit der Cloud synchronisiert.
+Wenn Sie sich mit demselben Konto auf anderen Geräten anmelden,
+können Sie die synchronisierte Signatur weiterhin verwenden.</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -4983,7 +4985,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cannot find waterMark that can be removed in the file.If you can see the watermark, it cannot be deleted because it is not a standard watermark format.</source>
-        <translation type="unfinished"/>
+        <translation>Es konnte kein löschbares Wasserzeichen in der Datei gefunden werden. Das Wasserzeichen, das Sie sehen, hat möglicherweise kein Standardformat und kann daher nicht gelöscht werden.</translation>
     </message>
     <message>
         <source>Cannot find waterMark that can be removed in the file.&lt;br/&gt;The waterMark may not be added through kingsoft PDF.</source>
@@ -5275,7 +5277,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>please select ca for encrypt pdf file</source>
-        <translation type="unfinished"/>
+        <translation>Fügen Sie ein digitales Zertifikat hinzu, um die Datei zu verschlüsseln.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -5283,7 +5285,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>import</source>
-        <translation type="unfinished"/>
+        <translation>importieren</translation>
     </message>
     <message>
         <source>Is Encrypt</source>
@@ -5302,7 +5304,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>you can select ca where added before to encrypt pdf file</source>
-        <translation type="unfinished"/>
+        <translation>Sie können das zuvor hinzugefügte digitale Zertifikat auswählen, um die Datei zu verschlüsseln.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -5317,11 +5319,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>delete ca</source>
-        <translation type="unfinished"/>
+        <translation>Digitales Zertifikat löschen</translation>
     </message>
     <message>
         <source>CA encrypt tip</source>
-        <translation type="unfinished"/>
+        <translation>Verschlüsselung von digitalen Zertifikaten</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5329,15 +5331,15 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>some ca has imported,cannt import again.</source>
-        <translation type="unfinished"/>
+        <translation>Doppelte Zertifikate wurden herausgefiltert.</translation>
     </message>
     <message>
         <source>cannt import ca used to digital ca.</source>
-        <translation type="unfinished"/>
+        <translation>Fügen Sie ein Zertifikat hinzu, das für die schlüsselbasierte Verschlüsselung verwendet werden kann.</translation>
     </message>
     <message>
         <source>The file is encrypt by ca,please install ca or connect the auth to get ca file.</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Dokument wird mit digitalen Zertifikaten verschlüsselt. Installieren Sie das entsprechende digitale Zertifikat, oder wenden Sie sich an den Eigentümer des Dokuments, um ein digitales Zertifikat zu erhalten.</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -5345,23 +5347,23 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>install ca</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikat installieren</translation>
     </message>
     <message>
         <source>the operation will be delete local ca file also,please confirm the ca dosnt has other use.</source>
-        <translation type="unfinished"/>
+        <translation>Das lokale Zertifikat wird gleichzeitig gelöscht. Stellen Sie sicher, dass das Zertifikat nicht zur Entschlüsselung von Dokumenten verwendet wird. Möchten Sie den Vorgang wirklich fortsetzen?</translation>
     </message>
     <message>
         <source>can&apos;t open file</source>
-        <translation type="unfinished"/>
+        <translation>Datei kann nicht geöffnet werden</translation>
     </message>
     <message>
         <source>imported tip</source>
-        <translation type="unfinished"/>
+        <translation>Digitales Zertifikat importieren</translation>
     </message>
     <message>
         <source>Encrypt list has expire ca,please remove it.</source>
-        <translation type="unfinished"/>
+        <translation>Die Verschlüsselungsliste enthält abgelaufene digitale Zertifikate. Entfernen Sie abgelaufene Zertifikate und versuchen Sie es erneut.</translation>
     </message>
 </context>
 <context>
@@ -5493,11 +5495,11 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfTableExtractDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>all page</source>
-        <translation type="unfinished"/>
+        <translation>Alle Seiten</translation>
     </message>
 </context>
 <context>
@@ -5719,7 +5721,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Print</source>
@@ -5727,7 +5729,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Schnell</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -5767,7 +5769,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Pages From Pic</source>
-        <translation type="unfinished"/>
+        <translation>Aus Bild auswählen</translation>
     </message>
     <message>
         <source>Pages From Doc</source>
@@ -5787,7 +5789,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SplitMerge</source>
-        <translation type="unfinished"/>
+        <translation>Dokument teilen/zusammenführen</translation>
     </message>
     <message>
         <source>StatusBar Slider Zoom</source>
@@ -5819,7 +5821,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SplitAndMergePage</source>
-        <translation type="unfinished"/>
+        <translation>Teilen und zusammenführen</translation>
     </message>
     <message>
         <source>Paste Comment</source>
@@ -5827,11 +5829,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Pages From Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Aus Zwischenablage auswählen</translation>
     </message>
     <message>
         <source>CA Management</source>
-        <translation type="unfinished"/>
+        <translation>CA-Verwaltung</translation>
     </message>
     <message>
         <source>EbookReadType</source>
@@ -5843,7 +5845,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>SplitPDFPage</source>
-        <translation type="unfinished"/>
+        <translation>PDF teilen</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -5851,7 +5853,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ImageForwardLayer</source>
-        <translation type="unfinished"/>
+        <translation>Nach vorne verschieben</translation>
     </message>
     <message>
         <source>Auto Wheel</source>
@@ -5903,7 +5905,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>MergePDFPage</source>
-        <translation type="unfinished"/>
+        <translation>PDF zusammenführen</translation>
     </message>
     <message>
         <source>HeadAnnotate</source>
@@ -5915,7 +5917,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Justify</source>
-        <translation type="unfinished"/>
+        <translation>Blocksatz</translation>
     </message>
     <message>
         <source>GraffitiEraserWholeType</source>
@@ -5955,7 +5957,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint</source>
-        <translation type="unfinished"/>
+        <translation>Rechnungsdruck</translation>
     </message>
     <message>
         <source>Update Watermark</source>
@@ -5979,7 +5981,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractText2Word</source>
-        <translation type="unfinished"/>
+        <translation>Als Word-Dokument exportieren</translation>
     </message>
     <message>
         <source>AnnotManagement</source>
@@ -5995,7 +5997,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Translate Pane</source>
-        <translation type="unfinished"/>
+        <translation>Übersetzen</translation>
     </message>
     <message>
         <source>ClipPage</source>
@@ -6019,7 +6021,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractTextCopyText</source>
-        <translation type="unfinished"/>
+        <translation>Text kopieren</translation>
     </message>
     <message>
         <source>FloatSelectionTool</source>
@@ -6219,7 +6221,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>BatchEmbedDocument</source>
@@ -6227,7 +6229,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Split and Merge</source>
-        <translation type="unfinished"/>
+        <translation>Teilen und zusammenführen</translation>
     </message>
     <message>
         <source>Annotate</source>
@@ -6247,7 +6249,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractScrawl</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>DeleteEraserMenu</source>
@@ -6355,7 +6357,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>End Arrow</source>
-        <translation>Ende</translation>
+        <translation>Endpfeil</translation>
     </message>
     <message>
         <source>Page anticlockwise rotation</source>
@@ -6403,7 +6405,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -6415,7 +6417,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDF Export as Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF in Foto exportieren</translation>
     </message>
     <message>
         <source>EditPicExit</source>
@@ -6519,7 +6521,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Search and repace pane</source>
-        <translation type="unfinished"/>
+        <translation>Suchen oder ersetzen</translation>
     </message>
     <message>
         <source>ClipPageRange</source>
@@ -6583,7 +6585,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Pages From Scan</source>
-        <translation type="unfinished"/>
+        <translation>Aus Scanner auswählen</translation>
     </message>
     <message>
         <source>Form Filling</source>
@@ -6611,7 +6613,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Set MarkAttribute</source>
-        <translation type="unfinished"/>
+        <translation>Eigenschaften</translation>
     </message>
     <message>
         <source>FoldAllNote</source>
@@ -6715,7 +6717,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>property</source>
-        <translation type="unfinished"/>
+        <translation>Eigenschaft</translation>
     </message>
     <message>
         <source>PDF2Excel</source>
@@ -6743,7 +6745,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FindFunctions</source>
-        <translation type="unfinished"/>
+        <translation>Funktion suchen</translation>
     </message>
     <message>
         <source>ApplyOtherPage</source>
@@ -6751,11 +6753,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PdfInvoiceAssist</source>
-        <translation type="unfinished"/>
+        <translation>Rechnungsassistent</translation>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation type="unfinished"/>
+        <translation>In Stapeln drucken</translation>
     </message>
     <message>
         <source>FloatFitSize</source>
@@ -6775,7 +6777,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>InstructBox</source>
-        <translation type="unfinished"/>
+        <translation>Kommentarfeld</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
@@ -6871,7 +6873,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ImageBackLayer</source>
-        <translation type="unfinished"/>
+        <translation>Nach hinten verschieben</translation>
     </message>
     <message>
         <source>clockwise doc</source>
@@ -6883,7 +6885,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractText2Excel</source>
-        <translation type="unfinished"/>
+        <translation>Als Excel-Dokument exportieren</translation>
     </message>
     <message>
         <source>PasteText</source>
@@ -6907,7 +6909,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Annotations</source>
-        <translation type="unfinished"/>
+        <translation>Anmerkungen</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -7039,7 +7041,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>CA Encrypt</source>
-        <translation type="unfinished"/>
+        <translation>CA-Verschlüsselung</translation>
     </message>
     <message>
         <source>SplitSetPage</source>
@@ -7051,7 +7053,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Hierarchie</translation>
     </message>
     <message>
         <source>MergePDF</source>
@@ -7107,7 +7109,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TextContentQuery</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentinhalt suchen</translation>
     </message>
     <message>
         <source>Bg_Huyan</source>
@@ -7191,7 +7193,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>addnewcatalog</source>
-        <translation type="unfinished"/>
+        <translation>In Verzeichnis einfügen</translation>
     </message>
     <message>
         <source>ShowContentFrame</source>
@@ -7207,7 +7209,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Klicken, um automatische Sicherung ein-/auszuschalten</translation>
     </message>
     <message>
         <source>CorrectionFluidRoundCap</source>
@@ -7219,7 +7221,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TextQueryAndReplace</source>
-        <translation type="unfinished"/>
+        <translation>Suchen oder ersetzen</translation>
     </message>
     <message>
         <source>Navigate Back</source>
@@ -7303,7 +7305,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OCRExtractText</source>
-        <translation type="unfinished"/>
+        <translation>Text extrahieren</translation>
     </message>
     <message>
         <source>HighlightAndAnnotation</source>
@@ -7326,7 +7328,7 @@ Input 5-9 page 5 to page 9</source>
     <name>KxPdfWaterMarkGalleryCommand</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -7338,7 +7340,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Unable to find the watermark source file you specified, please re-select</source>
@@ -7350,7 +7352,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -7358,7 +7360,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Add failed! WaterMark apply range does not match the number of document pages</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen fehlgeschlagen! Der Anwendungsbereich des Wasserzeichens stimmt nicht mit der Anzahl der Dokumentseiten überein</translation>
     </message>
     <message>
         <source>DO NOT COPY</source>
@@ -7427,7 +7429,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -7435,7 +7437,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimieren</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -7463,7 +7465,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Symbolleiste anzeigen</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -7527,7 +7529,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>TranslationAll</source>
-        <translation type="unfinished"/>
+        <translation>Volltextübersetzung</translation>
     </message>
     <message>
         <source>Kingsoft PDF Help</source>
@@ -7543,7 +7545,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Extraction identification</source>
-        <translation type="unfinished"/>
+        <translation>Erkennung und Extraktion</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -7620,7 +7622,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>In reine Bild-PDF konvertieren</translation>
     </message>
     <message>
         <source>Line Number</source>
@@ -7716,7 +7718,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Vorheriges Fenster anzeigen</translation>
     </message>
     <message>
         <source>Hide TaskPane</source>
@@ -7900,7 +7902,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Create Link</source>
-        <translation type="unfinished"/>
+        <translation>Link erstellen</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -7964,7 +7966,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -7992,7 +7994,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Show Next Window</source>
-        <translation type="unfinished"/>
+        <translation>Nächstes Fenster anzeigen</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8064,7 +8066,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>New Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Neuer Arbeitsbereich</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
@@ -8120,7 +8122,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Symbolleiste ausblenden</translation>
     </message>
     <message>
         <source>Sign out</source>
@@ -8203,7 +8205,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>NewClipboardFile</source>
-        <translation type="unfinished"/>
+        <translation>Aus Zwischenablage erstellen</translation>
     </message>
     <message>
         <source>NewBlankFile</source>
@@ -8219,7 +8221,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>In reine Bild-PDF konvertieren</translation>
     </message>
     <message>
         <source>SaveAs</source>
@@ -8271,7 +8273,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation type="unfinished"/>
+        <translation>In Stapeln drucken</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -8283,7 +8285,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Kingsoft PDF Website</source>
-        <translation type="unfinished"/>
+        <translation>Offizielle WPS PDF-Website</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -8295,11 +8297,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Backup Center</source>
-        <translation type="unfinished"/>
+        <translation>Automatischen Sicherung</translation>
     </message>
     <message>
         <source>NewHtml2PdfFile</source>
-        <translation type="unfinished"/>
+        <translation>PDF aus Webseite erstellen</translation>
     </message>
     <message>
         <source>The export of PDF is</source>
@@ -8314,7 +8316,7 @@ Add-Ins</source>
     <name>KxPdfAnnoToolboxWidget</name>
     <message>
         <source>Pen</source>
-        <translation type="unfinished"/>
+        <translation>Stift</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -8330,7 +8332,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Hightlight</source>
-        <translation type="unfinished"/>
+        <translation>Markieren</translation>
     </message>
 </context>
 <context>
@@ -8379,11 +8381,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
-        <translation type="unfinished"/>
+        <translation>Aktivieren Sie die &lt;b&gt;[WPS PDF]-Erweiterung &lt;/b&gt; in Ihrem Browser, um das Umwandeln von Webseiten in PDF-Dateien zu vereinfachen. Probieren Sie es aus.</translation>
     </message>
     <message>
         <source>Add the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
-        <translation type="unfinished"/>
+        <translation>Fügen Sie Ihrem Browser die &lt;b&gt;[WPS PDF]-Erweiterung hinzu,&lt;/b&gt; um das Umwandeln von Webseiten in PDF-Dateien zu vereinfachen. Probieren Sie es aus.</translation>
     </message>
 </context>
 <context>
@@ -8398,7 +8400,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>annot</source>
-        <translation type="unfinished"/>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>print</source>
@@ -8406,15 +8408,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>insert and delete page</source>
-        <translation type="unfinished"/>
+        <translation>Seite einfügen und löschen</translation>
     </message>
     <message>
         <source>form and annot</source>
-        <translation type="unfinished"/>
+        <translation>Formular und Kommentar ausfüllen</translation>
     </message>
     <message>
         <source>use this ca encrypt pdf:</source>
-        <translation type="unfinished"/>
+        <translation>Legen Sie die Verschlüsselungsfunktion für dieses Zertifikat fest:</translation>
     </message>
 </context>
 <context>
@@ -8429,128 +8431,128 @@ Add-Ins</source>
     </message>
     <message>
         <source>value</source>
-        <translation type="unfinished"/>
+        <translation>Wert</translation>
     </message>
     <message>
         <source>Issuer:</source>
-        <translation type="unfinished"/>
+        <translation>Ausstellende Person:</translation>
     </message>
     <message>
         <source>Public key</source>
-        <translation type="unfinished"/>
+        <translation>Öffentlicher Schlüssel</translation>
     </message>
     <message>
         <source>Lisence</source>
-        <translation type="unfinished"/>
+        <translation>Seriennummer</translation>
     </message>
     <message>
         <source>ca name:</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsname:</translation>
     </message>
     <message>
         <source>End Time</source>
-        <translation type="unfinished"/>
+        <translation>Endzeit</translation>
     </message>
     <message>
         <source>Issuer</source>
-        <translation type="unfinished"/>
+        <translation>Ausstellende Person</translation>
     </message>
     <message>
         <source>Start Time:</source>
-        <translation type="unfinished"/>
+        <translation>Startzeit:</translation>
     </message>
     <message>
         <source>End Time:</source>
-        <translation type="unfinished"/>
+        <translation>Endzeit:</translation>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"/>
+        <translation>Startzeit</translation>
     </message>
     <message>
         <source>Public key param</source>
-        <translation type="unfinished"/>
+        <translation>Parameter für den öffentlichen Schlüssel</translation>
     </message>
     <message>
         <source>ENCRYPT</source>
-        <translation type="unfinished"/>
+        <translation>Schlüsselbasierte Verschlüsselung</translation>
     </message>
     <message>
         <source>SIGNATURE</source>
-        <translation type="unfinished"/>
+        <translation>SIGNATUR</translation>
     </message>
     <message>
         <source>purpose:</source>
-        <translation type="unfinished"/>
+        <translation>Zweck:</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Version</translation>
     </message>
 </context>
 <context>
     <name>KxPdfImageOCRCommand</name>
     <message>
         <source>pic</source>
-        <translation type="unfinished"/>
+        <translation>Nur-Bild-Version</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCheckboxesSet</name>
     <message>
         <source>red</source>
-        <translation type="unfinished"/>
+        <translation>Rot</translation>
     </message>
     <message>
         <source>blue</source>
-        <translation type="unfinished"/>
+        <translation>Blau</translation>
     </message>
     <message>
         <source>pink</source>
-        <translation type="unfinished"/>
+        <translation>Rosa</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>Schwarz</translation>
     </message>
     <message>
         <source>green</source>
-        <translation type="unfinished"/>
+        <translation>Grün</translation>
     </message>
     <message>
         <source>purple</source>
-        <translation type="unfinished"/>
+        <translation>Lila</translation>
     </message>
     <message>
         <source>yellow</source>
-        <translation type="unfinished"/>
+        <translation>Gelb</translation>
     </message>
 </context>
 <context>
     <name>KxPdfNewColorModel</name>
     <message>
         <source>red</source>
-        <translation type="unfinished"/>
+        <translation>Rot</translation>
     </message>
     <message>
         <source>blue</source>
-        <translation type="unfinished"/>
+        <translation>Blau</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>Schwarz</translation>
     </message>
     <message>
         <source>green</source>
-        <translation type="unfinished"/>
+        <translation>Grün</translation>
     </message>
     <message>
         <source>lake blue</source>
-        <translation type="unfinished"/>
+        <translation>seeblau</translation>
     </message>
     <message>
         <source>yellow</source>
-        <translation type="unfinished"/>
+        <translation>Gelb</translation>
     </message>
     <message>
         <source>Recent Colors</source>
@@ -8561,7 +8563,7 @@ Add-Ins</source>
     <name>KxPdfCaItemWidget</name>
     <message>
         <source>set</source>
-        <translation type="unfinished"/>
+        <translation>festlegen</translation>
     </message>
     <message>
         <source>delete</source>
@@ -8569,7 +8571,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>detail</source>
-        <translation type="unfinished"/>
+        <translation>Detail</translation>
     </message>
     <message>
         <source>export</source>
@@ -8581,11 +8583,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>ENCRYPT</source>
-        <translation type="unfinished"/>
+        <translation>Schlüsselbasierte Verschlüsselung</translation>
     </message>
     <message>
         <source>SIGNATURE</source>
-        <translation type="unfinished"/>
+        <translation>SIGNATUR</translation>
     </message>
 </context>
 <context>
@@ -8654,11 +8656,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmerfassung und OCR</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmerfassungs-Ellipse</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -8686,11 +8688,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Special Apps</source>
-        <translation type="unfinished"/>
+        <translation>Spezielle Funktionen</translation>
     </message>
     <message>
         <source>PdfElectronicInvoicePrint</source>
-        <translation type="unfinished"/>
+        <translation>Rechnungsdruck</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -8726,11 +8728,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Erfassungs-Polygon</translation>
     </message>
     <message>
         <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
+        <translation>Datenstatistiken</translation>
     </message>
     <message>
         <source>Show the Toolbar</source>
@@ -8751,7 +8753,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelles Fenster bei Bildschirmerfassung ausblenden</translation>
     </message>
     <message>
         <source>Interface Settings</source>
@@ -8807,7 +8809,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Grab Rect</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmerfassungs-Rechteck</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -8867,7 +8869,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Graffiti</source>
-        <translation type="unfinished"/>
+        <translation>Doodle</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -8875,7 +8877,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>PDFTOCad</source>
-        <translation type="unfinished"/>
+        <translation>PDF in CAD</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -8891,11 +8893,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>PdfInvoiceAssist</source>
-        <translation type="unfinished"/>
+        <translation>Rechnungsassistent</translation>
     </message>
     <message>
         <source>PDF Settings</source>
-        <translation type="unfinished"/>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -8919,7 +8921,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Launch Online Metting</source>
-        <translation type="unfinished"/>
+        <translation>Onlinebesprechung starten</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -8968,7 +8970,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmerfassung</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9074,7 +9076,7 @@ Add-Ins</source>
     <name>KxPdfOutlineTreeView</name>
     <message>
         <source>Blod</source>
-        <translation type="unfinished"/>
+        <translation>Fett</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -9468,7 +9470,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentübersetzung</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -9492,7 +9494,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF in Word</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -9504,7 +9506,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmerfassung</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9535,7 +9537,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>Einf&amp;ügen</translation>
+        <translation>E&amp;infügen</translation>
     </message>
 </context>
 <context>
@@ -9670,11 +9672,11 @@ Add-Ins</source>
     <name>KxPdfSearchPane</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Suchen</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Ersetzen</translation>
     </message>
 </context>
 <context>
@@ -9854,7 +9856,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Signiert von „%1“.</translation>
     </message>
     <message>
         <source>Signature property</source>
@@ -9971,7 +9973,7 @@ Add-Ins</source>
     <name>KxPdfReplaceContentUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formular</translation>
     </message>
 </context>
 <context>
@@ -9986,7 +9988,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>SelectFileName</source>
-        <translation type="unfinished"/>
+        <translation>Dateinamen auswählen</translation>
     </message>
     <message>
         <source>PageTo</source>
@@ -10141,11 +10143,11 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Docmgr</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentverwaltung</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF aufteilen</translation>
     </message>
     <message>
         <source>StampTool</source>
@@ -10169,7 +10171,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF zusammenführen</translation>
     </message>
     <message>
         <source>PageHeaderFooter</source>
@@ -10184,11 +10186,11 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Schnell</translation>
     </message>
     <message>
         <source>Share</source>
@@ -10233,7 +10235,7 @@ reparieren</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmrekorder</translation>
     </message>
     <message>
         <source>DeleteBackGround</source>
@@ -10249,7 +10251,7 @@ reparieren</translation>
     </message>
     <message>
         <source>PdfDataStatistics</source>
-        <translation type="unfinished"/>
+        <translation>Datenstatistiken</translation>
     </message>
     <message>
         <source>Share documents.</source>
@@ -10265,7 +10267,7 @@ reparieren</translation>
     </message>
     <message>
         <source>CADTOPdf</source>
-        <translation type="unfinished"/>
+        <translation>CAD in PDF</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
@@ -10317,7 +10319,7 @@ reparieren</translation>
     </message>
     <message>
         <source>TranslateSelectedPane</source>
-        <translation type="unfinished"/>
+        <translation>Aufgabenfenster fixieren</translation>
     </message>
     <message>
         <source>Translate selected text</source>
@@ -10325,7 +10327,7 @@ reparieren</translation>
     </message>
     <message>
         <source>PDFTOCad</source>
-        <translation type="unfinished"/>
+        <translation>PDF in CAD</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
@@ -10333,7 +10335,7 @@ reparieren</translation>
     </message>
     <message>
         <source>PdfInvoiceAssist</source>
-        <translation type="unfinished"/>
+        <translation>Rechnungsassistent</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
@@ -10341,7 +10343,7 @@ reparieren</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelles Fenster beim Erstellen von Screenshots ausblenden</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -10353,7 +10355,7 @@ reparieren</translation>
     </message>
     <message>
         <source>TranslateSelectedFollow</source>
-        <translation type="unfinished"/>
+        <translation>Übersetzungsfenster für ausgewählte Wörter</translation>
     </message>
     <message>
         <source>UpdateHeaderFooter</source>
@@ -10381,11 +10383,11 @@ reparieren</translation>
     </message>
     <message>
         <source>Convert2Photo</source>
-        <translation type="unfinished"/>
+        <translation>Nach Foto konvertieren</translation>
     </message>
     <message>
         <source>Page-Text Speech</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelle Seite lesen</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
@@ -10414,7 +10416,7 @@ scannen</translation>
     </message>
     <message>
         <source>Send via Email</source>
-        <translation type="unfinished"/>
+        <translation>Per E-Mail senden</translation>
     </message>
     <message>
         <source>AddPageNumber</source>
@@ -10478,11 +10480,11 @@ scannen</translation>
     </message>
     <message>
         <source>The document could not be saved. %1</source>
-        <translation type="unfinished"/>
+        <translation>Das Dokument konnte nicht gespeichert werden.</translation>
     </message>
     <message>
         <source>The document could not be saved. The file may be read-only, or opend by another user.</source>
-        <translation type="unfinished"/>
+        <translation>Das Dokument konnte nicht gespeichert werden. Die Datei kann schreibgeschützt sein, oder ein anderer Benutzer hat sie möglicherweise geöffnet.</translation>
     </message>
 </context>
 <context>
@@ -10549,11 +10551,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Ok(C)</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -10561,7 +10563,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>ResizePage(A)</source>
-        <translation>Größe von Seite (A) anpassen</translation>
+        <translation>Größe von Seite anpassen</translation>
     </message>
 </context>
 <context>
@@ -11033,7 +11035,7 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>Batch Deletion</source>
-        <translation type="unfinished"/>
+        <translation>In Stapeln löschen</translation>
     </message>
     <message>
         <source>All Author</source>
@@ -11069,11 +11071,11 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>FileAttachment</source>
-        <translation type="unfinished"/>
+        <translation>Anlage</translation>
     </message>
     <message>
         <source>Graffiti</source>
-        <translation type="unfinished"/>
+        <translation>Doodle</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -11085,7 +11087,7 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>InstructBox</source>
-        <translation type="unfinished"/>
+        <translation>Kommentarfeld</translation>
     </message>
     <message>
         <source>TextComment</source>
@@ -11093,7 +11095,7 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>Is Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Wird geladen...</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -11113,7 +11115,7 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>Annotation Filter</source>
-        <translation type="unfinished"/>
+        <translation>Kommentarfilter</translation>
     </message>
     <message>
         <source>TextCommentBox</source>
@@ -11121,7 +11123,7 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>Close Annotation Panel</source>
-        <translation type="unfinished"/>
+        <translation>Schließen</translation>
     </message>
 </context>
 <context>
@@ -11221,7 +11223,7 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>Are you sure to save the modification of current document?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie die Änderung des aktuellen Dokuments wirklich speichern?</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
@@ -11233,38 +11235,38 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Im aktuellen Dokument wurde die Funktion „%1“ Premium verwendet. Aktualisieren Sie auf Premium, um das geänderte Dokument zu speichern.</translation>
     </message>
     <message>
         <source>VIP rights ineffective?</source>
-        <translation type="unfinished"/>
+        <translation>Premium-Rechte nicht effektiv?</translation>
     </message>
     <message>
         <source>You are using &quot;%1&quot; member function, please upgrade to member</source>
-        <translation type="unfinished"/>
+        <translation>Sie verwenden die Premium-Funktion „%1“. Führen Sie zunächst ein Upgrade auf Premium durch.</translation>
     </message>
     <message>
         <source>Current document is a scanning document, only able to add text, &quot;Add text&quot; is member function, please upgrade to member</source>
-        <translation type="unfinished"/>
+        <translation>Das aktuelle Dokument enthält nur Bilder und Sie können nur Texte hinzufügen. „Text hinzufügen“ ist eine kostenpflichtige Funktion. Upgrade auf Premium.</translation>
     </message>
     <message>
         <source>Login now</source>
-        <translation type="unfinished"/>
+        <translation>Jetzt anmelden</translation>
     </message>
     <message>
         <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Das aktuelle Sicherungsdokument hat die PDF-Bearbeitungsfunktion Premium verwendet. Aktualisieren Sie auf Premium, um das geänderte Dokument zu speichern.</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCaAddDlg</name>
     <message>
         <source>Scan</source>
-        <translation type="unfinished"/>
+        <translation>Durchsuchen</translation>
     </message>
     <message>
         <source>next</source>
-        <translation type="unfinished"/>
+        <translation>Weiter</translation>
     </message>
     <message>
         <source>Please enter department name</source>
@@ -11272,71 +11274,71 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>You can add certificates in two ways:</source>
-        <translation type="unfinished"/>
+        <translation>Sie können Zertifikate auf zwei Arten hinzufügen:</translation>
     </message>
     <message>
         <source>Please reenter passwords</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie das Kennwort erneut ein</translation>
     </message>
     <message>
         <source>Please enter company name</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie einen Firmennamen ein</translation>
     </message>
     <message>
         <source>ca file:</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsdatei:</translation>
     </message>
     <message>
         <source>ca name:</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsname:</translation>
     </message>
     <message>
         <source>ca used:</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsnutzung:</translation>
     </message>
     <message>
         <source>Please enter more than six passwords</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie ein Kennwort ein, das mindestens 6 Ziffern enthält.</translation>
     </message>
     <message>
         <source>Encrypt data</source>
-        <translation type="unfinished"/>
+        <translation>Schlüsselbasierte Verschlüsselung</translation>
     </message>
     <message>
         <source>Wrong password. Please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>Falsches Kennwort. Bitte erneut eingeben.</translation>
     </message>
     <message>
         <source>encrypt:</source>
-        <translation type="unfinished"/>
+        <translation>Schlüsselalgorithmus:</translation>
     </message>
     <message>
         <source>please click browse to select ca file</source>
-        <translation type="unfinished"/>
+        <translation>Auf „Durchsuchen“ klicken, um Zertifikatsdatei hinzuzufügen</translation>
     </message>
     <message>
         <source>Wrong path, Please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Importpfad. Wählen Sie einen anderen Dateipfad aus.</translation>
     </message>
     <message>
         <source>Create a new certificate</source>
-        <translation type="unfinished"/>
+        <translation>Neues Zertifikat erstellen</translation>
     </message>
     <message>
         <source>Please enter email address</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie die E-Mail-Adresse ein</translation>
     </message>
     <message>
         <source>company:</source>
-        <translation type="unfinished"/>
+        <translation>Firmenname:</translation>
     </message>
     <message>
         <source>pwd again:</source>
-        <translation type="unfinished"/>
+        <translation>Kennwort bestätigen:</translation>
     </message>
     <message>
         <source>Invalid save path, Please adjust it.</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Pfad zum Speichern. Wählen Sie einen anderen Dateipfad aus.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -11344,67 +11346,67 @@ Eingabe 1,6 bedeutet die Auswahl der Seiten 1 und 6</translation>
     </message>
     <message>
         <source>email:</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail:</translation>
     </message>
     <message>
         <source>country:</source>
-        <translation type="unfinished"/>
+        <translation>Land/Region:</translation>
     </message>
     <message>
         <source>finish</source>
-        <translation type="unfinished"/>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>Please input ca name</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie einen Zertifikatsnamen ein</translation>
     </message>
     <message>
         <source>previous</source>
-        <translation type="unfinished"/>
+        <translation>Zurück</translation>
     </message>
     <message>
         <source>Use existing certificate file</source>
-        <translation type="unfinished"/>
+        <translation>Vorhandene Zertifikatsdatei verwenden</translation>
     </message>
     <message>
         <source>ca pwd:</source>
-        <translation type="unfinished"/>
+        <translation>Kennworteinstellungen:</translation>
     </message>
     <message>
         <source>department:</source>
-        <translation type="unfinished"/>
+        <translation>Abteilung:</translation>
     </message>
     <message>
         <source>Encrypt ca</source>
-        <translation type="unfinished"/>
+        <translation>Digitale Signatur</translation>
     </message>
     <message>
         <source>ca password:</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatskennwort:</translation>
     </message>
     <message>
         <source>1024 bit RSA</source>
-        <translation type="unfinished"/>
+        <translation>1024-Bit-RSA</translation>
     </message>
     <message>
         <source>2048 bit RSA</source>
-        <translation type="unfinished"/>
+        <translation>2048-Bit-RSA</translation>
     </message>
     <message>
         <source>To create a new certificate,fill the following information</source>
-        <translation type="unfinished"/>
+        <translation>Um ein neues digitales Zertifikat zu erstellen, müssen Sie die folgenden Informationen ausfüllen:</translation>
     </message>
     <message>
         <source>please input ca password</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie das Zertifikatskennwort ein</translation>
     </message>
     <message>
         <source>Two different password entries</source>
-        <translation type="unfinished"/>
+        <translation>Ihre Kennwörter stimmen nicht überein.</translation>
     </message>
     <message>
         <source>Browse and select the certificate and enter the certificate password</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie das Zertifikat aus und geben Sie das Zertifikatskennwort ein.</translation>
     </message>
 </context>
 <context>
@@ -11583,7 +11585,7 @@ Window</source>
     </message>
     <message>
         <source>please input url</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie eine URL ein.</translation>
     </message>
 </context>
 <context>
@@ -11735,11 +11737,11 @@ Window</source>
     <name>ongmani.ct_instructbox</name>
     <message>
         <source>Tool</source>
-        <translation type="unfinished"/>
+        <translation>Werkzeug</translation>
     </message>
     <message>
         <source>TextStyle</source>
-        <translation type="unfinished"/>
+        <translation>Kommentarfeld</translation>
     </message>
 </context>
 <context>
@@ -12029,35 +12031,35 @@ Window</source>
     <name>KxPdfTemplatePrintWidget</name>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Mehr</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Drucken</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Brief</translation>
     </message>
     <message>
         <source>Squarepaper</source>
-        <translation type="unfinished"/>
+        <translation>Quadratisches Feld</translation>
     </message>
     <message>
         <source>Connell</source>
-        <translation type="unfinished"/>
+        <translation>Cornell</translation>
     </message>
     <message>
         <source>Dotmatrix</source>
-        <translation type="unfinished"/>
+        <translation>Punktmatrix</translation>
     </message>
     <message>
         <source>Weekgtd</source>
-        <translation type="unfinished"/>
+        <translation>Wöchentliche Aufgabe</translation>
     </message>
     <message>
         <source>Singleline</source>
-        <translation type="unfinished"/>
+        <translation>Einzelne Zeile</translation>
     </message>
 </context>
 <context>
@@ -12068,7 +12070,7 @@ Window</source>
     </message>
     <message>
         <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
-        <translation type="unfinished"/>
+        <translation>Aktivieren Sie die &lt;b&gt;[WPS PDF]-Erweiterung &lt;/b&gt; in Ihrem Browser, um das Umwandeln von Webseiten in PDF-Dateien zu vereinfachen. Probieren Sie es aus.</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -12102,26 +12104,26 @@ Window</source>
     <name>KxPdfSplitMergeCommand</name>
     <message>
         <source>Combine PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF kombinieren</translation>
     </message>
 </context>
 <context>
     <name>KxPdfSplitPrintDialog</name>
     <message>
         <source>Please add a divider</source>
-        <translation type="unfinished"/>
+        <translation>Bitte Trennzeichen hinzufügen</translation>
     </message>
     <message>
         <source>Longitudinal split</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal aufteilen</translation>
     </message>
     <message>
         <source>immediately split</source>
-        <translation type="unfinished"/>
+        <translation>Jetzt aufteilen</translation>
     </message>
     <message>
         <source>Auto align center line (hold Alt to unalign)</source>
-        <translation type="unfinished"/>
+        <translation>Automatische Ausrichtung der Mittellinie (halten Sie die Alt-Taste gedrückt, um die Ausrichtung abzubrechen)</translation>
     </message>
     <message>
         <source>AllPages</source>
@@ -12177,7 +12179,7 @@ Window</source>
     </message>
     <message>
         <source>Horizontal split</source>
-        <translation type="unfinished"/>
+        <translation>Horizontal aufteilen</translation>
     </message>
 </context>
 <context>
@@ -12276,82 +12278,82 @@ Window</source>
     <name>KxPdfPremiumGuideDialog</name>
     <message>
         <source>Cancel anytime</source>
-        <translation type="unfinished"/>
+        <translation>Jederzeit kündbar</translation>
     </message>
     <message>
         <source>Split Page</source>
-        <translation type="unfinished"/>
+        <translation>Seite teilen</translation>
     </message>
     <message>
         <source>(Current feature)</source>
-        <translation type="unfinished"/>
+        <translation>(Wird bereits verwendet)</translation>
     </message>
     <message>
         <source>Change Fluid</source>
-        <translation type="unfinished"/>
+        <translation>Korrekturflüssigkeit</translation>
     </message>
     <message>
         <source>Output as image-only PDF</source>
-        <translation type="unfinished"/>
+        <translation>Als reine Bild-PDF-Dateien ausgeben</translation>
     </message>
     <message>
         <source>Crop Page</source>
-        <translation type="unfinished"/>
+        <translation>Seite zuschneiden</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF in Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Bild in PDF</translation>
     </message>
     <message>
         <source>Edit content in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Texte/Bilder in PDF-Dateien bearbeiten</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
-        <translation type="unfinished"/>
+        <translation>Kostenlose 7-Tage-Testversion</translation>
     </message>
     <message>
         <source>View more</source>
-        <translation type="unfinished"/>
+        <translation>Mehr anzeigen</translation>
     </message>
     <message>
         <source>WPS Premium include 51 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Premium enthält 51 erweiterte Funktionen für Dokument, Tabellen, Präsentation und WPS PDF-Editor.</translation>
     </message>
     <message>
         <source>Add Attachment</source>
-        <translation type="unfinished"/>
+        <translation>Anlage hinzufügen</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>PDF-Signatur</translation>
     </message>
     <message>
         <source>You are using a premium feature. Try Premium for free to enable this feature and save the changes.</source>
-        <translation type="unfinished"/>
+        <translation>Sie benutzen jetzt eine zahlungspflichtige Funktion. Probieren Sie WPS Premium kostenlos aus. Sie können dann diese Funktion aktivieren und die Änderungen speichern.</translation>
     </message>
     <message>
         <source>Try All Premium Features</source>
-        <translation type="unfinished"/>
+        <translation>Probieren Sie alle WPS Premium-Funktionen aus</translation>
     </message>
     <message>
         <source>Manager PDF page</source>
-        <translation type="unfinished"/>
+        <translation>PDF-Seiten verwalten</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCopyPageExtractPageDialog</name>
     <message>
         <source>IsCopying %1%</source>
-        <translation type="unfinished"/>
+        <translation>%1% wird kopiert</translation>
     </message>
     <message>
         <source>Is Copying</source>
-        <translation type="unfinished"/>
+        <translation>Wird kopiert</translation>
     </message>
 </context>
 <context>
@@ -12389,7 +12391,7 @@ Window</source>
     </message>
     <message>
         <source>Signature List</source>
-        <translation type="unfinished"/>
+        <translation>Signaturen</translation>
     </message>
     <message>
         <source>Close Signature Panel</source>
@@ -12588,7 +12590,7 @@ Window</source>
     </message>
     <message>
         <source>New function</source>
-        <translation type="unfinished"/>
+        <translation>Neue Funktion</translation>
     </message>
 </context>
 <context>
@@ -12664,7 +12666,7 @@ Window</source>
     </message>
     <message>
         <source>Input error</source>
-        <translation type="unfinished"/>
+        <translation>Eingabefehler.</translation>
     </message>
 </context>
 <context>
@@ -12687,11 +12689,11 @@ Window</source>
     </message>
     <message>
         <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Im aktuellen Dokument wurde die Funktion „%1“ Premium verwendet. Aktualisieren Sie auf Premium, um das geänderte Dokument zu speichern.</translation>
     </message>
     <message>
         <source>VIP rights ineffective?</source>
-        <translation type="unfinished"/>
+        <translation>Premium-Rechte nicht effektiv?</translation>
     </message>
     <message>
         <source>Save(S)</source>
@@ -12699,11 +12701,11 @@ Window</source>
     </message>
     <message>
         <source>Save(Trial)</source>
-        <translation type="unfinished"/>
+        <translation>Speichern (Testversion)</translation>
     </message>
     <message>
         <source>Login now</source>
-        <translation type="unfinished"/>
+        <translation>Jetzt anmelden</translation>
     </message>
     <message>
         <source>closing Doc,Whether to save the current changes?</source>
@@ -12711,7 +12713,7 @@ Window</source>
     </message>
     <message>
         <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
-        <translation type="unfinished"/>
+        <translation>Das aktuelle Sicherungsdokument hat die PDF-Bearbeitungsfunktion Premium verwendet. Aktualisieren Sie auf Premium, um das geänderte Dokument zu speichern.</translation>
     </message>
 </context>
 <context>
@@ -12824,11 +12826,11 @@ Window</source>
     <name>KxPdfPagePropertyDialog</name>
     <message>
         <source>Ok(F)</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel(C)</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>transverse</source>
@@ -12840,7 +12842,7 @@ Window</source>
     </message>
     <message>
         <source>ResizePage(A)</source>
-        <translation>Größe von Seite (A) anpassen</translation>
+        <translation>Größe von Seite anpassen</translation>
     </message>
     <message>
         <source>page size:%1 cmx%2cm</source>
@@ -12874,11 +12876,11 @@ Window</source>
     <name>KxPdfOcrExtractTextOutputEtCommand</name>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"/>
+        <translation>Foto</translation>
     </message>
     <message>
         <source> files</source>
-        <translation type="unfinished"/>
+        <translation>Dateien</translation>
     </message>
 </context>
 <context>
@@ -12916,7 +12918,7 @@ Window</source>
     </message>
     <message>
         <source>During data export:</source>
-        <translation type="unfinished"/>
+        <translation>Daten werden exportiert:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -12924,15 +12926,15 @@ Window</source>
     </message>
     <message>
         <source>Excerpt export failed, please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Exportieren der extrahierten Daten. Wiederholen Sie den Vorgang.</translation>
     </message>
     <message>
         <source>Excerpt data export</source>
-        <translation type="unfinished"/>
+        <translation>Extrahierte Daten exportieren</translation>
     </message>
     <message>
         <source>My excerpt</source>
-        <translation type="unfinished"/>
+        <translation>Mein Auszug</translation>
     </message>
 </context>
 <context>
@@ -13076,7 +13078,7 @@ Window</source>
     </message>
     <message>
         <source>Docmgr</source>
-        <translation type="unfinished"/>
+        <translation>Komponentenverwaltung</translation>
     </message>
     <message>
         <source>Menu Tools</source>
@@ -13103,15 +13105,15 @@ Window</source>
     <name>KxPdfTextEditGuideDlg</name>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"/>
+        <translation>Testversion</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium nutzen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -13122,11 +13124,11 @@ Window</source>
     </message>
     <message>
         <source>SplitPDFPage</source>
-        <translation type="unfinished"/>
+        <translation>PDF teilen</translation>
     </message>
     <message>
         <source>MergePDFPage</source>
-        <translation type="unfinished"/>
+        <translation>PDF zusammenführen</translation>
     </message>
     <message>
         <source>Document Views</source>
@@ -13134,11 +13136,11 @@ Window</source>
     </message>
     <message>
         <source>Docmgr</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentverwaltung</translation>
     </message>
     <message>
         <source>Organize Page</source>
-        <translation type="unfinished"/>
+        <translation>Seitenvorgang</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -13190,11 +13192,11 @@ Window</source>
     </message>
     <message>
         <source>Open Directory(W)</source>
-        <translation type="unfinished"/>
+        <translation>Ordner öffnen</translation>
     </message>
     <message>
         <source>Replace Up</source>
-        <translation type="unfinished"/>
+        <translation>Von unten nach oben</translation>
     </message>
     <message>
         <source>Cur page num</source>
@@ -13226,7 +13228,7 @@ Window</source>
     </message>
     <message>
         <source>Open File(E)</source>
-        <translation type="unfinished"/>
+        <translation>Dokument öffnen (E)</translation>
     </message>
     <message>
         <source>WholeWordsSearch</source>
@@ -13254,7 +13256,7 @@ Window</source>
     </message>
     <message>
         <source>Replace Down</source>
-        <translation type="unfinished"/>
+        <translation>Von oben nach unten</translation>
     </message>
     <message>
         <source>All Fonts</source>
@@ -13266,7 +13268,7 @@ Window</source>
     </message>
     <message>
         <source>Replace direction</source>
-        <translation type="unfinished"/>
+        <translation>Richtung ersetzen</translation>
     </message>
     <message>
         <source>IncludeBookmarks</source>
@@ -13339,11 +13341,11 @@ Window</source>
     <name>KxPdfPicturePropertyTabbar</name>
     <message>
         <source>level</source>
-        <translation type="unfinished"/>
+        <translation>Ebene</translation>
     </message>
     <message>
         <source>replace image</source>
-        <translation type="unfinished"/>
+        <translation>Bild ersetzen</translation>
     </message>
 </context>
 <context>
@@ -13477,15 +13479,15 @@ Window</source>
     </message>
     <message>
         <source>Save the current view as a catalog</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelle Ansicht als Verzeichnis speichern</translation>
     </message>
     <message>
         <source>Delete a catalog</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelles Verzeichnis löschen</translation>
     </message>
     <message>
         <source>The document has no catalog</source>
-        <translation type="unfinished"/>
+        <translation>In diesem Dokument gibt es keinen Katalog.</translation>
     </message>
     <message>
         <source>No relevant content was found. Please check the input or spelling</source>
@@ -13497,7 +13499,7 @@ Window</source>
     </message>
     <message>
         <source>Collapse All Catalog</source>
-        <translation type="unfinished"/>
+        <translation>Alle Verzeichnisse ausblenden</translation>
     </message>
     <message>
         <source>Outline Search</source>
@@ -13513,7 +13515,7 @@ Window</source>
     </message>
     <message>
         <source>Expand All Catalog</source>
-        <translation type="unfinished"/>
+        <translation>Alle Verzeichnisse einblenden</translation>
     </message>
     <message>
         <source>Close Outline Panel</source>
@@ -13525,7 +13527,7 @@ Window</source>
     </message>
     <message>
         <source>Catalogue Search</source>
-        <translation type="unfinished"/>
+        <translation>Katalogsuche</translation>
     </message>
 </context>
 <context>
@@ -13570,7 +13572,7 @@ Window</source>
     <name>pdfongmani.mainwindow</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Professionel</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -13585,11 +13587,11 @@ Window</source>
     <name>KxPdfAnnotationView</name>
     <message>
         <source>The comment has been hidden. Click the &quot;Show Comment&quot; function to display the content of the comment hidden in the text.</source>
-        <translation type="unfinished"/>
+        <translation>Der Kommentar wurde ausgeblendet. Klicken Sie auf die Funktion „Kommentar anzeigen“, um den Inhalt des im Text ausgeblendeten Kommentars anzuzeigen.</translation>
     </message>
     <message>
         <source>Is Deleteing</source>
-        <translation type="unfinished"/>
+        <translation>Wird gelöscht</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -13655,7 +13657,7 @@ Window</source>
     </message>
     <message>
         <source>Send via Email</source>
-        <translation type="unfinished"/>
+        <translation>Per E-Mail senden</translation>
     </message>
 </context>
 <context>
@@ -13693,19 +13695,19 @@ Window</source>
     <name>KxPdfCaDeleteDlgWidget</name>
     <message>
         <source>issuer:</source>
-        <translation type="unfinished"/>
+        <translation>ausstellende Person:</translation>
     </message>
     <message>
         <source>delete ca</source>
-        <translation type="unfinished"/>
+        <translation>Digitales Zertifikat löschen</translation>
     </message>
     <message>
         <source>ca name:</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsname:</translation>
     </message>
     <message>
         <source>Wrong password. Please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>Falsches Kennwort. Bitte erneut eingeben.</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -13713,7 +13715,7 @@ Window</source>
     </message>
     <message>
         <source>Please enter the certificate password to delete the certificate</source>
-        <translation type="unfinished"/>
+        <translation>Bitte geben Sie das Zertifikatskennwort ein, um das Zertifikat zu löschen</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -13721,7 +13723,7 @@ Window</source>
     </message>
     <message>
         <source>ca pwd:</source>
-        <translation type="unfinished"/>
+        <translation>Kennworteinstellungen:</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -13732,54 +13734,54 @@ Window</source>
     <name>KxPdfReplaceContentWidget</name>
     <message>
         <source>Looking for...</source>
-        <translation type="unfinished"/>
+        <translation>Suche läuft...</translation>
     </message>
     <message>
         <source>Got it</source>
-        <translation type="unfinished"/>
+        <translation>Verstanden</translation>
     </message>
     <message>
         <source>Find prompt</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Suchen</translation>
     </message>
     <message>
         <source>The current document is a scanned document, and the content cannot be searched and replaced.</source>
-        <translation type="unfinished"/>
+        <translation>„Suchen oder ersetzen“ ist in der gescannten PDF-Datei nicht verfügbar.</translation>
     </message>
     <message>
         <source>replace</source>
-        <translation type="unfinished"/>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>The search content was not found.</source>
-        <translation type="unfinished"/>
+        <translation>Keine Übereinstimmungen gefunden.</translation>
     </message>
     <message>
         <source>Enter replacement content</source>
-        <translation type="unfinished"/>
+        <translation>Ersetzung eingeben</translation>
     </message>
     <message>
         <source>Replacement prompt</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Ersetzen</translation>
     </message>
     <message>
         <source>The current document is not a PDF file, and the content cannot be searched and replaced.</source>
-        <translation type="unfinished"/>
+        <translation>„Suchen oder ersetzen“ ist nicht verfügbar, da die geöffnete Datei keine PDF-Datei ist.</translation>
     </message>
     <message>
         <source>Replacing...</source>
-        <translation type="unfinished"/>
+        <translation>Wird ersetzt...</translation>
     </message>
 </context>
 <context>
     <name>KxPdfPasteInsertPageDialog</name>
     <message>
         <source>IsPasting %1%</source>
-        <translation type="unfinished"/>
+        <translation>%1% wird eingefügt</translation>
     </message>
     <message>
         <source>Is Pasting</source>
-        <translation type="unfinished"/>
+        <translation>Wird eingefügt</translation>
     </message>
 </context>
 <context>
@@ -13814,7 +13816,7 @@ Window</source>
     </message>
     <message>
         <source>Create a PDF from any format</source>
-        <translation type="unfinished"/>
+        <translation>PDF aus beliebigem Format erstellen</translation>
     </message>
     <message>
         <source>Convert an Office file (.docx, .xlsx, .ppt, .jpg, etc.) to a PDF.</source>
@@ -13936,11 +13938,11 @@ scannen</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Geheimer Offline-Schlüssel</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Vorwärts</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
@@ -13999,31 +14001,31 @@ scannen</translation>
     <name>KxPdfLdpDetailDialog</name>
     <message>
         <source>Why use protection?</source>
-        <translation type="unfinished"/>
+        <translation>Warum Schutz verwenden?</translation>
     </message>
     <message>
         <source>Step 2: Check [Enable Association Protection] in &quot;Association Settings&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Schritt 2: Wählen Sie [Assoziationsschutz aktivieren] unter „Assoziationseinstellungen“ aus.</translation>
     </message>
     <message>
         <source>Protected PDF files are opened with WPS by default.&lt;br/&gt;If you need to change the default software, you can modify it by opening the file properties.</source>
-        <translation type="unfinished"/>
+        <translation>Geschützte PDF-Daten werden von WPS standardmäßig geöffnet.&lt;br/&gt;Wenn Sie die Standardsoftware ändern möchten, können Sie dies über die Öffnungsmethode in den Dateieigenschaften tun.</translation>
     </message>
     <message>
         <source>How to turn on associated protection?</source>
-        <translation type="unfinished"/>
+        <translation>Wie schaltet man den assoziierten Schutz ein?</translation>
     </message>
     <message>
         <source>Enable WPS PDF association protection</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Assoziationsschutz aktivieren</translation>
     </message>
     <message>
         <source>Step 1: Go to the PDF component and click the [Settings] button in the upper right corner</source>
-        <translation type="unfinished"/>
+        <translation>Schritt 1: Navigieren Sie zur PDF-Komponente und klicken Sie auf die Schaltfläche [Einstellungen] in der oberen rechten Ecke.</translation>
     </message>
     <message>
         <source>Turn on protection</source>
-        <translation type="unfinished"/>
+        <translation>Schutz einschalten</translation>
     </message>
 </context>
 <context>
@@ -14136,7 +14138,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Is using the &quot;Delete Page&quot; membership privilege, non-member users can delete 5 pages for free</source>
-        <translation type="unfinished"/>
+        <translation>Sie nutzen die Vorteile der Funktion „Seiten löschen“ von WPS Premium. Nicht-Premium-Benutzer können fünf Seiten kostenlos löschen.</translation>
     </message>
     <message>
         <source>move page is VIP function, save modify need upgrade VIP</source>
@@ -14153,15 +14155,15 @@ Please batches operations</source>
     </message>
     <message>
         <source>%1year%2mon%3day</source>
-        <translation type="unfinished"/>
+        <translation>%1Jahr%2Monat%3Tag</translation>
     </message>
     <message>
         <source>Is using the &quot;insert page&quot; membership privilege, non-member users can insert 5 pages for free</source>
-        <translation type="unfinished"/>
+        <translation>Sie nutzen die Vorteile der Funktion „Seiten einfügen“ von WPS Premium. Nicht-Premium-Benutzer können fünf Seiten kostenlos einfügen.</translation>
     </message>
     <message>
         <source>Using PDF %1 member function</source>
-        <translation type="unfinished"/>
+        <translation>Sie nutzen die %1-Vorteile von WPS Premium.</translation>
     </message>
     <message>
         <source>Keep</source>
@@ -14192,7 +14194,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Quit Full Screen(Esc)</source>
-        <translation type="unfinished"/>
+        <translation>Vollbild verlassen (Esc)</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -14239,7 +14241,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Signiert von „%1“.</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -14279,7 +14281,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>disignautre</source>
-        <translation type="unfinished"/>
+        <translation>Digitale Signatur</translation>
     </message>
     <message>
         <source>Signed time of signature:</source>
@@ -14306,7 +14308,7 @@ Please batches operations</source>
     <name>KxPdfExcerptExportTipDlg</name>
     <message>
         <source>Please click the &quot;Export&quot; button to back up the excerpt.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte klicken Sie auf die Schaltfläche „Exportieren“, um den Auszug zu sichern.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14322,19 +14324,19 @@ Please batches operations</source>
     </message>
     <message>
         <source>Do not remind again</source>
-        <translation type="unfinished"/>
+        <translation>Nicht noch einmal erinnern</translation>
     </message>
     <message>
         <source>The current version does not support the extract function.</source>
-        <translation type="unfinished"/>
+        <translation>In der aktuellen Version wird die Extraktionsfunktion nicht unterstützt.</translation>
     </message>
     <message>
         <source>Excerpt data export</source>
-        <translation type="unfinished"/>
+        <translation>Extrahierte Daten exportieren</translation>
     </message>
     <message>
         <source>My excerpt</source>
-        <translation type="unfinished"/>
+        <translation>Mein Auszug</translation>
     </message>
     <message>
         <source>取消</source>
@@ -14342,7 +14344,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>导出</source>
-        <translation type="unfinished"/>
+        <translation>Exportieren</translation>
     </message>
 </context>
 <context>
@@ -14485,7 +14487,7 @@ Please batches operations</source>
     <name>KxPdfCaAddDlgWidget</name>
     <message>
         <source>You can add certificates in two ways:</source>
-        <translation type="unfinished"/>
+        <translation>Sie können Zertifikate auf zwei Arten hinzufügen:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -14493,30 +14495,30 @@ Please batches operations</source>
     </message>
     <message>
         <source>add ca</source>
-        <translation type="unfinished"/>
+        <translation>Digitales Zertifikat hinzufügen</translation>
     </message>
 </context>
 <context>
     <name>KxPdfWaterMarkGalleryModel</name>
     <message>
         <source>edit watermark</source>
-        <translation type="unfinished"/>
+        <translation>Wasserzeichen bearbeiten</translation>
     </message>
     <message>
         <source>click is to delete watermark</source>
-        <translation type="unfinished"/>
+        <translation>Hier klicken, um Wasserzeichen zu löschen</translation>
     </message>
     <message>
         <source>click is to edit watermark</source>
-        <translation type="unfinished"/>
+        <translation>Klicken, um Wasserzeichen zu bearbeiten</translation>
     </message>
     <message>
         <source>complete</source>
-        <translation type="unfinished"/>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>delete watermark</source>
-        <translation type="unfinished"/>
+        <translation>Wasserzeichen löschen</translation>
     </message>
     <message>
         <source>manage</source>
@@ -14524,7 +14526,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Drag adjustment order</source>
-        <translation type="unfinished"/>
+        <translation>Ziehen, um Reihenfolge zu ändern</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14535,15 +14537,15 @@ Please batches operations</source>
     <name>KxPdfBackgroundGuideDlg</name>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>The background function has moved to the bottom of the window, and the current entrance will be blocked.</source>
-        <translation type="unfinished"/>
+        <translation>Am unteren Rand haben wir eine weitere Schaltfläche namens „Hintergrund“ hinzugefügt. Diese wird zu einem späteren Zeitpunkt entfernt.</translation>
     </message>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Verstanden</translation>
     </message>
 </context>
 <context>
@@ -14602,11 +14604,11 @@ Please batches operations</source>
     <name>KxPdfCAManagementDlgWidget</name>
     <message>
         <source>Trusted certificate</source>
-        <translation type="unfinished"/>
+        <translation>Vertrauenswürdiges Zertifikat</translation>
     </message>
     <message>
         <source>ca manager</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsverwaltung</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -14614,7 +14616,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Certificate I added</source>
-        <translation type="unfinished"/>
+        <translation>Von mir hinzugefügtes Zertifikat</translation>
     </message>
 </context>
 <context>
@@ -14742,7 +14744,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>immediately crop</source>
-        <translation type="unfinished"/>
+        <translation>Jetzt zuschneiden</translation>
     </message>
     <message>
         <source>OddPages</source>
@@ -14762,7 +14764,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>Document cropping in progress</source>
-        <translation type="unfinished"/>
+        <translation>Dokument wird zugeschnitten... </translation>
     </message>
     <message>
         <source>input 1,3 means add watermark in no.1 and no.3</source>
@@ -14829,19 +14831,19 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>PDF to Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF nach Excel</translation>
     </message>
     <message>
         <source>Word Tools</source>
-        <translation>Text-Tool</translation>
+        <translation>Schriftsatz</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF aufteilen</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF nach PPT</translation>
     </message>
     <message>
         <source>PDFPagesOper</source>
@@ -14853,7 +14855,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentübersetzung</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
@@ -14861,15 +14863,15 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Spezielle Funktionen</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF in Word</translation>
     </message>
     <message>
         <source>MergePDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF zusammenführen</translation>
     </message>
 </context>
 <context>
@@ -14923,15 +14925,17 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>KxPdfSignatureToCloudWidget</name>
     <message>
         <source>Cloud Synchronization</source>
-        <translation>Cloud-Synchronisierung</translation>
+        <translation>Cloud-Sync</translation>
     </message>
     <message>
         <source>Only WPS Premium members can sync signatures to the cloud.Go Premium to enjoy value-added features.</source>
-        <translation type="unfinished"/>
+        <translation>Die Synchronisierung von Signaturen mit der Cloud ist nur für WPS Premium verfügbar. Wechseln Sie zu Premium und genießen Sie weitere Vorteile.</translation>
     </message>
     <message>
         <source>Cloud synchronization description</source>
-        <translation>Bei Aktivierung der Cloud-Synchronisierung wird die PDF-Signatur automatisch in der Cloud synchronisiert.&lt;br&gt; Melden Sie sich nach der Synchronisierung auf einem anderen Gerät beim WPS-Konto an, woraufhin Sie die synchronisierte Signatur verwenden können.</translation>
+        <translation>Die Signatur wird automatisch mit der Cloud synchronisiert.
+Wenn Sie sich mit demselben Konto auf anderen Geräten anmelden,
+können Sie die synchronisierte Signatur weiterhin verwenden.</translation>
     </message>
 </context>
 <context>
@@ -14945,7 +14949,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>KxPdfAttachmentTreeView</name>
     <message>
         <source>The attachment %1 already exists, sure to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>Die Anlage enthält bereits eine Datei mit dem Namen %1. &lt;br&gt;Möchten Sie die Datei wirklich ersetzen?</translation>
     </message>
 </context>
 <context>
@@ -15017,7 +15021,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>kpdfBuidNotesPainter</name>
     <message>
         <source>Print Notes preView</source>
-        <translation type="unfinished"/>
+        <translation>Notizvorschau drucken</translation>
     </message>
     <message>
         <source>Now is building the Notes preView. Please Wait...</source>
@@ -15039,7 +15043,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>KxPdfCaDeleteDlg</name>
     <message>
         <source>Please enter certificate password</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie das Zertifikatskennwort ein</translation>
     </message>
 </context>
 <context>
@@ -15065,19 +15069,19 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>KxPdfImageRecognizeDialog</name>
     <message>
         <source>current page</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelle Seite</translation>
     </message>
     <message>
         <source>Custom page</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefinierter Bereich:</translation>
     </message>
     <message>
         <source>continue</source>
-        <translation type="unfinished"/>
+        <translation>Fortsetzen</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Bestätigen</translation>
     </message>
 </context>
 <context>
@@ -15091,23 +15095,23 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>KxPdfCannotEraseObjDlg</name>
     <message>
         <source>The part of the content that cannot be erased will be covered.</source>
-        <translation type="unfinished"/>
+        <translation>Die Inhalte, die nicht gelöscht werden können, werden überschrieben.</translation>
     </message>
     <message>
         <source>Got it</source>
-        <translation type="unfinished"/>
+        <translation>Verstanden</translation>
     </message>
     <message>
         <source>There is content that cannot be erased</source>
-        <translation type="unfinished"/>
+        <translation>Bestimmte Inhalte können nicht gelöscht werden</translation>
     </message>
     <message>
         <source>Do not remind again</source>
-        <translation type="unfinished"/>
+        <translation>Nicht noch einmal erinnern</translation>
     </message>
     <message>
         <source>Erasable objects : text, pictures, notes, hyperlinks, etc.</source>
-        <translation type="unfinished"/>
+        <translation>Löschbare Objekte: Texte, Bilder, Notizen, Hyperlinks usw.</translation>
     </message>
 </context>
 <context>
@@ -15122,7 +15126,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>Please input what you want</source>
-        <translation>Bitte eingeben...</translation>
+        <translation>Inhalt eingeben</translation>
     </message>
     <message>
         <source>Set Up</source>
@@ -15141,7 +15145,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>KxPdfCompleteClipPageCommand</name>
     <message>
         <source>Clip Page is VIP function, please upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Das Zuschneiden von Seiten ist eine kostenpflichtige Funktion. Upgrade auf Premium.</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -15160,11 +15164,11 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>local signature</source>
-        <translation type="unfinished"/>
+        <translation>Lokale Signatur</translation>
     </message>
     <message>
         <source>cloud signature</source>
-        <translation type="unfinished"/>
+        <translation>Cloud-Signatur</translation>
     </message>
 </context>
 <context>
@@ -15178,31 +15182,31 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     <name>KxPdfCaTableWidget</name>
     <message>
         <source>End Time</source>
-        <translation type="unfinished"/>
+        <translation>Endzeit</translation>
     </message>
     <message>
         <source>Issuer</source>
-        <translation type="unfinished"/>
+        <translation>Ausstellende Person</translation>
     </message>
     <message>
         <source>CA name</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsname</translation>
     </message>
     <message>
         <source>purpose</source>
-        <translation type="unfinished"/>
+        <translation>Zweck</translation>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"/>
+        <translation>Startzeit</translation>
     </message>
     <message>
         <source>no content</source>
-        <translation type="unfinished"/>
+        <translation>kein Inhalt</translation>
     </message>
     <message>
         <source>Deadline Time</source>
-        <translation type="unfinished"/>
+        <translation>Ablaufzeit</translation>
     </message>
 </context>
 <context>
@@ -15217,7 +15221,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>In reine Bild-PDF konvertieren</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
@@ -15260,7 +15264,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Signiert von „%1“.</translation>
     </message>
     <message>
         <source>Verify the signature result</source>
@@ -15268,7 +15272,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>Signature attribute</source>
-        <translation type="unfinished"/>
+        <translation>Signaturattribut</translation>
     </message>
     <message>
         <source>Form</source>
@@ -15349,15 +15353,15 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>details info</source>
-        <translation type="unfinished"/>
+        <translation>Detail</translation>
     </message>
     <message>
         <source>common info</source>
-        <translation type="unfinished"/>
+        <translation>allgemeine Informationen</translation>
     </message>
     <message>
         <source>ca details</source>
-        <translation type="unfinished"/>
+        <translation>Details zum digitalen Zertifikat</translation>
     </message>
 </context>
 <context>
@@ -15368,7 +15372,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>ca encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Zertifikatsbasierte Verschlüsselung</translation>
     </message>
 </context>
 <context>
@@ -15379,7 +15383,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>ca import</source>
-        <translation type="unfinished"/>
+        <translation>Digitales Zertifikat importieren</translation>
     </message>
 </context>
 <context>
@@ -15499,7 +15503,7 @@ Gelöschte Seiten können nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>longin</source>
-        <translation type="unfinished"/>
+        <translation>Anmelden</translation>
     </message>
 </context>
 <context>
@@ -15667,50 +15671,50 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <name>KRbSignature</name>
     <message>
         <source>local signature</source>
-        <translation type="unfinished"/>
+        <translation>Lokale Signatur</translation>
     </message>
     <message>
         <source>Synchronous success</source>
-        <translation>Synchronisieren erfolgreich</translation>
+        <translation>Synchronisiert.</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Aktualisieren</translation>
+        <translation>Erneut versuchen</translation>
     </message>
     <message>
         <source>Synchronization failure</source>
-        <translation>Synchronisierung fehlgeschlagen, bitte</translation>
+        <translation>Sync-Fehler.</translation>
     </message>
     <message>
         <source>cloud signature</source>
-        <translation type="unfinished"/>
+        <translation>Cloud-Signatur</translation>
     </message>
     <message>
         <source>In the synchronous</source>
-        <translation>Synchronisieren...</translation>
+        <translation>Sync läuft...</translation>
     </message>
 </context>
 <context>
     <name>KxPdfLdpGuideDialog</name>
     <message>
         <source>No more reminders</source>
-        <translation type="unfinished"/>
+        <translation>Keine weiteren Erinnerungen</translation>
     </message>
     <message>
         <source>Enable WPS PDF association protection</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Assoziationsschutz aktivieren</translation>
     </message>
     <message>
         <source>It is recommended to turn on protection. The protected PDF file is opened by WPS by default.</source>
-        <translation type="unfinished"/>
+        <translation>Es wird empfohlen, die Schutzfunktion zu aktivieren. Die geschützten PDF-Dateien werden standardmäßig mit WPS geöffnet.</translation>
     </message>
     <message>
         <source>Turn on protection</source>
-        <translation type="unfinished"/>
+        <translation>Schutz einschalten</translation>
     </message>
     <message>
         <source>Why protect?</source>
-        <translation type="unfinished"/>
+        <translation>Warum wird Schutz benötigt?</translation>
     </message>
 </context>
 <context>
@@ -15732,22 +15736,22 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <name>KxPdfGuideUpVipDialog</name>
     <message>
         <source>Log in using</source>
-        <translation type="unfinished"/>
+        <translation>Hintergründe ausblenden</translation>
     </message>
     <message>
         <source>if is VIP then</source>
-        <translation type="unfinished"/>
+        <translation>VIPs können</translation>
     </message>
 </context>
 <context>
     <name>KxPdfPayFunctionTipsDialog</name>
     <message>
         <source>Log in using</source>
-        <translation type="unfinished"/>
+        <translation>nach der Anmeldung</translation>
     </message>
     <message>
         <source>if is VIP then</source>
-        <translation type="unfinished"/>
+        <translation>VIPs können</translation>
     </message>
     <message>
         <source>upgrade VIP</source>
@@ -15755,7 +15759,7 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     </message>
     <message>
         <source>click for update</source>
-        <translation type="unfinished"/>
+        <translation>Zum Aktualisieren klicken</translation>
     </message>
 </context>
 <context>
@@ -15857,7 +15861,7 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     </message>
     <message>
         <source>Close Panel</source>
-        <translation type="unfinished"/>
+        <translation>Bereich schließen</translation>
     </message>
 </context>
 <context>
@@ -15908,7 +15912,7 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <name>Tips</name>
     <message>
         <source>Please add pictures below 18M</source>
-        <translation type="unfinished"/>
+        <translation>Nicht genügend Arbeitsspeicher. Die Fortsetzung des Betriebs kann dazu führen, dass die Anwendung nicht mehr funktioniert. Verringern Sie die Bildgröße und versuchen Sie es erneut.</translation>
     </message>
 </context>
 <context>
@@ -15926,7 +15930,7 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <name>KxPdfUpdateWaterMarkCommand</name>
     <message>
         <source>Cannot find waterMark that can be updated in the file.If you can see the watermark, it cannot be updated because it is not a standard watermark format.</source>
-        <translation type="unfinished"/>
+        <translation>Es konnte kein Wasserzeichen erkannt werden, das in der Datei aktualisiert werden kann. Das Wasserzeichen, das Sie sehen, hat möglicherweise kein Standardformat und kann daher nicht aktualisiert werden.</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -15966,7 +15970,7 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <name>KxPdfShapeEndStyleWidget</name>
     <message>
         <source>End Arrow</source>
-        <translation>Ende</translation>
+        <translation>Endpfeil</translation>
     </message>
 </context>
 <context>
@@ -15987,7 +15991,7 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <name>KxPdfExtractPageTask</name>
     <message>
         <source>Unable to name#%1</source>
-        <translation type="unfinished"/>
+        <translation>#%1 kann nicht benannt werden</translation>
     </message>
     <message>
         <source>#</source>
@@ -16028,7 +16032,8 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     <message>
         <source>Can't Find File.
 For File Lost or Path Changed!</source>
-        <translation type="unfinished"/>
+        <translation>Datei nicht gefunden.
+Die Datei kann verloren gehen oder der Dateipfad kann geändert werden.</translation>
     </message>
     <message>
         <source>No file found!</source>
@@ -16296,14 +16301,14 @@ melden Sie sich an, um WPS Office zu verwenden.</translation>
     <name>KxEbookFontWidget</name>
     <message>
         <source>AutoFont</source>
-        <translation type="unfinished"/>
+        <translation>Auto</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCustomCommand</name>
     <message>
         <source>Bookmark Shortcut key changed to Ctrl + B</source>
-        <translation type="unfinished"/>
+        <translation>Lesezeichen-Tastenkombination geändert in Strg + B</translation>
     </message>
 </context>
 <context>
@@ -16317,7 +16322,7 @@ melden Sie sich an, um WPS Office zu verwenden.</translation>
     <name>KxPdfScanDialog</name>
     <message>
         <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
-        <translation type="unfinished"/>
+        <translation>Der aktuelle Scanner kann in Betrieb sein. Möchten Sie den Scanner wirklich beenden und das Fenster schließen?</translation>
     </message>
 </context>
 <context>
