@@ -1,5 +1,12 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de_DE">
 <context>
+    <name>KTabbarRecommendWidget</name>
+    <message>
+        <source>Try</source>
+        <translation>Ausprobieren</translation>
+    </message>
+</context>
+<context>
     <name>StackedWidget</name>
     <message>
         <source>1000</source>
