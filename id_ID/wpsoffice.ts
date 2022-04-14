@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Source directory</source>
-        <translation type="unfinished"/>
+        <translation>Direktori sumber</translation>
     </message>
     <message>
         <source>Light</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Tab 1</translation>
     </message>
     <message>
         <source>Recovery options</source>
@@ -59,15 +59,15 @@
     </message>
     <message>
         <source>Automatically switch the appearance with the system, restart the application to take effect</source>
-        <translation type="unfinished"/>
+        <translation>Secara otomatis akan mengalihkan tampilan dengan sistem, nyalakan ulang aplikasi agar berdampak</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Bahasa Terjemahan:</translation>
     </message>
     <message>
         <source>Menu bar:</source>
-        <translation type="unfinished"/>
+        <translation>Bar menu:</translation>
     </message>
     <message>
         <source>Search</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Please sign in, </source>
-        <translation type="unfinished"/>
+        <translation>Silakan masuk, </translation>
     </message>
     <message>
         <source>Shortcuts</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>In order to ensure the best appearance, please restart the application</source>
-        <translation type="unfinished"/>
+        <translation>Untuk memastikan tampilan terbaik, nyalakan ulang aplikasi</translation>
     </message>
     <message>
         <source>Go Premium</source>
@@ -95,11 +95,11 @@
     </message>
     <message>
         <source>Language switch takes effect after restart. Please restart.</source>
-        <translation type="unfinished"/>
+        <translation>Pengalihan bahasa akan berdampak setelah penyalaan ulang. Nyalakan ulang.</translation>
     </message>
     <message>
         <source>Documents browser:</source>
-        <translation type="unfinished"/>
+        <translation>Browser dokumen:</translation>
     </message>
     <message>
         <source>File Locations</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>When creating a new work area:</source>
-        <translation type="unfinished"/>
+        <translation>Saat membuat area kerja baru:</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Follow system settings(language)</source>
-        <translation type="unfinished"/>
+        <translation>Ikuti pengaturan sistem(bahasa)</translation>
     </message>
     <message>
         <source>Default</source>
@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>This setting takes effect after restart. Please restart.</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan ini akan berdampak setelah penyalaan ulang. Nyalakan ulang.</translation>
     </message>
     <message>
         <source>Cloud Sync</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>Save Exported PDF Files to:</source>
-        <translation type="unfinished"/>
+        <translation>Simpan File PDF yang Diekspor ke:</translation>
     </message>
     <message>
         <source>Backup Center</source>
@@ -147,11 +147,11 @@
     </message>
     <message>
         <source>English (US)</source>
-        <translation type="unfinished"/>
+        <translation>Inggris (AS)</translation>
     </message>
     <message>
         <source>Save Converted PDF Files to:</source>
-        <translation type="unfinished"/>
+        <translation>Simpan File PDF yang Dikonversi ke:</translation>
     </message>
     <message>
         <source>General</source>
@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Chinese (Simplified)</source>
-        <translation type="unfinished"/>
+        <translation>Mandarin (Modern)</translation>
     </message>
 </context>
 <context>
@@ -552,15 +552,15 @@
     </message>
     <message>
         <source>License Agreements</source>
-        <translation type="unfinished"/>
+        <translation>Perjanjian Lisensi</translation>
     </message>
     <message>
         <source>Start Now</source>
-        <translation type="unfinished"/>
+        <translation>Mulai Sekarang</translation>
     </message>
     <message>
         <source>Privacy Policies</source>
-        <translation type="unfinished"/>
+        <translation>Kebijakan Privasi</translation>
     </message>
 </context>
 <context>
@@ -963,15 +963,15 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Upgrade vip expansion to 365G.</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan ke Premium dan perluas kapasitas penyimpanan hingga 365 GB.</translation>
     </message>
     <message>
         <source>WPS Diagnositic</source>
-        <translation type="unfinished"/>
+        <translation>Alat Diagnostik WPS</translation>
     </message>
     <message>
         <source>New version is available, please lookup cloudfile state.</source>
-        <translation type="unfinished"/>
+        <translation>Tersedia versi baru, silakan cari status file di cloud.</translation>
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
@@ -1039,11 +1039,11 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>File exceeds %1 upload limit.</source>
-        <translation type="unfinished"/>
+        <translation>File melampaui %1 batas unggah.</translation>
     </message>
     <message>
         <source>Account was logged out. Please log in again.</source>
-        <translation type="unfinished"/>
+        <translation>Akun telah keluar. Silakan masuk lagi.</translation>
     </message>
     <message>
         <source>Details and diagnosis</source>
@@ -1063,7 +1063,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Your WPS cloud space is full.</source>
-        <translation type="unfinished"/>
+        <translation>Ruang cloud WPS Anda sudah penuh.</translation>
     </message>
     <message>
         <source>Refresh File</source>
@@ -1091,11 +1091,11 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Upgrade vip, upload up to %1 of files.</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan ke Premium dan unggah file hingga %1 GB.</translation>
     </message>
     <message>
         <source>Uploading files over %1 is currently not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Mengunggah file di atas %1 saat ini tidak didukung.</translation>
     </message>
 </context>
 <context>
@@ -1121,16 +1121,17 @@ Pilih nama file lain.</translation>
     <name>KForceLoginModalWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>No, thanks</source>
-        <translation type="unfinished"/>
+        <translation>Tidak, terima kasih</translation>
     </message>
     <message>
         <source>
 Log in to enjoy more WPS Office editing functions and services.</source>
-        <translation type="unfinished"/>
+        <translation>
+Masuk untuk menikmati lebih banyak fungsi dan layanan pengeditan WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -1196,7 +1197,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesional</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -1204,11 +1205,11 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>You have opened some dialog boxes. To exit your account, please close them first, and then close all open files.</source>
-        <translation type="unfinished"/>
+        <translation>Ada beberapa kotak dialog yang terbuka. Anda harus menutup kotak dialog dan dokumen yang terbuka sebelum keluar dari akun Anda.</translation>
     </message>
     <message>
         <source>Dialog and Files Still Open</source>
-        <translation type="unfinished"/>
+        <translation>Tutup dulu kotak dialog dan dokumen yang terbuka.</translation>
     </message>
     <message>
         <source>WPS/Word Files</source>
@@ -1240,7 +1241,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Ofd Files</source>
-        <translation type="unfinished"/>
+        <translation>File Ofd</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -1264,7 +1265,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Image Files</source>
-        <translation type="unfinished"/>
+        <translation>File Gambar</translation>
     </message>
     <message>
         <source>Close force</source>
@@ -1296,7 +1297,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Recorded and saved videos can be found here</source>
-        <translation type="unfinished"/>
+        <translation>Video yang direkam dan disimpan dapat ditemukan di sini</translation>
     </message>
     <message>
         <source>Query Files</source>
@@ -1308,15 +1309,15 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>File must be uploaded to Cloud before sharing. Continue?</source>
-        <translation type="unfinished"/>
+        <translation>File harus diunggah ke Cloud sebelum berbagi. Lanjutkan?</translation>
     </message>
     <message>
         <source>Ebook Files</source>
-        <translation type="unfinished"/>
+        <translation>E-buku</translation>
     </message>
     <message>
         <source>New Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Ruang Kerja Baru</translation>
     </message>
     <message>
         <source>XML Files</source>
@@ -1359,14 +1360,14 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Checking for update...</source>
-        <translation type="unfinished"/>
+        <translation>Memeriksa pembaruan...</translation>
     </message>
 </context>
 <context>
     <name>KPromeCloudSvrReinstallDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>FAQ</source>
@@ -1377,7 +1378,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeFallbackBubble</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1391,7 +1392,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeMainWindow</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>New</source>
@@ -1411,11 +1412,11 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Star Items</source>
-        <translation type="unfinished"/>
+        <translation>Berbintang</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Recheck and restart WPS</source>
@@ -1423,16 +1424,17 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Cannot open file, unsupported file format!
 (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuka file. Format file tidak mendukung.
+(%1)</translation>
     </message>
     <message>
         <source>Open tip</source>
-        <translation type="unfinished"/>
+        <translation>Buka Tips</translation>
     </message>
     <message>
         <source>Blank Document</source>
@@ -1444,7 +1446,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Blank Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Spreadsheet Kosong</translation>
     </message>
     <message>
         <source>Close Workspace</source>
@@ -1459,7 +1461,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Activate now</source>
-        <translation type="unfinished"/>
+        <translation>Aktivasi sekarang</translation>
     </message>
 </context>
 <context>
@@ -1525,7 +1527,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Keep existing settings</source>
-        <translation type="unfinished"/>
+        <translation>Pertahankan pengaturan yang ada</translation>
     </message>
 </context>
 <context>
@@ -1796,7 +1798,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>here</source>
-        <translation type="unfinished"/>
+        <translation>di sini</translation>
     </message>
     <message>
         <source>This function needs to be activated before use.</source>
@@ -2029,7 +2031,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2041,7 +2043,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2186,15 +2188,15 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Your opinion is really important! Please help us do better!</source>
-        <translation type="unfinished"/>
+        <translation>Pendapat Anda sangat penting! Bantu kami melakukan yang lebih baik!</translation>
     </message>
     <message>
         <source>What do you think of WPS Office for Mac?</source>
-        <translation type="unfinished"/>
+        <translation>Apa menurut Anda tentang WPS Office untuk Mac?</translation>
     </message>
     <message>
         <source>You must have had a very angry experience! Please tell us, we will try to adjust!</source>
-        <translation type="unfinished"/>
+        <translation>Anda pasti telah mengalami pengalaman yang sangat menjengkelkan! Harap beritahu, kami akan berusaha memperbaikinya!</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2202,15 +2204,15 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>We&apos;re so sorry to upset you.</source>
-        <translation type="unfinished"/>
+        <translation>Mohon maaf telah membuat Anda kesal.</translation>
     </message>
     <message>
         <source>I like WPS Office!</source>
-        <translation type="unfinished"/>
+        <translation>Saya suka WPS Office!</translation>
     </message>
     <message>
         <source>How can we improve?</source>
-        <translation type="unfinished"/>
+        <translation>Bagaimana cara kami meningkatkan?</translation>
     </message>
 </context>
 <context>
@@ -2260,11 +2262,11 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     <name>KPromeWindowLoadingWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>save</source>
-        <translation type="unfinished"/>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -2296,7 +2298,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>You can, </source>
@@ -2304,7 +2306,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>upgrade vip</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan VIP</translation>
     </message>
     <message>
         <source>Download Failed</source>
@@ -2517,7 +2519,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Restart the software to complete the update.</source>
-        <translation type="unfinished"/>
+        <translation>Nyalakan ulang perangkat lunak untuk menyelesaikan pembaruan.</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -2525,7 +2527,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Download failed, you need to download the installation package again.</source>
-        <translation type="unfinished"/>
+        <translation>Pengunduhan gagal, Anda harus mengunduh paket instalasi lagi.</translation>
     </message>
 </context>
 <context>
@@ -3433,7 +3435,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Premium</source>
-        <translation type="unfinished"/>
+        <translation>Premium</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
@@ -3448,7 +3450,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Mind Map</source>
-        <translation type="unfinished"/>
+        <translation>Peta Pikiran</translation>
     </message>
     <message>
         <source>Docer</source>
@@ -3468,7 +3470,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Flow Chart</source>
-        <translation type="unfinished"/>
+        <translation>Bagan Alur</translation>
     </message>
 </context>
 <context>
@@ -3483,7 +3485,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Star Items</source>
-        <translation type="unfinished"/>
+        <translation>Berbintang</translation>
     </message>
     <message>
         <source>Blank Document</source>
@@ -3491,7 +3493,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Blank Spreadsheets</source>
-        <translation type="unfinished"/>
+        <translation>Spreadsheet Kosong</translation>
     </message>
 </context>
 <context>
@@ -3569,23 +3571,23 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>2. You can also log back in, login complete will automatically go off-line the earliest login device</source>
-        <translation type="unfinished"/>
+        <translation>2. Anda juga dapat masuk lagi. Setelah Anda berhasil masuk, perangkat yang masuk paling awal secara otomatis akan terputus.</translation>
     </message>
     <message>
         <source>Personal Center - Online Devices</source>
-        <translation type="unfinished"/>
+        <translation>Pusat Pribadi - Perangkat Online</translation>
     </message>
     <message>
         <source>You can resolve the issue by:</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat menyelesaikan masalah dengan:</translation>
     </message>
     <message>
         <source>The number of login devices under your account has reached the maximum limit, the current device is automatically offline</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah perangkat yang tercatat masuk dalam akun Anda telah mencapai limit maksimum, dan perangkat ini secara otomatis akan terputus.</translation>
     </message>
     <message>
         <source>WPS Account is already offline on the current device</source>
-        <translation type="unfinished"/>
+        <translation>Akun WPS sudah offline di perangkat saat ini</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -3593,22 +3595,22 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Shut down</source>
-        <translation type="unfinished"/>
+        <translation>Matikan</translation>
     </message>
     <message>
         <source>Sign back in</source>
-        <translation type="unfinished"/>
+        <translation>Masuk kembali</translation>
     </message>
 </context>
 <context>
     <name>KPromeStartPageSubPage</name>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesional</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -3616,11 +3618,11 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>WPS flow</source>
-        <translation type="unfinished"/>
+        <translation>Diagram Alur WPS</translation>
     </message>
     <message>
         <source>WPS mind</source>
-        <translation type="unfinished"/>
+        <translation>Peta Pikiran WPS</translation>
     </message>
     <message>
         <source>WPS et</source>
@@ -3632,11 +3634,11 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>WPS official document</source>
-        <translation type="unfinished"/>
+        <translation>WPS official document</translation>
     </message>
     <message>
         <source>WPS ofd</source>
-        <translation type="unfinished"/>
+        <translation>OFD WPS</translation>
     </message>
     <message>
         <source>WPS pdf</source>
@@ -3718,7 +3720,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Papan Klip Cloud</translation>
     </message>
     <message>
         <source>Update Now</source>
@@ -3738,7 +3740,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Syncing</source>
-        <translation type="unfinished"/>
+        <translation>Menyinkronkan</translation>
     </message>
     <message>
         <source>Retry now</source>
@@ -3758,7 +3760,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Next time</source>
-        <translation type="unfinished"/>
+        <translation>Lain kali</translation>
     </message>
 </context>
 <context>
@@ -3803,7 +3805,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Have read and agreed to Kingsoft Office Software</source>
-        <translation type="unfinished"/>
+        <translation>Telah membaca dan menyetujui Perangkat Lunak Kingsoft Office</translation>
     </message>
     <message>
         <source>about:blank</source>
@@ -3811,7 +3813,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>I &amp;Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Saya &amp;Konfirmasi</translation>
     </message>
     <message>
         <source>I &amp;Accept</source>
@@ -3819,11 +3821,11 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>I &amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Saya &amp;Batal</translation>
     </message>
     <message>
         <source>Kingsoft Office Software License Agreement and Privacy Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Perjanjian Lisensi Perangkat Lunak dan Perjanjian Privasi Kingsoft Office</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -4149,7 +4151,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>To switch to dark mode, select Mac menu  &gt; System Preferences &gt; General &gt; Dark mode</source>
-        <translation type="unfinished"/>
+        <translation>Untuk beralih ke mode gelap, pilih Mac menu  &gt; System Preferences &gt; General &gt; Dark mode</translation>
     </message>
 </context>
 <context>
@@ -4331,7 +4333,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Change page order in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Ubah urutan halaman dalam PDF</translation>
     </message>
     <message>
         <source>Edit text in PDF</source>
@@ -4339,7 +4341,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Cloud storage</source>
-        <translation type="unfinished"/>
+        <translation>Penyimpanan Cloud</translation>
     </message>
     <message>
         <source>Template Premium</source>
@@ -4347,11 +4349,11 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Online image</source>
-        <translation type="unfinished"/>
+        <translation>Gambar online</translation>
     </message>
     <message>
         <source>Online chart</source>
-        <translation type="unfinished"/>
+        <translation>Grafik online</translation>
     </message>
     <message>
         <source>1GB Cloud Space</source>
@@ -4367,15 +4369,15 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Files repair</source>
-        <translation type="unfinished"/>
+        <translation>Perbaikan file</translation>
     </message>
     <message>
         <source>Insert page number in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan nomor halaman dalam PDF</translation>
     </message>
     <message>
         <source>No ads</source>
-        <translation type="unfinished"/>
+        <translation>Tanpa iklan</translation>
     </message>
     <message>
         <source>Registered User</source>
@@ -4383,7 +4385,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Add color or picture background to the PDF page in bulk.</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan warna atau latar belakang gambar ke halaman PDF secara massal.</translation>
     </message>
     <message>
         <source>WPS Office is a Cross-platform office suite with PDF Editor,Templates and other powerful tools.</source>
@@ -4395,11 +4397,11 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Picture to text(OCR)</source>
-        <translation type="unfinished"/>
+        <translation>Gambar ke teks(OCR)</translation>
     </message>
     <message>
         <source>WPS Premium</source>
@@ -4407,7 +4409,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Insert/extract pages in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan/ekstrak halaman dalam PDF</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
@@ -4415,11 +4417,11 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Unlimited downloads of templates</source>
-        <translation type="unfinished"/>
+        <translation>Pengunduhan templat tak terbatas</translation>
     </message>
     <message>
         <source>Insert signature in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan tanda tangan dalam PDF</translation>
     </message>
     <message>
         <source>Free 7-day trial</source>
@@ -4439,15 +4441,15 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>1000+ assets, fonts, info-graphics and more</source>
-        <translation type="unfinished"/>
+        <translation>1000+ aset, font, infografis, dan lain-lain</translation>
     </message>
     <message>
         <source>Insert/edit/delete pictures in PDF</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan/edit/hapus gambar dalam PDF</translation>
     </message>
     <message>
         <source>Backup center</source>
-        <translation type="unfinished"/>
+        <translation>Pusat pencadangan</translation>
     </message>
     <message>
         <source>Choose a plan</source>
@@ -4605,7 +4607,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>MyCenter</source>
-        <translation type="unfinished"/>
+        <translation>Pusat Saya</translation>
     </message>
 </context>
 <context>
@@ -4978,7 +4980,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Open File Cloud Disk Location</source>
-        <translation type="unfinished"/>
+        <translation>Lihat di Penyimpanan WPS Cloud</translation>
     </message>
     <message>
         <source>Opening file...</source>
@@ -4994,7 +4996,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source> (Read-only)</source>
-        <translation type="unfinished"/>
+        <translation> (Hanya baca)</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -5002,7 +5004,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>history version</source>
-        <translation type="unfinished"/>
+        <translation>Versi riwayat</translation>
     </message>
     <message>
         <source>transfer to my device</source>
@@ -5026,7 +5028,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source> (Shared)</source>
-        <translation type="unfinished"/>
+        <translation> (Dibagi)</translation>
     </message>
     <message>
         <source>Reloading file...</source>
@@ -6101,7 +6103,7 @@ Jika kesalahan berlanjut, kirimkan laporan kesalahan tersebut kepada kami.</tran
     </message>
     <message>
         <source>Sorry! A problem has occurred</source>
-        <translation type="unfinished"/>
+        <translation>Kami mengalami kesalahan dan tidak dapat memulihkannya.</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -6111,7 +6113,7 @@ Jika kesalahan berlanjut, kirimkan laporan kesalahan tersebut kepada kami.</tran
         <source>WPS Office crashed for some reasons.
 To continue your work, you need to reopen your files. Please be aware that unsaved changes might be lost.
 Sorry for the inconvenience.</source>
-        <translation type="unfinished"/>
+        <translation>Maaf. WPS Office mengalami kerusakan karena beberapa alasan. Anda harus membuka ulang file yang sedang Anda edit. Perlu diketahui bahwa perubahan yang belum disimpan mungkin akan hilang.</translation>
     </message>
     <message>
         <source>Auto Backup enabled; If there is a backup file of this document, the last backup file will be loaded</source>
@@ -6852,7 +6854,7 @@ Sorry for the inconvenience.</source>
     <name>KCloudSyncRetainDialog</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
 </context>
 <context>
@@ -6956,7 +6958,7 @@ dan Anda dapat melihatnya di Pusat pencadangan.</translation>
     </message>
     <message>
         <source>2019gov</source>
-        <translation type="unfinished"/>
+        <translation>Layanan Pemerintah 2019</translation>
     </message>
     <message>
         <source>Clear (Black)</source>
@@ -7360,7 +7362,7 @@ hingga
     </message>
     <message>
         <source>No longer the default display (the docer mall updates the template, picture and other materials from time to time)</source>
-        <translation type="unfinished"/>
+        <translation>Jangan tampilkan secara default (Mall Templat akan memperbarui templat, gambar, dan materi lainnya dari waktu ke waktu)</translation>
     </message>
 </context>
 <context>
@@ -7371,7 +7373,7 @@ hingga
     </message>
     <message>
         <source>Open this Window in a new workspace</source>
-        <translation type="unfinished"/>
+        <translation>Buka Jendela ini di ruang kerja baru</translation>
     </message>
     <message>
         <source>close other tabs</source>
@@ -7398,7 +7400,7 @@ hingga
     </message>
     <message>
         <source>No longer the default display (the docer mall updates the template, picture and other materials from time to time)</source>
-        <translation type="unfinished"/>
+        <translation>Jangan tampilkan secara default (Mall Templat akan memperbarui templat, gambar, dan materi lainnya dari waktu ke waktu)</translation>
     </message>
 </context>
 <context>
@@ -7451,7 +7453,7 @@ hingga
     <name>KPromeStartup</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesional</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -7475,7 +7477,7 @@ hingga
     </message>
     <message>
         <source>WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Official Document</translation>
     </message>
     <message>
         <source>WPS PDF</source>
@@ -7611,7 +7613,7 @@ hingga
     </message>
     <message>
         <source>User Login</source>
-        <translation type="unfinished"/>
+        <translation>Akses masuk Pengguna</translation>
     </message>
     <message>
         <source>You are not currently logged in and will user WPS as a guest</source>
@@ -7685,11 +7687,11 @@ hingga
     <name>KDownloadReplyDlg</name>
     <message>
         <source>Downloading the language, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Mengunduh bahasa, harap tunggu...</translation>
     </message>
     <message>
         <source>Failed to download language,try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengunduh bahasa, coba lagi nanti.</translation>
     </message>
 </context>
 <context>
@@ -8050,7 +8052,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <name>KPromeInfoCenterPage</name>
     <message>
         <source>Version And Account Info</source>
-        <translation type="unfinished"/>
+        <translation>Info Versi dan Akun</translation>
     </message>
 </context>
 <context>
@@ -8092,7 +8094,7 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Jendela Sebelumnya</translation>
     </message>
     <message>
         <source>WPS Office shortcuts</source>
@@ -8100,11 +8102,11 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>Show Next Window</source>
-        <translation type="unfinished"/>
+        <translation>Show Next Window</translation>
     </message>
     <message>
         <source>New Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Ruang Kerja Baru</translation>
     </message>
 </context>
 <context>
@@ -8129,11 +8131,11 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
     <message>
         <source>New Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Resmi Baru</translation>
     </message>
     <message>
         <source>New Document From Template</source>
-        <translation type="unfinished"/>
+        <translation>Buat dari Templat</translation>
     </message>
 </context>
 <context>
@@ -8346,7 +8348,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindahkan.</translation>
     </message>
     <message>
         <source>the files in cloud document cache will be cleared, please check and backup to avoid losing some important files</source>
-        <translation type="unfinished"/>
+        <translation>file-file di cache dokumen cloud akan dikosongkan, silakan cek dan cadangkan agar file-file yang penting tidak hilang</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -8354,7 +8356,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindahkan.</translation>
     </message>
     <message>
         <source>When you log in again, it will take a few more minutes to access files on cloud document</source>
-        <translation type="unfinished"/>
+        <translation>Ketika Anda masuk lagi, perlu beberapa menit untuk mengakses file di dokumen cloud</translation>
     </message>
     <message>
         <source>You can not access the modify record of cloud file when you log out. Clearing records will further protect you privacy</source>
@@ -8740,7 +8742,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindahkan.</translation>
     <name>KPromeHeaderVerInfo</name>
     <message>
         <source>Version Info</source>
-        <translation type="unfinished"/>
+        <translation>Info Versi</translation>
     </message>
 </context>
 <context>
@@ -8892,7 +8894,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindahkan.</translation>
     <name>KFlowMindLoadingWidget</name>
     <message>
         <source>Loading webpage, please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Memuat halaman web, harap tunggu...</translation>
     </message>
 </context>
 <context>
@@ -9038,7 +9040,8 @@ File ini mungkin telah diganti nama, dihapus, atau dipindahkan.</translation>
     <message>
         <source>Copyright © 1988-2020 Kingsoft Office Corporation.
 All Rights Reserved.</source>
-        <translation type="unfinished"/>
+        <translation>Hak Cipta © 1988-2020 Kingsoft Office Corporation.
+Hak Cipta Dilindungi Undang-Undang.</translation>
     </message>
     <message>
         <source>Copyright © 1988-2021 Kingsoft Office Corporation.
@@ -9047,11 +9050,11 @@ All Rights Reserved.</source>
     </message>
     <message>
         <source>Check for Update</source>
-        <translation type="unfinished"/>
+        <translation>Cek Pembaruan</translation>
     </message>
     <message>
         <source>Version </source>
-        <translation type="unfinished"/>
+        <translation>Versi </translation>
     </message>
 </context>
 <context>
@@ -9076,7 +9079,7 @@ All Rights Reserved.</source>
     <name>KxQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>Jika ada pertanyaan, silakan hubungi %1 Layanan Pelanggan WPS, atau pindai kode QR Layanan Pelanggan di sisi kiri.</translation>
     </message>
 </context>
 <context>
@@ -9181,22 +9184,22 @@ All Rights Reserved.</source>
     <name>KCirclePage</name>
     <message>
         <source>loading</source>
-        <translation type="unfinished"/>
+        <translation>Memuat</translation>
     </message>
 </context>
 <context>
     <name>KTristateWidget</name>
     <message>
         <source>loading</source>
-        <translation type="unfinished"/>
+        <translation>Memuat</translation>
     </message>
     <message>
         <source>reload</source>
-        <translation type="unfinished"/>
+        <translation>muat ulang</translation>
     </message>
     <message>
         <source>Failed to connect to internet,please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Koneksi jaringan gagal. Silakan coba lagi.</translation>
     </message>
 </context>
 <context>
@@ -9317,15 +9320,16 @@ All Rights Reserved.</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Command+N</source>
-        <translation type="unfinished"/>
+        <translation>Tab Baru
+Buat tab kosong dengan Command+N</translation>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Baru</translation>
+        <translation>Tab Baru</translation>
     </message>
     <message>
         <source>DocerTab</source>
-        <translation type="unfinished"/>
+        <translation>Templat</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -9338,8 +9342,8 @@ Swiftly create a blank tab of the same type with Command+N</source>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Baru
-Buat tab dokumen baru menggunakan Ctrl+N</translation>
+        <translation>Tab Baru
+Buat tab kosong dengan Ctrl+N</translation>
     </message>
 </context>
 <context>
@@ -9476,7 +9480,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Restart the software to complete the update.</source>
-        <translation type="unfinished"/>
+        <translation>Nyalakan ulang perangkat lunak untuk menyelesaikan pembaruan.</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -9487,7 +9491,7 @@ p, li { white-space: pre-wrap; }
     <name>KPromePermissionDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -9502,7 +9506,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
     <message>
         <source>Confirm to exit?</source>
@@ -9792,11 +9796,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>guest account</source>
-        <translation type="unfinished"/>
+        <translation>akun tamu</translation>
     </message>
     <message>
         <source>login immediately</source>
-        <translation type="unfinished"/>
+        <translation>Masuk Sekarang</translation>
     </message>
     <message>
         <source>Unlogin</source>
@@ -9848,7 +9852,7 @@ p, li { white-space: pre-wrap; }
     <name>KPromeTempLoginWidget</name>
     <message>
         <source>Login Temporarily</source>
-        <translation type="unfinished"/>
+        <translation>Masuk Sementara</translation>
     </message>
 </context>
 <context>
@@ -9895,12 +9899,13 @@ p, li { white-space: pre-wrap; }
     <name>KAfterSalesArrowWidget</name>
     <message>
         <source>WPS after-sales service</source>
-        <translation type="unfinished"/>
+        <translation>Layanan purna jual WPS</translation>
     </message>
     <message>
         <source>Scan the code to follow for exclusive services
 Customer service hotline:</source>
-        <translation type="unfinished"/>
+        <translation>Pindai kode QR untuk mengikuti kami dan dapatkan layanan eksklusif
+Nomor saluran siaga layanan pelanggan:</translation>
     </message>
 </context>
 <context>
@@ -9911,7 +9916,7 @@ Customer service hotline:</source>
     </message>
     <message>
         <source>Rate it</source>
-        <translation type="unfinished"/>
+        <translation>Beri nilai</translation>
     </message>
 </context>
 <context>
@@ -9925,41 +9930,41 @@ Customer service hotline:</source>
     <name>KPromeStandaloneMoreMenu</name>
     <message>
         <source>report</source>
-        <translation type="unfinished"/>
+        <translation>Laporkan Konten yang Tidak Pantas</translation>
     </message>
     <message>
         <source>feed back</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
 </context>
 <context>
     <name>KPromeTabWebAppMenu</name>
     <message>
         <source>report</source>
-        <translation type="unfinished"/>
+        <translation>Laporkan Konten yang Tidak Pantas</translation>
     </message>
     <message>
         <source>feed back</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
     <message>
         <source>refresh page</source>
-        <translation type="unfinished"/>
+        <translation>Segarkan Halaman</translation>
     </message>
 </context>
 <context>
     <name>KPromeWebAppContentWidget</name>
     <message>
         <source>report</source>
-        <translation type="unfinished"/>
+        <translation>Laporkan Konten yang Tidak Pantas</translation>
     </message>
     <message>
         <source>feed back</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
     <message>
         <source>refresh page</source>
-        <translation type="unfinished"/>
+        <translation>Segarkan Halaman</translation>
     </message>
 </context>
 <context>
@@ -10012,11 +10017,11 @@ Customer service hotline:</source>
     <name>KLoadingtipsDefaultWidget</name>
     <message>
         <source>Olympic and Paralympic Winter Games Beijing 2022</source>
-        <translation type="unfinished"/>
+        <translation>undefined</translation>
     </message>
     <message>
         <source>Official Office Collaboration Software Supplier</source>
-        <translation type="unfinished"/>
+        <translation>undefined</translation>
     </message>
     <message>
         <source>Official collaborative office software provider for Beijing 2022 Winter Olympic Games and winter Paralympic Games.</source>
@@ -10117,7 +10122,7 @@ Customer service hotline:</source>
     </message>
     <message>
         <source>No access permissions, please contact Author to enable the access permission.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada izin akses, hubungi Penulis untuk mengaktifkan izin akses tersebut.</translation>
     </message>
     <message>
         <source>The account is offline. Please login again</source>
@@ -10135,11 +10140,11 @@ Customer service hotline:</source>
     <name>KPromeFloatButton</name>
     <message>
         <source>Add Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Tambah Pintasan</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
 </context>
 <context>
@@ -10153,22 +10158,22 @@ Customer service hotline:</source>
     <name>KPromeCheckForUpdateMessageDlg</name>
     <message>
         <source>Update notes:</source>
-        <translation type="unfinished"/>
+        <translation>Catatan pembaruan:</translation>
     </message>
 </context>
 <context>
     <name>KPromeUnloginExitDlg</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
     <message>
         <source>Confirm to exit?</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi keluar?</translation>
     </message>
     <message>
         <source>Exit Now</source>
-        <translation type="unfinished"/>
+        <translation>Keluar</translation>
     </message>
 </context>
 <context>
@@ -10225,7 +10230,7 @@ Customer service hotline:</source>
     <name>KInfoCenterJsApi</name>
     <message>
         <source>Mail Address has been copied to system Clipboard:</source>
-        <translation type="unfinished"/>
+        <translation>Alamat email yang disalin:</translation>
     </message>
 </context>
 <context>
