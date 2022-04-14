@@ -43,7 +43,7 @@ Le niveau sélectionné et tous les niveaux supérieurs seront visibles.</transl
     </message>
     <message>
         <source>OfficialVFont.content</source>
-        <translation>Set vertical font size.</translation>
+        <translation>Définissez la taille de police en mode portrait du texte sélectionné et modifiez la hauteur du texte.</translation>
     </message>
     <message>
         <source>DetailedSettings_TableTools.content</source>
@@ -83,7 +83,7 @@ Le niveau sélectionné et tous les niveaux supérieurs seront visibles.</transl
     </message>
     <message>
         <source>ProofreadOfficial.title</source>
-        <translation>ProofreadOfficial</translation>
+        <translation>Correction de document officiel</translation>
     </message>
     <message>
         <source>FormatPainter.title</source>
@@ -111,7 +111,7 @@ Le niveau sélectionné et tous les niveaux supérieurs seront visibles.</transl
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Impression rapide</translation>
+        <translation>Imprimer directement</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.title</source>
@@ -123,7 +123,7 @@ Le niveau sélectionné et tous les niveaux supérieurs seront visibles.</transl
     </message>
     <message>
         <source>OfficialSingleAgency.title</source>
-        <translation>One Unit</translation>
+        <translation>Émetteur unique</translation>
     </message>
     <message>
         <source>SplitWindow.content</source>
@@ -335,7 +335,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres styles de soulignement.<
     </message>
     <message>
         <source>OfficialUnionAgencies.title</source>
-        <translation>Five Units</translation>
+        <translation>Plusieurs émetteurs</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
@@ -393,7 +393,7 @@ Pour activer cette fonctionnalité, activez l&apos;option Afficher côte à côt
     </message>
     <message>
         <source>FormatProof.title</source>
-        <translation>Format Proofread</translation>
+        <translation>Format corrigé</translation>
     </message>
     <message>
         <source>RecentFontColor2.title</source>
@@ -409,7 +409,7 @@ Pour activer cette fonctionnalité, activez l&apos;option Afficher côte à côt
     </message>
     <message>
         <source>ResetSize.content</source>
-        <translation>Réinitialiser la taille</translation>
+        <translation>Réinitialisez toutes les modifications à la taille de l&apos;image sélectionnée.</translation>
     </message>
     <message>
         <source>InsertFileObject.title</source>
@@ -575,7 +575,7 @@ Lorsque WPS Spreadsheets est fermé, le graphique peut s&apos;afficher normaleme
     </message>
     <message>
         <source>ChartGallery_pro2.content</source>
-        <translation>ChartGallery_pro2 content</translation>
+        <translation>Code-barres fournit différents outils de génération de code-barres, ce qui vous permet de créer et d&apos;insérer rapidement des codes-barres.</translation>
     </message>
     <message>
         <source>Macro.title</source>
@@ -625,11 +625,11 @@ Une plage de texte regroupée ne peut pas être modifiée, sauf dans les zones c
     </message>
     <message>
         <source>PaperCheck.title</source>
-        <translation>PaperCheck.title</translation>
+        <translation>Contrôle de plagiat de thèse</translation>
     </message>
     <message>
         <source>ComposeKit.title</source>
-        <translation>Compose Kit</translation>
+        <translation>Astuces d&apos;écriture</translation>
     </message>
     <message>
         <source>DeleteSection.content</source>
@@ -661,6 +661,10 @@ Vous pouvez empêcher les modifications de mise en forme, imposer le suivi de to
         <translation>Insère automatiquement du texte dans l&apos;en-tête ou le pied de page pour localiser et afficher facilement l&apos;article associé.</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.title</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
         <translation>Modifie les paramètres de police, de paragraphe, de styles et de mise en forme.</translation>
     </message>
@@ -674,7 +678,7 @@ Vous pouvez empêcher les modifications de mise en forme, imposer le suivi de to
     </message>
     <message>
         <source>OfficialDocumentBarcode.content</source>
-        <translation>Generate an official document QR code for the document and insert.</translation>
+        <translation>Générez un code QR de document officiel et insérez-le dans le document.</translation>
     </message>
     <message>
         <source>LastSection.content</source>
@@ -686,7 +690,7 @@ Vous pouvez empêcher les modifications de mise en forme, imposer le suivi de to
     </message>
     <message>
         <source>DocBarcode_pro.title</source>
-        <translation>Document Barcode</translation>
+        <translation>Code QR du document officiel</translation>
     </message>
     <message>
         <source>Separator.content</source>
@@ -740,7 +744,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Modifier l
     </message>
     <message>
         <source>Signature.content</source>
-        <translation>Add a handwritten signature or an image, or enter a signature.</translation>
+        <translation>Ajoutez une signature manuscrite, importez une image de signature ou saisissez une signature.</translation>
     </message>
     <message>
         <source>InsertIndexTables4ZhCnPage.title</source>
@@ -748,7 +752,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Modifier l
     </message>
     <message>
         <source>OfficialZoomTwoPages.title</source>
-        <translation>Multi Page</translation>
+        <translation>Pages multiples</translation>
     </message>
     <message>
         <source>PrintOrder.title</source>
@@ -780,7 +784,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Modifier l
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation>ChartGallery_pro.content</translation>
+        <translation>Prend en charge l&apos;insertion de codes-barres dans plusieurs formats d&apos;encodage</translation>
     </message>
     <message>
         <source>IndexMarkEntry.content</source>
@@ -824,7 +828,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Modifier l
     </message>
     <message>
         <source>CustomBold2.title</source>
-        <translation>Bold2</translation>
+        <translation>Gras</translation>
     </message>
     <message>
         <source>TableBorderColor.content</source>
@@ -912,7 +916,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs de bordure.</tr
         <source>WordTools.content</source>
         <translation>Applique une mise en forme intelligente au document.
 
-Applique une mise en forme intelligente, telle que \&amp;quot;supprimer les espaces\&amp;quot;, \&amp;quot;mettre en retrait de deux caractères la première ligne d&apos;un paragraphe\&amp;quot;, et d&apos;autres options spécifiées dans le document.</translation>
+Applique une mise en forme intelligente, telle que \&quot;supprimer les espaces\&quot;, \&quot;mettre en retrait de deux caractères la première ligne d&apos;un paragraphe\&quot;, et d&apos;autres options spécifiées dans le document.</translation>
     </message>
     <message>
         <source>TrackChanges2.title</source>
@@ -968,7 +972,7 @@ Applique une mise en forme intelligente, telle que \&amp;quot;supprimer les espa
     </message>
     <message>
         <source>OfficialPDFCompress.title</source>
-        <translation>PDF Compress</translation>
+        <translation>Compression de PDF</translation>
     </message>
     <message>
         <source>InsertBlankPage2.content</source>
@@ -1014,7 +1018,7 @@ Cette option est disponible lorsque la grille est définie.</translation>
     </message>
     <message>
         <source>OfficialExportOFD.content</source>
-        <translation>Save the document as an OFD.</translation>
+        <translation>Sortez le document sous forme de document OFD.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.title</source>
@@ -1068,7 +1072,7 @@ Cliquez sur la flèche pour sélectionner les paramètres détaillés du contour
     </message>
     <message>
         <source>OfficialView.title</source>
-        <translation>OfficialView</translation>
+        <translation>Mise en page de documents officiels</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
@@ -1103,6 +1107,10 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
         <translation>Modifier la casse</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
+    </message>
+    <message>
         <source>PageLayoutDetailedSettings.content</source>
         <translation>Contenu PageLayoutDetailedSettings</translation>
     </message>
@@ -1112,7 +1120,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>OfficialSingleRowEdition.title</source>
-        <translation>One-row Edition Info</translation>
+        <translation>Marque pour la modification sur une seule ligne</translation>
     </message>
     <message>
         <source>ShapeSize.content</source>
@@ -1144,7 +1152,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>FormatProof.content</source>
-        <translation>Quick, professional review and correction for official document formats.</translation>
+        <translation>Corriger les formats de documents officiels de façon rapide et professionnelle</translation>
     </message>
     <message>
         <source>InsertIndex.title</source>
@@ -1164,7 +1172,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>InsertForm.title</source>
-        <translation>Insert Form</translation>
+        <translation>Insérer des champs de formulaire</translation>
     </message>
     <message>
         <source>m_Rotate.title</source>
@@ -1188,7 +1196,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>OfficialSeparatingLine.content</source>
-        <translation>Choose a separator and insert it to the document.</translation>
+        <translation>Sélectionnez un séparateur et insérez-le dans le document.</translation>
     </message>
     <message>
         <source>RbTableOutsideBorder.content</source>
@@ -1220,7 +1228,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>OfficialParaTools.content</source>
-        <translation>Click to show common paragraph tools.</translation>
+        <translation>Cliquez pour afficher des outils de paragraphe courants.</translation>
     </message>
     <message>
         <source>HighlightColor.title</source>
@@ -1248,7 +1256,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>InsertHeaderFooterGroup.content</source>
-        <translation>The header footer group style is consist of header,footer,pagenumber at the same time</translation>
+        <translation>L&apos;ensemble est un style d&apos;applications combinées qui inclut des en-têtes, des lignes d&apos;en-tête, des pieds de page et des numéros de page du même style.</translation>
     </message>
     <message>
         <source>COMAddIns.title</source>
@@ -1267,8 +1275,12 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
         <translation>Cliquez pour sélectionner l&apos;endroit où s&apos;affiche le volet de navigation.</translation>
     </message>
     <message>
+        <source>SpellCheckMore.content</source>
+        <translation>Spell Check More</translation>
+    </message>
+    <message>
         <source>DecreaseIndent.title</source>
-        <translation>Réduire le niveau de liste</translation>
+        <translation>Réduire le retrait</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1280,7 +1292,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres effets de remplissage.</
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation>Barcode</translation>
+        <translation>Code-barres</translation>
     </message>
     <message>
         <source>DetailedSettings_wps_PictureTools.title</source>
@@ -1322,7 +1334,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Guide phon
     </message>
     <message>
         <source>OfficialView.content</source>
-        <translation>View the document as it would look as Official document</translation>
+        <translation>L&apos;effet de mise en page est conforme à la version d&apos;écriture de documents officiels.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
@@ -1350,7 +1362,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Guide phon
     </message>
     <message>
         <source>InsertForm.content</source>
-        <translation>Choose different forms to insert into the document, such as text form fields, checkbox form fields, drop-down form fields, etc.</translation>
+        <translation>Sélectionnez différents champs de formulaire à insérer dans le document, tels que des champs de texte, de case à cocher et de liste déroulante.</translation>
     </message>
     <message>
         <source>Proofread.content</source>
@@ -1388,7 +1400,7 @@ Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translati
     </message>
     <message>
         <source>AutoSaveFile_Off.title</source>
-        <translation>Auto Save File</translation>
+        <translation>Enregistrer automatiquement le fichier</translation>
     </message>
     <message>
         <source>m_PageSize.content</source>
@@ -1404,7 +1416,11 @@ Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translati
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.title</source>
-        <translation>Portrait Page</translation>
+        <translation>Insérer la page Portrait</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
@@ -1414,7 +1430,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>OfficialZoomTwoPages.content</source>
-        <translation>Change the zoom scale to show multiple pages in the window.</translation>
+        <translation>Faites un zoom sur le document afin de voir plusieurs pages dans la fenêtre.</translation>
     </message>
     <message>
         <source>ChangeDiagramNum.title</source>
@@ -1456,7 +1472,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
         <source>MatchFields.content</source>
         <translation>L&apos;option Faire correspondre les champs vous permet d&apos;indiquer à WPS Writer la signification des différents champs dans la liste de destinataires.
 
-Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&amp;quot; correspond au champ standard intégré \&amp;quot;Code postal\&amp;quot;.</translation>
+Par exemple, vous pouvez indiquer que votre champ personnalisé \&quot;CP\&quot; correspond au champ standard intégré \&quot;Code postal\&quot;.</translation>
     </message>
     <message>
         <source>PreviousSection.title</source>
@@ -1464,7 +1480,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>OfficialSingleAgency.content</source>
-        <translation>Insert one issue unit to the document.</translation>
+        <translation>Insérer un nom d&apos;émetteur unique dans le document.</translation>
     </message>
     <message>
         <source>ShowTocNavigationPane.title</source>
@@ -1480,7 +1496,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.title</source>
-        <translation>Landscape Page</translation>
+        <translation>Insérer la page Paysage</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
@@ -1488,7 +1504,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>OfficialFont.content</source>
-        <translation>Apply standard official document font and font size to the selected text.</translation>
+        <translation>Définissez rapidement la police et la taille de police des documents officiels standard pour le texte sélectionné.</translation>
     </message>
     <message>
         <source>m_Style2.content</source>
@@ -1500,7 +1516,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>OfficialNormalPageSetup.content</source>
-        <translation>Open the Page Setup dialog box.</translation>
+        <translation>Ouvrez la boîte de dialogue Mise en page.</translation>
     </message>
     <message>
         <source>HeaderFooterOptions.content</source>
@@ -1520,7 +1536,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>InsertMergeFields.content</source>
-        <translation>Insère un champ dans la liste de destinataires de ce document (\&amp;quot;Nom\&amp;quot;, \&amp;quot;Prénom\&amp;quot;, \&amp;quot;Nom de la société\&amp;quot;, \&amp;quot;Nom du service\&amp;quot; ou \&amp;quot;Poste\&amp;quot;, par exemple).</translation>
+        <translation>Insère un champ dans la liste de destinataires de ce document (\&quot;Nom\&quot;, \&quot;Prénom\&quot;, \&quot;Nom de la société\&quot;, \&quot;Nom du service\&quot; ou \&quot;Poste\&quot;, par exemple).</translation>
     </message>
     <message>
         <source>InsertMergeFields.title</source>
@@ -1536,7 +1552,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>OfficialHead.content</source>
-        <translation>Choose a document head to insert to the begining of the document.</translation>
+        <translation>Sélectionnez un en-tête de version pour l&apos;insérer au début du document.</translation>
     </message>
     <message>
         <source>SplitCells.content</source>
@@ -1548,7 +1564,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>OfficialVFont.title</source>
-        <translation>VFont</translation>
+        <translation>Taille de police en mode portrait</translation>
     </message>
     <message>
         <source>Select.content</source>
@@ -1560,7 +1576,7 @@ Par exemple, vous pouvez indiquer que votre champ personnalisé \&amp;quot;CP\&a
     </message>
     <message>
         <source>OfficialHFont.title</source>
-        <translation>HFont</translation>
+        <translation>Taille de police en mode paysage</translation>
     </message>
     <message>
         <source>MergeToDiffNewDoc.content</source>
@@ -1602,7 +1618,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>ChartGallery_pro2.title</source>
-        <translation>Barcode</translation>
+        <translation>Code-barres</translation>
     </message>
     <message>
         <source>EnterParagraphAdjustment.content</source>
@@ -1630,7 +1646,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>OfficialUnionAgencies.content</source>
-        <translation>Insert five issue units to the document.</translation>
+        <translation>Insérez cinq noms d&apos;émetteurs dans le document.</translation>
     </message>
     <message>
         <source>DetailedSettings_HFTools.content</source>
@@ -1638,7 +1654,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>PaperCheck.content</source>
-        <translation>PaperCheck.content</translation>
+        <translation>Coopérez avec des marques officielles bien connues pour contrôler rapidement le plagiat de thèse.</translation>
     </message>
     <message>
         <source>NavigationPane.content</source>
@@ -1662,7 +1678,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres formats de numérotation
     </message>
     <message>
         <source>OfficialSearchComputer.title</source>
-        <translation>Search Local</translation>
+        <translation>Rechercher localement</translation>
     </message>
     <message>
         <source>ShrinkFont.title</source>
@@ -1788,11 +1804,11 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Guide phon
     </message>
     <message>
         <source>OfficialSettings.title</source>
-        <translation>Document Settings</translation>
+        <translation>Paramètres du document</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Centrer verticalement</translation>
+        <translation>Aligner au centre</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
@@ -1800,7 +1816,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Guide phon
     </message>
     <message>
         <source>OfficialExportOFD.title</source>
-        <translation>Save as OFD</translation>
+        <translation>Sortir au format OFD</translation>
     </message>
     <message>
         <source>GotoNextEndnote.content</source>
@@ -1828,7 +1844,7 @@ Cliquez sur la flèche pour choisir l&apos;une des options suivantes: Guide phon
     </message>
     <message>
         <source>OfficialPDFCompress.content</source>
-        <translation>Compress existing PDF to make them smaller.</translation>
+        <translation>Compressez les fichiers PDF.</translation>
     </message>
     <message>
         <source>ContentControlRichText.title</source>
@@ -1960,7 +1976,7 @@ La table des matières automatique comprend du texte mis en forme avec des style
     </message>
     <message>
         <source>Official2Ordinary.content</source>
-        <translation>Official document Convert to Normal Document</translation>
+        <translation>Convertissez le document officiel en document courant. Ouvrez-le dans la version ordinaire, et l&apos;effet visuel est essentiellement le même.</translation>
     </message>
     <message>
         <source>HeaderAndFooterSetting.title</source>
@@ -1988,7 +2004,7 @@ La table des matières automatique comprend du texte mis en forme avec des style
     </message>
     <message>
         <source>OfficialTextIdentification.content</source>
-        <translation>Identify text in PDF or pictures can copy them to this document.</translation>
+        <translation>Effectuez rapidement une reconnaissance du contenu du texte dans les PDF et les images, puis copiez-les dans le document.</translation>
     </message>
     <message>
         <source>TableShadingColor.content</source>
@@ -2056,7 +2072,7 @@ Pour activer cette fonctionnalité, activez l&apos;option Afficher côte à côt
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation>Auto save turned on</translation>
+        <translation>Enregistrement automatique activé</translation>
     </message>
     <message>
         <source>AddSection.content</source>
@@ -2096,7 +2112,7 @@ Pour activer cette fonctionnalité, activez l&apos;option Afficher côte à côt
     </message>
     <message>
         <source>InsertHeader.content</source>
-        <translation>The header style can help you to display title,author and page number</translation>
+        <translation>Les en-têtes vous aident à répéter du contenu en haut de chaque page. Ils sont utiles pour mettre en valeur des informations telles que le titre, l&apos;auteur et le numéro de page.</translation>
     </message>
     <message>
         <source>SplitTable.title</source>
@@ -2134,7 +2150,7 @@ Cliquez sur la flèche pour insérer le contenu du fichier dans le document.</tr
     </message>
     <message>
         <source>Official2RowsEditions.title</source>
-        <translation>Two-row Edition Info</translation>
+        <translation>Marquer pour la modification sur deux lignes</translation>
     </message>
     <message>
         <source>Shapes.content</source>
@@ -2150,11 +2166,11 @@ Cliquez sur la flèche pour insérer le contenu du fichier dans le document.</tr
     </message>
     <message>
         <source>DocBarcode_pro2.content</source>
-        <translation>DocBarcode_pro2 content</translation>
+        <translation>Code-barres fournit différents outils de génération de code-barres, ce qui vous permet de créer et d&apos;insérer rapidement des codes-barres.</translation>
     </message>
     <message>
         <source>PaperTypeset.content</source>
-        <translation>PaperTypeset.content</translation>
+        <translation>Complète de manière intelligente la composition de thèses en fonction de l&apos;école et de la matière sélectionnées</translation>
     </message>
     <message>
         <source>CloseOutlineview.content</source>
@@ -2186,7 +2202,7 @@ Cliquez sur la flèche pour insérer le contenu du fichier dans le document.</tr
     </message>
     <message>
         <source>OfficialTemplates.content</source>
-        <translation>Apply any template to create new document. You can design your own template using </translation>
+        <translation>Appliquez un modèle existant pour créer un document officiel. Cliquez sur Modèles personnalisés pour concevoir vos propres modèles.</translation>
     </message>
     <message>
         <source>InsertWordArt.content</source>
@@ -2194,7 +2210,7 @@ Cliquez sur la flèche pour insérer le contenu du fichier dans le document.</tr
     </message>
     <message>
         <source>OfficialTextIdentification.title</source>
-        <translation>Text Identification(Ctrl+Alt+S)</translation>
+        <translation>Reconnaissance de texte</translation>
     </message>
     <message>
         <source>AlignTopRight.title</source>
@@ -2202,7 +2218,11 @@ Cliquez sur la flèche pour insérer le contenu du fichier dans le document.</tr
     </message>
     <message>
         <source>MailConfig.content</source>
-        <translation>Configure email account.</translation>
+        <translation>Configurer le compte de messagerie utilisé pour envoyer des e-mails.</translation>
+    </message>
+    <message>
+        <source>ClickToTurnOnOffSpellCheck.content</source>
+        <translation>Click to turn on/off spell check</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
@@ -2318,11 +2338,11 @@ Cliquez sur les flèches pour effectuer une configuration détaillée.</translat
     </message>
     <message>
         <source>NewOfficialDocument.title</source>
-        <translation>Official Document</translation>
+        <translation>Document officiel</translation>
     </message>
     <message>
         <source>SmartOfficial.title</source>
-        <translation>SmartOfficial</translation>
+        <translation>Conversion intelligente de document officiel</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
@@ -2330,7 +2350,7 @@ Cliquez sur les flèches pour effectuer une configuration détaillée.</translat
     </message>
     <message>
         <source>InsertFooter.content</source>
-        <translation>The footer style can help you to display title,author and page number</translation>
+        <translation>Les pieds de page vous aident à répéter du contenu au bas de chaque page. Ils sont utiles pour mettre en valeur des informations telles que le titre, l&apos;auteur et le numéro de page.</translation>
     </message>
     <message>
         <source>PrintCopies.content</source>
@@ -2460,7 +2480,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>OfficialHFont.content</source>
-        <translation>Set horizontal font size.</translation>
+        <translation>Définissez la taille de police en mode paysage du texte sélectionné et modifiez la largeur du texte.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
@@ -2488,7 +2508,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>PaperTypeset.title</source>
-        <translation>PaperTypeset.title</translation>
+        <translation>Composition de thèses</translation>
     </message>
     <message>
         <source>ShowFormatting.content</source>
@@ -2496,7 +2516,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation>Conserver les proportions</translation>
+        <translation>Conservez les proportions de l&apos;image lorsque vous l&apos;ajustez.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
@@ -2524,7 +2544,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>PaperFormat.content</source>
-        <translation>Rapid typesetting of papers.</translation>
+        <translation>Convertir rapidement les ébauches de thèses en thèses terminées qui correspondent aux normes de diverses institutions</translation>
     </message>
     <message>
         <source>InsertIndex.content</source>
@@ -2540,7 +2560,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>OfficialInsertVerticalBlankPage.content</source>
-        <translation>Insert portrait pages to the document.</translation>
+        <translation>Insérez des pages en mode portrait dans le document.</translation>
     </message>
     <message>
         <source>AlignStyle.title</source>
@@ -2548,7 +2568,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>DocBarcode_pro2.title</source>
-        <translation>Barcode</translation>
+        <translation>Code-barres</translation>
     </message>
     <message>
         <source>SectionNavigationPane.title</source>
@@ -2584,7 +2604,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>OfficialSettings.content</source>
-        <translation>Setup options for Official Document Writing Mode, such us puncturation type and listing.</translation>
+        <translation>Définissez les options pour le mode d&apos;écriture des documents officiels, tels que le type de ponctuation et la numérotation intelligente.</translation>
     </message>
     <message>
         <source>HeaderDistance.content</source>
@@ -2684,7 +2704,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>MailConfig.title</source>
-        <translation>Email Config</translation>
+        <translation>Configuration des e-mails</translation>
     </message>
     <message>
         <source>m_ShowReviewer.content</source>
@@ -2724,7 +2744,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
-        <translation>Professional document proofread tool in official view</translation>
+        <translation>Corrigez le contenu du document de manière rapide et professionnelle, et rectifiez de manière précise les mots manquants et les mots incorrects.</translation>
     </message>
     <message>
         <source>RecentTableShadingColor2.title</source>
@@ -2766,7 +2786,7 @@ Ceci permet de repérer rapidement la partie de votre lettre type qui sera rempl
     </message>
     <message>
         <source>OfficialHVFont.title</source>
-        <translation>HVFont</translation>
+        <translation>Taille de police en mode paysage/portrait</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
@@ -2883,6 +2903,10 @@ Cliquez sur la flèche pour le remplir avec des effets différents.</translation
         <translation>Volet Sélection</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.content</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>LooseLineSpacing.title</source>
         <translation>Interligne libre</translation>
     </message>
@@ -2936,7 +2960,7 @@ Cliquez sur la flèche pour le remplir avec des effets différents.</translation
     </message>
     <message>
         <source>DocBarcode_pro.content</source>
-        <translation>use document barcode for flow of documents.</translation>
+        <translation>Insérez le code QR du document officiel pour effectuer une circulation rapide des documents officiels.</translation>
     </message>
     <message>
         <source>MergeToPrinter.content</source>
@@ -3016,7 +3040,7 @@ Cliquez sur la flèche pour le remplir avec des effets différents.</translation
     </message>
     <message>
         <source>CustomBold2.content</source>
-        <translation>Make the selected text bold 2.</translation>
+        <translation>Cliquez sur la flèche pour choisir l&apos;épaisseur de la police.</translation>
     </message>
     <message>
         <source>XmlStructure.title</source>
@@ -3048,7 +3072,7 @@ Cliquez sur la flèche pour le remplir avec des effets différents.</translation
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Augmenter le niveau de liste</translation>
+        <translation>Augmenter le retrait</translation>
     </message>
     <message>
         <source>PageDiffOddEven.content</source>
@@ -3068,7 +3092,7 @@ Cliquez sur la flèche pour le remplir avec des effets différents.</translation
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the file to be disordered during display or printing, Please install the appropriate font or replace it with a different font.</translation>
+        <translation>Cela peut provoquer une impression ou un affichage incorrect du document. Installez ou modifiez la police.</translation>
     </message>
     <message>
         <source>PreviousHeader.title</source>
@@ -3076,7 +3100,7 @@ Cliquez sur la flèche pour le remplir avec des effets différents.</translation
     </message>
     <message>
         <source>InsertHeaderFooterGroup.title</source>
-        <translation>Add Header Footer Group</translation>
+        <translation>Ajouter un ensemble d&apos;en-têtes et de pieds de page</translation>
     </message>
     <message>
         <source>UpdateTocOnOutlining.content</source>
@@ -3134,7 +3158,7 @@ Tout le texte sera placé dans la zone de texte sélectionnée.</translation>
     </message>
     <message>
         <source>OfficialInsertHorizonBlankPage.content</source>
-        <translation>Insert landscape pages to the document.</translation>
+        <translation>Insérez des pages en mode paysage dans le document.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
@@ -3214,7 +3238,7 @@ Tout le texte sera placé dans la zone de texte sélectionnée.</translation>
     </message>
     <message>
         <source>OfficialHVFont.content</source>
-        <translation>Set horizontal and vertical font size.</translation>
+        <translation>Définissez la taille de police en mode paysage ou portrait du texte sélectionné et modifiez la largeur ou la hauteur du texte.</translation>
     </message>
     <message>
         <source>SplitWindow2.title</source>
@@ -3250,7 +3274,7 @@ Tout le texte sera placé dans la zone de texte sélectionnée.</translation>
     </message>
     <message>
         <source>OfficialSearchComputer.content</source>
-        <translation>Search the computer with keywords as filename or text in content, and use the results as references in this document.</translation>
+        <translation>Recherchez des fichiers dans l&apos;ordinateur en utilisant le nom du fichier ou le contenu du corps, et utilisez les résultats comme références.</translation>
     </message>
     <message>
         <source>AlignBottomRight.content</source>
@@ -3268,11 +3292,11 @@ Les graphiques WPSArt incluent des listes graphiques et des diagrammes de proces
     </message>
     <message>
         <source>OfficialFont.title</source>
-        <translation>Official Document Fonts</translation>
+        <translation>Polices de documents officiels</translation>
     </message>
     <message>
         <source>OfficialHead.title</source>
-        <translation>Head</translation>
+        <translation>Tête</translation>
     </message>
     <message>
         <source>DetailedSettings_References.content</source>
@@ -3352,7 +3376,7 @@ Les graphiques WPSArt incluent des listes graphiques et des diagrammes de proces
     </message>
     <message>
         <source>Official2RowsEditions.content</source>
-        <translation>Insert a two-row edition information to the end of the document.</translation>
+        <translation>Insérez une marque de modification sur deux lignes à la fin de la page actuelle.</translation>
     </message>
     <message>
         <source>MultiplePages.content</source>
@@ -3364,7 +3388,7 @@ Les graphiques WPSArt incluent des listes graphiques et des diagrammes de proces
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Affiche les effets de la page avant l&apos;impression.</translation>
+        <translation>Affiche un aperçu et modifie les pages avant l&apos;impression.</translation>
     </message>
     <message>
         <source>NextHeader.title</source>
@@ -3406,7 +3430,7 @@ Cela concerne uniquement les tableaux qui s&apos;étendent sur plusieurs pages.<
     </message>
     <message>
         <source>OfficialDocumentBarcode.title</source>
-        <translation>Official Document QR Code</translation>
+        <translation>Code QR du document officiel</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
@@ -3414,7 +3438,7 @@ Cela concerne uniquement les tableaux qui s&apos;étendent sur plusieurs pages.<
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Couleur de police</translation>
+        <translation>Couleur du texte</translation>
     </message>
     <message>
         <source>HighlightMergeFields.title</source>
@@ -3652,7 +3676,7 @@ Les résultats s&apos;affichent dans une cellule à la suite des cellules sélec
     </message>
     <message>
         <source>OfficialSingleRowEdition.content</source>
-        <translation>Insert a one-row edition information to the end of the document.</translation>
+        <translation>Insérez une marque de modification sur une seule ligne à la fin de la page actuelle.</translation>
     </message>
     <message>
         <source>sp_DeleteComment2.title</source>
@@ -3712,7 +3736,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Utilise l&apos;imprimante par défaut pour imprimer directement.</translation>
+        <translation>Envoie le document directement à l&apos;imprimante par défaut sans apporter de modifications.</translation>
     </message>
     <message>
         <source>AlignTopRight.content</source>
@@ -3728,7 +3752,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>SmartOfficial.content</source>
-        <translation>Normal Document Convert to Official document</translation>
+        <translation>Effectuez rapidement la conversion vers des documents officiels normalisés.</translation>
     </message>
     <message>
         <source>TextSpeech2.title</source>
@@ -3744,7 +3768,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>choose paper size for cur section. such as A4 A3 and so on.</translation>
+        <translation>Spécifiez le type de papier pour la section actuelle, tel que A4 ou A3.</translation>
     </message>
     <message>
         <source>ResetSize.title</source>
@@ -3760,7 +3784,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>OfficialZoomOnePage.content</source>
-        <translation>Change the zoom scale to fit a single page to the window.</translation>
+        <translation> Faites un zoom sur le document pour faire tenir une page entière dans la fenêtre.</translation>
     </message>
     <message>
         <source>ReviewTip.title</source>
@@ -3816,7 +3840,7 @@ Double-cliquez sur ce bouton pour appliquer la même mise en forme à plusieurs 
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Envoyer vers un téléphone</translation>
     </message>
     <message>
         <source>InsertSectionAfter.title</source>
