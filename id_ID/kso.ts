@@ -7,11 +7,11 @@
     </message>
     <message>
         <source>&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;.</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>&quot;Tab</source>
@@ -23,23 +23,23 @@
     </message>
     <message>
         <source>&amp;Categories:</source>
-        <translation>Kategori(&amp;C):</translation>
+        <translation>Kategori:</translation>
     </message>
     <message>
         <source>Press &amp;new shortcut key:</source>
-        <translation>Tekan tombol pintasan baru(&amp;N):</translation>
+        <translation>Tekan tombol pintasan baru:</translation>
     </message>
     <message>
         <source>File menu</source>
-        <translation>Menu &quot;File&quot;</translation>
+        <translation>Menu File</translation>
     </message>
     <message>
         <source>All Commands</source>
-        <translation type="unfinished"/>
+        <translation>Semua Perintah</translation>
     </message>
     <message>
         <source>C&amp;ommands:</source>
-        <translation>Perintah(&amp;O):</translation>
+        <translation>Perintah:</translation>
     </message>
     <message>
         <source>Customize keyboard</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Macr&amp;os:</source>
-        <translation>Makro(&amp;O):</translation>
+        <translation>Makro:</translation>
     </message>
     <message>
         <source>Specify a command</source>
@@ -67,35 +67,35 @@
     </message>
     <message>
         <source>O&amp;ffice Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Tombol Pintas O&amp;ffice </translation>
     </message>
     <message>
         <source>Click here</source>
-        <translation type="unfinished"/>
+        <translation>Ketuk di sini</translation>
     </message>
     <message>
         <source>&amp;Assign</source>
-        <translation>Tetapkan(&amp;A)</translation>
+        <translation>Tetapkan</translation>
     </message>
     <message>
         <source>&amp;WPS Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Tombol Pintas &amp;WPS </translation>
     </message>
     <message>
         <source>Sa&amp;ve changes in:</source>
-        <translation>Simpan perubahan di(&amp;V):</translation>
+        <translation>Simpan perubahan di:</translation>
     </message>
     <message>
         <source>C&amp;urrent keys:</source>
-        <translation>Tombol saat ini(&amp;U):</translation>
+        <translation>Tombol saat ini:</translation>
     </message>
     <message>
         <source>Re&amp;set All...</source>
-        <translation>Atur Ulang Semua(&amp;S)...</translation>
+        <translation>Atur Ulang Semua...</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Label Teks</translation>
     </message>
 </context>
 <context>
@@ -385,15 +385,15 @@
     <name>ContentPictureTransparency</name>
     <message>
         <source>%</source>
-        <translation type="unfinished"/>
+        <translation>%</translation>
     </message>
     <message>
         <source>Enter %0 to 100% of value</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nilai antara 0% dan 100%</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Transparansi (&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -1482,7 +1482,7 @@ Silakan cek data Anda dan pastikan rujukannya valid dan lembar kerja tersedia.</
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"/>
+        <translation>Percaya</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -1623,7 +1623,8 @@ berkelanjutan</translation>
     </message>
     <message>
         <source>Enter network password to connect to:%1</source>
-        <translation type="unfinished"/>
+        <translation>Terhubung ke %1
+Masukkan kredensial Anda</translation>
     </message>
     <message>
         <source>Load on Demand</source>
@@ -1720,7 +1721,7 @@ berkelanjutan</translation>
     </message>
     <message>
         <source>Currently using %1 keyboard shortcuts template, for more details of the differences between the two sets of templates WPS and Generic Office, please</source>
-        <translation type="unfinished"/>
+        <translation>Anda sedang menggunakan templat tombol pintas %1. Untuk informasi selengkapnya mengenai perbedaan antara templat tombol pintas WPS dan templat tombol pintas Office umum, silakan</translation>
     </message>
     <message>
         <source>Bright Green</source>
@@ -1905,7 +1906,7 @@ Digunakan untuk menunjukkan hubungan berbasis landasan</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1917,7 +1918,7 @@ Digunakan untuk menunjukkan hubungan berbasis landasan</translation>
     </message>
     <message>
         <source>Preset Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Prasetel</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -1941,7 +1942,7 @@ Jika Anda mengubah nama ruas PivotTable, Anda harus mengetikkan nama baru untuk 
     </message>
     <message>
         <source>The XML extension package security settings have been disabled, which will facilitate solution development but allow for the running of unsafe XML extension package components. Do you re-enable the XML extension package security settings?</source>
-        <translation type="unfinished"/>
+        <translation>Keamanan paket ekspansi XML telah dinonaktifkan. Ini membuat pengembangan solusi lebih mudah tetapi memungkinkan berjalannya komponen paket ekspansi XML yang tidak aman. Apakah Anda yakin ingin mengaktifkan kembali keamanan paket ekspansi XML?</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -2010,7 +2011,8 @@ Jika Anda mengubah nama ruas PivotTable, Anda harus mengetikkan nama baru untuk 
     <message>
         <source>%1
 Please carefully identify the website to ensure that it is trustworthy and safe, so as not to disturb you by sending irrelevant content, or Because unsafe operations cause you losses. If you trust it, it will have the right to display its web page information in WPS application and access document content and computer resources.</source>
-        <translation type="unfinished"/>
+        <translation>%1
+Harap mengidentifikasi situs web dengan hati-hati untuk memastikan bahwa situs web dapat dipercaya dan aman, sehingga Anda tidak akan terganggu oleh konten tidak relevan yang dikirim oleh situs web, atau menderita kerugian karena operasi yang tidak aman. Jika Anda mempercayainya, situs web tersebut akan memiliki hak untuk menampilkan informasi halaman web-nya dalam aplikasi WPS dan mengakses konten dokumen dan sumber daya komputer.</translation>
     </message>
     <message>
         <source>Paused</source>
@@ -2166,7 +2168,7 @@ elemen</translation>
     </message>
     <message>
         <source>Don&apos;t Trust</source>
-        <translation type="unfinished"/>
+        <translation>Jangan Percaya</translation>
     </message>
     <message>
         <source>Dark vertical</source>
@@ -2672,7 +2674,7 @@ sila konsultasikan dengan departemen TI perusahaan Anda, atau hubungi layanan pe
     </message>
     <message>
         <source>Custom Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Sesuaikan</translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -3100,7 +3102,7 @@ Please save the file and create share link</source>
     </message>
     <message>
         <source>You are about to visit a third-party website</source>
-        <translation type="unfinished"/>
+        <translation>Anda akan mengunjungi situs web pihak ketiga</translation>
     </message>
     <message>
         <source>Part of %s</source>
@@ -3737,7 +3739,7 @@ Digunakan untuk menunjukkan hubungan hierarkis</translation>
     <name>kso_ksocomm</name>
     <message>
         <source>,</source>
-        <translation type="unfinished"/>
+        <translation>,</translation>
     </message>
     <message>
         <source>No</source>
@@ -3765,7 +3767,7 @@ Digunakan untuk menunjukkan hubungan hierarkis</translation>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3802,7 +3804,7 @@ Digunakan untuk menunjukkan hubungan hierarkis</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -3834,7 +3836,7 @@ Digunakan untuk menunjukkan hubungan hierarkis</translation>
     </message>
     <message>
         <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation type="unfinished"/>
+        <translation>Perangkat lunak ini hanya dapat digunakan oleh pengguna individu untuk tujuan pribadi saja. Tidak dapat digunakan untuk tujuan komersial seperti produksi, bisnis, dan lain-lain. ||Perangkat lunak ini mencakup: Proyek FreeType, dengan otorisasi gratis diberikan berdasarkan klausul otorisasi dari Lisensi FreeType; Segmen Kata Mandarin, Anotasi Fonetik Mandarin, dan teknologi untuk konversi antara Mandarin modern dan Mandarin tradisional yang disediakan oleh Pusat Penelitian untuk Komputasi Sosial dan Pengambilan Informasi, Institut Teknologi Harbin; Pemeriksa Ejaan Hunspell, dan kode sumber Hunspell adalah kode sumber terbuka yang berlaku untuk beberapa lisensi: MPL 1.1, GPL 2.0, dan LGPL 2.1; Sqlite3--sesuai lisensi komersial gratisnya--menggunakan datanya untuk menyimpan dan membaca kode sumber terbuka.</translation>
     </message>
     <message>
         <source>WPS Simulation Error Recovery Help</source>
@@ -3907,7 +3909,7 @@ Digunakan untuk menunjukkan hubungan hierarkis</translation>
     </message>
     <message>
         <source>New Workbook.uos</source>
-        <translation type="unfinished"/>
+        <translation>Workbook.uos Baru</translation>
     </message>
     <message>
         <source>Calendar Item</source>
@@ -3982,7 +3984,7 @@ File: %s
     </message>
     <message>
         <source>WPS Writer cannot inert a file into self. (%1)</source>
-        <translation type="unfinished"/>
+        <translation>WPS Writer tidak dapat menyisipkan dokumen ke dalam dokumen itu sendiri. (%1)</translation>
     </message>
     <message>
         <source>WPS SpreadSheet</source>
@@ -4224,7 +4226,13 @@ Anda dapat mengeklik tombol untuk memulihkan file yang Anda kerjakan.</translati
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation type="unfinished"/>
+        <translation>%s Ada kesalahan selama operasi pencadangan. Coba operasi berikut: 
+•Periksa apakah direktori cadangan memiliki izin menulis, atau ubah direktori cadangan.
+•[Urungkan] operasi sebelumnya lalu [Simpan]; 
+•[Simpan Sebagai...] file teks（*.txt）; 
+•[Salin/Tempel] konten ke file baru; 
+•Buang perubahan pada file ini.
+(%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
@@ -4440,11 +4448,11 @@ Anda ingin membukanya menggunakan kumpulan kredensial yang berbeda?</translation
     </message>
     <message>
         <source>New Workbook.xlsx</source>
-        <translation type="unfinished"/>
+        <translation>Workbook.xlsx Baru</translation>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Buka File</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
@@ -4485,7 +4493,11 @@ Anda ingin membukanya menggunakan kumpulan kredensial yang berbeda?</translation
 •[Copy/Paste] the contents to the new file; 
 •Give up revising the file. 
 (%s)</source>
-        <translation type="unfinished"/>
+        <translation>%s Ada kesalahan selama operasi pencadangan. Coba operasi berikut:
+•Periksa apakah direktori cadangan memiliki izin menulis, atau ubah direktori cadangan.
+•[Urungkan] operasi sebelumnya lalu [Simpan]; 
+•[Salin/Tempel] konten ke file baru; 
+•Buang perubahan pada file ini.</translation>
     </message>
     <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
@@ -4568,7 +4580,7 @@ Posisi ini mungkin tidak aman.</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation type="unfinished"/>
+        <translation>Perangkat lunak ini mencakup: Proyek FreeType, dengan otorisasi gratis diberikan berdasarkan klausul otorisasi dari Lisensi FreeType; Segmen Kata Mandarin, Anotasi Fonetik Mandarin, dan teknologi untuk konversi antara Mandarin modern dan Mandarin tradisional yang disediakan oleh Pusat Penelitian untuk Komputasi Sosial dan Pengambilan Informasi, Institut Teknologi Harbin; Pemeriksa Ejaan Hunspell, dan kode sumber Hunspell adalah kode sumber terbuka yang berlaku untuk beberapa lisensi: MPL 1.1, GPL 2.0, dan LGPL 2.1; Font Founder untuk digunakan di Linux WPS Office, dengan otorisasi resmi dari Founder; Sqlite3--sesuai lisensi komersial gratisnya--menggunakan datanya untuk menyimpan dan membaca kode sumber terbuka.</translation>
     </message>
     <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
@@ -11075,7 +11087,7 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Scan Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Mode Pindai:</translation>
     </message>
     <message>
         <source>More...</source>
@@ -11083,23 +11095,23 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Scan Color:</source>
-        <translation type="unfinished"/>
+        <translation>Warna Pindai:</translation>
     </message>
     <message>
         <source>Image Size:</source>
-        <translation type="unfinished"/>
+        <translation>Ukuran Gambar:</translation>
     </message>
     <message>
         <source>The Scanner Automatically Adapt</source>
-        <translation type="unfinished"/>
+        <translation>Pemindai Adaptif</translation>
     </message>
     <message>
         <source>Scan Dpi:</source>
-        <translation type="unfinished"/>
+        <translation>Dpi Pindai:</translation>
     </message>
     <message>
         <source>Scanner:</source>
-        <translation type="unfinished"/>
+        <translation>Pemindai:</translation>
     </message>
     <message>
         <source>Scanner</source>
@@ -11111,11 +11123,11 @@ Pilih nama file lain.</translation>
     </message>
     <message>
         <source>Searched</source>
-        <translation type="unfinished"/>
+        <translation>Pencarian lengkap.</translation>
     </message>
     <message>
         <source>Scanner Setup</source>
-        <translation type="unfinished"/>
+        <translation>Penyiapan Pemindai</translation>
     </message>
 </context>
 <context>
@@ -11190,7 +11202,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>%1 year %2 month</source>
-        <translation type="unfinished"/>
+        <translation>%1 tahun %2 bulan</translation>
     </message>
 </context>
 <context>
@@ -11205,35 +11217,35 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Label as classified</source>
-        <translation type="unfinished"/>
+        <translation>Tandai Rahasia</translation>
     </message>
     <message>
         <source>who to infrom:</source>
-        <translation type="unfinished"/>
+        <translation>Rentang Notifikasi:</translation>
     </message>
     <message>
         <source>change time:</source>
-        <translation type="unfinished"/>
+        <translation>Diubah Pada:</translation>
     </message>
     <message>
         <source>lift person:</source>
-        <translation type="unfinished"/>
+        <translation>Kerahasiaan Dikecualikan Oleh:</translation>
     </message>
     <message>
         <source>setup time:</source>
-        <translation type="unfinished"/>
+        <translation>Kerahasiaan Dikonfirmasi Pada:</translation>
     </message>
     <message>
         <source>document name:</source>
-        <translation type="unfinished"/>
+        <translation>nama dokumen:</translation>
     </message>
     <message>
         <source>type of encryption:</source>
-        <translation type="unfinished"/>
+        <translation>jenis enkripsi:</translation>
     </message>
     <message>
         <source>issue copy number:</source>
-        <translation type="unfinished"/>
+        <translation>Salinan yang Diterbitkan:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11245,67 +11257,67 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>issue number:</source>
-        <translation type="unfinished"/>
+        <translation>nomor terbit:</translation>
     </message>
     <message>
         <source>classification setup based on:</source>
-        <translation type="unfinished"/>
+        <translation>Dasar Kerahasiaan:</translation>
     </message>
     <message>
         <source>draft time:</source>
-        <translation type="unfinished"/>
+        <translation>waktu draf:</translation>
     </message>
     <message>
         <source>issue person:</source>
-        <translation type="unfinished"/>
+        <translation>Diterbitkan Oleh:</translation>
     </message>
     <message>
         <source>unit name:</source>
-        <translation type="unfinished"/>
+        <translation>Nama Unit:</translation>
     </message>
     <message>
         <source>lift time:</source>
-        <translation type="unfinished"/>
+        <translation>Kerahasiaan Dikecualikan Pada:</translation>
     </message>
     <message>
         <source>issue time:</source>
-        <translation type="unfinished"/>
+        <translation>waktu terbit:</translation>
     </message>
     <message>
         <source>desc of inform:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi Notifikasi:</translation>
     </message>
     <message>
         <source>change person:</source>
-        <translation type="unfinished"/>
+        <translation>Diubah Oleh:</translation>
     </message>
     <message>
         <source>level of calssification:</source>
-        <translation type="unfinished"/>
+        <translation>Tingkat Kerahasiaan:</translation>
     </message>
     <message>
         <source>drafter:</source>
-        <translation type="unfinished"/>
+        <translation>drafter:</translation>
     </message>
     <message>
         <source>resson:</source>
-        <translation type="unfinished"/>
+        <translation>Terbit:</translation>
     </message>
     <message>
         <source>decrypt person:</source>
-        <translation type="unfinished"/>
+        <translation>Dibatalkan Oleh:</translation>
     </message>
     <message>
         <source>issue opinion:</source>
-        <translation type="unfinished"/>
+        <translation>Komentar Penerbitan:</translation>
     </message>
     <message>
         <source>decrypt time:</source>
-        <translation type="unfinished"/>
+        <translation>Dibatalkan Pada:</translation>
     </message>
     <message>
         <source>setup person:</source>
-        <translation type="unfinished"/>
+        <translation>Kerahasiaan Dikonfirmasi Oleh:</translation>
     </message>
 </context>
 <context>
@@ -11320,7 +11332,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Cannot open this object.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak menemukan aplikasi yang mendukung pembukaan objek saat ini.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11332,7 +11344,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Open failed!</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuka!</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -11340,11 +11352,11 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office tidak dapat membuka objek saat ini. Tautan ke objek ini mungkin tidak valid atau diubah.</translation>
     </message>
     <message>
         <source>WPS Office cannot open this object. You can open it on your computer with other apps. To save your changes, please insert it after changing it with other apps.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office tidak mendukung pembukaan objek saat ini. Anda dapat membukanya di komputer Anda dengan aplikasi pihak ketiga. Untuk menyimpan perubahan yang dilakukan pada objek, sisipkan kembali objek setelah mengubahnya menggunakan aplikasi pihak ketiga.</translation>
     </message>
 </context>
 <context>
@@ -11539,7 +11551,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Continue (&amp;C)</source>
-        <translation>Lanjutkan (&amp;L)</translation>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11547,35 +11559,35 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>No (&amp;N)</source>
-        <translation>Tidak (&amp;N)</translation>
+        <translation>Tidak</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
-        <translation>Abaikan (&amp;A)</translation>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <source>Save(&amp;S)</source>
-        <translation>Ya (&amp;Y)</translation>
+        <translation>Ya</translation>
     </message>
     <message>
         <source>Abort (&amp;A)</source>
-        <translation>Batalkan (&amp;A)</translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
-        <translation>Coba Lagi (&amp;C)</translation>
+        <translation>Coba Lagi</translation>
     </message>
     <message>
         <source>Yes (&amp;Y)</source>
-        <translation>Ya (&amp;Y)</translation>
+        <translation>Ya</translation>
     </message>
     <message>
         <source>Not Save(&amp;N)</source>
-        <translation>Tidak (&amp;N)</translation>
+        <translation>Tidak</translation>
     </message>
 </context>
 <context>
@@ -11606,7 +11618,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Probation period %1 days - Due time %2 </source>
-        <translation type="unfinished"/>
+        <translation>Masa Uji Coba: %1 Hari - Tanggal Berakhir: %2</translation>
     </message>
     <message>
         <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
@@ -11626,7 +11638,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>%1-%2year%3month%4day Expired</source>
-        <translation type="unfinished"/>
+        <translation>Berakhir pada %1-%2-%3-%4</translation>
     </message>
     <message>
         <source>Part of %1</source>
@@ -11638,7 +11650,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Official Document</translation>
     </message>
     <message>
         <source>About WPS Office</source>
@@ -11654,7 +11666,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Due time %1</source>
-        <translation type="unfinished"/>
+        <translation>Tanggal Berakhir: %1</translation>
     </message>
     <message>
         <source>License information should be based on authorized documents issued by kingsoft office or authorized information displayed in WPS + enterprise management.</source>
@@ -11678,7 +11690,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Expired</source>
-        <translation type="unfinished"/>
+        <translation>Berakhir</translation>
     </message>
     <message>
         <source>License Agreement</source>
@@ -11686,7 +11698,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>trial unlimited</source>
-        <translation type="unfinished"/>
+        <translation>Mode Uji Coba</translation>
     </message>
     <message>
         <source>Technical Support</source>
@@ -11694,7 +11706,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>About WPS Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Tentang WPS Official Document</translation>
     </message>
     <message>
         <source>About WPS Office(Kingsoft Kylin WPS)</source>
@@ -11772,7 +11784,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Label as classified</source>
-        <translation type="unfinished"/>
+        <translation>Tandai Rahasia</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11884,19 +11896,19 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Watermark protection, the watermark is composed of the name of the enterprise, the outsider and the production time</source>
-        <translation type="unfinished"/>
+        <translation>Perlindungan dengan tanda air. Tanda air tersusun dari nama perusahaan, pengirim dokumen keluar, dan waktu produksi.</translation>
     </message>
     <message>
         <source>Make Ourward Document</source>
-        <translation type="unfinished"/>
+        <translation>Buat Dokumen Ke Luar</translation>
     </message>
     <message>
         <source>Document password:</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi dokumen:</translation>
     </message>
     <message>
         <source>Comfirm password:</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi kata sandi:</translation>
     </message>
 </context>
 <context>
@@ -11919,19 +11931,19 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Tombol Rahasia Offline</translation>
     </message>
     <message>
         <source>comfirm password:</source>
-        <translation type="unfinished"/>
+        <translation>konfirmasi kata sandi:</translation>
     </message>
     <message>
         <source>offline password:</source>
-        <translation type="unfinished"/>
+        <translation>kata sandi offline:</translation>
     </message>
     <message>
         <source>new offline password:</source>
-        <translation type="unfinished"/>
+        <translation>kata sandi offline baru:</translation>
     </message>
 </context>
 <context>
@@ -11942,15 +11954,15 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Download the latest version of the WPS EndNote plug-in. To insert and edit citations, download and install the latest version. Restart your EndNote software after installation.</source>
-        <translation type="unfinished"/>
+        <translation>Unduh versi terbaru plugin EndNote WPS. Untuk menyisipkan dan mengedit kutipan, unduh dan instal versi terbaru. Nyalakan ulang perangkat lunak EndNote Anda setelah diinstal.</translation>
     </message>
     <message>
         <source>You need to use the latest version of WPS to use the EndNote plug-in. It is recommended that you install the latest version of WPS and experience more features.</source>
-        <translation type="unfinished"/>
+        <translation>Anda harus menggunakan versi terbaru WPS untuk menggunakan plugin EndNote. Sebaiknya, Anda menginstal versi terbaru WPS dan mencoba lebih banyak fitur.</translation>
     </message>
     <message>
         <source>Your EndNote was not detected. Please download and install the latest version of EndNote (X9.3 or above) before trying.</source>
-        <translation type="unfinished"/>
+        <translation>EndNote Anda tidak terdeteksi. Unduh dan instal versi terbaru EndNote (X9.3 atau di atasnya) sebelum mencoba.</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -12220,19 +12232,19 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>The network connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Ada pengecualian saat menyambung ke jaringan dan kata sandi offline tidak dapat diubah. Cek jaringan dan coba lagi nanti.</translation>
     </message>
     <message>
         <source>Import succeeded.</source>
-        <translation type="unfinished"/>
+        <translation>Impor berhasil.</translation>
     </message>
     <message>
         <source>old offline password:</source>
-        <translation type="unfinished"/>
+        <translation>kata sandi offline lama:</translation>
     </message>
     <message>
         <source>You have successfully set your offline password.</source>
-        <translation type="unfinished"/>
+        <translation>Anda telah berhasil membuat kata sandi offline.</translation>
     </message>
     <message>
         <source>You have not set the offline password yet.</source>
@@ -12240,27 +12252,27 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>You have successfully modify your offline password.</source>
-        <translation type="unfinished"/>
+        <translation>Anda telah berhasil mengubah kata sandi offline.</translation>
     </message>
     <message>
         <source>modify password</source>
-        <translation type="unfinished"/>
+        <translation>ubah kata sandi</translation>
     </message>
     <message>
         <source>Please click broswer button to import</source>
-        <translation type="unfinished"/>
+        <translation>Klik tombol browser untuk impor</translation>
     </message>
     <message>
         <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengimpor kunci offline karena Anda tidak memiliki izin offline untuk dokumen.</translation>
     </message>
     <message>
         <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan saat menyambung ke server. Anda tidak dapat menjalankan operasi %1 pada kata sandi offline. Coba lagi nanti.</translation>
     </message>
     <message>
         <source>modified</source>
-        <translation type="unfinished"/>
+        <translation>diubah</translation>
     </message>
     <message>
         <source>You have enter two different passwords.</source>
@@ -12268,43 +12280,43 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Import failed</source>
-        <translation type="unfinished"/>
+        <translation>Impor gagal</translation>
     </message>
     <message>
         <source>setted</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>Please enter a new password again</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan lagi kata sandi baru</translation>
     </message>
     <message>
         <source>Please enter current offline password</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi offline saat ini</translation>
     </message>
     <message>
         <source>Modify password successfully</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi berhasil diubah.</translation>
     </message>
     <message>
         <source>Offline secret key has been successfully cached to your local computer.</source>
-        <translation type="unfinished"/>
+        <translation>Kunci offline telah berhasil disimpan ke komputer lokal.</translation>
     </message>
     <message>
         <source>Failed to modify password</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengubah kata sandi</translation>
     </message>
     <message>
         <source>comfirm password:</source>
-        <translation type="unfinished"/>
+        <translation>konfirmasi kata sandi:</translation>
     </message>
     <message>
         <source>offline password:</source>
-        <translation type="unfinished"/>
+        <translation>kata sandi offline:</translation>
     </message>
     <message>
         <source>All files *.*</source>
-        <translation type="unfinished"/>
+        <translation>Semua file *.*</translation>
     </message>
     <message>
         <source>Current password can&apos;t be empty.</source>
@@ -12312,19 +12324,19 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>When there is no network, the encrypted document can be opened by verifying the offline password of the current account.</source>
-        <translation type="unfinished"/>
+        <translation>Ketika tidak ada jaringan, dokumen terenkripsi dapat dibuka dengan memverifikasi kata sandi offiline akun saat ini.</translation>
     </message>
     <message>
         <source>The original offline password input wrong</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi offline asli yang diisikan salah.</translation>
     </message>
     <message>
         <source>Invalid import path, please readjust the file path.</source>
-        <translation type="unfinished"/>
+        <translation>Jalur impor salah, sesuaikan ulang jalur file.</translation>
     </message>
     <message>
         <source>Import offline key</source>
-        <translation type="unfinished"/>
+        <translation>Impor kunci offline</translation>
     </message>
     <message>
         <source>Password&apos;s length must greater than 8</source>
@@ -12332,15 +12344,15 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Failed to set password</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengatur kata sandi</translation>
     </message>
     <message>
         <source>new offline password:</source>
-        <translation type="unfinished"/>
+        <translation>kata sandi offline baru:</translation>
     </message>
     <message>
         <source>comfirm new password:</source>
-        <translation type="unfinished"/>
+        <translation>konfirmasi kata sandi baru:</translation>
     </message>
     <message>
         <source>Set password successfully</source>
@@ -12348,15 +12360,15 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>To change the password, please click &quot;modify password&quot; button.</source>
-        <translation type="unfinished"/>
+        <translation>Untuk mengubah kata sandi, silakan klik tombol &quot;ubah kata sandi&quot;.</translation>
     </message>
     <message>
         <source>Please enter a new password with more than 8 digits</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi baru dengan lebih dari 8 digit</translation>
     </message>
     <message>
         <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>File tidak dapat diimpor karena format file salah atau file rusak. Hubungi administrator.</translation>
     </message>
 </context>
 <context>
@@ -12383,7 +12395,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>Do not remind again</source>
-        <translation type="unfinished"/>
+        <translation>Jangan ingatkan lagi</translation>
     </message>
     <message>
         <source>Cannot open this document</source>
@@ -12643,7 +12655,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>here</source>
-        <translation type="unfinished"/>
+        <translation>di sini</translation>
     </message>
     <message>
         <source>This function needs to be activated before use.</source>
@@ -12666,15 +12678,15 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>distribute unit</source>
-        <translation type="unfinished"/>
+        <translation>Penerbit</translation>
     </message>
     <message>
         <source>people info</source>
-        <translation type="unfinished"/>
+        <translation>Info Personil</translation>
     </message>
     <message>
         <source>strictly confidential</source>
-        <translation type="unfinished"/>
+        <translation>Sangat Rahasia</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -12682,11 +12694,11 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Confidentiality period</source>
-        <translation type="unfinished"/>
+        <translation>Periode kerahasiaan</translation>
     </message>
     <message>
         <source>internal</source>
-        <translation type="unfinished"/>
+        <translation>internal</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -12694,47 +12706,47 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>File level</source>
-        <translation type="unfinished"/>
+        <translation>Tingkat Kerahasiaan File:</translation>
     </message>
     <message>
         <source>public</source>
-        <translation type="unfinished"/>
+        <translation>publik</translation>
     </message>
     <message>
         <source>secret</source>
-        <translation type="unfinished"/>
+        <translation>rahasia</translation>
     </message>
     <message>
         <source>confidential setting</source>
-        <translation type="unfinished"/>
+        <translation>pengaturan kerahasiaan</translation>
     </message>
     <message>
         <source>pdf file</source>
-        <translation type="unfinished"/>
+        <translation>file pdf</translation>
     </message>
     <message>
         <source>recieve unit</source>
-        <translation type="unfinished"/>
+        <translation>Unit Penerima</translation>
     </message>
     <message>
         <source>confidential</source>
-        <translation type="unfinished"/>
+        <translation>Rahasia</translation>
     </message>
     <message>
         <source>ofd file</source>
-        <translation type="unfinished"/>
+        <translation>file ofd</translation>
     </message>
     <message>
         <source>distribution settings</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Distribusi</translation>
     </message>
     <message>
         <source>sy info setting</source>
-        <translation type="unfinished"/>
+        <translation>Info Sumber</translation>
     </message>
     <message>
         <source>Knowledgeable range</source>
-        <translation type="unfinished"/>
+        <translation>Rentang Notifikasi:</translation>
     </message>
 </context>
 <context>
@@ -12826,7 +12838,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Unlock to edit</source>
-        <translation type="unfinished"/>
+        <translation>Buka kunci untuk edit</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -12858,7 +12870,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Open in read-only</source>
-        <translation type="unfinished"/>
+        <translation>Buka sebagai Hanya Baca</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -13040,7 +13052,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Local backup on</source>
-        <translation type="unfinished"/>
+        <translation>Cadangan lokal aktif</translation>
     </message>
     <message>
         <source>Do not check this when starting WPS Office next time</source>
@@ -13100,7 +13112,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>printing left %1 copies, the current setting exceeds the limit, please input again</source>
-        <translation type="unfinished"/>
+        <translation>%1 salinan lagi untuk pencetakan. Pengaturan saat ini melebihi limit. Harap masukkan lagi.</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
@@ -13108,7 +13120,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>local font, click available</source>
-        <translation type="unfinished"/>
+        <translation>Klik untuk menggunakan font lokal yang tersedia</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13134,7 +13146,7 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     </message>
     <message>
         <source>Local backup off</source>
-        <translation type="unfinished"/>
+        <translation>Cadangan lokal tidak aktif</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -13204,7 +13216,7 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>please input password</source>
-        <translation type="unfinished"/>
+        <translation>masukkan kata sandi</translation>
     </message>
     <message>
         <source>Fully compatible with Microsoft Excel</source>
@@ -13232,7 +13244,7 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>WPS ScreenGrab OCR</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Layar WPS</translation>
     </message>
     <message>
         <source>Fully compatible with Microsoft Office&apos;s document formats</source>
@@ -13380,7 +13392,7 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>do not has current document&apos;s printing right</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak memiliki izin pencetakan untuk file saat ini.</translation>
     </message>
     <message>
         <source>Share as a link for comments</source>
@@ -13550,7 +13562,7 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>Upload to WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Unggah ke WPS Cloud</translation>
     </message>
     <message>
         <source>fail! please insert USB Key and try again.</source>
@@ -13578,7 +13590,7 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>must be 6-16 chars(case-sensitive)</source>
-        <translation type="unfinished"/>
+        <translation>Harus terdiri dari 6 hingga 16 karakter (peka huruf besar/kecil).</translation>
     </message>
     <message>
         <source>Manage Duplicates</source>
@@ -13609,7 +13621,7 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13621,7 +13633,7 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -14085,7 +14097,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished"/>
+        <translation>Sumber: (&amp;S)</translation>
     </message>
     <message>
         <source>Document Issuing organization</source>
@@ -14105,7 +14117,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished"/>
+        <translation>Nilai: (&amp;N)</translation>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
@@ -14267,7 +14279,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz</source>
-        <translation type="unfinished"/>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -14303,7 +14315,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"/>
+        <translation>Coret</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -14344,7 +14356,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Duplicate Slide</source>
-        <translation type="unfinished"/>
+        <translation>Duplikasi Slide</translation>
     </message>
     <message>
         <source>Format Shape</source>
@@ -14444,7 +14456,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Insert JdeControl</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Kontrol JDE</translation>
     </message>
     <message>
         <source>Insert Freeform</source>
@@ -14549,7 +14561,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Unidentifiable sound format.</source>
-        <translation type="unfinished"/>
+        <translation>Format audio yang tidak dapat diidentifikasi.</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -14578,7 +14590,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Transparansi</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
@@ -14831,7 +14843,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv)</source>
-        <translation type="unfinished"/>
+        <translation>File Film (*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv)</translation>
     </message>
     <message>
         <source>Delete Segment</source>
@@ -15039,11 +15051,11 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Convert To Smartart Graphic</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke Grafik Smartart</translation>
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz)</source>
-        <translation type="unfinished"/>
+        <translation>File Media Windows(asf) (*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz)</translation>
     </message>
     <message>
         <source>Decrease Paragraph Spacing</source>
@@ -15228,7 +15240,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod</source>
-        <translation type="unfinished"/>
+        <translation>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod</translation>
     </message>
     <message>
         <source>Update Link</source>
@@ -15304,7 +15316,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Unidentifiable format.</source>
-        <translation type="unfinished"/>
+        <translation>Format yang tidak dapat diidentifikasi.</translation>
     </message>
     <message>
         <source>Edit WordArt</source>
@@ -15413,7 +15425,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Reset Crop</source>
-        <translation type="unfinished"/>
+        <translation>Setel Ulang Bentuk dan Ukuran</translation>
     </message>
     <message>
         <source>Change Series</source>
@@ -15442,7 +15454,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Unidentifiable movie format.</source>
-        <translation type="unfinished"/>
+        <translation>Format video yang tidak dapat diidentifikasi.</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -15590,7 +15602,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod)</source>
-        <translation type="unfinished"/>
+        <translation>File Film(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod)</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -15606,7 +15618,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>MP4 Video(*.mp4;*.mp4v)</source>
-        <translation type="unfinished"/>
+        <translation>Video MP4(*.mp4;*.mp4v)</translation>
     </message>
     <message>
         <source>Smart Compression</source>
@@ -15622,7 +15634,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>*.mp4;*.mp4v</source>
-        <translation type="unfinished"/>
+        <translation>*.mp4;*.mp4v</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
@@ -15715,11 +15727,11 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Offline Password Verification</source>
-        <translation type="unfinished"/>
+        <translation>Verifikasi Kata Sandi Offline</translation>
     </message>
     <message>
         <source>Offline Key:</source>
-        <translation type="unfinished"/>
+        <translation>Kunci Offline:</translation>
     </message>
     <message>
         <source>Please enter your account</source>
@@ -15739,7 +15751,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>User Account:</source>
-        <translation type="unfinished"/>
+        <translation>Akun Pengguna:</translation>
     </message>
 </context>
 <context>
@@ -16085,11 +16097,11 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Vertical(right to left)</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal (kanan ke kiri)</translation>
     </message>
     <message>
         <source>Vertical(left to right)</source>
-        <translation type="unfinished"/>
+        <translation>Vertikal (kiri ke kanan)</translation>
     </message>
     <message>
         <source>Right-to-left</source>
@@ -16239,7 +16251,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>please insert the USB Key to verify</source>
-        <translation type="unfinished"/>
+        <translation>masukkan USB untuk memverifikasi</translation>
     </message>
     <message>
         <source>cancel</source>
@@ -16247,11 +16259,11 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>please input USB Key password</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi Kunci USB</translation>
     </message>
     <message>
         <source>verify PIN</source>
-        <translation type="unfinished"/>
+        <translation>Verifikasi PIN</translation>
     </message>
 </context>
 <context>
@@ -16746,11 +16758,11 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Right Angle Ae&amp;xs</source>
-        <translation type="unfinished"/>
+        <translation>Sumbu Sudut Kanan (X)</translation>
     </message>
     <message>
         <source>Auto&amp;scale</source>
-        <translation type="unfinished"/>
+        <translation>Skala Otomatis (S)</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -16758,7 +16770,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Depth(% of base)</source>
-        <translation type="unfinished"/>
+        <translation>Kedalaman(% dari dasar)</translation>
     </message>
     <message>
         <source>P&amp;erspective</source>
@@ -16774,15 +16786,15 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>&amp;X Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi &amp;X</translation>
     </message>
     <message>
         <source>&amp;Y Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi &amp;Y</translation>
     </message>
     <message>
         <source>&amp;Z Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Rotasi &amp;Z</translation>
     </message>
     <message>
         <source>Enter -40000 to 4000 Pounds of value</source>
@@ -16790,7 +16802,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Hight(% of base)</source>
-        <translation type="unfinished"/>
+        <translation>Ketinggian(% dari dasar)</translation>
     </message>
     <message>
         <source>&amp;Presets</source>
@@ -16810,7 +16822,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Default R&amp;otation</source>
-        <translation type="unfinished"/>
+        <translation>R&amp;otasi Default</translation>
     </message>
     <message>
         <source>Enter 0 to 120 Degres  of value</source>
@@ -18945,7 +18957,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Relationship</source>
-        <translation type="unfinished"/>
+        <translation>Hubungan</translation>
     </message>
     <message>
         <source>Segmented Pyramid</source>
@@ -18981,7 +18993,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Hierarchy</source>
-        <translation type="unfinished"/>
+        <translation>Hierarki</translation>
     </message>
     <message>
         <source>Use to show an ascending series of pictures with descriptive text. Works best with a small amount of text.</source>
@@ -19242,7 +19254,7 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Hierarchy</source>
         <comment>_kso_SmartArtHierarchy1Name</comment>
-        <translation type="unfinished"/>
+        <translation>Hierarki</translation>
     </message>
     <message>
         <source>Use to show pictures with corresponding Level 1 text displayed in a frame.</source>
@@ -19829,7 +19841,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Pie of 3d</source>
-        <translation type="unfinished"/>
+        <translation>Diagram Lingkaran 3D</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
@@ -19929,7 +19941,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>DsOnlineChart</source>
-        <translation type="unfinished"/>
+        <translation>Animasikan Bagan</translation>
     </message>
     <message>
         <source>OnlineChart</source>
@@ -20084,7 +20096,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Pie of 3d</source>
-        <translation type="unfinished"/>
+        <translation>Diagram Lingkaran 3D</translation>
     </message>
     <message>
         <source>Volume-Open-High-Low-Close</source>
@@ -20200,7 +20212,7 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Letter-Like Symbols</source>
         <comment>OMATH_SYMBOL_CLLS_LETTER_LIKE_SYMBOL</comment>
-        <translation type="unfinished"/>
+        <translation>Simbol Seperti Huruf</translation>
     </message>
     <message>
         <source>Check</source>
@@ -20233,12 +20245,12 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Geometry</source>
         <comment>OMATH_SYMBOL_CG_GEOMETRY</comment>
-        <translation type="unfinished"/>
+        <translation>Geometri</translation>
     </message>
     <message>
         <source>Negated Relations</source>
         <comment>OMATH_SYMBOL_CNR_NEGATED_RELATIONS</comment>
-        <translation type="unfinished"/>
+        <translation>Hubungan Negasi</translation>
     </message>
     <message>
         <source>Maximum</source>
@@ -20258,20 +20270,20 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"/>
+        <translation>Skrip</translation>
     </message>
     <message>
         <source>Integral</source>
-        <translation type="unfinished"/>
+        <translation>Integral</translation>
     </message>
     <message>
         <source>Basic Math</source>
         <comment>OMATH_SYMBOL_CBM_BASIC_MATH</comment>
-        <translation type="unfinished"/>
+        <translation>Matematika Dasar</translation>
     </message>
     <message>
         <source>Operator</source>
-        <translation type="unfinished"/>
+        <translation>Operator</translation>
     </message>
     <message>
         <source>Remove Opening Bracket</source>
@@ -20287,7 +20299,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Negated Relations</source>
-        <translation type="unfinished"/>
+        <translation>Hubungan Negasi</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -20299,7 +20311,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Radical</source>
-        <translation type="unfinished"/>
+        <translation>Radikal</translation>
     </message>
     <message>
         <source>Greater Than</source>
@@ -20315,7 +20327,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Scripts</source>
-        <translation type="unfinished"/>
+        <translation>Skrip</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -20345,11 +20357,11 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Greek Letters</source>
-        <translation type="unfinished"/>
+        <translation>Huruf Yunani</translation>
     </message>
     <message>
         <source>Geometry</source>
-        <translation type="unfinished"/>
+        <translation>Geometri</translation>
     </message>
     <message>
         <source>Remove Enclosing Characters</source>
@@ -20357,11 +20369,11 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Align at =</source>
-        <translation type="unfinished"/>
+        <translation>Rata pada</translation>
     </message>
     <message>
         <source>Letter-Like Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Simbol Seperti Huruf</translation>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
@@ -20369,7 +20381,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Basic Math</source>
-        <translation type="unfinished"/>
+        <translation>Matematika Dasar</translation>
     </message>
 </context>
 <context>
@@ -20411,7 +20423,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>type of encryption:</source>
-        <translation type="unfinished"/>
+        <translation>jenis enkripsi:</translation>
     </message>
 </context>
 <context>
@@ -21312,7 +21324,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation>Merah: (&amp;M)</translation>
+        <translation>Merah:</translation>
     </message>
     <message>
         <source>Hu&amp;e:</source>
@@ -21320,15 +21332,15 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>&amp;Luminance:</source>
-        <translation>Intensitas Cahaya: (&amp;C)</translation>
+        <translation>Intensitas Cahaya:</translation>
     </message>
     <message>
         <source>Color mo&amp;de</source>
-        <translation>Mode warna (&amp;d)</translation>
+        <translation>Mode warna</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>Biru: (&amp;u)</translation>
+        <translation>Biru:</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -21340,11 +21352,11 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>&amp;Saturation:</source>
-        <translation>Saturasi: (&amp;S)</translation>
+        <translation>Saturasi:</translation>
     </message>
     <message>
         <source>&amp;Colors:</source>
-        <translation>Warna: (&amp;W)</translation>
+        <translation>Warna:</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -21356,7 +21368,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>Hijau: (&amp;H)</translation>
+        <translation>Hijau:</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -21364,7 +21376,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>Saluran alfa: (&amp;l)</translation>
+        <translation>Saluran alfa:</translation>
     </message>
 </context>
 <context>
@@ -21599,7 +21611,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>&amp;LinkToContent</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tautkan ke sumber</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
@@ -21678,43 +21690,43 @@ Cek jalur dan nama file.</translation>
     <name>KLocaleSymbolLCIDManager</name>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"/>
+        <translation>Laos</translation>
     </message>
     <message>
         <source>Peru</source>
-        <translation type="unfinished"/>
+        <translation>Peru</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Thailand</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Yunani</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"/>
+        <translation>Khmer</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"/>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"/>
+        <translation>Kanada</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalam</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arab</translation>
     </message>
     <message>
         <source>French</source>
@@ -21726,55 +21738,55 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"/>
+        <translation>Mongolia</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Ibrani</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Korea</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Suria</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"/>
+        <translation>Jepang</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengali</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"/>
+        <translation>Armenia</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Cina</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Sinhala</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"/>
+        <translation>Tibet</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Bahasa Vietnam</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Gujarati</translation>
     </message>
     <message>
         <source>English</source>
@@ -21782,11 +21794,11 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Georgia</translation>
     </message>
     <message>
         <source>Cherokee</source>
-        <translation type="unfinished"/>
+        <translation>Cherokee</translation>
     </message>
 </context>
 <context>
@@ -22275,7 +22287,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.</source>
-        <translation type="unfinished"/>
+        <translation>Templat ini tidak dapat diterapkan. Mungkin rusak atau tidak mau berfungsi untuk bagan yang dipilih.</translation>
     </message>
     <message>
         <source>Delete Value Axis</source>
@@ -22362,7 +22374,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
-        <translation type="unfinished"/>
+        <translation>Jenis bagan saat ini tidak dapat digabungkan dengan jenis bagan lainnya. Anda dapat mengubah jenis bagan dari semua seri data, atau Anda dapat menyimpan bagan ini.</translation>
     </message>
     <message>
         <source>LEGEND</source>
@@ -22475,7 +22487,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengubah jenis bagan. Data yang dipilih tidak dapat diubah ke jenis bagan ini.</translation>
     </message>
     <message>
         <source>Reset To Match Style</source>
@@ -22785,7 +22797,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Premium</source>
-        <translation type="unfinished"/>
+        <translation>Premium</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
@@ -22977,11 +22989,11 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     </message>
     <message>
         <source>yyyy-M-d h:m</source>
-        <translation type="unfinished"/>
+        <translation>tttt-B-h j:m</translation>
     </message>
     <message>
         <source>Expired date : </source>
-        <translation type="unfinished"/>
+        <translation>Tanggal berakhir: </translation>
     </message>
 </context>
 <context>
@@ -23004,7 +23016,7 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     </message>
     <message>
         <source>3DPie</source>
-        <translation type="unfinished"/>
+        <translation>Diagram Lingkaran 3D</translation>
     </message>
     <message>
         <source>Combo</source>
@@ -23175,136 +23187,137 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     <name>KScreenGrabDialog</name>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Pin</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Selesai</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Keluar</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Urung</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Bar Alat</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Ambil Layar</translation>
     </message>
     <message>
         <source>Translate Text</source>
-        <translation type="unfinished"/>
+        <translation>Terjemahkan Teks</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Poligon Ambil</translation>
     </message>
     <message>
         <source>you can set screen grab ocr global shortcut here</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat menetapkan pintasan ambil layar di sini</translation>
     </message>
     <message>
         <source>Save As PDF</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Sebagai PDF</translation>
     </message>
     <message>
         <source>RGB:(%1, %2, %3)</source>
-        <translation type="unfinished"/>
+        <translation>RGB:(%1, %2, %3)</translation>
     </message>
     <message>
         <source>Screenshot Ocr</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Arrow Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Panah</translation>
     </message>
     <message>
         <source>Grab Rect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Ambil Layar</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Salin ke Papan Klip</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"/>
+        <translation>Ambil%1</translation>
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation type="unfinished"/>
+        <translation>Tekan Alt
+untuk Menyerap Baris</translation>
     </message>
     <message>
         <source>%1 * %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 * %2</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation type="unfinished"/>
+        <translation>(%1, %2)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Sebagai</translation>
     </message>
     <message>
         <source>Brush Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Kuas</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan</translation>
     </message>
     <message>
         <source>Rect Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Segi Empat</translation>
     </message>
     <message>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Disalin ke papan klip!</translation>
     </message>
     <message>
         <source>Reselect Region</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Kembali Area</translation>
     </message>
     <message>
         <source>you can set screen grab global shortcut here</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat menetapkan pintasan ambil layar di sini</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"/>
+        <translation>%1;;%2;;%3</translation>
     </message>
     <message>
         <source>Ellipse Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Elips</translation>
     </message>
     <message>
         <source>Grab RoundedRect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Bundar Ambil</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat Teks</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Sembunyikan Bar Alat</translation>
     </message>
 </context>
 <context>
@@ -23557,7 +23570,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Tambah (&amp;T)</translation>
+        <translation>Tambah</translation>
     </message>
     <message>
         <source>Keyboard shortcuts:</source>
@@ -23573,7 +23586,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>&amp;Choose commands from:</source>
-        <translation>Pilih perintah dari: (&amp;P)</translation>
+        <translation>Pilih perintah dari:</translation>
     </message>
     <message>
         <source>Customizations:</source>
@@ -23597,7 +23610,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Rena&amp;me...</source>
-        <translation>Ganti nama... (&amp;m)</translation>
+        <translation>Ganti nama...</translation>
     </message>
     <message>
         <source>New Tab</source>
@@ -23605,15 +23618,15 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation>Reset (&amp;e)</translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Customize the Ri&amp;bbon:</source>
-        <translation>Sesuaikan Pita (&amp;t)</translation>
+        <translation>Sesuaikan Pita:</translation>
     </message>
     <message>
         <source>Ne&amp;w Tab</source>
-        <translation>Tab Baru (&amp;r)</translation>
+        <translation>Tab Baru</translation>
     </message>
     <message>
         <source>Reset all customizations</source>
@@ -23625,11 +23638,11 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Macro name</source>
-        <translation type="unfinished"/>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>&amp;New Group</source>
-        <translation>Grup Baru (&amp;G)</translation>
+        <translation>Grup Baru</translation>
     </message>
     <message>
         <source>New Group</source>
@@ -23641,11 +23654,11 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Cus&amp;tomize...</source>
-        <translation>Sesuaikan... (&amp;a)</translation>
+        <translation>Sesuaikan...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>Hapus (&amp;H)</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Classic menu</source>
@@ -23986,7 +23999,7 @@ Konten</translation>
     <name>kso_filter</name>
     <message>
         <source>Zip</source>
-        <translation type="unfinished"/>
+        <translation>Zip</translation>
     </message>
     <message>
         <source>Word XML Document</source>
@@ -24019,7 +24032,7 @@ Konten</translation>
     </message>
     <message>
         <source>Uniform Office Spreadsheet Format</source>
-        <translation type="unfinished"/>
+        <translation>Format Spreadsheet Office Seragam</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
@@ -24036,7 +24049,7 @@ Konten</translation>
     </message>
     <message>
         <source>Uniform Office Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Format Teks Office Seragam</translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
@@ -24080,7 +24093,7 @@ Alasan yang mungkin:
     </message>
     <message>
         <source>WPS Writer Official Template</source>
-        <translation type="unfinished"/>
+        <translation>Templat WPS Official Document</translation>
     </message>
     <message>
         <source>%1 outward document  applicant : %2  approver : %3</source>
@@ -24094,11 +24107,11 @@ Alasan yang mungkin:
     </message>
     <message>
         <source>OFD Format</source>
-        <translation type="unfinished"/>
+        <translation>Format OFD</translation>
     </message>
     <message>
         <source>PDF Format</source>
-        <translation type="unfinished"/>
+        <translation>Format PDF</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
@@ -24139,7 +24152,7 @@ Alasan yang mungkin:
     </message>
     <message>
         <source>Uniform Office Presentation Format</source>
-        <translation type="unfinished"/>
+        <translation>Format Presentation Office Seragam</translation>
     </message>
     <message>
         <source>RTF File</source>
@@ -24176,7 +24189,7 @@ Alasan yang mungkin:
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Workbook Microsoft Excel 97-2003</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
@@ -24210,7 +24223,7 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format*.uot</source>
-        <translation type="unfinished"/>
+        <translation>Format Dokumen Perangkat Lunak Office Mandarin*.uot</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
@@ -24227,7 +24240,7 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>WPS Writer Official Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Official Document</translation>
     </message>
     <message>
         <source>XML Files</source>
@@ -24266,7 +24279,7 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>Have read and agreed to Kingsoft Office Software</source>
-        <translation type="unfinished"/>
+        <translation>Telah membaca dan menyetujui Perangkat Lunak Kingsoft Office</translation>
     </message>
     <message>
         <source>about:blank</source>
@@ -24274,7 +24287,7 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>I &amp;Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Saya &amp;Konfirmasi</translation>
     </message>
     <message>
         <source>I &amp;Accept</source>
@@ -24282,11 +24295,11 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>I &amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Saya &amp;Batal</translation>
     </message>
     <message>
         <source>Kingsoft Office Software License Agreement and Privacy Agreement</source>
-        <translation type="unfinished"/>
+        <translation>Perjanjian Lisensi Perangkat Lunak dan Perjanjian Privasi Kingsoft Office</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -24317,7 +24330,7 @@ Masukkan nama lain.</translation>
     <name>KxImageToPDFOneCommand</name>
     <message>
         <source>pic</source>
-        <translation type="unfinished"/>
+        <translation>Versi hanya gambar</translation>
     </message>
 </context>
 <context>
@@ -24449,7 +24462,7 @@ Masukkan nama lain.</translation>
     <name>KxServerConnectableTipDlg</name>
     <message>
         <source>Login Hint</source>
-        <translation type="unfinished"/>
+        <translation>Petunjuk Masuk</translation>
     </message>
     <message>
         <source>Login</source>
@@ -24457,15 +24470,15 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>The network connection has been restored to normal. To ensure the normal use of the function, please log in to the account %1 before encrypting the document.</source>
-        <translation type="unfinished"/>
+        <translation>Koneksi jaringan telah dipulihkan ke normal. Untuk memastikan penggunaan normal fitur, masuk dengan akun %1 sebelum mengenkripsi dokumen.</translation>
     </message>
     <message>
         <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
-        <translation type="unfinished"/>
+        <translation>Akun tercatat masuk %1 tidak sama dengan akun offline %2. Gunakan akun offline untuk verifikasi.</translation>
     </message>
     <message>
         <source>Login Exception Hint</source>
-        <translation type="unfinished"/>
+        <translation>Peringatan Pengecualian Masuk</translation>
     </message>
 </context>
 <context>
@@ -24519,7 +24532,7 @@ Masukkan nama lain.</translation>
     <name>KxDlgRunMacro</name>
     <message>
         <source>&amp;Run</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Jalankan</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -24543,7 +24556,7 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>M&amp;acro in:</source>
-        <translation type="unfinished"/>
+        <translation>M&amp;akro dalam:</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -24555,11 +24568,11 @@ Masukkan nama lain.</translation>
     </message>
     <message>
         <source>&amp;Step Into</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lakukan</translation>
     </message>
     <message>
         <source>Descript&amp;ion:</source>
-        <translation type="unfinished"/>
+        <translation>Deskrip&amp;si:</translation>
     </message>
 </context>
 <context>
@@ -25215,7 +25228,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>If WPS client is already running, you need to restart it to take effect.</source>
-        <translation type="unfinished"/>
+        <translation>Jika klien WPS sudah terbuka, Anda harus memulai ulang WPS untuk diterapkan.</translation>
     </message>
     <message>
         <source>Allow</source>
@@ -25235,15 +25248,15 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Confirm that the add-on &quot;%1&quot; is allowed to run in the WPS client?</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi mengizinkan add-in &quot;%1&quot; berjalan di klien WPS?</translation>
     </message>
     <message>
         <source>Confirm that &quot;%1&quot; delete WPS Addon &quot;%2&quot; is allowed?</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi mengizinkan &quot;%1&quot; menghapus add-in WPS &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>Unknown Origin</source>
-        <translation type="unfinished"/>
+        <translation>Asal Tidak Diketahui</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -25251,7 +25264,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Refuse</source>
-        <translation type="unfinished"/>
+        <translation>Tolak</translation>
     </message>
     <message>
         <source>SaveAs</source>
@@ -25259,15 +25272,15 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Always allowed</source>
-        <translation type="unfinished"/>
+        <translation>Selalu izinkan</translation>
     </message>
     <message>
         <source>Confirm to allow &quot;%1&quot; to access WPS Addon &quot;%2&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi untuk mengizinkan &quot;%1&quot; mengakses Addon WPS &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>F4Repeat</source>
-        <translation type="unfinished"/>
+        <translation>Ulangi</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -25275,19 +25288,19 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Please make sure that the site is trusted, it has the right to display its web page information in WPS and access your document contentand computer resources.</source>
-        <translation type="unfinished"/>
+        <translation>Pastikan situs tersebut tepercaya dan memiliki hak untuk menampilkan informasi halaman webnya di WPS dan mengakses konten dokumen dan sumber komputer Anda.</translation>
     </message>
     <message>
         <source>Allowed this time</source>
-        <translation type="unfinished"/>
+        <translation>Izinkan kali ini</translation>
     </message>
     <message>
         <source>Confirm to add WPS Addon &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi untuk menambahkan add-in WPS &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>This add-on is a third-party program, can add new features to WPS, But it has access to your document content, computer resources.</source>
-        <translation type="unfinished"/>
+        <translation>Add-in ini adalah program pihak ketiga yang dapat menambahkan fitur-fitur baru ke WPS, tapi add-in ini memiliki akses ke konten dokumen dan sumber komputer Anda.</translation>
     </message>
 </context>
 <context>
@@ -25309,7 +25322,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Page &amp;source:</source>
-        <translation>Sumber halaman: (&amp;S)</translation>
+        <translation>Sumber halaman:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -25325,7 +25338,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation>Cetak Bolak-Balik (&amp;B)</translation>
+        <translation>Cetak Bolak-Balik</translation>
     </message>
     <message>
         <source>Flip on long edge</source>
@@ -25333,11 +25346,11 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>&amp;Inverse output</source>
-        <translation>Output terbalik (&amp;b)</translation>
+        <translation>Output terbalik</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"/>
+        <translation>Menyambungkan</translation>
     </message>
     <message>
         <source>Manual duplex</source>
@@ -25345,7 +25358,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation>Nama: (&amp;m)</translation>
+        <translation>Nama:</translation>
     </message>
     <message>
         <source>Paused</source>
@@ -25369,7 +25382,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>&amp;Fast Print</source>
-        <translation type="unfinished"/>
+        <translation>Cetak Cepat</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -25377,7 +25390,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation>Cetak ke file (&amp;l)</translation>
+        <translation>Cetak ke file</translation>
     </message>
     <message>
         <source>Printing</source>
@@ -25397,7 +25410,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
-        <translation>Properti... (&amp;P)</translation>
+        <translation>Properti...</translation>
     </message>
 </context>
 <context>
@@ -25423,31 +25436,31 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <name>KScreenGrabPin</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Salin</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Bayangan</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"/>
+        <translation>Ambil%1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Sebagai</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"/>
+        <translation>%1;;%2;;%3</translation>
     </message>
 </context>
 <context>
@@ -25551,87 +25564,87 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <name>KxDlgCustomThemeColor</name>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"/>
+        <translation>Gelap</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Terang</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nama:</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset (&amp;R)</translation>
     </message>
     <message>
         <source>Text/&amp;Backdrop-Light 1</source>
-        <translation type="unfinished"/>
+        <translation>Teks/&amp;Latar Belakang - Terang 1</translation>
     </message>
     <message>
         <source>Text/Backdrop-&amp;Dark 2</source>
-        <translation type="unfinished"/>
+        <translation>Teks/Latar Belakang - &amp;Gelap 2</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hyperlink</translation>
     </message>
     <message>
         <source>Theme color</source>
-        <translation type="unfinished"/>
+        <translation>Warna tema</translation>
     </message>
     <message>
         <source>&amp;Text/Backdrop-Dark 1</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Teks/Latar Belakang - Gelap 1</translation>
     </message>
     <message>
         <source>Coloring &amp;1</source>
-        <translation type="unfinished"/>
+        <translation>Mewarnai &amp;1</translation>
     </message>
     <message>
         <source>Coloring &amp;2</source>
-        <translation type="unfinished"/>
+        <translation>Mewarnai &amp;2</translation>
     </message>
     <message>
         <source>Coloring &amp;3</source>
-        <translation type="unfinished"/>
+        <translation>Mewarnai &amp;3</translation>
     </message>
     <message>
         <source>Coloring &amp;4</source>
-        <translation type="unfinished"/>
+        <translation>Mewarnai &amp;4</translation>
     </message>
     <message>
         <source>Coloring &amp;5</source>
-        <translation type="unfinished"/>
+        <translation>Mewarnai &amp;5</translation>
     </message>
     <message>
         <source>Coloring &amp;6</source>
-        <translation type="unfinished"/>
+        <translation>Mewarnai &amp;6</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Warna Sendiri</translation>
     </message>
     <message>
         <source>Example</source>
-        <translation type="unfinished"/>
+        <translation>Contoh</translation>
     </message>
     <message>
         <source>Text/Backdrop-&amp;Light 2</source>
-        <translation type="unfinished"/>
+        <translation>Teks/Latar Belakang - &amp;Terang 2</translation>
     </message>
     <message>
         <source>&amp;Visited hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hyperlink yang Diikuti</translation>
     </message>
 </context>
 <context>
@@ -25715,7 +25728,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Make</source>
-        <translation type="unfinished"/>
+        <translation>Buat</translation>
     </message>
 </context>
 <context>
@@ -25824,7 +25837,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <name>KxMBCommand</name>
     <message>
         <source>Else</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya</translation>
     </message>
     <message>
         <source>tips</source>
@@ -25832,111 +25845,111 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>You cannot issue this document because you are not the issuer. Contact your administrator to solve the problem.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menerbitkan dokumen ini karena Anda bukan penerbit. Hubungi administrator untuk menerbitkan dokumen.</translation>
     </message>
     <message>
         <source>confirm decrypt classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil ditinjau. Kerahasiaan dibatalkan.</translation>
     </message>
     <message>
         <source>confirm lift classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil ditinjau. Dokumen dikecualikan dari kerahasiaan.</translation>
     </message>
     <message>
         <source>Cannot issue</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat menerbitkan</translation>
     </message>
     <message>
         <source>withdraw issued doc success!</source>
-        <translation type="unfinished"/>
+        <translation>Anda berhasil menarik kembali dokumen yang diterbitkan, dan dokumen dipulihkan ke status rahasia terkonfirmasi.</translation>
     </message>
     <message>
         <source>submit change classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Dikirim ke petugas terkait untuk mengubah peninjauan.</translation>
     </message>
     <message>
         <source>Cannot setup classification level</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengonfirmasi tingkat kerahasiaan.</translation>
     </message>
     <message>
         <source>withdraw issue success</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen yang diterbitkan berhasil ditarik kembali.</translation>
     </message>
     <message>
         <source>You cannot lift the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat membatalkan tingkat kerahasiaan untuk dokumen ini karena Anda bukan drafter atau orang yang bertanggung jawab. Hubungi administrator untuk membatalkan tingkat kerahasiaan.</translation>
     </message>
     <message>
         <source>You cannot change the classification level for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat mengubah tingkat kerahasiaan untuk dokumen ini karena Anda bukan drafter atau orang yang bertanggung jawab. Hubungi administrator untuk mengubah tingkat kerahasiaan.</translation>
     </message>
     <message>
         <source>can not operate</source>
-        <translation type="unfinished"/>
+        <translation>tidak dapat dioperasikan</translation>
     </message>
     <message>
         <source>label classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen telah ditandai rahasia. Kirim dokumen ke petugas terkait untuk peninjauan konfirmasi kerahasiaan.</translation>
     </message>
     <message>
         <source>Cannot lift classification</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat menaikkan klasifikasi</translation>
     </message>
     <message>
         <source>You cannot setup the classification level for this document because you are not the person responsible. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat mengonfirmasi tingkat kerahasiaan untuk dokumen ini karena Anda bukan orang yang bertanggung jawab. Hubungi administrator untuk mengonfirmasi tingkat kerahasiaan.</translation>
     </message>
     <message>
         <source>signed classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil ditinjau. Dokumen sudah diterbitkan.</translation>
     </message>
     <message>
         <source>Cannot remove classification</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengecualikan dokumen dari kerahasiaan.</translation>
     </message>
     <message>
         <source>this document has applying %1, can not operate %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 yang diaplikasikan pada dokumen saat ini belum ditinjau. Jalankan %2 operasi setelah peninjauan.</translation>
     </message>
     <message>
         <source>Cannot withdraw issued</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menerbitkan dokumen yang ditarik kembali.</translation>
     </message>
     <message>
         <source>setup classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil ditinjau. Tingkat kerahasiaan dokumen telah dikonfirmasi.</translation>
     </message>
     <message>
         <source>You cannot label the classification level for this document because you are not the drafter. You can contact your administrator for labeling.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat mengatur tingkat kerahasiaan untuk dokumen ini karena Anda bukan drafter. Hubungi administrator untuk mengatur tingkat kerahasiaan.</translation>
     </message>
     <message>
         <source>You cannot remove the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat mengecualikan dokumen dari kerahasiaan karena Anda bukan drafter atau orang yang bertanggung jawab. Hubungi administrator untuk mengecualikan dokumen dari kerahasiaan.</translation>
     </message>
     <message>
         <source>submit lift classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Dikirim ke petugas terkait untuk peninjauan pengecualian kerahasiaan.</translation>
     </message>
     <message>
         <source>Cannot change classification level</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat mengubah tingkat klasifikasi</translation>
     </message>
     <message>
         <source>You cannot withdraw issue because you are not the issuer.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menarik penerbitan karena Anda bukan penerbit.</translation>
     </message>
     <message>
         <source>confirm change classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil ditinjau. Tingkat kerahasiaan berubah.</translation>
     </message>
     <message>
         <source>Cannot label classification level</source>
-        <translation type="unfinished"/>
+        <translation>Gagal ditandai rahasia.</translation>
     </message>
     <message>
         <source>submit decrypt classification success!</source>
-        <translation type="unfinished"/>
+        <translation>Dikirim ke petugas terkait untuk peninjauan pembatalan.</translation>
     </message>
 </context>
 <context>
@@ -25963,7 +25976,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Uniform Office Spreadsheet Format</source>
-        <translation type="unfinished"/>
+        <translation>Format Spreadsheet Office Seragam</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation.</source>
@@ -25979,7 +25992,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Uniform Office Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Format Teks Office Seragam</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
@@ -25991,7 +26004,7 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>XLS Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Workbook XLS</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -26019,11 +26032,11 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
     <message>
         <source>Uniform Office Presentation Format</source>
-        <translation type="unfinished"/>
+        <translation>Format Presentation Office Seragam</translation>
     </message>
     <message>
         <source>XLSX Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Workbook XLSX</translation>
     </message>
     <message>
         <source>Inserts the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
@@ -26586,7 +26599,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>&amp;Choose commands from:</source>
-        <translation>Pilih perintah dari: (&amp;P)</translation>
+        <translation>Pilih perintah dari:</translation>
     </message>
     <message>
         <source>Customize Quick Access Toolbar</source>
@@ -26594,19 +26607,19 @@ Pemindahan</translation>
     </message>
     <message>
         <source>All Commands</source>
-        <translation type="unfinished"/>
+        <translation>Semua Perintah</translation>
     </message>
     <message>
         <source>All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Semua Tab</translation>
     </message>
     <message>
         <source>Assign [Alt+number] hot keys to commands in quick toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat mengatur tombol pintasan [Alt+angka] untuk perintah yang ditambahkan ke Bar Alat Akses Cepat.</translation>
     </message>
     <message>
         <source>R&amp;eset</source>
-        <translation>Reset (&amp;e)</translation>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Customize the Quick Access Toolbar</source>
@@ -26614,11 +26627,11 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Hot keys</source>
-        <translation type="unfinished"/>
+        <translation>Tombol pintasan</translation>
     </message>
     <message>
         <source>Macro name</source>
-        <translation type="unfinished"/>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -26653,11 +26666,11 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Do&amp;n&apos;t remind me</source>
-        <translation>Jangan ingatkan saya (&amp;n)</translation>
+        <translation>Jangan ingatkan saya</translation>
     </message>
     <message>
         <source>&amp;Receive Help and QA notices</source>
-        <translation>Terima pemberitahuan Bantuan dan TJ (&amp;T)</translation>
+        <translation>Terima pemberitahuan Bantuan dan TJ</translation>
     </message>
     <message>
         <source>Notification</source>
@@ -26710,7 +26723,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>No results found, please re-enter.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ditemukan hasil, masukkan ulang.</translation>
     </message>
     <message>
         <source>Search</source>
@@ -26718,7 +26731,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Enter at least two keywords</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan minimal dua kata kunci</translation>
     </message>
 </context>
 <context>
@@ -26729,11 +26742,11 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"/>
+        <translation>Percaya</translation>
     </message>
     <message>
         <source>Don&apos;t Trust</source>
-        <translation type="unfinished"/>
+        <translation>Jangan Percaya</translation>
     </message>
     <message>
         <source>Details</source>
@@ -26741,7 +26754,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>You are about to visit a third-party website</source>
-        <translation type="unfinished"/>
+        <translation>Anda akan mengunjungi situs web pihak ketiga</translation>
     </message>
 </context>
 <context>
@@ -27291,11 +27304,11 @@ Pemindahan</translation>
     </message>
     <message>
         <source>This file format is not supported at this time.</source>
-        <translation type="unfinished"/>
+        <translation>Format file tidak didukung saat ini.</translation>
     </message>
     <message>
         <source>The document need to be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen perlu disimpan.</translation>
     </message>
 </context>
 <context>
@@ -27398,7 +27411,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation type="unfinished"/>
+        <translation>Buka Dokumen Lokal</translation>
     </message>
     <message>
         <source>CloudDisk</source>
@@ -27667,15 +27680,15 @@ Pemindahan</translation>
     <name>KxInkDrawPenGalleryCommand</name>
     <message>
         <source>Line</source>
-        <translation type="unfinished"/>
+        <translation>Baris</translation>
     </message>
     <message>
         <source>Rect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Ambil Layar</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Gelombang</translation>
     </message>
     <message>
         <source>1pound</source>
@@ -27706,7 +27719,7 @@ Pemindahan</translation>
     <name>KxOutwardDocTableModelV2</name>
     <message>
         <source>Made</source>
-        <translation type="unfinished"/>
+        <translation>Dibuat</translation>
     </message>
     <message>
         <source>Time</source>
@@ -27714,7 +27727,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>nothing</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada</translation>
     </message>
     <message>
         <source>Status</source>
@@ -27726,7 +27739,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>ToBeReviewed</source>
-        <translation type="unfinished"/>
+        <translation>Menunggu Peninjauan</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -27742,11 +27755,11 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Reviewed</source>
-        <translation type="unfinished"/>
+        <translation>Ditinjau</translation>
     </message>
     <message>
         <source>Expired</source>
-        <translation type="unfinished"/>
+        <translation>Berakhir</translation>
     </message>
     <message>
         <source>Protect Type</source>
@@ -27757,7 +27770,7 @@ Pemindahan</translation>
     <name>KxDlgChooseOutwardDocV2</name>
     <message>
         <source>Make</source>
-        <translation type="unfinished"/>
+        <translation>Buat</translation>
     </message>
     <message>
         <source>=+new</source>
@@ -27769,7 +27782,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Make outward document</source>
-        <translation type="unfinished"/>
+        <translation>Buat dokumen ke luar</translation>
     </message>
 </context>
 <context>
@@ -27797,7 +27810,7 @@ Pemindahan</translation>
     <name>KScreenGrabMenu</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya</translation>
     </message>
 </context>
 <context>
@@ -28085,7 +28098,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Perbesar</translation>
     </message>
     <message>
         <source>Close Full Screen</source>
@@ -28097,7 +28110,7 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Perkecil</translation>
     </message>
     <message>
         <source>Real Size</source>
@@ -28237,11 +28250,11 @@ Pemindahan</translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation type="unfinished"/>
+        <translation>Buka Dokumen Lokal</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -28382,23 +28395,23 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <name>KScreenGrabWindow</name>
     <message>
         <source>Rect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Ambil Layar</translation>
     </message>
     <message>
         <source>Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Poligon</translation>
     </message>
     <message>
         <source>RoundedRect</source>
-        <translation type="unfinished"/>
+        <translation>Persegi Bundar Ambil Layar</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Oval</translation>
     </message>
     <message>
         <source>WPS Screengrab</source>
-        <translation type="unfinished"/>
+        <translation>Ambil layar WPS</translation>
     </message>
 </context>
 <context>
@@ -28427,7 +28440,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <name>KQuitCoopEditMsgBox</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Keluar</translation>
     </message>
 </context>
 <context>
@@ -28683,11 +28696,11 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Level of classification</source>
-        <translation type="unfinished"/>
+        <translation>Tingkat Kerahasiaan</translation>
     </message>
     <message>
         <source>People</source>
-        <translation type="unfinished"/>
+        <translation>Petugas</translation>
     </message>
     <message>
         <source>Status</source>
@@ -28695,7 +28708,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Type of encryption</source>
-        <translation type="unfinished"/>
+        <translation>Jenis enkripsi</translation>
     </message>
     <message>
         <source>Operation</source>
@@ -28706,23 +28719,23 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <name>KxCustomThemeColorDlg</name>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>Tips</translation>
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>Teks</translation>
     </message>
     <message>
         <source>Change Theme Color</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Warna Tema</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Kustom</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Theme color name cannot be empty</source>
@@ -28850,7 +28863,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>This file has been opened as read-only. Enable edit?</source>
-        <translation type="unfinished"/>
+        <translation>File ini dalam mode hanya baca untuk saat ini. Aktifkan edit?</translation>
     </message>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
@@ -28862,7 +28875,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>%1%2%3click here to view more details, and get more solution%4</source>
-        <translation type="unfinished"/>
+        <translation>%1%2%3Klik di sini untuk melihat solusi lain atau mempelajari cara mengaktifkan makro.%4</translation>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored(If you do not need the restored file, close it directly and reopen the original document).</source>
@@ -28870,19 +28883,19 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>check key word</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Detail</translation>
     </message>
     <message>
         <source>WPS Diagnositic</source>
-        <translation type="unfinished"/>
+        <translation>Alat Diagnostik WPS</translation>
     </message>
     <message>
         <source>You can only edit under read-only mode since other users are editing this file.</source>
-        <translation type="unfinished"/>
+        <translation>Anda hanya dapat mengedit dalam mode hanya baca karena pengguna lain sedang mengedit dokumen ini.</translation>
     </message>
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.</source>
-        <translation type="unfinished"/>
+        <translation>Makro tidak dapat dijalankan karena perpustakaan dukungan VBA tidak diinstal.</translation>
     </message>
     <message>
         <source>%1To find an earlier version, it is recommended to restore it from the backupcenter%2</source>
@@ -28902,7 +28915,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>security warning: JS macros have been disabled</source>
-        <translation type="unfinished"/>
+        <translation>peringatan keamanan: Makro JS telah dinonaktifkan</translation>
     </message>
     <message>
         <source>send report</source>
@@ -28918,7 +28931,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>%1To find an earlier version%2</source>
-        <translation type="unfinished"/>
+        <translation>%1Untuk melihat versi sebelumnya%2</translation>
     </message>
     <message>
         <source>immediately fix</source>
@@ -28962,19 +28975,19 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>find some keywords</source>
-        <translation type="unfinished"/>
+        <translation>File telah dicek tingkat kerahasiaannya. Hasil: total</translation>
     </message>
     <message>
         <source>There was an error in the backup replay process, and some backup content may have been lost.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan saat melanjutkan pencadangan. Sebagian konten cadangan mungkin hilang.</translation>
     </message>
     <message>
         <source>To change this file from server, please check out first.</source>
-        <translation type="unfinished"/>
+        <translation>Untuk mengubah dokumen server ini, Anda harus mengeceknya.</translation>
     </message>
     <message>
         <source>checkout</source>
-        <translation type="unfinished"/>
+        <translation>cek</translation>
     </message>
     <message>
         <source>Do not show again</source>
@@ -28993,14 +29006,14 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>show more</source>
-        <translation type="unfinished"/>
+        <translation>tampilkan lainnya</translation>
     </message>
 </context>
 <context>
     <name>KxRnTpTitle</name>
     <message>
         <source>lock</source>
-        <translation type="unfinished"/>
+        <translation>Lepas sematan panel</translation>
     </message>
     <message>
         <source>(page to doc area)</source>
@@ -29016,7 +29029,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>unlock</source>
-        <translation type="unfinished"/>
+        <translation>Sematkan panel</translation>
     </message>
     <message>
         <source>(page to task pane)</source>
@@ -29163,15 +29176,15 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Are you sure to withdraw issue?</source>
-        <translation type="unfinished"/>
+        <translation>Setelah dokumen yang diterbitkan ditarik kembali, dokumen akan dipublikasikan ke status kerahasiaan terkonfirmasi. Anda yakin ingin menarik kembali dokumen yang diterbitkan?</translation>
     </message>
     <message>
         <source>can not operate</source>
-        <translation type="unfinished"/>
+        <translation>tidak dapat dioperasikan</translation>
     </message>
     <message>
         <source>this document has applying %1, can not withdraw issue.</source>
-        <translation type="unfinished"/>
+        <translation>%1 yang diaplikasikan pada dokumen ini tidak akan ditinjau. Tinjau sebelum Anda menarik kembali dokumen yang telah diterbitkan atau lakukan operasi terkait.</translation>
     </message>
 </context>
 <context>
@@ -29310,11 +29323,11 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>SupportType_Office</source>
-        <translation type="unfinished"/>
+        <translation>Didukung Office Software</translation>
     </message>
     <message>
         <source>not support yet</source>
-        <translation type="unfinished"/>
+        <translation>Tidak didukung</translation>
     </message>
     <message>
         <source>OutwardType_WaterMark</source>
@@ -29322,15 +29335,15 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>OutwardType_PasswordAndWatermark</source>
-        <translation type="unfinished"/>
+        <translation>Proteksi Kata Sandi &amp; Tanda Air</translation>
     </message>
     <message>
         <source>SupportType_Wps</source>
-        <translation type="unfinished"/>
+        <translation>Hanya Didukung WPS Versi Keamanan</translation>
     </message>
     <message>
         <source>NoProtect</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada</translation>
     </message>
     <message>
         <source>description</source>
@@ -29342,15 +29355,15 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>open password:</source>
-        <translation type="unfinished"/>
+        <translation>kata sandi pembuka:</translation>
     </message>
     <message>
         <source>watermark:</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Tanda Air:</translation>
     </message>
     <message>
         <source>Support Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipe yang Didukung</translation>
     </message>
     <message>
         <source>Authorize Id</source>
@@ -29412,7 +29425,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <name>KxGalleryFontComboBox</name>
     <message>
         <source>Hide theme fonts</source>
-        <translation type="unfinished"/>
+        <translation>Klik untuk menyembunyikan font tema</translation>
     </message>
     <message>
         <source> (Body)</source>
@@ -29424,42 +29437,42 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Show theme fonts</source>
-        <translation type="unfinished"/>
+        <translation>Klik untuk menampilkan font tema</translation>
     </message>
     <message>
         <source>Show theme Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan Font tema</translation>
     </message>
 </context>
 <context>
     <name>KXBlackTipWidget</name>
     <message>
         <source>%1Not again for this file%2</source>
-        <translation type="unfinished"/>
+        <translation>%1Jangan ingatkan saya lagi di dokumen ini%2</translation>
     </message>
     <message>
         <source>Takes too long to open? Slim the file to clear invalid data.</source>
-        <translation type="unfinished"/>
+        <translation>File memerlukan waktu yang sangat lama untuk terbuka? Kami menyarankan Anda merampingkan file, yang tidak akan memengaruhi data atau rumus.</translation>
     </message>
     <message>
         <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
-        <translation type="unfinished"/>
+        <translation>Operasi lambat? Lambat dalam menyimpan file? Kami menyarankan Anda merampingkan file, yang tidak akan memengaruhi data atau rumus.</translation>
     </message>
     <message>
         <source>The file has too much data excess. Auto-slimming it down:</source>
-        <translation type="unfinished"/>
+        <translation>Untuk pengalaman yang lebih baik, kami mengoptimalkan dan mengompresi file besar Anda... xx%</translation>
     </message>
     <message>
         <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
-        <translation type="unfinished"/>
+        <translation>Jangan ingatkan saya lagi di dokumen ini. Untuk menggunakan Perampingan File, temukan di Fitur Khusus.</translation>
     </message>
     <message>
         <source>Not again for this file</source>
-        <translation type="unfinished"/>
+        <translation>Jangan ingatkan saya lagi di dokumen ini</translation>
     </message>
     <message>
         <source>Slim list</source>
-        <translation type="unfinished"/>
+        <translation>Daftar perampingan</translation>
     </message>
 </context>
 <context>
@@ -30452,7 +30465,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a TIFF picture.</source>
-        <translation type="unfinished"/>
+        <translation>Konten-konten papan klip ini akan disisipkan sebagai gambar TIFF.</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as an Enhanced Metafile.</source>
@@ -30659,7 +30672,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <name>KxFormatGroupContentChartNumber</name>
     <message>
         <source>Malay(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>Melayu(Malaysia)</translation>
     </message>
     <message>
         <source>English(United Kingdom)</source>
@@ -30675,11 +30688,11 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Portuguese(Brazil)</source>
-        <translation type="unfinished"/>
+        <translation>Portugis(Brazil)</translation>
     </message>
     <message>
         <source>English(Malaysia)</source>
-        <translation type="unfinished"/>
+        <translation>Inggris(Malaysia)</translation>
     </message>
     <message>
         <source>English(United States)</source>
@@ -30691,11 +30704,11 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Russian(Russia)</source>
-        <translation type="unfinished"/>
+        <translation>Rusia(Rusia)</translation>
     </message>
     <message>
         <source>Portuguese(Portugal)</source>
-        <translation type="unfinished"/>
+        <translation>Portugis(Portugal)</translation>
     </message>
     <message>
         <source>English(Australia)</source>
@@ -30707,15 +30720,15 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Hindi(India)</source>
-        <translation type="unfinished"/>
+        <translation>Hindi(India)</translation>
     </message>
     <message>
         <source>English(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>Inggris(Indonesia)</translation>
     </message>
     <message>
         <source>Indonesian(Indonesia)</source>
-        <translation type="unfinished"/>
+        <translation>Bahasa Indonesia(Indonesia)</translation>
     </message>
     <message>
         <source>Thai(Thailand)</source>
@@ -30731,7 +30744,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Spanish(Spain)</source>
-        <translation type="unfinished"/>
+        <translation>Spanyol(Spanyol)</translation>
     </message>
     <message>
         <source>Japanese(Japan)</source>
@@ -30743,26 +30756,26 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Chinese(HongKong S.A.R)</source>
-        <translation type="unfinished"/>
+        <translation>Mandarin(D.A.K. Hong Kong)</translation>
     </message>
     <message>
         <source>Chinese(Taiwan China)</source>
-        <translation type="unfinished"/>
+        <translation>Mandarin(Taiwan Tiongkok)</translation>
     </message>
     <message>
         <source>English(Philippines)</source>
-        <translation type="unfinished"/>
+        <translation>Inggris(Filipina)</translation>
     </message>
 </context>
 <context>
     <name>KxShortcutsDiffDlg</name>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"/>
+        <translation>Pratampil Cetak</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan</translation>
     </message>
 </context>
 <context>
@@ -30974,15 +30987,15 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <name>KdeSecurityLevelDlg</name>
     <message>
         <source>&amp;High</source>
-        <translation>Tinggi (&amp;T)</translation>
+        <translation>Tinggi</translation>
     </message>
     <message>
         <source>&amp;Security Level</source>
-        <translation>Level Keamanan (&amp;L)</translation>
+        <translation>Level Keamanan</translation>
     </message>
     <message>
         <source>&amp;Low(not recommended)</source>
-        <translation>Rendah(tidak direkomendasikan) (&amp;R)</translation>
+        <translation>Rendah(tidak direkomendasikan)</translation>
     </message>
     <message>
         <source>You can choose whether or not to run potentially unsafe macros.</source>
@@ -30990,7 +31003,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>&amp;Trusted Publishers</source>
-        <translation>Penerbit Tepercaya (&amp;P)</translation>
+        <translation>Penerbit Tepercaya</translation>
     </message>
     <message>
         <source>Only macros installed in trusted locations will be allowed to run. All other signed and unsigned macros are disabled.</source>
@@ -30998,7 +31011,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Trust access to &amp;Visual Basic Project</source>
-        <translation>Percayai akses ke to Proyek Visual Basic (&amp;V)</translation>
+        <translation>Percayai akses ke to Proyek Visual Basic</translation>
     </message>
     <message>
         <source>You are not protected from potentially unsafe macros. Use this setting only if you have virus scanning software installed, or you have checked the safety of all documents you open.</source>
@@ -31010,11 +31023,11 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>&amp;Very high</source>
-        <translation>Sangat tinggi (&amp;S)</translation>
+        <translation>Sangat tinggi</translation>
     </message>
     <message>
         <source>&amp;Medium</source>
-        <translation>Sedang (&amp;S)</translation>
+        <translation>Sedang</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -31421,19 +31434,19 @@ KERANGKA TEKS</translation>
     </message>
     <message>
         <source>Caps Lock is on.</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock aktif.</translation>
     </message>
     <message>
         <source>Having Caps Lock on may cause you to enter your password incorrectly. </source>
-        <translation type="unfinished"/>
+        <translation>Mengaktifkan Caps Lock dapat membuat pengetikan kata sandi Anda salah.</translation>
     </message>
     <message>
         <source>You cannot copy from the password.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak dapat menyalin dari kata sandi.</translation>
     </message>
     <message>
         <source>Not Allowed.</source>
-        <translation type="unfinished"/>
+        <translation>Tidak Diizinkan.</translation>
     </message>
 </context>
 <context>
@@ -32251,11 +32264,11 @@ KERANGKA TEKS</translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation type="unfinished"/>
+        <translation>Buka Dokumen Lokal</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -32958,7 +32971,7 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
     <message>
         <source>Custom toolbar needs to login.</source>
-        <translation type="unfinished"/>
+        <translation>Operasi saat ini hanya berlaku di komputer ini. Dapat disinkronkan ke perangkat lain setelah Anda masuk.</translation>
     </message>
 </context>
 <context>
@@ -32969,15 +32982,15 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
     <message>
         <source>After closing, when WPS is unexpectedly closed, unsaved documents will be at risk of losing data. It is recommended to turn on backup.</source>
-        <translation type="unfinished"/>
+        <translation>Setelah menutup, ketika WPS tiba-tiba tertutup, dokumen yang tidak tersimpan akan berisiko kehilangan data. Disarankan untuk mengaktifkan pencadangan.</translation>
     </message>
     <message>
         <source>Keep on</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <source>Are you sure to close local backup?</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin ingin menutup pencadangan lokal?</translation>
     </message>
 </context>
 <context>
@@ -33434,7 +33447,7 @@ Dokumen ini</translation>
     <name>KxOfdPreviewProgressDlg</name>
     <message>
         <source>OFD Print Preview</source>
-        <translation type="unfinished"/>
+        <translation>Pratinjau Cetak OFD</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -33442,19 +33455,19 @@ Dokumen ini</translation>
     </message>
     <message>
         <source>Ofd preview is being generated.</source>
-        <translation type="unfinished"/>
+        <translation>Membuat pratinjau...</translation>
     </message>
     <message>
         <source>Preview Ofd Failed! Please Click Retry.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuat pratinjau. Klik untuk coba lagi.</translation>
     </message>
     <message>
         <source>%1 Done</source>
-        <translation type="unfinished"/>
+        <translation>%1 halaman selesai</translation>
     </message>
     <message>
         <source>Cancel Preview</source>
-        <translation type="unfinished"/>
+        <translation>Batal Pratinjau</translation>
     </message>
 </context>
 <context>
@@ -33684,11 +33697,11 @@ hingga
     </message>
     <message>
         <source>&amp;Auto add as Trusted document.</source>
-        <translation>Autotambah sebagai Dokumen tepercaya. (&amp;A)</translation>
+        <translation>Autotambah sebagai Dokumen tepercaya.</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>Hapus (&amp;H)</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Change or add a location that treated as tructed sources, make sure that the new location is secure.</source>
@@ -33700,7 +33713,7 @@ hingga
     </message>
     <message>
         <source>&amp;Add new location...</source>
-        <translation>Tambahkan lokasi baru... (&amp;T)</translation>
+        <translation>Tambahkan lokasi baru...</translation>
     </message>
     <message>
         <source>User Locations:</source>
@@ -33712,7 +33725,7 @@ hingga
     </message>
     <message>
         <source>&amp;Disable all Trusted Locations</source>
-        <translation>Nonaktifkan semua Lokasi Tepercaya (&amp;N)</translation>
+        <translation>Nonaktifkan semua Lokasi Tepercaya</translation>
     </message>
     <message>
         <source>Add Objects with &amp;Hyperlink as Trusted Objects</source>
@@ -33720,7 +33733,7 @@ hingga
     </message>
     <message>
         <source>&amp;Edit link...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Edit Tautan</translation>
     </message>
     <message>
         <source>Trusted File Link</source>
@@ -33748,15 +33761,15 @@ hingga
     </message>
     <message>
         <source>Macros &amp;Security...</source>
-        <translation>Keamanan Makro... (&amp;M)</translation>
+        <translation>Keamanan Makro...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation>Ubah... (&amp;U)</translation>
+        <translation>Ubah...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>Hapus (&amp;H)</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Macro security</source>
@@ -33786,7 +33799,7 @@ hingga
     <name>KxFormatGroupContentChartAxisOptions</name>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Veritcal axis crosses</source>
@@ -33805,7 +33818,7 @@ hingga
     </message>
     <message>
         <source>loaded failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal memuat. Klik untuk coba lagi.</translation>
     </message>
     <message>
         <source>Online resource deployment failed</source>
@@ -33905,71 +33918,71 @@ hingga
     <name>KPinKeyVerifyDlg</name>
     <message>
         <source>install</source>
-        <translation type="unfinished"/>
+        <translation>instal</translation>
     </message>
     <message>
         <source>server not %1, please try later</source>
-        <translation type="unfinished"/>
+        <translation>Layanan tidak %1. Coba lagi nanti.</translation>
     </message>
     <message>
         <source>cert not valid yet</source>
-        <translation type="unfinished"/>
+        <translation>sertf belum berlaku</translation>
     </message>
     <message>
         <source>insert USB Key success</source>
-        <translation type="unfinished"/>
+        <translation>Drive USB berhasil dimasukkan.</translation>
     </message>
     <message>
         <source>USB Key will be locked when the remaining count is zero.</source>
-        <translation type="unfinished"/>
+        <translation>USB akan dikunci ketika jumlah yang tersisa adalah nol.</translation>
     </message>
     <message>
         <source>please insert the USB Key to verify</source>
-        <translation type="unfinished"/>
+        <translation>masukkan USB untuk memverifikasi</translation>
     </message>
     <message>
         <source>validate cert Fail</source>
-        <translation type="unfinished"/>
+        <translation>Validasi sertifikat gagal.</translation>
     </message>
     <message>
         <source>cert holded</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat telah dibekukan. Hubungi administrator.</translation>
     </message>
     <message>
         <source>unknow error, please make sure install correctly and try later</source>
-        <translation type="unfinished"/>
+        <translation>kesalahan tidak dikenal, pastikan instal dengan benar dan coba nanti</translation>
     </message>
     <message>
         <source>startup</source>
-        <translation type="unfinished"/>
+        <translation>memulai</translation>
     </message>
     <message>
         <source>USB Key has been locked, need deblocking, please contact the manager</source>
-        <translation type="unfinished"/>
+        <translation>Drive USB dikunci dan perlu dibuka kuncinya sebelum dapat digunakan. Silakan hubungi administrator.</translation>
     </message>
     <message>
         <source>cert not trust</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat tidak dipercaya.</translation>
     </message>
     <message>
         <source>your PC is linking more than one USB Key</source>
-        <translation type="unfinished"/>
+        <translation>PC Anda terhubung dengan beberapa drive USB.</translation>
     </message>
     <message>
         <source>please insert the USB Key</source>
-        <translation type="unfinished"/>
+        <translation>masukkan USB</translation>
     </message>
     <message>
         <source>cert revoked</source>
-        <translation type="unfinished"/>
+        <translation>sertf dicabut</translation>
     </message>
     <message>
         <source>Invalid password, please retry. remaining count:[%1]</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi tidak valid, silakan coba lagi. kesempatan yang tersisa:[%1]</translation>
     </message>
     <message>
         <source>cert has expired, please contact the manager to update the cert</source>
-        <translation type="unfinished"/>
+        <translation>Sertifikat telah jatuh tempo. Hubungi administrator untuk memperbarui sertifikat.</translation>
     </message>
 </context>
 <context>
@@ -34117,38 +34130,38 @@ hingga
     <name>KxPermissionLoginTipDlg</name>
     <message>
         <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda telah mengatur kata sandi offline, Anda dapat lanjut mengoperasikan dokumen setelah verifikasi offline.</translation>
     </message>
     <message>
         <source>Offline verification</source>
-        <translation type="unfinished"/>
+        <translation>Verifikasi offline</translation>
     </message>
     <message>
         <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan saat menyambung ke jaringan dan dokumen terenkripsi tidak dapat dioperasikan. Cek jaringan dan coba lagi nanti.</translation>
     </message>
     <message>
         <source>Abnormal network connection</source>
-        <translation type="unfinished"/>
+        <translation>Koneksi jaringan abnormal</translation>
     </message>
 </context>
 <context>
     <name>KxServerDownTipDlg</name>
     <message>
         <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda telah mengatur kata sandi offline, Anda dapat lanjut mengoperasikan dokumen setelah verifikasi offline.</translation>
     </message>
     <message>
         <source>Offline verification</source>
-        <translation type="unfinished"/>
+        <translation>Verifikasi offline</translation>
     </message>
     <message>
         <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Ada kesalahan saat menyambung ke jaringan dan dokumen terenkripsi tidak dapat dioperasikan. Cek jaringan dan coba lagi nanti.</translation>
     </message>
     <message>
         <source>Abnormal network connection</source>
-        <translation type="unfinished"/>
+        <translation>Koneksi jaringan abnormal</translation>
     </message>
 </context>
 <context>
@@ -34294,7 +34307,8 @@ Lanjutkan mencetak?</translation>
     <message>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in system and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Tidak dapat mencetak. Cek apakah printer menyala atau terhubung.
+Jika masih bermasalah, Anda dapat mencetak halaman tes melalui Properti Printer untuk memeriksa apakah printer terpasang dengan benar.</translation>
     </message>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
@@ -34328,11 +34342,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>JS Macros</source>
-        <translation type="unfinished"/>
+        <translation>Makro JS</translation>
     </message>
     <message>
         <source>VB Macros</source>
-        <translation type="unfinished"/>
+        <translation>Makro VB</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -34340,11 +34354,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Are you sure to delete macro &apos;%1&apos; ?</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin ingin menghapus makro &apos;%1&apos; ?</translation>
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Makro dalam proyek ini dinonaktifkan.</translation>
     </message>
 </context>
 <context>
@@ -34376,11 +34390,11 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <name>KxGetVbaRightsDialog</name>
     <message>
         <source>upgrated, refresh</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil ditingkatkan. Segarkan</translation>
     </message>
     <message>
         <source>Get VBA Permission</source>
-        <translation type="unfinished"/>
+        <translation>Ambil Izin VBA</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -34388,15 +34402,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>How to Get</source>
-        <translation type="unfinished"/>
+        <translation>Cara Mengaktifkan Makro</translation>
     </message>
     <message>
         <source>upgrade package</source>
-        <translation type="unfinished"/>
+        <translation>tingkatkan paket</translation>
     </message>
     <message>
         <source>The current package %1 does not support macro. After upgrading the package (to Commercial / Advanced Commercial), you can obtain the installation permission of VBA.</source>
-        <translation type="unfinished"/>
+        <translation>Paket %1 saat ini tidak mendukung pengaktifan makro. Setelah meningkatkan paket (ke Komersial/Komersial Lanjutan), Anda dapat memperoleh izin instalasi perpustakaan dukungan VBA.</translation>
     </message>
     <message>
         <source>PushButton</source>
@@ -34404,7 +34418,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
-        <translation type="unfinished"/>
+        <translation>Paket %1 saat ini tidak mendukung pengaktifan makro. Hubungi super administrator perusahaan %2 untuk meningkatkan paket dan memperoleh izin penginstalan perpustakaan dukungan VBA.</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -34483,23 +34497,23 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <name>KScreenGrabShortcutConflictDlg</name>
     <message>
         <source>no tips again</source>
-        <translation type="unfinished"/>
+        <translation>Jangan pernah tampilkan</translation>
     </message>
     <message>
         <source>Setting Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Pintasan</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>The shortcut keys for WPS screenshots have been occupied. It is suggested that you change the shortcut keys for conflict software or modify the shortcut keys for WPS screenshots.</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan untuk ambil layar WPS telah dipakai. Disarankan agar Anda mengubah pintasan</translation>
     </message>
     <message>
         <source>shortcut keys have been occupied</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan telah dipakai</translation>
     </message>
 </context>
 <context>
@@ -34724,7 +34738,7 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     </message>
     <message>
         <source>System Style</source>
-        <translation type="unfinished"/>
+        <translation>Prasetel</translation>
     </message>
     <message>
         <source>More</source>
@@ -35131,7 +35145,7 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     </message>
     <message>
         <source>Import Cache offline key in this computer</source>
-        <translation type="unfinished"/>
+        <translation>Impor file kunci offline ke komputer ini</translation>
     </message>
     <message>
         <source>&amp;Password</source>
@@ -35147,7 +35161,7 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Impor</translation>
     </message>
     <message>
         <source>Offline state:</source>
@@ -35274,11 +35288,11 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     </message>
     <message>
         <source>&amp;Choose encryption type:</source>
-        <translation>Pilih jenis enkripsi: (&amp;P)</translation>
+        <translation>Pilih jenis enkripsi:</translation>
     </message>
     <message>
         <source>Choose &amp;key length:</source>
-        <translation>Pilih panjang kunci: (&amp;k)</translation>
+        <translation>Pilih panjang kunci:</translation>
     </message>
 </context>
 <context>
@@ -35304,7 +35318,7 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     <name>KxSmartArtInsertDlg</name>
     <message>
         <source>Insert Smartart Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Insert WPSArt Dialog</translation>
     </message>
 </context>
 <context>
@@ -35385,7 +35399,7 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     </message>
     <message>
         <source>Excel Template</source>
-        <translation type="unfinished"/>
+        <translation>Templat Excel</translation>
     </message>
     <message>
         <source>Download</source>
@@ -35397,11 +35411,11 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     </message>
     <message>
         <source>Excel Template Macro Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Templat Excel dengan Macro Diaktifkan (*.xltm)</translation>
     </message>
     <message>
         <source>PowerPoint Template Macro Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Templat PowerPoint dengan Makro Diaktifkan (*.potm)</translation>
     </message>
     <message>
         <source>PowerPoint Template</source>
@@ -35807,7 +35821,7 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     <name>KxSwitchLanguageTipWidget</name>
     <message>
         <source>You can switch to %1 macro in &quot;Developer Tools&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat beralih ke makro %1 dalam &quot;Alat Pengembangan&quot;</translation>
     </message>
 </context>
 <context>
@@ -36401,19 +36415,19 @@ Silakan instal ulang WPS Office!</translation>
     <name>KxChartTemplateStackedWidget_xa</name>
     <message>
         <source>No local chart template</source>
-        <translation type="unfinished"/>
+        <translation>Templat bagan lokal tidak tersedia.</translation>
     </message>
     <message>
         <source>Manage Templates</source>
-        <translation type="unfinished"/>
+        <translation>Atur Templat</translation>
     </message>
     <message>
         <source>Local chart templates</source>
-        <translation type="unfinished"/>
+        <translation>Templat Bagan Lokal</translation>
     </message>
     <message>
         <source>Tips: By saving the chart template to the folder in the &quot;Manage Templates&quot; button, you can use the local chart template.</source>
-        <translation type="unfinished"/>
+        <translation>Tip: Anda dapat dengan cepat menggunakan bagan yang disimpan sebagai templat atau mengeklik &quot;Kelola Templat&quot; untuk mengelola file templat bagan.</translation>
     </message>
 </context>
 <context>
@@ -36451,26 +36465,26 @@ Silakan instal ulang WPS Office!</translation>
     </message>
     <message>
         <source>Find functions or document content</source>
-        <translation type="unfinished"/>
+        <translation>Cari konten fungsi atau dokumen</translation>
     </message>
 </context>
 <context>
     <name>KxAuthorizedExpirationCommand</name>
     <message>
         <source>Authorized Expiration</source>
-        <translation type="unfinished"/>
+        <translation>Menunggu Aktivasi</translation>
     </message>
     <message>
         <source>%1-day used</source>
-        <translation type="unfinished"/>
+        <translation>Tersisa %1 hari</translation>
     </message>
     <message>
         <source>%1-day trial</source>
-        <translation type="unfinished"/>
+        <translation>Sisa hari uji coba: %1</translation>
     </message>
     <message>
         <source>trial unlimited</source>
-        <translation type="unfinished"/>
+        <translation>Mode Uji Coba</translation>
     </message>
 </context>
 <context>
@@ -36610,15 +36624,15 @@ Silakan instal ulang WPS Office!</translation>
     </message>
     <message>
         <source>&amp;Disable Macros</source>
-        <translation>Nonaktifkan Makro (&amp;N)</translation>
+        <translation>&amp;Matikan Makro</translation>
     </message>
     <message>
         <source>Macros may contain viruses. It is always safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
-        <translation>Makro mungkin berisi virus. Selalu aman untuk menonaktifkan makro, namun jika makro sah, Anda mungkin akan kehilangan beberapa fungsionalitas.</translation>
+        <translation>Makro mungkin berisi virus. Lebih aman jika makro dimatikan. Tapi jika makro-nya sah, Anda bisa kehilangan fungsi tertentu.</translation>
     </message>
     <message>
         <source>&amp;Enable Macros</source>
-        <translation>Aktifkan Makro (&amp;A)</translation>
+        <translation>&amp;Aktifkan Makro</translation>
     </message>
     <message>
         <source>&quot;%1&quot; contains macros.</source>
@@ -36803,11 +36817,11 @@ Pengaturan akan berdampak setelah memulai kembali WPS Office.</translation>
     <name>KxDlgRunMacroOption</name>
     <message>
         <source>Macro name:</source>
-        <translation type="unfinished"/>
+        <translation>Nama Makro:</translation>
     </message>
     <message>
         <source>Macro Options</source>
-        <translation type="unfinished"/>
+        <translation>Opsi Makro</translation>
     </message>
     <message>
         <source>Shortcut &amp;key:</source>
@@ -36958,11 +36972,11 @@ Pengaturan akan berdampak setelah memulai kembali WPS Office.</translation>
     <name>KxPluginPathDlg</name>
     <message>
         <source>If you cancel this download, to protect data, the file will not open. Sure to cancel?</source>
-        <translation type="unfinished"/>
+        <translation>Jika Anda membatalkan pengunduhan ini untuk melindungi data, file tidak akan terbuka. Anda yakin ingin membatalkan pengunduhan?</translation>
     </message>
     <message>
         <source>Download Moji plugin failed. The file will be closed to prent data loss. Please check your network and retry download.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengunduh plugin tinta. File akan ditutup untuk mencegah kehilangan data. Cek jaringan Anda dan coba unduh lagi.</translation>
     </message>
 </context>
 <context>
@@ -36984,38 +36998,38 @@ Pengaturan akan berdampak setelah memulai kembali WPS Office.</translation>
     <name>KScrnGrabOcrShortcutSettingDlg</name>
     <message>
         <source>Remark:When the global shortcut key is turned on, it can also be used without wps opened</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan:Anda juga dapat menggunakan ambil layar tanpa WPS bila pintasan diaktifkan</translation>
     </message>
     <message>
         <source>enable global shortcut for sreengrab ocr</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan pintasan untuk ambil layar</translation>
     </message>
     <message>
         <source>WPS ScreenGrabOcr Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan Ambil Layar WPS</translation>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>Default</translation>
     </message>
 </context>
 <context>
     <name>KScrnGrabShortcutSettingDlg</name>
     <message>
         <source>Remark:When the global shortcut key is turned on, it can also be used without wps opened</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan:Anda juga dapat menggunakan ambil layar tanpa WPS bila pintasan diaktifkan</translation>
     </message>
     <message>
         <source>WPS ScreenGrab Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan Ambil Layar WPS</translation>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>Default</translation>
     </message>
     <message>
         <source>enable global shortcut for sreengrab</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan pintasan global untuk ambil layar</translation>
     </message>
 </context>
 <context>
@@ -37344,7 +37358,7 @@ Cek koneksi jaringan Anda.</translation>
     </message>
     <message>
         <source>online taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Panel tugas</translation>
     </message>
 </context>
 <context>
@@ -37436,7 +37450,7 @@ Cek koneksi jaringan Anda.</translation>
     <name>KPPDOptionsEditor</name>
     <message>
         <source>There are conflicting options.The changes can only be applied after the conflict has been resolved.</source>
-        <translation type="unfinished"/>
+        <translation>Ada konflik opsi. Semua konflik harus diselesaikan sebelum perubahan Anda dapat diterapkan.</translation>
     </message>
     <message>
         <source>Property</source>
@@ -37612,7 +37626,7 @@ Cek koneksi jaringan Anda.</translation>
     <name>KxHistoryDisplayDlg</name>
     <message>
         <source>View classification</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Kerahasiaan</translation>
     </message>
     <message>
         <source>Document Name:</source>
@@ -37739,7 +37753,7 @@ Cek koneksi jaringan Anda.</translation>
     </message>
     <message>
         <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mengimpor kunci offline karena Anda tidak memiliki izin offline untuk dokumen.</translation>
     </message>
     <message>
         <source>User account:</source>
@@ -37763,7 +37777,7 @@ Cek koneksi jaringan Anda.</translation>
     </message>
     <message>
         <source>All files *.*</source>
-        <translation type="unfinished"/>
+        <translation>Semua file *.*</translation>
     </message>
     <message>
         <source>You don&apos;t have any document&apos;s offline permission, download offline data failed.</source>
@@ -37771,7 +37785,7 @@ Cek koneksi jaringan Anda.</translation>
     </message>
     <message>
         <source>Import offline key</source>
-        <translation type="unfinished"/>
+        <translation>Impor kunci offline</translation>
     </message>
     <message>
         <source>Logged in</source>
@@ -37783,11 +37797,11 @@ Cek koneksi jaringan Anda.</translation>
     </message>
     <message>
         <source>Import offline data successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Kunci offline berhasil diimpor.</translation>
     </message>
     <message>
         <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>File tidak dapat diimpor karena format file salah atau file rusak. Hubungi administrator.</translation>
     </message>
 </context>
 <context>
@@ -37828,11 +37842,11 @@ Cek koneksi jaringan Anda.</translation>
     <name>KxThemeItemPopupMenuCommand</name>
     <message>
         <source>Do you want to delete &quot;%1&quot; custom colors ?</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin ingin menghapus &quot;%1&quot; warna?</translation>
     </message>
     <message>
         <source>Delete colors</source>
-        <translation type="unfinished"/>
+        <translation>Hapus warna</translation>
     </message>
 </context>
 <context>
@@ -37875,7 +37889,7 @@ Cek koneksi jaringan Anda.</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 2007/2010 Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 2007/2010 Presentation</translation>
     </message>
     <message>
         <source>Create &amp;new</source>
@@ -37883,23 +37897,23 @@ Cek koneksi jaringan Anda.</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 Presentation</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Workbook Microsoft Excel 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Workbook Microsoft Excel 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Microsoft Word 2007/2010</translation>
     </message>
 </context>
 <context>
@@ -38170,15 +38184,15 @@ Proteksi kata sandi dan izin dokumen akan menjadi tidak valid.</translation>
     <name>KVipTipButton</name>
     <message>
         <source>Buy separately on demand</source>
-        <translation type="unfinished"/>
+        <translation>Beli Terpisah sesuai Permintaan</translation>
     </message>
     <message>
         <source>TimeLimited</source>
-        <translation type="unfinished"/>
+        <translation>Gratis untuk Waktu Terbatas</translation>
     </message>
     <message>
         <source>Free for a limited time for WPS members</source>
-        <translation type="unfinished"/>
+        <translation>Gratis untuk waktu terbatas untuk WPS Premium</translation>
     </message>
     <message>
         <source>DocerVip</source>
@@ -38190,15 +38204,15 @@ Proteksi kata sandi dan izin dokumen akan menjadi tidak valid.</translation>
     </message>
     <message>
         <source>Free for Docer members</source>
-        <translation type="unfinished"/>
+        <translation>Gratis untuk Templat Premium dan Super Premium</translation>
     </message>
     <message>
         <source>PaySeparately</source>
-        <translation type="unfinished"/>
+        <translation>Bayar Terpisah</translation>
     </message>
     <message>
         <source>Free for WPS members</source>
-        <translation type="unfinished"/>
+        <translation>Gratis untuk WPS Premium dan Super Premium</translation>
     </message>
 </context>
 <context>
@@ -38340,11 +38354,11 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     <name>kxDlgUserShortcuts</name>
     <message>
         <source>&amp;Press new shortcut key:</source>
-        <translation>Tekan tombol pintas baru: (&amp;T)</translation>
+        <translation>Tekan tombol pintas baru:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>Tutup (&amp;u)</translation>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Shortcuts</source>
@@ -38356,11 +38370,11 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation>Cari: (&amp;C)</translation>
+        <translation>Cari:</translation>
     </message>
     <message>
         <source>R&amp;eset All</source>
-        <translation>Reset Semua (&amp;e)</translation>
+        <translation>Reset Semua</translation>
     </message>
     <message>
         <source>Command</source>
@@ -38368,7 +38382,7 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     </message>
     <message>
         <source>&amp;Assign</source>
-        <translation>Tetapkan (&amp;T)</translation>
+        <translation>Tetapkan</translation>
     </message>
     <message>
         <source>Current shortcut for selected command:</source>
@@ -38376,7 +38390,7 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>Hapus (&amp;H)</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Shortcut currently used by:</source>
@@ -38452,7 +38466,7 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     <name>KxNewOutwardDocDlg</name>
     <message>
         <source>Please enter a password with 8-15 digits of numbers, letters or symbols</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi yang terdiri dari 8-15 digit angka, huruf, atau simbol</translation>
     </message>
     <message>
         <source>Two password inconsistencies</source>
@@ -38460,11 +38474,11 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     </message>
     <message>
         <source>Please enter the document password again</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan lagi kata sandi dokumen</translation>
     </message>
     <message>
         <source>The current password cannot be empty</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi saat ini tidak boleh kosong.</translation>
     </message>
 </context>
 <context>
@@ -38645,7 +38659,7 @@ p, li { white-space: pre-wrap; }
     <name>KxOfflineManagement</name>
     <message>
         <source>The offline account %1 is inconsistent with the login account %2, please use the login account to verify</source>
-        <translation type="unfinished"/>
+        <translation>Akun offline %1 tidak sama dengan akun tercatat masuk %2. Gunakan akun tercatat masuk untuk verifikasi.</translation>
     </message>
     <message>
         <source>Please close all security document before log out.</source>
@@ -38653,26 +38667,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Verification Exception Hint</source>
-        <translation type="unfinished"/>
+        <translation>Peringatan Pengecualian Verifikasi</translation>
     </message>
     <message>
         <source>Offline verfication</source>
-        <translation type="unfinished"/>
+        <translation>Verifikasi offline</translation>
     </message>
     <message>
         <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
-        <translation type="unfinished"/>
+        <translation>Akun tercatat masuk %1 tidak sama dengan akun offline %2. Gunakan akun offline untuk verifikasi.</translation>
     </message>
     <message>
         <source>Login Exception Hint</source>
-        <translation type="unfinished"/>
+        <translation>Peringatan Pengecualian Masuk</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrustedLocation</name>
     <message>
         <source>&amp;Path:</source>
-        <translation>Jalur: (&amp;J)</translation>
+        <translation>Jalur:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -38680,11 +38694,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation>Telusuri... (&amp;T)</translation>
+        <translation>Telusuri...</translation>
     </message>
     <message>
         <source>&amp;SubFolders of this location are also trusted</source>
-        <translation>Subfolder lokasi ini juga tepercaya (&amp;f)</translation>
+        <translation>Subfolder lokasi ini juga tepercaya</translation>
     </message>
     <message>
         <source>This location will be treated as s trusted source.Make sure the location is secure.</source>
@@ -38898,26 +38912,26 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <name>KxEtCollectionFormWidget</name>
     <message>
         <source>Immediate experience</source>
-        <translation type="unfinished"/>
+        <translation>Coba sekarang</translation>
     </message>
     <message>
         <source>Support multi-person filling, mobile submission, automatic data aggregation</source>
-        <translation type="unfinished"/>
+        <translation>Mendukung pengisian banyak orang, pengiriman melalui ponsel, dan agregasi data otomatis</translation>
     </message>
     <message>
         <source>View brief</source>
-        <translation type="unfinished"/>
+        <translation>Lihat Pengenalan</translation>
     </message>
     <message>
         <source>%1Not remind%2</source>
-        <translation type="unfinished"/>
+        <translation>%1Jangan ingatkan saya lagi%2</translation>
     </message>
 </context>
 <context>
     <name>KxQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>Jika ada pertanyaan, silakan hubungi %1 Layanan Pelanggan WPS, atau pindai kode QR Layanan Pelanggan di sisi kiri.</translation>
     </message>
 </context>
 <context>
@@ -39198,11 +39212,11 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <name>KShortcutSettingDlg</name>
     <message>
         <source>The selected shortcut keys have been occupied. It is suggested that you go to change the shortcut keys of conflict software or choose other shortcut keys.</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan untuk ambil layar WPS telah dipakai. Disarankan agar Anda mengubah pintasan</translation>
     </message>
     <message>
         <source>shortcut keys have been occupied</source>
-        <translation type="unfinished"/>
+        <translation>Pintasan telah dipakai</translation>
     </message>
 </context>
 <context>
@@ -39236,7 +39250,7 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
     <message>
         <source>Backup Notice</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan Pencadangan</translation>
     </message>
 </context>
 <context>
@@ -39324,7 +39338,7 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <name>KxMakeOutwardDocEntranceCommand</name>
     <message>
         <source>You don&apos;t have outgoing permissions for this document(docid: %1). Please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak memiliki izin untuk menerbitkan dokumen keluar (ID dokumen): %1). Hubungi administrator.</translation>
     </message>
     <message>
         <source>You have not applied for watermark protect yet or last application is out of expired.</source>
@@ -39343,11 +39357,11 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
     <message>
         <source>The document was made successfully</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen berhasil dibuat</translation>
     </message>
     <message>
         <source>This document can not make outward document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen ini tidak dapat digunakan untuk membuat dokumen keluar.</translation>
     </message>
     <message>
         <source>Open file</source>
@@ -39355,19 +39369,19 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
     <message>
         <source>Can not make outward document</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuat dokumen keluar.</translation>
     </message>
     <message>
         <source>The outgoing document has been made successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen keluar berhasil dibuat.</translation>
     </message>
     <message>
         <source>You haven&apos;t makeoutward permission of document. If you want to make outward document, please contact the administrator.</source>
-        <translation type="unfinished"/>
+        <translation>Anda tidak memiliki izin untuk menerbitkan dokumen keluar. Hubungi administrator untuk menerbitkan dokumen keluar.</translation>
     </message>
     <message>
         <source>Your document is in the form of attachment, unable to make outward document.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Anda dalam format lampiran dan tidak dapat digunakan untuk membuat dokumen keluar.</translation>
     </message>
 </context>
 <context>
@@ -39423,7 +39437,7 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <name>KxPermissionLoginTipDlgV2</name>
     <message>
         <source>This document has private document protection turned on, log in to the document owner account or authorized account to open the document.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen ini telah mengaktifkan proteksi dokumen privat. Masuk dengan akun pemilik dokumen atau akun resmi untuk membuka dokumen.</translation>
     </message>
     <message>
         <source>Login Account</source>
@@ -39431,19 +39445,19 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
     <message>
         <source>This document is protected by account access</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen ini diproteksi akses akun</translation>
     </message>
     <message>
         <source>turned on private document protection.</source>
-        <translation type="unfinished"/>
+        <translation>diaktifkan dengan proteksi dokumen privat.</translation>
     </message>
     <message>
         <source>The document was</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen telah</translation>
     </message>
     <message>
         <source>Log in the authorized account to open the document.</source>
-        <translation type="unfinished"/>
+        <translation>Masuk dengan akun ini atau akun resmi untuk membuka dokumen.</translation>
     </message>
 </context>
 <context>
@@ -39648,30 +39662,33 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <name>KScrnGrabOcrHelperDlg</name>
     <message>
         <source>Quick Extraction of Text Content by three steps</source>
-        <translation type="unfinished"/>
+        <translation>Ekstraksi Cepat Konten Teks dengan tiga langkah</translation>
     </message>
     <message>
         <source>getting start</source>
-        <translation type="unfinished"/>
+        <translation>Mulai</translation>
     </message>
     <message>
         <source>Select the area of text to be extracted
 Start recognizing and extracting text</source>
-        <translation type="unfinished"/>
+        <translation>Pilih area teks
+Mulai pengenalan teks</translation>
     </message>
     <message>
         <source>Waiting for a moment to complete recognition
 Automatic Text Replication of Recognition Result</source>
-        <translation type="unfinished"/>
+        <translation>Menunggu pengenalan
+Secara Otomatis Menyalin Hasil Pengenalan Teks</translation>
     </message>
     <message>
         <source>When encountering text that cannot be selected in PDF, pictures, web pages</source>
-        <translation type="unfinished"/>
+        <translation>Jika teks tidak dapat dipilih dalam PDF, gambar, halaman web</translation>
     </message>
     <message>
         <source>Keyboard shortcut Ctrl + Alt + S to
 enter the screenshot to extract words</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan tombol Utama Ctrl + Alt + S untuk
+menggunakan ambil layar WPS dan OCR</translation>
     </message>
 </context>
 <context>
@@ -39716,7 +39733,7 @@ enter the screenshot to extract words</source>
     <name>KAppFailureTipWidget</name>
     <message>
         <source>Download %1 failed due to possible network problems. Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>%1 pengunduhan gagal karena pengecualian jaringan. Silakan coba lagi nanti.</translation>
     </message>
 </context>
 <context>
@@ -39810,7 +39827,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Kustom</translation>
     </message>
 </context>
 <context>
@@ -39861,7 +39878,7 @@ p, li { white-space: pre-wrap; }
     <name>KxUpdateMessageDlg</name>
     <message>
         <source>Immediately upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Segera tingkatkan</translation>
     </message>
     <message>
         <source>Ignore it</source>
@@ -39869,7 +39886,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Next time</source>
-        <translation type="unfinished"/>
+        <translation>Lain kali</translation>
     </message>
 </context>
 <context>
@@ -39883,7 +39900,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDevelopLanguageTipWidget</name>
     <message>
         <source>Set JS as default. You can change it to VB. When opening VB-only files, the environment is still VB.</source>
-        <translation type="unfinished"/>
+        <translation>Atur JS sebagai default. Anda dapat mengalihkannya ke VB. Saat membuka file khusus VB, lingkungan VB digunakan secara default.</translation>
     </message>
 </context>
 <context>
@@ -39965,7 +39982,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Downloading Moji plugin, please wait</source>
-        <translation type="unfinished"/>
+        <translation>Mengunduh plugin Moji, harap tunggu</translation>
     </message>
 </context>
 <context>
@@ -40031,11 +40048,11 @@ p, li { white-space: pre-wrap; }
     <name>KxThemeColorGalleryModelItem</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Modifikasi</translation>
     </message>
 </context>
 <context>
@@ -40096,7 +40113,7 @@ p, li { white-space: pre-wrap; }
     <name>KxVasEnterClientWidget</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Mengerti</translation>
     </message>
 </context>
 <context>
@@ -40114,7 +40131,7 @@ p, li { white-space: pre-wrap; }
     <name>KxMBRejectDlg</name>
     <message>
         <source>You sure reject the application? Please brief the reason.</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin ingin menolak peninjauan? Jelaskan alasan penolakan.</translation>
     </message>
     <message>
         <source>Rejected</source>
@@ -40125,7 +40142,7 @@ p, li { white-space: pre-wrap; }
     <name>KRibbonFindCmdWidget</name>
     <message>
         <source>Find Functions</source>
-        <translation type="unfinished"/>
+        <translation>Cari Fungsi</translation>
     </message>
     <message>
         <source>Find Commands</source>
@@ -40140,11 +40157,11 @@ p, li { white-space: pre-wrap; }
     <name>KxSetMBCommand</name>
     <message>
         <source>Your document is in the form of attachment, unable to set mb.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Anda dalam format lampiran dan tidak dapat ditandai rahasia.</translation>
     </message>
     <message>
         <source>This document can not set MB</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen ini tidak dapat ditandai rahasia.</translation>
     </message>
 </context>
 <context>
@@ -40158,7 +40175,7 @@ p, li { white-space: pre-wrap; }
     <name>KScreenGrabTip</name>
     <message>
         <source>Intro:</source>
-        <translation type="unfinished"/>
+        <translation>Intro:</translation>
     </message>
 </context>
 <context>
@@ -40352,15 +40369,15 @@ p, li { white-space: pre-wrap; }
     <name>KScrnGrabTipsDialog</name>
     <message>
         <source>No(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>Tidak(&amp;N)</translation>
     </message>
     <message>
         <source>Ok(&amp;O)</source>
-        <translation type="unfinished"/>
+        <translation>OK(&amp;O)</translation>
     </message>
     <message>
         <source>Yes(&amp;Y)</source>
-        <translation type="unfinished"/>
+        <translation>Ya(&amp;Y)</translation>
     </message>
 </context>
 <context>
@@ -40515,15 +40532,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"/>
+        <translation>Perbarui sekarang</translation>
     </message>
     <message>
         <source>A new version is available. Do you want to update it?</source>
-        <translation type="unfinished"/>
+        <translation>Versi baru tersedia. Apakah Anda ingin memperbaruinya?</translation>
     </message>
     <message>
         <source>Application update</source>
-        <translation type="unfinished"/>
+        <translation>Pembaruan aplikasi</translation>
     </message>
 </context>
 <context>
@@ -40548,15 +40565,15 @@ p, li { white-space: pre-wrap; }
     <name>KxVasEnterGuideInCoopShellDlg</name>
     <message>
         <source>Split Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Pisah Lembar</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan Lembar</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filter Lanjutan</translation>
     </message>
 </context>
 <context>
@@ -40582,7 +40599,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDocSecurityTipHelper</name>
     <message>
         <source>can not operate</source>
-        <translation type="unfinished"/>
+        <translation>tidak dapat dioperasikan</translation>
     </message>
     <message>
         <source>Please usse security document function after saving this document as security document.</source>
@@ -40853,11 +40870,11 @@ untuk membuat dokumen luar</translation>
     </message>
     <message>
         <source>Please enter the password, or open in read-only mode:</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan kata sandi, atau buka dalam mode hanya baca:</translation>
     </message>
     <message>
         <source>Document is setted edit password</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi pengeditan diatur untuk dokumen.</translation>
     </message>
     <message>
         <source>(Recommended)</source>
@@ -40986,11 +41003,11 @@ untuk membuat dokumen luar</translation>
     <name>TitleBarWidget</name>
     <message>
         <source>Advanced ScreenGrab</source>
-        <translation type="unfinished"/>
+        <translation>Ambil layar WPS</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Masukan</translation>
     </message>
 </context>
 <context>
@@ -41074,7 +41091,7 @@ untuk membuat dokumen luar</translation>
     <name>KGraphLoadingDialog</name>
     <message>
         <source>Uploading: </source>
-        <translation type="unfinished"/>
+        <translation>Mengunggah: </translation>
     </message>
     <message>
         <source>Downloading: </source>
@@ -41188,7 +41205,7 @@ untuk membuat dokumen luar</translation>
     <name>KxListFillPictureCommand</name>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Gambar</translation>
     </message>
 </context>
 <context>
@@ -41272,7 +41289,7 @@ untuk membuat dokumen luar</translation>
     <name>KXBlackTipWidgetProxy</name>
     <message>
         <source>The file has too much data excess. Auto-slimming it down:</source>
-        <translation type="unfinished"/>
+        <translation>Untuk pengalaman yang lebih baik, kami mengoptimalkan dan mengompresi file besar Anda... xx%</translation>
     </message>
 </context>
 <context>
@@ -41311,25 +41328,25 @@ untuk membuat dokumen luar</translation>
     <name>KCoopReadOnlyCannotSyncMsgBox</name>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Sebagai</translation>
     </message>
 </context>
 <context>
     <name>KxColorSnapperWidget</name>
     <message>
         <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menginisialisasi pengambil warna karena fitur ini tidak didukung oleh sistem saat ini.</translation>
     </message>
 </context>
 <context>
     <name>JdeListWidgetItemData</name>
     <message>
         <source>Project is unviewable</source>
-        <translation type="unfinished"/>
+        <translation>Proyek tidak dapat dilihat</translation>
     </message>
     <message>
         <source>Project Locked</source>
-        <translation type="unfinished"/>
+        <translation>Proyek Dikunci</translation>
     </message>
 </context>
 <context>
@@ -41350,7 +41367,7 @@ untuk membuat dokumen luar</translation>
     <name>KxVbaQuestionButton</name>
     <message>
         <source>how to enable</source>
-        <translation type="unfinished"/>
+        <translation>Cara Mengaktifkan Makro</translation>
     </message>
 </context>
 <context>
@@ -41364,7 +41381,7 @@ untuk membuat dokumen luar</translation>
     <name>KxFormatGroupContent_RepairEnhancement</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"/>
+        <translation>Kejelasan</translation>
     </message>
 </context>
 <context>
@@ -41396,7 +41413,7 @@ untuk membuat dokumen luar</translation>
     <name>QCalendarEdit</name>
     <message>
         <source>please select date</source>
-        <translation type="unfinished"/>
+        <translation>Pilih tanggal</translation>
     </message>
 </context>
 <context>
@@ -41555,7 +41572,7 @@ Properti</translation>
     </message>
     <message>
         <source>mail subject</source>
-        <translation type="unfinished"/>
+        <translation>Masukan WPS</translation>
     </message>
 </context>
 <context>
@@ -41587,7 +41604,7 @@ Properti</translation>
     <name>KxCustomMessageBox</name>
     <message>
         <source>Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Resmi</translation>
     </message>
 </context>
 <context>
@@ -41785,7 +41802,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <name>KxDocSecurityLoadingWidget</name>
     <message>
         <source>Loading. Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Memuat... Harap tunggu.</translation>
     </message>
 </context>
 <context>
