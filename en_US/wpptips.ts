@@ -75,12 +75,11 @@
     </message>
     <message>
         <source>MorePrintSettings.content</source>
-        <translation>More detail for printing, such as selecting a printer, printing pages, duplex printing, zooming, and more.</translation>
+        <translation>More detail for printing, such as choose printer, the copies, duplex printed, the zoom and so on.</translation>
     </message>
     <message>
         <source>DrawTable.title</source>
-        <translation>Draw 
-Table</translation>
+        <translation>Draw Table</translation>
     </message>
     <message>
         <source>PrintingOrder.content</source>
@@ -104,7 +103,7 @@ Table</translation>
     </message>
     <message>
         <source>InsertFileObject.content</source>
-        <translation>Insert selected file into the document.</translation>
+        <translation>Insert the selected file into document.</translation>
     </message>
     <message>
         <source>AddSubordinate.content</source>
@@ -120,7 +119,7 @@ Table</translation>
     </message>
     <message>
         <source>weibotool.content</source>
-        <translation>Convert document to picture for sharing in Weibo.</translation>
+        <translation>Transfer the document to image for sharing on Weibo.</translation>
     </message>
     <message>
         <source>GraphicFill2.title</source>
@@ -204,9 +203,7 @@ Click arrow to fill with different effects.</translation>
     </message>
     <message>
         <source>Underline.content</source>
-        <translation>Underline the selected text.
-
-Click the arrow to select different underlining styles.</translation>
+        <translation>Underline the selected text.</translation>
     </message>
     <message>
         <source>DrawAlignTop2.title</source>
@@ -230,7 +227,7 @@ Click the arrow to select different underlining styles.</translation>
     </message>
     <message>
         <source>ArrangeAll.content</source>
-        <translation>Tile all opened documents side-by-side under the same program window.</translation>
+        <translation>Tile all open documents side-by-side under the same program window.</translation>
     </message>
     <message>
         <source>AudioPlay.title</source>
@@ -332,7 +329,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Choose a Clip Art from the task window and insert it into the document.</translation>
+        <translation>Select a Clip Art from the task window and insert it into the document.</translation>
     </message>
     <message>
         <source>InsertRowsAbove.title</source>
@@ -350,11 +347,11 @@ Click the arrow to select different fill effects.</translation>
         <source>InsertChart.content</source>
         <translation>The inserted chart needs to be edited in WPS Spreadsheets.
 
-When WPS Spreadsheets is closed, the chart in document can still display normally.</translation>
+When WPS Spreadsheets is closed, the chart in document can still display normally. Double-click the chart if you want to edit it.</translation>
     </message>
     <message>
         <source>Security.title</source>
-        <translation>Macros Security</translation>
+        <translation>Macro Security</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.content</source>
@@ -389,6 +386,10 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
         <translation>Transition Effects</translation>
     </message>
     <message>
+        <source>AnimationStartPlay.content</source>
+        <translation>Modify the time to play animations. Animations can start after a mouse click, at the same time as the previous animation, or after the previous animation is done.</translation>
+    </message>
+    <message>
         <source>DeleteMember.content</source>
         <translation>Delete the selected member</translation>
     </message>
@@ -401,8 +402,12 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
         <translation>View Macros</translation>
     </message>
     <message>
+        <source>WppPhotoedit2.title</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Change the settings of font, paragraph, and styles and formatting.</translation>
+        <translation>Change the settings of font.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -415,6 +420,10 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message>
         <source>SlideMasterClose.title</source>
         <translation>Close Master View</translation>
+    </message>
+    <message>
+        <source>PictureTransparency.title</source>
+        <translation>Picture Transparency</translation>
     </message>
     <message>
         <source>PaperSize.title</source>
@@ -430,7 +439,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     </message>
     <message>
         <source>AnimationPainter.title</source>
-        <translation type="unfinished"/>
+        <translation>Animation Painter</translation>
     </message>
     <message>
         <source>NextComment.content</source>
@@ -470,7 +479,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     </message>
     <message>
         <source>TextBox2.content</source>
-        <translation>Click here to insert horizontal, vertical or multi-line text boxes.</translation>
+        <translation>Click here to insert either horizontal or vertical text box.</translation>
     </message>
     <message>
         <source>Markup.content</source>
@@ -494,7 +503,9 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     </message>
     <message>
         <source>HighlightColor2.content</source>
-        <translation>Click the arrow to select a different highlight color.</translation>
+        <translation>Make text look like it was marked with a highlighter pen.
+
+Click the arrow to select a different highlight color.</translation>
     </message>
     <message>
         <source>Paste2.content</source>
@@ -735,6 +746,10 @@ Click the arrow to select detailed settings for the outline.</translation>
         <translation>Align text to the left.</translation>
     </message>
     <message>
+        <source>PictureTransparency.content</source>
+        <translation>Set the transparency of the image to show the content under it.</translation>
+    </message>
+    <message>
         <source>CustomShows.title</source>
         <translation>Custom Slide Shows</translation>
     </message>
@@ -772,13 +787,13 @@ Click the arrow to select detailed settings for the outline.</translation>
     </message>
     <message>
         <source>DrawTable.content</source>
-        <translation>Draw the borders of a table.</translation>
+        <translation>Draws the cell, row or column borders of a table.</translation>
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Change the text color.
+        <translation>Set the text color.
 
-Click the arrow to choose a different text color.</translation>
+Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.title</source>
@@ -791,6 +806,10 @@ Click the arrow to choose a different text color.</translation>
     <message>
         <source>InsertTable.content</source>
         <translation>Insert or draw a table into the current slide.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
@@ -940,6 +959,10 @@ Click arrow to set the detail of outline.</translation>
         <translation>Play the video clip automatically, or when clicked.</translation>
     </message>
     <message>
+        <source>AnimationDuration.title</source>
+        <translation>Duration:</translation>
+    </message>
+    <message>
         <source>DecreaseSpace.title</source>
         <translation>Decrease Spacing</translation>
     </message>
@@ -1021,15 +1044,19 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>CellWidth.content</source>
-        <translation>Cell Width</translation>
+        <translation>Set the width of the selected cells.</translation>
     </message>
     <message>
         <source>TableRight.title</source>
         <translation>Align Text Right</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
+    </message>
+    <message>
         <source>Numbering2.content</source>
-        <translation>Start a numbered list.
+        <translation>Number the selected paragraph.
 
 Click the arrow to select different numbering formats.</translation>
     </message>
@@ -1077,7 +1104,7 @@ Control</translation>
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Increase the indent level of the  paragraph.</translation>
+        <translation>Increase the indent level.</translation>
     </message>
     <message>
         <source>HandoutMaster.content</source>
@@ -1087,7 +1114,7 @@ You can choose the design and layout of the handout, such as background formatti
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Decrease the indent level of the paragraph.</translation>
+        <translation>Decrease the indent level.</translation>
     </message>
     <message>
         <source>PDFToExcel.title</source>
@@ -1127,7 +1154,7 @@ You can choose the design and layout of the handout, such as background formatti
     </message>
     <message>
         <source>Select.content</source>
-        <translation>Select text or objects in the document.</translation>
+        <translation>Select text, table or object in the document.</translation>
     </message>
     <message>
         <source>AudioCurPage.content</source>
@@ -1143,7 +1170,7 @@ You can choose the design and layout of the handout, such as background formatti
     </message>
     <message>
         <source>Numbering.content</source>
-        <translation>Start a numbered list.
+        <translation>Number the selected paragraph.
 
 Click the arrow to select different numbering formats.</translation>
     </message>
@@ -1166,6 +1193,10 @@ Click the arrow to select different numbering formats.</translation>
     <message>
         <source>NewWindow.title</source>
         <translation>New Window</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.title</source>
+        <translation>Delete Animation</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1217,7 +1248,7 @@ Click the arrow to select different numbering formats.</translation>
     </message>
     <message>
         <source>PageNumber.content</source>
-        <translation>Show the Page Numbers dialog box, and apply page number settings to the current section or the whole document.</translation>
+        <translation>Include the page number in the printed handouts or notes.</translation>
     </message>
     <message>
         <source>PlayerCapture.content</source>
@@ -1259,7 +1290,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>CellHeight.content</source>
-        <translation>Cell Height</translation>
+        <translation>Set the height of the selected cells.</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
@@ -1307,7 +1338,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Align Center</translation>
+        <translation>Vertical Center</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
@@ -1319,7 +1350,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>CellHeight.title</source>
-        <translation>Cell Height</translation>
+        <translation>Table Row Height</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
@@ -1336,6 +1367,10 @@ This creates a document with clean look.</translation>
     <message>
         <source>ExportToVideo.title</source>
         <translation>Export to Video</translation>
+    </message>
+    <message>
+        <source>AnimationDelayTime.content</source>
+        <translation>Play the animation after a certain number of seconds.</translation>
     </message>
     <message>
         <source>TextBox.content</source>
@@ -1466,6 +1501,14 @@ This creates a document with clean look.</translation>
         <translation>Change the settings of shape formatting.</translation>
     </message>
     <message>
+        <source>WppPhotoedit2.content</source>
+        <translation>WppPhotoedit2</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.content</source>
+        <translation>Modifies the effect properties of the current animation.</translation>
+    </message>
+    <message>
         <source>onlineMedia.title</source>
         <translation>Insert Movie</translation>
     </message>
@@ -1491,9 +1534,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Insert an embedded object into the document.
-
-Click the arrow to insert file content into the document.</translation>
+        <translation>Show the Insert Object dialog box to select new file or file from local folder.</translation>
     </message>
     <message>
         <source>DetailedSettingsList_EquationTools.content</source>
@@ -1563,7 +1604,7 @@ If you only have one monitor, use Alt+F5 to preview the speaker view, and press 
     </message>
     <message>
         <source>RB_Clipboard.content</source>
-        <translation>View items on Clipboard.</translation>
+        <translation>View all items copied to the clipboard.</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
@@ -1605,7 +1646,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>InsertWordArt.title</source>
-        <translation>WordArt</translation>
+        <translation>Insert WordArt</translation>
     </message>
     <message>
         <source>AudioFadeOut.content</source>
@@ -1741,11 +1782,11 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>TaskPane.content</source>
-        <translation>Show or hide task window in the document.</translation>
+        <translation>Show or hide the task window in the presentation.</translation>
     </message>
     <message>
         <source>CellWidth.title</source>
-        <translation>Cell Width</translation>
+        <translation>Table Column Width</translation>
     </message>
     <message>
         <source>MasterLayout.content</source>
@@ -1846,6 +1887,10 @@ Each page will contain one slide and its speaker notes, which you can edit in th
         <translation>Capture SlideShow</translation>
     </message>
     <message>
+        <source>AnimationDuration.content</source>
+        <translation>Specify the length of an animation. The longer the duration, the slower the play speed.</translation>
+    </message>
+    <message>
         <source>presentationTool.title</source>
         <translation>Presentation 
 Tool</translation>
@@ -1884,7 +1929,7 @@ Tool</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Show Macros dialog box and view the list of macros, from which you can run, delete, or create a macro directly.</translation>
+        <translation>Show the Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</translation>
     </message>
     <message>
         <source>TextSpeech.content</source>
@@ -1892,7 +1937,7 @@ Tool</translation>
     </message>
     <message>
         <source>FontColor2.content</source>
-        <translation>Click the arrow to choose a different text color.</translation>
+        <translation>Click the arrow to select a different font color.</translation>
     </message>
     <message>
         <source>PrintCollate.title</source>
@@ -1955,7 +2000,7 @@ Pane</translation>
     </message>
     <message>
         <source>CompressPictures.content</source>
-        <translation>Compress the selected picture or all pictures in the document to reduce size.</translation>
+        <translation>Compress the selected picture or all pictures to reduce size.</translation>
     </message>
     <message>
         <source>InsertMedia.title</source>
@@ -1974,6 +2019,14 @@ Pane</translation>
         <translation>Delete Master</translation>
     </message>
     <message>
+        <source>AnimationText.content</source>
+        <translation>Modifies the method to play animations, including All at Once, By Paragraph, and By Letter.</translation>
+    </message>
+    <message>
+        <source>AnimationProperty.title</source>
+        <translation>Animation Effect</translation>
+    </message>
+    <message>
         <source>Ai Matting.title</source>
         <translation>Ai Matting</translation>
     </message>
@@ -1984,6 +2037,10 @@ Pane</translation>
     <message>
         <source>StopAutoVersion.title</source>
         <translation>Stop Auto Backup</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.content</source>
+        <translation>Displays the Effect Options dialog box for you to modify the animation effect.</translation>
     </message>
     <message>
         <source>ColorScheme.content</source>
@@ -2062,6 +2119,10 @@ Pane</translation>
         <translation>Magic</translation>
     </message>
     <message>
+        <source>AnimationDelayTime.title</source>
+        <translation>Delay:</translation>
+    </message>
+    <message>
         <source>AudioPause.content</source>
         <translation>Preview the audio or video clip with all of the formatting changes you made.</translation>
     </message>
@@ -2071,7 +2132,7 @@ Pane</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the document to be disordered during display or printing. Install the appropriate font or replace it with a different font.</translation>
+        <translation>This may cause the document unable to be displayed or printed properly. Please install or change the font.</translation>
     </message>
     <message>
         <source>SlidePreview.title</source>
@@ -2105,7 +2166,7 @@ Pane</translation>
         <source>AnimationPainter.content</source>
         <translation>Copy the animation of selected object and apply it to other objects.
 
-Double click to copy the animation to multiple objects.</translation>
+Double-click to copy the animation to multiple objects.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
@@ -2125,7 +2186,7 @@ Double click to copy the animation to multiple objects.</translation>
     </message>
     <message>
         <source>TableEraser.content</source>
-        <translation>Erase the borders of a table in the document.</translation>
+        <translation>Use an eraser to erase borders in a table.</translation>
     </message>
     <message>
         <source>DeleteComment.content</source>
@@ -2133,7 +2194,11 @@ Double click to copy the animation to multiple objects.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
-        <translation>คอมพิวเตอร์เครื่องนี้ไม่มีแบบอักษรที่ใช้ในเอกสาร</translation>
+        <translation>This computer does not contain the font used in the document.</translation>
+    </message>
+    <message>
+        <source>AnimationEffectOption.title</source>
+        <translation>Other Effect Options</translation>
     </message>
     <message>
         <source>SlideShowSetManualOrAuto.content</source>
@@ -2233,7 +2298,7 @@ Double click to copy the animation to multiple objects.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Save the document as picture format.</translation>
+        <translation>Export the document to an image.</translation>
     </message>
     <message>
         <source>ChangeDiagramStyle.title</source>
@@ -2249,7 +2314,7 @@ Double click to copy the animation to multiple objects.</translation>
     </message>
     <message>
         <source>Superscript2.content</source>
-        <translation>Click the arrow to select Superscript or Subscript.</translation>
+        <translation>Click the arrow to select Superscript and Subscript.</translation>
     </message>
     <message>
         <source>InsertSmartArt.content</source>
@@ -2283,7 +2348,7 @@ WPSArt graphics range from graphical lists and process diagrams to more complex 
     </message>
     <message>
         <source>TextDirection.content</source>
-        <translation>Set either horizontal or vertical text orientation to the current section, the entire document, selected text box or table.</translation>
+        <translation>Customize either horizontal or vertical text orientation to the current section, the whole document, or the selected text box and table.</translation>
     </message>
     <message>
         <source>SpeakerNotes.title</source>
@@ -2387,11 +2452,15 @@ WPSArt graphics range from graphical lists and process diagrams to more complex 
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Center text vertically and horizontally within the cell.</translation>
+        <translation>Vertically center the text.</translation>
     </message>
     <message>
         <source>ReadingView.content</source>
-        <translation>Automatically layout content, easily flip pages.</translation>
+        <translation>Play your slide show in the WPS Presentation window to see animations and transitions without switching to a full-screen slide show.</translation>
+    </message>
+    <message>
+        <source>AnimationStartPlay.title</source>
+        <translation>Start Playing</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
@@ -2435,9 +2504,7 @@ WPSArt graphics range from graphical lists and process diagrams to more complex 
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Find text in the document.
-
-Click the arrow to choose other options, such as Go To.</translation>
+        <translation>Find text in the presentation.</translation>
     </message>
     <message>
         <source>SlideTransOnClick.title</source>
@@ -2446,6 +2513,10 @@ Click the arrow to choose other options, such as Go To.</translation>
     <message>
         <source>TableCenter.title</source>
         <translation>Center</translation>
+    </message>
+    <message>
+        <source>AnimationDelete.content</source>
+        <translation>Deletes all animation effects from selected objects, slides or the entire presentation.</translation>
     </message>
     <message>
         <source>AudioTrim.content</source>
@@ -2473,7 +2544,7 @@ Click the arrow to choose other options, such as Go To.</translation>
     </message>
     <message>
         <source>TableEraser.title</source>
-        <translation>Table Eraser</translation>
+        <translation>Eraser</translation>
     </message>
     <message>
         <source>InsertColumnsLeft.title</source>
@@ -2513,7 +2584,7 @@ Click the arrow to choose other options, such as Go To.</translation>
     </message>
     <message>
         <source>PageNumber.title</source>
-        <translation>Insert Page Number</translation>
+        <translation>Page Number</translation>
     </message>
     <message>
         <source>FormatAlignCenter.title</source>
@@ -2562,6 +2633,10 @@ Click the arrow to choose other options, such as Go To.</translation>
 Double-click this button to apply the same formatting to multiple places in the document.</translation>
     </message>
     <message>
+        <source>AnimationText.title</source>
+        <translation>Text Animation</translation>
+    </message>
+    <message>
         <source>DocumentFix.title</source>
         <translation>Document Fix.</translation>
     </message>
@@ -2595,7 +2670,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>Replace.content</source>
-        <translation>Replace text content in the document.</translation>
+        <translation>Replace text in the document.</translation>
     </message>
     <message>
         <source>SlideSorter.title</source>
@@ -2607,7 +2682,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>PaperSize.content</source>
-        <translation>Specify the paper type for the current section, such as A4 and A3.</translation>
+        <translation>Choose paper size for the presentation, such as A4, A3 and so on.</translation>
     </message>
     <message>
         <source>NewDash.title</source>
@@ -2657,7 +2732,7 @@ Click the arrow to select a different text color.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Send to Phone</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
