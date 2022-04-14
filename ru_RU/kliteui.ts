@@ -3,15 +3,15 @@
     <name>KLiteCustomerServiceDlg</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>WPS customer service</source>
@@ -34,11 +34,11 @@
     </message>
     <message>
         <source>success</source>
-        <translation type="unfinished"/>
+        <translation>Успешно преобразовано.</translation>
     </message>
     <message>
         <source>waiting</source>
-        <translation type="unfinished"/>
+        <translation>Подождите.</translation>
     </message>
     <message>
         <source>warning</source>
@@ -181,7 +181,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>PPTX</source>
@@ -193,15 +193,15 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Папка</translation>
     </message>
     <message>
         <source>Google</source>
-        <translation type="unfinished"/>
+        <translation>Google</translation>
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
-        <translation type="unfinished"/>
+        <translation>Файлы организации могут быть сохранены только в этой организации.</translation>
     </message>
     <message>
         <source>Dropbox</source>
@@ -324,7 +324,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Shares received of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Получен доступ</translation>
     </message>
     <message>
         <source>There is an extension of the data in the document</source>
@@ -356,7 +356,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>ShareFolder</source>
-        <translation type="unfinished"/>
+        <translation>Общая папка</translation>
     </message>
     <message>
         <source>Folder is not exist</source>
@@ -364,15 +364,15 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Group Space of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Мои рабочие группы</translation>
     </message>
     <message>
         <source>My Company</source>
-        <translation type="unfinished"/>
+        <translation>Моя компания</translation>
     </message>
     <message>
         <source>Syn doc to cloud then everywhere to continue accessing</source>
-        <translation type="unfinished"/>
+        <translation>Для доступа к резервным копиям файлов, сохраненным в Cloud, необходимо войти в систему на телефоне или компьютере.</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -497,7 +497,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -650,7 +650,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Start Now</source>
-        <translation type="unfinished"/>
+        <translation>Начать сейчас</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
@@ -670,7 +670,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Сбой оплаты</translation>
     </message>
 </context>
 <context>
@@ -741,7 +741,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Сбой оплаты</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -776,11 +776,11 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
-        <translation type="unfinished"/>
+        <translation>Docer VIP</translation>
     </message>
     <message>
         <source>Excellent office resource for Docer VIP, including templates, learning materials, etc. that help both in school and office work</source>
@@ -792,7 +792,7 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
@@ -810,15 +810,15 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KCefLoadingProgressDlgBase</name>
     <message>
         <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
-        <translation type="unfinished"/>
+        <translation>Подождите несколько минут, пока не завершится загрузка.</translation>
     </message>
     <message>
         <source>Loading core support library......</source>
-        <translation type="unfinished"/>
+        <translation>Загрузка основной библиотеки поддержки...</translation>
     </message>
     <message>
         <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось загрузить основную библиотеку поддержки. Проверьте подключение к сети и загрузите библиотеку снова.</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -830,11 +830,11 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Core support library failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось загрузить основную библиотеку поддержки.</translation>
     </message>
     <message>
         <source>This feature requires core support library,</source>
-        <translation type="unfinished"/>
+        <translation>Этой функции требуется основная библиотека поддержки.</translation>
     </message>
 </context>
 <context>
@@ -894,11 +894,11 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
-        <translation type="unfinished"/>
+        <translation>После авторизации WPS Office вы получаете доступ к файлам, сохраненным в стороннем облаке, и можете управлять этими файлами.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Авторизовать</translation>
     </message>
 </context>
 <context>
@@ -913,34 +913,34 @@ Save the data and restart the WPS software to enable this feature.</source>
     </message>
     <message>
         <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось создать ярлык файла WPS Cloud!</translation>
     </message>
     <message>
         <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation type="unfinished"/>
+        <translation>Ярлык файла WPS Cloud создан на рабочем столе</translation>
     </message>
 </context>
 <context>
     <name>KUploadLimitBubble</name>
     <message>
         <source>Upgrade VIP and upload</source>
-        <translation type="unfinished"/>
+        <translation>Повысьте статус до VIP и отправьте</translation>
     </message>
     <message>
         <source>Sync failed</source>
-        <translation type="unfinished"/>
+        <translation>Сбой синхронизации</translation>
     </message>
     <message>
         <source>Upload failed, your WPS cloud space is full</source>
-        <translation type="unfinished"/>
+        <translation>Сбой отправки. Ваше облачное хранилище WPS заполнено</translation>
     </message>
     <message>
         <source>File exceeds %1 upload limit</source>
-        <translation type="unfinished"/>
+        <translation>Файл не синхронизирован. Размер файла превышает ограничение на отправку: %1.</translation>
     </message>
     <message>
         <source>Please clean up files in time</source>
-        <translation type="unfinished"/>
+        <translation>Удаляйте ненужные файлы вовремя</translation>
     </message>
 </context>
 <context>
@@ -981,14 +981,14 @@ Save the data and restart the WPS software to enable this feature.</source>
     <name>KLiteQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>Если у вас появились вопросы, обратитесь в Службу поддержки WPS %1 или отсканируйте QR-код службы поддержки на левой стороне.</translation>
     </message>
 </context>
 <context>
     <name>KAppLoadFailedWindow</name>
     <message>
         <source>Network exception, %1 failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Исключение сети, сбой загрузки %1</translation>
     </message>
 </context>
 <context>
@@ -1003,19 +1003,20 @@ Save the data and restart the WPS software to enable this feature.</source>
     <message>
         <source>Upgrading
 please wait</source>
-        <translation type="unfinished"/>
+        <translation>Обновление...
+Подождите</translation>
     </message>
     <message>
         <source>Wait a moment...</source>
-        <translation type="unfinished"/>
+        <translation>Подождите немного...</translation>
     </message>
     <message>
         <source>Receiving</source>
-        <translation type="unfinished"/>
+        <translation>Получение</translation>
     </message>
     <message>
         <source>Processing...</source>
-        <translation type="unfinished"/>
+        <translation>Обработка...</translation>
     </message>
 </context>
 <context>
@@ -1037,7 +1038,7 @@ please wait</source>
     </message>
     <message>
         <source>Backgroundg</source>
-        <translation type="unfinished"/>
+        <translation>Фон</translation>
     </message>
 </context>
 <context>
@@ -1117,14 +1118,14 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KActivityWidget</name>
     <message>
         <source>Dont remind me</source>
-        <translation type="unfinished"/>
+        <translation>Не напоминать</translation>
     </message>
 </context>
 <context>
     <name>KDisclaimerDialog</name>
     <message>
         <source>Tips：One AppleID can only qualify once</source>
-        <translation type="unfinished"/>
+        <translation>Советы: один AppleID можно зарегистрировать только один раз</translation>
     </message>
 </context>
 <context>
@@ -1142,22 +1143,22 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KVipPrivilegeComparisonWidget</name>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
-        <translation type="unfinished"/>
+        <translation>Docer VIP</translation>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source> Upgrade </source>
-        <translation type="unfinished"/>
+        <translation> Обновить </translation>
     </message>
 </context>
 <context>
@@ -1187,15 +1188,15 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KUploadFileGuideDlg</name>
     <message>
         <source>Account had been logouted, uploading has been canceled</source>
-        <translation type="unfinished"/>
+        <translation>Выполнен выход из учетной записи, отправка отменена</translation>
     </message>
     <message>
         <source>selected files have been in cloud</source>
-        <translation type="unfinished"/>
+        <translation>выбранные файлы были в облаке</translation>
     </message>
     <message>
         <source>Account had been logouted</source>
-        <translation type="unfinished"/>
+        <translation>Выполнен выход из учетной записи</translation>
     </message>
 </context>
 <context>
@@ -1294,7 +1295,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>Remind me tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Напомнить завтра</translation>
     </message>
 </context>
 <context>
@@ -1308,7 +1309,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KLiteWaitingWidget</name>
     <message>
         <source>resource loading...</source>
-        <translation type="unfinished"/>
+        <translation>Загрузка ресурса...</translation>
     </message>
 </context>
 <context>
