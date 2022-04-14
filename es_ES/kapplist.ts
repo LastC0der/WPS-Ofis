@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>WPS Academy</source>
-        <translation type="unfinished"/>
+        <translation>Academia WPS</translation>
     </message>
     <message>
         <source>Plagiarism Checker</source>
@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Free WPS Office tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Tutoriales de WPS Office gratis</translation>
     </message>
     <message>
         <source>Correct garbled, unopenable documents</source>
