@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>You&apos;re about to exit your account</source>
-        <translation type="unfinished"/>
+        <translation>Anda akan keluar dari akun Anda</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -691,15 +691,15 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Check order</source>
-        <translation type="unfinished"/>
+        <translation>Riwayat Pemesanan</translation>
     </message>
     <message>
         <source>How to activate?</source>
-        <translation type="unfinished"/>
+        <translation>Bagaimana cara mengaktivasi?</translation>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -902,7 +902,7 @@ Easy mobile office.</source>
     <name>KLoginMainWindow</name>
     <message>
         <source>here</source>
-        <translation type="unfinished"/>
+        <translation>di sini</translation>
     </message>
     <message>
         <source>Email</source>
@@ -922,7 +922,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Frequent requests. Please wait a minute and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Permintaan berulang. Tunggu sebentar dan coba lagi.</translation>
     </message>
     <message>
         <source>Invalid argument</source>
@@ -946,11 +946,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address</source>
-        <translation>Masukkan alamat surel yang sah</translation>
+        <translation>Alamat email tidak valid. Coba lagi.</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Kata sandi salah</translation>
+        <translation>Kata sandi salah. Periksa dan coba lagi. Atau atur ulang kata sandi.</translation>
     </message>
     <message>
         <source>Server error</source>
@@ -966,7 +966,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>There is no account for the email you entered</source>
-        <translation>Tidak ada akun untuk email yang Anda masukkan</translation>
+        <translation>Tidak ada akun dengan alamat email tersebut. Periksa dan coba lagi.</translation>
     </message>
     <message>
         <source>Remember Me</source>
@@ -978,7 +978,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation type="unfinished"/>
+        <translation>Kami telah membuka tab browser baru agar Anda bisa masuk. Anda harus menyelesaikan autentikasi di browser. Setelah melakukannya, Anda akan otomatis melanjutkan di sini. </translation>
     </message>
     <message>
         <source>Continue with Google</source>
@@ -990,7 +990,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Invalid character. Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Karakter tidak valid. Coba lagi.</translation>
     </message>
     <message>
         <source>Sign in with other accounts</source>
@@ -1058,7 +1058,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Please enter a valid email address.</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan alamat email yang valid.</translation>
     </message>
     <message>
         <source>Waiting...</source>
@@ -1082,7 +1082,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Password should be 8-16 characters. Please retry</source>
-        <translation type="unfinished"/>
+        <translation>Kata sandi harus berisi 8-16 karakter. Coba lagi.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -1177,7 +1177,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Gagal mengakses server Akun WPS. Pastikan Anda memiliki konektivitas jaringan yang baik dan coba lagi.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1221,7 +1221,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Setting Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen Pengaturan DNS</translation>
     </message>
     <message>
         <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
@@ -1382,7 +1382,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Notice</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan</translation>
     </message>
     <message>
         <source>FaceBook</source>
@@ -1498,35 +1498,35 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>You can download unlimted templates.</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat mengunduh templat tak terbatas.</translation>
     </message>
     <message>
         <source>Payment timeout</source>
-        <translation type="unfinished"/>
+        <translation>Sesi pembayaran habis</translation>
     </message>
     <message>
         <source>Get your personal customization now.</source>
-        <translation type="unfinished"/>
+        <translation>Dapatkan penyesuaian pribadi Anda sekarang.</translation>
     </message>
     <message>
         <source>You can use PDF conversion unlimited.</source>
-        <translation type="unfinished"/>
+        <translation>Anda dapat menggunakan konversi PDF tak terbatas.</translation>
     </message>
     <message>
         <source>Payment successful!</source>
-        <translation type="unfinished"/>
+        <translation>Pembayaran berhasil!</translation>
     </message>
     <message>
         <source>Fill in</source>
-        <translation type="unfinished"/>
+        <translation>Isi</translation>
     </message>
     <message>
         <source>You have become WPS Premium user.</source>
-        <translation type="unfinished"/>
+        <translation>Akun Anda sekarang WPS Premium.</translation>
     </message>
     <message>
         <source>How to activate?</source>
-        <translation type="unfinished"/>
+        <translation>Bagaimana cara mengaktivasi?</translation>
     </message>
     <message>
         <source>Checking payment...</source>
@@ -1534,7 +1534,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Pembayaran gagal</translation>
     </message>
 </context>
 <context>
@@ -1754,7 +1754,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>guest account</source>
-        <translation type="unfinished"/>
+        <translation>akun tamu</translation>
     </message>
     <message>
         <source>Dingding login</source>
@@ -2027,7 +2027,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>request failed, please retry later.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal mendapatkan informasi dari server. Coba lagi nanti.</translation>
     </message>
     <message>
         <source>Select user failed</source>
@@ -2042,35 +2042,35 @@ Easy mobile office.</source>
     <name>KLogoutClearCacheCheckButton</name>
     <message>
         <source>Please verify that the native is secure and trusted to avoid the risk of data leakage</source>
-        <translation type="unfinished"/>
+        <translation>Pastikan perangkat Anda tepercaya untuk mencegah kebocoran data.</translation>
     </message>
     <message>
         <source>Clear data and delete login records</source>
-        <translation type="unfinished"/>
+        <translation>Kosongkan data dan hapus rekam masuk.</translation>
     </message>
     <message>
         <source>Keep data for next use.</source>
-        <translation type="unfinished"/>
+        <translation>Pertahankan data untuk penggunaan berikutnya.</translation>
     </message>
     <message>
         <source>Select this if you no longer use this device</source>
-        <translation type="unfinished"/>
+        <translation>Pilih ini jika Anda tidak akan menggunakan perangkat ini lagi.</translation>
     </message>
     <message>
         <source>Keep data for next use</source>
-        <translation type="unfinished"/>
+        <translation>Pertahankan data untuk penggunaan berikutnya.</translation>
     </message>
     <message>
         <source>Cloud document cache and file backups that will keep you on your native</source>
-        <translation type="unfinished"/>
+        <translation>Cache dokumen Cloud dan cadangan file akan dipertahankan di perangkat ini.</translation>
     </message>
     <message>
         <source>[Only trusted devices are optional]</source>
-        <translation type="unfinished"/>
+        <translation>[Hanya perangkat tepercaya yang dapat dipilih]</translation>
     </message>
     <message>
         <source>Cloud document caches and files that you have on your native will be deleted at the same time</source>
-        <translation type="unfinished"/>
+        <translation>Cache dokumen Cloud dan cadangan file yang tersimpan di perangkat akan dihapus.</translation>
     </message>
 </context>
 <context>
@@ -2221,7 +2221,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>Instruksi konfigurasi DNS</translation>
+        <translation>Dokumen Pengaturan DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2325,15 +2325,15 @@ Easy mobile office.</source>
     <name>KGuidePaneForTopcActivity</name>
     <message>
         <source>Sign in with WPS account to get gifts.</source>
-        <translation type="unfinished"/>
+        <translation>Masuk dengan akun WPS untuk mendapatkan hadiah.</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Akses Masuk</translation>
     </message>
     <message>
         <source>Gifts for New Users on PC</source>
-        <translation type="unfinished"/>
+        <translation>Hadiah untuk Pengguna Baru di PC</translation>
     </message>
 </context>
 <context>
