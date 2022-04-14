@@ -955,6 +955,10 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
         <translation>Pencereyi Gizle</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ShowPrecedents.title</source>
         <translation>Etkileyenleri İzle</translation>
     </message>
@@ -1221,6 +1225,10 @@ Birçok kişi, bir seçimin en üst satırındaki veya en soldaki sütundaki met
         <translation>Belirli kişilerin korumalı bir çalışma kitabındaki veya sayfadaki hücre aralıklarını düzenlemesine izin verir.
 
 Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak sayfadaki güvenliği ayarlayın.</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NamePaste.title</source>
@@ -2588,6 +2596,10 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
         <translation>Köprü Ekle</translation>
     </message>
     <message>
+        <source>EtPhotoedit2.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PrintPreviewZoomCombo.title</source>
         <translation>Yakınlaştır</translation>
     </message>
@@ -2624,6 +2636,10 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     <message>
         <source>SourceData.title</source>
         <translation>Veri Seç</translation>
+    </message>
+    <message>
+        <source>EtPhotoedit2.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextFill2.title</source>
