@@ -15,7 +15,9 @@
     </message>
     <message>
         <source>ChartCombination.content</source>
-        <translation type="unfinished"/>
+        <translation>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
+
+Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</translation>
     </message>
     <message>
         <source>CloseWindow.content</source>
@@ -51,7 +53,9 @@
     </message>
     <message>
         <source>ChartScatter.content</source>
-        <translation type="unfinished"/>
+        <translation>Use this chart type to show the relationship between sets of values.
+
+Click the arrow to see the different types of scatter charts available.</translation>
     </message>
     <message>
         <source>OneStepSaveTip.title</source>
@@ -71,7 +75,7 @@
     </message>
     <message>
         <source>ChartBubble.title</source>
-        <translation type="unfinished"/>
+        <translation>Insert Bubble Chart</translation>
     </message>
     <message>
         <source>InsertBarcode.title</source>
@@ -87,7 +91,7 @@
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation>ScreenGrab</translation>
+        <translation>Screen Grab</translation>
     </message>
     <message>
         <source>BringForward.title</source>
@@ -118,6 +122,10 @@
         <translation>Launch WPS Macro Editor and edit macros.</translation>
     </message>
     <message>
+        <source>InkDrawEraser.title</source>
+        <translation>Eraser</translation>
+    </message>
+    <message>
         <source>ShapeHeight.title</source>
         <translation>Shape Height</translation>
     </message>
@@ -141,7 +149,7 @@ Click the arrow to fill the WordArt in different ways.</translation>
     </message>
     <message>
         <source>FontName.content</source>
-        <translation>Set different fonts</translation>
+        <translation>Change the font face.</translation>
     </message>
     <message>
         <source>DonateMoney.content</source>
@@ -157,7 +165,7 @@ Click the arrow to fill the WordArt in different ways.</translation>
     </message>
     <message>
         <source>ChartLine.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to emphasize the magnitude of change over time.
+        <translation>Use this chart type to show trends over time (years, months, and days) or categories.
 
 Click the arrow to see the different types of line charts available and pause the pointer on the icons to see a preview in your document.</translation>
     </message>
@@ -231,11 +239,15 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>ChartPie.content</source>
-        <translation type="unfinished"/>
+        <translation>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
+
+Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</translation>
     </message>
     <message>
         <source>ChartBar.content</source>
-        <translation type="unfinished"/>
+        <translation>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
+
+Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</translation>
     </message>
     <message>
         <source>Themes.title</source>
@@ -247,7 +259,7 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation>Set the size of the font size</translation>
+        <translation>Change the font size.</translation>
     </message>
     <message>
         <source>FontName.title</source>
@@ -255,11 +267,15 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>FontSize.title</source>
-        <translation>Font size</translation>
+        <translation>Font Size</translation>
     </message>
     <message>
         <source>EditShape.content</source>
         <translation>Change the shape of this drawing, convert it to a freeform shape, or edit the wrap points to determine how text wraps around the drawing.</translation>
+    </message>
+    <message>
+        <source>InkDrawNiteWriterPen.title</source>
+        <translation>Highlighter Pen</translation>
     </message>
     <message>
         <source>KOSDocShare.content</source>
@@ -310,8 +326,12 @@ Click the arrow to see the different types of line charts available and pause th
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawColorGallery2.content</source>
+        <translation>Click arrow to set custom color.</translation>
+    </message>
+    <message>
         <source>ExportToPDF.title</source>
-        <translation>ExportToPDF</translation>
+        <translation>Export to PDF</translation>
     </message>
     <message>
         <source>OnlineFonts.title</source>
@@ -335,7 +355,7 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>ChartArea.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to emphasize the magnitude of change over time.
+        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
 
 Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</translation>
     </message>
@@ -349,7 +369,7 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation>Supports inserting barcodes in multiple encoding formats</translation>
+        <translation>Chart Gallery content</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.title</source>
@@ -395,7 +415,7 @@ Data being charted on the X axis will move to the Y axis and vice versa.</transl
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>Enjoy XiuTang.</translation>
     </message>
     <message>
         <source>PictureOutline2.title</source>
@@ -466,6 +486,10 @@ Data being charted on the X axis will move to the Y axis and vice versa.</transl
         <translation>Clear all the formatting from the selection, leaving only the plain text.</translation>
     </message>
     <message>
+        <source>InkDrawExit.content</source>
+        <translation>Close Pen mode.</translation>
+    </message>
+    <message>
         <source>InsertSymbol.title</source>
         <translation>Insert Symbol</translation>
     </message>
@@ -479,11 +503,11 @@ Data being charted on the X axis will move to the Y axis and vice versa.</transl
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation>Apply a shadow effect and 3D effect to selected graphic.</translation>
+        <translation>Apply a visual effect to the selected graphic, such as shadow, glow, reflection, or 3D rotation.</translation>
     </message>
     <message>
         <source>WordArtOutline2.content</source>
@@ -517,7 +541,7 @@ Click the arrow to select from different 3-D colors.</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Provide you the most professional online templates.</translation>
     </message>
     <message>
         <source>Sentence Translation.title</source>
@@ -556,12 +580,21 @@ Click the arrow to select from different 3-D colors.</translation>
         <translation>Switch Development Environment to VB Language</translation>
     </message>
     <message>
+        <source>InkDrawBallPen.content</source>
+        <translation>Add ink with the ballpoint effects on the page.</translation>
+    </message>
+    <message>
         <source>Italic.content</source>
-        <translation>Italic</translation>
+        <translation>Italicize the selected text.</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.content</source>
+        <translation>Set custom pen colors.
+Click the arrow to choose a color for your pen.</translation>
     </message>
     <message>
         <source>EquationInsertGallery.title</source>
-        <translation type="unfinished"/>
+        <translation>Insert Equation</translation>
     </message>
     <message>
         <source>WordArtFill2.content</source>
@@ -580,6 +613,10 @@ Click the arrow to select from different 3-D colors.</translation>
         <translation>WordArt Gallery</translation>
     </message>
     <message>
+        <source>InkDrawNiteWriterPen.content</source>
+        <translation>Add ink with the highlighter effects on the page.</translation>
+    </message>
+    <message>
         <source>ClearTableStyle.content</source>
         <translation>Clear table style of selected cells.</translation>
     </message>
@@ -588,12 +625,16 @@ Click the arrow to select from different 3-D colors.</translation>
         <translation>Theme Colors</translation>
     </message>
     <message>
+        <source>InkDrawSelectMode.title</source>
+        <translation>Select Mode</translation>
+    </message>
+    <message>
         <source>EquationScriptGallery.title</source>
         <translation>Script</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation>Barcode</translation>
+        <translation>Chart Gallery</translation>
     </message>
     <message>
         <source>SendBackward.title</source>
@@ -625,7 +666,9 @@ Click the arrow to select from different 3-D colors.</translation>
     </message>
     <message>
         <source>ChartColumn.content</source>
-        <translation type="unfinished"/>
+        <translation>Use this chart type to visually compare values across a few categories.
+
+Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</translation>
     </message>
     <message>
         <source>ShadowOnOff.content</source>
@@ -637,7 +680,7 @@ Click the arrow to select from different 3-D colors.</translation>
     </message>
     <message>
         <source>ChartStock.title</source>
-        <translation type="unfinished"/>
+        <translation>Insert Stock Chart</translation>
     </message>
     <message>
         <source>WordArtQuickBarCollapse.content</source>
@@ -649,7 +692,7 @@ Click the arrow to select from different 3-D colors.</translation>
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation>Scan the QR code with your mobile phone to get the document</translation>
+        <translation>Read and share all your documents on the go</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.content</source>
@@ -700,6 +743,10 @@ Click the arrow to select from different 3-D colors.</translation>
         <translation>Traditional cultural elements are integrated into WPS through inserted graphics, adding more distinctive cultural charm to people&apos;s study, work and life.</translation>
     </message>
     <message>
+        <source>InkDrawTouchToDraw.content</source>
+        <translation>Draw ink with touch.</translation>
+    </message>
+    <message>
         <source>EquationLargeOperatorGallery.content</source>
         <translation type="unfinished"/>
     </message>
@@ -717,7 +764,7 @@ Click the arrow to select from different 3-D colors.</translation>
     </message>
     <message>
         <source>ChartRadar.content</source>
-        <translation type="unfinished"/>
+        <translation>Click the arrow to see the different types of radar charts available.</translation>
     </message>
     <message>
         <source>Auto_Backup_xa.title</source>
@@ -792,6 +839,10 @@ Click the arrow to select from different 3-D colors.</translation>
         <translation>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</translation>
     </message>
     <message>
+        <source>InkDrawPenGallery.content</source>
+        <translation>Draw with the selected shape such as line, wavy line, or rectangle. Click the button again to set the width and shape.</translation>
+    </message>
+    <message>
         <source>PictureFill.content</source>
         <translation>Fill the selected object with a color, gradient, pattern and picture.
 
@@ -822,12 +873,16 @@ Click the arrow to select different fill effects.</translation>
         <translation>Make fine-tuned adjustments to the look of your shape using the Format Shape task pane.</translation>
     </message>
     <message>
+        <source>AIAssistant.content</source>
+        <translation>Intelligent analysis of user scenarios and questions,intention recognition,question and answer,provide intelligent office experience.</translation>
+    </message>
+    <message>
         <source>EquationProfessional.content</source>
         <translation>Converts selection to 2-dimensional form for professional display.</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation>Preview Picture</translation>
+        <translation>View the selected picture in its original size or in window size.</translation>
     </message>
     <message>
         <source>OnlineChart.content</source>
@@ -863,7 +918,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>ChartStock.content</source>
-        <translation type="unfinished"/>
+        <translation>Click the arrow to see the different types of stock charts available.</translation>
     </message>
     <message>
         <source>EquationLinearFormat.content</source>
@@ -896,6 +951,10 @@ Click the arrow to select different fill effects.</translation>
     <message>
         <source>PictureOutline2.content</source>
         <translation>Click the arrow to select detailed settings for the outline.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.title</source>
+        <translation>Smart Diagram Process</translation>
     </message>
     <message>
         <source>ChangeChartType.title</source>
@@ -989,7 +1048,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Docer</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.content</source>
@@ -1093,7 +1152,7 @@ Click the arrow to select different shadow colors.</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation>DocPermission</translation>
+        <translation>Document Permission</translation>
     </message>
     <message>
         <source>InsertSmartDiagram.title</source>
@@ -1106,6 +1165,10 @@ Click the arrow to select different shadow colors.</translation>
     <message>
         <source>ChartElementFormat.content</source>
         <translation>Show the Format task pane to fine-tune formatting for the selected chart element.</translation>
+    </message>
+    <message>
+        <source>InkDrawTouchToDraw.title</source>
+        <translation>Touch to draw</translation>
     </message>
     <message>
         <source>ShapeFormatStyle.content</source>
@@ -1121,7 +1184,7 @@ Click the arrow to select different shadow colors.</translation>
     </message>
     <message>
         <source>ChartScatter.title</source>
-        <translation>Insert (X Y) Scatter Chart</translation>
+        <translation>Insert Scatter (X, Y) Chart</translation>
     </message>
     <message>
         <source>InsertOnlinePictureFromFile.content</source>
@@ -1147,6 +1210,10 @@ Cloud Docs</translation>
     <message>
         <source>BringForward.content</source>
         <translation>Bring the selected object forward so that it is hidden by fewer objects that are in front of it.</translation>
+    </message>
+    <message>
+        <source>InkDrawEnter.title</source>
+        <translation>Ink</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
@@ -1203,8 +1270,12 @@ Cloud Docs</translation>
 This ensures that selected chart element matches the overall theme of the document.</translation>
     </message>
     <message>
+        <source>InkDrawEnter.content</source>
+        <translation>Use pen to draw.</translation>
+    </message>
+    <message>
         <source>EquationAccentGallery.title</source>
-        <translation>Accent</translation>
+        <translation>Accents</translation>
     </message>
     <message>
         <source>OnlineIconMore.title</source>
@@ -1283,6 +1354,10 @@ This ensures that selected chart element matches the overall theme of the docume
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>SmartDiagramProcess.content</source>
+        <translation>Smart Diagram Process content</translation>
+    </message>
+    <message>
         <source>WordArtOutline.content</source>
         <translation>Set the color, width and line style for the outline of the selected WordArt.
 
@@ -1322,7 +1397,7 @@ Click the arrow to select detailed settings for the outline.</translation>
     </message>
     <message>
         <source>ChartBubble.content</source>
-        <translation>Click the arrow to see the different types of bubble charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Click the arrow to see the different types of bubble charts available.</translation>
     </message>
     <message>
         <source>ShapeHeight.content</source>
@@ -1363,7 +1438,7 @@ Picture</translation>
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation>Apply a shadow effect and 3-D effect to the selected shape.</translation>
+        <translation>Apply a visual effect to the selected shape, such as shadow, glow, reflection, or 3-D rotation.</translation>
     </message>
     <message>
         <source>EquationFractionGallery.title</source>
@@ -1379,7 +1454,9 @@ Picture</translation>
     </message>
     <message>
         <source>EquationInsertGallery.content</source>
-        <translation type="unfinished"/>
+        <translation>Add common mathematical equations into your document, including the area of a circle or the quadratic formula.
+
+You can also use the library of math symbols and structures to build your own equations.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.title</source>
@@ -1411,7 +1488,7 @@ Picture</translation>
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation>DocPermission</translation>
+        <translation>After setting permissions, only authorized users can open this document.</translation>
     </message>
     <message>
         <source>ChangePicture.content</source>
@@ -1441,7 +1518,7 @@ Click the arrow to select detailed settings for the outline.</translation>
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation>Preview Picture</translation>
+        <translation>Picture Preview</translation>
     </message>
     <message>
         <source>3DTiltUp.title</source>
@@ -1454,6 +1531,10 @@ Click the arrow to select detailed settings for the outline.</translation>
     <message>
         <source>SpeedLayout.content</source>
         <translation>Change the overall layout of the chart.</translation>
+    </message>
+    <message>
+        <source>AIAssistant.title</source>
+        <translation>AI Assistant-XiaoMo</translation>
     </message>
     <message>
         <source>CTB_ViewCode.title</source>
@@ -1497,11 +1578,19 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation>DataRecover</translation>
+        <translation>Data Recover</translation>
+    </message>
+    <message>
+        <source>InkDrawSelectMode.content</source>
+        <translation>Click to select text and object, including ink and shape.</translation>
     </message>
     <message>
         <source>MarkVersion.title</source>
         <translation>Manual Backup</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.title</source>
+        <translation>Ballpoint Pen</translation>
     </message>
     <message>
         <source>TextboxBeautify.content</source>
@@ -1538,6 +1627,10 @@ Cloud Docs</translation>
     <message>
         <source>WordArtSameLetterHeights.content</source>
         <translation>Make all the letters of the selected WordArt exactly the same height.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.title</source>
+        <translation>Watercolor Pen</translation>
     </message>
     <message>
         <source>NudgeShadowRight.title</source>
@@ -1589,11 +1682,11 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation>DataRecover</translation>
+        <translation>Help you recover lost files due to disk corruption or accidental deletion.</translation>
     </message>
     <message>
         <source>ChartRadar.title</source>
-        <translation type="unfinished"/>
+        <translation>Insert Radar Chart</translation>
     </message>
     <message>
         <source>TransformQuickBar.content</source>
@@ -1601,7 +1694,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Bold.content</source>
-        <translation>Bold</translation>
+        <translation>Make the selected text bold.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile.content</source>
@@ -1610,6 +1703,10 @@ Cloud Docs</translation>
     <message>
         <source>InsertOnlinePictureFromFile.title</source>
         <translation>Online Pictures</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.title</source>
+        <translation>Custom Colors</translation>
     </message>
     <message>
         <source>Copy.content</source>
@@ -1645,7 +1742,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation>ScreenGrab</translation>
+        <translation>Quickly add a snapshot of any window that&apos;s open on your desktop to your document.</translation>
     </message>
     <message>
         <source>SmartArt InsertBullet.content</source>
@@ -1680,12 +1777,24 @@ Cloud Docs</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawEraser.content</source>
+        <translation>Erase ink on pages.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.content</source>
+        <translation>Add ink with the watercolor effects on the page.</translation>
+    </message>
+    <message>
         <source>ClearTableStyle.title</source>
         <translation>Clear Table Style</translation>
     </message>
     <message>
         <source>DocPermissionProtection.title</source>
         <translation>Doc Permission</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.title</source>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Protect_Eyes_Night.title</source>
@@ -1713,7 +1822,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Print.content</source>
-        <translation>Print files and make detailed settings for printing</translation>
+        <translation>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</translation>
     </message>
     <message>
         <source>ChartElementFormat.title</source>
@@ -1733,6 +1842,10 @@ Effects</translation>
         <translation>Matrix</translation>
     </message>
     <message>
+        <source>InkDrawPenGallery.title</source>
+        <translation>Shape Pen</translation>
+    </message>
+    <message>
         <source>Photo2Pdf.title</source>
         <translation>Picture to PDF</translation>
     </message>
@@ -1745,8 +1858,12 @@ Effects</translation>
         <translation>Switch to Night Mode to protect your eye sight.</translation>
     </message>
     <message>
+        <source>InkDrawColorGallery2.title</source>
+        <translation>Custom Colors</translation>
+    </message>
+    <message>
         <source>ExportToPDF.content</source>
-        <translation>ExportToPDF</translation>
+        <translation>Export the document to a PDF file.</translation>
     </message>
 </context>
 </TS>
