@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>PictureDesign.title</source>
-        <translation>Picture Design</translation>
+        <translation>Дизайн изображения</translation>
     </message>
     <message>
         <source>SpeedLayout.title</source>
@@ -15,9 +15,9 @@
     </message>
     <message>
         <source>ChartCombination.content</source>
-        <translation>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
+        <translation>Этот тип диаграммы используется для выделения различных типов сведений. Этот тип диаграммы используется, если значения на диаграмме значительно отличаются друг от друга или данные имеют различный тип.
 
-Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</translation>
+Щелкните стрелку, чтобы раскрыть список предварительно настроенных диаграмм, и задерживайте указатель над значками, чтобы выполнить предварительный просмотр. Выберите команду &quot;Создать настраиваемую комбинированную диаграмму&quot; и выберите разные типы диаграмм для объединения.</translation>
     </message>
     <message>
         <source>CloseWindow.content</source>
@@ -53,9 +53,9 @@ Click the arrow to see pre-set combo charts and pause over the icons to see a pr
     </message>
     <message>
         <source>ChartScatter.content</source>
-        <translation>Use this chart type to show the relationship between sets of values.
+        <translation>Данный тип диаграммы используется для отображения взаимосвязи между наборами значений.
 
-Click the arrow to see the different types of scatter charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Щелкните стрелку, чтобы отобразить различные типы доступных точечных диаграмм.</translation>
     </message>
     <message>
         <source>OneStepSaveTip.title</source>
@@ -67,19 +67,19 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>TextboxBeautify.title</source>
-        <translation>One-click quick typesetting</translation>
+        <translation>Быстрая настройка набора текстов одним движением</translation>
     </message>
     <message>
         <source>PictureDesign.content</source>
-        <translation>Easy to design a picture by dragging within 3 minute.</translation>
+        <translation>Создайте изображение за 3 минуты с помощью простых операций перетаскивания.</translation>
     </message>
     <message>
         <source>ChartBubble.title</source>
-        <translation>Insert Bubble Chart</translation>
+        <translation>Вставить пузырьковую диаграмму</translation>
     </message>
     <message>
         <source>InsertBarcode.title</source>
-        <translation>Barcode</translation>
+        <translation>Штрих-код</translation>
     </message>
     <message>
         <source>WordArtSize.title</source>
@@ -91,7 +91,7 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>ScreenGrab.title</source>
-        <translation>ScreenGrab</translation>
+        <translation>Захват экрана</translation>
     </message>
     <message>
         <source>BringForward.title</source>
@@ -99,7 +99,7 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>RunJSMacro.content</source>
-        <translation>View the list of JS macros, from which you can run, create, or delete a JS macro.</translation>
+        <translation>Откроется всплывающее диалоговое окно макроса JS. Вывод списка макросов JS для выполнения, создания или удаления макроса JS.</translation>
     </message>
     <message>
         <source>ChartLine.title</source>
@@ -119,7 +119,11 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>JavaScriptEditor.content</source>
-        <translation>Launch WPS JavaScript Editor, and edit Macros.</translation>
+        <translation>Запустите Редактор макросов WPS и измените макросы.</translation>
+    </message>
+    <message>
+        <source>InkDrawEraser.title</source>
+        <translation>Ластик</translation>
     </message>
     <message>
         <source>ShapeHeight.title</source>
@@ -145,7 +149,7 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>FontName.content</source>
-        <translation>Задание разных шрифтов</translation>
+        <translation>Изменение внешнего вида шрифта.</translation>
     </message>
     <message>
         <source>DonateMoney.content</source>
@@ -161,9 +165,9 @@ Click the arrow to see the different types of scatter charts available and pause
     </message>
     <message>
         <source>ChartLine.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories.
+        <translation>Данный тип диаграммы используется для отображения трендов во времени (по годам, месяцам и дням) или по категориям.
 
-Click the arrow to see the different types of line charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Щелкните стрелку, чтобы увидеть доступные типы графиков, и задерживайте указатель на значках, чтобы выполнить предварительный просмотр в документе.</translation>
     </message>
     <message>
         <source>TriggerExtendObject.title</source>
@@ -211,7 +215,7 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>OnlineIcons.content</source>
-        <translation>Icon ResourceShop is powerful and full of different icons, which are compatible with all documents.</translation>
+        <translation>Огромная библиотека значков в векторном формате предоставляет разные значки, совместимые со всеми документами WPS.</translation>
     </message>
     <message>
         <source>InsertMap.content</source>
@@ -231,19 +235,19 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message>
         <source>EquationDelimiterGallery.content</source>
-        <translation>Add a delimiter to the equation.</translation>
+        <translation>Добавление разделителя в уравнение.</translation>
     </message>
     <message>
         <source>ChartPie.content</source>
-        <translation>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
+        <translation>Данный тип диаграммы используется для отображения пропорций. Он применим, когда все значения в сумме дают 100 %.
 
-Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Щелкните стрелку для отображения различных типов доступных круговых и кольцевых диаграмм и задерживайте указатель на значках, чтобы выполнить предварительный просмотр.</translation>
     </message>
     <message>
         <source>ChartBar.content</source>
-        <translation>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
+        <translation>Используйте данный тип диаграммы для визуального сравнения значений по нескольким категориям, когда на диаграмме отображается длительность или текст категории имеет большую длину.
 
-Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Щелкните стрелку, чтобы увидеть доступные типы линейчатых диаграмм, и задерживайте указатель на значках, чтобы выполнить предварительный просмотр в документе.</translation>
     </message>
     <message>
         <source>Themes.title</source>
@@ -255,7 +259,7 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>FontSize.content</source>
-        <translation>Задание размера шрифта</translation>
+        <translation>Изменение размера шрифта.</translation>
     </message>
     <message>
         <source>FontName.title</source>
@@ -268,6 +272,10 @@ Click the arrow to see the different types of bar charts available and pause the
     <message>
         <source>EditShape.content</source>
         <translation>Изменение формы данного рисунка, преобразование рисунка в фигуру с полилиниями либо изменение контура обтекания, который определяет способ обтекания этого рисунка текстом.</translation>
+    </message>
+    <message>
+        <source>InkDrawNiteWriterPen.title</source>
+        <translation>Текстовый маркер</translation>
     </message>
     <message>
         <source>KOSDocShare.content</source>
@@ -318,16 +326,20 @@ Click the arrow to see the different types of bar charts available and pause the
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>InkDrawColorGallery2.content</source>
+        <translation>Click arrow to set custom color.</translation>
+    </message>
+    <message>
         <source>ExportToPDF.title</source>
-        <translation>ExportToPDF</translation>
+        <translation>Преобразовать в PDF</translation>
     </message>
     <message>
         <source>OnlineFonts.title</source>
-        <translation>Cloud Font</translation>
+        <translation>Шрифты из Интернета</translation>
     </message>
     <message>
         <source>OnlineIcons.title</source>
-        <translation>Online Icons</translation>
+        <translation>Вставить значок</translation>
     </message>
     <message>
         <source>Auto_Backup.title</source>
@@ -343,9 +355,9 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>ChartArea.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
+        <translation>Данный тип диаграммы используется для отображения трендов во времени (по годам, месяцам и дням) или по категориям. Используйте его, когда требуется показать относительное изменение вклада каждого из значений во времени.
 
-Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Щелкните стрелку, чтобы отобразить различные типы доступных диаграмм с областями, и задерживайте указатель на значках, чтобы выполнить предварительный просмотр.</translation>
     </message>
     <message>
         <source>DonateMoney.title</source>
@@ -357,7 +369,7 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation>ChartGallery_pro.content</translation>
+        <translation>Содержимое галереи диаграмм</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.title</source>
@@ -399,11 +411,11 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>OnlineFonts.content</source>
-        <translation>Click for various online fonts.</translation>
+        <translation>Нажмите, чтобы получить услугу предоставления дополнительных шрифтов из Интернета.</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>Использование XiuTang.</translation>
     </message>
     <message>
         <source>PictureOutline2.title</source>
@@ -435,7 +447,7 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>DetailedSettings_PictureTools.content</source>
-        <translation>Изменение параметров форматирования изображения.</translation>
+        <translation>Изменение параметров форматирования рисунка.</translation>
     </message>
     <message>
         <source>EquationDelimiterGallery.title</source>
@@ -467,11 +479,15 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>EquationLimitGallery.content</source>
-        <translation>Add a limit or log function to the equation.</translation>
+        <translation>Добавление функции логарифма или предела в уравнение.</translation>
     </message>
     <message>
         <source>ClearFormats.content</source>
         <translation>Удаление любого форматирования из выделенного фрагмента. Остается только обычный текст.</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.content</source>
+        <translation>Закрыть режим пера.</translation>
     </message>
     <message>
         <source>InsertSymbol.title</source>
@@ -487,11 +503,11 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>XiuTangH5Tip.title</source>
-        <translation>XiuTangH5Tip</translation>
+        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>GraphicEffects.content</source>
-        <translation>Применение эффекта тени и трехмерного эффекта к выбранному графическому объекту.</translation>
+        <translation>Применение к выбранному графическому объекту визуального эффекта, например тени, подсветки, отражения или трехмерного поворота.</translation>
     </message>
     <message>
         <source>WordArtOutline2.content</source>
@@ -521,11 +537,11 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>Ornamentation.title</source>
-        <translation>Ornamentation</translation>
+        <translation>Украшение</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Предоставление лучших профессиональных шаблонов из Интернета.</translation>
     </message>
     <message>
         <source>Sentence Translation.title</source>
@@ -557,19 +573,28 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>SwitchJS.content</source>
-        <translation>Switch development environment to JS language</translation>
+        <translation>Переключить среду разработки на язык JS</translation>
     </message>
     <message>
         <source>SwitchVB.content</source>
-        <translation>Switch development environment to VB language</translation>
+        <translation>Переключить среду разработки на язык VB</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.content</source>
+        <translation>Добавляет рукописный ввод с эффектом шариковой ручки на странице.</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation>Курсив</translation>
+        <translation>Выделение текста курсивом.</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.content</source>
+        <translation>Задать настраиваемые цвета пера.
+Щелкните стрелку для выбора цвета пера.</translation>
     </message>
     <message>
         <source>EquationInsertGallery.title</source>
-        <translation>Insert an Equation</translation>
+        <translation>Вставить формулу</translation>
     </message>
     <message>
         <source>WordArtFill2.content</source>
@@ -588,6 +613,10 @@ Click the arrow to see the different types of area charts available and pause th
         <translation>Библиотека WordArt.</translation>
     </message>
     <message>
+        <source>InkDrawNiteWriterPen.content</source>
+        <translation>Добавляет рукописный ввод с эффектом выделения на странице.</translation>
+    </message>
+    <message>
         <source>ClearTableStyle.content</source>
         <translation>Очистка стиля таблицы для выделенных ячеек.</translation>
     </message>
@@ -596,12 +625,16 @@ Click the arrow to see the different types of area charts available and pause th
         <translation>Цвета темы</translation>
     </message>
     <message>
+        <source>InkDrawSelectMode.title</source>
+        <translation>Выбрать режим</translation>
+    </message>
+    <message>
         <source>EquationScriptGallery.title</source>
         <translation>Скрипт</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation>Barcode</translation>
+        <translation>Галерея диаграмм</translation>
     </message>
     <message>
         <source>SendBackward.title</source>
@@ -633,9 +666,9 @@ Click the arrow to see the different types of area charts available and pause th
     </message>
     <message>
         <source>ChartColumn.content</source>
-        <translation>Use this chart type to visually compare values across a few categories.
+        <translation>Используйте этот тип диаграммы для визуального сравнения значений из нескольких категорий.
 
-Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</translation>
+Щелкните стрелку, чтобы увидеть различные типы доступных гистограмм, и наведите указатель на значки, чтобы провести предварительный просмотр в документе.</translation>
     </message>
     <message>
         <source>ShadowOnOff.content</source>
@@ -647,7 +680,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartStock.title</source>
-        <translation>Insert Stock Chart</translation>
+        <translation>Вставить биржевую диаграмму</translation>
     </message>
     <message>
         <source>WordArtQuickBarCollapse.content</source>
@@ -659,7 +692,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation>Сканируйте QR-код с помощью мобильного телефона, чтобы получить документ</translation>
+        <translation>Читайте все ваши документы и делитесь ими в любое время</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.content</source>
@@ -681,7 +714,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>EquationNormalText.content</source>
-        <translation>Use non-math text in a math region.</translation>
+        <translation>Использование текста, не являющегося математическим, в области математических символов.</translation>
     </message>
     <message>
         <source>3DTiltLeft.content</source>
@@ -709,11 +742,15 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>Ornamentation.content</source>
-        <translation>Ornamentation content</translation>
+        <translation>Традиционные культурные элементы интегрированы в WPS с помощью вставленных графических элементов, что придает учебе, работе и жизни людей более характерный культурный шарм.</translation>
+    </message>
+    <message>
+        <source>InkDrawTouchToDraw.content</source>
+        <translation>Draw ink with touch.</translation>
     </message>
     <message>
         <source>EquationLargeOperatorGallery.content</source>
-        <translation>Add a large operator to the equation, such as a summation, product, union, or intersection.</translation>
+        <translation>Добавление в уравнение крупного оператора, например оператора суммирования, произведения, объединения или пересечения.</translation>
     </message>
     <message>
         <source>WordArtSameLetterHeights.title</source>
@@ -729,7 +766,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartRadar.content</source>
-        <translation>Click the arrow to see the different types of radar charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Щелкните стрелку, чтобы увидеть доступные типы лепестковых диаграмм.</translation>
     </message>
     <message>
         <source>Auto_Backup_xa.title</source>
@@ -806,6 +843,10 @@ Click the arrow to see the different types of column charts available and pause 
 Вы сможете начать работу в любое время и в любом месте.</translation>
     </message>
     <message>
+        <source>InkDrawPenGallery.content</source>
+        <translation>Рисуйте с помощью выбранной фигуры, например линии, волнистой линии или прямоугольника. Нажмите кнопку еще раз, чтобы задать ширину и форму.</translation>
+    </message>
+    <message>
         <source>PictureFill.content</source>
         <translation>Заливка выделенного объекта цветом, применение градиента, текстуры, узоров и изображений.
 
@@ -836,12 +877,16 @@ Click the arrow to see the different types of column charts available and pause 
         <translation>Изменение свойств фигуры с помощью диалогового окна &quot;Формат фигуры&quot;.</translation>
     </message>
     <message>
+        <source>AIAssistant.content</source>
+        <translation>Intelligent analysis of user scenarios and questions,intention recognition,question and answer,provide intelligent office experience.</translation>
+    </message>
+    <message>
         <source>EquationProfessional.content</source>
-        <translation>Converts selection to 2-dimemsional form for professional display.</translation>
+        <translation>Преобразование выделенного фрагмента в двухмерную форму для придания ему профессионального вида.</translation>
     </message>
     <message>
         <source>ImagePreview.content</source>
-        <translation>Предварительный просмотр изображения</translation>
+        <translation>Просмотр выделенного рисунка в исходном размере или в размере окна.</translation>
     </message>
     <message>
         <source>OnlineChart.content</source>
@@ -877,11 +922,11 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartStock.content</source>
-        <translation>Click the arrow to see the different types of stock charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Щелкните стрелку, чтобы увидеть доступные типы биржевых диаграмм.</translation>
     </message>
     <message>
         <source>EquationLinearFormat.content</source>
-        <translation>Converts selection to a 1-dimensional form for easy editing.</translation>
+        <translation>Преобразование выделенного фрагмента в одномерную форму для упрощения редактирования.</translation>
     </message>
     <message>
         <source>ChooseDataSource.title</source>
@@ -893,7 +938,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>DocumentAuthente.content</source>
-        <translation>Once the document is certified, it will become your own document. If it is tampered with, the status of the document will be updated in real time.</translation>
+        <translation>Сертифицированные файлы являются конфиденциальными, и их статус будет обновляться в режиме реального времени, если их изменить.</translation>
     </message>
     <message>
         <source>WordArtGallery.title</source>
@@ -910,6 +955,10 @@ Click the arrow to see the different types of column charts available and pause 
     <message>
         <source>PictureOutline2.content</source>
         <translation>Щёлкните стрелку для выбора подробных параметров для контура.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.title</source>
+        <translation>Smart Diagram Process</translation>
     </message>
     <message>
         <source>ChangeChartType.title</source>
@@ -1003,7 +1052,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>DocerURLEntranceTip.title</source>
-        <translation>DocerURLEntranceTip</translation>
+        <translation>Docer</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.content</source>
@@ -1013,7 +1062,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>InsertBarcode.content</source>
-        <translation>Insert a barcode with information you define into the document.</translation>
+        <translation>Вставьте штрих-код с определенной вами информацией в документ.</translation>
     </message>
     <message>
         <source>ChangePicture.title</source>
@@ -1033,7 +1082,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>EquationOperatorGallery.content</source>
-        <translation>Add an operator to the equation.</translation>
+        <translation>Добавление оператора в уравнение.</translation>
     </message>
     <message>
         <source>EquationFunctionGallery.title</source>
@@ -1097,7 +1146,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>OnlineTextboxMore.content</source>
-        <translation>Docer text box provides more exquisite materials to meet personalized needs.</translation>
+        <translation>Текстовое поле шаблона предоставляет более изысканные материалы для соответствия потребностям персонализации.</translation>
     </message>
     <message>
         <source>ShadowPalette.title</source>
@@ -1109,7 +1158,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>DocPermission.title</source>
-        <translation>DocPermission</translation>
+        <translation>Разрешение для документа</translation>
     </message>
     <message>
         <source>InsertSmartDiagram.title</source>
@@ -1117,11 +1166,15 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>EquationOptions.content</source>
-        <translation>Show the Equation Options dialog box to configure advanced options.</translation>
+        <translation>Показать диалоговое окно &quot;Параметры уравнений&quot; для настройки дополнительных параметров.</translation>
     </message>
     <message>
         <source>ChartElementFormat.content</source>
         <translation>Открытие диалогового окна &quot;Формат&quot; для настройки форматирования выделенного элемента диаграммы.</translation>
+    </message>
+    <message>
+        <source>InkDrawTouchToDraw.title</source>
+        <translation>Touch to draw</translation>
     </message>
     <message>
         <source>ShapeFormatStyle.content</source>
@@ -1137,7 +1190,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartScatter.title</source>
-        <translation>Insert Scatter (X, Y) Chart</translation>
+        <translation>Вставка точечной (X, Y) диаграммы</translation>
     </message>
     <message>
         <source>InsertOnlinePictureFromFile.content</source>
@@ -1164,6 +1217,10 @@ Click the arrow to see the different types of column charts available and pause 
         <translation>Размещение выделенного объекта впереди всех остальных объектов таким образом, чтобы ни одна его часть не заслонялась другим объектом.</translation>
     </message>
     <message>
+        <source>InkDrawEnter.title</source>
+        <translation>Рукописный ввод</translation>
+    </message>
+    <message>
         <source>NudgeShadowUp.title</source>
         <translation>Сдвинуть тень вверх</translation>
     </message>
@@ -1177,7 +1234,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>EquationNormalText.title</source>
-        <translation>Normal Text</translation>
+        <translation>Обычный текст</translation>
     </message>
     <message>
         <source>ChartPie.title</source>
@@ -1218,20 +1275,24 @@ Click the arrow to see the different types of column charts available and pause 
 Это позволяет привести выделенный элемент диаграммы в соответствие с общей темой документа.</translation>
     </message>
     <message>
+        <source>InkDrawEnter.content</source>
+        <translation>Используйте перо для рисования.</translation>
+    </message>
+    <message>
         <source>EquationAccentGallery.title</source>
         <translation>Акцент</translation>
     </message>
     <message>
         <source>OnlineIconMore.title</source>
-        <translation>More Icon</translation>
+        <translation>Вставить значок</translation>
     </message>
     <message>
         <source>EquationFractionGallery.content</source>
-        <translation>Add a fraction to the equation.</translation>
+        <translation>Добавление простой дроби в уравнение.</translation>
     </message>
     <message>
         <source>EquationFunctionGallery.content</source>
-        <translation>Add a trigonometric function to the equation.</translation>
+        <translation>Добавление тригонометрической функции в уравнение.</translation>
     </message>
     <message>
         <source>ShadowColor2.title</source>
@@ -1243,7 +1304,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>SwitchVB.title</source>
-        <translation>Switch to VB environment</translation>
+        <translation>Перейти в среду VB</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.content</source>
@@ -1255,7 +1316,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>JavaScriptEditor.title</source>
-        <translation>WPS JavaScript Editor</translation>
+        <translation>Редактор макросов WPS</translation>
     </message>
     <message>
         <source>CTB_ViewCode.content</source>
@@ -1283,7 +1344,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>OnlineTextboxMore.title</source>
-        <translation>More Textbox</translation>
+        <translation>Текстовое поле</translation>
     </message>
     <message>
         <source>ChartBar.title</source>
@@ -1295,7 +1356,11 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>OnlineIconMore.content</source>
-        <translation>Docer icon library provides a large number of high-quality icons.</translation>
+        <translation>Библиотека значков Docer предоставляет большое количество высококачественных значков.</translation>
+    </message>
+    <message>
+        <source>SmartDiagramProcess.content</source>
+        <translation>Smart Diagram Process content</translation>
     </message>
     <message>
         <source>WordArtOutline.content</source>
@@ -1337,7 +1402,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ChartBubble.content</source>
-        <translation>Click the arrow to see the different types of scatter and bubble charts available and pause the pointer on the icons to see a preview in your document.</translation>
+        <translation>Щелкните стрелку, чтобы отобразить различные типы доступных пузырьковых диаграмм.</translation>
     </message>
     <message>
         <source>ShapeHeight.content</source>
@@ -1345,11 +1410,11 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>SwitchJS.title</source>
-        <translation>Switch to JS environment</translation>
+        <translation>Перейти в среду JS</translation>
     </message>
     <message>
         <source>EquationRadicalGallery.content</source>
-        <translation>Add a radical to the equation.</translation>
+        <translation>Добавление корня в уравнение.</translation>
     </message>
     <message>
         <source>BringForward2.title</source>
@@ -1377,7 +1442,7 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>ShapeEffects.content</source>
-        <translation>Применение 3-D эффектов и тени к выделенной фигуре.</translation>
+        <translation>Применение к выделенной фигуре эффекта оформления, такого как тень, свечение, отражение или объемное вращение.</translation>
     </message>
     <message>
         <source>EquationFractionGallery.title</source>
@@ -1393,9 +1458,8 @@ Click the arrow to see the different types of column charts available and pause 
     </message>
     <message>
         <source>EquationInsertGallery.content</source>
-        <translation>Add common mathematical equations to your document, such as the area of a circle or the quadratic formula.
-
-You can also build your own equations using the library of math symbols and structures.</translation>
+        <translation>Добавьте стандартные математические уравнения в свой документ, включая площадь круга или формулу корней квадратного уравнения.
+Вы также можете использовать библиотеку математических символов и структур для создания собственных уравнений.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip.title</source>
@@ -1427,7 +1491,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>DocPermission.content</source>
-        <translation>DocPermission</translation>
+        <translation>После настройки разрешений этот документ смогут открывать только авторизованные пользователи.</translation>
     </message>
     <message>
         <source>ChangePicture.content</source>
@@ -1439,7 +1503,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>EquationScriptGallery.content</source>
-        <translation>Add a subscript or superscript to the equation.</translation>
+        <translation>Добавление верхнего или нижнего индекса в уравнение.</translation>
     </message>
     <message>
         <source>NudgeShadowLeft.content</source>
@@ -1457,7 +1521,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>ImagePreview.title</source>
-        <translation>Предварительный просмотр изображения</translation>
+        <translation>Предварительный просмотр рисунка</translation>
     </message>
     <message>
         <source>3DTiltUp.title</source>
@@ -1465,11 +1529,15 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>EquationAccentGallery.content</source>
-        <translation>Add an accent mark to the equation.</translation>
+        <translation>Добавление диакритического знака в уравнение.</translation>
     </message>
     <message>
         <source>SpeedLayout.content</source>
         <translation>Изменение общего стиля оформления диаграммы.</translation>
+    </message>
+    <message>
+        <source>AIAssistant.title</source>
+        <translation>AI Assistant-XiaoMo</translation>
     </message>
     <message>
         <source>CTB_ViewCode.title</source>
@@ -1509,11 +1577,19 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>DataRecover.title</source>
-        <translation>DataRecover</translation>
+        <translation>Восстановление данных</translation>
+    </message>
+    <message>
+        <source>InkDrawSelectMode.content</source>
+        <translation>Щелкните, чтобы выбрать текст и объект, включая рукописный ввод и фигуры.</translation>
     </message>
     <message>
         <source>MarkVersion.title</source>
         <translation>Резервное копирование вручную</translation>
+    </message>
+    <message>
+        <source>InkDrawBallPen.title</source>
+        <translation>Шариковая ручка</translation>
     </message>
     <message>
         <source>TextboxBeautify.content</source>
@@ -1541,7 +1617,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>EquationMatrixGallery.content</source>
-        <translation>Add a matrix to the equation.</translation>
+        <translation>Добавление матрицы в уравнение.</translation>
     </message>
     <message>
         <source>ChangeChartType.content</source>
@@ -1550,6 +1626,10 @@ You can also build your own equations using the library of math symbols and stru
     <message>
         <source>WordArtSameLetterHeights.content</source>
         <translation>Выравнивание всех букв выбранного фигурного текста по высоте.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.title</source>
+        <translation>Фломастер</translation>
     </message>
     <message>
         <source>NudgeShadowRight.title</source>
@@ -1569,7 +1649,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>PictureChange.content</source>
-        <translation>Docer picture have provide a lot of pictures, replace directly.</translation>
+        <translation>Изображение шаблона предоставляет множество изысканных изображений для прямой замены.</translation>
     </message>
     <message>
         <source>QuickBarChartFilters.content</source>
@@ -1601,11 +1681,11 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>DataRecover.content</source>
-        <translation>DataRecover</translation>
+        <translation>Поможет восстановить потерянные файлы с поврежденного диска или после случайного удаления.</translation>
     </message>
     <message>
         <source>ChartRadar.title</source>
-        <translation>Insert Radar Chart</translation>
+        <translation>Вставить лепестковую диаграмму</translation>
     </message>
     <message>
         <source>TransformQuickBar.content</source>
@@ -1613,7 +1693,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>Bold.content</source>
-        <translation>Полужирный</translation>
+        <translation>Выделение текста полужирным шрифтом.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile.content</source>
@@ -1622,6 +1702,10 @@ You can also build your own equations using the library of math symbols and stru
     <message>
         <source>InsertOnlinePictureFromFile.title</source>
         <translation>Изображения из Интернета</translation>
+    </message>
+    <message>
+        <source>InkDrawColorGallery.title</source>
+        <translation>Пользовательские цвета</translation>
     </message>
     <message>
         <source>Copy.content</source>
@@ -1657,15 +1741,15 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>ScreenGrab.content</source>
-        <translation>ScreenGrab</translation>
+        <translation>Быстро добавить снимок для каждого открытого окна документа на вашем рабочем столе.</translation>
     </message>
     <message>
         <source>SmartArt InsertBullet.content</source>
-        <translation>Add text bullets to selected SmartArt shapes, only available in shapes with bullet text</translation>
+        <translation>Добавить текстовые маркеры в выбранную фигуру SmartArt. Эта функция доступна для фигур, поддерживающих текстовые маркеры.</translation>
     </message>
     <message>
         <source>DocerMall.content</source>
-        <translation>DocerMall content</translation>
+        <translation>Открыть Магазин шаблонов в новой вкладке</translation>
     </message>
     <message>
         <source>PictureOutline.title</source>
@@ -1690,7 +1774,15 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>EquationIntegralGallery.content</source>
-        <translation>Add an integral to the equation.</translation>
+        <translation>Добавление интеграла в уравнение.</translation>
+    </message>
+    <message>
+        <source>InkDrawEraser.content</source>
+        <translation>Стереть рукописный ввод на страницах.</translation>
+    </message>
+    <message>
+        <source>InkDrawWaterColorPen.content</source>
+        <translation>Добавляет рукописный ввод с эффектом фломастера на странице.</translation>
     </message>
     <message>
         <source>ClearTableStyle.title</source>
@@ -1699,6 +1791,10 @@ You can also build your own equations using the library of math symbols and stru
     <message>
         <source>DocPermissionProtection.title</source>
         <translation>Разрешение Doc</translation>
+    </message>
+    <message>
+        <source>InkDrawExit.title</source>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Protect_Eyes_Night.title</source>
@@ -1726,7 +1822,7 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>Print.content</source>
-        <translation>Печать файлов и создание подробных настроек для печати</translation>
+        <translation>Выбор дополнительных параметров печати, таких как принтер, диапазон печати, число печатаемых экземпляров, количество страниц на листе и масштаб.</translation>
     </message>
     <message>
         <source>ChartElementFormat.title</source>
@@ -1738,11 +1834,15 @@ You can also build your own equations using the library of math symbols and stru
     </message>
     <message>
         <source>RunJSMacro.title</source>
-        <translation>View JS Macros</translation>
+        <translation>Просмотреть макросы JS</translation>
     </message>
     <message>
         <source>EquationMatrixGallery.title</source>
         <translation>Матрица</translation>
+    </message>
+    <message>
+        <source>InkDrawPenGallery.title</source>
+        <translation>Перо с фигурой</translation>
     </message>
     <message>
         <source>Photo2Pdf.title</source>
@@ -1757,8 +1857,12 @@ You can also build your own equations using the library of math symbols and stru
         <translation>Защитите глаза — включите ночной режим.</translation>
     </message>
     <message>
+        <source>InkDrawColorGallery2.title</source>
+        <translation>Пользовательские цвета</translation>
+    </message>
+    <message>
         <source>ExportToPDF.content</source>
-        <translation>ExportToPDF</translation>
+        <translation>Экспорт документа в файл PDF.</translation>
     </message>
 </context>
 </TS>
