@@ -111,7 +111,7 @@ The selected level and all higher levels will be visible.</translation>
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Quick Print</translation>
+        <translation>Print Directly</translation>
     </message>
     <message>
         <source>ChangeDiagramColor.title</source>
@@ -135,7 +135,7 @@ The selected level and all higher levels will be visible.</translation>
     </message>
     <message>
         <source>ResetPicture.content</source>
-        <translation>Discard all the formatting changes you have made to this picture.</translation>
+        <translation>Discard all of the formatting changes you have made to this picture.</translation>
     </message>
     <message>
         <source>m_CharacterScaling.title</source>
@@ -669,6 +669,10 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
         <translation>Insert AutoText in the header or footer to easily view and locate the related article.</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.title</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>DetailedSettings_Home.content</source>
         <translation>Change the settings of font, paragraph, and styles and formatting.</translation>
     </message>
@@ -694,7 +698,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     </message>
     <message>
         <source>DocBarcode_pro.title</source>
-        <translation>Document Barcode</translation>
+        <translation>Official Document QR Code</translation>
     </message>
     <message>
         <source>Separator.content</source>
@@ -726,7 +730,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Next comment.</translation>
+        <translation>Jump to the next comment.</translation>
     </message>
     <message>
         <source>ControlsGalleryClassic.content</source>
@@ -768,7 +772,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Font Color</translation>
+        <translation>Text Color</translation>
     </message>
     <message>
         <source>Thesaurus.content</source>
@@ -1112,6 +1116,10 @@ Click the arrow to select different fill effects.</translation>
         <translation>Change Case</translation>
     </message>
     <message>
+        <source>PrintManualDuplex.title</source>
+        <translation>Print Manual Duplex</translation>
+    </message>
+    <message>
         <source>PageLayoutDetailedSettings.content</source>
         <translation>PageLayoutDetailedSettings Content</translation>
     </message>
@@ -1173,7 +1181,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>InsertForm.title</source>
-        <translation>Insert Form</translation>
+        <translation>Insert Form Fields</translation>
     </message>
     <message>
         <source>m_Rotate.title</source>
@@ -1276,8 +1284,12 @@ Click the arrow to select different fill effects.</translation>
         <translation>Click to select where the navigation pane is displayed.</translation>
     </message>
     <message>
+        <source>SpellCheckMore.content</source>
+        <translation>Spell Check More</translation>
+    </message>
+    <message>
         <source>DecreaseIndent.title</source>
-        <translation>Decrease List Level</translation>
+        <translation>Decrease Indent</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1335,7 +1347,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Export to Image</translation>
+        <translation>Export to Picture</translation>
     </message>
     <message>
         <source>InsertRowAbove.title</source>
@@ -1414,6 +1426,10 @@ Click the arrow to select a different text color.</translation>
     <message>
         <source>OfficialInsertVerticalBlankPage.title</source>
         <translation>Insert Portrait Page</translation>
+    </message>
+    <message>
+        <source>PrintManualDuplex.content</source>
+        <translation>You can print the front page first, and the pop-up window will appear when you turn it over Turn it over manually after it appears, and then print the reverse page.</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
@@ -2117,7 +2133,7 @@ To enable this feature, turn on View Side by Side.</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation>Split or Merge.</translation>
+        <translation>Split or Merge</translation>
     </message>
     <message>
         <source>NextRecord.content</source>
@@ -2216,6 +2232,10 @@ Click the arrow to insert file content into the document.</translation>
     <message>
         <source>MailConfig.content</source>
         <translation>Configure the email account that is used to send emails.</translation>
+    </message>
+    <message>
+        <source>ClickToTurnOnOffSpellCheck.content</source>
+        <translation>Click to turn on/off spell check</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
@@ -2697,7 +2717,7 @@ The diagonal lines in the table headings can be moved.</translation>
     </message>
     <message>
         <source>MailConfig.title</source>
-        <translation>Email Config</translation>
+        <translation>Email Configuration</translation>
     </message>
     <message>
         <source>m_ShowReviewer.content</source>
@@ -2897,6 +2917,10 @@ Click arrow to fill with different effects.</translation>
 Pane</translation>
     </message>
     <message>
+        <source>WpsPhotoedit2.content</source>
+        <translation>WpsPhotoedit2</translation>
+    </message>
+    <message>
         <source>LooseLineSpacing.title</source>
         <translation>Loose Line Spacing</translation>
     </message>
@@ -3064,7 +3088,7 @@ Footnote</translation>
     </message>
     <message>
         <source>IncreaseIndent.title</source>
-        <translation>Increase List Level</translation>
+        <translation>Increase Indent</translation>
     </message>
     <message>
         <source>PageDiffOddEven.content</source>
@@ -3084,7 +3108,7 @@ Footnote</translation>
     </message>
     <message>
         <source>statusbarFontMissing.content</source>
-        <translation>It may cause the document to be disordered during display or printing. Install the appropriate font or replace it with a different font.</translation>
+        <translation>This may cause the document unable to be displayed or printed properly. Please install or change the font.</translation>
     </message>
     <message>
         <source>PreviousHeader.title</source>
@@ -3154,7 +3178,7 @@ All of the text will be placed in the selected text box.</translation>
     </message>
     <message>
         <source>statusbarFontMissing.title</source>
-        <translation>คอมพิวเตอร์เครื่องนี้ไม่มีแบบอักษรที่ใช้ในเอกสาร</translation>
+        <translation>This computer does not contain the font used in the document.</translation>
     </message>
     <message>
         <source>ReducedStep.title</source>
@@ -3381,7 +3405,7 @@ WPSArt graphics range from graphical lists and process diagrams to more complex 
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Preview page effects before printing.</translation>
+        <translation>Preview and make changes to pages before printing.</translation>
     </message>
     <message>
         <source>NextHeader.title</source>
@@ -3431,7 +3455,7 @@ This only affects tables which extend beyond a single page.</translation>
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Font Color</translation>
+        <translation>Text Color</translation>
     </message>
     <message>
         <source>HighlightMergeFields.title</source>
@@ -3729,7 +3753,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Use the default printer to print directly.</translation>
+        <translation>Send the document directly to the default printer without making changes.</translation>
     </message>
     <message>
         <source>AlignTopRight.content</source>
@@ -3834,7 +3858,7 @@ Text</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation>SendFileTip.title</translation>
+        <translation>Send to Phone</translation>
     </message>
     <message>
         <source>InsertSectionAfter.title</source>
