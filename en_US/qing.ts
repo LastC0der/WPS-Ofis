@@ -590,7 +590,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Ledger</source>
-        <translation type="unfinished"/>
+        <translation>Ledger</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -654,7 +654,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation type="unfinished"/>
+        <translation>Tabloid</translation>
     </message>
     <message>
         <source>A4 (210 x 297 mm, 8.26 x 11.7 inches)</source>
@@ -915,7 +915,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>You&apos;re about to exit your account</source>
-        <translation type="unfinished"/>
+        <translation>You&apos;re about to exit your account</translation>
     </message>
     <message>
         <source>Continue to exit</source>
@@ -1132,7 +1132,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Defaults</source>
@@ -1186,11 +1186,11 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Save</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Save</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -1202,7 +1202,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1576,7 +1576,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>No permission, author forbids document download</source>
-        <translation type="unfinished"/>
+        <translation>No permission. The author forbids document download.</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -1624,7 +1624,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>SaveAs file succeed</source>
-        <translation type="unfinished"/>
+        <translation>File saved successfully.</translation>
     </message>
     <message>
         <source>Invalid user.</source>
@@ -2228,7 +2228,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2240,7 +2240,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2464,31 +2464,31 @@ Are you sure you want to change it?</translation>
     <name>KOtherCloudMessageWidget</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>You have successfully logged in through Dropbox. And if you authorize the Dropbox cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
-        <translation type="unfinished"/>
+        <translation>You have successfully signed in with the Dropbox account. After you authorize WPS Office, you can click &quot;Open&quot; in the startup screen of WPS Office to access and manage all files saved in Dropbox.</translation>
     </message>
     <message>
         <source>You have successfully logged in through Google. And if you authorize the Google Drive cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
-        <translation type="unfinished"/>
+        <translation>You have successfully signed in with the Google account. After you authorize WPS Office, you can click &quot;Open&quot; in the startup screen of WPS Office to access and manage all files saved in Google Drive.</translation>
     </message>
     <message>
         <source>Do not check this when logining next time</source>
-        <translation type="unfinished"/>
+        <translation>Do not remind me again</translation>
     </message>
     <message>
         <source>Authorize WPS Office to access Dropbox?</source>
-        <translation type="unfinished"/>
+        <translation>Authorize WPS Office to access Dropbox?</translation>
     </message>
     <message>
         <source>Authorize WPS Office to access Google Drive?</source>
-        <translation type="unfinished"/>
+        <translation>Authorize WPS Office to access Google Drive?</translation>
     </message>
 </context>
 <context>
@@ -2503,7 +2503,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2549,26 +2549,26 @@ Are you sure you want to change it?</translation>
     <name>KMacCancelSyncFolderWidget</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
     <name>KMacFileSyncFailWidget</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"/>
+        <translation>Failed</translation>
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback</translation>
     </message>
 </context>
 <context>
@@ -2854,7 +2854,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>You can resolve the issue by:</source>
-        <translation type="unfinished"/>
+        <translation>You can resolve the issue by:</translation>
     </message>
     <message>
         <source>1. Remove the login device that is not commonly used, go to</source>
@@ -2922,11 +2922,11 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Shut down</source>
-        <translation type="unfinished"/>
+        <translation>Shut down</translation>
     </message>
     <message>
         <source>Sign back in</source>
-        <translation type="unfinished"/>
+        <translation>Sign back in</translation>
     </message>
     <message>
         <source>The same account can be temporarily login on %1 PC devices at most, due to reaching the upper limit, the current device will be automatically offline</source>
@@ -3024,7 +3024,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3040,7 +3040,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Landscape</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -3052,7 +3052,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Portrait</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -3155,7 +3155,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Save</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3203,7 +3203,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>R&amp;eload</source>
@@ -3277,7 +3277,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"/>
+        <translation>Special</translation>
     </message>
     <message>
         <source>Write-only</source>
@@ -3391,7 +3391,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <source>Output &amp;file:</source>
@@ -3403,7 +3403,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Preview</translation>
     </message>
     <message>
         <source>Printer</source>
@@ -3438,7 +3438,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Black</translation>
     </message>
     <message>
         <source>Greek</source>
@@ -3454,7 +3454,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Light</translation>
     </message>
     <message>
         <source>Ogham</source>
@@ -3514,7 +3514,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"/>
+        <translation>General</translation>
     </message>
     <message>
         <source>Oblique</source>
@@ -3725,7 +3725,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Auto Uploaded</source>
-        <translation type="unfinished"/>
+        <translation>Auto Uploaded</translation>
     </message>
 </context>
 <context>
@@ -4018,7 +4018,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Copy Image</source>
-        <translation type="unfinished"/>
+        <translation>Copy Image</translation>
     </message>
     <message>
         <source>Select to the end of the document</source>
@@ -4358,7 +4358,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>WPS Diagnositic</source>
-        <translation type="unfinished"/>
+        <translation>WPS Diagnostic Tool</translation>
     </message>
     <message>
         <source>Close settings dialog before sign out</source>
@@ -4709,7 +4709,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Save</translation>
     </message>
     <message>
         <source>Drive</source>
@@ -4958,7 +4958,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Float</source>
@@ -4996,7 +4996,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Commit</source>
@@ -5035,7 +5035,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>Cloud Document</translation>
     </message>
 </context>
 <context>
@@ -5066,11 +5066,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>Margins</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Landscape</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -5082,7 +5082,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Portrait</translation>
     </message>
     <message>
         <source>top margin</source>
@@ -5316,7 +5316,7 @@ Please verify the correct file name was given.</source>
     <name>KSyncCacheFolderWidget</name>
     <message>
         <source>Know</source>
-        <translation type="unfinished"/>
+        <translation>I got it</translation>
     </message>
     <message>
         <source>Please select another directory</source>
@@ -5431,7 +5431,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>False</source>
@@ -5446,7 +5446,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Execute</source>
@@ -5535,7 +5535,7 @@ Please verify the correct file name was given.</source>
     <name>KTrayMiddleWidget</name>
     <message>
         <source>Tool</source>
-        <translation type="unfinished"/>
+        <translation>Tool</translation>
     </message>
 </context>
 <context>
@@ -5690,47 +5690,47 @@ Please verify the correct file name was given.</source>
     <name>KTrayTopItem</name>
     <message>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>View</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Clean up</source>
-        <translation type="unfinished"/>
+        <translation>Clean up</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"/>
+        <translation>Downloading</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"/>
+        <translation>Uploading</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"/>
+        <translation>Paused</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"/>
+        <translation>Finish</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>My Cloud Files</translation>
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Cloud Sync</translation>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Cloud Space:%1/%2</source>
-        <translation type="unfinished"/>
+        <translation>%1/%2</translation>
     </message>
 </context>
 <context>
@@ -6832,7 +6832,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Sample</source>
-        <translation type="unfinished"/>
+        <translation>Sample</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
@@ -6894,7 +6894,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -7043,7 +7043,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>New path can not be local sync folder or sub folder</source>
-        <translation type="unfinished"/>
+        <translation>The selected folder has been set as a synchronization folder and cannot be changed to the network disk cache. Please select again.</translation>
     </message>
     <message>
         <source>Operation Tips</source>
@@ -7517,7 +7517,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Unable to initialize non-blocking socket</source>
@@ -7544,15 +7544,15 @@ Please verify the correct file name was given.</source>
     <name>KMacSyncFolderWidget</name>
     <message>
         <source>Sync now</source>
-        <translation type="unfinished"/>
+        <translation>Sync now</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Change</translation>
     </message>
     <message>
         <source>Upgrade VIP</source>
-        <translation type="unfinished"/>
+        <translation>Upgrade VIP</translation>
     </message>
 </context>
 <context>
@@ -7732,7 +7732,7 @@ Please verify the correct file name was given.</source>
     <name>Q3TitleBar</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -7787,19 +7787,19 @@ Please verify the correct file name was given.</source>
     <name>KMacSameFolderDialog</name>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Cloud</translation>
     </message>
     <message>
         <source>local</source>
-        <translation type="unfinished"/>
+        <translation>Current device</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>My Cloud Documents</translation>
     </message>
 </context>
 <context>
@@ -7885,7 +7885,7 @@ Free Space: about %1 MB</translation>
     <name>KDesktopSyncUnavailableWidget</name>
     <message>
         <source>Known</source>
-        <translation type="unfinished"/>
+        <translation>I got it</translation>
     </message>
 </context>
 <context>
@@ -8068,7 +8068,7 @@ to
     <name>KUploadLimitBubbleOld</name>
     <message>
         <source>upload file failed for exceeding %1 limit,upgrade super vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>The file to be synced exceeds the size limit of %1. Upgrade to Super Premium to continue synchronization.</translation>
     </message>
     <message>
         <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
@@ -8080,11 +8080,11 @@ to
     </message>
     <message>
         <source>upload file failed for exceeding %1 limit,upgrade vip for upload exceeding file</source>
-        <translation type="unfinished"/>
+        <translation>The file to be synced exceeds the size limit of %1. Upgrade to WPS Premium to continue synchronization.</translation>
     </message>
     <message>
         <source>Your cloud space was full,increase cloud space for continue synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Your Cloud space is full. Expand the Cloud space to continue synchronization.</translation>
     </message>
     <message>
         <source>Free %1 cloud space was full,increase cloud space for continue synchronization</source>
@@ -8705,7 +8705,7 @@ to
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Connection closed</source>
@@ -8801,7 +8801,7 @@ to
     </message>
     <message>
         <source>Unsync</source>
-        <translation type="unfinished"/>
+        <translation>Unsync</translation>
     </message>
     <message>
         <source>%1 files were not sync to cloud</source>
@@ -9126,7 +9126,7 @@ to
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
 </context>
 <context>
@@ -9205,19 +9205,19 @@ have libgstreamer-plugins-base installed.</source>
     <name>KSyncFolderChooseFolder</name>
     <message>
         <source>scanning now :</source>
-        <translation type="unfinished"/>
+        <translation>scanning now :</translation>
     </message>
     <message>
         <source>files more than %1,please select again</source>
-        <translation type="unfinished"/>
+        <translation>More than %1 files to be synchronized. Synchronization cannot be enabled. Please select again.</translation>
     </message>
     <message>
         <source>scan finished, %1 files</source>
-        <translation type="unfinished"/>
+        <translation>Scanning complete. %1 files to be synchronized.</translation>
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"/>
+        <translation>Choose folder</translation>
     </message>
 </context>
 <context>
@@ -9260,7 +9260,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>The plugin &apos;%1&apos; uses incompatible Qt library. Expected build key &quot;%2&quot;, got &quot;%3&quot;</source>
@@ -9359,7 +9359,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Invalid HTTP response header</source>
@@ -9699,7 +9699,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KSyncFolderExceptionWidget</name>
     <message>
         <source>Reassociation</source>
-        <translation type="unfinished"/>
+        <translation>Reassociate</translation>
     </message>
     <message>
         <source>Cancel sync</source>
@@ -9710,7 +9710,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KSyncReassociationWidget</name>
     <message>
         <source>Reassociation</source>
-        <translation type="unfinished"/>
+        <translation>Reassociate</translation>
     </message>
     <message>
         <source>feedback</source>
@@ -9718,7 +9718,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"/>
+        <translation>Choose folder</translation>
     </message>
 </context>
 <context>
@@ -9803,7 +9803,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upgrade and Expansion</source>
-        <translation type="unfinished"/>
+        <translation>Upgrade and Expansion</translation>
     </message>
     <message>
         <source>Remaining Cloud storage is less than </source>
@@ -9822,7 +9822,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>The remainder cloud space is:</source>
-        <translation type="unfinished"/>
+        <translation>Space Left:</translation>
     </message>
     <message>
         <source>You can view cloud space detail,or get more space by upgrading vip.</source>
@@ -9834,11 +9834,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>You has used space is:</source>
-        <translation type="unfinished"/>
+        <translation>Space Used:</translation>
     </message>
     <message>
         <source>Total Space is:%1</source>
-        <translation type="unfinished"/>
+        <translation>Total Space:%1</translation>
     </message>
     <message>
         <source>Upgrade and Expansion</source>
@@ -10011,11 +10011,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unsync</source>
-        <translation type="unfinished"/>
+        <translation>Unsync</translation>
     </message>
     <message>
         <source>Cloud space has been full</source>
-        <translation type="unfinished"/>
+        <translation>Cloud space has been full</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -10805,7 +10805,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Too many open files</source>
@@ -10939,7 +10939,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>WpsboxHeadWidget</name>
     <message>
         <source>WPS office assist</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Assistant</translation>
     </message>
 </context>
 <context>
@@ -11113,7 +11113,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>MAC_APPLICATION_MENU</name>
     <message>
         <source>AppStore Evaluation</source>
-        <translation type="unfinished"/>
+        <translation>I Like WPS Office</translation>
     </message>
     <message>
         <source>Hide Others</source>
@@ -11166,7 +11166,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KTrayBottomWidget</name>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Recent Visit</translation>
     </message>
 </context>
 <context>
@@ -11206,19 +11206,19 @@ have libgstreamer-plugins-base installed.</source>
     <name>KCloudItemsCopyMoveDlg</name>
     <message>
         <source>Move To</source>
-        <translation>Move To</translation>
+        <translation>Move to</translation>
     </message>
     <message>
         <source>Copy To:</source>
-        <translation>Copy To:</translation>
+        <translation>Copy to:</translation>
     </message>
     <message>
         <source>Move To:</source>
-        <translation>Move To:</translation>
+        <translation>Move to:</translation>
     </message>
     <message>
         <source>Copy To</source>
-        <translation>Copy To</translation>
+        <translation>Copy to</translation>
     </message>
     <message>
         <source>Move file succeed</source>
@@ -11266,14 +11266,14 @@ have libgstreamer-plugins-base installed.</source>
     <name>Q3ProgressDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
     <name>QProgressDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -11303,7 +11303,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Are you sure to cancel sync to local path?</source>
-        <translation type="unfinished"/>
+        <translation>Confirm to cancel the synchronization to a local path?</translation>
     </message>
     <message>
         <source>Open sync folder</source>
@@ -11414,15 +11414,15 @@ have libgstreamer-plugins-base installed.</source>
     <name>KTrayClipboardTopWidget</name>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"/>
+        <translation>Paused</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Record</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"/>
+        <translation>Recording</translation>
     </message>
 </context>
 <context>
@@ -11520,7 +11520,7 @@ Time for upgrade: %1</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
 </context>
 <context>
@@ -11765,7 +11765,7 @@ Time for upgrade: %1</translation>
     <name>KIntroCloudSyncWidget</name>
     <message>
         <source>My cloud documents</source>
-        <translation type="unfinished"/>
+        <translation>My Cloud Documents</translation>
     </message>
 </context>
 <context>
@@ -11804,7 +11804,7 @@ Time for upgrade: %1</translation>
     <name>KDesktopSyncMgr</name>
     <message>
         <source>Desktop cloud synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Desktop cloud synchronization</translation>
     </message>
 </context>
 <context>
@@ -11822,7 +11822,7 @@ Time for upgrade: %1</translation>
     <name>KEasyRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Recommand</translation>
     </message>
 </context>
 <context>
@@ -11836,7 +11836,7 @@ Time for upgrade: %1</translation>
     <name>KTrayClipboardEmptyContentWidget</name>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"/>
+        <translation>Recording</translation>
     </message>
 </context>
 <context>
@@ -11864,7 +11864,7 @@ Time for upgrade: %1</translation>
     <name>KMessageManager</name>
     <message>
         <source>WPS Office Box</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Box</translation>
     </message>
 </context>
 <context>
@@ -11911,11 +11911,11 @@ Time for upgrade: %1</translation>
     <name>afterlogin::topcactivity::KActivityToastWidget</name>
     <message>
         <source>Gifts for new users have been sent to your account. Thank you for your support to WPS Office!</source>
-        <translation type="unfinished"/>
+        <translation>Gifts for new users have been sent to your account. Thank you for your support to WPS Office!</translation>
     </message>
     <message>
         <source>Claimed Successfully</source>
-        <translation type="unfinished"/>
+        <translation>Claimed Successfully</translation>
     </message>
 </context>
 <context>
@@ -11936,7 +11936,7 @@ Time for upgrade: %1</translation>
     <name>QHostInfo</name>
     <message>
         <source>Unknown error</source>
-        <translation type="unfinished"/>
+        <translation>Unknown error</translation>
     </message>
 </context>
 <context>
@@ -11961,15 +11961,15 @@ Time for upgrade: %1</translation>
     <name>KPermissionDeniedBubble</name>
     <message>
         <source>Failed to open %1</source>
-        <translation type="unfinished"/>
+        <translation>Failed to open %1</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to view the document. Please sign in with the WPS Docs account you signed in on the website and open it again.</source>
-        <translation type="unfinished"/>
+        <translation>You don&apos;t have permission to view the document. Please sign in with the WPS Docs account you signed in on the website and open it again.</translation>
     </message>
     <message>
         <source>View the WPS Docs account: %1</source>
-        <translation type="unfinished"/>
+        <translation>View the WPS Docs account: %1</translation>
     </message>
 </context>
 <context>
