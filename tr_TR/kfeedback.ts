@@ -1,5 +1,12 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr_TR">
 <context>
+    <name>KTabbarRecommendWidget</name>
+    <message>
+        <source>Try</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>StackedWidget</name>
     <message>
         <source>1000</source>
@@ -7,15 +14,15 @@
     </message>
     <message>
         <source>send</source>
-        <translation>Gönder</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>send success!</source>
-        <translation>Başarıyla gönderildi!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Except for the questions about your feedback, we will not send other content to your mailbox.</source>
-        <translation>Geri bildiriminizle ilgili içerik dışında size hiçbir şey göndermeyeceğiz.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>StackedWidget</source>
@@ -23,15 +30,15 @@
     </message>
     <message>
         <source>contact information</source>
-        <translation>Lütfen e-postanızı girin.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>send again</source>
-        <translation>Yeniden gönder</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>grab screen</source>
-        <translation>Ekran görüntüsü</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feedback by WhatsApp</source>
@@ -43,11 +50,11 @@
     </message>
     <message>
         <source>Thanks for your valuable suggestions for WPS Office</source>
-        <translation>Değerli geri bildiriminiz için teşekkür ederiz.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>attach file</source>
-        <translation>Ek dosya</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -58,7 +65,7 @@
     </message>
     <message>
         <source>file too large</source>
-        <translation>Dosya çok büyük</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All File</source>
@@ -66,7 +73,7 @@
     </message>
     <message>
         <source>no more than 3 files</source>
-        <translation>En fazla 3 dosya yüklenebilir</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send failed</source>
@@ -82,7 +89,7 @@
     </message>
     <message>
         <source>Please describe your problems or advices in detail</source>
-        <translation>Lütfen sorunlarınızı veya önerilerinizi ayrıntılı olarak açıklayın.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -116,7 +123,7 @@
     </message>
     <message>
         <source>Find commands or Search template</source>
-        <translation>Özellikleri bulun</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find Commands</source>
@@ -133,7 +140,7 @@
     <message>
         <source>No results.
 Try another keyword.</source>
-        <translation>Sonuç yok. Başka bir anahtar kelime deneyin.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter a feature name to find relative commands.</source>
