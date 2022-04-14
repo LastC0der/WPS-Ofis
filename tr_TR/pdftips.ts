@@ -90,6 +90,10 @@
         <translation>Highlight and note</translation>
     </message>
     <message>
+        <source>setpagesizeTip.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Superscript.title</source>
         <translation>Superscript</translation>
     </message>
@@ -140,6 +144,10 @@
     <message>
         <source>FloatClose.title</source>
         <translation>Close Toolbar</translation>
+    </message>
+    <message>
+        <source>ScanEdit.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FloatNavigationBar2.title</source>
@@ -404,6 +412,10 @@
     <message>
         <source>EbookIncreaseFont.title</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AlignJustify.content</source>
+        <translation>Gerekirse sözcüklerin arasına fazladan boşluk ekleyerek metni hem sol hem de sağ kenar boşluklarına hizalayın.</translation>
     </message>
     <message>
         <source>InsertPagesFromDoc.content</source>
@@ -848,6 +860,10 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
         <translation>Text Highlight Color</translation>
     </message>
     <message>
+        <source>TableRegonize.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PDFAdsorptionMidpoint.title</source>
         <translation type="unfinished"/>
     </message>
@@ -906,6 +922,10 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     <message>
         <source>PdfImageReplace.title</source>
         <translation>Replace</translation>
+    </message>
+    <message>
+        <source>setpagesizeTip.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InsertPagesFromDoc.title</source>
@@ -1160,6 +1180,10 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
         <translation>Line Style.content</translation>
     </message>
     <message>
+        <source>TableRegonize.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ImagePreview.content</source>
         <translation>View the selected picture in its original size or in window size.</translation>
     </message>
@@ -1293,6 +1317,10 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>EditTextInPicture.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1486,7 +1514,15 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
 Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
+        <source>PdfPhotoedit2.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OCRExtractText.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PdfPhotoedit2.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1500,6 +1536,10 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     <message>
         <source>ShapeFillColor.title</source>
         <translation>Şekil Dolgusu</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.title</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SplitPDF.content</source>
@@ -1670,6 +1710,10 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
         <translation>Select text or images to copy.</translation>
     </message>
     <message>
+        <source>EditTextInPicture.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>PDFMeasureScale.content</source>
         <translation type="unfinished"/>
     </message>
@@ -1752,6 +1796,10 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     <message>
         <source>NextPage.title</source>
         <translation>Next Page</translation>
+    </message>
+    <message>
+        <source>ScanEdit.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TBLineStyle.content</source>
@@ -1884,6 +1932,10 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     <message>
         <source>InsertPages.title</source>
         <translation>Insert Pages</translation>
+    </message>
+    <message>
+        <source>TextQueryAndReplace.content</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>GraffitiDraw.content</source>
@@ -2110,6 +2162,10 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     <message>
         <source>ImageExtractTip.title</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Yasla</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
