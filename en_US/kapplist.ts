@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>Picture to text</source>
-        <translation>OCR</translation>
+        <translation>Picture to Text</translation>
     </message>
     <message>
         <source>Export as Image</source>
