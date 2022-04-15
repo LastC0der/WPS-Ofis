@@ -3247,7 +3247,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Find Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Bul</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -4738,7 +4738,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni Klasör</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -4758,7 +4758,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Find Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Bul</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
