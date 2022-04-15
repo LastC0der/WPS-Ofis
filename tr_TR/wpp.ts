@@ -27314,7 +27314,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Check Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
