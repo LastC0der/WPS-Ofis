@@ -16895,7 +16895,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Auto Save File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Otomatik Kaydet</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
@@ -18724,7 +18724,7 @@ Shape</source>
     </message>
     <message>
         <source>Auto Save File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Otomatik Kaydet</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
