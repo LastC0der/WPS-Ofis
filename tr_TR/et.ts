@@ -1004,7 +1004,7 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
     </message>
     <message>
         <source>Auto slim if the file matches &amp;slim condition</source>
-        <translation type="unfinished"/>
+        <translation>Açılan dosya koşulla eşleşirse otomatik olarak &amp;sıkıştır</translation>
     </message>
     <message>
         <source>Start With:</source>
@@ -14137,7 +14137,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>NEW LIST</source>
-        <translation type="unfinished"/>
+        <translation>YENİ LİSTE</translation>
     </message>
     <message>
         <source>No Alignment</source>
@@ -30863,7 +30863,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Auto Save File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Otomatik Kaydet</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
@@ -38673,7 +38673,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"/>
+        <translation>Yeni liste</translation>
     </message>
     <message>
         <source>Backup Center</source>
@@ -42379,7 +42379,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Auto Save File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Otomatik Kaydet</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
@@ -51913,7 +51913,7 @@ Item Labels</source>
     </message>
     <message>
         <source>eg:&quot;Sheet&quot;: Sheet1, Sheet2...</source>
-        <translation type="unfinished"/>
+        <translation>örneğin:&quot;Sayfa&quot;: Sayfa1, Sayfa2...</translation>
     </message>
     <message>
         <source>Default book name</source>
@@ -55058,7 +55058,7 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     </message>
     <message>
         <source>NEW LIST</source>
-        <translation type="unfinished"/>
+        <translation>YENİ LİSTE</translation>
     </message>
 </context>
 <context>
