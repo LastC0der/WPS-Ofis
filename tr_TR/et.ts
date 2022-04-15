@@ -18950,7 +18950,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -30875,7 +30875,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Yakala</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -30971,7 +30971,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Çokgen Yakala</translation>
     </message>
     <message>
         <source>Cloud Service</source>
