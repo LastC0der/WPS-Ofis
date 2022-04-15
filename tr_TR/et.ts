@@ -2001,7 +2001,7 @@ Hızlı Doldurma işlemini gerçekleştirmeden önce bazı örnek veriler girmey
     </message>
     <message>
         <source>Propagated Error</source>
-        <translation type="unfinished"/>
+        <translation>Yayılan Hata</translation>
     </message>
     <message>
         <source>This operation will remove the workbook from shared use. The revision record will be deleted, and other users who are editing this workbook will not be able to save their changes, even if you share this workbook again.
@@ -2562,11 +2562,11 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Empty arrays are not supported</source>
-        <translation type="unfinished"/>
+        <translation>Formül boş bir dizi döndürür.</translation>
     </message>
     <message>
         <source> Empty arrays are not supported</source>
-        <translation type="unfinished"/>
+        <translation>Hata: Formül boş bir dizi döndürür.</translation>
     </message>
     <message>
         <source>We cannot convert into this data type.This is because the cell is blank,contains a formula,or it has already been converted into this data type.Try selecting another cell with just text or numbers,or select another data type.</source>
@@ -2905,11 +2905,11 @@ Veya, son boş olmayan hücreleri yeni bir konuma taşıyıp yeniden deneyebilir
     </message>
     <message>
         <source>Wrong value is quoted or internal formula calculation error.</source>
-        <translation type="unfinished"/>
+        <translation>Yanlış değer alıntılanmış veya dahili formül hesaplama hatası.</translation>
     </message>
     <message>
         <source> Wrong value is quoted or internal formula calculation error.</source>
-        <translation type="unfinished"/>
+        <translation>Hata: Yanlış değer alıntılanmış veya dahili formül hesaplama hatası.</translation>
     </message>
     <message>
         <source>Show Field List</source>
@@ -3997,7 +3997,7 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     </message>
     <message>
         <source>This #FIELD! error comes from a precedent to this formula.</source>
-        <translation type="unfinished"/>
+        <translation>#ALAN! bir formül geçersiz bir hücreye başvurduğunda hata gösterir.</translation>
     </message>
     <message>
         <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
@@ -4136,11 +4136,11 @@ Bunun nedenleri şunları içerebilir:
     </message>
     <message>
         <source>This calculation is not supported by this version of Et</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sürüm bu hatayı bulamıyor.</translation>
     </message>
     <message>
         <source> This calculation is not supported by this version of Et</source>
-        <translation type="unfinished"/>
+        <translation>Hata: Geçerli sürüm bu hatayı bulamıyor.</translation>
     </message>
     <message>
         <source>Cannot delete, because there are merged cells.</source>
@@ -4299,7 +4299,7 @@ Aynı adlı ikinci belgeyi açmak için, o anda açık olan belgeyi kapatabilir 
     </message>
     <message>
         <source>Empty Array</source>
-        <translation type="unfinished"/>
+        <translation>Boş dizi hatası</translation>
     </message>
     <message>
         <source>R.H. Side</source>
@@ -4329,7 +4329,7 @@ Aynı adlı ikinci belgeyi açmak için, o anda açık olan belgeyi kapatabilir 
     </message>
     <message>
         <source>Unsupported Calculation</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen hata</translation>
     </message>
     <message>
         <source>The selections must be on the active sheet.</source>
@@ -12706,7 +12706,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>the cells in which to determine the maximum value.</source>
-        <translation type="unfinished"/>
+        <translation>en büyük değerin belirleneceği hücreler.</translation>
     </message>
     <message>
         <source>Module_text</source>
@@ -12829,7 +12829,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>&amp;Range:</source>
-        <translation type="unfinished"/>
+        <translation>Aralı&amp;k:</translation>
     </message>
     <message>
         <source>I will create the page fields</source>
@@ -51116,7 +51116,7 @@ Item Labels</source>
     </message>
     <message>
         <source>A query with this name already exists on this worksheet.</source>
-        <translation type="unfinished"/>
+        <translation>Bu çalışma sayfasında bu isimde bir sorgu zaten var.</translation>
     </message>
 </context>
 <context>
@@ -51185,7 +51185,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Check Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
     </message>
     <message>
         <source>PDF File(*.pdf)|*.pdf</source>
