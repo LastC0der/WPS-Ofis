@@ -4880,7 +4880,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Di&amp;rection</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yön</translation>
     </message>
     <message>
         <source>Credits</source>
@@ -18732,7 +18732,7 @@ Shape</source>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Yakala</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -18834,7 +18834,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Çokgen Yakala</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -19277,7 +19277,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
-        <translation type="unfinished"/>
+        <translation>Sö&amp;zlük</translation>
     </message>
 </context>
 <context>
@@ -26022,7 +26022,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Di&amp;rection:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yön:</translation>
     </message>
     <message>
         <source>Display options</source>
