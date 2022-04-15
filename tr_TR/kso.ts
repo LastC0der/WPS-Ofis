@@ -23015,7 +23015,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>3-D Pie</source>
-        <translation type="unfinished"/>
+        <translation>3-B Pasta</translation>
     </message>
     <message>
         <source>Doughnut</source>
