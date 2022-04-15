@@ -20676,7 +20676,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Data Type</source>
-        <translation type="unfinished"/>
+        <translation>Veri Türü</translation>
     </message>
     <message>
         <source>Select Data</source>
@@ -22234,7 +22234,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Data Source:</source>
-        <translation type="unfinished"/>
+        <translation>Veri Kaynağı:</translation>
     </message>
 </context>
 <context>
@@ -22312,7 +22312,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Exporting document attachments...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ekleri dışa aktarılıyor...</translation>
     </message>
 </context>
 <context>
@@ -22375,7 +22375,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Exporting document attachments...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ekleri dışa aktarılıyor...</translation>
     </message>
 </context>
 <context>
@@ -45670,7 +45670,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Data(&amp;D)</source>
-        <translation type="unfinished"/>
+        <translation>Tari&amp;h</translation>
     </message>
 </context>
 <context>
