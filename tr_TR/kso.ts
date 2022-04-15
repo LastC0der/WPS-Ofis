@@ -10111,7 +10111,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Hizala</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -13479,7 +13479,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Upload to WPS Cloud</source>
-        <translation type="unfinished"/>
+        <translation>WPS Buluta Yükle</translation>
     </message>
     <message>
         <source>fail! please insert USB Key and try again.</source>
