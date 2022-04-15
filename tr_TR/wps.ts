@@ -15568,7 +15568,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -20387,7 +20387,7 @@ Screen</source>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Yakala</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -20490,7 +20490,7 @@ Changes</source>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Çokgen Yakala</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -29166,7 +29166,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Hidden bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Gi&amp;zli yer işaretleri</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
@@ -29178,7 +29178,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konum</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -29194,7 +29194,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Bookmark name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yer işareti adı:</translation>
     </message>
 </context>
 <context>
@@ -29304,7 +29304,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
-        <translation type="unfinished"/>
+        <translation>Sö&amp;zlük</translation>
     </message>
 </context>
 <context>
