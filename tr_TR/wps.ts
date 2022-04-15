@@ -41485,7 +41485,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Exporting document attachments...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ekleri dışa aktarılıyor...</translation>
     </message>
 </context>
 <context>
@@ -41548,7 +41548,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Exporting document attachments...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ekleri dışa aktarılıyor...</translation>
     </message>
     <message>
         <source>receiver%1.pdf</source>
