@@ -17678,7 +17678,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Find Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Bul</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -23098,7 +23098,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <source>More</source>
@@ -23106,27 +23106,27 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Geri Al</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Yakala</translation>
     </message>
     <message>
         <source>Translate Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Çevir</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Çokgen Yakala</translation>
     </message>
     <message>
         <source>you can set screen grab ocr global shortcut here</source>
@@ -24854,7 +24854,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni Klasör</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -24874,7 +24874,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Find Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Bul</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
