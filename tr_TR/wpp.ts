@@ -26251,7 +26251,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Exporting document attachments...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ekleri dışa aktarılıyor...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
@@ -26318,7 +26318,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Exporting document attachments...</source>
-        <translation type="unfinished"/>
+        <translation>Belge ekleri dışa aktarılıyor...</translation>
     </message>
     <message>
         <source>User canceled operation.</source>
