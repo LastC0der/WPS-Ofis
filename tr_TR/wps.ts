@@ -19933,7 +19933,7 @@ Screen</source>
     </message>
     <message>
         <source>Restrict</source>
-        <translation type="unfinished"/>
+        <translation>Kısıtla</translation>
     </message>
     <message>
         <source>Cancel Splitting</source>
