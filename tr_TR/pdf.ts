@@ -7457,7 +7457,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Göster</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -8653,7 +8653,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Elips Yakala</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -8721,7 +8721,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Çokgen Yakala</translation>
     </message>
     <message>
         <source>PdfDataStatistics</source>
