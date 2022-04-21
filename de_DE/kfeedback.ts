@@ -84,6 +84,10 @@
         <translation>Datei hochladen</translation>
     </message>
     <message>
+        <source>Top Questions</source>
+        <translation>Die wichtigsten Fragen</translation>
+    </message>
+    <message>
         <source>Sending</source>
         <translation>Wird gesendet</translation>
     </message>
