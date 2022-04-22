@@ -11894,7 +11894,8 @@ Dosya menüsünde en son kullandığınız dosya listesinden dosyayı açmaya ç
     <message>
         <source>The file you opened is read-only, or is locked by another application.
 (%s)</source>
-        <translation type="unfinished"/>
+        <translation>Açtığınız dosya salt okunurdur veya başka bir uygulama tarafından kilitlenmiştir..
+(%s)</translation>
     </message>
     <message>
         <source>Template</source>
@@ -16318,7 +16319,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Keep Source Formating Paste</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Biçimlendirme Yapıştırmayı Koru</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -21656,7 +21657,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Outline Promote Heading 1</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Başlık 1 Yükselt</translation>
     </message>
     <message>
         <source>To create a link, click an empty text box.
@@ -22389,7 +22390,7 @@ Click to follow this link</source>
     <message>
         <source>Outline Promote</source>
         <comment>TxVersion_OutlinePromote</comment>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Yükselt</translation>
     </message>
     <message>
         <source>Go to Table of Contents</source>
@@ -22401,7 +22402,7 @@ Click to follow this link</source>
     </message>
     <message>
         <source>Keep Source Formating Paste</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Biçimlendirme Yapıştırmayı Koru</translation>
     </message>
     <message>
         <source>Paste Format</source>
@@ -23733,19 +23734,19 @@ Protection</source>
     </message>
     <message>
         <source>This file format does not support inserting formulas. To do so please save as %s.</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya, formül eklemeyi desteklemiyor. Formül eklemek için lütfen dosyayı %s dosyası olarak kaydedin.</translation>
     </message>
     <message>
         <source>Align to Gridlines</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgilerine Hizala</translation>
     </message>
     <message>
         <source>Mail Merge Next Record</source>
-        <translation type="unfinished"/>
+        <translation>Adres Mektup Birleştirme Sonraki Kayıt</translation>
     </message>
     <message>
         <source>Mail Merge Last Record</source>
-        <translation type="unfinished"/>
+        <translation>Adres Mektup Birleştirme Son Kayıt</translation>
     </message>
     <message>
         <source>Adjust Table Row Height</source>
@@ -23757,7 +23758,7 @@ Protection</source>
     </message>
     <message>
         <source>Outline Promote</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Yükselt</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -23773,12 +23774,12 @@ Protection</source>
     </message>
     <message>
         <source>Application Element</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Öğesi</translation>
     </message>
     <message>
         <source>Keep Source Formating Paste</source>
         <comment>TxHint_PasteOriginFormattedPopupMenu</comment>
-        <translation type="unfinished"/>
+        <translation>Kaynak Biçimlendirme Yapıştırmayı Koru</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -23815,7 +23816,7 @@ Protection</source>
     </message>
     <message>
         <source>Current Document</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Belge</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
