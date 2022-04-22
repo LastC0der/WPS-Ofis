@@ -594,11 +594,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all WPS Office applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation type="unfinished"/>
+        <translation>Araç çubuğu düğmeleri karışmışsa, lütfen tüm WPS Office uygulamalarını kapatın ve araç çubuklarını orijinal durumlarına geri yüklemek için aşağıdaki düğmeyi tıklayın. Onarımlar, bilgisayarınızı yeniden başlattıktan sonra geçerli olacaktır.</translation>
     </message>
     <message>
         <source>&amp;Register Components Again</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenleri Yeniden &amp;Kaydet</translation>
     </message>
     <message>
         <source> Registering kso.dll failed
