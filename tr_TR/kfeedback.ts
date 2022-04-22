@@ -14,15 +14,15 @@
     </message>
     <message>
         <source>send</source>
-        <translation type="unfinished"/>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>send success!</source>
-        <translation type="unfinished"/>
+        <translation>Başarıyla gönderildi!</translation>
     </message>
     <message>
         <source>Except for the questions about your feedback, we will not send other content to your mailbox.</source>
-        <translation type="unfinished"/>
+        <translation>Geri bildiriminizle ilgili içerik dışında size hiçbir şey göndermeyeceğiz.</translation>
     </message>
     <message>
         <source>StackedWidget</source>
@@ -30,15 +30,15 @@
     </message>
     <message>
         <source>contact information</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen e-postanızı girin.</translation>
     </message>
     <message>
         <source>send again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden gönder</translation>
     </message>
     <message>
         <source>grab screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekran görüntüsü</translation>
     </message>
     <message>
         <source>Feedback by WhatsApp</source>
@@ -50,11 +50,11 @@
     </message>
     <message>
         <source>Thanks for your valuable suggestions for WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Değerli geri bildiriminiz için teşekkür ederiz.</translation>
     </message>
     <message>
         <source>attach file</source>
-        <translation type="unfinished"/>
+        <translation>Ek dosya</translation>
     </message>
 </context>
 <context>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>file too large</source>
-        <translation type="unfinished"/>
+        <translation>Dosya çok büyük</translation>
     </message>
     <message>
         <source>All File</source>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>no more than 3 files</source>
-        <translation type="unfinished"/>
+        <translation>En fazla 3 dosya yüklenebilir</translation>
     </message>
     <message>
         <source>Send failed</source>
@@ -84,12 +84,16 @@
         <translation>Dosya Yükle</translation>
     </message>
     <message>
+        <source>Top Questions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Sending</source>
         <translation>Gönderiliyor</translation>
     </message>
     <message>
         <source>Please describe your problems or advices in detail</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen sorunlarınızı veya önerilerinizi ayrıntılı olarak açıklayın.</translation>
     </message>
 </context>
 <context>
@@ -123,7 +127,7 @@
     </message>
     <message>
         <source>Find commands or Search template</source>
-        <translation type="unfinished"/>
+        <translation>Özellikleri bulun</translation>
     </message>
     <message>
         <source>Find Commands</source>
@@ -140,7 +144,7 @@
     <message>
         <source>No results.
 Try another keyword.</source>
-        <translation type="unfinished"/>
+        <translation>Sonuç yok. Başka bir anahtar kelime deneyin.</translation>
     </message>
     <message>
         <source>Enter a feature name to find relative commands.</source>
