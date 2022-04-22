@@ -26987,11 +26987,11 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Font Outline</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ana Hattı</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Efektleri</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -27203,7 +27203,8 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Metin Efektleri</translation>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -56827,7 +56828,7 @@ Başvuru</translation>
     </message>
     <message>
         <source>Font Outline</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ana Hattı</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -56987,7 +56988,8 @@ Başvuru</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Metin Efektleri</translation>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
