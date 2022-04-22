@@ -19266,7 +19266,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Unhide Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Göster</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -19278,11 +19278,11 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Align VCenter</source>
-        <translation type="unfinished"/>
+        <translation>Ortaya Hizala</translation>
     </message>
     <message>
         <source>Align VBottom</source>
-        <translation type="unfinished"/>
+        <translation>Alta Hizala</translation>
     </message>
     <message>
         <source>Edit Text Import</source>
@@ -20285,7 +20285,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Hide Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Gizle</translation>
     </message>
     <message>
         <source>File Share</source>
