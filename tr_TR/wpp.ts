@@ -2652,7 +2652,8 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Insert New Slide Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni 
+Asıl Slayt</translation>
     </message>
     <message>
         <source>Font Alignment</source>
@@ -12027,7 +12028,7 @@ Araçları</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Asıl Slayt</translation>
     </message>
     <message>
         <source>Export as H5</source>
@@ -13476,7 +13477,7 @@ Template</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Asıl Slayt</translation>
     </message>
     <message>
         <source>Delete Row</source>
@@ -20786,7 +20787,8 @@ Düzeni</translation>
     <message>
         <source>New Slide 
 Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni 
+Asıl Slayt</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -28804,7 +28806,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni 
+Asıl Slayt</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -28821,7 +28824,8 @@ Düzeni</translation>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni 
+Asıl Slayt</translation>
     </message>
     <message>
         <source>Rename Master</source>
@@ -34838,7 +34842,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni 
+Asıl Slayt</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -34879,7 +34884,8 @@ Düzeni</translation>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="unfinished"/>
+        <translation>Yeni
+Asıl Slayt</translation>
     </message>
 </context>
 <context>
