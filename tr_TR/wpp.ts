@@ -11006,7 +11006,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Efektleri</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -11271,7 +11271,8 @@ Araçları</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Metin Efektleri</translation>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -31499,7 +31500,8 @@ Slide</source>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Metin Efektleri</translation>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
