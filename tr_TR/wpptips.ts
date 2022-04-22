@@ -621,7 +621,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>NewSlideMaster.title</source>
-        <translation>New Slide Master</translation>
+        <translation>Yeni Asıl Slayt</translation>
     </message>
     <message>
         <source>NewTitleMaster.title</source>
@@ -2195,7 +2195,7 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>NewSlideMaster.content</source>
-        <translation>Insert a new slide master.</translation>
+        <translation>Yeni bir asıl slayt ekleyin.</translation>
     </message>
     <message>
         <source>NotesPageView.title</source>
