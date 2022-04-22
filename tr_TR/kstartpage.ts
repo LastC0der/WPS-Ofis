@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Shrink</source>
-        <translation type="unfinished"/>
+        <translation>Küçült</translation>
     </message>
     <message>
         <source>Yesterday %1</source>
@@ -3853,7 +3853,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Shrink</source>
-        <translation type="unfinished"/>
+        <translation>Küçült</translation>
     </message>
 </context>
 <context>
@@ -3864,7 +3864,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Share Folder Details</source>
-        <translation type="unfinished"/>
+        <translation>Klasör Ayrıntılarını Paylaş</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -3872,11 +3872,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Cihazlar</translation>
     </message>
     <message>
         <source>Show Online Device List</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Yapılmış Cihazlar</translation>
     </message>
 </context>
 <context>
@@ -3891,11 +3891,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Cihazlar</translation>
     </message>
     <message>
         <source>Show Online Device List</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Yapılmış Cihazlar</translation>
     </message>
 </context>
 <context>
