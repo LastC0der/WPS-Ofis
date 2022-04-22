@@ -13848,7 +13848,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -13868,7 +13868,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation type="unfinished"/>
+        <translation>Ok Madde İşaretleri</translation>
     </message>
     <message>
         <source>Official Paragraph</source>
@@ -13940,7 +13940,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolgulu Elmas Madde İşaretleri</translation>
     </message>
     <message>
         <source>Left Border</source>
@@ -14206,7 +14206,8 @@ Araçları</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -14359,7 +14360,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -14371,7 +14372,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation type="unfinished"/>
+        <translation>Ok Madde İşaretleri</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -14455,7 +14456,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolgulu Elmas Madde İşaretleri</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -14599,7 +14600,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Font Fill Color</source>
-        <translation type="unfinished"/>
+        <translation>Metin Dolgusu</translation>
     </message>
     <message>
         <source>Vertical direction(right to left)</source>
@@ -14671,7 +14672,8 @@ Değiştir</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -14683,11 +14685,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"/>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu Ekle</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -14838,7 +14840,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -14854,11 +14856,11 @@ Değiştir</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Efektleri</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation type="unfinished"/>
+        <translation>Ok Madde İşaretleri</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -14934,7 +14936,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolgulu Elmas Madde İşaretleri</translation>
     </message>
     <message>
         <source>Create Text Box Link</source>
@@ -15090,7 +15092,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Font Fill Color</source>
-        <translation type="unfinished"/>
+        <translation>Metin Dolgusu</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -15150,7 +15152,8 @@ Değiştir</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Metin Efektleri</translation>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -15162,7 +15165,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"/>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
@@ -15545,7 +15548,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeleme Rengi</translation>
     </message>
     <message>
         <source>Header Right</source>
@@ -15658,7 +15661,7 @@ Painter</source>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
@@ -15842,7 +15845,7 @@ Painter</source>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation type="unfinished"/>
+        <translation>Ok Madde İşaretleri</translation>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
@@ -16299,7 +16302,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolgulu Elmas Madde İşaretleri</translation>
     </message>
     <message>
         <source>Blank Page</source>
@@ -21666,7 +21669,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeleme Rengi</translation>
     </message>
     <message>
         <source>Snap to Grid</source>
@@ -24204,7 +24207,7 @@ Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quo
     <message>
         <source>Shading Color</source>
         <comment>TxVersion_ShadingColor</comment>
-        <translation type="unfinished"/>
+        <translation>Gölgeleme Rengi</translation>
     </message>
     <message>
         <source>Switch to %s</source>
@@ -32734,7 +32737,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>More Underline Colors</source>
@@ -32746,7 +32749,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation type="unfinished"/>
+        <translation>Ok Madde İşaretleri</translation>
     </message>
     <message>
         <source>Promote TOC Level</source>
@@ -32770,7 +32773,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolgulu Elmas Madde İşaretleri</translation>
     </message>
     <message>
         <source>More Underlines</source>
@@ -49737,7 +49740,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeleme Rengi</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -49750,7 +49753,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolu Yuvarlak Madde İşaretleri</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -49770,7 +49773,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Sagittate Bullet </source>
-        <translation type="unfinished"/>
+        <translation>Ok Madde İşaretleri</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
@@ -49818,7 +49821,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Dolgulu Elmas Madde İşaretleri</translation>
     </message>
     <message>
         <source>Left Border</source>
@@ -50050,7 +50053,8 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation type="unfinished"/>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -50397,7 +50401,8 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Metin Efektleri</translation>
+        <translation>Metin 
+Efektleri</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -50409,7 +50414,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="unfinished"/>
+        <translation>Desenli Çizgiler</translation>
     </message>
     <message>
         <source>Insert Textbox</source>
@@ -55689,7 +55694,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Shading Color</source>
-        <translation type="unfinished"/>
+        <translation>Gölgeleme Rengi</translation>
     </message>
     <message>
         <source>Border Color</source>
