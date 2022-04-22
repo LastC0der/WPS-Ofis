@@ -2692,7 +2692,9 @@ After expiration, some features will not work properly. Please renew now.</sourc
         <source>%1
 File not found.
 Check path and filename.</source>
-        <translation type="unfinished"/>
+        <translation>%1
+Dosya bulunamadı.
+Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>List View</source>
