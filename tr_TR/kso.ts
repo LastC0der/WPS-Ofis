@@ -17700,7 +17700,9 @@ Ekle</translation>
         <source>%1
 File not found.
 Check path and filename.</source>
-        <translation type="unfinished"/>
+        <translation>%1
+Dosya bulunamadı.
+Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>List View</source>
@@ -24254,7 +24256,7 @@ Possible reasons:
     </message>
     <message>
         <source>Shortcut &amp;keys:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kısayol tuşları:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -24282,7 +24284,7 @@ Possible reasons:
     </message>
     <message>
         <source>Shortcut keys:</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol tuşları:</translation>
     </message>
     <message>
         <source>Specify S&amp;hortcut keys</source>
