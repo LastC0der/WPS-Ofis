@@ -30731,7 +30731,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
