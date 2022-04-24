@@ -15621,7 +15621,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16789,7 +16789,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -24247,7 +24247,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
