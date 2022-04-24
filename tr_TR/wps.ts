@@ -19805,7 +19805,7 @@ Screen</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -25243,7 +25243,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -37866,7 +37866,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Export To OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>FirstPage</source>
@@ -40833,7 +40833,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Zoom In(Ctrl++)</source>
@@ -41254,7 +41254,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"/>
+        <translation>OFD&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
