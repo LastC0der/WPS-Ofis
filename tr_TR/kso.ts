@@ -37455,7 +37455,7 @@ Please check network</source>
     <name>KMaterialModel</name>
     <message>
         <source>Special Effect</source>
-        <translation type="unfinished"/>
+        <translation>Özel Efekt</translation>
     </message>
     <message>
         <source>Translucent</source>
