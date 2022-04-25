@@ -287,7 +287,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>LineBreak.content</source>
-        <translation>Change the line break format.</translation>
+        <translation>Satır sonu biçimini değiştirin.</translation>
     </message>
     <message>
         <source>SetUpShow.title</source>
@@ -1821,7 +1821,7 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>LineBreak.title</source>
-        <translation>Line Break</translation>
+        <translation>Satır Sonu</translation>
     </message>
     <message>
         <source>IncreaseSpace.content</source>
