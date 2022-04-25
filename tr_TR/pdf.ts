@@ -7332,7 +7332,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Unable to find the watermark source file you specified, please re-select</source>
@@ -7344,7 +7344,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -7421,7 +7421,7 @@ Okuma</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -9666,11 +9666,11 @@ Okuma</translation>
     <name>KxPdfSearchPane</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Bul</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
 </context>
 <context>
@@ -13744,7 +13744,7 @@ Pencere</translation>
     </message>
     <message>
         <source>replace</source>
-        <translation type="unfinished"/>
+        <translation>değiştir</translation>
     </message>
     <message>
         <source>The search content was not found.</source>
