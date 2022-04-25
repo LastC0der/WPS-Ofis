@@ -5496,7 +5496,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sonrakini Bul</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file.</source>
@@ -15404,7 +15404,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <source>Above</source>
@@ -35625,7 +35625,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Fin&amp;d</source>
-        <translation type="unfinished"/>
+        <translation>Bu&amp;l</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -35701,7 +35701,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;onrakini Bul</translation>
     </message>
     <message>
         <source>Find whole words onl&amp;y</source>
@@ -35729,7 +35729,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation>Ara&amp;nan:</translation>
+        <translation>A&amp;ranan:</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -45963,7 +45963,7 @@ Kayıt</translation>
     <name>KxExpUserListPanel</name>
     <message>
         <source>&amp;Find Next Region This User Can Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bu Kullanıcının Düzenleyebileceği Sonraki Bölgeyi Bul</translation>
     </message>
     <message>
         <source>&amp;Show All Regions This User Can Edit</source>
