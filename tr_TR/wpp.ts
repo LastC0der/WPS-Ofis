@@ -11645,7 +11645,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <source>Above</source>
@@ -15745,7 +15745,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Paste Special</source>
-        <translation type="unfinished"/>
+        <translation>Özel Yapıştır</translation>
     </message>
     <message>
         <source>Backup Center</source>
@@ -26106,7 +26106,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Re&amp;place with:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni değer:</translation>
     </message>
     <message>
         <source>FindReplaceDlg</source>
@@ -26122,7 +26122,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sonrakini Bul</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
@@ -26207,7 +26207,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Replace &amp;with:</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;eni değer:</translation>
     </message>
 </context>
 <context>
