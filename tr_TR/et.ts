@@ -18725,7 +18725,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Hakkında</translation>
     </message>
     <message>
         <source>Above</source>
@@ -30602,7 +30602,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Special Value</source>
-        <translation type="unfinished"/>
+        <translation>Özel Değer</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -31113,7 +31113,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Special Feature</source>
-        <translation type="unfinished"/>
+        <translation>Özel Özellik</translation>
     </message>
     <message>
         <source>Quick Retrieve</source>
@@ -32611,7 +32611,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>newline</source>
-        <translation type="unfinished"/>
+        <translation>Satır sonu</translation>
     </message>
     <message>
         <source>Step 1 of the text partitioning wizard 2</source>
@@ -39709,7 +39709,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>F&amp;ind All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü B&amp;ul</translation>
     </message>
     <message>
         <source>D&amp;ata</source>
@@ -39725,7 +39725,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
-        <translation type="unfinished"/>
+        <translation>Bu&amp;l</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -39757,7 +39757,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;onrakini Bul</translation>
     </message>
     <message>
         <source>Select</source>
@@ -39781,7 +39781,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
-        <translation>Ara&amp;nan:</translation>
+        <translation>A&amp;ranan:</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
@@ -39809,7 +39809,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Find Pre&amp;vious</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Öncekini Bul</translation>
     </message>
     <message>
         <source>Re&amp;place</source>
@@ -39849,7 +39849,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>R&amp;eplace with:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeni değer:</translation>
     </message>
     <message>
         <source>Hyperl&amp;ink</source>
@@ -41033,7 +41033,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>Partic&amp;ular Content</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Clear &amp;Replace Format</source>
@@ -41057,7 +41057,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;onrakini Bul</translation>
     </message>
     <message>
         <source>Find Format</source>
@@ -41089,7 +41089,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>Single character</source>
-        <translation type="unfinished"/>
+        <translation>Tek bir karakter</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace.
@@ -41106,7 +41106,7 @@ Number of values that were not replaced because they are in read-only rich data:
     </message>
     <message>
         <source>Find Pre&amp;vious</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Öncekini Bul</translation>
     </message>
     <message>
         <source>Replace Format</source>
@@ -41167,7 +41167,7 @@ Number of values that were not replaced because they are in read-only rich data:
     </message>
     <message>
         <source>Multiple characters</source>
-        <translation type="unfinished"/>
+        <translation>Herhangi bir sayıda karakter</translation>
     </message>
     <message>
         <source>* is to replace any multiple characters. Eg. to search for phone number beginning with &quot;186&quot;, enter &quot;186*&quot;</source>
