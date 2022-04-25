@@ -24398,7 +24398,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the sum of all the numbers in a range of cells.</source>
-        <translation type="unfinished"/>
+        <translation>Bir hücre aralığındaki tüm sayıların toplamını döndürür.</translation>
     </message>
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
@@ -24427,7 +24427,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     <message>
         <source>Returns the normal cumulative distribution for the specified mean and standard deviation</source>
         <comment>NORMDOTDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen ortalama ve standart sapma için normal kümülatif dağılımı döndürür</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
@@ -24528,7 +24528,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
-        <translation type="unfinished"/>
+        <translation>Bilinen x ve y değerlerini kullanarak bir çizginin y eksenini keseceği noktayı hesaplar.</translation>
     </message>
     <message>
         <source>QUOTIENT(numerator,denominator)</source>
@@ -25625,7 +25625,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the normal cumulative distribution for the specified mean and standard deviation</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen ortalama ve standart sapma için normal kümülatif dağılımı döndürür</translation>
     </message>
     <message>
         <source>ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis)</source>
