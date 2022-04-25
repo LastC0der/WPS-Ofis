@@ -41139,11 +41139,11 @@ Number of values that were not replaced because they are in read-only rich data:
     </message>
     <message>
         <source>End of &amp;line</source>
-        <translation type="unfinished"/>
+        <translation>Satır &amp;sonu</translation>
     </message>
     <message>
         <source>0 cell found</source>
-        <translation type="unfinished"/>
+        <translation>0 hücre bulundu</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
