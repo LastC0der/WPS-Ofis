@@ -39713,7 +39713,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>D&amp;ata</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Veri</translation>
     </message>
     <message>
         <source>Alt+M</source>
@@ -39749,11 +39749,11 @@ Birleştir</translation>
     </message>
     <message>
         <source>Data type:</source>
-        <translation type="unfinished"/>
+        <translation>Veri türü:</translation>
     </message>
     <message>
         <source>Curre&amp;nt data area</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut veri ala&amp;nı</translation>
     </message>
     <message>
         <source>&amp;Find Next</source>
@@ -39765,7 +39765,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>C&amp;onstants</source>
-        <translation type="unfinished"/>
+        <translation>Sa&amp;bitler</translation>
     </message>
     <message>
         <source>Values</source>
@@ -39773,11 +39773,11 @@ Birleştir</translation>
     </message>
     <message>
         <source>&amp;Logicals</source>
-        <translation type="unfinished"/>
+        <translation>Mantıksa&amp;l</translation>
     </message>
     <message>
         <source>Ro&amp;w differences</source>
-        <translation type="unfinished"/>
+        <translation>Satır &amp;farklılıkları</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
@@ -39797,7 +39797,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Colu&amp;mn differences</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sütun farklılıkları</translation>
     </message>
     <message>
         <source>Workbook</source>
@@ -39821,7 +39821,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Blan&amp;ks</source>
-        <translation type="unfinished"/>
+        <translation>Bo&amp;şluklar</translation>
     </message>
     <message>
         <source>By rows</source>
@@ -39829,7 +39829,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>La&amp;st cell</source>
-        <translation type="unfinished"/>
+        <translation>Son &amp;hücre</translation>
     </message>
     <message>
         <source>By columns</source>
@@ -39845,7 +39845,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished"/>
+        <translation>Hatala&amp;r</translation>
     </message>
     <message>
         <source>R&amp;eplace with:</source>
@@ -39853,11 +39853,11 @@ Birleştir</translation>
     </message>
     <message>
         <source>Hyperl&amp;ink</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Köprü</translation>
     </message>
     <message>
         <source>O&amp;bjects</source>
-        <translation type="unfinished"/>
+        <translation>N&amp;esneler</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
@@ -39869,15 +39869,15 @@ Birleştir</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Formüller</translation>
     </message>
     <message>
         <source>N&amp;umbers</source>
-        <translation type="unfinished"/>
+        <translation>Sa&amp;yılar</translation>
     </message>
     <message>
         <source>Visible cells onl&amp;y</source>
-        <translation type="unfinished"/>
+        <translation>Yalnız&amp;ca görünür hücreler</translation>
     </message>
     <message>
         <source>Match entire cell c&amp;ontents</source>
@@ -40076,15 +40076,15 @@ Birleştir</translation>
     </message>
     <message>
         <source>C&amp;lassic PivotTable layout(enables dragging of fields in the grid)</source>
-        <translation type="unfinished"/>
+        <translation>Klasik Özet Tablo dü&amp;zeni (kılavuzda alanları sürüklemenizi sağlar)</translation>
     </message>
     <message>
         <source>Show &amp;contextual tooltips</source>
-        <translation type="unfinished"/>
+        <translation>Bağla&amp;msal araç ipuçlarını göster</translation>
     </message>
     <message>
         <source>&amp;Enable show details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntıları gösterm&amp;eyi etkinleştir</translation>
     </message>
     <message>
         <source>Retain items deleted from the data source</source>
