@@ -189,7 +189,7 @@ Click the arrow to select a different alignment.</translation>
     </message>
     <message>
         <source>TextFontColor2.title</source>
-        <translation>Text Color</translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>PrevPrintHiddenSlide.title</source>
@@ -465,7 +465,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Metin Rengi</translation>
+        <translation>Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>WpPrintWhat_4.title</source>
@@ -1307,7 +1307,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>TextFontColor2.content</source>
-        <translation>Click the arrow to select a different text color.</translation>
+        <translation>Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
@@ -2055,7 +2055,7 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>TextFontColor.title</source>
-        <translation>Text Color</translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>wpp2doc.title</source>
@@ -2399,7 +2399,7 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>FontColor2.title</source>
-        <translation>Metin Rengi</translation>
+        <translation>Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
@@ -2679,7 +2679,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>TextFontColor.content</source>
-        <translation>Set the text color.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Click the arrow to select a different text color.</translation>
+        <translation>Metin rengini ayarla.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>IncreaseSpace.title</source>
