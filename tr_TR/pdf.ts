@@ -434,7 +434,7 @@
     </message>
     <message>
         <source>font color</source>
-        <translation>yazı tipi rengi</translation>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>Pres&amp;rve</source>
@@ -6260,7 +6260,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FontColor</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>annotation toolbox</source>
@@ -9423,7 +9423,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Belge Görünümleri</translation>
     </message>
     <message>
         <source>PDFTest</source>
@@ -11449,7 +11449,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Belge Görünümleri</translation>
     </message>
     <message>
         <source>Arrange
@@ -13126,7 +13126,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Belge Görünümleri</translation>
     </message>
     <message>
         <source>Docmgr</source>
