@@ -41077,7 +41077,7 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>Fon&amp;t Color</source>
-        <translation type="unfinished"/>
+        <translation>Yazı &amp;Tipi Rengi</translation>
     </message>
     <message>
         <source>Comments</source>
