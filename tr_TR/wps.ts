@@ -15584,7 +15584,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"/>
+        <translation>Belge Bağlantıları</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -30825,7 +30825,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Resim</translation>
     </message>
     <message>
         <source>Text Translation in Image</source>
@@ -31037,7 +31037,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -31682,7 +31682,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Belge Görünümleri</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -44156,7 +44156,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>KxWpsDocMapWindow</name>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"/>
+        <translation>Belge Bağlantıları</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -53822,7 +53822,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Resim</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -54006,7 +54006,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Tire Nokta Nokta</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -54563,7 +54563,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Document Map</source>
-        <translation type="unfinished"/>
+        <translation>Belge Bağlantıları</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -54597,7 +54597,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Document Views</source>
-        <translation type="unfinished"/>
+        <translation>Belgenin Görünümü</translation>
     </message>
     <message>
         <source>Switch Windows</source>
