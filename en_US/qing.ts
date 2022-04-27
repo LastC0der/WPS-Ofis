@@ -1745,7 +1745,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&lt;font color = #8B97AF&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;font color = #8B97AF&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <source>Continue to delete</source>
@@ -1781,7 +1781,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&lt;font color = #417FF9&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;font color = #417FF9&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <source>Share Link</source>
