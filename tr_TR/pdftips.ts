@@ -515,7 +515,7 @@
     </message>
     <message>
         <source>FontColor.title</source>
-        <translation>Metin Rengi</translation>
+        <translation>Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>TextBold.content</source>
@@ -743,9 +743,7 @@
     </message>
     <message>
         <source>FontColor.content</source>
-        <translation>Metin rengini değiştirin.
-
-Farklı bir metin rengi seçmek için oku tıklayın.</translation>
+        <translation>Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>PdfReplacePages.content</source>
