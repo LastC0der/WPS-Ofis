@@ -861,6 +861,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <translation>Archivos de Excel</translation>
     </message>
     <message>
+        <source>Activity</source>
+        <translation>Actividad</translation>
+    </message>
+    <message>
         <source>Delete and Leave Team</source>
         <translation>Eliminar y abandonar el team</translation>
     </message>
@@ -919,6 +923,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>WPP/PowerPoint Files</source>
         <translation>Archivos de PowerPoint</translation>
+    </message>
+    <message>
+        <source>Team files</source>
+        <translation>Archivos del team</translation>
     </message>
     <message>
         <source>Detail View</source>
@@ -1158,6 +1166,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Downloads</source>
         <translation>Descargas</translation>
+    </message>
+    <message>
+        <source>Search local files</source>
+        <translation>Buscar archivos locales</translation>
     </message>
 </context>
 <context>
@@ -1432,6 +1444,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <translation>Abrir</translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation>Team</translation>
+    </message>
+    <message>
         <source>New Document</source>
         <translation>Nuevo</translation>
     </message>
@@ -1634,6 +1650,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Cloud data backup</source>
         <translation>Copia de seguridad en la nube</translation>
+    </message>
+    <message>
+        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
+        <translation>Inicie sesión en WPS, proteja su archivo y consiga 1 GB de espacio en Cloud</translation>
     </message>
     <message>
         <source>History version manager</source>
@@ -1912,6 +1932,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <translation>No hay ningún archivo Marcado con asterisco</translation>
     </message>
     <message>
+        <source>You can drag and drop files to share with members.</source>
+        <translation>Puede arrastrar y soltar archivos para compartir con los miembros.</translation>
+    </message>
+    <message>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Comparta sus documentos como un vínculo y luego podrá verlos aquí.</translation>
     </message>
@@ -1963,69 +1987,14 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     </message>
 </context>
 <context>
-    <name>KComponentItem</name>
-    <message>
-        <source>task</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>docer</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Docer Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>action_component</source>
-        <translation>Votación de temas</translation>
-    </message>
-    <message>
-        <source>Action Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Action Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>action</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Weather Text</source>
-        <translation>Organiza el trabajo de acuerdo a las condiciones climáticas</translation>
-    </message>
-    <message>
-        <source>Task Text</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Weather Title</source>
-        <translation>Tiempo</translation>
-    </message>
-    <message>
-        <source>Docer Text</source>
-        <translation>Es un placer obtener plantillas masivas.</translation>
-    </message>
-    <message>
-        <source>Task Title</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>weather</source>
-        <translation>tiempo</translation>
-    </message>
-    <message>
-        <source>docer_component</source>
-        <translation>Docer_component</translation>
-    </message>
-</context>
-<context>
     <name>KCloudStorageContentWidget</name>
     <message>
         <source>Cloud space is full</source>
         <translation>El espacio en Cloud está lleno</translation>
+    </message>
+    <message>
+        <source>Get for Free</source>
+        <translation>Obtener gratis</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -2036,16 +2005,16 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <translation>El espacio en Cloud está a punto de agotarse</translation>
     </message>
     <message>
-        <source>Please clean up unnecessary files in your network disk to make more space</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>cloud size</source>
         <translation>Cloud </translation>
     </message>
     <message>
         <source>upgrade</source>
         <translation>Go Premium</translation>
+    </message>
+    <message>
+        <source>Please clean up unnecessary files in your network disk to make more space</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2123,6 +2092,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Create Team</source>
         <translation>Crear team</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>En Team puede conectar su team para colaboración y productividad. Utilícelo para compartir documentos, comentarios y recopilar información</translation>
     </message>
 </context>
 <context>
@@ -2204,16 +2177,16 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <translation>Nube</translation>
     </message>
     <message>
-        <source>google</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>dropbox</source>
         <translation>Dropbox</translation>
     </message>
     <message>
         <source>Add a third-party cloud</source>
         <translation>Agregar almacenamiento en la nube</translation>
+    </message>
+    <message>
+        <source>google</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2272,8 +2245,16 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <translation>Ver archivos del team</translation>
     </message>
     <message>
+        <source>Working together, start from Team</source>
+        <translation>Trabaje junto con otros, comience en Team</translation>
+    </message>
+    <message>
         <source>Invite members</source>
         <translation>Invitar miembros</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>En Team puede conectar su team para colaboración y productividad. Utilícelo para compartir documentos, comentarios y recopilar información</translation>
     </message>
 </context>
 <context>
@@ -2418,6 +2399,10 @@ este archivo se ha abierto y no se pueden escribir datos en él. Cierre el archi
         <translation>Cancelar</translation>
     </message>
     <message>
+        <source>Duplicate team names</source>
+        <translation>Nombres de team duplicados</translation>
+    </message>
+    <message>
         <source>A team with the same name already exists, please rename again</source>
         <translation>Ya existe un team con el mismo nombre. Elija un nombre distinto.</translation>
     </message>
@@ -2463,6 +2448,10 @@ este archivo se ha abierto y no se pueden escribir datos en él. Cierre el archi
     <message>
         <source>Refresh</source>
         <translation>Actualizar</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation>Nombres de team duplicados</translation>
     </message>
     <message>
         <source>Create Team</source>
@@ -2775,6 +2764,10 @@ este archivo se ha abierto y no se pueden escribir datos en él. Cierre el archi
         <translation>Edite junto con otros colaboradores</translation>
     </message>
     <message>
+        <source>WPS Team, A place for teamwork</source>
+        <translation>WPS Team, un lugar para el trabajo en equipo</translation>
+    </message>
+    <message>
         <source>Create your team</source>
         <translation>Crear un team</translation>
     </message>
@@ -2840,6 +2833,65 @@ este archivo se ha abierto y no se pueden escribir datos en él. Cierre el archi
     <message>
         <source>365G cloud space</source>
         <translation>Espacio de 365 GB en Cloud</translation>
+    </message>
+</context>
+<context>
+    <name>KComponentItem</name>
+    <message>
+        <source>docer</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>Docer Title</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>action_component</source>
+        <translation>Votación de temas</translation>
+    </message>
+    <message>
+        <source>Action Title</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>Weather Text</source>
+        <translation>Organiza el trabajo de acuerdo a las condiciones climáticas</translation>
+    </message>
+    <message>
+        <source>Task Text</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>Weather Title</source>
+        <translation>Tiempo</translation>
+    </message>
+    <message>
+        <source>Docer Text</source>
+        <translation>Es un placer obtener plantillas masivas.</translation>
+    </message>
+    <message>
+        <source>weather</source>
+        <translation>tiempo</translation>
+    </message>
+    <message>
+        <source>docer_component</source>
+        <translation>Docer_component</translation>
+    </message>
+    <message>
+        <source>task</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Action Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>action</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Task Title</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3293,6 +3345,93 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     </message>
 </context>
 <context>
+    <name>KTemplateGuideDialog</name>
+    <message>
+        <source>Inspire your design inspiration</source>
+        <translation>Inspire sus diseños</translation>
+    </message>
+    <message>
+        <source>Optimize warehouse management</source>
+        <translation>Optimice la administración del almacén</translation>
+    </message>
+    <message>
+        <source>We&apos;ll recommend suitable templates for you</source>
+        <translation>Le recomendaremos plantillas especiales para usted</translation>
+    </message>
+    <message>
+        <source>HR &amp; Administrative</source>
+        <translation>HR y administración</translation>
+    </message>
+    <message>
+        <source>For sales, legal and service industries</source>
+        <translation>Para ventas, legales e industrias de servicios</translation>
+    </message>
+    <message>
+        <source>Others</source>
+        <translation>Otros</translation>
+    </message>
+    <message>
+        <source>For fitness, diet and health</source>
+        <translation>Para estar en forma, dietas y salud</translation>
+    </message>
+    <message>
+        <source>Select your interest field</source>
+        <translation>Seleccione el campo de interés</translation>
+    </message>
+    <message>
+        <source>Social &amp; Life</source>
+        <translation>Vida social</translation>
+    </message>
+    <message>
+        <source>Reduce the workload</source>
+        <translation>Reduzca la carga de trabajo</translation>
+    </message>
+    <message>
+        <source>Make your report cooler</source>
+        <translation>Cree un informe más atractivo</translation>
+    </message>
+    <message>
+        <source>Make students love your class</source>
+        <translation>Logre que a sus alumnos les encante su clase</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Confirmar</translation>
+    </message>
+    <message>
+        <source>Record your wonderful life</source>
+        <translation>Registre los hermosos momentos de su vida</translation>
+    </message>
+    <message>
+        <source>Teacher</source>
+        <translation>Profesor</translation>
+    </message>
+    <message>
+        <source>Student</source>
+        <translation>Estudiante</translation>
+    </message>
+    <message>
+        <source>Health Care</source>
+        <translation>Atención médica</translation>
+    </message>
+    <message>
+        <source>Designer</source>
+        <translation>Diseñador</translation>
+    </message>
+    <message>
+        <source>Finance</source>
+        <translation>Finanzas</translation>
+    </message>
+    <message>
+        <source>Save time with standardized templates</source>
+        <translation>Ahorre tiempo con las plantillas estandarizadas</translation>
+    </message>
+    <message>
+        <source>SCM/Supply Chain</source>
+        <translation>SCM/Cadena de suministro</translation>
+    </message>
+</context>
+<context>
     <name>KMsgCenterContentWidget</name>
     <message>
         <source>No news.</source>
@@ -3349,28 +3488,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     </message>
 </context>
 <context>
-    <name>KWeChatCSWidget</name>
-    <message>
-        <source>WPS After-sales</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KCmdLnkEntry</name>
     <message>
         <source>lnk path(%1) or target not exists.</source>
         <translation>El acceso directo (%1) o el destino no existen.</translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCustomerServiceDlg</name>
-    <message>
-        <source>Discuss your problem with WPS customer service</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WeChat QR Code</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3924,57 +4045,6 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     </message>
 </context>
 <context>
-    <name>KTemplateGuideDialog</name>
-    <message>
-        <source>Others</source>
-        <translation>Otros</translation>
-    </message>
-    <message>
-        <source>For fitness, diet and health</source>
-        <translation>Para estar en forma, dietas y salud</translation>
-    </message>
-    <message>
-        <source>Social &amp; Life</source>
-        <translation>Vida social</translation>
-    </message>
-    <message>
-        <source>Make your report cooler</source>
-        <translation>Cree un informe más atractivo</translation>
-    </message>
-    <message>
-        <source>Make students love your class</source>
-        <translation>Logre que a sus alumnos les encante su clase</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Confirmar</translation>
-    </message>
-    <message>
-        <source>Record your wonderful life</source>
-        <translation>Registre los hermosos momentos de su vida</translation>
-    </message>
-    <message>
-        <source>Teacher</source>
-        <translation>Profesor</translation>
-    </message>
-    <message>
-        <source>Student</source>
-        <translation>Estudiante</translation>
-    </message>
-    <message>
-        <source>Health Care</source>
-        <translation>Atención médica</translation>
-    </message>
-    <message>
-        <source>Designer</source>
-        <translation>Diseñador</translation>
-    </message>
-    <message>
-        <source>Finance</source>
-        <translation>Finanzas</translation>
-    </message>
-</context>
-<context>
     <name>KFileTransferButton</name>
     <message>
         <source>File Transfer</source>
@@ -4163,6 +4233,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Set as default</source>
         <translation>Configurar como predeterminado</translation>
+    </message>
+    <message>
+        <source>Always open PDFs in WPS Office</source>
+        <translation>Siempre abrir archivos PDF en WPS Office</translation>
     </message>
     <message>
         <source>No more show</source>
@@ -4402,20 +4476,6 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     </message>
 </context>
 <context>
-    <name>KWeatherCurrentWeatherWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorUnknowBottomWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KNewUserGuideStep_Open</name>
     <message>
         <source>Open your documents</source>
@@ -4435,20 +4495,6 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>My Devices</source>
         <translation>Mis dispositivos</translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorFailureBottomWidget</name>
-    <message>
-        <source>Manually adding cities</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherComponent</name>
-    <message>
-        <source>weather_component</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4480,20 +4526,6 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <name>KTeamListDelegate</name>
     <message>
         <source>Last UpdateTime:</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherCitySearchPopWidget</name>
-    <message>
-        <source>No city is matched</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorTitleWidget</name>
-    <message>
-        <source>Weather</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4551,6 +4583,66 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
         <translation>Error del servidor. No se puede buscar.</translation>
+    </message>
+</context>
+<context>
+    <name>KWeChatCSWidget</name>
+    <message>
+        <source>WPS After-sales</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeChatCustomerServiceDlg</name>
+    <message>
+        <source>Discuss your problem with WPS customer service</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WeChat QR Code</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherCurrentWeatherWidget</name>
+    <message>
+        <source>Switch City</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherErrorUnknowBottomWidget</name>
+    <message>
+        <source>Switch City</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherErrorFailureBottomWidget</name>
+    <message>
+        <source>Manually adding cities</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherComponent</name>
+    <message>
+        <source>weather_component</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherCitySearchPopWidget</name>
+    <message>
+        <source>No city is matched</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherErrorTitleWidget</name>
+    <message>
+        <source>Weather</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
