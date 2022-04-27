@@ -86,7 +86,7 @@
     <message>
         <source>Top Questions</source>
         <translation>Pertanyaan Terbaik</translation>
-    </message>
+    </message>	
     <message>
         <source>Sending</source>
         <translation>Mengirim</translation>
