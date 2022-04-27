@@ -6148,7 +6148,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>No Format Set</source>
-        <translation>Biçim Ayarı Yapılmamış</translation>
+        <translation>Biçim Ayarı Yok</translation>
     </message>
     <message>
         <source>AaBbCcYyZz</source>
@@ -6165,7 +6165,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>No Format Set</source>
         <comment>TX_UNDEF_FMT</comment>
-        <translation>Biçim Ayarı Yapılmamış</translation>
+        <translation>Biçim Ayarı Yok</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -13916,7 +13916,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm koşullu biçimler için ölçüt belirtmelisiniz.</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -40949,7 +40949,7 @@ Varolan resmi korumak için İptal&apos;i tıklayın.</translation>
     <name>KxAfAnalysisPaneChart</name>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzen</translation>
     </message>
     <message>
         <source>More</source>
@@ -41098,7 +41098,7 @@ Number of values that were not replaced because they are in read-only rich data:
     </message>
     <message>
         <source>All Formats(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Biçim&amp;ler</translation>
     </message>
     <message>
         <source>Finding cells... Press Esc to interrupt...</source>
@@ -53155,7 +53155,7 @@ Alternativly, you can click the left-side pane if you want to switch to other ch
     </message>
     <message>
         <source>font color</source>
-        <translation type="unfinished"/>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>Filter Conditions</source>
