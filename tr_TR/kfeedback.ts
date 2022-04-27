@@ -86,7 +86,7 @@
     <message>
         <source>Top Questions</source>
         <translation type="unfinished"/>
-    </message>
+    </message>	
     <message>
         <source>Sending</source>
         <translation>Gönderiliyor</translation>
