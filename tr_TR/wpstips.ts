@@ -395,7 +395,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle&apos;yi açın.</trans
     </message>
     <message>
         <source>RecentFontColor2.title</source>
-        <translation>Text Color</translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>m_PageSize.title</source>
@@ -519,7 +519,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle&apos;yi açın.</trans
     </message>
     <message>
         <source>RecentFontColor2.content</source>
-        <translation>Click the arrow to select a different text color.</translation>
+        <translation>Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>RejectRevisionOnTB2.content</source>
@@ -1383,9 +1383,9 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     </message>
     <message>
         <source>RecentFontColor.content</source>
-        <translation>Change the text color.
+        <translation>Metin rengini değiştirin.
 
-Click the arrow to select a different text color.</translation>
+Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>MergeToNewDoc.title</source>
@@ -2195,7 +2195,7 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>RecentFontColor.title</source>
-        <translation>Text Color</translation>
+        <translation>Metin Rengi</translation>
     </message>
     <message>
         <source>OfficialTemplates.content</source>
