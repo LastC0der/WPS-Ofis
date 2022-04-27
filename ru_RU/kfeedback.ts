@@ -84,6 +84,10 @@
         <translation>Передать файл</translation>
     </message>
     <message>
+        <source>Top Questions</source>
+        <translation>Самые популярные вопросы</translation>
+    </message>	
+    <message>
         <source>Sending</source>
         <translation>Отправка</translation>
     </message>
