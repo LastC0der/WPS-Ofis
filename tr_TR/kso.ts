@@ -25614,7 +25614,7 @@ Please verify the correct file name was given.</source>
     <name>KxChooseOutwardDocDlgV2</name>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzen</translation>
     </message>
     <message>
         <source>Make</source>
@@ -28743,7 +28743,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxDrTipContentWidget</name>
     <message>
         <source>edit</source>
-        <translation type="unfinished"/>
+        <translation>Hem yerel hem de Bulut yedeklemesi değiştirildi</translation>
     </message>
     <message>
         <source>This file has been opened as read-only. Enable edit?</source>
