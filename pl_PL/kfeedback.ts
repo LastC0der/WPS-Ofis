@@ -84,10 +84,6 @@
         <translation>Przekaż plik</translation>
     </message>
     <message>
-        <source>Top Questions</source>
-        <translation>Najważniejsze pytania</translation>
-    </message>
-    <message>
         <source>Sending</source>
         <translation>Wysyłanie</translation>
     </message>
