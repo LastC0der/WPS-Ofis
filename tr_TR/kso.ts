@@ -22803,7 +22803,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Çevrimiçi Şablonlardan yeni</translation>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>
@@ -22863,7 +22863,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Çevrimiçi Şablonlardan yeni</translation>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Open File Management to remove some or all of your recent documents.</source>
