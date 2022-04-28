@@ -15927,7 +15927,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Change Timeline Color</source>
@@ -17425,7 +17425,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -22585,7 +22585,7 @@ Aktar</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Text Tool</source>
@@ -32171,7 +32171,7 @@ Kapat</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Çevrimiçi Şablonlardan yeni</translation>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
