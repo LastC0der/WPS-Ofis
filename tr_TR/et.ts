@@ -28966,7 +28966,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Çevrimiçi Şablonlardan yeni</translation>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Banded Rows</source>
@@ -29293,7 +29293,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Source Merge worksheets with same name in workbooks function</source>
@@ -57717,7 +57717,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Çevrimiçi Şablonlardan yeni</translation>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Export to OFD</source>
