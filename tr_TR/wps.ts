@@ -17921,7 +17921,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Header Outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış Başlık</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -19776,7 +19776,7 @@ Navigation</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Çevrimiçi Şablonlardan yeni</translation>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -20165,15 +20165,15 @@ Screen</source>
     </message>
     <message>
         <source>View Field Codes</source>
-        <translation type="unfinished"/>
+        <translation>Alan Kodlarını Görüntüle</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Frame Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve Bağlam Menüsü</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
@@ -37136,7 +37136,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış başlık</translation>
     </message>
     <message>
         <source>Different odd and &amp;even pages</source>
@@ -42945,7 +42945,7 @@ Modu</translation>
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış başlık</translation>
     </message>
     <message>
         <source>Add Custom PageNum</source>
@@ -43749,7 +43749,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"/>
+        <translation>Dış başlık</translation>
     </message>
 </context>
 <context>
@@ -51472,7 +51472,7 @@ Efektler</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Çevrimiçi Şablonlardan yeni</translation>
+        <translation>Çevrimiçi Şablonlardan Yeni</translation>
     </message>
     <message>
         <source>Cloud Link</source>
