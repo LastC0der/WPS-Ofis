@@ -1919,7 +1919,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>No Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik Yok</translation>
     </message>
     <message>
         <source>1. Login to access shared files</source>
