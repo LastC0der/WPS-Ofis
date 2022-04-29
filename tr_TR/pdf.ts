@@ -5808,7 +5808,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Belge doğrulama</translation>
     </message>
     <message>
         <source>SplitAndMergePage</source>
@@ -15190,7 +15190,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>no content</source>
-        <translation type="unfinished"/>
+        <translation>içerik yok</translation>
     </message>
     <message>
         <source>Deadline Time</source>
