@@ -14660,7 +14660,7 @@ Master</source>
     </message>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Belge doğrulama</translation>
     </message>
     <message>
         <source>NewChart TrendLine Label</source>
