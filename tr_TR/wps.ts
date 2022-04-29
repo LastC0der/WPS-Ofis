@@ -8169,7 +8169,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Paste &amp;bookmark:</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;er işareti yapıştır:</translation>
     </message>
     <message>
         <source>Field &amp;codes:</source>
@@ -9410,7 +9410,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>No content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik yok</translation>
     </message>
 </context>
 <context>
@@ -11225,11 +11225,11 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Yar&amp;dım Metni Ekle...</translation>
     </message>
     <message>
         <source>&amp;Bookmark:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yer işareti:</translation>
     </message>
     <message>
         <source>Check Box Form Field Options</source>
@@ -18495,7 +18495,7 @@ Break</source>
     </message>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Belge doğrulama</translation>
     </message>
     <message>
         <source>Browse by Page</source>
@@ -20236,15 +20236,15 @@ Screen</source>
     </message>
     <message>
         <source>Asian characters</source>
-        <translation type="unfinished"/>
+        <translation>Asya karakterleri</translation>
     </message>
     <message>
         <source>Statistics:</source>
-        <translation type="unfinished"/>
+        <translation>İstatistikler:</translation>
     </message>
     <message>
         <source>Non-Asian words</source>
-        <translation type="unfinished"/>
+        <translation>Asya dillerinden olmayan sözcük</translation>
     </message>
     <message>
         <source>Include textboxs,&amp;footnotes and endnotes</source>
@@ -20256,7 +20256,7 @@ Screen</source>
     </message>
     <message>
         <source>Characters (no spaces)</source>
-        <translation type="unfinished"/>
+        <translation>Karakterler (boşluksuz)</translation>
     </message>
     <message>
         <source>Paragraphs</source>
@@ -20264,7 +20264,7 @@ Screen</source>
     </message>
     <message>
         <source>Characters (with spaces)</source>
-        <translation type="unfinished"/>
+        <translation>Karakterler (boşluklu)</translation>
     </message>
 </context>
 <context>
@@ -20387,7 +20387,7 @@ Screen</source>
     </message>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Belge doğrulama</translation>
     </message>
     <message>
         <source>Grab Ellipse</source>
@@ -29249,7 +29249,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Yar&amp;dım Metni Ekle...</translation>
     </message>
     <message>
         <source>edBookmark</source>
@@ -31883,7 +31883,7 @@ Pencere</translation>
     </message>
     <message>
         <source>document authentication</source>
-        <translation type="unfinished"/>
+        <translation>Belge doğrulama</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
@@ -37949,7 +37949,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>View Ruler</source>
-        <translation type="unfinished"/>
+        <translation>Cetveli Görüntüle</translation>
     </message>
     <message>
         <source>PrintSettings</source>
@@ -38046,7 +38046,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Ty&amp;pe:</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;ür:</translation>
     </message>
     <message>
         <source>Typ&amp;e:</source>
@@ -38936,7 +38936,7 @@ Numarası</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation type="unfinished"/>
+        <translation>Cetveli Görüntüle</translation>
     </message>
     <message>
         <source>Multiple Pages</source>
@@ -38944,7 +38944,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Close Preview</source>
-        <translation type="unfinished"/>
+        <translation>Önizlemeyi Kapat</translation>
     </message>
 </context>
 <context>
@@ -38978,7 +38978,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Page Number Relayout</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarasını Yeniden Düzenle</translation>
     </message>
     <message>
         <source>Page 1 of x</source>
@@ -39010,11 +39010,11 @@ Numarası</translation>
     </message>
     <message>
         <source>Rebuild document page number</source>
-        <translation type="unfinished"/>
+        <translation>Belge sayfa numarasını yeniden oluştur</translation>
     </message>
     <message>
         <source>Relayout</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Düzenle</translation>
     </message>
     <message>
         <source>-1-, -2-, -3-...</source>
@@ -39165,15 +39165,15 @@ Numarası</translation>
     </message>
     <message>
         <source>Ty&amp;pe:</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;ür:</translation>
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Yar&amp;dım Metni Ekle...</translation>
     </message>
     <message>
         <source>&amp;Bookmark:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yer işareti:</translation>
     </message>
     <message>
         <source>&amp;edValue</source>
@@ -39342,7 +39342,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Convert Paragraph Indent to Space</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Girintisini Boşluğa Dönüştür</translation>
     </message>
     <message>
         <source>Rearrange Paragraphs</source>
@@ -55667,7 +55667,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>View Ruler</source>
-        <translation type="unfinished"/>
+        <translation>Cetveli Görüntüle</translation>
     </message>
     <message>
         <source>PrintSettings</source>
