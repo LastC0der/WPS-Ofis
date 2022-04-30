@@ -404,7 +404,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Super Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ço&amp;k Büyük Simgeler</translation>
     </message>
     <message>
         <source>Encrypt</source>
