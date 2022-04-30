@@ -4801,43 +4801,43 @@ Please verify the correct file name was given.</source>
     <name>QDoubleSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Daha az</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
     <name>QSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Daha az</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
     <name>KPromeDockRecentMenu</name>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
     <name>KPromeDockStarMenu</name>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
     <name>KPromeMoreMenuStandAloneWindowButton</name>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
