@@ -27373,7 +27373,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Super Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ço&amp;k Büyük Simgeler</translation>
     </message>
     <message>
         <source>Encrypt</source>
@@ -27548,22 +27548,22 @@ Ortalama</translation>
     <name>QDoubleSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Daha az</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
     <name>QSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Daha az</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
@@ -27700,7 +27700,7 @@ Ortalama</translation>
     <name>KScreenGrabMenu</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -27849,7 +27849,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>E-posta</translation>
     </message>
     <message>
         <source>Phone</source>
@@ -28144,7 +28144,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -28324,7 +28324,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KQuitCoopEditMsgBox</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
 </context>
 <context>
@@ -32150,7 +32150,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut</translation>
     </message>
 </context>
 <context>
