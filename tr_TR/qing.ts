@@ -1669,7 +1669,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>My cloud document</source>
-        <translation type="unfinished"/>
+        <translation>Bulut belgem</translation>
     </message>
     <message>
         <source>Protocol error: packet of size 0 received</source>
@@ -1677,7 +1677,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>my cloud document</source>
-        <translation type="unfinished"/>
+        <translation>Bulut belgem</translation>
     </message>
     <message>
         <source>view folder</source>
@@ -5349,22 +5349,22 @@ Please verify the correct file name was given.</source>
     <name>QDoubleSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Daha az</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
     <name>QSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Daha az</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Diğer</translation>
+        <translation>Daha fazla</translation>
     </message>
 </context>
 <context>
@@ -5720,7 +5720,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Dosyalarım</translation>
     </message>
     <message>
         <source>Cloud Sync</source>
