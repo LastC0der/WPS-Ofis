@@ -897,7 +897,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>E-posta</translation>
     </message>
     <message>
         <source>Forget password</source>
