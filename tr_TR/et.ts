@@ -54922,11 +54922,11 @@ hücreler turuncu arka planda ayarlanacaktır.</translation>
     </message>
     <message>
         <source>The input text is not a valid reference or defined name.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş metni geçerli bir başvuru veya tanımlı ad değil.</translation>
     </message>
     <message>
         <source>Reference must be to a single cell.</source>
-        <translation type="unfinished"/>
+        <translation>Başvuru tek bir hücreye olmalıdır.</translation>
     </message>
     <message>
         <source>Cell must contain a value.</source>
@@ -54947,7 +54947,7 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     </message>
     <message>
         <source>Cell must contain a formula.</source>
-        <translation type="unfinished"/>
+        <translation>Hücre bir formül içermelidir.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
@@ -54987,14 +54987,14 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     <name>KxEtShapeFontOutlineThemeModel</name>
     <message>
         <source>No Outline</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Yok</translation>
     </message>
 </context>
 <context>
     <name>KxEtShapeLineThemeModel</name>
     <message>
         <source>No Outline</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Yok</translation>
     </message>
 </context>
 <context>
