@@ -48258,7 +48258,7 @@ check the maintain compatibility checkbox.</source>
     <name>KxWpsFontOutlineColorModel</name>
     <message>
         <source>No Outline</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Yok</translation>
     </message>
 </context>
 <context>
