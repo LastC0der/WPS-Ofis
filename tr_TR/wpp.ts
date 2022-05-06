@@ -29799,7 +29799,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxWppFontOutlineColorModel</name>
     <message>
         <source>No Outline</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Yok</translation>
     </message>
 </context>
 <context>
