@@ -6839,7 +6839,7 @@ Sorry for the inconvenience.</source>
     <name>KCloudSyncRetainDialog</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
