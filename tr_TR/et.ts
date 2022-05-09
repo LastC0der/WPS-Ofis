@@ -31854,7 +31854,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>File Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Şifreleme</translation>
     </message>
     <message>
         <source>modify permissions</source>
