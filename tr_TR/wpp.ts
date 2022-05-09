@@ -27458,7 +27458,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor...</translation>
     </message>
     <message>
         <source>Failed Loading</source>
