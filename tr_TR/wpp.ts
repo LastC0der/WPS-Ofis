@@ -1445,7 +1445,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dışa aktarma tamamlandığında kapat</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -1660,11 +1660,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dışa aktarma tamamlandığında kapat</translation>
     </message>
     <message>
         <source>File Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Şifreleme</translation>
     </message>
     <message>
         <source>modify permissions</source>
@@ -7111,7 +7111,7 @@ Gövde: Açılma</translation>
     </message>
     <message>
         <source>Please Enter Your Text Here.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen Metninizi Buraya Girin.</translation>
     </message>
     <message>
         <source>Fade In One By One</source>
@@ -7129,7 +7129,7 @@ Gövde: Açılma</translation>
     <message>
         <source>Move entire objects(like pictures and shape).</source>
         <comment>WP_EFFECT_MorphByObject</comment>
-        <translation type="unfinished"/>
+        <translation>Tüm nesneleri taşı (resimler veya şekiller)</translation>
     </message>
     <message>
         <source>Strips Right-Down</source>
@@ -7347,7 +7347,7 @@ Gövde: Solarak</translation>
     </message>
     <message>
         <source>Fifth level</source>
-        <translation type="unfinished"/>
+        <translation>Beşinci seviye</translation>
     </message>
     <message>
         <source>Delete Note In Current Slide</source>
@@ -7529,11 +7529,11 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Do you want to delete all the notes in this presentation?</source>
-        <translation type="unfinished"/>
+        <translation>Bu sunudaki tüm notları silmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Vertical Title and Text</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Başlık ve Metin</translation>
     </message>
     <message>
         <source>Title Arc</source>
