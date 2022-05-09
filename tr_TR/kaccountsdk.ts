@@ -882,7 +882,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>loading...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor...</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -2420,7 +2420,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>loading...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor...</translation>
     </message>
 </context>
 <context>
@@ -2431,7 +2431,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>loading...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor...</translation>
     </message>
 </context>
 <context>
