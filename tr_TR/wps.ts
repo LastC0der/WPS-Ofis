@@ -4026,7 +4026,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>pt, 0, 0, 898.75, 1</source>
-        <translation type="unfinished"/>
+        <translation>nk, 0, 0, 898.75, 1</translation>
     </message>
     <message>
         <source>Navigation &amp;Pane:</source>
@@ -4034,7 +4034,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Diğer &amp;stilleri yer imlerine dönüştür</translation>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
@@ -4077,11 +4077,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;125%</source>
-        <translation type="unfinished"/>
+        <translation>%&amp;125</translation>
     </message>
     <message>
         <source>&amp;150%</source>
-        <translation type="unfinished"/>
+        <translation>%&amp;150</translation>
     </message>
     <message>
         <source>&amp;200%</source>
@@ -21260,7 +21260,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dışa aktarma tamamlandığında kapat</translation>
     </message>
     <message>
         <source>&amp;Revision</source>
@@ -21288,7 +21288,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Diğer &amp;stilleri yer imlerine dönüştür</translation>
     </message>
     <message>
         <source>OFD Service Provider</source>
@@ -21439,11 +21439,11 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dışa aktarma tamamlandığında kapat</translation>
     </message>
     <message>
         <source>File Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Şifreleme</translation>
     </message>
     <message>
         <source>modify permissions</source>
@@ -21471,7 +21471,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Diğer &amp;stilleri yer imlerine dönüştür</translation>
     </message>
     <message>
         <source>Export PDF File</source>
@@ -37604,11 +37604,11 @@ Hayır:	Şablona kaydetme;
     <name>KxWpsSpellCheckCommandEx</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
