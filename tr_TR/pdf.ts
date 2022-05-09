@@ -11960,7 +11960,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"/>
+        <translation>Dönüştür</translation>
     </message>
     <message>
         <source>the copy was successful</source>
