@@ -3776,7 +3776,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -25326,15 +25326,15 @@ Please verify the correct file name was given.</source>
     <name>KScreenGrabPin</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Shadow</source>
