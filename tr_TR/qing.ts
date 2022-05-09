@@ -11449,7 +11449,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor...</translation>
     </message>
 </context>
 <context>
@@ -11889,7 +11889,7 @@ Time for upgrade: %1</source>
     <name>KDocHistoryListWidget</name>
     <message>
         <source>loading...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor...</translation>
     </message>
     <message>
         <source>Load error,please &lt;a href=&quot;silver&quot;&gt;retry&lt;/a&gt;</source>
@@ -13005,7 +13005,7 @@ Free Space: about %1 MB</source>
     <name>KUserSecureLoadingView</name>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"/>
+        <translation>Yükleniyor...</translation>
     </message>
 </context>
 <context>
