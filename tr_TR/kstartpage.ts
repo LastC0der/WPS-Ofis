@@ -3614,7 +3614,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>backup</source>
-        <translation type="unfinished"/>
+        <translation>Yedek</translation>
     </message>
     <message>
         <source>no modify</source>
