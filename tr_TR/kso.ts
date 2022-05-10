@@ -4039,7 +4039,7 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"/>
+        <translation>Yedek</translation>
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
@@ -41707,7 +41707,7 @@ share with your friends</source>
     <name>KWebPreviewWindowHeaderWidget</name>
     <message>
         <source>Link preview</source>
-        <translation>Linki paylaş</translation>
+        <translation>Linki Paylaş</translation>
     </message>
 </context>
 <context>
