@@ -18637,7 +18637,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"/>
+        <translation>Google Dokümanlar</translation>
     </message>
     <message>
         <source>Print Layout</source>
@@ -18737,19 +18737,19 @@ Yazdır</translation>
     </message>
     <message>
         <source>0.2 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.2 nk</translation>
     </message>
     <message>
         <source>0.4 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.4 nk</translation>
     </message>
     <message>
         <source>0.6 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.6 nk</translation>
     </message>
     <message>
         <source>0.8 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.8 nk</translation>
     </message>
     <message>
         <source>Equation Multi Equations Popup Menu</source>
@@ -18785,7 +18785,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Bölütü</translation>
     </message>
     <message>
         <source>Browse by Endnote</source>
@@ -18926,7 +18926,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"/>
+        <translation>Yedek</translation>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -18934,7 +18934,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Search Help Information</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Bilgilerini Ara</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -25157,7 +25157,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"/>
+        <translation>Google Dokümanlar</translation>
     </message>
     <message>
         <source>IntranetVersion Online Templates</source>
@@ -31943,7 +31943,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Paylaşım Bağlantısı Oluştur</translation>
+        <translation>Dosyayı Paylaş</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -35376,19 +35376,19 @@ Aktar</translation>
     </message>
     <message>
         <source>0.2 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.2 nk</translation>
     </message>
     <message>
         <source>0.4 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.4 nk</translation>
     </message>
     <message>
         <source>0.6 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.6 nk</translation>
     </message>
     <message>
         <source>0.8 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.8 nk</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
@@ -36594,19 +36594,19 @@ Güvenliği</translation>
     </message>
     <message>
         <source>0.2 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.2 nk</translation>
     </message>
     <message>
         <source>0.4 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.4 nk</translation>
     </message>
     <message>
         <source>0.6 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.6 nk</translation>
     </message>
     <message>
         <source>0.8 pt</source>
-        <translation type="unfinished"/>
+        <translation>0.8 nk</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
