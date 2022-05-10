@@ -14766,7 +14766,7 @@ Slide</source>
     </message>
     <message>
         <source>Google Docs</source>
-        <translation type="unfinished"/>
+        <translation>Google Dokümanlar</translation>
     </message>
     <message>
         <source>NewChart SeriesLine</source>
@@ -14794,7 +14794,7 @@ Slide</source>
     </message>
     <message>
         <source>Source material base</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme Tabanı</translation>
     </message>
     <message>
         <source>TableStyle</source>
@@ -14810,7 +14810,7 @@ Slide</source>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>Image Exporting</source>
@@ -14870,7 +14870,7 @@ Slide</source>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Bölütü</translation>
     </message>
     <message>
         <source>Split or Merge</source>
@@ -14979,11 +14979,11 @@ Slide</source>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"/>
+        <translation>Yedek</translation>
     </message>
     <message>
         <source>Search Help Information</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Bilgilerini Ara</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -16967,7 +16967,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Paylaşım Bağlantısı Oluştur</translation>
+        <translation>Dosyayı Paylaş</translation>
     </message>
     <message>
         <source>More Templates</source>
