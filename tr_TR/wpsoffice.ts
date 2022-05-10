@@ -4978,7 +4978,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"/>
+        <translation>Yedek</translation>
     </message>
     <message>
         <source> (Read-only)</source>
