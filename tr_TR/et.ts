@@ -28247,7 +28247,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Bölütü</translation>
     </message>
     <message>
         <source>Feedback by Email</source>
@@ -28369,11 +28369,11 @@ Dondur</translation>
     </message>
     <message>
         <source>Backup</source>
-        <translation type="unfinished"/>
+        <translation>Yedek</translation>
     </message>
     <message>
         <source>Search Help Information</source>
-        <translation type="unfinished"/>
+        <translation>Yardım Bilgilerini Ara</translation>
     </message>
     <message>
         <source>Camera</source>
