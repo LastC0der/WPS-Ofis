@@ -15550,7 +15550,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>backup</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
     <message>
         <source>Open folder</source>
