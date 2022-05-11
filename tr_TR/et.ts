@@ -44805,7 +44805,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
-        <translation type="unfinished"/>
+        <translation>Başla&amp;ngıç boyutu:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
@@ -44813,7 +44813,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş b&amp;oyutu:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
