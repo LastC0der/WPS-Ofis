@@ -18397,7 +18397,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -31850,7 +31850,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Share</source>
