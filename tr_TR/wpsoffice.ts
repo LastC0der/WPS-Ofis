@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3688,7 +3688,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>The copied item will have a mark</source>
@@ -3700,7 +3700,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>In the pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklamada</translation>
     </message>
     <message>
         <source>I know</source>
