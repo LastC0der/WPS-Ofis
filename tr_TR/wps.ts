@@ -1911,7 +1911,7 @@
     </message>
     <message>
         <source>Pause mark</source>
-        <translation type="unfinished"/>
+        <translation>Duraklatma işareti</translation>
     </message>
     <message>
         <source>Thin-thick medium gap</source>
@@ -29703,7 +29703,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Si&amp;ze:</source>
-        <translation type="unfinished"/>
+        <translation>Boy&amp;ut:</translation>
     </message>
     <message>
         <source>S&amp;cale:</source>
@@ -37992,7 +37992,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
-        <translation type="unfinished"/>
+        <translation>Başlangı&amp;ç boyutu:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
@@ -38000,7 +38000,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>End si&amp;ze:</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş b&amp;oyutu:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
