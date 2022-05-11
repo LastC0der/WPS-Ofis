@@ -27932,7 +27932,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Right</source>
@@ -42364,7 +42364,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Share</source>
