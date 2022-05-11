@@ -3436,7 +3436,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>Print</source>
@@ -5906,7 +5906,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"/>
+        <translation>Kalp</translation>
     </message>
     <message>
         <source>Heave</source>
@@ -6935,7 +6935,7 @@ Ekle</translation>
     <message>
         <source>Heart</source>
         <comment>DRAWING2STR_HEART</comment>
-        <translation type="unfinished"/>
+        <translation>Kalp</translation>
     </message>
     <message>
         <source>LimeGreen</source>
@@ -9081,7 +9081,7 @@ Line-type: %3</source>
     <message>
         <source>Heart</source>
         <comment>DRAWING2_TOOLTIP_HEART</comment>
-        <translation type="unfinished"/>
+        <translation>Kalp</translation>
     </message>
     <message>
         <source>L-Shape</source>
@@ -28346,7 +28346,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>Start</source>
