@@ -5720,7 +5720,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -5732,7 +5732,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Stamp</source>
-        <translation type="unfinished"/>
+        <translation>Damga</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -5776,7 +5776,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>EditLayer</source>
-        <translation type="unfinished"/>
+        <translation>Düzen</translation>
     </message>
     <message>
         <source>SplitMerge</source>
@@ -5792,7 +5792,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>HandMenuTool</source>
-        <translation type="unfinished"/>
+        <translation>El Şekillendirme Aracı</translation>
     </message>
     <message>
         <source>Highlight Text</source>
@@ -5816,23 +5816,23 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Paste Comment</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <source>Pages From Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Panodan Seç</translation>
     </message>
     <message>
         <source>CA Management</source>
-        <translation type="unfinished"/>
+        <translation>Sertifika Yetkilisi Yönetimi</translation>
     </message>
     <message>
         <source>EbookReadType</source>
-        <translation type="unfinished"/>
+        <translation>Ayarları Görüntüle</translation>
     </message>
     <message>
         <source>resizepage</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Yeniden Boyutlandır</translation>
     </message>
     <message>
         <source>SplitPDFPage</source>
@@ -10183,7 +10183,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Share</source>
@@ -11609,7 +11609,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Stamp</source>
-        <translation type="unfinished"/>
+        <translation>Damga</translation>
     </message>
     <message>
         <source>Text Markup</source>
