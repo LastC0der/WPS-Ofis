@@ -2462,7 +2462,7 @@ Check</source>
     </message>
     <message>
         <source>Pause Audio</source>
-        <translation type="unfinished"/>
+        <translation>Sesi Duraklat</translation>
     </message>
     <message>
         <source>Line Break</source>
@@ -3291,7 +3291,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Tablo Kılavuzu</translation>
     </message>
     <message>
         <source>Last Column</source>
@@ -3611,7 +3611,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Heart</source>
-        <translation type="unfinished"/>
+        <translation>Kalp</translation>
     </message>
     <message>
         <source>Hug&amp;e</source>
@@ -3627,7 +3627,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>Right</source>
@@ -3635,7 +3635,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Si&amp;ze</source>
-        <translation type="unfinished"/>
+        <translation>Boy&amp;ut</translation>
     </message>
     <message>
         <source>Sling</source>
@@ -4187,7 +4187,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Neutron</source>
-        <translation type="unfinished"/>
+        <translation>Nötron</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -6637,7 +6637,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>No Style, Table Grid</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok, Tablo Kılavuzu</translation>
     </message>
     <message>
         <source>Fade In All</source>
@@ -6645,11 +6645,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Neutron</source>
-        <translation type="unfinished"/>
+        <translation>Nötron</translation>
     </message>
     <message>
         <source>Text and Content Layouts</source>
-        <translation type="unfinished"/>
+        <translation>Metin ve İçerik Düzenleri</translation>
     </message>
     <message>
         <source>Footer</source>
@@ -6657,7 +6657,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Title and Text</source>
-        <translation type="unfinished"/>
+        <translation>Başlık ve Metin</translation>
     </message>
     <message>
         <source>Last Column</source>
@@ -11705,7 +11705,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>Right</source>
@@ -13836,7 +13836,7 @@ Master</source>
     </message>
     <message>
         <source>Pause Background Music</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Müziğini Duraklat</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -22885,7 +22885,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>Repeat</source>
@@ -22952,7 +22952,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Pause timer</source>
-        <translation type="unfinished"/>
+        <translation>Zamanlayıcıyı duraklat</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -23320,7 +23320,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>media play</source>
@@ -23587,7 +23587,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
-        <translation type="unfinished"/>
+        <translation>Başlangı&amp;ç boyutu:</translation>
     </message>
     <message>
         <source>&amp;End style:</source>
@@ -28576,7 +28576,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt/Duraklat</translation>
     </message>
     <message>
         <source>Move back 0.25 seconds</source>
@@ -29744,7 +29744,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt/Duraklat</translation>
     </message>
 </context>
 <context>
