@@ -14599,7 +14599,7 @@ Master</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -16877,7 +16877,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <source>Share</source>
