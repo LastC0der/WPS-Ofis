@@ -23862,7 +23862,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Verifying your logon information for opening content with restricted permission...</source>
-        <translation type="unfinished"/>
+        <translation>Kısıtlı izinle içerik açmak için oturum açma bilgileriniz doğrulanıyor...</translation>
     </message>
 </context>
 <context>
