@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <source>Print</source>
