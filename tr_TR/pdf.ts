@@ -1205,7 +1205,7 @@
     </message>
     <message>
         <source>This file is signatured and can&apos;t edit.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya dijital olarak imzalanmıştır ve düzenlenemez.</translation>
     </message>
     <message>
         <source>Copying text</source>
