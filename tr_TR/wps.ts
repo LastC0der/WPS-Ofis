@@ -26125,7 +26125,7 @@ Break</source>
     </message>
     <message>
         <source>Document theme</source>
-        <translation type="unfinished"/>
+        <translation>Belge teması</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -26312,7 +26312,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Document theme effect</source>
-        <translation type="unfinished"/>
+        <translation>Belge teması efekti</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
