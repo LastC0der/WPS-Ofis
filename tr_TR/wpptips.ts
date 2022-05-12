@@ -573,7 +573,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları Telefona ve Diğer Cihazlara Gönderin</translation>
     </message>
     <message>
         <source>MasterLayout.title</source>
@@ -803,7 +803,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PrintManualDuplex.title</source>
-        <translation type="unfinished"/>
+        <translation>El ile Çift Yön Yazdır</translation>
     </message>
     <message>
         <source>SaveBackgroundPicture.title</source>
@@ -1039,7 +1039,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PrintManualDuplex.content</source>
-        <translation type="unfinished"/>
+        <translation>Önce ön sayfayı yazdırabilirsiniz ve ters çevirdiğinizde açılır pencere görünecektir. Görüntülendikten sonra el ile çevirin ve ardından arka sayfayı yazdırın.</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
