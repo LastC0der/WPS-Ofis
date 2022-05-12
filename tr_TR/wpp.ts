@@ -23595,7 +23595,7 @@ Pencere</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş b&amp;oyutu:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
