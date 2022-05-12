@@ -31238,7 +31238,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This is the body theme font for Latin text. The current document theme defines which font is used.</source>
-        <translation type="unfinished"/>
+        <translation>Bu Latin harfli metinlerin gövde temasıdır. Geçerli belge teması, kullanılan yazı tipini belirler.</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
@@ -31246,7 +31246,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This is the body theme font for Asian text. The current document theme defines which font is used.</source>
-        <translation type="unfinished"/>
+        <translation>Bu Asya metinlerinin gövde temasıdır. Geçerli belge teması, kullanılan yazı tipini belirler.</translation>
     </message>
     <message>
         <source>This font has not been installed. The most similar available font will be printed.</source>
@@ -31266,7 +31266,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This is the heading theme font for Latin text. The current document theme defines which font is used.</source>
-        <translation type="unfinished"/>
+        <translation>Bu Latin harfli metinlerin başlık temasıdır. Geçerli belge teması, kullanılan yazı tipini belirler.</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -31282,7 +31282,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This is the heading theme font for Asian text. The current document theme defines which font is used.</source>
-        <translation>Bu, Asya metni için başlık teması yazı tipidir. Geçerli belge teması, hangi yazı tipinin kullanıldığını tanımlar.</translation>
+        <translation>Bu Asya metni için başlık teması yazı tipidir. Geçerli belge teması, hangi yazı tipinin kullanıldığını tanımlar.</translation>
     </message>
 </context>
 <context>
@@ -33620,7 +33620,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>loaded failed</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız oldu. Yeniden denemek için tıklayın.</translation>
     </message>
     <message>
         <source>Online resource deployment failed</source>
