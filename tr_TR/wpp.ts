@@ -15681,7 +15681,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Document theme effect</source>
-        <translation type="unfinished"/>
+        <translation>Belge teması efekti</translation>
     </message>
     <message>
         <source>Motion Path Point</source>
@@ -20763,7 +20763,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Document theme</source>
-        <translation type="unfinished"/>
+        <translation>Belge teması</translation>
     </message>
     <message>
         <source>More Font Colors</source>
