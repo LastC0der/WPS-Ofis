@@ -903,7 +903,7 @@ Click the arrow to select different border colors.</translation>
     </message>
     <message>
         <source>SendFileTip.content</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları Telefona ve Diğer Cihazlara Gönderin</translation>
     </message>
     <message>
         <source>InsertHyperlink.title</source>
@@ -1105,7 +1105,7 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>PrintManualDuplex.title</source>
-        <translation type="unfinished"/>
+        <translation>El ile Çift Yön Yazdır</translation>
     </message>
     <message>
         <source>PageLayoutDetailedSettings.content</source>
@@ -1417,7 +1417,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PrintManualDuplex.content</source>
-        <translation type="unfinished"/>
+        <translation>Önce ön sayfayı yazdırabilirsiniz ve ters çevirdiğinizde açılır pencere görünecektir. Görüntülendikten sonra el ile çevirin ve ardından arka sayfayı yazdırın.</translation>
     </message>
     <message>
         <source>Numbering2.content</source>
@@ -2219,7 +2219,7 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>ClickToTurnOnOffSpellCheck.content</source>
-        <translation type="unfinished"/>
+        <translation>Yazım denetimini açmak/kapatmak için tıklayın</translation>
     </message>
     <message>
         <source>TextSpeech2.content</source>
