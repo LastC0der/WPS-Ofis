@@ -5026,7 +5026,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Cancle</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -10641,7 +10641,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>btnOk</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>PageStartNoGreater</source>
@@ -10649,7 +10649,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>btnCancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>ScanButton</source>
@@ -10743,7 +10743,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>btnOk</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Select Kingsoft PDF As Default PDF Handler</source>
@@ -10751,7 +10751,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>btnCancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>All the signatures have been verified.</source>
@@ -10767,7 +10767,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Are you sure you want to verify all the signatures?</source>
-        <translation type="unfinished"/>
+        <translation>Tüm imzaları doğrulamak istediğinizden emin misiniz?</translation>
     </message>
 </context>
 <context>
@@ -14975,7 +14975,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>Are you sure you want to verify all the signatures?</source>
-        <translation type="unfinished"/>
+        <translation>Tüm imzaları doğrulamak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>OK</source>
