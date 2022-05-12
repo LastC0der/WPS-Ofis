@@ -18024,7 +18024,7 @@ Filtre</translation>
     </message>
     <message>
         <source>Source Merge copy workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını tek bir çalışma kitabında birleştirin.</translation>
     </message>
     <message>
         <source>Insert Column Right</source>
@@ -18165,7 +18165,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Source Recombine Same Name function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını aynı ada sahip yeniden birleştirin.</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -18516,7 +18516,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Source Merge worksheets with same name in workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Aynı ada sahip sayfaları tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Above Average</source>
@@ -18938,7 +18938,8 @@ Biçimlendirme</translation>
     <message>
         <source>Multiple workbooks 
 merged into one workbook</source>
-        <translation type="unfinished"/>
+        <translation>Birden çok çalışma kitabını 
+tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -19106,7 +19107,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Merge workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitaplarını birleştir</translation>
     </message>
     <message>
         <source>Standard Deviation</source>
@@ -19522,7 +19523,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Source Merge copy workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını tek bir çalışma kitabında birleştirin.</translation>
     </message>
     <message>
         <source>Change Chart Type</source>
@@ -20110,7 +20111,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitaplarında aynı ada sahip çalışma sayfalarını birleştir</translation>
     </message>
     <message>
         <source>% of Parent Row Total</source>
@@ -20160,7 +20161,8 @@ Görüntüsü</translation>
     <message>
         <source>Multiple worksheets 
 merged into one worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Birden çok çalışma sayfasını 
+tek bir çalışma sayfasında birleştir</translation>
     </message>
     <message>
         <source>Support WPS</source>
@@ -20261,7 +20263,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Source Recombine Same Name function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını aynı ada sahip yeniden birleştirin.</translation>
     </message>
     <message>
         <source>Show/Hide Crop Panel</source>
@@ -20902,7 +20904,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Recombine Same Name</source>
-        <translation type="unfinished"/>
+        <translation>Aynı Adı Yeniden Birleştir</translation>
     </message>
     <message>
         <source>Break into Seperate Equations</source>
@@ -21238,7 +21240,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Merge Book</source>
-        <translation type="unfinished"/>
+        <translation>Kitabı Birleştir</translation>
     </message>
     <message>
         <source>Format Axis Title</source>
@@ -21500,7 +21502,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Source Merge worksheets with same name in workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Aynı ada sahip sayfaları tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Values &amp; Number Formatting</source>
@@ -28361,7 +28363,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Source Merge copy workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını tek bir çalışma kitabında birleştirin.</translation>
     </message>
     <message>
         <source>NewChart DownBar</source>
@@ -28709,7 +28711,7 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>Source Recombine Same Name function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını aynı ada sahip yeniden birleştirin.</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -29019,7 +29021,7 @@ Screen</source>
     </message>
     <message>
         <source>Recombine Same Name</source>
-        <translation type="unfinished"/>
+        <translation>Aynı Adı Yeniden Birleştir</translation>
     </message>
     <message>
         <source>MoreEffects</source>
@@ -29297,7 +29299,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Source Merge worksheets with same name in workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Aynı ada sahip sayfaları tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
@@ -34542,7 +34544,8 @@ Only %2 unique values will be left after delete.</source>
     <message>
         <source>Merge worksheets 
 with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma kitaplarında aynı ada sahip 
+çalışma sayfalarını birleştir</translation>
     </message>
     <message>
         <source>Batch Div</source>
@@ -34566,7 +34569,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Recombine Same Name</source>
-        <translation type="unfinished"/>
+        <translation>Aynı Adı Yeniden Birleştir</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
@@ -38006,7 +38009,7 @@ Filtre</translation>
     </message>
     <message>
         <source>Source Merge copy workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını tek bir çalışma kitabında birleştirin.</translation>
     </message>
     <message>
         <source>ImportDataFromWeb</source>
@@ -38065,7 +38068,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Source Recombine Same Name function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Çalışma kitaplarını aynı ada sahip yeniden birleştirin.</translation>
     </message>
     <message>
         <source>Set Highlight Duplicates</source>
@@ -38173,7 +38176,7 @@ Yenile</translation>
     </message>
     <message>
         <source>Source Merge worksheets with same name in workbooks function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Aynı ada sahip sayfaları tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Fetch unique values</source>
@@ -50294,7 +50297,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Recombine SameName Sheet Tips</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfası adlarına göre birden çok çalışma kitabı oluşturun. Aynı ada sahip tüm çalışma sayfaları tek bir çalışma kitabına dahil edilmiştir.</translation>
     </message>
     <message>
         <source>Merge from row</source>
@@ -50326,7 +50329,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Recombine same-name worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Aynı ada sahip çalışma sayfalarını yeniden birleştirin</translation>
     </message>
     <message>
         <source>Specify which workbooks/sheets to merge:</source>
