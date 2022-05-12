@@ -45119,7 +45119,7 @@ Boşlukları</translation>
     </message>
     <message>
         <source>Document theme</source>
-        <translation type="unfinished"/>
+        <translation>Belge teması</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
@@ -45244,7 +45244,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Document theme effect</source>
-        <translation type="unfinished"/>
+        <translation>Belge teması efekti</translation>
     </message>
     <message>
         <source>View Page Break</source>
