@@ -6377,7 +6377,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>PatternShingle</source>
-        <translation type="unfinished"/>
+        <translation>Kiremit</translation>
     </message>
     <message>
         <source>10-Point Star</source>
@@ -6414,7 +6414,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>TranslucentPowder </source>
-        <translation type="unfinished"/>
+        <translation>Yarı Saydam Pudra</translation>
     </message>
     <message>
         <source>Striped Right Arrow</source>
@@ -6436,7 +6436,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Down Offset	</source>
-        <translation type="unfinished"/>
+        <translation>Alta Uzaklık	</translation>
     </message>
     <message>
         <source>Flowchart: Sequential Access Storage</source>
@@ -6556,7 +6556,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     <message>
         <source>Decagon</source>
         <comment>DRAWING2_TOOLTIP_DECAGON</comment>
-        <translation type="unfinished"/>
+        <translation>On Kenarlı</translation>
     </message>
     <message>
         <source>Action Button: Information</source>
@@ -6570,11 +6570,11 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>DarkSlateBlue</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Arduvaz Mavisi</translation>
     </message>
     <message>
         <source>DarkSlateGray</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Arduvaz Grisi</translation>
     </message>
     <message>
         <source>Single Line</source>
@@ -6739,11 +6739,11 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Dot Dash Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <source>Right Offset</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Uzaklık</translation>
     </message>
     <message>
         <source>Off-Axis 1 Right</source>
@@ -7156,7 +7156,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Double Dot Dash Line</source>
-        <translation>Çift Noktalı Kesik Çizgi</translation>
+        <translation>Nokta Nokta Kesik Çizgi</translation>
     </message>
     <message>
         <source>Left-Down Offset</source>
@@ -7414,7 +7414,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Left Offset</source>
-        <translation type="unfinished"/>
+        <translation>Sola Uzaklık</translation>
     </message>
     <message>
         <source>Cloud Callout</source>
@@ -7784,7 +7784,7 @@ Ekle</translation>
     <message>
         <source>Lightning Bolt</source>
         <comment>DRAWING2STR_LIGHTNING_BOLT</comment>
-        <translation type="unfinished"/>
+        <translation>Şimşek</translation>
     </message>
     <message>
         <source>Colored Paper 1</source>
@@ -8885,11 +8885,11 @@ Line-type: %3</source>
     <message>
         <source>Lightning Bolt</source>
         <comment>DRAWING2_TOOLTIP_LIGHTNING_BOLT</comment>
-        <translation type="unfinished"/>
+        <translation>Şimşek</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Boyutunu Küçült</translation>
     </message>
     <message>
         <source>Flowchart: Manual Input</source>
@@ -8899,7 +8899,7 @@ Line-type: %3</source>
     <message>
         <source>Dodecagon</source>
         <comment>DRAWING2_TOOLTIP_DODECAGON</comment>
-        <translation type="unfinished"/>
+        <translation>On İki Kenarlı</translation>
     </message>
     <message>
         <source>Ice Cold</source>
@@ -9272,11 +9272,11 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Dodecagon</source>
-        <translation type="unfinished"/>
+        <translation>On İki Kenarlı</translation>
     </message>
     <message>
         <source>Decagon</source>
-        <translation type="unfinished"/>
+        <translation>On Kenarlı</translation>
     </message>
     <message>
         <source>System Dot</source>
@@ -9460,7 +9460,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Lightning Bolt</source>
-        <translation type="unfinished"/>
+        <translation>Şimşek</translation>
     </message>
     <message>
         <source>Left Arrow %1</source>
