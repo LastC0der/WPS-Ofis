@@ -1903,7 +1903,7 @@ Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdı
     </message>
     <message>
         <source>&amp;Change Scheme</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;üzen Değiştir</translation>
     </message>
     <message>
         <source>Classic Theme</source>
