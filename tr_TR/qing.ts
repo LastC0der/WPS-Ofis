@@ -362,7 +362,7 @@
     </message>
     <message>
         <source>Media Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Media Stop</source>
