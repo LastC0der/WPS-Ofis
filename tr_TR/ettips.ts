@@ -1423,7 +1423,7 @@ Süzme işlemi açıldığında, sütun için bir süzgeç seçmek üzere oku t�
     </message>
     <message>
         <source>DoubleUnderline.title</source>
-        <translation type="unfinished"/>
+        <translation>Altı Çift Çizili</translation>
     </message>
     <message>
         <source>UnhideWindow.content</source>
@@ -1526,11 +1526,11 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>SparklineClear.title</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafikleri temizle</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Dolgusu ve Ana Hat</translation>
     </message>
     <message>
         <source>ComAddin.title</source>
@@ -1572,7 +1572,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>EnableMacro.content</source>
-        <translation>To enable macro functions, you need to install VAB support library. Click to know details.</translation>
+        <translation>Makro işlevlerini etkinleştirmek için VBA destek kitaplığını yüklemeniz gerekir. Ayrıntıları öğrenmek için tıklayın.</translation>
     </message>
     <message>
         <source>FTB_Property.title</source>
@@ -1592,11 +1592,11 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation type="unfinished"/>
+        <translation>Arka plan alanını işaretleyin ve görüntünün arka planını hızlı ve akıllı bir şekilde kaldırın</translation>
     </message>
     <message>
         <source>SparkAxis.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen mini grafik grubu için her bir mini grafik ekseninin ölçeğini ve görünürlüğünü değiştirin.</translation>
     </message>
     <message>
         <source>RefreshAll.title</source>
@@ -1620,7 +1620,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>ContextTextDirection.content</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablolarının, yazılan dile göre paragraf yönünü seçmesine izin verin.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
@@ -1672,7 +1672,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation type="unfinished"/>
+        <translation>Grup konumunu ve verilerini düzenle</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
