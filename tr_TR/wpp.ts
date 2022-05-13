@@ -1890,7 +1890,7 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Insert Smartart Graphic</source>
         <comment>WpINSERTSMARTART</comment>
-        <translation>SmartArt Grafiği Ekle</translation>
+        <translation>WPSArt Grafiği Ekle</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed.</source>
@@ -4021,7 +4021,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation>SmartArt</translation>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10570,7 +10570,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>MoreSmartArt</source>
-        <translation type="unfinished"/>
+        <translation>Diğer WPSArt</translation>
     </message>
     <message>
         <source>Center Vertically</source>
@@ -12187,7 +12187,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Insert Equation Before</source>
@@ -23714,7 +23714,7 @@ Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation>SmartArt</translation>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Link LocalVideo</source>
@@ -25088,7 +25088,7 @@ Okuma</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -25445,7 +25445,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation>SmartArt</translation>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Charts</source>
