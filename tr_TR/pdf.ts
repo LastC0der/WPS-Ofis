@@ -16424,11 +16424,11 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>打印边框</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa kenarlığını yazdır</translation>
     </message>
     <message>
         <source>一张多页</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu</translation>
     </message>
     <message>
         <source>页边距（毫米）：</source>
@@ -16440,7 +16440,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>打印内容:</source>
-        <translation type="unfinished"/>
+        <translation>İçeriği yazdır:</translation>
     </message>
     <message>
         <source>insertwatermark</source>
@@ -16448,7 +16448,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>逆序打印</source>
-        <translation type="unfinished"/>
+        <translation>Ters sayfalar</translation>
     </message>
     <message>
         <source>All pages in range</source>
@@ -16476,7 +16476,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>页码选择：</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarasını Seçin:</translation>
     </message>
     <message>
         <source>隐藏页面背景</source>
@@ -16548,7 +16548,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>纸张：</source>
-        <translation type="unfinished"/>
+        <translation>Kağıt:</translation>
     </message>
     <message>
         <source>WPS advance printer</source>
