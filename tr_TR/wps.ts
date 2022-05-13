@@ -16075,7 +16075,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Insert Equation Before</source>
@@ -23961,7 +23961,7 @@ Protection</source>
     </message>
     <message>
         <source>Insert SmartArt Graphic</source>
-        <translation>SmartArt Grafiği Ekle</translation>
+        <translation>WPSArt Grafiği Ekle</translation>
     </message>
     <message>
         <source>Dark List Accent 1</source>
@@ -30041,7 +30041,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Changes affect current user only</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değişiklikler yalnızca geçerli kullanıcıyı etkiler</translation>
     </message>
     <message>
         <source>Edit schema information</source>
@@ -31983,7 +31983,7 @@ Pencere</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Online Picture</source>
@@ -33836,7 +33836,7 @@ Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation type="unfinished"/>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -34446,7 +34446,7 @@ Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation>SmartArt</translation>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Document Parts</source>
@@ -38449,7 +38449,7 @@ Ekle</translation>
     </message>
     <message>
         <source>SmartArt</source>
-        <translation>SmartArt</translation>
+        <translation>WPSArt</translation>
     </message>
     <message>
         <source>Cover Pages</source>
@@ -40521,7 +40521,7 @@ Okuma</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -42503,7 +42503,7 @@ Modu</translation>
     </message>
     <message>
         <source>&amp;Change...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir...</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
