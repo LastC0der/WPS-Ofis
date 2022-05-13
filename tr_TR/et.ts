@@ -33058,7 +33058,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -47740,7 +47740,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
