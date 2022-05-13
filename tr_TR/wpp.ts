@@ -3466,7 +3466,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Plus</source>
@@ -5505,7 +5505,7 @@ Asıl Slayt</translation>
     <message>
         <source>Play</source>
         <comment>wpp_sCaptionPlay</comment>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Grow With Color</source>
@@ -5732,7 +5732,7 @@ Asıl Slayt</translation>
     <message>
         <source>Play</source>
         <comment>wpp_sAnimEffectMediaPlay</comment>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Checkerboard</source>
@@ -7551,7 +7551,8 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>The picture you inserted is too large. Please compressing it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation type="unfinished"/>
+        <translation>Eklediğiniz resim çok büyük. Lütfen disk alanından tasarruf etmek için sıkıştırın.
+Resimleri sıkıştırmanın resimlerinizin kalitesini düşürebileceğini unutmayın. Onları sıkıştırmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>curtain background</source>
@@ -7621,7 +7622,7 @@ Body: Zoom</source>
     </message>
     <message>
         <source>Slide Image Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Resmi Yer Tutucusu</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
@@ -7651,7 +7652,7 @@ Body: Unfold</source>
     </message>
     <message>
         <source>Drum Roll</source>
-        <translation type="unfinished"/>
+        <translation>Tremola</translation>
     </message>
     <message>
         <source>Set Hidden Object</source>
@@ -11581,7 +11582,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Show</source>
@@ -16527,19 +16528,19 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Media vol</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <source>Set background music</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planda Oynat</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"/>
+        <translation>Belirerek</translation>
     </message>
     <message>
         <source>Media play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Trim Sound</source>
@@ -17856,11 +17857,11 @@ Düzen</translation>
     </message>
     <message>
         <source>media vol</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <source>media play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>media trim</source>
@@ -21342,11 +21343,11 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Drum Roll</source>
-        <translation type="unfinished"/>
+        <translation>Tremola</translation>
     </message>
     <message>
         <source>Fade In</source>
-        <translation type="unfinished"/>
+        <translation>Belirerek</translation>
     </message>
     <message>
         <source>Typewriter</source>
@@ -21906,7 +21907,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Slow</source>
@@ -23156,7 +23157,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -23207,7 +23208,7 @@ Güvenliği</translation>
     <name>KxTpAnimationScheme</name>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -23242,7 +23243,7 @@ Güvenliği</translation>
     <name>KxTpSlideTransition</name>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Advance slide</source>
@@ -23305,18 +23306,18 @@ Güvenliği</translation>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Effect Options:</source>
-        <translation type="unfinished"/>
+        <translation>Efekt Seçenekleri:</translation>
     </message>
 </context>
 <context>
     <name>KxWppMediaPlayCommand</name>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -23324,7 +23325,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>media play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
 </context>
 <context>
@@ -25786,7 +25787,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Slide Image Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Resmi Yer Tutucusu</translation>
     </message>
     <message>
         <source>Custom color</source>
