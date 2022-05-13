@@ -4522,7 +4522,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>&amp;Change User</source>
-        <translation type="unfinished"/>
+        <translation>Kullanı&amp;cıyı Değiştir</translation>
     </message>
     <message>
         <source>Mail Item</source>
@@ -15456,7 +15456,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Insert Smartart Graphic</source>
-        <translation>SmartArt Grafiği Ekle</translation>
+        <translation>WPSArt Grafiği Ekle</translation>
     </message>
     <message>
         <source>Toggle 3-D</source>
@@ -34587,7 +34587,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxShapesGalleryModelItem</name>
     <message>
         <source>Lock Drawing Mode</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Modunu Kilitle</translation>
     </message>
 </context>
 <context>
@@ -34667,11 +34667,11 @@ Please check your system settings and ensure that the temporary directory under 
     <name>SpeakerSp</name>
     <message>
         <source>SAPI - no Voice Tokens found.</source>
-        <translation type="unfinished"/>
+        <translation>SAPI - Ses Belirteci bulunamadı.</translation>
     </message>
     <message>
         <source>SAPI - failed to enumerate Voice Tokens.</source>
-        <translation type="unfinished"/>
+        <translation>Ses Belirteçleri numaralandırılamadı.</translation>
     </message>
     <message>
         <source>SAPI - failed to set voice speed: </source>
@@ -34679,7 +34679,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>SAPI - failed to set Token for Voice.</source>
-        <translation type="unfinished"/>
+        <translation>SAPI - Ses için Belirteç ayarlanamadı.</translation>
     </message>
     <message>
         <source>SAPI - failed to get Voice Token of index: </source>
@@ -34914,7 +34914,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxDlgOfflineManagement</name>
     <message>
         <source>Cache offline key to this computer</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı anahtarı bu bilgisayara önbelleğe al</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -34934,7 +34934,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Import Cache offline key in this computer</source>
-        <translation type="unfinished"/>
+        <translation>Bu bilgisayarda Önbellek çevrimdışı anahtarını içe aktar</translation>
     </message>
     <message>
         <source>&amp;Password</source>
@@ -34942,7 +34942,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Offline login management</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı oturum açma yönetimi</translation>
     </message>
     <message>
         <source>&amp;Sign in</source>
@@ -34950,7 +34950,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İçeri Aktar</translation>
     </message>
     <message>
         <source>Offline state:</source>
