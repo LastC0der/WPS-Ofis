@@ -3692,7 +3692,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Media Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Media Stop</source>
@@ -27902,7 +27902,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"/>
+        <translation>Yürüt</translation>
     </message>
     <message>
         <source>Stop</source>
