@@ -219,7 +219,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>InsertSmartArt.title</source>
-        <translation>Insert a SmartArt Graphic</translation>
+        <translation>WPSArt Grafiği Ekle</translation>
     </message>
     <message>
         <source>WebPreview.content</source>
@@ -1277,7 +1277,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.title</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Dolgusu ve Ana Hat</translation>
     </message>
     <message>
         <source>MediaVol.content</source>
@@ -1327,7 +1327,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
-        <translation type="unfinished"/>
+        <translation>Arka plan alanını işaretleyin ve görüntünün arka planını hızlı ve akıllı bir şekilde kaldırın</translation>
     </message>
     <message>
         <source>PreserveMaster.title</source>
