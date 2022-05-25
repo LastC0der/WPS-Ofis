@@ -2389,7 +2389,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>&amp;Comfirm</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla</translation>
     </message>
     <message>
         <source>The Function is Exclusive functions of enterprise,You don&apos;t have The Authorization</source>
@@ -7348,7 +7348,7 @@ Okuma</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla</translation>
     </message>
     <message>
         <source>Add failed! WaterMark apply range does not match the number of document pages</source>
@@ -15869,11 +15869,11 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfImageNavigator</name>
     <message>
         <source>The page is too large to preview the image. Please zoom out and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa, resmi önizlemek için çok büyük. Lütfen uzaklaştırın ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Preview image failed, please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme resmi başarısız oldu, lütfen yeniden deneyin.</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
@@ -15884,15 +15884,15 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfViewImageNavigator</name>
     <message>
         <source>The page is too large to preview the image. Please zoom out and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa, resmi önizlemek için çok büyük. Lütfen uzaklaştırın ve yeniden deneyin.</translation>
     </message>
     <message>
         <source>Preview image failed, please try again.</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme resmi başarısız oldu, lütfen yeniden deneyin.</translation>
     </message>
     <message>
         <source>&amp;Comfirm</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;nayla</translation>
     </message>
 </context>
 <context>
