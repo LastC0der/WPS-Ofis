@@ -13160,7 +13160,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>In Line With Text</source>
-        <translation type="unfinished"/>
+        <translation>Metinle Aynı Hizaya</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -13872,7 +13872,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Official Paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Paragraf</translation>
     </message>
     <message>
         <source>Inside Vertical Border</source>
@@ -13884,7 +13884,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Official Line Interval: </source>
-        <translation type="unfinished"/>
+        <translation>Resmi Hat Aralığı:</translation>
     </message>
     <message>
         <source>Align Text Thai Distributed</source>
@@ -13892,7 +13892,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>Thai Distributed</source>
@@ -13932,7 +13932,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Font Format</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Biçimi</translation>
     </message>
     <message>
         <source>Center</source>
@@ -15913,7 +15913,7 @@ Painter</source>
     </message>
     <message>
         <source>Official Line Interval: </source>
-        <translation type="unfinished"/>
+        <translation>Resmi Hat Aralığı:</translation>
     </message>
     <message>
         <source>Rotate Style</source>
