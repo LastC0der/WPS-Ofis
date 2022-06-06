@@ -17105,7 +17105,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Smart Align</source>
@@ -18914,7 +18914,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Chart Tools</source>
