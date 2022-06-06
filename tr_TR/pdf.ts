@@ -6317,7 +6317,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>ZoomIn</source>
@@ -8766,7 +8766,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Compress</source>
@@ -10276,7 +10276,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Compress</source>
@@ -11498,7 +11498,7 @@ Görüntüle</translation>
     </message>
     <message>
         <source>Split Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Böl</translation>
     </message>
     <message>
         <source>Print 
