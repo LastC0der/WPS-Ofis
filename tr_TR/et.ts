@@ -42581,7 +42581,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Send pictures</source>
