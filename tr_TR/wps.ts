@@ -19640,7 +19640,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Table Row Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Satır Bağlam Menüsü</translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -19652,7 +19652,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>structure</source>
-        <translation type="unfinished"/>
+        <translation>Yapı</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -19696,7 +19696,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"/>
+        <translation>Karşılaştır</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -19704,7 +19704,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>New Signature</source>
-        <translation type="unfinished"/>
+        <translation>İmza oluşturun</translation>
     </message>
     <message>
         <source>Equation Group Popup Menu</source>
@@ -19712,11 +19712,11 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Split Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Böl</translation>
     </message>
     <message>
         <source>Browse by Objects (Alt+Ctrl+Home)</source>
-        <translation type="unfinished"/>
+        <translation>Nesnelere Göre Gözat (Alt+Ctrl+Home)</translation>
     </message>
     <message>
         <source>Print 
@@ -19945,7 +19945,7 @@ Screen</source>
     </message>
     <message>
         <source>Browse by Objects</source>
-        <translation type="unfinished"/>
+        <translation>Nesnelere Göre Gözat</translation>
     </message>
     <message>
         <source>Paste Special</source>
@@ -20607,7 +20607,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -32088,7 +32088,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDFCompress</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sıkıştır</translation>
     </message>
     <message>
         <source>Proofread</source>
@@ -36305,7 +36305,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"/>
+        <translation>Karşılaştır</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -55509,7 +55509,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Compare</source>
-        <translation type="unfinished"/>
+        <translation>Karşılaştır</translation>
     </message>
     <message>
         <source>Translation</source>
