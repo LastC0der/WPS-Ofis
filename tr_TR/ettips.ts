@@ -1409,9 +1409,9 @@ Writer&apos;da, seçili metni bir tabloya dönüştürmek, metni her virgül, no
     </message>
     <message>
         <source>AutoFilter.content</source>
-        <translation>Seçili hücrelerin süzülmesini etkinleştirin.
+        <translation>Seçili hücrelerin filtrelenmesini etkinleştirin.
 
-Süzme işlemi açıldığında, sütun için bir süzgeç seçmek üzere oku tıklayın.</translation>
+Filtreleme açıldığında, sütun için bir filtre seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>ShowDetail.title</source>
@@ -1427,13 +1427,13 @@ Süzme işlemi açıldığında, sütun için bir süzgeç seçmek üzere oku t�
     </message>
     <message>
         <source>UnhideWindow.content</source>
-        <translation>Pencereyi Gizle özelliği tarafından gizlenmiş tüm pencereleri göster.</translation>
+        <translation>Pencereyi Gizle özelliği tarafından gizlenmiş tüm pencereleri gösterin.</translation>
     </message>
     <message>
         <source>HideWindow.content</source>
-        <translation>Geçerli pencereyi gizle. 
+        <translation>Geçerli pencereyi gizleyin. 
 
-Pencereyi geri getirmek için Göster&apos;i tıklayın.</translation>
+Pencereyi geri getirmek için Göster düğmesine tıklayın.</translation>
     </message>
     <message>
         <source>EvaluateFormula.title</source>
@@ -1453,13 +1453,13 @@ Pencereyi geri getirmek için Göster&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>ReadingLayout.content</source>
-        <translation>Geçerli hücre ile aynı satır veya sütunda bulunan ilgili verileri kontrol etmek için uygundur.
+        <translation>Geçerli hücre ile aynı satır veya sütunda bulunan ilgili verileri kontrol etmek için uygun.
 
 Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Chart.title</source>
-        <translation>Etkileşimli Grafik Ekle</translation>
+        <translation>Grafik Oluştur</translation>
     </message>
     <message>
         <source>What-If Analysis.title</source>
@@ -1468,7 +1468,7 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>WinLossSparkline.content</source>
-        <translation type="unfinished"/>
+        <translation>Mini grafikler tek tek hücrelere yerleştirilen ve her biri seçiminizdeki bir veri satırını temsil eden küçük grafiklerdir.</translation>
     </message>
     <message>
         <source>MergeColumns.content</source>
@@ -1484,11 +1484,11 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>ThickBoxBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>PrintLayout.content</source>
-        <translation>Çalışma kitabını yazdırılan sayfada görüneceği gibi görüntüleyin.</translation>
+        <translation>Çalışma kitabını yazdırılan sayfada görüneceği şekilde görüntüleyin</translation>
     </message>
     <message>
         <source>PrinterCollate.title</source>
@@ -1496,9 +1496,9 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
-        <translation>Align paragraph to both the left and right margins by adding extra space between each two characters for languages with tone mark and vowel mark.
+        <translation>Tonlama işareti ve ünlü işareti kullanılan dillerde iki karakterin arasına fazladan bir boşluk ekleyerek paragrafı hem sol hem de sağ kenar boşluklarına göre hizalayın.
 
-This creates a document with clean look.</translation>
+Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>PivotTableOrder.content</source>
