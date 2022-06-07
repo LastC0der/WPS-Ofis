@@ -36227,7 +36227,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Passowrd:</source>
-        <translation type="unfinished"/>
+        <translation>Parola:</translation>
     </message>
     <message>
         <source>Apply date:</source>
