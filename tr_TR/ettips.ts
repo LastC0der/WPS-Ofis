@@ -2945,7 +2945,9 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>ConvertToRange.content</source>
-        <translation>Bu tabloyu normal bir hücre aralığına dönüştürün.</translation>
+        <translation>Bu tabloyu normal bir hücre aralığına dönüştürün.
+
+Tüm veriler korunur.</translation>
     </message>
     <message>
         <source>ReadingLayout2.title</source>
@@ -2953,7 +2955,7 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>SparklineMarkerColor.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grafik grubu için negatif noktaların, işaretlerin ve diğer tüm noktaların rengini değiştirin.</translation>
     </message>
     <message>
         <source>DeleteRange.title</source>
