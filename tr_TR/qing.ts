@@ -1453,7 +1453,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>ClearAll</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Temizle</translation>
     </message>
     <message>
         <source>Upload failed. Insufficient disk space. Please increase capacity and try again.</source>
