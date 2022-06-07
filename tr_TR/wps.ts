@@ -27010,7 +27010,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Move with text</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Metinle taşı</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -27380,7 +27380,7 @@ Numarası</translation>
     </message>
     <message>
         <source>R&amp;elative to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bağıntı:</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -27444,7 +27444,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Move with text</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Metinle taşı</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -27650,7 +27650,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi metinle &amp;birlikte taşı</translation>
     </message>
     <message>
         <source>%, 1, -1000, 1000, 1</source>
