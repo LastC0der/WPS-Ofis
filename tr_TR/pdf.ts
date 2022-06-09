@@ -976,7 +976,7 @@
     </message>
     <message>
         <source>Please insert content.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen içerik ekleyin.</translation>
     </message>
     <message>
         <source>Insert WaterMark</source>
@@ -1048,7 +1048,7 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Tamam</translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1056,7 +1056,7 @@
     </message>
     <message>
         <source>Please input name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen adı girin</translation>
     </message>
     <message>
         <source>Sure to delete watermark settings</source>
@@ -1064,7 +1064,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>İ&amp;ptal</translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Watermark Settings 1</source>
@@ -1072,7 +1072,7 @@
     </message>
     <message>
         <source>Selected watermark settings does not exist</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen filigran ayarları mevcut değil.</translation>
     </message>
     <message>
         <source>Effect1</source>
