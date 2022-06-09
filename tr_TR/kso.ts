@@ -41213,25 +41213,25 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;make outward doc</source>
-        <translation type="unfinished"/>
+        <translation>Harici Belge Oluştur</translation>
     </message>
 </context>
 <context>
     <name>KxConvertLinkedObjectDlg</name>
     <message>
         <source>A linked object must be converted at the source.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantılı bir nesne, kaynağında dönüştürülmelidir.</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDiagramGallery</name>
     <message>
         <source>Diagram Gallery</source>
-        <translation type="unfinished"/>
+        <translation>Diyagram Galerisi</translation>
     </message>
     <message>
         <source>Select a &amp;diagram type:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diyagram türü seçin:</translation>
     </message>
 </context>
 <context>
