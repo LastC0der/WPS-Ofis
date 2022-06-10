@@ -34863,7 +34863,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -34896,7 +34896,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
