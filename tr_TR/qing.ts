@@ -10366,7 +10366,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upload location</source>
-        <translation type="unfinished"/>
+        <translation>Konuma Yükle</translation>
     </message>
     <message>
         <source>My cloud documents</source>
@@ -10374,7 +10374,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upload to the cloud</source>
-        <translation type="unfinished"/>
+        <translation>Buluta Yükle</translation>
     </message>
     <message>
         <source>Shared folder</source>
@@ -10435,7 +10435,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>receive [$user$]&apos;s share</source>
-        <translation type="unfinished"/>
+        <translation>[$user$] kullanıcısından paylaşım alındı</translation>
     </message>
     <message>
         <source>WPS Office Box</source>
