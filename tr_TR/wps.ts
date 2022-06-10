@@ -36422,7 +36422,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -36882,7 +36882,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -41643,7 +41643,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -49009,7 +49009,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     <name>KxInsertTableRowsDlg</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
