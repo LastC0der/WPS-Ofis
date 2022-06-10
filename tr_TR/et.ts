@@ -12968,7 +12968,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>The input is not a valid number.</source>
