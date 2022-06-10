@@ -1453,12 +1453,13 @@ Uygulamaları onarmak ve varsayılan durumuna geri yüklemek için elimizden gel
     </message>
     <message>
         <source>WPS Office General Repair/Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Genel Onarım/Yapılandırma Araçları</translation>
     </message>
     <message>
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using %1 or make advanced settings here.</source>
-        <translation type="unfinished"/>
+        <translation>
+%1 kullanırken karşılaşılan hataları düzeltebilir veya gelişmiş ayarları buradan yapabilirsiniz.</translation>
     </message>
     <message>
         <source>General Repair/Configuration Tools
@@ -1472,7 +1473,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>%1 General Repair/Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>%1 Genel Onarım/Yapılandırma Araçları</translation>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
@@ -1483,11 +1484,11 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     <name>KPageBackUpClr</name>
     <message>
         <source>No backup files to be cleared.</source>
-        <translation type="unfinished"/>
+        <translation>Temizlenecek yedekleme dosyası yok.</translation>
     </message>
     <message>
         <source>WPS &amp;Spreadsheets Backup Files</source>
-        <translation type="unfinished"/>
+        <translation>WPS &amp;Elektronik Tablolar Yedekleme Dosyaları</translation>
     </message>
     <message>
         <source>Clear Backup Files</source>
