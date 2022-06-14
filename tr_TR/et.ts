@@ -13047,7 +13047,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Left</source>
