@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>Oblique Line</source>
-        <translation type="unfinished"/>
+        <translation>Eğik Çizgi</translation>
     </message>
     <message>
         <source>Close(Reverse)</source>
@@ -306,7 +306,7 @@
     </message>
     <message>
         <source>AllPages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>exp:1,3,5-9</source>
@@ -342,11 +342,11 @@
     </message>
     <message>
         <source>browse</source>
-        <translation type="unfinished"/>
+        <translation>Gözat</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation>yüzde</translation>
+        <translation>Yüzde</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -370,7 +370,7 @@
     </message>
     <message>
         <source>OddPages</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki Tek Sayfalar</translation>
     </message>
     <message>
         <source>waterMark</source>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>&amp;File:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dosya:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -512,7 +512,7 @@
     </message>
     <message>
         <source>AllPages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>ApplyTo</source>
@@ -547,7 +547,7 @@
     </message>
     <message>
         <source>AllPages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>OddPage</source>
@@ -2750,11 +2750,11 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Print out The Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notları Yazdır</translation>
     </message>
     <message>
         <source>Odd pages only</source>
-        <translation type="unfinished"/>
+        <translation>Tek numaralı sayfalar</translation>
     </message>
     <message>
         <source>customScale</source>
@@ -2762,7 +2762,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Document And Notes</source>
@@ -3484,7 +3484,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>browse</source>
-        <translation type="unfinished"/>
+        <translation>Gözat</translation>
     </message>
     <message>
         <source>LineColor:</source>
@@ -4889,7 +4889,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>AllPages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>Keep the original page</source>
@@ -9967,7 +9967,7 @@ Okuma</translation>
     <name>KxPdfReplaceContentUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -9978,7 +9978,7 @@ Okuma</translation>
     </message>
     <message>
         <source>AllPages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>SelectFileName</source>
@@ -12121,7 +12121,7 @@ Pencere</translation>
     </message>
     <message>
         <source>AllPages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>input 5-9 means add watermark in pages from no.5 to no.9</source>
@@ -12153,7 +12153,7 @@ Pencere</translation>
     </message>
     <message>
         <source>OddPages</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki Tek Sayfalar</translation>
     </message>
     <message>
         <source>Please enter a valid page number</source>
@@ -14714,7 +14714,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>AllPages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>input 5-9 means add watermark in pages from no.5 to no.9</source>
@@ -14738,7 +14738,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>OddPages</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki Tek Sayfalar</translation>
     </message>
     <message>
         <source>Please enter a valid page number</source>
@@ -16524,11 +16524,11 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Print out The Notes</source>
-        <translation type="unfinished"/>
+        <translation>Notları Yazdır</translation>
     </message>
     <message>
         <source>Odd pages only</source>
-        <translation type="unfinished"/>
+        <translation>Tek numaralı sayfalar</translation>
     </message>
     <message>
         <source>Portrait</source>
