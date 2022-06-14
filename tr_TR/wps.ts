@@ -17093,7 +17093,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>Save All</source>
@@ -19507,7 +19507,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
@@ -32180,7 +32180,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -34840,7 +34840,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>OneStep Save</source>
