@@ -6645,11 +6645,11 @@ Okuma</translation>
     </message>
     <message>
         <source>FreeText</source>
-        <translation type="unfinished"/>
+        <translation>Daktilo</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -9464,7 +9464,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -14845,7 +14845,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
