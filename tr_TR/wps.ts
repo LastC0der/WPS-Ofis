@@ -42718,7 +42718,7 @@ Modu</translation>
     </message>
     <message>
         <source>No Style</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok</translation>
     </message>
 </context>
 <context>
@@ -42729,7 +42729,7 @@ Modu</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation type="unfinished"/>
+        <translation>Uzaklık</translation>
     </message>
     <message>
         <source>Length</source>
@@ -43889,7 +43889,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulunamadı</translation>
     </message>
     <message>
         <source>MAIL_UNKNOWN_RECIPIENT</source>
