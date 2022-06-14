@@ -17875,7 +17875,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Output &amp;file:</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış &amp;dosyası:</translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
@@ -26297,7 +26297,7 @@ Ortalama</translation>
     <name>KxCustomMessageBoxDialog</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -26331,7 +26331,7 @@ Ortalama</translation>
     <name>KxFloatTipWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Install</source>
@@ -26628,7 +26628,7 @@ Ortalama</translation>
     <name>KxWebextensionQueryWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -32598,7 +32598,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Unable to write</source>
@@ -34775,7 +34775,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Host found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulundu</translation>
     </message>
     <message>
         <source>Removing directory failed:
@@ -34805,7 +34805,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Connection closed</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı kapatıldı</translation>
     </message>
 </context>
 <context>
@@ -35488,7 +35488,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Error closing database</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanı kapatılırken hata oluştu</translation>
     </message>
     <message>
         <source>Error opening database</source>
@@ -35526,11 +35526,11 @@ Please check your system settings and ensure that the temporary directory under 
     <name>QAbstractSocket</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulunamadı</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Connection timed out</source>
@@ -35557,7 +35557,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>QHostInfoAgent</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulunamadı</translation>
     </message>
     <message>
         <source>Unknown address type</source>
@@ -36017,15 +36017,15 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Host found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulundu</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Proxy authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Proxy kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>Unknown protocol specified</source>
@@ -36069,11 +36069,11 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Invalid HTTP response header</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz HTTP yanıt başlığı</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı kapatıldı</translation>
     </message>
     <message>
         <source>No server set to connect to</source>
@@ -36739,14 +36739,14 @@ The settings will take effect after restarting WPS Office.</source>
     <name>KQuickHelpButton</name>
     <message>
         <source>Format Chart Area</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Alanını Biçimlendir</translation>
     </message>
 </context>
 <context>
     <name>KWordArtGalleryModel</name>
     <message>
         <source>No Style</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yok</translation>
     </message>
 </context>
 <context>
