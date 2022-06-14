@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Tab2</source>
@@ -2820,7 +2820,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Output &amp;file:</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış &amp;dosyası:</translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
@@ -6705,7 +6705,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Unable to write</source>
@@ -7539,7 +7539,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Host found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulundu</translation>
     </message>
     <message>
         <source>Removing directory failed:
@@ -7569,7 +7569,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı kapatıldı</translation>
     </message>
 </context>
 <context>
@@ -7878,7 +7878,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Error closing database</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanı kapatılırken hata oluştu</translation>
     </message>
     <message>
         <source>Error opening database</source>
@@ -7897,11 +7897,11 @@ yazılamadı</translation>
     <name>QAbstractSocket</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulunamadı</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Connection timed out</source>
@@ -7928,7 +7928,7 @@ yazılamadı</translation>
     <name>QHostInfoAgent</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulunamadı</translation>
     </message>
     <message>
         <source>Unknown address type</source>
@@ -8240,15 +8240,15 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Host found</source>
-        <translation type="unfinished"/>
+        <translation>Ana bilgisayar bulundu</translation>
     </message>
     <message>
         <source>Connection refused</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı reddedildi</translation>
     </message>
     <message>
         <source>Proxy authentication required</source>
-        <translation type="unfinished"/>
+        <translation>Proxy kimlik doğrulaması gerekiyor</translation>
     </message>
     <message>
         <source>Unknown protocol specified</source>
@@ -8292,11 +8292,11 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Invalid HTTP response header</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz HTTP yanıt başlığı</translation>
     </message>
     <message>
         <source>Connection closed</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı kapatıldı</translation>
     </message>
     <message>
         <source>No server set to connect to</source>
