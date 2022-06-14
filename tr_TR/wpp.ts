@@ -15403,7 +15403,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Document Translate</source>
-        <translation type="unfinished"/>
+        <translation>Belge Çevirisi</translation>
     </message>
     <message>
         <source>Motion Path Segment</source>
