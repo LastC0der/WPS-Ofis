@@ -1552,7 +1552,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>HeaderFooter.title</source>
-        <translation>Üstbilgi ve Altbilgi</translation>
+        <translation>Üst Bilgi/Alt Bilgi</translation>
     </message>
     <message>
         <source>SortDescending.title</source>
