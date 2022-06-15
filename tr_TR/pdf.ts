@@ -7533,7 +7533,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Use Magnifier</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç Kullan</translation>
     </message>
     <message>
         <source>Extraction identification</source>
@@ -7579,7 +7579,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"/>
+        <translation>E-Posta Gönder</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -7651,7 +7651,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Reddet</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -7663,7 +7663,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Last Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Son Görüntülenen</translation>
     </message>
     <message>
         <source>Kingsoft PDF Homepage</source>
