@@ -14705,7 +14705,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Bölüt</translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -14754,11 +14754,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv)</source>
-        <translation type="unfinished"/>
+        <translation>Film Dosyaları (*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv)</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"/>
+        <translation>Bölüt Sil</translation>
     </message>
     <message>
         <source>Search</source>
@@ -14867,7 +14867,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta Ekle</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -16945,7 +16945,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Reddet</translation>
     </message>
     <message>
         <source>Search</source>
@@ -30257,7 +30257,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Reddet</translation>
     </message>
     <message>
         <source>Pending</source>
@@ -35801,7 +35801,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"/>
+        <translation>Tipografi</translation>
     </message>
     <message>
         <source>Position</source>
