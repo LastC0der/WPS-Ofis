@@ -18979,7 +18979,7 @@ tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Remove Accent Character</source>
-        <translation type="unfinished"/>
+        <translation>Aksan Karakterini Kaldır</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -19059,7 +19059,7 @@ tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Align Scripts</source>
-        <translation type="unfinished"/>
+        <translation>Simgeleri Hizala</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
@@ -19127,7 +19127,7 @@ tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Change to Stack Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Yığın Fraksiyonuna Değiştir</translation>
     </message>
     <message>
         <source>Background</source>
@@ -19501,11 +19501,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"/>
+        <translation>E-Posta Gönder</translation>
     </message>
     <message>
         <source>Remove Radical</source>
-        <translation type="unfinished"/>
+        <translation>Kökü Kaldır</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -19531,7 +19531,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Remove Fraction Bar</source>
-        <translation type="unfinished"/>
+        <translation>Kesir Çubuğunu Kaldır</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -19640,7 +19640,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Stretch Brackets</source>
-        <translation type="unfinished"/>
+        <translation>Ayraçları Genişlet</translation>
     </message>
     <message>
         <source>Unfreeze</source>
@@ -19677,7 +19677,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Hide Degree</source>
-        <translation type="unfinished"/>
+        <translation>Dereceyi Gizle</translation>
     </message>
     <message>
         <source>Match Destination Formatting</source>
@@ -19693,7 +19693,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Show Degree</source>
-        <translation type="unfinished"/>
+        <translation>Dereceyi Göster</translation>
     </message>
     <message>
         <source>Table Column to the Right</source>
@@ -19737,7 +19737,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Bölüt</translation>
     </message>
     <message>
         <source>AutoFilterByValue</source>
@@ -19833,7 +19833,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>User Manual</source>
-        <translation type="unfinished"/>
+        <translation>Kullanım Kılavuzu</translation>
     </message>
     <message>
         <source>Data Labels</source>
@@ -19881,7 +19881,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"/>
+        <translation>Bölüt Sil</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -19981,7 +19981,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Format Plot Area</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanını Biçimlendir</translation>
     </message>
     <message>
         <source>Reject Changes</source>
@@ -20054,7 +20054,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta Ekle</translation>
     </message>
     <message>
         <source>Set Proxy</source>
