@@ -2350,7 +2350,7 @@ Check</source>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"/>
+        <translation>Tipografi</translation>
     </message>
     <message>
         <source>Rename Section</source>
@@ -4265,7 +4265,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Ana</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -11782,7 +11782,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Remove Accent Character</source>
-        <translation type="unfinished"/>
+        <translation>Aksan Karakterini Kaldır</translation>
     </message>
     <message>
         <source>Change Background Picture</source>
@@ -11790,7 +11790,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Black Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Karart</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -11798,7 +11798,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Go to Slide</source>
-        <translation type="unfinished"/>
+        <translation>Slayta Git</translation>
     </message>
     <message>
         <source>Reading View</source>
@@ -11862,7 +11862,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Align Scripts</source>
-        <translation type="unfinished"/>
+        <translation>Simgeleri Hizala</translation>
     </message>
     <message>
         <source>Insert Columns Left</source>
@@ -11918,7 +11918,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Change to Stack Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Yığın Fraksiyonuna Değiştir</translation>
     </message>
     <message>
         <source>Background</source>
@@ -12034,7 +12034,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Export as H5</source>
-        <translation type="unfinished"/>
+        <translation>H5 olarak dışa aktar</translation>
     </message>
     <message>
         <source>Change DataLabel Geometry</source>
@@ -12050,7 +12050,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Edit Sound Object</source>
-        <translation type="unfinished"/>
+        <translation>Ses Nesnesini Düzenle</translation>
     </message>
     <message>
         <source>Identify Text in Picture</source>
@@ -12066,7 +12066,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Use Magnifier</source>
-        <translation type="unfinished"/>
+        <translation>Büyüteç Kullan</translation>
     </message>
     <message>
         <source>Reduce Level</source>
@@ -12156,7 +12156,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Stacking Order</source>
-        <translation type="unfinished"/>
+        <translation>Yığma Düzeni</translation>
     </message>
     <message>
         <source>Insert Shape</source>
@@ -12232,11 +12232,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"/>
+        <translation>E-Posta Gönder</translation>
     </message>
     <message>
         <source>Remove Radical</source>
-        <translation type="unfinished"/>
+        <translation>Kökü Kaldır</translation>
     </message>
     <message>
         <source>Duplicate Slide Master</source>
@@ -12248,11 +12248,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Remove Fraction Bar</source>
-        <translation type="unfinished"/>
+        <translation>Kesir Çubuğunu Kaldır</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"/>
+        <translation>Gösteriyi Bitir</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -12260,7 +12260,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Resume Background Music</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Müziğini Sürdür</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -12308,7 +12308,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Stretch Brackets</source>
-        <translation type="unfinished"/>
+        <translation>Ayraçları Genişlet</translation>
     </message>
     <message>
         <source>More Arrows</source>
@@ -12316,11 +12316,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Hide Degree</source>
-        <translation type="unfinished"/>
+        <translation>Dereceyi Gizle</translation>
     </message>
     <message>
         <source>Show Degree</source>
-        <translation type="unfinished"/>
+        <translation>Dereceyi Göster</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -12344,7 +12344,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Bölüt</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -12372,7 +12372,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Ana</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -12420,7 +12420,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>User Manual</source>
-        <translation type="unfinished"/>
+        <translation>Kullanım Kılavuzu</translation>
     </message>
     <message>
         <source>Data Labels</source>
@@ -12440,7 +12440,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"/>
+        <translation>Bölüt Sil</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -12456,7 +12456,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Last Viewed</source>
-        <translation type="unfinished"/>
+        <translation>Son Görüntülenen</translation>
     </message>
     <message>
         <source>All Slides</source>
@@ -12516,11 +12516,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Format Plot Area</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanını Biçimlendir</translation>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"/>
+        <translation>Tipografi</translation>
     </message>
     <message>
         <source>Remove Scripts</source>
@@ -12589,7 +12589,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta Ekle</translation>
     </message>
     <message>
         <source>Set Proxy</source>
@@ -14956,7 +14956,7 @@ Slide</source>
     </message>
     <message>
         <source>End show</source>
-        <translation type="unfinished"/>
+        <translation>Gösteriyi bitir</translation>
     </message>
     <message>
         <source>Diagonal Up Border</source>
@@ -20784,7 +20784,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Ana</translation>
     </message>
     <message>
         <source>New Slide 
@@ -22937,7 +22937,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>End show</source>
-        <translation type="unfinished"/>
+        <translation>Gösteriyi bitir</translation>
     </message>
     <message>
         <source>Ink type</source>
@@ -23913,7 +23913,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"/>
+        <translation>Gösteriyi Bitir</translation>
     </message>
     <message>
         <source>Next slide</source>
@@ -24844,7 +24844,7 @@ Okuma</translation>
     </message>
     <message>
         <source>End show</source>
-        <translation type="unfinished"/>
+        <translation>Gösteriyi bitir</translation>
     </message>
     <message>
         <source>&amp;Play sound:</source>
@@ -25535,7 +25535,7 @@ Düzenleri</translation>
     </message>
     <message>
         <source>Master</source>
-        <translation type="unfinished"/>
+        <translation>Ana</translation>
     </message>
     <message>
         <source>Wide Screen(16:9)</source>
@@ -27352,7 +27352,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Typography</source>
-        <translation type="unfinished"/>
+        <translation>Tipografi</translation>
     </message>
     <message>
         <source>First and last characters</source>
@@ -27424,7 +27424,7 @@ Would you like to open this file?
     </message>
     <message>
         <source>End Show</source>
-        <translation type="unfinished"/>
+        <translation>Gösteriyi Bitir</translation>
     </message>
     <message>
         <source>WPS Presentation cannot be found or start %s. </source>
