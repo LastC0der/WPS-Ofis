@@ -15609,7 +15609,7 @@ Painter</source>
     </message>
     <message>
         <source>Remove Accent Character</source>
-        <translation type="unfinished"/>
+        <translation>Aksan Karakterini Kaldır</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -15697,7 +15697,7 @@ Painter</source>
     </message>
     <message>
         <source>Align Scripts</source>
-        <translation type="unfinished"/>
+        <translation>Simgeleri Hizala</translation>
     </message>
     <message>
         <source>Asian Layout</source>
@@ -15757,7 +15757,7 @@ Painter</source>
     </message>
     <message>
         <source>Change to Stack Fraction</source>
-        <translation type="unfinished"/>
+        <translation>Yığın Fraksiyonuna Değiştir</translation>
     </message>
     <message>
         <source>Background</source>
@@ -16167,11 +16167,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation type="unfinished"/>
+        <translation>E-Posta Gönder</translation>
     </message>
     <message>
         <source>Remove Radical</source>
-        <translation type="unfinished"/>
+        <translation>Kökü Kaldır</translation>
     </message>
     <message>
         <source>Draw Diagonal Line in Cell</source>
@@ -16189,7 +16189,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Remove Fraction Bar</source>
-        <translation type="unfinished"/>
+        <translation>Kesir Çubuğunu Kaldır</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -16318,7 +16318,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Stretch Brackets</source>
-        <translation type="unfinished"/>
+        <translation>Ayraçları Genişlet</translation>
     </message>
     <message>
         <source>Keep Source Formating Paste</source>
@@ -16334,7 +16334,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Hide Degree</source>
-        <translation type="unfinished"/>
+        <translation>Dereceyi Gizle</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -16342,7 +16342,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Degree</source>
-        <translation type="unfinished"/>
+        <translation>Dereceyi Göster</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -16394,7 +16394,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Curved Segment</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Bölüt</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -16506,7 +16506,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>User Manual</source>
-        <translation type="unfinished"/>
+        <translation>Kullanım Kılavuzu</translation>
     </message>
     <message>
         <source>Data Labels</source>
@@ -16535,7 +16535,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Delete Segment</source>
-        <translation type="unfinished"/>
+        <translation>Bölüt Sil</translation>
     </message>
     <message>
         <source>Select</source>
@@ -16607,7 +16607,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Format Plot Area</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Alanını Biçimlendir</translation>
     </message>
     <message>
         <source>Remove Scripts</source>
@@ -16679,7 +16679,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Add Point</source>
-        <translation type="unfinished"/>
+        <translation>Nokta Ekle</translation>
     </message>
     <message>
         <source>Set Proxy</source>
@@ -36182,7 +36182,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Reddet</translation>
     </message>
     <message>
         <source>Review</source>
@@ -55400,7 +55400,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Reddet</translation>
     </message>
     <message>
         <source>Comments</source>
