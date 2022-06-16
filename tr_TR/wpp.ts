@@ -6059,7 +6059,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Body: Appear</source>
-        <translation type="unfinished"/>
+        <translation>Gövde: Görünüş</translation>
     </message>
     <message>
         <source>orange waves</source>
@@ -6068,7 +6068,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>No Animation</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY2</comment>
-        <translation type="unfinished"/>
+        <translation>Animasyon Yok</translation>
     </message>
     <message>
         <source>Body: Ascend</source>
@@ -6378,7 +6378,7 @@ Body: Peek In</source>
     </message>
     <message>
         <source>Title Only</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Başlık</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:
@@ -6392,7 +6392,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE_TIP</comment>
-        <translation type="unfinished"/>
+        <translation>Animasyon Yok</translation>
     </message>
     <message>
         <source>Title Master</source>
@@ -7497,7 +7497,7 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>Body: Appear</source>
         <comment>WP_ANIMATIONTYPE_APPEAR_TIP</comment>
-        <translation type="unfinished"/>
+        <translation>Gövde: Görünüş</translation>
     </message>
     <message>
         <source>stationery</source>
@@ -7556,12 +7556,13 @@ Resimleri sıkıştırmanın resimlerinizin kalitesini düşürebileceğini unut
     </message>
     <message>
         <source>curtain background</source>
-        <translation type="unfinished"/>
+        <translation>perde arka planı</translation>
     </message>
     <message>
         <source>Title: Dissolve In
 Body: Dissolve In</source>
-        <translation type="unfinished"/>
+        <translation>Başlık: Dağılarak Giriş
+Gövde: Dağılarak Giriş</translation>
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
@@ -7583,34 +7584,37 @@ Body: Dissolve In</source>
     </message>
     <message>
         <source>No Animation</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon Yok</translation>
     </message>
     <message>
         <source>Header Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi Yer Tutucusu</translation>
     </message>
     <message>
         <source>Footer Placeholder</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bilgi Yer Tutucusu</translation>
     </message>
     <message>
         <source>Click to edit Master text styles</source>
-        <translation type="unfinished"/>
+        <translation>Asıl metin stillerini düzenlemek için tıklayın</translation>
     </message>
     <message>
         <source>Title and Content over Text</source>
-        <translation type="unfinished"/>
+        <translation>Başlık ve Metin Üzerinde İçerik</translation>
     </message>
     <message>
         <source>The following features of your presentation are not going to be saved in HTML format:
 
 </source>
-        <translation type="unfinished"/>
+        <translation>Sununuzun aşağıdaki özellikleri HTML biçiminde kaydedilmeyecek:
+
+</translation>
     </message>
     <message>
         <source>Title: Zoom
 Body: Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Başlık: Yakınlaştır
+Gövde: Yakınlaştır</translation>
     </message>
     <message>
         <source>Subtitle</source>
@@ -7656,7 +7660,7 @@ Body: Unfold</source>
     </message>
     <message>
         <source>Set Hidden Object</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Nesneyi Ayarla</translation>
     </message>
     <message>
         <source>Slide Transition: Uncover Right-Down
@@ -25787,7 +25791,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Slide Image Placeholder</source>
-        <translation>Slayt Resmi Yer Tutucusu</translation>
+        <translation>Slayt Resmi</translation>
     </message>
     <message>
         <source>Custom color</source>
