@@ -16643,7 +16643,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>WPS Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Exit Edit Point</source>
@@ -16655,7 +16655,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Edit Field</source>
-        <translation type="unfinished"/>
+        <translation>Alanı Düzenle</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -22762,7 +22762,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Edit Field</source>
-        <translation type="unfinished"/>
+        <translation>Alanı Düzenle</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -25897,7 +25897,7 @@ Böl</translation>
     </message>
     <message>
         <source>WPS Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Options</source>
