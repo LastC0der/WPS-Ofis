@@ -24798,7 +24798,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the number of rows in a reference or array.</source>
-        <translation type="unfinished"/>
+        <translation>Bir başvuru ya da dizideki satır sayısını verir.</translation>
     </message>
     <message>
         <source>GCD(number1,number2,...)</source>
@@ -24810,7 +24810,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns an array of random numbers.</source>
-        <translation type="unfinished"/>
+        <translation>Bir rastgele sayı dizisini döndürür.</translation>
     </message>
     <message>
         <source>NEGBINOMDIST(number_f,number_s,probability_s)</source>
@@ -24886,11 +24886,11 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Converts a hexadecimal number to decimal.</source>
-        <translation type="unfinished"/>
+        <translation>Onaltılık düzendeki bir sayıyı onluk düzene çevirir.</translation>
     </message>
     <message>
         <source>Returns the cosine of a complex number in x + yi or x + yj text format.</source>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçiminde karmaşık sayının kosinüsünü verir.</translation>
     </message>
     <message>
         <source>WEEKDAY(serial_number,return_type)</source>
@@ -24898,7 +24898,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population (ignores logical values and text).</source>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişkenler olarak verilen tüm popülasyonu temel alarak standart sapmayı hesaplar (mantıksal değerleri ve metni yoksayar).</translation>
     </message>
     <message>
         <source>Returns the inverse of the left-tailed probability of the chi-squared distribution.</source>
@@ -24906,7 +24906,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
-        <translation type="unfinished"/>
+        <translation>Radyan cinsinden ifade edilen bir açı olan θ(teta) bağımsız değişkenini döndürür.</translation>
     </message>
     <message>
         <source>WORKBOOK.COPY(name_array, dest_book, position_num)</source>
@@ -24918,7 +24918,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the result of a number raised to a power.</source>
-        <translation type="unfinished"/>
+        <translation>Üssü alınmış sayının sonucunu verir.</translation>
     </message>
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
@@ -26394,7 +26394,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population. Doesn&apos;t ignore logical values and text.</source>
-        <translation>Tüm popülasyonun standart sapmasını hesaplar. Mantıksal değerleri ve metinleri yoksaymaz.</translation>
+        <translation>Bağımsız değişkenler olarak verilen tüm popülasyonu temel alarak standart sapmayı hesaplar. Mantıksal değerleri ve metni yok saymaz.</translation>
     </message>
     <message>
         <source>COLUMN(reference)</source>
