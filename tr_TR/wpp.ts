@@ -25271,7 +25271,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>AnimationPainter</source>
-        <translation type="unfinished"/>
+        <translation>Animasyon Boyacısı</translation>
     </message>
     <message>
         <source>Delete All Animations from Presentation</source>
@@ -25323,7 +25323,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>EffectOptions</source>
-        <translation type="unfinished"/>
+        <translation>Efekt Seçenekleri</translation>
     </message>
     <message>
         <source>Speed and sound</source>
@@ -26506,7 +26506,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol Listesi</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -26931,7 +26931,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol Listesi</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -26947,7 +26947,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Toggle Button</source>
-        <translation type="unfinished"/>
+        <translation>İki Durumlu Düğme</translation>
     </message>
 </context>
 <context>
@@ -34737,7 +34737,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>EffectOptions</source>
-        <translation type="unfinished"/>
+        <translation>Efekt Seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -34805,7 +34805,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Controls List</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol Listesi</translation>
     </message>
     <message>
         <source>Check Box</source>
