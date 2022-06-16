@@ -47453,11 +47453,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgWorksheetRename</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ad</translation>
     </message>
     <message>
         <source>Rename Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Yeniden Adlandır</translation>
     </message>
 </context>
 <context>
@@ -47496,7 +47496,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ErrorType</source>
-        <translation type="unfinished"/>
+        <translation>Hata Türü</translation>
     </message>
     <message>
         <source>&amp;Option...</source>
@@ -47519,11 +47519,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"/>
+        <translation>Yine de açmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir dosya açarsanız, geçerli dosyadaki düzenlemeleriniz ortadan kalkar:</translation>
     </message>
     <message>
         <source>&amp;Return</source>
@@ -47538,7 +47538,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"/>
+        <translation>Göster:</translation>
     </message>
     <message>
         <source>&amp;Show:</source>
@@ -47550,7 +47550,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Tablolar</translation>
     </message>
     <message>
         <source>All Connections</source>
@@ -47558,11 +47558,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Connections</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bağlantılar</translation>
     </message>
     <message>
         <source>&amp;Tables</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tablolar</translation>
     </message>
     <message>
         <source>Select a &amp;Connection:</source>
