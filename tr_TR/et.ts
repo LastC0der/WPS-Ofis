@@ -16413,7 +16413,7 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>Below Average</source>
-        <translation type="unfinished"/>
+        <translation>Ortalamanın Altında</translation>
     </message>
     <message>
         <source>After</source>
@@ -51011,7 +51011,7 @@ Item Labels</source>
     </message>
     <message>
         <source>E&amp;mbedFont</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eklenmiş Yazı Tipi</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
