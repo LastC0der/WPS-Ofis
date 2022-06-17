@@ -39694,7 +39694,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar ve Kenarlıklar</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -39706,7 +39706,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Outlining</source>
-        <translation type="unfinished"/>
+        <translation>Anahat Çıkarma</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -46331,7 +46331,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Top Left Corner</source>
-        <translation type="unfinished"/>
+        <translation>Sol Üst Köşe</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
