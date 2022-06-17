@@ -2666,7 +2666,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -21232,7 +21232,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>E&amp;mbedFont</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eklenmiş Yazı Tipi</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
