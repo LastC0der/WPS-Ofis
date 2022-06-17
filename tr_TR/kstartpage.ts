@@ -1463,7 +1463,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Calendar</source>
-        <translation>Takvim</translation>
+        <translation>Resimden Metne</translation>
     </message>
     <message>
         <source>Documents</source>
