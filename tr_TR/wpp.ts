@@ -8869,7 +8869,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Top Left Corner</source>
-        <translation type="unfinished"/>
+        <translation>Sol Üst Köşe</translation>
     </message>
     <message>
         <source>&amp;Vertical position</source>
@@ -14831,7 +14831,7 @@ Slide</source>
     </message>
     <message>
         <source>More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlar</translation>
     </message>
     <message>
         <source>Delete All Notes</source>
@@ -16976,7 +16976,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlar</translation>
     </message>
     <message>
         <source>New Slide Online</source>
@@ -24106,7 +24106,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Top left corner</source>
-        <translation type="unfinished"/>
+        <translation>Sol üst köşe</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
@@ -24133,7 +24133,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Printing Order</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma Sırası</translation>
     </message>
     <message>
         <source>Frame Slides</source>
@@ -24166,7 +24166,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Print Hidden Slides</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Slaytları Yazdır</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
@@ -24356,7 +24356,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Resme Aktar</translation>
     </message>
     <message>
         <source>Export as Images</source>
@@ -24364,7 +24364,7 @@ Aktar</translation>
     </message>
     <message>
         <source>More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlar</translation>
     </message>
     <message>
         <source>AutoBackup</source>
@@ -24666,15 +24666,15 @@ Aktar</translation>
     </message>
     <message>
         <source>Split Cell</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Böl</translation>
     </message>
     <message>
         <source>Cell Size</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Boyutu</translation>
     </message>
     <message>
         <source>Edit Table</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Düzenle</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -24793,7 +24793,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Tables and Borders</source>
-        <translation type="unfinished"/>
+        <translation>Tablolar ve Kenarlıklar</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -25513,7 +25513,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>More Templates</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Şablonlar</translation>
     </message>
     <message>
         <source>Import Templates</source>
@@ -26573,7 +26573,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Print hidden slides</source>
-        <translation type="unfinished"/>
+        <translation>Gizli slaytları yazdır</translation>
     </message>
 </context>
 <context>
@@ -34391,7 +34391,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Print Hidden Slides</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Slaytları Yazdır</translation>
     </message>
     <message>
         <source>Pure Black and White</source>
