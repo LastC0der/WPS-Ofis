@@ -595,7 +595,7 @@
     </message>
     <message>
         <source>Angl&amp;e</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Açı</translation>
     </message>
     <message>
         <source>AsFill</source>
@@ -877,11 +877,11 @@
     </message>
     <message>
         <source>Type Of Begin Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç ​​Ok Türü</translation>
     </message>
     <message>
         <source>Angl&amp;e</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Açı</translation>
     </message>
     <message>
         <source>Gradient Linear</source>
@@ -34382,7 +34382,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>E-mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-posta:</translation>
     </message>
     <message>
         <source>----please choose the type of your problem-----</source>
@@ -37770,7 +37770,7 @@ Parola koruması ve belge izinleri geçersiz hale gelecek.</translation>
     <name>KxDlgMailFeedBack</name>
     <message>
         <source>E-Mail*:</source>
-        <translation type="unfinished"/>
+        <translation>E-posta*:</translation>
     </message>
     <message>
         <source>WPS Office operating process not smoothly</source>
