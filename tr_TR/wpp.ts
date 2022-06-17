@@ -1194,11 +1194,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Below(&amp;B)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aşağıda</translation>
     </message>
     <message>
         <source>Below(&amp;N)</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;şağıda</translation>
     </message>
     <message>
         <source>Select Slide</source>
@@ -1305,7 +1305,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>ICON</source>
@@ -1417,7 +1417,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>E&amp;mbedFont</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eklenmiş Yazı Tipi</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -1441,7 +1441,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
-        <translation type="unfinished"/>
+        <translation>Slayt numaralarını veya aralıklarını girin. Örneğin, 1,3,5-12</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
@@ -1524,7 +1524,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>ICON</source>
@@ -1656,7 +1656,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
-        <translation type="unfinished"/>
+        <translation>Slayt numaralarını veya aralıklarını girin. Örneğin, 1,3,5-12</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
@@ -2093,7 +2093,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Show(*.ppsx)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Gösterisi(*.ppsx)</translation>
     </message>
     <message>
         <source>Numbering</source>
