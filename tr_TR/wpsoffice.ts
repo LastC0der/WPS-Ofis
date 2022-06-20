@@ -6725,7 +6725,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>Network error</source>
@@ -7905,15 +7905,15 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>Socket is not connected</source>
-        <translation type="unfinished"/>
+        <translation>Yuva bağlı değil</translation>
     </message>
     <message>
         <source>Socket operation timed out</source>
-        <translation type="unfinished"/>
+        <translation>Yuva işlemi zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>Network unreachable</source>
@@ -7932,7 +7932,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>Unknown address type</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen adres türü</translation>
     </message>
     <message>
         <source>Unknown error</source>
