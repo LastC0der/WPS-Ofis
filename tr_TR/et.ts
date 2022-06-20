@@ -15795,7 +15795,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>For&amp;mula:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Formül:</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -15803,7 +15803,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>&amp;Fields:</source>
