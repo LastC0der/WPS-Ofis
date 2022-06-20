@@ -25406,7 +25406,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>Appl&amp;y to All</source>
-        <translation type="unfinished"/>
+        <translation>Tü&amp;müne Uygula</translation>
     </message>
 </context>
 <context>
