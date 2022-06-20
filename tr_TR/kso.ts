@@ -2764,7 +2764,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -14014,7 +14014,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değiştir</translation>
     </message>
     <message>
         <source>Document Issuing date</source>
@@ -14642,7 +14642,7 @@ Ekle</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -15424,7 +15424,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -15440,7 +15440,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
-        <translation type="unfinished"/>
+        <translation>DVD Video Dosyası(*.vob)</translation>
     </message>
     <message>
         <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
@@ -15544,7 +15544,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>*.mp4;*.mp4v</source>
-        <translation type="unfinished"/>
+        <translation>*.mp4;*.mp4v</translation>
     </message>
     <message>
         <source>This object is damaged or cannot be used anymore.</source>
@@ -15584,7 +15584,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Computer Graphics Metafile(*.cgm)|*.cgm</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayar Grafikleri Meta Dosyası(*.cgm)|*.cgm</translation>
     </message>
     <message>
         <source>Adobe Falsh Media (*.flv;*.f4v)</source>
@@ -15596,7 +15596,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Change Freeform Point</source>
-        <translation type="unfinished"/>
+        <translation>Serbest Form Noktasını Değiştir</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -26354,7 +26354,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>&amp;Modify Image</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Resmi Değiştir</translation>
     </message>
     <message>
         <source>&amp;Insert Picture...</source>
@@ -34617,23 +34617,23 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>The protocol `%1&apos; does not support removing files or directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü, dosyaların veya dizinlerin kaldırılmasını desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support putting files</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dosya yerleştirmeyi desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; is not supported</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü desteklenmiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support copying or moving files or directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü, dosyaların veya dizinlerin kopyalanmasını veya taşınmasını desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support creating new directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü yeni dizinler oluşturmayı desteklemiyor</translation>
     </message>
 </context>
 <context>
