@@ -7412,23 +7412,23 @@ yazılamadı</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support removing files or directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü, dosyaların veya dizinlerin kaldırılmasını desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support putting files</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü dosya yerleştirmeyi desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; is not supported</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü desteklenmiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support copying or moving files or directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü, dosyaların veya dizinlerin kopyalanmasını veya taşınmasını desteklemiyor</translation>
     </message>
     <message>
         <source>The protocol `%1&apos; does not support creating new directories</source>
-        <translation type="unfinished"/>
+        <translation>`%1&apos; protokolü yeni dizinler oluşturmayı desteklemiyor</translation>
     </message>
 </context>
 <context>
