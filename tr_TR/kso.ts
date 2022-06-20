@@ -32618,7 +32618,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>Network error</source>
@@ -35507,19 +35507,19 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxDlgSaveEncryptedFile</name>
     <message>
         <source>The current document does not support account encryption.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belge biçimi, hesap şifrelemeyi desteklemiyor.</translation>
     </message>
     <message>
         <source>Create crypto</source>
-        <translation type="unfinished"/>
+        <translation>Şifreleme Oluştur</translation>
     </message>
     <message>
         <source>Save document</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyi kaydet</translation>
     </message>
     <message>
         <source>Save current</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli olanı kaydet</translation>
     </message>
 </context>
 <context>
@@ -35534,15 +35534,15 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>Socket is not connected</source>
-        <translation type="unfinished"/>
+        <translation>Yuva bağlı değil</translation>
     </message>
     <message>
         <source>Socket operation timed out</source>
-        <translation type="unfinished"/>
+        <translation>Yuva işlemi zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>Network unreachable</source>
@@ -35561,7 +35561,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Unknown address type</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen adres türü</translation>
     </message>
     <message>
         <source>Unknown error</source>
