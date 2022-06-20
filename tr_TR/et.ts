@@ -16098,7 +16098,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Boş Hücreleri Doldur</translation>
     </message>
     <message>
         <source>The selected area belongs to a protected worksheet, please select again.</source>
@@ -17875,7 +17875,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Harfi Sırası</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -17951,7 +17951,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Boş Hücreleri Doldur</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
@@ -18963,7 +18963,7 @@ tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Harfi Sırası</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -19327,7 +19327,7 @@ tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Boş Hücreleri Doldur</translation>
     </message>
     <message>
         <source>Extract all pictures in the document</source>
@@ -34475,7 +34475,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Harfi Sırası</translation>
     </message>
     <message>
         <source>Advance Split</source>
@@ -34507,7 +34507,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Boş Hücreleri Doldur</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -37919,7 +37919,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Dolgu</translation>
     </message>
     <message>
         <source>Form</source>
@@ -37948,7 +37948,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Harfi Sırası</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -37986,7 +37986,7 @@ Vurgula</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Boş Hücreleri Doldur</translation>
     </message>
     <message>
         <source>Import 
