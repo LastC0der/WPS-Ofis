@@ -4184,7 +4184,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygulama yeri:</translation>
     </message>
 </context>
 <context>
@@ -6956,7 +6956,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygulama yeri:</translation>
     </message>
     <message>
         <source>Text flow</source>
@@ -35325,7 +35325,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygulama yeri:</translation>
     </message>
     <message>
         <source>&amp;Continue from previous section</source>
@@ -44382,7 +44382,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>All styles</source>
-        <translation type="unfinished"/>
+        <translation>Tüm stiller</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -45633,7 +45633,7 @@ Kayıt</translation>
     <name>KxCombineCharactersDlg</name>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation type="unfinished"/>
+        <translation>Değer 1 ile 16838 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>What you entered is invalid.</source>
@@ -45663,7 +45663,7 @@ Kayıt</translation>
     <name>KxDlgTextDirection</name>
     <message>
         <source>&amp;Orientation </source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yönlendirme</translation>
     </message>
     <message>
         <source>Text direction</source>
@@ -45675,7 +45675,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uygulama yeri:</translation>
     </message>
 </context>
 <context>
@@ -45686,7 +45686,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Table Setting</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Ayarı</translation>
     </message>
     <message>
         <source>Update Table...</source>
@@ -45956,7 +45956,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>All styles</source>
-        <translation type="unfinished"/>
+        <translation>Tüm stiller</translation>
     </message>
 </context>
 <context>
@@ -46879,7 +46879,7 @@ Kayıt</translation>
     <name>KxWpsContentButtonMgr</name>
     <message>
         <source>Table Setting</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Ayarı</translation>
     </message>
     <message>
         <source>Picture</source>
