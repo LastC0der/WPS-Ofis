@@ -17879,7 +17879,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zellikler</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -25981,7 +25981,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"/>
+        <translation>İç</translation>
     </message>
     <message>
         <source>Major type</source>
@@ -26004,7 +26004,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Le&amp;ft</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;ol</translation>
     </message>
     <message>
         <source>&amp;Bubble Size</source>
@@ -26028,7 +26028,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Value</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değer</translation>
     </message>
     <message>
         <source>Label Contains</source>
