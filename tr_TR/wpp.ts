@@ -28642,7 +28642,7 @@ Gizle</translation>
     </message>
     <message>
         <source>My Favorite</source>
-        <translation>Benim Favorim</translation>
+        <translation>Sık Kullanılanım</translation>
     </message>
     <message>
         <source>Local Templates</source>
