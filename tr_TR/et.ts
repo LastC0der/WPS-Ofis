@@ -13752,7 +13752,7 @@ hücreler turuncu arka planda ayarlanacaktır.
     </message>
     <message>
         <source>Page &amp;P</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa &amp;P</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
@@ -50555,7 +50555,8 @@ prior to sharing the workbook.</source>
     <message>
         <source>Export Filter 
 Result</source>
-        <translation type="unfinished"/>
+        <translation>Filtre Sonucunu 
+Dışa Aktar</translation>
     </message>
     <message>
         <source>AutoFilter View</source>
@@ -50567,11 +50568,11 @@ Result</source>
     </message>
     <message>
         <source>Favorite</source>
-        <translation type="unfinished"/>
+        <translation>Sık Kullanılan</translation>
     </message>
     <message>
         <source>Export Data</source>
-        <translation type="unfinished"/>
+        <translation>Verileri Dışarı Aktar</translation>
     </message>
     <message>
         <source>Color Settings</source>
@@ -50579,11 +50580,11 @@ Result</source>
     </message>
     <message>
         <source>Add Favorite</source>
-        <translation type="unfinished"/>
+        <translation>Sık Kullanılan Ekle</translation>
     </message>
     <message>
         <source>Lock Title</source>
-        <translation type="unfinished"/>
+        <translation>Başlığı Kilitle</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -50598,12 +50599,17 @@ SQL State: %2
 Error: %3
 %4
 </source>
-        <translation type="unfinished"/>
+        <translation>%1)
+SQL Durum Kodu: %2
+Hata Kodu: %3
+%4
+</translation>
     </message>
     <message>
         <source>Connection error:
 </source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı hatası:
+</translation>
     </message>
 </context>
 <context>
@@ -50622,7 +50628,7 @@ Error: %3
     </message>
     <message>
         <source>already exists in this location. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>bu konumda zaten var. Değiştirmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -50630,7 +50636,7 @@ Error: %3
     </message>
     <message>
         <source>Automation Servers</source>
-        <translation type="unfinished"/>
+        <translation>Otomasyon Sunucuları</translation>
     </message>
     <message>
         <source>A file named </source>
@@ -50642,7 +50648,7 @@ Error: %3
     </message>
     <message>
         <source>is an invalid add-ins.</source>
-        <translation type="unfinished"/>
+        <translation>geçersiz bir eklentidir.</translation>
     </message>
     <message>
         <source>&quot;, do you want to delete it from the list?</source>
@@ -50650,7 +50656,7 @@ Error: %3
     </message>
     <message>
         <source>already exists in this location, or it is an invalid add-ins.</source>
-        <translation type="unfinished"/>
+        <translation>bu konumda zaten var veya geçersiz bir eklenti.</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -50658,7 +50664,7 @@ Error: %3
     </message>
     <message>
         <source>Cannot find the Add-Ins.</source>
-        <translation type="unfinished"/>
+        <translation>Eklentiler bulunamıyor.</translation>
     </message>
 </context>
 <context>
@@ -50669,11 +50675,11 @@ Error: %3
     </message>
     <message>
         <source>Shapes, textboxes without outline, fill, effect, or text; or pictures of 0 height/width</source>
-        <translation type="unfinished"/>
+        <translation>Resimlerin, şekillerin ve metin kutularının genişliği ve yüksekliği 0&apos;dır veya satır, dolgu, efekt veya metin içermez.</translation>
     </message>
     <message>
         <source>Hidden content in file might cause the page to become slow. The following items have been automatically reduced:</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırma tamamlandı. Elektronik Tablonun yavaş çalışmasına neden olan gizli içeriği ve yinelenen stilleri temizledik. Veriler ve formüller etkilenmeyecektir. Detaylar aşağıdaki gibidir:</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -50685,15 +50691,15 @@ Error: %3
     </message>
     <message>
         <source>Duplicate styles</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen stiller</translation>
     </message>
     <message>
         <source>Items cleared</source>
-        <translation type="unfinished"/>
+        <translation>Tutar</translation>
     </message>
     <message>
         <source>Empty Cells</source>
-        <translation type="unfinished"/>
+        <translation>Boş Hücreler</translation>
     </message>
     <message>
         <source>Hidden Shapes</source>
@@ -50720,7 +50726,7 @@ Error: %3
     </message>
     <message>
         <source>P&amp;roperties...</source>
-        <translation type="unfinished"/>
+        <translation>Özelli&amp;kler...</translation>
     </message>
     <message>
         <source>Import Data</source>
@@ -61573,7 +61579,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Favorite</source>
-        <translation type="unfinished"/>
+        <translation>Sık Kullanılan</translation>
     </message>
     <message>
         <source>Color Settings</source>
@@ -61581,11 +61587,11 @@ Okuma</translation>
     </message>
     <message>
         <source>Add Favorite</source>
-        <translation type="unfinished"/>
+        <translation>Sık Kullanılan Ekle</translation>
     </message>
     <message>
         <source>Lock Title</source>
-        <translation type="unfinished"/>
+        <translation>Başlığı Kilitle</translation>
     </message>
 </context>
 <context>
