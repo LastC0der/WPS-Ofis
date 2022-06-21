@@ -5528,7 +5528,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"/>
+        <translation>İç</translation>
     </message>
     <message>
         <source>Unit: %s</source>
@@ -10702,7 +10702,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"/>
+        <translation>İç</translation>
     </message>
     <message>
         <source>&amp;Outside</source>
@@ -26966,7 +26966,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"/>
+        <translation>İç</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -27396,7 +27396,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"/>
+        <translation>İç</translation>
     </message>
     <message>
         <source>Relati&amp;ve to:</source>
@@ -27566,7 +27566,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"/>
+        <translation>İç</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -35285,11 +35285,11 @@ Aktar</translation>
     </message>
     <message>
         <source>Page numbering</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa numaralandırma</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translation type="unfinished"/>
+        <translation>İç</translation>
     </message>
     <message>
         <source>Middle</source>
