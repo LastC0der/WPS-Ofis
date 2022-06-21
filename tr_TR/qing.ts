@@ -3401,7 +3401,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;zellikler</translation>
     </message>
     <message>
         <source>Preview</source>
