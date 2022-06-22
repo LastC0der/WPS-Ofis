@@ -6012,7 +6012,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Dark Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Yatay</translation>
     </message>
     <message>
         <source>Business Phone</source>
@@ -12618,7 +12618,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13196,7 +13196,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Change Points</source>
@@ -17697,7 +17697,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -48223,7 +48223,9 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>You are saving an old-format document as a new format.
 
 While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
-        <translation type="unfinished"/>
+        <translation>You are saving an old-format document as a new format.
+
+While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</translation>
     </message>
     <message>
         <source>Save as a new format</source>
@@ -49561,7 +49563,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -53370,7 +53372,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Change Points</source>
