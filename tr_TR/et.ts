@@ -21072,7 +21072,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -36593,7 +36593,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -39508,7 +39508,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -58837,7 +58837,7 @@ Taşı</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -59956,7 +59956,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
