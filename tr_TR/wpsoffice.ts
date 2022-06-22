@@ -1434,7 +1434,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"/>
+        <translation>Boş Belge</translation>
     </message>
     <message>
         <source>WPS have no access to the ﬁle</source>
@@ -3481,7 +3481,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"/>
+        <translation>Boş Belge</translation>
     </message>
     <message>
         <source>Blank Spreadsheets</source>
