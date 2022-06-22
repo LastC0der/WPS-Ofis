@@ -9249,7 +9249,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -9745,7 +9745,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13434,7 +13434,7 @@ Template</source>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekilleri Değiştir</translation>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -21834,7 +21834,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Organization Chart Layout</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması Düzeni</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -30555,7 +30555,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -33138,7 +33138,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Organization Chart Layout</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Şeması Düzeni</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -33915,7 +33915,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekli Değiştir</translation>
     </message>
     <message>
         <source>Vertical</source>
