@@ -2265,7 +2265,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>---Search Selection---</source>
-        <translation type="unfinished"/>
+        <translation>---Seçimi Ara---</translation>
     </message>
     <message>
         <source>New Document</source>
@@ -2290,7 +2290,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"/>
+        <translation>Boş Belge</translation>
     </message>
     <message>
         <source>Tab list</source>
@@ -2499,11 +2499,11 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection. Please select an existing sheet or unprotect this book.</source>
-        <translation type="unfinished"/>
+        <translation>Bu kitap koruma altında olduğundan Özet Tablo yeni bir sayfada oluşturulamaz. Lütfen mevcut bir sayfa seçin veya bu kitabın korumasını kaldırın.</translation>
     </message>
     <message>
         <source>Insert the contents of the file as an object into your presentation so that you can activate it using the application that created it.</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturan uygulamayla etkinleştirilebilmesi için dosya içeriğini sunuya nesne olarak ekleyin.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -2621,7 +2621,7 @@ please consult the IT department of your company, or call WPS customer service: 
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
         <comment>kso_sWpsInsertAsIcon</comment>
-        <translation type="unfinished"/>
+        <translation>Belgenize dosyanın içeriğini temsil eden bir simge ekleyin.</translation>
     </message>
     <message>
         <source>Bengali;Gurmukhi;Gujarati;Oriya;Tamil;Telugu;Kannada;Malayalam;Thai;Lao;Basic Georgian;Hangul Jamo;Latin Extended Additional;Greek Extended;General Punctuation;Subscripts and Superscripts;</source>
@@ -2629,7 +2629,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Dark horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Koyu yatay</translation>
     </message>
     <message>
         <source>As eighths (%s)</source>
@@ -2657,7 +2657,7 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Bottom (Curve)</source>
-        <translation type="unfinished"/>
+        <translation>Alt (Eğri)</translation>
     </message>
     <message>
         <source>New Command</source>
@@ -2748,11 +2748,11 @@ please consult the IT department of your company, or call WPS customer service: 
     </message>
     <message>
         <source>Value should not be greater than %d.</source>
-        <translation type="unfinished"/>
+        <translation>Değer %d&apos;den büyük olmamalıdır.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document.</source>
-        <translation type="unfinished"/>
+        <translation>Belgenize dosyanın içeriğini temsil eden bir simge ekleyin.</translation>
     </message>
     <message>
         <source>Dotted grid</source>
@@ -2773,7 +2773,8 @@ please consult the IT department of your company, or call WPS customer service: 
     <message>
         <source>Target Diagram
 Used to show steps toward a goal</source>
-        <translation type="unfinished"/>
+        <translation>Hedef Diyagram
+Amaca ulaşan adımları göstermek için kullanılır</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -29133,7 +29134,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Used to show steps toward a goal</source>
-        <translation type="unfinished"/>
+        <translation>Amaca ulaşan adımları göstermek için kullanılır</translation>
     </message>
     <message>
         <source>Used to show relationships of core elements</source>
@@ -31607,7 +31608,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Dark horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Koyu yatay</translation>
     </message>
     <message>
         <source>Shingle</source>
@@ -35196,7 +35197,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Blank Document</source>
-        <translation type="unfinished"/>
+        <translation>Boş Belge</translation>
     </message>
     <message>
         <source>Excel Template Macro Enabled</source>
