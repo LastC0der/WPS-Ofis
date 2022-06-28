@@ -16465,7 +16465,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"/>
+        <translation>Hi&amp;zalama:</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
@@ -26716,7 +26716,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Co&amp;mpress...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sıkıştır...</translation>
     </message>
     <message>
         <source>Washout</source>
@@ -26739,7 +26739,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"/>
+        <translation>Özgün boyut</translation>
     </message>
     <message>
         <source>ucShapeHeight</source>
