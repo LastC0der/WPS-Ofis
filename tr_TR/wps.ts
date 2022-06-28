@@ -27313,7 +27313,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"/>
+        <translation>Hi&amp;zalama:</translation>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 1</source>
@@ -27582,7 +27582,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Inside Margin</source>
-        <translation type="unfinished"/>
+        <translation>İç Kenar Boşluğu</translation>
     </message>
     <message>
         <source>Left Margin</source>
@@ -27630,7 +27630,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;relative to</source>
-        <translation type="unfinished"/>
+        <translation>&amp;neye göre</translation>
     </message>
     <message>
         <source>Relat&amp;ive position</source>
@@ -27646,7 +27646,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Ali&amp;gnment</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hizalama</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
@@ -27662,7 +27662,7 @@ Numarası</translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
-        <translation type="unfinished"/>
+        <translation>b&amp;ağıntı</translation>
     </message>
     <message>
         <source>Bottom Margin</source>
@@ -35321,7 +35321,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
-        <translation type="unfinished"/>
+        <translation>Hi&amp;zalama:</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -37642,7 +37642,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"/>
+        <translation>Özgün boyut</translation>
     </message>
     <message>
         <source>Relat&amp;ive</source>
@@ -37670,7 +37670,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Inside Margin</source>
-        <translation type="unfinished"/>
+        <translation>İç Kenar Boşluğu</translation>
     </message>
     <message>
         <source>Left Margin</source>
@@ -37694,7 +37694,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>relative &amp;to</source>
-        <translation type="unfinished"/>
+        <translation>bağın&amp;tı</translation>
     </message>
     <message>
         <source>%, 1, 1, 1000, 1</source>
@@ -48223,9 +48223,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>You are saving an old-format document as a new format.
 
 While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
-        <translation>You are saving an old-format document as a new format.
-
-While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save as a new format</source>
