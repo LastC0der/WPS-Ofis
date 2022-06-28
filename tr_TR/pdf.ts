@@ -326,7 +326,7 @@
     </message>
     <message>
         <source>Save to a custom watermark that can be quickly called</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı çağrılabilen özel bir filigrana kaydedin</translation>
     </message>
     <message>
         <source>Locate</source>
