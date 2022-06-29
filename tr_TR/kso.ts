@@ -36990,7 +36990,7 @@ Please check network</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Et</translation>
     </message>
     <message>
         <source>Cancel</source>
