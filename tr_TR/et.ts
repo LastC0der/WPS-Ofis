@@ -19547,7 +19547,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Kayıt</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -20095,7 +20095,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Pencereyi Göster</translation>
     </message>
     <message>
         <source>Options</source>
@@ -20103,7 +20103,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Dizinini Aç</translation>
     </message>
     <message>
         <source>ET Options</source>
@@ -21092,7 +21092,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Show Next Window</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Pencereyi Göster</translation>
     </message>
     <message>
         <source>View Code</source>
