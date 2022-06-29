@@ -16083,7 +16083,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>View Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Kısayolu Görüntüle</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -16202,7 +16202,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Kayıt</translation>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -16715,7 +16715,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Pencereyi Göster</translation>
     </message>
     <message>
         <source>Options</source>
@@ -16723,7 +16723,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Dizinini Aç</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -17709,7 +17709,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Next Window</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Pencereyi Göster</translation>
     </message>
     <message>
         <source>Odd Page Section Break</source>
@@ -36140,7 +36140,7 @@ Changes</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Et</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -55376,7 +55376,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Et</translation>
     </message>
     <message>
         <source>Next Change</source>
