@@ -8066,7 +8066,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Pencereyi Göster</translation>
     </message>
     <message>
         <source>WPS Office shortcuts</source>
@@ -8074,7 +8074,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Show Next Window</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Pencereyi Göster</translation>
     </message>
     <message>
         <source>New Workspace</source>
