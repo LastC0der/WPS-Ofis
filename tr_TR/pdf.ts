@@ -6028,7 +6028,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>DeleteBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planı Sil</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -7551,7 +7551,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>View Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Kısayolu Görüntüle</translation>
     </message>
     <message>
         <source>Image2Bottom</source>
@@ -7583,11 +7583,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Et</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation type="unfinished"/>
+        <translation>Daha Fazla Kayıt</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7711,7 +7711,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Pencereyi Göster</translation>
     </message>
     <message>
         <source>Hide TaskPane</source>
@@ -7723,7 +7723,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Open Backup Directory</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme Dizinini Aç</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
@@ -7987,7 +7987,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Show Next Window</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Pencereyi Göster</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -8709,7 +8709,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>DeleteBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planı Sil</translation>
     </message>
     <message>
         <source>Ribbon Center Alignment</source>
@@ -10231,7 +10231,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>DeleteBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planı Sil</translation>
     </message>
     <message>
         <source>Document History</source>
