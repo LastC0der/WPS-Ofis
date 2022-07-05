@@ -728,7 +728,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>QR code login</source>
-        <translation type="unfinished"/>
+        <translation>Karekod girişi</translation>
     </message>
     <message>
         <source>Auto login</source>
@@ -929,7 +929,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>QR Code Login</source>
-        <translation type="unfinished"/>
+        <translation>Karekod Girişi</translation>
     </message>
     <message>
         <source>Online pictures, templates, shapes</source>
