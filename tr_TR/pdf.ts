@@ -2331,7 +2331,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>All Pictures(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</translation>
     </message>
     <message>
         <source>Attachment is VIP function, please upgrade VIP</source>
@@ -2339,7 +2339,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Supported Files</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Desteklenen Dosyalar</translation>
     </message>
     <message>
         <source>The Function is Exclusive</source>
@@ -2347,11 +2347,11 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>All Pictures(*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif)|*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler(*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif)|*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif</translation>
     </message>
     <message>
         <source>This file type is not supported</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya türü desteklenmiyor</translation>
     </message>
     <message>
         <source>Document in %s</source>
@@ -6228,11 +6228,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FormFilling Date</source>
-        <translation type="unfinished"/>
+        <translation>Tarih Ekle</translation>
     </message>
     <message>
         <source>FormFilling Exit</source>
-        <translation type="unfinished"/>
+        <translation>Doldurma Modundan Çık</translation>
     </message>
     <message>
         <source>Area Highlight</source>
