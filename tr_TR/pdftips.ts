@@ -2187,7 +2187,7 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>FormFillingDate.content</source>
-        <translation type="unfinished"/>
+        <translation>Bugünün tarihini ekle</translation>
     </message>
     <message>
         <source>WaterMark.content</source>
@@ -2281,7 +2281,7 @@ Click the arrow to select a different highlight color.</translation>
     </message>
     <message>
         <source>RotateToTheRight.content</source>
-        <translation type="unfinished"/>
+        <translation>90 derece sağa döndür</translation>
     </message>
 </context>
 </TS>
