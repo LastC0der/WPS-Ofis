@@ -5548,7 +5548,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FormFillingDate Point</source>
-        <translation type="unfinished"/>
+        <translation>%1.%2.%3</translation>
     </message>
     <message>
         <source>1 pt</source>
@@ -5608,7 +5608,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Open</source>
@@ -5668,7 +5668,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>10 pt</source>
-        <translation type="unfinished"/>
+        <translation>10 nk</translation>
     </message>
     <message>
         <source>12 pt</source>
@@ -5992,7 +5992,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>ClipPage</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Kırp</translation>
     </message>
     <message>
         <source>SplitPage</source>
@@ -6120,19 +6120,19 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>GraffitiHline</source>
-        <translation type="unfinished"/>
+        <translation>Yatay çizgi</translation>
     </message>
     <message>
         <source>GraffitiVline</source>
-        <translation type="unfinished"/>
+        <translation>Dikey çizgi</translation>
     </message>
     <message>
         <source>GraffitiSline</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Close Comment</source>
-        <translation>Açıklamayı Kapat</translation>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>PDF2CAD</source>
@@ -11009,7 +11009,7 @@ input 1,6, means extract page 1 and 6</source>
     <name>KxPdfAnnotationWidget</name>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Type</source>
