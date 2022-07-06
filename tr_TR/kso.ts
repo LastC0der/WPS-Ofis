@@ -28050,7 +28050,7 @@ Ortalama</translation>
     <name>KxApplication</name>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Save documents or not?</source>
