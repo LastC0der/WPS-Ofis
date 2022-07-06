@@ -1652,7 +1652,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>DoubleAccounting.title</source>
-        <translation type="unfinished"/>
+        <translation>Uzak Çift</translation>
     </message>
     <message>
         <source>SortAndFilter.title</source>
