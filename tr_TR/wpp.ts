@@ -14516,7 +14516,7 @@ Master</source>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Open</source>
@@ -14912,7 +14912,7 @@ Slide</source>
     <message>
         <source>Note</source>
         <comment>shortHint</comment>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Delete Slide</source>
