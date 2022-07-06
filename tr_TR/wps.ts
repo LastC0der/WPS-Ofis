@@ -9236,7 +9236,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Save</source>
@@ -18313,7 +18313,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Open</source>
@@ -18842,7 +18842,7 @@ Yazdır</translation>
     <message>
         <source>Note</source>
         <comment>shortHint</comment>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Right-to-Left</source>
