@@ -27257,7 +27257,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>bold</source>
@@ -27813,7 +27813,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Open</source>
@@ -28319,7 +28319,7 @@ Dondur</translation>
     <message>
         <source>Note</source>
         <comment>shortHint</comment>
-        <translation type="unfinished"/>
+        <translation>Not</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
