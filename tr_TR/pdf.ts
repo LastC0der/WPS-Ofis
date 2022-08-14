@@ -3540,7 +3540,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>rekey</source>
-        <translation type="unfinished"/>
+        <translation>Parolayı Onayla</translation>
     </message>
     <message>
         <source>set open key</source>
@@ -3643,7 +3643,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>rekey</source>
-        <translation type="unfinished"/>
+        <translation>Parolayı Onayla</translation>
     </message>
     <message>
         <source>set open key</source>
