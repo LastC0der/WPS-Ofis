@@ -2782,7 +2782,7 @@ Amaca ulaşan adımları göstermek için kullanılır</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tabloyu Değiştir</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
