@@ -18149,7 +18149,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Biçimini Sıfırla</translation>
     </message>
     <message>
         <source>Right Hang</source>
@@ -24152,11 +24152,11 @@ Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quo
     </message>
     <message>
         <source>Delete Schema</source>
-        <translation type="unfinished"/>
+        <translation>Şema Sil</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Biçimini Sıfırla</translation>
     </message>
     <message>
         <source>Light Grid</source>
@@ -45593,7 +45593,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Biçimini Sıfırla</translation>
     </message>
 </context>
 <context>
