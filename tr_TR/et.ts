@@ -60095,7 +60095,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>Özet Tabloyu Değiştir</translation>
     </message>
     <message>
         <source>Move Down</source>
@@ -60103,14 +60103,14 @@ Boyutu</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_layout</name>
     <message>
         <source>Fit:</source>
-        <translation type="unfinished"/>
+        <translation>Sığdır:</translation>
     </message>
     <message>
         <source>Size</source>
