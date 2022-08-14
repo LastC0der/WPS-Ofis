@@ -1119,11 +1119,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Microsoft PowerPoint Add-In</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint Eklentisi</translation>
     </message>
     <message>
         <source>WPS Presentation Document</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum Belgesi</translation>
     </message>
     <message>
         <source>Microsoft Office Excel 2007 Macro-Enabled Workbook</source>
