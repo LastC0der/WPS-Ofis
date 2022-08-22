@@ -12025,7 +12025,7 @@ Pencere</translation>
     <name>KxPdfTemplatePrintWidget</name>
     <message>
         <source>more</source>
-        <translation type="unfinished"/>
+        <translation>Daha fazla seçenek</translation>
     </message>
     <message>
         <source>Print</source>
