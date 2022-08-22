@@ -9149,7 +9149,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Selection All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -10043,7 +10043,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Selection All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -10607,7 +10607,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Selection All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <source>Equal Size</source>
@@ -18416,7 +18416,7 @@ Shape</source>
     </message>
     <message>
         <source>Selection All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <source>Shadow On</source>
@@ -20089,7 +20089,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Selection All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -21410,7 +21410,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Create Graph</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Oluştur</translation>
     </message>
     <message>
         <source>Increase Level</source>
@@ -21458,7 +21458,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Selection All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <source>Selection Pane</source>
