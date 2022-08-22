@@ -6384,7 +6384,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>No template by name %1 exists.</source>
-        <translation type="unfinished"/>
+        <translation>%1 adında bir şablon yok.</translation>
     </message>
     <message>
         <source>The attribute %1 must appear on element %2.</source>
@@ -6748,7 +6748,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not a whole number of minutes.</source>
-        <translation type="unfinished"/>
+        <translation>%1 tam bir dakika sayısı değil.</translation>
     </message>
     <message>
         <source>Failure when casting from %1 to %2: %3</source>
@@ -6756,11 +6756,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>It is not possible to cast from %1 to %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1&apos;den %2&apos;ye yayın yapmak mümkün değil.</translation>
     </message>
     <message>
         <source>No variable by name %1 exists</source>
-        <translation type="unfinished"/>
+        <translation>%1 adında bir değişken yok</translation>
     </message>
     <message>
         <source>Namespace %1 can only be bound to %2 (and it is, in either case, pre-declared).</source>
