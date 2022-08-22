@@ -32988,7 +32988,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Create Graph</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Oluştur</translation>
     </message>
     <message>
         <source>Increase Level</source>
