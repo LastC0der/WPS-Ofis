@@ -39618,7 +39618,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>Create Graph</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Oluştur</translation>
     </message>
     <message>
         <source>Increase Level</source>
