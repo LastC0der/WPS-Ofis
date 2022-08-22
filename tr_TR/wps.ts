@@ -19784,7 +19784,7 @@ Navigation</source>
     </message>
     <message>
         <source>Restart Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırmayı Yeniden Başlat</translation>
     </message>
     <message>
         <source>Header Line Color</source>
@@ -23556,7 +23556,7 @@ Protection</source>
     </message>
     <message>
         <source>Restart Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırmayı Yeniden Başlat</translation>
     </message>
     <message>
         <source>Header Line Color</source>
@@ -23572,7 +23572,7 @@ Protection</source>
     </message>
     <message>
         <source>Excel Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
-        <translation type="unfinished"/>
+        <translation>Excel Dosyaları(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
     </message>
     <message>
         <source>Double-Click To Hide White Space</source>
@@ -23629,31 +23629,31 @@ Protection</source>
     </message>
     <message>
         <source>Colorful List Accent 1</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Liste Vurgu 1</translation>
     </message>
     <message>
         <source>Colorful List Accent 2</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Liste Vurgu 2</translation>
     </message>
     <message>
         <source>Colorful List Accent 3</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Liste Vurgu 3</translation>
     </message>
     <message>
         <source>Colorful List Accent 4</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Liste Vurgu 4</translation>
     </message>
     <message>
         <source>Colorful List Accent 5</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Liste Vurgu 5</translation>
     </message>
     <message>
         <source>Colorful List Accent 6</source>
-        <translation type="unfinished"/>
+        <translation>Renkli Liste Vurgu 6</translation>
     </message>
     <message>
         <source>Grammar Change</source>
-        <translation type="unfinished"/>
+        <translation>Dil Bilgisi Değişikliği</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
@@ -23669,27 +23669,27 @@ Protection</source>
     </message>
     <message>
         <source>Light Shading Accent 1</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gölgeleme Vurgu 1</translation>
     </message>
     <message>
         <source>Light Shading Accent 2</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gölgeleme Vurgu 2</translation>
     </message>
     <message>
         <source>Light Shading Accent 3</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gölgeleme Vurgu 3</translation>
     </message>
     <message>
         <source>Light Shading Accent 4</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gölgeleme Vurgu 4</translation>
     </message>
     <message>
         <source>Light Shading Accent 5</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gölgeleme Vurgu 5</translation>
     </message>
     <message>
         <source>Light Shading Accent 6</source>
-        <translation type="unfinished"/>
+        <translation>Açık Gölgeleme Vurgu 6</translation>
     </message>
     <message>
         <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
