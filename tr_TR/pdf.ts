@@ -8866,7 +8866,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Yapıştır</translation>
     </message>
     <message>
         <source>PDFTOCad</source>
@@ -11464,7 +11464,8 @@ Düzenle</translation>
     <message>
         <source>Switch
 Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencere
+Değiştir</translation>
     </message>
     <message>
         <source>Task Window</source>
