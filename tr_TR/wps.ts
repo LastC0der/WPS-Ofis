@@ -1478,7 +1478,7 @@
     </message>
     <message>
         <source>Text Boxes</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutuları</translation>
     </message>
     <message>
         <source>Number of columns</source>
@@ -9173,7 +9173,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
-        <translation type="unfinished"/>
+        <translation>XML Şemaları(*.xsd;*.xml);;XML genişletme paketleri(*.xml)</translation>
     </message>
     <message>
         <source>XMLExtend Pack Instruction List(*.xml)</source>
@@ -9581,7 +9581,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Text Boxes</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutuları</translation>
     </message>
     <message>
         <source>Find Style</source>
@@ -14968,7 +14968,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>3-D Rotation</source>
-        <translation type="unfinished"/>
+        <translation>3B Döndürme</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -14984,7 +14984,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Soft Edges</source>
-        <translation type="unfinished"/>
+        <translation>Yumuşak Kenarlar</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -18569,7 +18569,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu Sayfa</translation>
     </message>
     <message>
         <source>Page Area Number. Click to open &quot;Go To&quot; dialog.</source>
@@ -19194,7 +19194,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Switch to previous window</source>
-        <translation type="unfinished"/>
+        <translation>Önceki pencereye geç</translation>
     </message>
     <message>
         <source>Left Algin</source>
@@ -19483,7 +19483,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Yapıştır</translation>
     </message>
     <message>
         <source>Unlock Field</source>
@@ -20727,7 +20727,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Yapıştır</translation>
     </message>
     <message>
         <source>Insert Next PageBreak</source>
@@ -21786,7 +21786,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu Sayfa</translation>
     </message>
     <message>
         <source>Word cannot sort this table or selection because all of its rows are table headings.</source>
@@ -30631,7 +30631,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -31025,7 +31025,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Translate Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Çevir</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
@@ -31148,7 +31148,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Picture Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -31603,7 +31603,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Translate Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Çevir</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -31658,7 +31658,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu Sayfa</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -31678,7 +31678,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>ComposeAssist</source>
-        <translation type="unfinished"/>
+        <translation>Yazma Modu</translation>
     </message>
     <message>
         <source>Document Views</source>
@@ -31713,7 +31713,8 @@ Düzenle</translation>
     <message>
         <source>Switch
 Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencere
+Değiştir</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -35050,7 +35051,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Yapıştır</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -36090,7 +36091,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu Sayfa</translation>
     </message>
     <message>
         <source>Place on Right</source>
@@ -46495,7 +46496,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
-        <translation type="unfinished"/>
+        <translation>XML Şemaları(*.xsd;*.xml);;XML genişletme paketleri(*.xml)</translation>
     </message>
     <message>
         <source>Schema Library</source>
@@ -47902,7 +47903,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
-        <translation type="unfinished"/>
+        <translation>XML Şemaları(*.xsd;*.xml);;XML genişletme paketleri(*.xml)</translation>
     </message>
     <message>
         <source>Schema Library</source>
