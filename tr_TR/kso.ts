@@ -14876,11 +14876,11 @@ Ekle</translation>
     </message>
     <message>
         <source>To edit this diagram, you must convert it to Shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Bu diyagramı düzenlemek için, diyagramı Şekiller&apos;e dönüştürmeniz gerekir.</translation>
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished"/>
+        <translation>Denetimler</translation>
     </message>
     <message>
         <source>Grow Font</source>
@@ -32892,7 +32892,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Enable Title Switching in Task Window</source>
-        <translation type="unfinished"/>
+        <translation>Görev Penceresinde Başlık Değiştirmeyi Etkinleştir</translation>
     </message>
     <message>
         <source>Setting Center</source>
