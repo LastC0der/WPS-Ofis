@@ -748,7 +748,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Time</source>
