@@ -1195,7 +1195,7 @@ Click the arrow to select different numbering formats.</translation>
     </message>
     <message>
         <source>SlideSorter.content</source>
-        <translation>View the presentation in Slide Sorter view to easily rearrange slides.</translation>
+        <translation>Slaytları kolayca yeniden düzenlemek için sunumu Slayt Sıralayıcı görünümünde görüntüleyin.</translation>
     </message>
     <message>
         <source>HideVideo.content</source>
@@ -2643,7 +2643,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>SlideSorter.title</source>
-        <translation>Slide Sorter View</translation>
+        <translation>Slayt Sıralayıcısı Görünümü</translation>
     </message>
     <message>
         <source>InsertTable.title</source>
