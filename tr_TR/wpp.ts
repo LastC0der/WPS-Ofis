@@ -5258,7 +5258,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Slide Sorter View</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sıralayıcısı Görünümü</translation>
     </message>
     <message>
         <source>On-screen Show</source>
@@ -10900,7 +10900,7 @@ Araçları</translation>
     </message>
     <message>
         <source>ConvertToSmartArt</source>
-        <translation type="unfinished"/>
+        <translation>SmartArt&apos;a Dönüştür</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
@@ -11103,7 +11103,7 @@ Araçları</translation>
     </message>
     <message>
         <source>3-D Rotation</source>
-        <translation type="unfinished"/>
+        <translation>3B Döndürme</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -11111,15 +11111,15 @@ Araçları</translation>
     </message>
     <message>
         <source>Soft Edges</source>
-        <translation type="unfinished"/>
+        <translation>Yumuşak Kenarlar</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Dolgusu</translation>
     </message>
     <message>
         <source>Shape Line</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Ana Hattı</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -14726,7 +14726,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Slide Object in Slide Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt Sıralayıcısı içindeki Slayt Nesnesi</translation>
     </message>
     <message>
         <source>Delete Background Picture</source>
@@ -16516,7 +16516,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Loop until stopped</source>
-        <translation type="unfinished"/>
+        <translation>Durdurulana Kadar Döndür</translation>
     </message>
     <message>
         <source>Sound Intensity</source>
@@ -17845,7 +17845,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Loop until stopped</source>
-        <translation type="unfinished"/>
+        <translation>Durdurulana Kadar Döndür</translation>
     </message>
     <message>
         <source>reset media</source>
@@ -17857,7 +17857,7 @@ Düzen</translation>
     </message>
     <message>
         <source>Video Play Setting</source>
-        <translation type="unfinished"/>
+        <translation>Video Oynatma Ayarı</translation>
     </message>
     <message>
         <source>media vol</source>
@@ -19006,7 +19006,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Yapıştır</translation>
     </message>
     <message>
         <source>PDFTOCad</source>
@@ -20282,7 +20282,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Translate Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Çevir</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
@@ -22521,7 +22521,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Yapıştır</translation>
     </message>
     <message>
         <source>Restore Window</source>
@@ -22678,7 +22678,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
 </context>
 <context>
@@ -22717,7 +22717,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Notes Master</source>
-        <translation type="unfinished"/>
+        <translation>Asıl Notlar</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -22730,7 +22730,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"/>
+        <translation>Birden Fazla Slayta Resim Ekle</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -22747,7 +22747,8 @@ Ekle</translation>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt 
+Sıralayıcısı</translation>
     </message>
     <message>
         <source>From File</source>
@@ -23535,7 +23536,8 @@ Master</source>
     <message>
         <source>Slide 
 Sorter</source>
-        <translation type="unfinished"/>
+        <translation>Slayt 
+Sıralayıcısı</translation>
     </message>
     <message>
         <source>Window</source>
@@ -23619,11 +23621,11 @@ Pencere</translation>
     <name>KxWppMagnifierTriggerItem</name>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek</translation>
     </message>
 </context>
 <context>
@@ -25474,11 +25476,11 @@ Animasyon</translation>
     </message>
     <message>
         <source>Text Boxes</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutuları</translation>
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished"/>
+        <translation>Denetimler</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -25486,7 +25488,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"/>
+        <translation>Resimler</translation>
     </message>
 </context>
 <context>
