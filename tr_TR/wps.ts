@@ -1087,7 +1087,7 @@
     </message>
     <message>
         <source>Millimeter</source>
-        <translation type="unfinished"/>
+        <translation>Milimetre</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -2113,7 +2113,7 @@
     </message>
     <message>
         <source>Centimeter</source>
-        <translation type="unfinished"/>
+        <translation>Santimetre</translation>
     </message>
     <message>
         <source>Spell Check: Off</source>
