@@ -11104,7 +11104,7 @@ Devam ?</translation>
     </message>
     <message>
         <source>Centimeter</source>
-        <translation type="unfinished"/>
+        <translation>Santimetre</translation>
     </message>
     <message>
         <source>Dir_num</source>
