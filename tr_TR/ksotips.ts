@@ -285,7 +285,7 @@ Genişletme nesnesi içeriğini düzenle</translation>
     </message>
     <message>
         <source>SwitchWindow.title</source>
-        <translation>Pencereyi Değiştir</translation>
+        <translation>Pencere Değiştir</translation>
     </message>
     <message>
         <source>TextToDiagram.content</source>
