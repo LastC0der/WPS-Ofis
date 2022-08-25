@@ -27081,7 +27081,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Soft Edges</source>
-        <translation type="unfinished"/>
+        <translation>Yumuşak Kenarlar</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -27093,7 +27093,7 @@ Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="unfinished"/>
+        <translation>Şekil Dolgusu</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -37339,7 +37339,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Translate Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Çevir</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
