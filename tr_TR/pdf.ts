@@ -386,7 +386,7 @@
     </message>
     <message>
         <source>EvenPages</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki Eşit Sayfalar</translation>
     </message>
     <message>
         <source>twelvelines</source>
@@ -1185,7 +1185,7 @@
     </message>
     <message>
         <source>pica</source>
-        <translation>Sayfa</translation>
+        <translation>p</translation>
     </message>
     <message>
         <source>yard</source>
@@ -1383,7 +1383,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>millimeter</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Cannot find or create the font &quot;%s&quot;.Some characters may not display or print correctly.</source>
@@ -1858,7 +1858,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>centimeter</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -2194,7 +2194,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>pica</source>
-        <translation>Sayfa</translation>
+        <translation>p</translation>
     </message>
     <message>
         <source>yard</source>
@@ -11827,7 +11827,7 @@ Pencere</translation>
     </message>
     <message>
         <source>pica</source>
-        <translation type="unfinished"/>
+        <translation> p</translation>
     </message>
     <message>
         <source>yard</source>
@@ -11835,11 +11835,11 @@ Pencere</translation>
     </message>
     <message>
         <source>DistanceTool</source>
-        <translation type="unfinished"/>
+        <translation>Mesafe Aracı</translation>
     </message>
     <message>
         <source>meter</source>
-        <translation type="unfinished"/>
+        <translation>m</translation>
     </message>
     <message>
         <source>pound</source>
@@ -11847,7 +11847,7 @@ Pencere</translation>
     </message>
     <message>
         <source>millimeter</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <source>kilometre</source>
@@ -11883,7 +11883,7 @@ Pencere</translation>
     </message>
     <message>
         <source>centimeter</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <source>perimeter:%1</source>
@@ -12000,7 +12000,7 @@ Pencere</translation>
     </message>
     <message>
         <source>PDFToPPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>PDFToExcel</source>
@@ -12008,7 +12008,7 @@ Pencere</translation>
     </message>
     <message>
         <source>PDFToPhoto</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Fotoğrafa</translation>
     </message>
     <message>
         <source>PDFToWord</source>
@@ -12166,7 +12166,7 @@ Pencere</translation>
     </message>
     <message>
         <source>EvenPages</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki Eşit Sayfalar</translation>
     </message>
     <message>
         <source>input 1,3 means add watermark in no.1 and no.3</source>
@@ -14751,11 +14751,11 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>EvenPages</source>
-        <translation type="unfinished"/>
+        <translation>Aralıktaki Eşit Sayfalar</translation>
     </message>
     <message>
         <source>Document cropping in progress</source>
-        <translation type="unfinished"/>
+        <translation>Belge Kırpılıyor...</translation>
     </message>
     <message>
         <source>input 1,3 means add watermark in no.1 and no.3</source>
