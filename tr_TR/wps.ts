@@ -26356,7 +26356,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>More Columns</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Sütunlar</translation>
     </message>
     <message>
         <source>Other Background</source>
@@ -26527,7 +26527,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Page Setting</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Ayarı</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -26547,7 +26547,7 @@ Ekle</translation>
     </message>
     <message>
         <source>More Columns</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Sütunlar</translation>
     </message>
     <message>
         <source>TableOfContents</source>
@@ -40231,11 +40231,11 @@ Okuma</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Sayfa</translation>
     </message>
     <message>
         <source>Next Heading</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Başlık</translation>
     </message>
     <message>
         <source>The Find What text contains an invalid Pattern Matching expression.</source>
@@ -40243,7 +40243,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Bölüm</translation>
     </message>
     <message>
         <source>Next Comment</source>
@@ -40251,15 +40251,15 @@ Okuma</translation>
     </message>
     <message>
         <source>Previous Field</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Alan</translation>
     </message>
     <message>
         <source>Previous Table</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Tablo</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Son Not</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -42387,18 +42387,18 @@ Modu</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Son Not</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Son Not Ekle</translation>
     </message>
 </context>
 <context>
     <name>KxInsertDateTimeDlg</name>
     <message>
         <source>Thai (Thailand)</source>
-        <translation type="unfinished"/>
+        <translation>Tay dili (Tayland)</translation>
     </message>
     <message>
         <source>Japanese (Japan)</source>
@@ -51810,7 +51810,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>More Columns</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Sütunlar</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -51997,11 +51997,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Next Section</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Bölüm</translation>
     </message>
     <message>
         <source>More Columns</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Sütunlar</translation>
     </message>
     <message>
         <source>Cover and TOC</source>
@@ -56378,11 +56378,11 @@ Okuma</translation>
     </message>
     <message>
         <source>Next Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Son Not</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Son Not Ekle</translation>
     </message>
 </context>
 <context>
