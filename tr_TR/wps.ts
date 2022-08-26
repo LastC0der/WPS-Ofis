@@ -26332,7 +26332,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Page Background</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Arka Planı</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -26417,11 +26417,11 @@ Kenarlıkları</translation>
     </message>
     <message>
         <source>Link to Previous Footer</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Altbilgiye Bağlantı</translation>
     </message>
     <message>
         <source>Link to Previous Header</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Üstbilgiye Bağlantı</translation>
     </message>
     <message>
         <source>Three</source>
@@ -51790,7 +51790,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Page Background</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Arka Planı</translation>
     </message>
     <message>
         <source>Bring in Front of Text</source>
@@ -51861,11 +51861,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>Link to Previous Footer</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Altbilgiye Bağlantı</translation>
     </message>
     <message>
         <source>Link to Previous Header</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Üstbilgiye Bağlantı</translation>
     </message>
     <message>
         <source>Three</source>
@@ -51877,7 +51877,8 @@ Kaydır</translation>
     </message>
     <message>
         <source>Contents Page</source>
-        <translation type="unfinished"/>
+        <translation>İçindekiler 
+Sayfası</translation>
     </message>
     <message>
         <source>Page Number Start</source>
