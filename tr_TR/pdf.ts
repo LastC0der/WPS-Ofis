@@ -2923,7 +2923,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>page setting</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Yapısı</translation>
     </message>
     <message>
         <source>morePageOnePape</source>
