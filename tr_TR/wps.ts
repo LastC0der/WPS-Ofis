@@ -18033,7 +18033,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Form Alanı Seçenekleri</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
@@ -18057,7 +18057,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Format Error Bars</source>
-        <translation type="unfinished"/>
+        <translation>Hata Çubuklarını Biçimlendir</translation>
     </message>
     <message>
         <source>Extract Text in Picture</source>
@@ -18081,7 +18081,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Upgrade Content Entry</source>
-        <translation type="unfinished"/>
+        <translation>Yükselt</translation>
     </message>
     <message>
         <source>My Subscription</source>
@@ -20833,7 +20833,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Delete Hover Section</source>
-        <translation type="unfinished"/>
+        <translation>Bu bölümü sil</translation>
     </message>
     <message>
         <source>Collapse Contents Entry</source>
@@ -23993,7 +23993,7 @@ Protection</source>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Form Alanı Seçenekleri</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
@@ -34062,7 +34062,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Form Alanı Seçenekleri</translation>
     </message>
     <message>
         <source>Header and 
@@ -38694,7 +38694,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Form Alanı Seçenekleri</translation>
     </message>
     <message>
         <source>Header and 
@@ -40038,7 +40038,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Form Alanı Seçenekleri</translation>
     </message>
     <message>
         <source>Protect Form</source>
@@ -54949,7 +54949,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Form Alanı Seçenekleri</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
@@ -55223,7 +55223,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Form Alanı Seçenekleri</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
