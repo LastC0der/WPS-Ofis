@@ -19300,7 +19300,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation type="unfinished"/>
+        <translation>Eğik</translation>
     </message>
     <message>
         <source>Telugu</source>
@@ -30710,7 +30710,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Update Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Güncelleştir</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
@@ -40175,7 +40175,7 @@ p, li { white-space: pre-wrap; }
     <name>KCameraModel</name>
     <message>
         <source>Oblique</source>
-        <translation type="unfinished"/>
+        <translation>Eğik</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -40183,7 +40183,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>No Rotation</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme yok</translation>
     </message>
     <message>
         <source>Parallel</source>
@@ -40264,7 +40264,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New password:</source>
-        <translation type="unfinished"/>
+        <translation>Yeni parola:</translation>
     </message>
 </context>
 <context>
@@ -40290,7 +40290,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi güncelleştir</translation>
     </message>
     <message>
         <source>A new version is available. Do you want to update it?</source>
@@ -41099,11 +41099,11 @@ p, li { white-space: pre-wrap; }
     <name>JdeListWidgetItemData</name>
     <message>
         <source>Project is unviewable</source>
-        <translation type="unfinished"/>
+        <translation>Proje görüntülenemiyor</translation>
     </message>
     <message>
         <source>Project Locked</source>
-        <translation type="unfinished"/>
+        <translation>Proje Kilitli</translation>
     </message>
 </context>
 <context>
