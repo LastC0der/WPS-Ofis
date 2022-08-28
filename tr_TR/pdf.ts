@@ -1637,7 +1637,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Save prompt</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Changes would not be undone after saving as compression, sure to continue?</source>
@@ -6445,7 +6445,7 @@ Okuma</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation type="unfinished"/>
+        <translation>Sekme Sayfası Yok</translation>
     </message>
     <message>
         <source>SplitPDF</source>
@@ -14834,7 +14834,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>PDFPagesOper</source>
