@@ -7865,7 +7865,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Bo&amp;x</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;utu</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -8001,7 +8001,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Setting:</source>
-        <translation type="unfinished"/>
+        <translation>Ayar:</translation>
     </message>
     <message>
         <source>App&amp;ly to:</source>
@@ -19346,7 +19346,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Noktası</translation>
     </message>
     <message>
         <source>Document Tab Bar Menu</source>
@@ -19419,7 +19419,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Browse by Graphic</source>
@@ -20699,7 +20699,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -32072,7 +32072,7 @@ Pencere</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Xie De</source>
@@ -34805,7 +34805,7 @@ Numarası</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Team File</source>
