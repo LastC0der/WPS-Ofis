@@ -28695,11 +28695,11 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation type="unfinished"/>
+        <translation>Sekme Sayfası Yok</translation>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Noktası</translation>
     </message>
     <message>
         <source>EditSingleData</source>
@@ -28743,7 +28743,7 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>NewChart DropLine</source>
@@ -31143,7 +31143,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Wrap Text</source>
@@ -42230,7 +42230,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Team File</source>
@@ -42568,7 +42568,7 @@ Aktar</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
