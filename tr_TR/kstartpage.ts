@@ -513,7 +513,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Don&apos;t prompt</source>
-        <translation type="unfinished"/>
+        <translation>Asla gösterme</translation>
     </message>
     <message>
         <source>My Cloud Doc</source>
