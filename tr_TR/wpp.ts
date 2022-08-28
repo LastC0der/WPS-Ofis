@@ -15273,11 +15273,11 @@ Okuma</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation type="unfinished"/>
+        <translation>Sekme Sayfası Yok</translation>
     </message>
     <message>
         <source>Curve Point</source>
-        <translation type="unfinished"/>
+        <translation>Eğri Noktası</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -15335,7 +15335,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
@@ -17092,7 +17092,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Xie De</source>
@@ -18982,7 +18982,7 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>message Center</source>
@@ -22219,7 +22219,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>PDF To PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Word Tools</source>
@@ -22247,7 +22247,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>Team File</source>
@@ -22509,7 +22509,7 @@ Okuma</translation>
     </message>
     <message>
         <source>No Tab Page</source>
-        <translation type="unfinished"/>
+        <translation>Sekme Sayfası Yok</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
