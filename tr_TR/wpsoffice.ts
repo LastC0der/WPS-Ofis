@@ -2722,7 +2722,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Directories</source>
-        <translation type="unfinished"/>
+        <translation>Dizin</translation>
     </message>
     <message>
         <source>Symlink to Special</source>
@@ -3978,7 +3978,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directories</source>
-        <translation type="unfinished"/>
+        <translation>Dizin</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
