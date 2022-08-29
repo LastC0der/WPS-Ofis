@@ -1218,11 +1218,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Selection(&amp;S)</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;eçim</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tümü</translation>
     </message>
     <message>
         <source>Table(&amp;L)</source>
