@@ -2120,7 +2120,7 @@ Anahat için ayrıntılı ayarlar seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>InsertSlicer.title</source>
@@ -2801,7 +2801,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>SparklineHighPoint.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik Yüksek Noktalarını Aç/Kapat</translation>
     </message>
     <message>
         <source>DevelopmentTools.title</source>
@@ -2973,7 +2973,7 @@ Tüm veriler korunur.</translation>
     </message>
     <message>
         <source>SparkAxis.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik Ekseni</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
@@ -3001,7 +3001,7 @@ Tüm veriler korunur.</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation type="unfinished"/>
+        <translation>Select different controls to insert into the document, such as labels, check boxes, scroll bars, and spinners.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
@@ -3163,11 +3163,11 @@ Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation type="unfinished"/>
+        <translation>Telefona Gönder</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation type="unfinished"/>
+        <translation>When this feature is turned on, the modified content will be automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
@@ -3187,9 +3187,9 @@ Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>SortAndFilter.content</source>
-        <translation>Verileri, analiz edilmesi daha kolay olacak şekilde düzenleyin.
+        <translation>Verileri daha iyi çözümlenebilecek şekilde düzenleyin.
 
-Seçilen verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
+Seçili verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
     </message>
     <message>
         <source>NameCreate.title</source>
