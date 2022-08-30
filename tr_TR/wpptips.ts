@@ -2699,11 +2699,11 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>SendFileTip.title</source>
-        <translation type="unfinished"/>
+        <translation>Telefona Gönder</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation type="unfinished"/>
+        <translation>When this feature is turned on, the modified content will be automatically saved for you to avoid loss of document content.</translation>
     </message>
     <message>
         <source>Distributed.title</source>
