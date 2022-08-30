@@ -1143,7 +1143,7 @@
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Ortaya Hizala</translation>
+        <translation>Ortala</translation>
     </message>
     <message>
         <source>TemplatesPrint.title</source>
