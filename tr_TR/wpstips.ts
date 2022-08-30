@@ -1863,7 +1863,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation>Ekran Yakalama, metin içeriğinin tek tıklamayla çıkarılması.</translation>
+        <translation>Ekran Yakalama, tek tıklamayla metni çıkarın.</translation>
     </message>
     <message>
         <source>m_Margins.title</source>
