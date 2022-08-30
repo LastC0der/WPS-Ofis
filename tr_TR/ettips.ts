@@ -1556,7 +1556,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>SortDescending.title</source>
-        <translation>Descending</translation>
+        <translation>Azalan</translation>
     </message>
     <message>
         <source>ConditionalFormat.title</source>
@@ -1564,7 +1564,9 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>PivotTable.content</source>
-        <translation>Özet Tablo veri kaynağını değiştirin ve görüntü konumunu sıfırlayın.</translation>
+        <translation>Özet Tablo kullanarak verileri özetlemek veya Özet Grafik eklemek için buraya tıklayın.
+
+Özet Tablo&apos;lar karmaşık verileri düzenlemeyi, özetlemeyi ve ayrıntıya gitmeyi kolaylaştırır.</translation>
     </message>
     <message>
         <source>ShowFormulas.title</source>
@@ -1588,7 +1590,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>AlignCenter.title</source>
-        <translation>Ortaya Hizala</translation>
+        <translation>Ortala</translation>
     </message>
     <message>
         <source>Ai Matting.content</source>
@@ -1624,7 +1626,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>ScreenGrabOcr.content</source>
-        <translation>Ekran Yakalama, metin içeriğinin tek tıklamayla çıkarılması.</translation>
+        <translation>Ekran Yakalama, tek tıklamayla metni çıkarın.</translation>
     </message>
     <message>
         <source>Margins.title</source>
@@ -1632,7 +1634,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>ThickBoxBorder.title</source>
-        <translation>Thick Box Border</translation>
+        <translation>Kalın Kutu Kenarlığı</translation>
     </message>
     <message>
         <source>Gallery.title</source>
