@@ -1642,15 +1642,15 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>LockCell.content</source>
-        <translation>Çalışma sayfası korunuyorsa, Hücreyi Kilitle özelliği verileri değiştirilmekten koruyabilir.</translation>
+        <translation>Çalışma sayfası korumalıysa, Hücreyi Kilitle özelliği verilerin değiştirilmesini önleyebilir.</translation>
     </message>
     <message>
         <source>NumberFormatGallery.content</source>
-        <translation>Yüzde, Para Birimi, tarih veya saat gibi hücrelerin sayı biçimini seçin...</translation>
+        <translation>Hücrelerinizin biçimini seçin. Örneğin, yüzde, para birimi, tarih veya saat.</translation>
     </message>
     <message>
         <source>PTSortAndTopTen.content</source>
-        <translation>Özet Tablo alanının otomatik sıralama seçeneği ayarlayın.</translation>
+        <translation>Özet Tablo alanının otomatik sıralama seçeneğini ayarlayın.</translation>
     </message>
     <message>
         <source>DoubleAccounting.title</source>
@@ -1662,15 +1662,15 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>SeriesInColumns.content</source>
-        <translation>Çizelge serisi sütunlarda oluşturulur.</translation>
+        <translation>Grafik serisi sütunlar halinde oluşturulur.</translation>
     </message>
     <message>
         <source>Table.title</source>
-        <translation>Veri Tablosu</translation>
+        <translation>Tablo</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation>Çizim Araçları Detaylı Ayarlar</translation>
+        <translation>DrawingToolsDetailedSettings İçeriği</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
@@ -1678,23 +1678,24 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
-        <translation>Özet Tablonun hangi filtrelere bağlı olduğunu yönetin.</translation>
+        <translation>Özet Tablonun bağlı olduğu filtreleri yönetin.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation>Seçilen 3B şekli için aydınlatma yönünü ve yoğunluğunu ayarlayın. İkincisi parlak, normal ve loş içerir.</translation>
+        <translation>Seçilen 3 boyutlu şekil için aydınlatma yönünü ve yoğunluğunu ayarlayın. İkincisi parlak, normal ve loş içerir.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>PTFilterConnections.title</source>
-        <translation>Süzgeç Bağlantıları</translation>
+        <translation>Filtre Bağlantıları</translation>
     </message>
     <message>
         <source>CellStyleGallery.content</source>
-        <translation>Önceden tanımlanmış bir stil seçme veya hızlı ayarlanan hücre türleri. Stilleri de özelleştirebilirsiniz.</translation>
+        <translation>Hücreler için önceden tanımlanmış bir stil seçin. Ayrıca stilleri özelleştirebilirsiniz.</translation>
     </message>
     <message>
         <source>SeriesInRows.title</source>
