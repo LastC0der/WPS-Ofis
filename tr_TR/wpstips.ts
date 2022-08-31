@@ -1905,7 +1905,7 @@ Click the arrow to add an emphasis mark.</translation>
     </message>
     <message>
         <source>Table.title</source>
-        <translation>Veri Tablosu</translation>
+        <translation>Tablo</translation>
     </message>
     <message>
         <source>InsertNumber.content</source>
@@ -1925,7 +1925,7 @@ Click the arrow to add an emphasis mark.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation>Çizim Araçları Detaylı Ayarlar</translation>
+        <translation>DrawingToolsDetailedSettings İçeriği</translation>
     </message>
     <message>
         <source>HeaderAndFooterSetting.content</source>
