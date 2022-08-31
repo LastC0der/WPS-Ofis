@@ -2509,7 +2509,7 @@ The diagonal lines in the table headings can be moved.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation>Resmi ayarlarken en boy oranını kilitle.</translation>
+        <translation>Resmi ayarlarken en boy oranını kilitleyin.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
