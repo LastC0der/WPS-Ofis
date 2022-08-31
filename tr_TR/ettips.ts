@@ -1711,11 +1711,11 @@ Ekle</translation>
     </message>
     <message>
         <source>RightBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.content</source>
-        <translation>Yinelenen üst öğe etiketlerinden sadece birini göster.</translation>
+        <translation>Yinelenen üst öğe etiketlerinden yalnızca birini gösterin.</translation>
     </message>
     <message>
         <source>TextOrientation.content</source>
@@ -2165,7 +2165,7 @@ Anahat için ayrıntılı ayarlar seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
-        <translation>Resmi ayarlarken en boy oranını kilitle.</translation>
+        <translation>Resmi ayarlarken en boy oranını kilitleyin.</translation>
     </message>
     <message>
         <source>TrackChanges.title</source>
