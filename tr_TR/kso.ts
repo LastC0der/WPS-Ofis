@@ -11665,15 +11665,15 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Read permission</source>
-        <translation type="unfinished"/>
+        <translation>Okuma izni</translation>
     </message>
     <message>
         <source>Copy permission</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalama izni</translation>
     </message>
     <message>
         <source>Print permission</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma izni</translation>
     </message>
     <message>
         <source>Verifying...please wait...</source>
@@ -17405,15 +17405,15 @@ Ekle</translation>
     </message>
     <message>
         <source>Read Permission</source>
-        <translation type="unfinished"/>
+        <translation>Okuma İzni</translation>
     </message>
     <message>
         <source>Copy Permission</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalama İzni</translation>
     </message>
     <message>
         <source>Print Permission</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma İzni</translation>
     </message>
     <message>
         <source>Grant Permission</source>
@@ -25448,7 +25448,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı &amp;Konumunu Kopyala</translation>
     </message>
 </context>
 <context>
@@ -29027,7 +29027,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Copy Permission:</source>
-        <translation type="unfinished"/>
+        <translation>İzni Kopyala:</translation>
     </message>
     <message>
         <source>My Permissions</source>
@@ -31010,7 +31010,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Copy Permission</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalama İzni</translation>
     </message>
     <message>
         <source>Apply Permission Info</source>
@@ -31022,7 +31022,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Print Permission</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma İzni</translation>
     </message>
     <message>
         <source>Grant Permission</source>
@@ -38317,7 +38317,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Read Permission</source>
-        <translation type="unfinished"/>
+        <translation>Okuma İzni</translation>
     </message>
     <message>
         <source>Search</source>
@@ -38325,7 +38325,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Copy Permission</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalama İzni</translation>
     </message>
     <message>
         <source>Add Group</source>
@@ -38333,7 +38333,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Print Permission</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma İzni</translation>
     </message>
     <message>
         <source>Grant Permission</source>
