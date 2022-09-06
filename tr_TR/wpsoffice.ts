@@ -4122,7 +4122,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı &amp;Konumunu Kopyala</translation>
     </message>
 </context>
 <context>
