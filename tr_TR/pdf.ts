@@ -12692,7 +12692,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Save(S)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kaydet</translation>
     </message>
     <message>
         <source>Save(Trial)</source>
