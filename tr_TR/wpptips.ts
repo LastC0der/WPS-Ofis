@@ -1479,7 +1479,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydetme açık</translation>
     </message>
     <message>
         <source>DetailedSettings_DrawingTools.content</source>
@@ -1515,7 +1515,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation type="unfinished"/>
+        <translation>Böl veya Birleştir</translation>
     </message>
     <message>
         <source>InsertObject.content</source>
@@ -1613,7 +1613,11 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation type="unfinished"/>
+        <translation>1. Shape Fill
+Fill selected objects with colors, gradients, textures, and pictures.
+2. Shape Outline
+Configure colors, weights, and dashes for selected objects.
+Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
