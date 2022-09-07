@@ -1251,7 +1251,7 @@
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation>Floating Toolbar</translation>
+        <translation>Resmi metin biçimine dönüştürün.</translation>
     </message>
     <message>
         <source>PDFEditContent.content</source>
