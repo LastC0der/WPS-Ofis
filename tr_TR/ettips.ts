@@ -1723,11 +1723,11 @@ Ekle</translation>
 
 Bu genellikle dar sütunları etiketlemek için kullanılır.
 
-Metni normal oryantasyona geri döndürmek için, şu an seçili olan metin oryantasyonunu tekrar tıklayın.</translation>
+Metni normal yöne geri döndürmek için, şu an seçili olan metin yönünü tekrar tıklayın.</translation>
     </message>
     <message>
         <source>VAlignTop.content</source>
-        <translation>Metni hücrenin üstüne hizalayın.</translation>
+        <translation>Metni hücrenin en üstüne hizalayın.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.content</source>
@@ -1743,11 +1743,11 @@ Metni normal oryantasyona geri döndürmek için, şu an seçili olan metin orya
     </message>
     <message>
         <source>AdvancedFilter.title</source>
-        <translation>Gelişmiş Süzgeç</translation>
+        <translation>Gelişmiş Filtre</translation>
     </message>
     <message>
         <source>PictureToText.content</source>
-        <translation>Floating Toolbar</translation>
+        <translation>Resmi metin biçimine dönüştürün.</translation>
     </message>
     <message>
         <source>FormulaErrorCheck.title</source>
