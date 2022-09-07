@@ -8606,7 +8606,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"/>
+        <translation>Vuruş</translation>
     </message>
     <message>
         <source>C&amp;olumns:</source>
@@ -25078,7 +25078,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"/>
+        <translation>Vuruş</translation>
     </message>
     <message>
         <source>Word cannot sort fields in the selection.</source>
@@ -43808,7 +43808,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Alphanumeric</source>
-        <translation type="unfinished"/>
+        <translation>Alfasayısal</translation>
     </message>
     <message>
         <source>Error. Not a valid bookmark in entry on page .</source>
@@ -43824,7 +43824,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"/>
+        <translation>Vuruş</translation>
     </message>
     <message>
         <source>Symbol</source>
