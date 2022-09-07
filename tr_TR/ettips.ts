@@ -1759,11 +1759,13 @@ Metni normal yöne geri döndürmek için, şu an seçili olan metin yönünü t
     </message>
     <message>
         <source>LockSideBySide.content</source>
-        <translation>İki belgenin birlikte kaydırılması için senkronize edin. Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</translation>
+        <translation>İki belgenin birlikte kaydırılması için senkronize edin. 
+
+Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</translation>
     </message>
     <message>
         <source>SparklineNegativePoint.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini grafik negatif noktalarını etkinleştir/devre dışı bırak</translation>
     </message>
     <message>
         <source>NameManager.title</source>
@@ -1791,7 +1793,7 @@ Metni normal yöne geri döndürmek için, şu an seçili olan metin yönünü t
     </message>
     <message>
         <source>AutoSaveFile_On.title</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydetme açık</translation>
     </message>
     <message>
         <source>EDRProperties.content</source>
@@ -1867,7 +1869,7 @@ Metni normal yöne geri döndürmek için, şu an seçili olan metin yönünü t
     </message>
     <message>
         <source>SplitMerge.title</source>
-        <translation type="unfinished"/>
+        <translation>Böl veya Birleştir</translation>
     </message>
     <message>
         <source>NoBorder.title</source>
@@ -1963,7 +1965,7 @@ Bu çizgiler ayrıca Yazdır seçeneği işaretlenmedikçe yazdırılmaz.</trans
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grubunun en düşük veri noktalarını vurgulayın.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
@@ -1983,7 +1985,7 @@ Bu çizgiler ayrıca Yazdır seçeneği işaretlenmedikçe yazdırılmaz.</trans
     </message>
     <message>
         <source>PageLayoutView.title</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Düzeni</translation>
     </message>
     <message>
         <source>Translate Image.title</source>
@@ -2021,7 +2023,11 @@ Anahat için ayrıntılı ayarlar seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation type="unfinished"/>
+        <translation>1. Shape Fill
+Fill selected objects with colors, gradients, textures, and pictures.
+2. Shape Outline
+Configure colors, weights, and dashes for selected objects.
+Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
@@ -2041,7 +2047,7 @@ Anahat için ayrıntılı ayarlar seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.content</source>
-        <translation>WordArt Ekle</translation>
+        <translation>Verileri karşılaştırın ve yinelenen ve benzersiz değerleri vurgulayın veya getirin.</translation>
     </message>
     <message>
         <source>PivotTableDelete.title</source>
