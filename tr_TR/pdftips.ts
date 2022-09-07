@@ -2033,7 +2033,7 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Metni ortala.</translation>
+        <translation>Metni ortalayın.</translation>
     </message>
     <message>
         <source>HideNavigationPannel.title</source>
