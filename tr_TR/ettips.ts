@@ -1272,7 +1272,7 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak sayfadaki gü
     </message>
     <message>
         <source>AlignRight.content</source>
-        <translation>Metni sağa hizala</translation>
+        <translation>Metni sağa hizalayın.</translation>
     </message>
     <message>
         <source>InsertPageBreakHelper.content</source>
@@ -2836,7 +2836,7 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>AlignCenter.content</source>
-        <translation>Metni ortala.</translation>
+        <translation>Metni ortalayın.</translation>
     </message>
     <message>
         <source>VAlignCenter.content</source>
