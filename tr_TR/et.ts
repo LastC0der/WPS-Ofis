@@ -7172,7 +7172,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Number of months</source>
-        <translation type="unfinished"/>
+        <translation>Ay_sayısı</translation>
     </message>
     <message>
         <source>Left</source>
@@ -9995,7 +9995,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the number of months before or after start_date.</source>
-        <translation type="unfinished"/>
+        <translation>başlangıç tarihini gösteren tarih seri numarası.</translation>
     </message>
     <message>
         <source>is a number between 1 and 255 specifying which character you want.</source>
@@ -24682,7 +24682,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the serial number for the last day of the month that is the indicated number of month before or after start_date. Use EOMONTH to calculate maturity dates that fall on the last day of the month.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen sayıda ay önce veya sonraki ayın son gününü belirten seri numarası döndürür. Ayın son gününe denk gelen vade tarihlerini hesaplamak için SERİAY işlevini kullanın.</translation>
     </message>
     <message>
         <source>Converts an octal number to binary.</source>
@@ -26342,7 +26342,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the day of the month, a number from 1 to 31.</source>
-        <translation type="unfinished"/>
+        <translation>1 ile 31 arasındaki, ayın gününü döndürür.</translation>
     </message>
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
