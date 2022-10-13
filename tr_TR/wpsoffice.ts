@@ -4530,7 +4530,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Shade</source>
@@ -4562,7 +4562,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
     <message>
         <source>Unshade</source>
@@ -6183,7 +6183,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -6879,7 +6879,7 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Puts a minimized back to normal</source>
@@ -6895,11 +6895,11 @@ and you can view the backup files and recovery them through BackupCenter.</sourc
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistem</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
