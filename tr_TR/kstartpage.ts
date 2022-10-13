@@ -2217,7 +2217,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistem</translation>
     </message>
 </context>
 <context>
