@@ -2086,7 +2086,7 @@ For better service, please update the trial edition to standard edition by:
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistem</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
@@ -6945,7 +6945,7 @@ Ekle</translation>
     <message>
         <source>Pentagon</source>
         <comment>DRAWING2STR_PENTAGON</comment>
-        <translation type="unfinished"/>
+        <translation>Beşgen</translation>
     </message>
     <message>
         <source>Right Triangle</source>
@@ -9297,7 +9297,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Curve</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Eğri</translation>
     </message>
     <message>
         <source>SunRise</source>
@@ -9586,7 +9586,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Deep Red</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Kırmızı</translation>
     </message>
     <message>
         <source>WordArt: Ring Outside</source>
@@ -9676,11 +9676,11 @@ Line-type: %3</source>
     </message>
     <message>
         <source>WordArt: Curve2</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Eğri2</translation>
     </message>
     <message>
         <source>Deep Blue</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Mavi</translation>
     </message>
     <message>
         <source>Thick Outline</source>
@@ -9721,7 +9721,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Inner Left</source>
-        <translation type="unfinished"/>
+        <translation>İç Sol</translation>
     </message>
     <message>
         <source>Left-Right Arrow Callout</source>
@@ -9734,7 +9734,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"/>
+        <translation>Beşgen</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -17509,7 +17509,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Choose A SmartArt Graphic</source>
-        <translation type="unfinished"/>
+        <translation>Bir WPSArt Grafiği Seçin</translation>
     </message>
 </context>
 <context>
@@ -27132,7 +27132,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Shade</source>
@@ -27164,7 +27164,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
     <message>
         <source>Unshade</source>
@@ -30939,7 +30939,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -32912,7 +32912,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Add taskpane</source>
-        <translation type="unfinished"/>
+        <translation>Görev bölmesine sabitle</translation>
     </message>
     <message>
         <source>Dock right</source>
@@ -32920,7 +32920,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Hide Custom Button in Task Window</source>
-        <translation type="unfinished"/>
+        <translation>Görev Penceresinde Özel Düğmeyi Gizle</translation>
     </message>
 </context>
 <context>
@@ -32931,7 +32931,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Puts a minimized back to normal</source>
@@ -32947,11 +32947,11 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistem</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
@@ -33178,7 +33178,7 @@ Document</source>
     <name>KMDIMinimizeCommand</name>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
 </context>
 <context>
@@ -38996,7 +38996,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Saving as: </source>
-        <translation type="unfinished"/>
+        <translation>Farklı kaydet: </translation>
     </message>
     <message>
         <source>Saving</source>
@@ -39252,7 +39252,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KdeImpl</name>
     <message>
         <source>All Reference Files</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Başvuru Dosyaları</translation>
     </message>
 </context>
 <context>
@@ -41039,7 +41039,7 @@ p, li { white-space: pre-wrap; }
     <name>KMDIMaximizeCommand</name>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
 </context>
 <context>
@@ -41246,7 +41246,7 @@ p, li { white-space: pre-wrap; }
     <name>KxSmartArtInsertDlgWidget_OldTemp</name>
     <message>
         <source>Choose A SmartArt Graphic</source>
-        <translation type="unfinished"/>
+        <translation>Bir WPSArt Grafiği Seçin</translation>
     </message>
 </context>
 <context>
