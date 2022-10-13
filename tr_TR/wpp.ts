@@ -5427,7 +5427,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Pentagon</source>
-        <translation type="unfinished"/>
+        <translation>Beşgen</translation>
     </message>
     <message>
         <source>%d seconds(Slow)</source>
@@ -11095,7 +11095,7 @@ Araçları</translation>
     </message>
     <message>
         <source>Text To Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Metinden Diyagrama</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -11686,7 +11686,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -12440,7 +12440,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Text To Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Metinden Diyagrama</translation>
     </message>
     <message>
         <source>Delete Segment</source>
@@ -13056,7 +13056,7 @@ Template</source>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -13990,7 +13990,7 @@ Master</source>
     </message>
     <message>
         <source>Enter the access code</source>
-        <translation type="unfinished"/>
+        <translation>Erişim kodunu girin</translation>
     </message>
     <message>
         <source>Share Play</source>
@@ -15976,7 +15976,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Interactive PPT on WeChat</source>
-        <translation type="unfinished"/>
+        <translation>WeChat&apos;te Etkileşimli PPT</translation>
     </message>
     <message>
         <source>Arrow Options</source>
@@ -16851,7 +16851,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Interactive PPT on WeChat</source>
-        <translation type="unfinished"/>
+        <translation>WeChat&apos;te Etkileşimli PPT</translation>
     </message>
 </context>
 <context>
@@ -17080,7 +17080,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Text To Diagram</source>
-        <translation type="unfinished"/>
+        <translation>Metinden Diyagrama</translation>
     </message>
     <message>
         <source>CADTOPdf</source>
@@ -17133,7 +17133,7 @@ Okuma</translation>
     </message>
     <message>
         <source>display play button</source>
-        <translation type="unfinished"/>
+        <translation>Oynat düğmesini göster</translation>
     </message>
     <message>
         <source>Bullets And Numbering</source>
@@ -17173,7 +17173,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Enter the access code</source>
-        <translation type="unfinished"/>
+        <translation>Erişim kodunu girin</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
@@ -17250,7 +17250,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -17354,7 +17354,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Current Slide Speech</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayt Konuşması</translation>
     </message>
     <message>
         <source>3DPresentation</source>
@@ -17434,7 +17434,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Özel Metin Biçimi</translation>
     </message>
     <message>
         <source>From Phone</source>
@@ -28033,7 +28033,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -29881,7 +29881,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
     <message>
         <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
@@ -35116,7 +35116,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Current Slide Speech</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Slayt Konuşması</translation>
     </message>
     <message>
         <source>Selection Speech</source>
