@@ -15436,7 +15436,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Index</source>
@@ -17266,7 +17266,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -32218,7 +32218,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -40948,7 +40948,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
