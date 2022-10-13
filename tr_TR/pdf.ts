@@ -7429,7 +7429,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Minisite</source>
