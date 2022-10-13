@@ -5162,7 +5162,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Shade</source>
@@ -5194,7 +5194,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
     <message>
         <source>Unshade</source>
@@ -6900,7 +6900,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -7738,7 +7738,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Puts a minimized back to normal</source>
@@ -7754,11 +7754,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>Sistem</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Ekranı Kapla</translation>
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
@@ -10443,11 +10443,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Updated doc</source>
-        <translation type="unfinished"/>
+        <translation>Dosya güncellendi.</translation>
     </message>
     <message>
         <source>Created doc</source>
-        <translation type="unfinished"/>
+        <translation>Dosya oluşturuldu.</translation>
     </message>
     <message>
         <source>WPS Team File</source>
