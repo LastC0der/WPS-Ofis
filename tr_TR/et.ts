@@ -9995,7 +9995,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>is the number of months before or after start_date.</source>
-        <translation>başlangıç tarihini gösteren tarih seri numarası.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>is a number between 1 and 255 specifying which character you want.</source>
@@ -11591,7 +11591,7 @@ The values which can be typed here is restricted by other users.</source>
     </message>
     <message>
         <source>is a serial date number that represents the start date.</source>
-        <translation type="unfinished"/>
+        <translation>başlangıç tarihini gösteren tarih seri numarası.</translation>
     </message>
     <message>
         <source>is the numeric value you want to round.</source>
@@ -12668,7 +12668,7 @@ Denetimi</translation>
     <message>
         <source>is a serial date number that represents the start date.</source>
         <comment>TX_ParaDesc_456</comment>
-        <translation type="unfinished"/>
+        <translation>başlangıç tarihini gösteren tarih seri numarası.</translation>
     </message>
     <message>
         <source>One/Two-tailed(1/2) distribution</source>
@@ -18769,7 +18769,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Simge Durumuna Küçült</translation>
     </message>
     <message>
         <source>Index</source>
@@ -20626,7 +20626,7 @@ tek bir çalışma sayfasında birleştir</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -42682,7 +42682,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -50825,7 +50825,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Şifre Çözme</translation>
     </message>
     <message>
         <source>Encryption</source>
