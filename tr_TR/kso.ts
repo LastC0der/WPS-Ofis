@@ -21121,7 +21121,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>&amp;Other Texture...</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Dok&amp;u...</translation>
     </message>
     <message>
         <source>Mahogany</source>
@@ -34841,7 +34841,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>&amp;Other encoding:</source>
-        <translation type="unfinished"/>
+        <translation>Diğer k&amp;odlama:</translation>
     </message>
     <message>
         <source>Only Enter</source>
