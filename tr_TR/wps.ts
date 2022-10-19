@@ -4418,7 +4418,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Other:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diğer:</translation>
     </message>
 </context>
 <context>
@@ -6896,7 +6896,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Other pages:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diğer sayfalar:</translation>
     </message>
     <message>
         <source>&amp;Equal column width</source>
@@ -8952,7 +8952,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Template Already Exists</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Zaten Var</translation>
     </message>
     <message>
         <source>Please choose another name.</source>
@@ -9268,7 +9268,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation type="unfinished"/>
+        <translation>Şablonları Al</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9280,7 +9280,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Template Already Exists</source>
-        <translation type="unfinished"/>
+        <translation>Şablon Zaten Var</translation>
     </message>
     <message>
         <source>Please choose another name.</source>
@@ -9429,7 +9429,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>The search item was not found.</source>
-        <translation type="unfinished"/>
+        <translation>Arama öğesi bulunamadı.</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -11007,7 +11007,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>&amp;Other:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diğer:</translation>
     </message>
     <message>
         <source>Convert Text to Table</source>
@@ -40171,7 +40171,7 @@ Okuma</translation>
     <name>KxWpsBrowserTriggerCommand</name>
     <message>
         <source>The search item was not found.</source>
-        <translation type="unfinished"/>
+        <translation>Arama öğesi bulunamadı.</translation>
     </message>
     <message>
         <source>Next Footnote</source>
@@ -40270,15 +40270,15 @@ Okuma</translation>
     <name>KxWpsFindNoneWidget</name>
     <message>
         <source>The search item was not found.</source>
-        <translation type="unfinished"/>
+        <translation>Arama öğesi bulunamadı.</translation>
     </message>
     <message>
         <source>No relevant content was found</source>
-        <translation type="unfinished"/>
+        <translation>İçerik bulunamadı.</translation>
     </message>
     <message>
         <source>Failure to find relevant content cannot be replace</source>
-        <translation type="unfinished"/>
+        <translation>Eşleşen içerik bulunamadığından değiştirme başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -40293,7 +40293,7 @@ Okuma</translation>
     </message>
     <message>
         <source>&amp;Other</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diğer</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -40479,7 +40479,7 @@ Okuma</translation>
     </message>
     <message>
         <source>&amp;Other:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diğer:</translation>
     </message>
     <message>
         <source>&amp;Case Sensitive</source>
