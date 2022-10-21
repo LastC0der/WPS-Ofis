@@ -8651,15 +8651,15 @@ This file may be renamed, deleted or moved.</source>
     <name>KStartupDownloadLangDialog</name>
     <message>
         <source>Install language packs, configure the application environment</source>
-        <translation type="unfinished"/>
+        <translation>Dili yükleyin, ortamı yapılandırın.</translation>
     </message>
     <message>
         <source>After starting WPS, you can download the language online in the settings center</source>
-        <translation type="unfinished"/>
+        <translation>Dili, WPS&apos;yi başlattıktan sonra Ayarlar&apos;dan da indirebilirsiniz.</translation>
     </message>
     <message>
         <source>Choose Language</source>
-        <translation type="unfinished"/>
+        <translation>Dil Seçin</translation>
     </message>
     <message>
         <source>Initialization not completed</source>
