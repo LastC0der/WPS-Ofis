@@ -6007,11 +6007,11 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     </message>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"/>
+        <translation>Bomba</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"/>
+        <translation>Madeni Para</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -21186,11 +21186,11 @@ Birleştir</translation>
     <name>wpp_aeobean</name>
     <message>
         <source>Bomb</source>
-        <translation type="unfinished"/>
+        <translation>Bomba</translation>
     </message>
     <message>
         <source>Coin</source>
-        <translation type="unfinished"/>
+        <translation>Madeni Para</translation>
     </message>
     <message>
         <source>Push</source>
