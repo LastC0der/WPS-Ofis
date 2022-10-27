@@ -13470,11 +13470,11 @@ Template</source>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -22962,7 +22962,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Önceki</translation>
     </message>
     <message>
         <source>Increase Font</source>
