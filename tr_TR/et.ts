@@ -21104,11 +21104,11 @@ Düzenle</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Currency</source>
