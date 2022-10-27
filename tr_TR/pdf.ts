@@ -11352,7 +11352,7 @@ input 1,6, means extract page 1 and 6</source>
     </message>
     <message>
         <source>previous</source>
-        <translation type="unfinished"/>
+        <translation>Önceki</translation>
     </message>
     <message>
         <source>Use existing certificate file</source>
