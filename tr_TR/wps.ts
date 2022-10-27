@@ -4203,7 +4203,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Announcement</source>
-        <translation type="unfinished"/>
+        <translation>Duyuru</translation>
     </message>
     <message>
         <source>Order</source>
@@ -4211,11 +4211,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Secret &amp;Level:</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Seviyesi (&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Telegram:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Telegram:</translation>
     </message>
     <message>
         <source>Post &amp;Unit:</source>
@@ -17725,11 +17725,11 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation type="unfinished"/>
+        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Resmi Dönüştür</translation>
     </message>
     <message>
         <source>Reject Deletion</source>
@@ -19527,7 +19527,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Önceki</translation>
     </message>
     <message>
         <source>Word Count. Click to open &quot;Word Count&quot; dialog.</source>
