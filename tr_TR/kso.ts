@@ -13424,7 +13424,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Şifrele</translation>
     </message>
     <message>
         <source>Do not show this message again.</source>
@@ -27378,7 +27378,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Şifrele</translation>
+        <translation>&amp;Şifrele...</translation>
     </message>
     <message>
         <source>View Menu</source>
