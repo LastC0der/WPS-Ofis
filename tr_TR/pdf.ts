@@ -8468,7 +8468,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>ENCRYPT</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar Tabanlı Şifreleme</translation>
     </message>
     <message>
         <source>SIGNATURE</source>
@@ -8576,7 +8576,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>ENCRYPT</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar Tabanlı Şifreleme</translation>
     </message>
     <message>
         <source>SIGNATURE</source>
@@ -15387,7 +15387,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Şifrele</translation>
     </message>
 </context>
 <context>
