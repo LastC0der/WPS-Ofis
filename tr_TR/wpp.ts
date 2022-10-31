@@ -13394,7 +13394,7 @@ Template</source>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Şifreleme</translation>
     </message>
     <message>
         <source>Chart Elements</source>
