@@ -408,7 +408,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Şifrele</translation>
+        <translation>&amp;Şifrele...</translation>
     </message>
     <message>
         <source>Save File</source>
