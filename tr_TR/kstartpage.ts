@@ -4600,14 +4600,14 @@ This file may have been renamed, deleted or moved.</source>
     <name>KWeatherCurrentWeatherWidget</name>
     <message>
         <source>Switch City</source>
-        <translation type="unfinished"/>
+        <translation>Şehir Değiştir</translation>
     </message>
 </context>
 <context>
     <name>KWeatherErrorUnknowBottomWidget</name>
     <message>
         <source>Switch City</source>
-        <translation type="unfinished"/>
+        <translation>Şehir Değiştir</translation>
     </message>
 </context>
 <context>
