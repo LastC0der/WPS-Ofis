@@ -10873,7 +10873,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Delete After Abstract</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkladıktan Sonra Sil</translation>
     </message>
     <message>
         <source>OddPageMode</source>
@@ -16776,7 +16776,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
+        <translation>Çok sayıda yüksek kaliteli üçüncü taraf mesleklerden istediğiniz işi almak için özgeçmişinizi gönderin.</translation>
     </message>
 </context>
 <context>
@@ -16795,7 +16795,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Delete After Abstract</source>
-        <translation type="unfinished"/>
+        <translation>Ayıkladıktan Sonra Sil</translation>
     </message>
     <message>
         <source>AddWaterM</source>
@@ -16841,7 +16841,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
+        <translation>Çok sayıda yüksek kaliteli üçüncü taraf mesleklerden istediğiniz işi almak için özgeçmişinizi gönderin.</translation>
     </message>
     <message>
         <source>Delivery</source>
