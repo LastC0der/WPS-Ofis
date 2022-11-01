@@ -15690,7 +15690,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Motion Path Point</source>
-        <translation type="unfinished"/>
+        <translation>Hareket Yolu Noktası</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
