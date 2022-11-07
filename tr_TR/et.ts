@@ -27757,7 +27757,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Split Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tabloları Böl</translation>
     </message>
     <message>
         <source>Merge Range Data</source>
@@ -34447,7 +34447,7 @@ Only %2 unique values will be left after delete.</source>
     <name>ongmani.ct_ettoolbox</name>
     <message>
         <source>Split Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tabloları Böl</translation>
     </message>
     <message>
         <source>Merge Range Data</source>
