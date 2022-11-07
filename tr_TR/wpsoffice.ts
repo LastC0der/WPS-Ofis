@@ -933,11 +933,11 @@ Please choose a different file name.</source>
     <name>KPromeTabFilePane</name>
     <message>
         <source>AM</source>
-        <translation type="unfinished"/>
+        <translation>ÖÖ</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation type="unfinished"/>
+        <translation>ÖS</translation>
     </message>
     <message>
         <source>Sync now</source>
@@ -1029,7 +1029,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Share file</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Manually stopped uploading</source>
@@ -1100,19 +1100,19 @@ Please choose a different file name.</source>
     <name>QDateTimeEdit</name>
     <message>
         <source>AM</source>
-        <translation type="unfinished"/>
+        <translation>ÖÖ</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation type="unfinished"/>
+        <translation>ÖS</translation>
     </message>
     <message>
         <source>am</source>
-        <translation type="unfinished"/>
+        <translation>öö</translation>
     </message>
     <message>
         <source>pm</source>
-        <translation type="unfinished"/>
+        <translation>ös</translation>
     </message>
 </context>
 <context>
@@ -4994,11 +4994,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>transfer to my device</source>
-        <translation type="unfinished"/>
+        <translation>Cihazıma Gönder</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"/>
+        <translation>Özellikler</translation>
     </message>
     <message>
         <source>Save As...</source>
@@ -5006,7 +5006,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Share File</source>
-        <translation type="unfinished"/>
+        <translation>Paylaş</translation>
     </message>
     <message>
         <source>Save To Cloud</source>
