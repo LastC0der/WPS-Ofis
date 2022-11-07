@@ -11060,19 +11060,19 @@ Please choose a different file name.</source>
     <name>QDateTimeEdit</name>
     <message>
         <source>AM</source>
-        <translation type="unfinished"/>
+        <translation>ÖÖ</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation type="unfinished"/>
+        <translation>ÖS</translation>
     </message>
     <message>
         <source>am</source>
-        <translation type="unfinished"/>
+        <translation>öö</translation>
     </message>
     <message>
         <source>pm</source>
-        <translation type="unfinished"/>
+        <translation>ös</translation>
     </message>
 </context>
 <context>
