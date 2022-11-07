@@ -720,19 +720,19 @@ Please choose a different file name.</source>
     <name>QDateTimeEdit</name>
     <message>
         <source>AM</source>
-        <translation type="unfinished"/>
+        <translation>ÖÖ</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation type="unfinished"/>
+        <translation>ÖS</translation>
     </message>
     <message>
         <source>am</source>
-        <translation type="unfinished"/>
+        <translation>öö</translation>
     </message>
     <message>
         <source>pm</source>
-        <translation type="unfinished"/>
+        <translation>ös</translation>
     </message>
 </context>
 <context>
@@ -7973,7 +7973,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Clear Cache</source>
-        <translation type="unfinished"/>
+        <translation>Önbelleği Temizle</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12509,11 +12509,11 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>Clear Cache</source>
-        <translation type="unfinished"/>
+        <translation>Önbelleği Temizle</translation>
     </message>
     <message>
         <source>Cache:</source>
-        <translation type="unfinished"/>
+        <translation>Önbellek:</translation>
     </message>
     <message>
         <source>Custom</source>
