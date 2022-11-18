@@ -12650,7 +12650,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>SpotLight</source>
-        <translation type="unfinished"/>
+        <translation>Öne Çıkanlar</translation>
     </message>
     <message>
         <source>Close All</source>
@@ -12662,7 +12662,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Remove Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuğu Kaldır</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -15209,7 +15209,7 @@ Okuma</translation>
     </message>
     <message>
         <source>SpotLight</source>
-        <translation type="unfinished"/>
+        <translation>Öne Çıkanlar</translation>
     </message>
     <message>
         <source>Backup Settings</source>
@@ -15229,7 +15229,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Spotlight</source>
-        <translation type="unfinished"/>
+        <translation>Öne Çıkanlar</translation>
     </message>
     <message>
         <source>New File Menu</source>
@@ -22954,7 +22954,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>spotlight</source>
-        <translation type="unfinished"/>
+        <translation>Odak</translation>
     </message>
     <message>
         <source>Pause timer</source>
