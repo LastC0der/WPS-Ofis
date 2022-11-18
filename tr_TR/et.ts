@@ -20152,7 +20152,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Remove Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuğu Kaldır</translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
