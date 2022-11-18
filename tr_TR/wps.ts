@@ -16772,7 +16772,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Remove Bar</source>
-        <translation type="unfinished"/>
+        <translation>Çubuğu Kaldır</translation>
     </message>
     <message>
         <source>Hyperlink</source>
