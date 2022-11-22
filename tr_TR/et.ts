@@ -7346,7 +7346,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Draft</source>
-        <translation type="unfinished"/>
+        <translation>Taslak</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -7427,7 +7427,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"/>
+        <translation>Tamsayı</translation>
     </message>
     <message>
         <source>To_a1</source>
@@ -10226,7 +10226,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>Prob_range</source>
-        <translation type="unfinished"/>
+        <translation>Olasılık_aralığı</translation>
     </message>
     <message>
         <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
@@ -10242,7 +10242,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>The selected data cannot be applied to the default chart type.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen veriler, varsayılan grafik türüne uygulanamaz.</translation>
     </message>
     <message>
         <source>is a value or expression that can be evaluated to TRUE or FALSE.</source>
@@ -10251,7 +10251,7 @@ Bunun çeşitli nedenleri olabilir:
     <message>
         <source>Integer</source>
         <comment>TX_AutoInput_Integer</comment>
-        <translation type="unfinished"/>
+        <translation>Tamsayı</translation>
     </message>
     <message>
         <source>Bar_num</source>
