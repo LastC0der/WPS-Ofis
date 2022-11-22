@@ -20631,7 +20631,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Select to the start of the document</source>
-        <translation type="unfinished"/>
+        <translation>Belgenin başlangıcına kadar seçin</translation>
     </message>
     <message>
         <source>Default</source>
@@ -20651,11 +20651,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Select to the end of the document</source>
-        <translation type="unfinished"/>
+        <translation>Belgenin sonuna kadar seçin</translation>
     </message>
     <message>
         <source>Select to the end of the block</source>
-        <translation type="unfinished"/>
+        <translation>Bloğun sonuna kadar seçin</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -20683,7 +20683,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Move the cursor to the previous word</source>
-        <translation type="unfinished"/>
+        <translation>İmleci önceki kelimeye taşı</translation>
     </message>
     <message>
         <source>Move the cursor to the previous line</source>
@@ -20715,7 +20715,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Select to the previous character</source>
-        <translation type="unfinished"/>
+        <translation>Önceki karaktere git</translation>
     </message>
     <message>
         <source>Go Back</source>
@@ -20735,19 +20735,19 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Hide Spelling and Grammar</source>
-        <translation type="unfinished"/>
+        <translation>Yazım ve Dil Bilgisini Gizle</translation>
     </message>
     <message>
         <source>%1 (%2x%3 pixels)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2x%3 piksel)</translation>
     </message>
     <message>
         <source>Select to the next word</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki kelimeye geç</translation>
     </message>
     <message>
         <source>Select to the next line</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki satıra git</translation>
     </message>
 </context>
 <context>
@@ -35665,11 +35665,11 @@ Please check your system settings and ensure that the temporary directory under 
     <name>Phonon::Gstreamer::MediaObject</name>
     <message>
         <source>Could not open media source.</source>
-        <translation type="unfinished"/>
+        <translation>Medya kaynağı açılamadı.</translation>
     </message>
     <message>
         <source>Could not decode media source.</source>
-        <translation type="unfinished"/>
+        <translation>Medya kaynağının kodu çözülemedi.</translation>
     </message>
     <message>
         <source>Invalid source type.</source>
