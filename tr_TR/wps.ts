@@ -7646,7 +7646,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>DRAFT</source>
-        <translation type="unfinished"/>
+        <translation>TASLAK</translation>
     </message>
     <message>
         <source>Right</source>
@@ -7901,7 +7901,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Gri&amp;d</source>
-        <translation type="unfinished"/>
+        <translation>Kılav&amp;uz</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
