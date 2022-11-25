@@ -2541,7 +2541,7 @@ this file has been opened, can not write data.please close file and retry.</tran
     </message>
     <message>
         <source>renamed file from %1</source>
-        <translation>renamed %1</translation>
+        <translation>renamedÂ %1</translation>
     </message>
     <message>
         <source>was by</source>
