@@ -2142,7 +2142,7 @@ Easy mobile office.</source>
     <name>KUpgradeVipAssistDialog</name>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
 </context>
 <context>
