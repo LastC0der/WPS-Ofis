@@ -1255,7 +1255,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydetme</translation>
     </message>
 </context>
 <context>
@@ -4258,7 +4258,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
     <message>
         <source>Upgrade to SVIP</source>
@@ -9874,7 +9874,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KVipStateTipsBubble</name>
     <message>
         <source>Upgrade to VIP</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
     <message>
         <source>WPS cloud service</source>
