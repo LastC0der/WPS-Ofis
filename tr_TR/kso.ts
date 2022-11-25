@@ -12830,7 +12830,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydetme</translation>
     </message>
 </context>
 <context>
@@ -28505,7 +28505,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydetme</translation>
     </message>
 </context>
 <context>
