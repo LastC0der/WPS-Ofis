@@ -1128,7 +1128,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
