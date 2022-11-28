@@ -25523,7 +25523,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk</translation>
     </message>
     <message>
         <source>Example</source>
