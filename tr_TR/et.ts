@@ -14294,7 +14294,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"/>
+        <translation>Özel Renk</translation>
     </message>
     <message>
         <source>Could not get data. Verify that the network link is normal or that the URL is correct</source>
@@ -45236,7 +45236,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk</translation>
     </message>
     <message>
         <source>Effects</source>
