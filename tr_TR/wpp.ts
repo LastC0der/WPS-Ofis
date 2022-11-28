@@ -2812,7 +2812,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Slide(From Outline)</source>
-        <translation type="unfinished"/>
+        <translation>Slayt (Anahattan İçe Aktar)</translation>
     </message>
     <message>
         <source>Collapse Section</source>
@@ -3430,7 +3430,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"/>
+        <translation>Solarak</translation>
     </message>
     <message>
         <source>Fast</source>
@@ -5371,12 +5371,12 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"/>
+        <translation>Özel Renk</translation>
     </message>
     <message>
         <source>Fade</source>
         <comment>wpp_sAnimExitEffectTextFade</comment>
-        <translation type="unfinished"/>
+        <translation>Solarak</translation>
     </message>
     <message>
         <source>Seconds &amp;Delayed Between Letters/Words</source>
@@ -10756,7 +10756,7 @@ Slide</source>
     </message>
     <message>
         <source>Slide(From Outline)</source>
-        <translation type="unfinished"/>
+        <translation>Slayt (Anahattan İçe Aktar)</translation>
     </message>
     <message>
         <source>Vertical direction(right to left)</source>
@@ -13200,7 +13200,7 @@ Template</source>
     </message>
     <message>
         <source>Slide(From Outline)</source>
-        <translation type="unfinished"/>
+        <translation>Slayt (Anahattan İçe Aktar)</translation>
     </message>
     <message>
         <source>More DesignTemplates</source>
@@ -14021,7 +14021,7 @@ Master</source>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"/>
+        <translation>Solarak</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -17525,7 +17525,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk</translation>
     </message>
     <message>
         <source>Pen gallery</source>
@@ -20856,7 +20856,7 @@ Kapat</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -25592,7 +25592,7 @@ Aracı</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -25701,7 +25701,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel Renkler</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -25797,7 +25797,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel Renkler</translation>
     </message>
     <message>
         <source>Effects</source>
