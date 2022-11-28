@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Automatically switch the appearance with the system, restart the application to take effect</source>
-        <translation type="unfinished"/>
+        <translation>Görünümü sistemle otomatik olarak değiştirin, etkili olması için uygulamayı yeniden başlatın</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -1969,7 +1969,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydetme</translation>
     </message>
 </context>
 <context>
