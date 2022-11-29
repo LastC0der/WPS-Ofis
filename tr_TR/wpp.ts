@@ -1668,7 +1668,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>modify permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri değiştir</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -2006,17 +2006,17 @@ For example, 1,3,5-9.</source>
     <message>
         <source>9 vertical slides</source>
         <comment>WpPrintWays_9VerticalSlides</comment>
-        <translation type="unfinished"/>
+        <translation>9 dikey slayt</translation>
     </message>
     <message>
         <source>4 vertical slides</source>
         <comment>WpPrintWays_4VerticalSlides</comment>
-        <translation type="unfinished"/>
+        <translation>4 dikey slayt</translation>
     </message>
     <message>
         <source>6 vertical slides</source>
         <comment>WpPrintWays_6VerticalSlides</comment>
-        <translation type="unfinished"/>
+        <translation>6 dikey slayt</translation>
     </message>
     <message>
         <source>*.webm</source>
@@ -2191,7 +2191,7 @@ Ekle</translation>
     <message>
         <source>4 horizontal slides</source>
         <comment>WpPrintWays_4HorizontalSlides</comment>
-        <translation type="unfinished"/>
+        <translation>4 yatay slayt</translation>
     </message>
     <message>
         <source>Full Slide</source>
@@ -2341,12 +2341,12 @@ Check</source>
     <message>
         <source>6 horizontal slides</source>
         <comment>WpPrintWays_6HorizontalSlides</comment>
-        <translation type="unfinished"/>
+        <translation>6 yatay slayt</translation>
     </message>
     <message>
         <source>9 horizontal slides</source>
         <comment>WpPrintWays_9HorizontalSlides</comment>
-        <translation type="unfinished"/>
+        <translation>9 yatay slayt</translation>
     </message>
     <message>
         <source>Typography</source>
@@ -26402,7 +26402,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Open the compressed file</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırılmış dosyayı aç</translation>
     </message>
     <message>
         <source>File package has been completed, you can carry out other operations.</source>
