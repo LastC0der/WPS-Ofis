@@ -6633,7 +6633,7 @@ Okuma</translation>
     </message>
     <message>
         <source>SetDefTCB</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Olarak Ayarla</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -6657,7 +6657,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Mail FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>E-posta ile Geri Bildirim</translation>
     </message>
     <message>
         <source>Bg_Daylight</source>
