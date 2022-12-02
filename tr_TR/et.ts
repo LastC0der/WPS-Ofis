@@ -27970,7 +27970,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Ayarı</translation>
     </message>
     <message>
         <source>JdeControl Popup Menu</source>
@@ -42379,7 +42379,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Ayarı</translation>
     </message>
     <message>
         <source>Auto Save File</source>
