@@ -14632,7 +14632,7 @@ Master</source>
     </message>
     <message>
         <source>Shortcut Setting</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Ayarı</translation>
     </message>
     <message>
         <source>JdeControl Popup Menu</source>
@@ -16898,7 +16898,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Ayarı</translation>
     </message>
     <message>
         <source>Auto Save File</source>
