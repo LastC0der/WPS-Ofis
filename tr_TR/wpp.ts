@@ -593,11 +593,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Printing options</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma seçenekleri</translation>
     </message>
     <message>
         <source>Save options</source>
-        <translation type="unfinished"/>
+        <translation>Kaydetme seçenekleri</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
@@ -761,7 +761,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Backup files cache:</source>
-        <translation type="unfinished"/>
+        <translation>Saklama süresi:</translation>
     </message>
     <message>
         <source>Language</source>
@@ -769,7 +769,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Password &amp;hint:</source>
-        <translation type="unfinished"/>
+        <translation>Parola &amp;ipucu:</translation>
     </message>
     <message>
         <source>&amp;High quality printing</source>
