@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>To delete your account:</source>
-        <translation type="unfinished"/>
+        <translation>Hesabınızı silmek için:</translation>
     </message>
 </context>
 <context>
@@ -228,7 +228,7 @@
     </message>
     <message>
         <source>I have understood the above risks</source>
-        <translation type="unfinished"/>
+        <translation>Yukarıdaki riskleri anladım</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -286,7 +286,7 @@
     </message>
     <message>
         <source>Kingsoft Pdf Configuration Tools</source>
-        <translation type="unfinished"/>
+        <translation>Kingsoft Pdf Yapılandırma Araçları</translation>
     </message>
     <message>
         <source>License agreement</source>
@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
-        <translation type="unfinished"/>
+        <translation>WPS&apos;yi yeniden başlatmanız gerekir, veri kaybını önlemek için lütfen tüm dosyaları önceden kapatın</translation>
     </message>
     <message>
         <source>Successfully switch to </source>
@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Programs that can be activated</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirilebilen programlar</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -383,11 +383,11 @@
     </message>
     <message>
         <source>Are you sure to delete the serial number?</source>
-        <translation type="unfinished"/>
+        <translation>Seri numarasını silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Seri Numarası</translation>
     </message>
 </context>
 <context>
@@ -398,11 +398,11 @@
     </message>
     <message>
         <source>Switch Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm Değiştir</translation>
     </message>
     <message>
         <source>Switch to the new ve&amp;rsion</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sü&amp;rüme geç</translation>
     </message>
     <message>
         <source>You are using an older version of WPS Office. The new version has greatly improved and enhanced in functionality and performance. We recommend that you use the new version.</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>Switch to old ve&amp;rsion</source>
-        <translation type="unfinished"/>
+        <translation>Eski sü&amp;rüme geç</translation>
     </message>
     <message>
         <source>Click the button below to switch to the new version, you must restart WPS Office for the action to take effect.</source>
