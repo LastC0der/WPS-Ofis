@@ -2541,7 +2541,7 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
     </message>
     <message>
         <source>renamed file from %1</source>
-        <translation>mengganti namaÂ %1</translation>
+        <translation>mengganti nama %1</translation>
     </message>
     <message>
         <source>was by</source>
