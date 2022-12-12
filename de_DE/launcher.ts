@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation>DesktopverknÃ¼pfungen erstellen</translation>
+        <translation>Desktopverknüpfungen erstellen</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
