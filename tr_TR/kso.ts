@@ -1441,11 +1441,11 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>H&amp;ue:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ton:</translation>
     </message>
     <message>
         <source>Divot</source>
-        <translation type="unfinished"/>
+        <translation>Çimen</translation>
     </message>
     <message>
         <source>Inflate</source>
@@ -31387,7 +31387,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>TICK MARKS</source>
-        <translation type="unfinished"/>
+        <translation>DEĞER ÇİZGİLERİ</translation>
     </message>
     <message>
         <source>LEGEND OPTIONS</source>
@@ -31500,7 +31500,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Divot</source>
-        <translation type="unfinished"/>
+        <translation>Çimen</translation>
     </message>
     <message>
         <source>Plaid</source>
