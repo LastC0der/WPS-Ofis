@@ -6186,7 +6186,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Custom Color</source>
-        <translation type="unfinished"/>
+        <translation>Özel Renk</translation>
     </message>
     <message>
         <source>For &amp;which caption:</source>
@@ -18425,7 +18425,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Shortcut Setting</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Ayarı</translation>
     </message>
     <message>
         <source>Fit Text</source>
@@ -18457,7 +18457,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Local Search</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Arama</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
@@ -19523,7 +19523,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Mail FeedBack</source>
-        <translation type="unfinished"/>
+        <translation>E-posta Geri Bildirimi</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -21447,7 +21447,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>modify permissions</source>
-        <translation type="unfinished"/>
+        <translation>İzinleri değiştir</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -25663,7 +25663,7 @@ Böl</translation>
     </message>
     <message>
         <source>Align Top Center</source>
-        <translation type="unfinished"/>
+        <translation>Üst Ortaya Hizala</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -25715,7 +25715,7 @@ Böl</translation>
     </message>
     <message>
         <source>Align Top Right</source>
-        <translation type="unfinished"/>
+        <translation>Üst Sağa Hizala</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -25735,7 +25735,7 @@ Böl</translation>
     </message>
     <message>
         <source>Align Bottom Right</source>
-        <translation type="unfinished"/>
+        <translation>Alt Sağa Hizala</translation>
     </message>
     <message>
         <source>Repeat Header Rows</source>
@@ -26304,7 +26304,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -26879,7 +26879,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Custom color</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk</translation>
     </message>
     <message>
         <source>Pen gallery</source>
@@ -31867,7 +31867,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Shortcut Setting</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol Ayarı</translation>
     </message>
     <message>
         <source>Auto Save File</source>
@@ -32798,7 +32798,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation type="unfinished"/>
+        <translation>Satır Aralığını Arttır</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -37192,7 +37192,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
@@ -37203,7 +37203,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation type="unfinished"/>
+        <translation>Daire İçinde Sayı</translation>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -37239,7 +37239,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
@@ -37250,7 +37250,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation type="unfinished"/>
+        <translation>Daire İçinde Sayı</translation>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -37286,7 +37286,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
@@ -37297,7 +37297,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation type="unfinished"/>
+        <translation>Daire İçinde Sayı</translation>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -37333,7 +37333,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
@@ -37344,7 +37344,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation type="unfinished"/>
+        <translation>Daire İçinde Sayı</translation>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -37380,7 +37380,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
@@ -37391,7 +37391,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation type="unfinished"/>
+        <translation>Daire İçinde Sayı</translation>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -37423,7 +37423,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
@@ -38906,19 +38906,19 @@ Numarası</translation>
     </message>
     <message>
         <source>Insert Citation</source>
-        <translation type="unfinished"/>
+        <translation>Alıntı Ekle</translation>
     </message>
     <message>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kitaplıklar</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"/>
+        <translation>Ara:</translation>
     </message>
     <message>
         <source>Find Citation:</source>
-        <translation type="unfinished"/>
+        <translation>Alıntı Bul:</translation>
     </message>
 </context>
 <context>
@@ -39375,11 +39375,11 @@ Temizle</translation>
     </message>
     <message>
         <source>Insert Blank Paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>Boş Paragraflar Ekle</translation>
     </message>
     <message>
         <source>Delete Spaces</source>
-        <translation type="unfinished"/>
+        <translation>Boşlukları Sil</translation>
     </message>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
@@ -51250,7 +51250,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Align Top Center</source>
-        <translation type="unfinished"/>
+        <translation>Üst Ortaya Hizala</translation>
     </message>
     <message>
         <source>Text Direction Options</source>
@@ -51290,7 +51290,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Align Top Right</source>
-        <translation type="unfinished"/>
+        <translation>Üst Sağa Hizala</translation>
     </message>
     <message>
         <source>Fast Calculation</source>
@@ -51306,7 +51306,7 @@ Efektler</translation>
     </message>
     <message>
         <source>Align Bottom Right</source>
-        <translation type="unfinished"/>
+        <translation>Alt Sağa Hizala</translation>
     </message>
     <message>
         <source>Repeat Header Rows</source>
@@ -55582,7 +55582,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation type="unfinished"/>
+        <translation>Daire İçinde Sayı</translation>
     </message>
     <message>
         <source>Ⅰ.Ⅱ.Ⅲ.</source>
@@ -55618,7 +55618,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation type="unfinished"/>
+        <translation>Kavram Yazı Rakamları, geniş nokta</translation>
     </message>
 </context>
 <context>
@@ -56128,7 +56128,7 @@ to Email</source>
     </message>
     <message>
         <source>Increase Line Spacing</source>
-        <translation type="unfinished"/>
+        <translation>Satır Aralığını Arttır</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
