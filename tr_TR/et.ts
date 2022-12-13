@@ -13632,7 +13632,7 @@ contents.
     </message>
     <message>
         <source>New Record</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Kayıt</translation>
     </message>
     <message>
         <source>Row %d</source>
@@ -46486,11 +46486,11 @@ To continue saving as a macro-free workbook, click Yes.</source>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uos)</source>
-        <translation type="unfinished"/>
+        <translation>Çince Office Belge Biçimi(*.uos)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
-        <translation type="unfinished"/>
+        <translation>Çince Office Belge Biçimi(*.uof)</translation>
     </message>
     <message>
         <source>The worksheet you are trying to save is password-protected, which can not be saved as HTML Spreadsheets.If you must save it as HTML Spreadsheets, please delete the password first.</source>
@@ -47274,7 +47274,7 @@ Aktar</translation>
     </message>
     <message>
         <source>New Record</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Kayıt</translation>
     </message>
     <message>
         <source>%1 / %2</source>
