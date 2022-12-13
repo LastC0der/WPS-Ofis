@@ -2491,7 +2491,7 @@ Check</source>
     </message>
     <message>
         <source>Edit Table Borders</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Kenarlıklarını Düzenle</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -2499,7 +2499,7 @@ Check</source>
     </message>
     <message>
         <source>Select Audio On This Slide</source>
-        <translation type="unfinished"/>
+        <translation>Bu Slaytta Sesi Seçin</translation>
     </message>
     <message>
         <source>Paragraphs</source>
@@ -2507,7 +2507,7 @@ Check</source>
     </message>
     <message>
         <source>Delete Flash Picture</source>
-        <translation type="unfinished"/>
+        <translation>Flaş Resmi Sil</translation>
     </message>
     <message>
         <source>Decrease Paragraph Spacing</source>
@@ -2536,7 +2536,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
-        <translation type="unfinished"/>
+        <translation>Çince Office Belge Biçimi(*.uof)</translation>
     </message>
     <message>
         <source>Translate</source>
@@ -2548,7 +2548,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show(*.pps)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft PowerPoint 97-2003 Gösterisi(*.pps)</translation>
     </message>
     <message>
         <source>Master Layout</source>
