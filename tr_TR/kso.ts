@@ -4285,7 +4285,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>İzin ilkesi seçmeniz, bu belge için ayarladığınız varolan izinlerini değiştirir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Bullets</source>
@@ -24841,7 +24841,8 @@ Possible reasons:
     <message>
         <source>'%1' is write protected.
 Do you want to delete it anyway?</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; yazma korumalı.
+Yine de silmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>File &amp;name:</source>
@@ -24940,7 +24941,8 @@ Please verify the correct directory name was given.</source>
     <message>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>%1 zaten var.
+Değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Forward</source>
