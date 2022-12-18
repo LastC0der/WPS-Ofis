@@ -5343,7 +5343,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
-        <translation type="unfinished"/>
+        <translation>Dosya zaten var. Varolan dosyayı değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Dark Up Diagonal</source>
