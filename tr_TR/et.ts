@@ -8971,7 +8971,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Data is already exist here. Do you want to replace it?</source>
-        <translation type="unfinished"/>
+        <translation>Veriler burada zaten var. Değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>is the text whose length you want to find. Spaces count as characters.</source>
@@ -11428,7 +11428,7 @@ Sil</translation>
     </message>
     <message>
         <source>The Formula contains an error now. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Formül şimdi bir hata içeriyor. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>is the last period in the calculation</source>
@@ -13293,7 +13293,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
-        <translation type="unfinished"/>
+        <translation>Dosya zaten var. Varolan dosyayı değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Vertical Justify Aligned</source>
@@ -45898,7 +45898,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>What analysis do you want to do</source>
-        <translation type="unfinished"/>
+        <translation>Beklenen Analiz</translation>
     </message>
     <message>
         <source>(Scope / dimension)</source>
@@ -47643,7 +47643,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>What do you want to do?</source>
-        <translation type="unfinished"/>
+        <translation>Ne yapmak istiyorsunuz?</translation>
     </message>
     <message>
         <source>Sort Warning</source>
@@ -52153,7 +52153,7 @@ Summary</source>
     </message>
     <message>
         <source>What do you want to do?</source>
-        <translation type="unfinished"/>
+        <translation>Ne yapmak istiyorsunuz?</translation>
     </message>
     <message>
         <source>Remove Duplicates Warning</source>
