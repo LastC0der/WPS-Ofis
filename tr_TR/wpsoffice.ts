@@ -5148,7 +5148,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1: Socket operation timed out</source>
-        <translation type="unfinished"/>
+        <translation>%1: Soket işlemi zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>%1: Datagram too large</source>
