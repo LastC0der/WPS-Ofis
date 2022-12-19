@@ -29297,7 +29297,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1: Socket operation timed out</source>
-        <translation type="unfinished"/>
+        <translation>%1: Soket işlemi zaman aşımına uğradı</translation>
     </message>
     <message>
         <source>%1: Datagram too large</source>
