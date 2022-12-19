@@ -20726,7 +20726,7 @@ tek bir çalışma sayfasında birleştir</translation>
     </message>
     <message>
         <source>Delete Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklemi Sil</translation>
     </message>
     <message>
         <source>Format Drop Lines</source>
