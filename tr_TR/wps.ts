@@ -17390,7 +17390,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Delete Equation</source>
-        <translation type="unfinished"/>
+        <translation>Denklemi Sil</translation>
     </message>
     <message>
         <source>Format Drop Lines</source>
@@ -17398,7 +17398,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Switch Row/Column</source>
-        <translation type="unfinished"/>
+        <translation>Satır/Sütun Değiştir</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -25659,7 +25659,7 @@ Böl</translation>
     </message>
     <message>
         <source>Switch Row/Column</source>
-        <translation type="unfinished"/>
+        <translation>Satır/Sütun Değiştir</translation>
     </message>
     <message>
         <source>Align Top Center</source>
