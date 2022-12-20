@@ -3275,7 +3275,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>has checked %1 </source>
@@ -10545,11 +10545,11 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Ok(C)</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel(N)</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Dialog</source>
