@@ -30353,7 +30353,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Accept Shown Changes in Document</source>
-        <translation type="unfinished"/>
+        <translation>Gösterilen Değişiklikleri Kabul Et</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -36294,7 +36294,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Accept Shown Changes in Document</source>
-        <translation type="unfinished"/>
+        <translation>Gösterilen Değişiklikleri Kabul Et</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
@@ -43855,7 +43855,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>kxDlgThesaurus</name>
     <message>
         <source>&amp;Alternatives:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alternatifler:</translation>
     </message>
     <message>
         <source>&amp;Language</source>
@@ -55490,7 +55490,7 @@ Dönüştür</translation>
     </message>
     <message>
         <source>Accept Shown Changes in Document</source>
-        <translation type="unfinished"/>
+        <translation>Gösterilen Değişiklikleri Kabul Et</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
