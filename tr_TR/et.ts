@@ -50395,7 +50395,7 @@ prior to sharing the workbook.</source>
     <name>kxDlgThesaurus</name>
     <message>
         <source>&amp;Alternatives:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alternatifler:</translation>
     </message>
     <message>
         <source>&amp;Language</source>
