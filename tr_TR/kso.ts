@@ -26173,7 +26173,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>N&amp;one</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;ok</translation>
     </message>
     <message>
         <source>Enter 2 to 72 of value</source>
