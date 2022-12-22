@@ -42182,7 +42182,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>File Backup</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yedekleme</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -43175,7 +43175,7 @@ Other Window</source>
     </message>
     <message>
         <source>Night Mode</source>
-        <translation type="unfinished"/>
+        <translation>Gece Modu</translation>
     </message>
     <message>
         <source>Worksheet Options</source>
@@ -50800,7 +50800,7 @@ Hata Kodu: %3
     </message>
     <message>
         <source>File backup</source>
-        <translation type="unfinished"/>
+        <translation>Dosya yedekleme</translation>
     </message>
     <message>
         <source>Offline Management</source>
@@ -60501,7 +60501,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>File Backup</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yedekleme</translation>
     </message>
     <message>
         <source>More Colors</source>
