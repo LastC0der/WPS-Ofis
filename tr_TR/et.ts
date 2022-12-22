@@ -42408,7 +42408,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Setting Link</source>
-        <translation type="unfinished"/>
+        <translation>Ayar Bağlantısı</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
