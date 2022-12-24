@@ -201,7 +201,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluşun dosyaları yalnızca o kuruluşa kaydedilebilir.</translation>
     </message>
     <message>
         <source>Dropbox</source>
