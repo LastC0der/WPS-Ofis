@@ -5600,7 +5600,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"/>
+        <translation>Veya</translation>
     </message>
     <message>
         <source>And</source>
@@ -16397,11 +16397,11 @@ You may still need to manually update any references to this name used in VBA co
     <name>KValuesWidget</name>
     <message>
         <source>Or</source>
-        <translation type="unfinished"/>
+        <translation>Veya</translation>
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"/>
+        <translation>Ve</translation>
     </message>
     <message>
         <source>Begin With</source>
@@ -16736,7 +16736,7 @@ You may still need to manually update any references to this name used in VBA co
     <name>et_et_dbe</name>
     <message>
         <source>Or</source>
-        <translation type="unfinished"/>
+        <translation>Veya</translation>
     </message>
     <message>
         <source> &lt;,</source>
@@ -16752,11 +16752,11 @@ You may still need to manually update any references to this name used in VBA co
     </message>
     <message>
         <source>And</source>
-        <translation type="unfinished"/>
+        <translation>Ve</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation type="unfinished"/>
+        <translation>Harita</translation>
     </message>
     <message>
         <source> !=,</source>
@@ -29356,7 +29356,7 @@ Window</source>
     </message>
     <message>
         <source>Map</source>
-        <translation type="unfinished"/>
+        <translation>Harita</translation>
     </message>
     <message>
         <source>Document Fix</source>
