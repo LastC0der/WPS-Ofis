@@ -1117,7 +1117,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Or</source>
-        <translation type="unfinished"/>
+        <translation>Veya</translation>
     </message>
     <message>
         <source>Already have an account?</source>
