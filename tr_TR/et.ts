@@ -44013,7 +44013,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Scope</source>
-        <translation type="unfinished"/>
+        <translation>Kapsam</translation>
     </message>
     <message>
         <source>Value</source>
@@ -48541,7 +48541,7 @@ Değer: </translation>
     </message>
     <message>
         <source>scope</source>
-        <translation type="unfinished"/>
+        <translation>kapsam</translation>
     </message>
     <message>
         <source>Invalid Input.</source>
