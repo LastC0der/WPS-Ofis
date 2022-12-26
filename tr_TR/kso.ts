@@ -24172,7 +24172,7 @@ Possible reasons:
     <name>KxEulaDlg</name>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>ve</translation>
     </message>
     <message>
         <source>Have read and agreed to Kingsoft Office Software</source>
@@ -32661,7 +32661,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Out of resources</source>
-        <translation type="unfinished"/>
+        <translation>Yeterli kaynak yok</translation>
     </message>
 </context>
 <context>
@@ -32676,15 +32676,15 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Error while uploading %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 yüklenirken hata oluştu: %2</translation>
     </message>
     <message>
         <source>Cannot open %1: is a directory</source>
-        <translation type="unfinished"/>
+        <translation>%1 açılamıyor: bir dizindir</translation>
     </message>
     <message>
         <source>Logging in to %1 failed: authentication required</source>
-        <translation type="unfinished"/>
+        <translation>%1&apos;de oturum açılamadı: kimlik doğrulama gerekli</translation>
     </message>
 </context>
 <context>
