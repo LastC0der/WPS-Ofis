@@ -18837,7 +18837,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <source>Split</source>
@@ -43258,7 +43258,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"/>
+        <translation>Ses</translation>
     </message>
     <message>
         <source>Edit Code</source>
