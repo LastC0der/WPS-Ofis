@@ -4,7 +4,7 @@
 <context>
     <name></name>
     <message>
-        <source>EditConnectionProperties,title</source>
+        <source>EditConnectionProperties.title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
