@@ -2,8 +2,8 @@
 <context>
     <name/>
     <message>
-        <source>EditConnectionProperties,title</source>
-        <translation type="unfinished"/>
+        <source>EditConnectionProperties.title</source>
+        <translation>Bağlantı Özelliklerini Düzenle</translation>
     </message>
     <message>
         <source>ComAddin.content</source>
