@@ -44,6 +44,18 @@
         <source>warning</source>
         <translation>Avertissement</translation>
     </message>
+    <message>
+        <source>Null</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation>Attente</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Avertissement</translation>
+    </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
