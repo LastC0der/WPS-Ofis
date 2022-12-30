@@ -3310,10 +3310,11 @@ Check path and filename.</source>
         <source>Move the cursor to the previous line</source>
         <translation type="unfinished"></translation>
     </message>
-    <message numerus="no">
+    <message numerus="yes">
         <source>%n file(s)</source>
         <translation>
-            <numerusform></numerusform>        
+        <translation type="unfinished">
+            <numerusform></numerusform>            
         </translation>
     </message>
     <message>
