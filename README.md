@@ -4,3 +4,6 @@ Transifex botu yardımıyla çeviri yaptığım dosyaları ara ara "tr_TR" dizin
 Yeni sürümler çıktığı ve ben çeviri yaptığım sürece repo güncellenecek. Daha yoğun kullandığımdan dolayı çeviri önceliği Excel kısmında olacak.
 https://linux.wps.com/
 https://wps.com/
+
+
+kso, qing, wpsoffice dosyalarında <message numerus="yes"> kısımlarında bir sorun çıktı, transifex botu çalışmıyor.
