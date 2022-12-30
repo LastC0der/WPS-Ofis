@@ -42,12 +42,20 @@
         <translation>Screen Recorder</translation>
     </message>
     <message>
+        <source>Batch rename files with set rules</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Powerful text and image editing tools</source>
         <translation>Powerful text and image editing tools</translation>
     </message>
     <message>
         <source>Sorry, screen recording is not currently supported on XP system devices. It is recommended to use screen recording on WIN10 system devices.</source>
         <translation>Sorry, screen recorder is not supported on XP devices now. We recommend that you use screen recorder on Windows 10 devices.</translation>
+    </message>
+    <message>
+        <source>Batch print settings and batch printing for multiple PDF documents</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -58,8 +66,16 @@
         <translation>Create Forms, Surveys, Audits, Assessments and Exams.</translation>
     </message>
     <message>
+        <source>ET Tool Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Layout unchanged, Keep all style and format</source>
         <translation>Layout unchanged, Keep all style and format</translation>
+    </message>
+    <message>
+        <source>Batch Rename Files</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Support exporting files in batch and specifying page ranges</source>
@@ -78,6 +94,14 @@
         <translation>Split/Merge</translation>
     </message>
     <message>
+        <source>PDF to CAD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CAD to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Academy</source>
         <translation>WPS Academy</translation>
     </message>
@@ -92,6 +116,10 @@
     <message>
         <source>Translate</source>
         <translation>Translate</translation>
+    </message>
+    <message>
+        <source>Batch PDF Printing</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smart Form</source>
@@ -122,6 +150,10 @@
         <translation>Export to PDF</translation>
     </message>
     <message>
+        <source>Convert CAD files (DWG/DWT/DXF, etc.) to PDF files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Template</source>
         <translation>Templates</translation>
     </message>
@@ -140,6 +172,10 @@
     <message>
         <source>Resume Master</source>
         <translation>Resume Master</translation>
+    </message>
+    <message>
+        <source>Convert PDF files to CAD files (DWG/DWT/DXF, etc.)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Free WPS Office tutorials</source>
