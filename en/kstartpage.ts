@@ -860,10 +860,6 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Activity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete and Leave Team</source>
         <translation type="unfinished"></translation>
     </message>
@@ -921,10 +917,6 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>WPP/PowerPoint Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Team files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1164,10 +1156,6 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search local files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1429,49 +1417,6 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KEntry</name>
-    <message>
-        <source>Apps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Home</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Team</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>company manage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create Company</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New From Docer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calendar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KRecAppLoadingWidget</name>
     <message>
         <source>Back</source>
@@ -1623,6 +1568,29 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KEntry</name>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KMarkColorButton</name>
     <message>
         <source>Mark</source>
@@ -1651,10 +1619,6 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>History version manager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1672,9 +1636,17 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KCreationAreaMoreApp</name>
+    <name>KCreationAreaView</name>
     <message>
         <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start a new document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Edit</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1682,6 +1654,17 @@ This file may have been renamed, deleted or moved.</source>
     <name>KcloudLoginMoreWidget</name>
     <message>
         <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNewUserGuideCommonTip</name>
+    <message>
+        <source>Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get Started</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1931,10 +1914,6 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can drag and drop files to share with members.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1986,13 +1965,68 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KCloudStorageContentWidget</name>
+    <name>KComponentItem</name>
     <message>
-        <source>Cloud space is full</source>
+        <source>task</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get for Free</source>
+        <source>docer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docer Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>action_component</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weather Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weather Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docer Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>docer_component</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudStorageContentWidget</name>
+    <message>
+        <source>Cloud space is full</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2004,6 +2038,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Please clean up unnecessary files in your network disk to make more space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>cloud size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2011,15 +2049,34 @@ This file may have been renamed, deleted or moved.</source>
         <source>upgrade</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Please clean up unnecessary files in your network disk to make more space</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KWeatherNormalBottomWidget</name>
     <message>
         <source>Refresh Weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KODFConvertNoticeDlg</name>
+    <message>
+        <source>Allow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The converted file is saved on your computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow File Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To open the ODF file (.odt, .ods, and .odp), WPS needs to convert it to a supported format using an online service. We don&apos;t store any of your file content on our servers.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2090,10 +2147,6 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Create Team</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2175,15 +2228,15 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>google</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>dropbox</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add a third-party cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>google</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2243,15 +2296,7 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Working together, start from Team</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Invite members</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2395,10 +2440,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Duplicate team names</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>A team with the same name already exists, please rename again</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2443,10 +2484,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Duplicate team names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2760,10 +2797,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS Team, A place for teamwork</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create your team</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2777,6 +2810,41 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>No Fear to lose data</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNewUserGuideTipsMgrV2</name>
+    <message>
+        <source>Open files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get started with WPS Office!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> See how can we help with your PDF files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perfect compatibility with MS Office allows you to easily create and edit documents in different formats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick access to local files or cloud files from Google Drive and Dropbox at any time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Welcome!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We provide you with shortcuts of the most frequently used features. You can click the shortcuts to use the features directly.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2828,65 +2896,6 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>365G cloud space</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KComponentItem</name>
-    <message>
-        <source>docer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Docer Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>action_component</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Action Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Weather Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Weather Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Docer Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>weather</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>docer_component</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>task</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Action Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Task Title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3339,93 +3348,6 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KTemplateGuideDialog</name>
-    <message>
-        <source>Inspire your design inspiration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Optimize warehouse management</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>We&apos;ll recommend suitable templates for you</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HR &amp; Administrative</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For sales, legal and service industries</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Others</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For fitness, diet and health</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select your interest field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Social &amp; Life</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reduce the workload</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make your report cooler</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make students love your class</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record your wonderful life</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Teacher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Student</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Health Care</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Designer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Finance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save time with standardized templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SCM/Supply Chain</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KMsgCenterContentWidget</name>
     <message>
         <source>No news.</source>
@@ -3482,9 +3404,27 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KWeChatCSWidget</name>
+    <message>
+        <source>WPS After-sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KCmdLnkEntry</name>
     <message>
         <source>lnk path(%1) or target not exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWeChatCustomerServiceDlg</name>
+    <message>
+        <source>Discuss your problem with WPS customer service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WeChat QR Code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4039,6 +3979,57 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KTemplateGuideDialog</name>
+    <message>
+        <source>Others</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For fitness, diet and health</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Social &amp; Life</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make your report cooler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make students love your class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record your wonderful life</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Teacher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Student</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Health Care</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finance</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KFileTransferButton</name>
     <message>
         <source>File Transfer</source>
@@ -4229,10 +4220,6 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Always open PDFs in WPS Office</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No more show</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4372,13 +4359,6 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
-    <name>KCreationAreaView</name>
-    <message>
-        <source>Start a new document</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KLocationListDelegate</name>
     <message>
         <source>ShareToMe</source>
@@ -4470,6 +4450,20 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KWeatherCurrentWeatherWidget</name>
+    <message>
+        <source>Switch City</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWeatherErrorUnknowBottomWidget</name>
+    <message>
+        <source>Switch City</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KNewUserGuideStep_Open</name>
     <message>
         <source>Open your documents</source>
@@ -4492,6 +4486,20 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KWeatherErrorFailureBottomWidget</name>
+    <message>
+        <source>Manually adding cities</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWeatherComponent</name>
+    <message>
+        <source>weather_component</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KDocerSearchListWidget</name>
     <message>
         <source>Docer Template Selection</source>
@@ -4510,6 +4518,13 @@ This file may have been renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KStartPageHomeFileNetworkErrorTip</name>
+    <message>
+        <source>Without an internet connection, you cannot access the following documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KComponentTitle</name>
     <message>
         <source>feedback</source>
@@ -4520,6 +4535,20 @@ This file may have been renamed, deleted or moved.</source>
     <name>KTeamListDelegate</name>
     <message>
         <source>Last UpdateTime:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWeatherCitySearchPopWidget</name>
+    <message>
+        <source>No city is matched</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWeatherErrorTitleWidget</name>
+    <message>
+        <source>Weather</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4576,66 +4605,6 @@ This file may have been renamed, deleted or moved.</source>
     <name>SearchServerErrorWidget</name>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCSWidget</name>
-    <message>
-        <source>WPS After-sales</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCustomerServiceDlg</name>
-    <message>
-        <source>Discuss your problem with WPS customer service</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WeChat QR Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherCurrentWeatherWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorUnknowBottomWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorFailureBottomWidget</name>
-    <message>
-        <source>Manually adding cities</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherComponent</name>
-    <message>
-        <source>weather_component</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherCitySearchPopWidget</name>
-    <message>
-        <source>No city is matched</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorTitleWidget</name>
-    <message>
-        <source>Weather</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

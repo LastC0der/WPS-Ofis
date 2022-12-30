@@ -808,10 +808,6 @@ Please choose a different file name.</source>
         <source>After the synchronization is cancelled, the folder will no longer be synchronized locally. You can open the WPS network disk to continue to access the cloud files</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>WPS Cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KCloudDiskGuideWidget</name>
@@ -1037,21 +1033,6 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Unable to get the file list. Please check the network connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSmartSyncPreSaleTipDlg</name>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Prompt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did not purchase the network disk file automatic update service, please contact the enterprise administrator or consult %1WPS customer service%2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1604,10 +1585,6 @@ Are you sure to modify?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Desktop cloud synchronization is on, the folder has beensynchronized, no need to add repeatedly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>These files will be moved to the system recycle bin. Under Windows 7, if there is insufficient space in the recycle bin, some files will be completely deleted</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1856,10 +1833,6 @@ Are you sure to modify?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The mobile hard disk is not supported to be set to synchronization directory, please select again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Transdetail</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1877,6 +1850,10 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>file is renamed on server but failed to be renamed on local disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No internet connection. Upload interrupted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1944,15 +1921,15 @@ Are you sure to modify?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The maximum synchronized folders supported are %1, currently.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The folder has been Shared. Please unshare the folder and try again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check data failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No internet connection. Download interrupted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2065,10 +2042,6 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Upload failed.You do not have permission to save the file to this directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This folder is included in the sync folder, please select again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2546,32 +2519,6 @@ Are you sure to modify?</source>
     </message>
 </context>
 <context>
-    <name>KMacCancelSyncFolderWidget</name>
-    <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KMacFileSyncFailWidget</name>
-    <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>feedback</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KMigrateFileBubble</name>
     <message>
         <source>Ok</source>
@@ -2725,6 +2672,37 @@ Are you sure to modify?</source>
     </message>
 </context>
 <context>
+    <name>KRadarBackupLimitBubble</name>
+    <message>
+        <source>QQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> and so on %1 files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Come from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Over 1GB</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KUploadLimitBubble</name>
     <message>
         <source>QQ</source>
@@ -2823,14 +2801,6 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>last modify time : </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recommend</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4269,6 +4239,10 @@ Check path and filename.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Upgrade membership and enjoy 130+ special zones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>membership period: Remaining</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4641,38 +4615,6 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Ignored</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View failed tasks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploaded file version conflict</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File upload error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File upload completed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Browse historical versions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File upload succeeded</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5534,13 +5476,6 @@ Please verify the correct file name was given.</source>
     </message>
 </context>
 <context>
-    <name>KTrayMiddleWidget</name>
-    <message>
-        <source>Tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KTotalDetailItem</name>
     <message>
         <source>Tray</source>
@@ -5685,53 +5620,6 @@ Please verify the correct file name was given.</source>
     <name>KDesktopSyncPageContent</name>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KTrayTopItem</name>
-    <message>
-        <source>View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clean up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paused</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My Cloud Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cloud Sync</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upgrade</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cloud Space:%1/%2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7547,21 +7435,6 @@ Please verify the correct file name was given.</source>
     </message>
 </context>
 <context>
-    <name>KMacSyncFolderWidget</name>
-    <message>
-        <source>Sync now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upgrade VIP</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KSyncFolderCloudWidget</name>
     <message>
         <source>Sync now</source>
@@ -7786,25 +7659,6 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Restore down</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KMacSameFolderDialog</name>
-    <message>
-        <source>Cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>local</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My cloud documents</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8164,6 +8018,33 @@ to
     </message>
 </context>
 <context>
+    <name>afterlogin::topcactivity::KFissionActivityToastWidget</name>
+    <message>
+        <source>Sorry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You do not have permission to receive rewards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>30-day Premium has been successfully credited to your account!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get more Days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Congratulations!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KCustomCachePathInvalidDlg</name>
     <message>
         <source>Reinstall</source>
@@ -8272,11 +8153,11 @@ to
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Batch download/export is WPS membership function</source>
+        <source>I got it</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 synchronization folder has been set up, and Svip can set up 5 synchronization folders</source>
+        <source>Batch download/export is WPS membership function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9951,49 +9832,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
-    <name>QApplication</name>
-    <message>
-        <source>Activates the program&apos;s main window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>QT_LAYOUT_DIRECTION</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incompatible Qt Library Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KAutoSyncLimitBubble</name>
-    <message>
-        <source>Upgrade SVIP, get privileges.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Intelligent updates can get more setting and make efficiency work.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upgrade to SVIP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Cloud File</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KUploadLimitBubbleP7</name>
+    <message>
+        <source>Share Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Upgrade SVIP, cloud space can upgrade to %1 at most, and can upload file %2 at most</source>
         <translation type="unfinished"></translation>
@@ -10004,6 +9847,10 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Manage cloud space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> and so on %1 files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10054,12 +9901,46 @@ have libgstreamer-plugins-base installed.</source>
         <source>Manage cloud storage space</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>QApplication</name>
     <message>
-        <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
+        <source>Activates the program&apos;s main window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel Upload</source>
+        <source>QT_LAYOUT_DIRECTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incompatible Qt Library Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KAutoSyncLimitBubble</name>
+    <message>
+        <source>Upgrade SVIP, get privileges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intelligent updates can get more setting and make efficiency work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to SVIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Cloud File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10456,10 +10337,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Created link</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KSyncFolderExpiredWidget</name>
@@ -10606,6 +10483,10 @@ have libgstreamer-plugins-base installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>I got it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>please upgrade vip</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10621,8 +10502,23 @@ have libgstreamer-plugins-base installed.</source>
         <source>batch download</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>KBatchProgress::KBatchProgressBubble</name>
     <message>
-        <source>Continue download</source>
+        <source>Cancel download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I got it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transmission details</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11168,13 +11064,6 @@ have libgstreamer-plugins-base installed.</source>
     </message>
 </context>
 <context>
-    <name>KTrayBottomWidget</name>
-    <message>
-        <source>Recent Visit</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KHistoryDocItemWidget</name>
     <message>
         <source>(current version)</source>
@@ -11412,21 +11301,6 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Unable to use database</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KTrayClipboardTopWidget</name>
-    <message>
-        <source>Paused</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Record</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recording</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11766,13 +11640,6 @@ Time for upgrade: %1</source>
     </message>
 </context>
 <context>
-    <name>KIntroCloudSyncWidget</name>
-    <message>
-        <source>My cloud documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KSpaceFullUsageRemindBubble</name>
     <message>
         <source>Space Full</source>
@@ -11837,13 +11704,6 @@ Time for upgrade: %1</source>
     </message>
 </context>
 <context>
-    <name>KTrayClipboardEmptyContentWidget</name>
-    <message>
-        <source>Recording</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KWpsCloudFileSettingsDialog</name>
     <message>
         <source>Cloud File Settings</source>
@@ -11868,13 +11728,6 @@ Time for upgrade: %1</source>
     <name>KMessageManager</name>
     <message>
         <source>WPS Office Box</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderObj</name>
-    <message>
-        <source>desktop</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12061,294 +11914,18 @@ Time for upgrade: %1</source>
     </message>
 </context>
 <context>
-    <name>KCloudSettingFunctionWidget</name>
+    <name>KSmartSyncPreSaleTipDlg</name>
     <message>
-        <source>)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Cloud Files Entry in &apos;My Computer&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>linkText</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Folder Position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(Enable synchronous privileges and use more smoothly)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically updates the data under the specified folder to the local</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>smartSync</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(Respected WPS super members, you can use all privileges.)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show %1 Entry in My Computer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>custome</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upgraded to WPS super member, enjoying synchronous privileges.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please login in firstly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Update Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show %1 in My Computer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Update Entering Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show WPS Cloud Files in My Computer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter a folder where files are automatically updated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileDialog_New</name>
-    <message>
-        <source>%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>please reset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>please retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>goto know more</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>link: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading to cloud (0%)...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1  Last modify time: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cloud link useless,</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Uploading to cloud (%1%)...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Today</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS super member</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can create links to %1 times one day, the current creation for the %2 time, need to upgrade to %3 and can continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cannot upload 0Bytes file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>account had logout!</source>
+        <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prompt</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Loading cloud link ...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share My Cloud File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS member</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>please upgrade vip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UpgradeVip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>file name conflict</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>network error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(password:%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Yesterday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload failed,</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy link successed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Through WPS to share with you the</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Identity timeout, please close and retry!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get cloud file link timeout, please check network and retry!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From WPS--share by %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-password:%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy link and password successed!</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
-    <name>KNewFunctionAutoUpdateDlg</name>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>upgrade to vip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>set right now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Function Coming</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The function of &apos;auto update&apos; is coming</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For super members, we have opened the&quot; automatic update &quot;function:
-Specify a folder. All files in this folder will be
-Download to the computer and keep the latest version.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSelAutoUpdateFolderDlg</name>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select a Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>is loading .....</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cloumnName</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KInfoMsgDlg</name>
+    <name>KMacCancelSyncFolderWidget</name>
     <message>
         <source>Ok</source>
         <translation type="unfinished"></translation>
@@ -12359,669 +11936,148 @@ Download to the computer and keep the latest version.</source>
     </message>
 </context>
 <context>
-    <name>WpsBoxLnkDialog</name>
+    <name>KMacFileSyncFailWidget</name>
     <message>
         <source>Ok</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>Failed</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>WpsBoxWeakRemindDlg</name>
-    <message>
-        <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceListWidget</name>
-    <message>
-        <source>ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I know</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KFileTransferOpenDlg</name>
-    <message>
-        <source>ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCloudSettingExtesionWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>look</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Common File Backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculating cache size...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Desktop documents and pictures</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WeChat received files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>about %1 MB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add &apos;upload to WPS Cloud document&apos; menu item on the right menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Right-click extension menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Always ask</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>QQ/TIM received files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Smart backup location files that can be accessed on your phone</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add share file to WPS cloud doc menu item on the right menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add &apos;share file to WPS Cloud document&apos; menu item on the right menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCloudSettingRestWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calculating cache size...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never bubble</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cache:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select Location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sometimes,bubble when transfer is failed(Recommend)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transfer Bubble:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Saving data from a landed file and editing / changing the data in that location directly may result in an unknown exception</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Always,bubble when transfer is complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cleaning up &apos;downloaded documents&apos; frees up the disk space occupied by the document.Re-use needs to be redownloaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWpsCloudFileSettingsDialog_new</name>
-    <message>
-        <source>Rest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Notice</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Cloud File Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Extesion</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KAuthorizeDialog</name>
-    <message>
-        <source>icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>confirm</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileUpFailedTip</name>
-    <message>
-        <source>please retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload failed,</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileDialog</name>
-    <message>
-        <source>goto know more</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cloudFile can be edited by people and synchronized in terminals, and more secure.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>KShareFileDialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send the download link of the document by e-mail to your friends, at most 5 people once:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please enter or select the mail address, separate multiple address with semicolons;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Share:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Generate Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contents:(at most 500 words)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Note:before share link by e-mail, you need to create the configuration of mail.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cloudfile is uploading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share document to your friends by link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cancel upload</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KClearCacheTipDialog</name>
-    <message>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Finished</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear finished.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear finished.
-Free Space: about %1 MB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Operation Tips</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This operation will delete downloaded WPS cloud files, them will be download when you open them.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deleting file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderPageSyncFail</name>
-    <message>
-        <source>Finished</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileDlgUi</name>
-    <message>
-        <source>Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>cloudFile can be edited by people and synchronized in terminals, and more secure.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>goto konw more</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>wechat friends</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>send e-mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>abcdef</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>QQ friends</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceListViewDelegate</name>
-    <message>
-        <source>local</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceLoadFailureWidget</name>
-    <message>
-        <source>retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get device, please</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSuperUserTipDlg</name>
-    <message>
-        <source>title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upgrade To Vip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The function of automatically updating to Super member</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All files under the selected folder will be downloaded to your computer and kept up to date</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileQRCodeWidget</name>
-    <message>
-        <source>copy QR Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share to WeChat friends or circle of friends</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Copy QRCode Successed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scan the QR code by cell phone, you can share the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KDesktopDocGuide</name>
-    <message>
-        <source>One touch backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS copy safety</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>loss or damage accidently</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>give up copying</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Desktop files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There are %1 files in your desktop, copy files to avoid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not remind</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>desktop files list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>desktop files item</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Cloud Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCloudDiskGuideDlg</name>
-    <message>
-        <source>Place the %1 into desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>go and see</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KUserSecureIdentityDlg</name>
-    <message>
-        <source>User Identity Verifier</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KQingExitTip</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Operation tips</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Cloud is working. Please exit at tray and continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KLogoutConfirmDlg</name>
-    <message>
-        <source>I know</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KTempLoginBubble</name>
-    <message>
-        <source>I know</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KAddDevicesWidget</name>
-    <message>
-        <source>continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KFileTransferItemWidget</name>
-    <message>
-        <source>history version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>save as...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSyncMultiFolderUpgradeWidget</name>
-    <message>
-        <source>cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSettingLinkWidget</name>
-    <message>
-        <source>File Share</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting(effective to current document)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KUploadFileGuideDlg</name>
-    <message>
-        <source>Account had been logouted, uploading has been canceled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>selected files have been in cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Account had been logouted</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCommonGuideDlgMgr</name>
-    <message>
-        <source>WPS Cloud File.lnk</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KLimitedFreeExpireDlg</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KLimitedFreeGuideDlg</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KOfficialTemplateDlg</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KOfficialTemplateTip</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KWpsboxMiniCtrl</name>
-    <message>
-        <source>Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KUserSecureLoadingView</name>
-    <message>
-        <source>Loading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KCloudSettingShareWidget</name>
-    <message>
-        <source>editable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>view only</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderWidget</name>
     <message>
         <source>feedback</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>KSaveAndOpenTask</name>
+    <name>KTrayMiddleWidget</name>
     <message>
-        <source>%1 history version save as failed.</source>
+        <source>Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTrayTopItem</name>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clean up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Cloud Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Sync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Space:%1/%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMacSyncFolderWidget</name>
+    <message>
+        <source>Sync now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade VIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMacSameFolderDialog</name>
+    <message>
+        <source>Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My cloud documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTrayBottomWidget</name>
+    <message>
+        <source>Recent Visit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTrayClipboardTopWidget</name>
+    <message>
+        <source>Paused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KIntroCloudSyncWidget</name>
+    <message>
+        <source>My cloud documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTrayClipboardEmptyContentWidget</name>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSyncFolderObj</name>
+    <message>
+        <source>desktop</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

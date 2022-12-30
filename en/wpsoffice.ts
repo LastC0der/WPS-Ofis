@@ -566,33 +566,6 @@
     </message>
 </context>
 <context>
-    <name>KGDPRAgreementAskWidget</name>
-    <message>
-        <source>, </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accept &amp;&amp; Continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End-User License Agreement</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Exit WPS</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>QPrintDialog</name>
     <message>
         <source>A0</source>
@@ -4442,70 +4415,6 @@ Please verify the correct file name was given.</source>
         <source>Choose a plan</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>ADD or edit image in PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cloud Storage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PDF Compress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Files Repair</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlimited PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export picture without watermark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Ads</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Picture to Text(OCR)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlimited downloads of template, inforgraphics and more</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PDF Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More other Privileges</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export PDF in batch</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Correction fluid in PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unlimited picture to PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Basic Document Operations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PDF Split/Merge</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
@@ -7106,6 +7015,77 @@ to
     </message>
 </context>
 <context>
+    <name>KPromeGuestNoticeDlg</name>
+    <message>
+        <source>As a guest, you can only open and view your local documents in read-only mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your data will be saved in the guest account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guest account data cannot be migrated to another account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user WPS as a guest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your data will be stored in the guest account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to enable more editing features and better protect your privacy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guest account data is only saved locally, no cloud backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The one who uses WPS on the same device may view your data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your data cannot be synchronized on multiple ends.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to protect your privacy better.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to use WPS as a guest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KPromeExportPDFFailedCenterWidget</name>
     <message>
         <source>Retry</source>
@@ -7330,6 +7310,53 @@ to
     </message>
     <message>
         <source>SOCKS version 5 protocol error</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7564,69 +7591,6 @@ to
     </message>
     <message>
         <source>Connection closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KPromeGuestNoticeDlg</name>
-    <message>
-        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your data will be saved in the guest account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Guest account data cannot be migrated to another account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user WPS as a guest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your data will be stored in the guest account.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Guest account data is only saved locally, no cloud backup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The one who uses WPS on the same device may view your data.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your data cannot be synchronized on multiple ends.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>We recommend that you sign in first to protect your privacy better.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login Now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are about to use WPS as a guest</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8812,6 +8776,37 @@ This file may be renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KPromeLoginReminderDlg</name>
+    <message>
+        <source>1GB of free cloud storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in to unlock more features.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document to image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you don&apos;t sign in, you will only be allowed to open and view documents in read-only mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit and share document</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
@@ -9473,11 +9468,6 @@ p, li { white-space: pre-wrap; }
         <source>Exit Now</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>A logined account is needed To continue to use WPS 2019 beta version.
-Exit login panel will lead to exiting WPS 2019.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>Q3ProgressDialog</name>
@@ -9719,6 +9709,41 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KPromeHeaderUpgradeNoticeDlg</name>
+    <message>
+        <source>Your WPS Premium free trial has ended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>50GB Cloud storage and collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go Premium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try All WPS Premium Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help you to boost efficiency with 80 premium features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free 7-Day Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit text and images in PDFs</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AudioOutput</name>
     <message>
         <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
@@ -9868,6 +9893,17 @@ Customer service hotline:</source>
     </message>
 </context>
 <context>
+    <name>KPromeHeaderUpgrade</name>
+    <message>
+        <source>Free Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
@@ -9919,22 +9955,6 @@ Customer service hotline:</source>
     <name>KPromeBrowserSubPage</name>
     <message>
         <source>add current web page to wps startpage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>copy web page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>load by default browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>reload web page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>new web page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9991,6 +10011,25 @@ Customer service hotline:</source>
     <name>KUserCenterMenuButton</name>
     <message>
         <source>abnormal network status, turn to be offline status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10143,13 +10182,6 @@ Customer service hotline:</source>
     </message>
 </context>
 <context>
-    <name>KPromeHeaderUpgrade</name>
-    <message>
-        <source>Upgrade</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KRightTopTipWidgetBase</name>
     <message>
         <source>Upgrade</source>
@@ -10196,17 +10228,29 @@ Customer service hotline:</source>
     </message>
 </context>
 <context>
-    <name>KPromeTipGroup_XA</name>
+    <name>KGDPRAgreementAskWidget</name>
     <message>
-        <source>Share</source>
+        <source>, </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cloud backup</source>
+        <source>Accept &amp;&amp; Continue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Local save:</source>
+        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit WPS</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
