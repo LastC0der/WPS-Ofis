@@ -1,8 +1,0 @@
-git:
-filters:
-- filter_type: dir
-  file_format: QT
-  source_file_extension: ts
-  source_language: en
-  source_file_dir: en
-  translation_files_expression: '<lang>'
