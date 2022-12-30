@@ -3314,7 +3314,8 @@ Check path and filename.</source>
         <source>%n file(s)</source>
         <translation>
         <translation type="unfinished">
-            <numerusform></numerusform>            
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
