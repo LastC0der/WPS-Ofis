@@ -6,4 +6,4 @@ https://linux.wps.com/
 https://wps.com/
 
 
-kso, qing, wpsoffice dosyalarında <message numerus="yes"> kısımlarında bir sorun çıktı, transifex botu çalışmıyor.
+kso, qing, wpsoffice dosyalarında "<message numerus="yes">" kısımlarında bir sorun çıktı, transifex botu çalışmıyor.
