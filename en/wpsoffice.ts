@@ -3313,7 +3313,8 @@ Check path and filename.</source>
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation>
-            <numerusform></numerusform>
+            <numerusform> </numerusform>
+            <numerusform> </numerusform>            
         </translation>
     </message>
     <message>
