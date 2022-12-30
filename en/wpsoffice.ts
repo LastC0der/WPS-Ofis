@@ -3312,7 +3312,8 @@ Check path and filename.</source>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished">
+        <translation>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -5295,7 +5296,8 @@ Please verify the correct file name was given.</source>
     </message>
     <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished">
+        <translation>
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
