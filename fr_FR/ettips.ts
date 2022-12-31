@@ -1815,7 +1815,7 @@ Pour activer cette fonctionnalité, activez l&apos;option Afficher côte à côt
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Réduction de fichier</translation>
+        <translation>Compresseur de document</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2347,7 +2347,7 @@ Les connexions de données sont des liens vers des données extérieures à ce c
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convertir une image en texte</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2916,7 +2916,7 @@ Cliquez sur la flèche pour définir les détails du graphique.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>La fonctionnalité &quot;Réduction de fichier&quot; peut vous aider à réduire la taille du fichier.</translation>
+        <translation>Vous aide à réduire la taille de fichier.</translation>
     </message>
     <message>
         <source>Underline.title</source>
