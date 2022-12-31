@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
+        <translation>Datum: %1 – %2</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -19,15 +19,15 @@
     </message>
     <message>
         <source>Team Notice</source>
-        <translation type="unfinished"/>
+        <translation>Team-Hinweis</translation>
     </message>
     <message>
         <source>Shrink</source>
-        <translation type="unfinished"/>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <source>Yesterday %1</source>
-        <translation type="unfinished"/>
+        <translation>Gestern %1</translation>
     </message>
 </context>
 <context>
@@ -253,19 +253,19 @@ Möchten Sie wirklich ändern?</translation>
     </message>
     <message>
         <source>Failed to add members</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Hinzufügen von Mitgliedern</translation>
     </message>
     <message>
         <source>The other %1 users can not be added</source>
-        <translation type="unfinished"/>
+        <translation>Weitere %1 Benutzer können nicht zu diesem Team hinzugefügt werden.</translation>
     </message>
     <message>
         <source>Please retry or cancel</source>
-        <translation type="unfinished"/>
+        <translation>Erneut versuchen oder abbrechen.</translation>
     </message>
     <message>
         <source>%1 members added</source>
-        <translation type="unfinished"/>
+        <translation>%1 Mitglieder hinzugefügt.</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@ Möchten Sie wirklich ändern?</translation>
     </message>
     <message>
         <source>start collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Zusammenarbeit starten</translation>
     </message>
     <message>
         <source>Mobile Android</source>
@@ -388,7 +388,7 @@ Möchten Sie wirklich ändern?</translation>
     </message>
     <message>
         <source>1 person is collaborating</source>
-        <translation type="unfinished"/>
+        <translation>1 Person arbeitet zusammen</translation>
     </message>
     <message>
         <source>on the browser</source>
@@ -432,7 +432,7 @@ Möchten Sie wirklich ändern?</translation>
     </message>
     <message>
         <source>Join Co-Editing</source>
-        <translation type="unfinished"/>
+        <translation>Gemeinsamer Bearbeitung beitreten</translation>
     </message>
     <message>
         <source>delete the entire group</source>
@@ -452,7 +452,7 @@ Möchten Sie wirklich ändern?</translation>
     </message>
     <message>
         <source>%1 people are collaborating</source>
-        <translation type="unfinished"/>
+        <translation>%1 Personen arbeiten zusammen</translation>
     </message>
     <message>
         <source>Cloud backup has modify</source>
@@ -468,7 +468,7 @@ Möchten Sie wirklich ändern?</translation>
     </message>
     <message>
         <source> Created file</source>
-        <translation type="unfinished"/>
+        <translation> Erstellte Datei</translation>
     </message>
 </context>
 <context>
@@ -623,7 +623,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>After the upload is completed, it will automatically add tag to corresponding cloud document</source>
-        <translation type="unfinished"/>
+        <translation>Die hochgeladene Datei wird automatisch zur Liste der mit Sternchen markierten Dateien hochgeladen.</translation>
     </message>
     <message>
         <source>If you want to copy to cloud folder outside, please download these file first</source>
@@ -861,10 +861,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <translation>Excel-Dateien</translation>
     </message>
     <message>
-        <source>Activity</source>
-        <translation>Aktivität</translation>
-    </message>
-    <message>
         <source>Delete and Leave Team</source>
         <translation>Team löschen und verlassen</translation>
     </message>
@@ -923,10 +919,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <message>
         <source>WPP/PowerPoint Files</source>
         <translation>PowerPoint-Dateien</translation>
-    </message>
-    <message>
-        <source>Team files</source>
-        <translation>Team-Dateien</translation>
     </message>
     <message>
         <source>Detail View</source>
@@ -1015,7 +1007,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Manage</source>
-        <translation type="unfinished"/>
+        <translation>Verwalten</translation>
     </message>
 </context>
 <context>
@@ -1089,7 +1081,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Cloud Company</source>
-        <translation type="unfinished"/>
+        <translation>Unternehmen</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -1153,7 +1145,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Cloud Team</source>
-        <translation type="unfinished"/>
+        <translation>Gemeinsame Nutzung durch das Team</translation>
     </message>
     <message>
         <source>Unknown Color</source>
@@ -1166,10 +1158,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <message>
         <source>Downloads</source>
         <translation>Downloads</translation>
-    </message>
-    <message>
-        <source>Search local files</source>
-        <translation>Lokale Dateien suchen</translation>
     </message>
 </context>
 <context>
@@ -1430,49 +1418,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
-    <name>KEntry</name>
-    <message>
-        <source>Apps</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Home</source>
-        <translation>Start</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Öffnen</translation>
-    </message>
-    <message>
-        <source>Team</source>
-        <translation>Team</translation>
-    </message>
-    <message>
-        <source>New Document</source>
-        <translation>Neu</translation>
-    </message>
-    <message>
-        <source>company manage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create Company</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New From Docer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calendar</source>
-        <translation>Bild in Text</translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Dokumente</translation>
-    </message>
-</context>
-<context>
     <name>KRecAppLoadingWidget</name>
     <message>
         <source>Back</source>
@@ -1549,7 +1494,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>SkinCenter</source>
-        <translation type="unfinished"/>
+        <translation>Zentrum für Vorlagendesign</translation>
     </message>
     <message>
         <source>Feedback Btn</source>
@@ -1624,6 +1569,29 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
+    <name>KEntry</name>
+    <message>
+        <source>Home</source>
+        <translation>Start</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>Mehr</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Öffnen</translation>
+    </message>
+    <message>
+        <source>New Document</source>
+        <translation>Neu</translation>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation>Dokumente</translation>
+    </message>
+</context>
+<context>
     <name>KMarkColorButton</name>
     <message>
         <source>Mark</source>
@@ -1652,10 +1620,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <translation>Cloud-Sicherung</translation>
     </message>
     <message>
-        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
-        <translation>Melden Sie sich bei WPS an, sichern Sie Ihre Datei und erhalten Sie 1 GB Cloud-Speicher</translation>
-    </message>
-    <message>
         <source>History version manager</source>
         <translation>Version verwalten</translation>
     </message>
@@ -1673,10 +1637,18 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
-    <name>KCreationAreaMoreApp</name>
+    <name>KCreationAreaView</name>
     <message>
         <source>More</source>
         <translation>Mehr</translation>
+    </message>
+    <message>
+        <source>Start a new document</source>
+        <translation>Neues Dokument starten</translation>
+    </message>
+    <message>
+        <source>PDF Edit</source>
+        <translation>PDF-Bearbeitung</translation>
     </message>
 </context>
 <context>
@@ -1684,6 +1656,17 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <message>
         <source>More</source>
         <translation>Mehr</translation>
+    </message>
+</context>
+<context>
+    <name>KNewUserGuideCommonTip</name>
+    <message>
+        <source>Next</source>
+        <translation>Weiter</translation>
+    </message>
+    <message>
+        <source>Get Started</source>
+        <translation>Erste Schritte</translation>
     </message>
 </context>
 <context>
@@ -1818,7 +1801,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>company viewonly</source>
-        <translation type="unfinished"/>
+        <translation>Einsehbar für Unternehmensmitglieder</translation>
     </message>
     <message>
         <source>ShareFromMe</source>
@@ -1866,7 +1849,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>company editable</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeitbar für Unternehmensmitglieder</translation>
     </message>
     <message>
         <source>History</source>
@@ -1932,10 +1915,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <translation>Keine mit Stern markierten Dateien</translation>
     </message>
     <message>
-        <source>You can drag and drop files to share with members.</source>
-        <translation>Sie können Dateien per Drag-and-Drop für Mitglieder freigeben.</translation>
-    </message>
-    <message>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Geben Sie Ihre Dokumente als Link frei, dann können Sie sie hier ansehen.</translation>
     </message>
@@ -1987,14 +1966,69 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
+    <name>KComponentItem</name>
+    <message>
+        <source>task</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>docer</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>Docer Title</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>action_component</source>
+        <translation>Themenabstimmung</translation>
+    </message>
+    <message>
+        <source>Action Title</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>Action Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>action</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Weather Text</source>
+        <translation>Arrangieren Sie die Arbeit nach den Wetterbedingungen.</translation>
+    </message>
+    <message>
+        <source>Task Text</source>
+        <translation>Docer</translation>
+    </message>
+    <message>
+        <source>Weather Title</source>
+        <translation>Wetter</translation>
+    </message>
+    <message>
+        <source>Docer Text</source>
+        <translation>Es ist schön, viele Vorlagen zu erhalten.</translation>
+    </message>
+    <message>
+        <source>Task Title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>weather</source>
+        <translation>Wetter</translation>
+    </message>
+    <message>
+        <source>docer_component</source>
+        <translation>Docer_component</translation>
+    </message>
+</context>
+<context>
     <name>KCloudStorageContentWidget</name>
     <message>
         <source>Cloud space is full</source>
         <translation>Der Cloud-Speicherplatz ist voll</translation>
-    </message>
-    <message>
-        <source>Get for Free</source>
-        <translation>Kostenlos erhalten</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -2005,6 +2039,10 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <translation>Der Cloud-Speicherplatz ist bald erschöpft</translation>
     </message>
     <message>
+        <source>Please clean up unnecessary files in your network disk to make more space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>cloud size</source>
         <translation>Cloud </translation>
     </message>
@@ -2012,16 +2050,35 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <source>upgrade</source>
         <translation>Gehen Sie auf Premium</translation>
     </message>
-    <message>
-        <source>Please clean up unnecessary files in your network disk to make more space</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KWeatherNormalBottomWidget</name>
     <message>
         <source>Refresh Weather</source>
-        <translation type="unfinished"/>
+        <translation>Wetter aktualisieren</translation>
+    </message>
+</context>
+<context>
+    <name>KODFConvertNoticeDlg</name>
+    <message>
+        <source>Allow</source>
+        <translation>Zulassen</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>The converted file is saved on your computer.</source>
+        <translation>Die konvertierte Datei wird auf Ihrem Computer gespeichert.</translation>
+    </message>
+    <message>
+        <source>Allow File Conversion</source>
+        <translation>Dateikonvertierung zulassen</translation>
+    </message>
+    <message>
+        <source>To open the ODF file (.odt, .ods, and .odp), WPS needs to convert it to a supported format using an online service. We don&apos;t store any of your file content on our servers.</source>
+        <translation>Um die ODF-Datei (.odt, .ods und .odp) zu öffnen, muss WPS sie mit Hilfe eines Onlinediensts in ein unterstütztes Format konvertieren. Wir speichern keine Ihrer Dateiinhalte auf unseren Servern.</translation>
     </message>
 </context>
 <context>
@@ -2040,7 +2097,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>find icons/pictures/fonts and so on ...</source>
-        <translation type="unfinished"/>
+        <translation>Symbole/Bilder/Schriften usw. suchen...</translation>
     </message>
     <message>
         <source>Retrieve the Document</source>
@@ -2093,10 +2150,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <source>Create Team</source>
         <translation>Team erstellen</translation>
     </message>
-    <message>
-        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
-        <translation>Team ist ein Ort, an dem Sie Ihr Team für Zusammenarbeit und Produktivität zusammenbringen können. Nutzen Sie die Anwendung zum Austausch von Dokumenten, Kommentaren und zum Sammeln von Informationen</translation>
-    </message>
 </context>
 <context>
     <name>KTeamAddNormalMemberDlg</name>
@@ -2106,7 +2159,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>%1 Invite you to join the &quot;%2&quot; group</source>
-        <translation type="unfinished"/>
+        <translation>%1 laden Sie ein, der Gruppe „%2“ beizutreten</translation>
     </message>
     <message>
         <source>Share with mail</source>
@@ -2144,7 +2197,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>%1 Invite you to join the &apos;%2&apos; group</source>
-        <translation type="unfinished"/>
+        <translation>%1 laden Sie ein, der Gruppe „%2“ beizutreten</translation>
     </message>
 </context>
 <context>
@@ -2177,16 +2230,16 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <translation>Wolke</translation>
     </message>
     <message>
+        <source>google</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>dropbox</source>
         <translation>Dropbox</translation>
     </message>
     <message>
         <source>Add a third-party cloud</source>
         <translation>Cloud-Speicher hinzufügen</translation>
-    </message>
-    <message>
-        <source>google</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2245,31 +2298,23 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <translation>Team-Dateien anzeigen</translation>
     </message>
     <message>
-        <source>Working together, start from Team</source>
-        <translation>Gemeinsam arbeiten, von Team aus starten</translation>
-    </message>
-    <message>
         <source>Invite members</source>
         <translation>Mitglieder einladen</translation>
-    </message>
-    <message>
-        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
-        <translation>Team ist ein Ort, an dem Sie Ihr Team für Zusammenarbeit und Produktivität zusammenbringen können. Nutzen Sie die Anwendung zum Austausch von Dokumenten, Kommentaren und zum Sammeln von Informationen</translation>
     </message>
 </context>
 <context>
     <name>KFileOpenProxy</name>
     <message>
         <source>Known</source>
-        <translation type="unfinished"/>
+        <translation>Verstanden</translation>
     </message>
     <message>
         <source>Join in</source>
-        <translation type="unfinished"/>
+        <translation>Beitreten</translation>
     </message>
     <message>
         <source>not prompt again</source>
-        <translation type="unfinished"/>
+        <translation>Nicht mehr auffordern</translation>
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;.
@@ -2283,16 +2328,17 @@ Diese Datei wurde vermutlich umbenannt, gelöscht oder verschoben.</translation>
     </message>
     <message>
         <source>Start Collaboration</source>
-        <translation type="unfinished"/>
+        <translation>Zusammenarbeit starten</translation>
     </message>
     <message>
         <source>%1 people are collaborating, would you like to join in?</source>
-        <translation type="unfinished"/>
+        <translation>%1 Personen sind an der gemeinsamen Bearbeitung beteiligt. Möchten Sie beitreten?</translation>
     </message>
     <message>
         <source>Whether to start collaborative editing?
 With &quot;Collaborative editing&quot;, you and your partner can edit the document at the same time.</source>
-        <translation type="unfinished"/>
+        <translation>Ob Sie mit der gemeinsamen Bearbeitung beginnen?
+Wenn die gemeinsame Bearbeitung aktiviert ist, können Sie und Ihre Partner das Dokument gleichzeitig bearbeiten.</translation>
     </message>
     <message>
         <source>Web Pages</source>
@@ -2324,7 +2370,7 @@ With &quot;Collaborative editing&quot;, you and your partner can edit the docume
     </message>
     <message>
         <source>File is uploading, please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Die Datei wird hochgeladen. Versuchen Sie es später noch einmal.</translation>
     </message>
     <message>
         <source>Pdf Files</source>
@@ -2399,10 +2445,6 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <source>Duplicate team names</source>
-        <translation>Doppelte team namen</translation>
-    </message>
-    <message>
         <source>A team with the same name already exists, please rename again</source>
         <translation>Ein Team mit dem gleichen Namen existiert bereits, bitte benennen Sie es erneut um</translation>
     </message>
@@ -2419,7 +2461,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Team files would be inaccessible after that</source>
-        <translation type="unfinished"/>
+        <translation>Nach dem Löschen und Beenden können Sie nicht mehr auf die Dateien dieses Teams zugreifen.</translation>
     </message>
     <message>
         <source>You would lose access to this team</source>
@@ -2431,7 +2473,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>My Team</source>
-        <translation type="unfinished"/>
+        <translation>Mein Team</translation>
     </message>
     <message>
         <source>Confirm to delete and leave</source>
@@ -2443,15 +2485,11 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Modify Team Name</source>
-        <translation type="unfinished"/>
+        <translation>Team umbenennen</translation>
     </message>
     <message>
         <source>Refresh</source>
         <translation>Aktualisieren</translation>
-    </message>
-    <message>
-        <source>Duplicate team names</source>
-        <translation>Doppelte team namen</translation>
     </message>
     <message>
         <source>Create Team</source>
@@ -2479,7 +2517,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Team members would lose access after that</source>
-        <translation type="unfinished"/>
+        <translation>Nach dem Löschen und Beenden können die Teammitglieder nicht mehr darauf zugreifen.</translation>
     </message>
     <message>
         <source>&apos;s Team</source>
@@ -2487,7 +2525,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Clear all team files</source>
-        <translation type="unfinished"/>
+        <translation>Teamdateien löschen</translation>
     </message>
 </context>
 <context>
@@ -2517,7 +2555,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Date: %1 - %2</source>
-        <translation type="unfinished"/>
+        <translation>Datum: %1 – %2</translation>
     </message>
     <message>
         <source>renamed team as %1</source>
@@ -2537,7 +2575,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>updated %1 versions</source>
-        <translation type="unfinished"/>
+        <translation>%1 Versionen aktualisiert</translation>
     </message>
     <message>
         <source>renamed file from %1</source>
@@ -2545,19 +2583,19 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>was by</source>
-        <translation type="unfinished"/>
+        <translation>wurde von</translation>
     </message>
     <message>
         <source>removed from team</source>
-        <translation type="unfinished"/>
+        <translation>Aus Team entfernen</translation>
     </message>
     <message>
         <source>upgraded with access rights</source>
-        <translation type="unfinished"/>
+        <translation>An Administrator hochstufen</translation>
     </message>
     <message>
         <source>degraded with access rights</source>
-        <translation type="unfinished"/>
+        <translation>Wechsel zum gemeinsamen Mitglied</translation>
     </message>
     <message>
         <source>add file</source>
@@ -2581,11 +2619,11 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>moved file to %1</source>
-        <translation type="unfinished"/>
+        <translation>Datei verschoben in %1</translation>
     </message>
     <message>
         <source>moved file from %1</source>
-        <translation type="unfinished"/>
+        <translation>Datei verschoben aus %1</translation>
     </message>
     <message>
         <source>shared file to %1</source>
@@ -2613,7 +2651,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>added to team</source>
-        <translation type="unfinished"/>
+        <translation>Zum Team einladen</translation>
     </message>
     <message>
         <source>deleted file permanently</source>
@@ -2632,14 +2670,14 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>members</source>
-        <translation type="unfinished"/>
+        <translation>Mitglieder</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Visit</source>
-        <translation type="unfinished"/>
+        <translation>Besuchen</translation>
     </message>
     <message>
         <source>Edit text in PDF</source>
@@ -2663,7 +2701,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Split PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF teilen</translation>
     </message>
     <message>
         <source>-cloud-</source>
@@ -2679,7 +2717,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>No ads</source>
-        <translation type="unfinished"/>
+        <translation>Keine Werbung</translation>
     </message>
     <message>
         <source>today %1</source>
@@ -2723,7 +2761,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Cross-Platform Office suite</source>
-        <translation type="unfinished"/>
+        <translation>Plattformübergreifende Office-Suite</translation>
     </message>
     <message>
         <source>Just now</source>
@@ -2746,7 +2784,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     <name>KDocerHotSearchListWidget</name>
     <message>
         <source>Docer HotSearch</source>
-        <translation type="unfinished"/>
+        <translation>Docer-Vorlagen</translation>
     </message>
 </context>
 <context>
@@ -2764,10 +2802,6 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
         <translation>Bearbeiten mit anderen Mitarbeitern</translation>
     </message>
     <message>
-        <source>WPS Team, A place for teamwork</source>
-        <translation>WPS Team, ein Ort für Teamarbeit</translation>
-    </message>
-    <message>
         <source>Create your team</source>
         <translation>Team erstellen</translation>
     </message>
@@ -2782,6 +2816,41 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     <message>
         <source>No Fear to lose data</source>
         <translation>Keine Angst vor Datenverlust</translation>
+    </message>
+</context>
+<context>
+    <name>KNewUserGuideTipsMgrV2</name>
+    <message>
+        <source>Open files</source>
+        <translation>Dateien öffnen</translation>
+    </message>
+    <message>
+        <source>Get started with WPS Office!</source>
+        <translation>Legen Sie los mit WPS Office!</translation>
+    </message>
+    <message>
+        <source>Quick access</source>
+        <translation>Schnellzugriff</translation>
+    </message>
+    <message>
+        <source> See how can we help with your PDF files.</source>
+        <translation> Schauen Sie sich an, wie wir Ihnen mit Ihren PDF-Dateien helfen können.</translation>
+    </message>
+    <message>
+        <source>Perfect compatibility with MS Office allows you to easily create and edit documents in different formats.</source>
+        <translation>Durch die vollständige Kompatibilität mit Microsoft Office können Sie problemlos Dokumente in verschiedenen Formaten erstellen und bearbeiten.</translation>
+    </message>
+    <message>
+        <source>Quick access to local files or cloud files from Google Drive and Dropbox at any time.</source>
+        <translation>Greifen Sie jederzeit rasch auf lokale Dateien oder Cloud-Dateien aus Google Drive und Dropbox zu.</translation>
+    </message>
+    <message>
+        <source>Welcome!</source>
+        <translation>Willkommen!</translation>
+    </message>
+    <message>
+        <source>We provide you with shortcuts of the most frequently used features. You can click the shortcuts to use the features directly.</source>
+        <translation>Wir stellen Ihnen Verknüpfungen der am häufigsten verwendeten Funktionen zur Verfügung. Sie können auf die Verknüpfungen klicken, um die Funktionen direkt zu verwenden.</translation>
     </message>
 </context>
 <context>
@@ -2804,7 +2873,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>super vip, enjoy</source>
-        <translation type="unfinished"/>
+        <translation>Das Super-Premium-Mitglied kann diese Vorteile genießen:</translation>
     </message>
     <message>
         <source>text search</source>
@@ -2836,65 +2905,6 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
 </context>
 <context>
-    <name>KComponentItem</name>
-    <message>
-        <source>docer</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Docer Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>action_component</source>
-        <translation>Themenabstimmung</translation>
-    </message>
-    <message>
-        <source>Action Title</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Weather Text</source>
-        <translation>Arrangieren Sie die Arbeit nach den Wetterbedingungen.</translation>
-    </message>
-    <message>
-        <source>Task Text</source>
-        <translation>Docer</translation>
-    </message>
-    <message>
-        <source>Weather Title</source>
-        <translation>Wetter</translation>
-    </message>
-    <message>
-        <source>Docer Text</source>
-        <translation>Es ist schön, viele Vorlagen zu erhalten.</translation>
-    </message>
-    <message>
-        <source>weather</source>
-        <translation>Wetter</translation>
-    </message>
-    <message>
-        <source>docer_component</source>
-        <translation>Docer_component</translation>
-    </message>
-    <message>
-        <source>task</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Action Text</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>action</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Task Title</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KLocalDocSearchResultWidget</name>
     <message>
         <source>Initializing...</source>
@@ -2913,11 +2923,11 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Experience document synchronization across devices</source>
-        <translation type="unfinished"/>
+        <translation>Erleben Sie die geräteübergreifende Synchronisierung von Dokumenten</translation>
     </message>
     <message>
         <source>Log in to more devices &gt;</source>
-        <translation type="unfinished"/>
+        <translation>Bei mehreren Geräten anmelden &gt;</translation>
     </message>
     <message>
         <source>online devices</source>
@@ -3027,7 +3037,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Join Collaborative editing</source>
-        <translation type="unfinished"/>
+        <translation>An der gemeinsamen Bearbeitung teilnehmen</translation>
     </message>
     <message>
         <source>Invite members</source>
@@ -3039,7 +3049,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>%1 Working together to edit</source>
-        <translation type="unfinished"/>
+        <translation>%1 Personen arbeiten an einer gemeinsamen Bearbeitung</translation>
     </message>
     <message>
         <source>Save to</source>
@@ -3059,7 +3069,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     </message>
     <message>
         <source>Online editing</source>
-        <translation type="unfinished"/>
+        <translation>Einstieg in die Bearbeitung durch mehrere Personen</translation>
     </message>
 </context>
 <context>
@@ -3131,11 +3141,11 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     <name>KRecentFileDesktopToolWidget</name>
     <message>
         <source>Add To Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Zum Desktop hinzufügen</translation>
     </message>
     <message>
         <source>Start WPS Document Assistant</source>
-        <translation type="unfinished"/>
+        <translation>Mit WPS-Dokumentassistent öffnen</translation>
     </message>
 </context>
 <context>
@@ -3184,7 +3194,7 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     <name>KCloudTipsContentWidget</name>
     <message>
         <source>365G space full</source>
-        <translation type="unfinished"/>
+        <translation>365 G Speicherplatz belegt</translation>
     </message>
     <message>
         <source>Free 1G space was full,</source>
@@ -3242,23 +3252,23 @@ Diese Datei ist geöffnet, Daten können nicht geschrieben werden. Schließen Si
     <name>KWeatherRequest</name>
     <message>
         <source>Unknown Location</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannter Speicherort</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Montag</translation>
     </message>
     <message>
         <source>Air Quality</source>
-        <translation type="unfinished"/>
+        <translation>Luftqualität</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Mittwoch</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Dienstag</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -3345,93 +3355,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
-    <name>KTemplateGuideDialog</name>
-    <message>
-        <source>Inspire your design inspiration</source>
-        <translation>Wujudkan inspirasi desain Anda</translation>
-    </message>
-    <message>
-        <source>Optimize warehouse management</source>
-        <translation>Optimalkan manajemen gudang</translation>
-    </message>
-    <message>
-        <source>We&apos;ll recommend suitable templates for you</source>
-        <translation>Kami akan menyarankan templat yang sesuai untuk Anda</translation>
-    </message>
-    <message>
-        <source>HR &amp; Administrative</source>
-        <translation>HR &amp; Administratif</translation>
-    </message>
-    <message>
-        <source>For sales, legal and service industries</source>
-        <translation>Untuk industri bidang penjualan, hukum, dan jasa</translation>
-    </message>
-    <message>
-        <source>Others</source>
-        <translation>Lainnya</translation>
-    </message>
-    <message>
-        <source>For fitness, diet and health</source>
-        <translation>Untuk kebugaran, asupan makanan, dan kesehatan</translation>
-    </message>
-    <message>
-        <source>Select your interest field</source>
-        <translation>Pilih bidang yang Anda minati</translation>
-    </message>
-    <message>
-        <source>Social &amp; Life</source>
-        <translation>Sosial &amp; Gaya Hidup</translation>
-    </message>
-    <message>
-        <source>Reduce the workload</source>
-        <translation>Kurangi beban kerja</translation>
-    </message>
-    <message>
-        <source>Make your report cooler</source>
-        <translation>Buat laporan Anda lebih memukau</translation>
-    </message>
-    <message>
-        <source>Make students love your class</source>
-        <translation>Buat siswa menyukai kelas Anda</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Bestätigen</translation>
-    </message>
-    <message>
-        <source>Record your wonderful life</source>
-        <translation>Simpan kenangan hidup Anda</translation>
-    </message>
-    <message>
-        <source>Teacher</source>
-        <translation>Guru</translation>
-    </message>
-    <message>
-        <source>Student</source>
-        <translation>Siswa</translation>
-    </message>
-    <message>
-        <source>Health Care</source>
-        <translation>Layanan kesehatan</translation>
-    </message>
-    <message>
-        <source>Designer</source>
-        <translation>Desainer</translation>
-    </message>
-    <message>
-        <source>Finance</source>
-        <translation>Keuangan</translation>
-    </message>
-    <message>
-        <source>Save time with standardized templates</source>
-        <translation>Hemat waktu dengan templat yang terstandardisasi</translation>
-    </message>
-    <message>
-        <source>SCM/Supply Chain</source>
-        <translation>SCM/Rantai pasok</translation>
-    </message>
-</context>
-<context>
     <name>KMsgCenterContentWidget</name>
     <message>
         <source>No news.</source>
@@ -3488,10 +3411,28 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
+    <name>KWeChatCSWidget</name>
+    <message>
+        <source>WPS After-sales</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KCmdLnkEntry</name>
     <message>
         <source>lnk path(%1) or target not exists.</source>
         <translation>Verknüpfung (%1) oder Ziel nicht vorhanden.</translation>
+    </message>
+</context>
+<context>
+    <name>KWeChatCustomerServiceDlg</name>
+    <message>
+        <source>Discuss your problem with WPS customer service</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WeChat QR Code</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3524,18 +3465,18 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KNewUserGuideOpenTip</name>
     <message>
         <source>All documents</source>
-        <translation type="unfinished"/>
+        <translation>Datei öffnen</translation>
     </message>
     <message>
         <source>Quick access to local files and ready access to documents in Google Drive and Dropbox.</source>
-        <translation type="unfinished"/>
+        <translation>Greifen Sie jederzeit rasch auf lokale Dateien oder Cloud-Dateien aus Google Drive und Dropbox zu.</translation>
     </message>
 </context>
 <context>
     <name>KLocationListSpecialContentModel</name>
     <message>
         <source>Create Company</source>
-        <translation type="unfinished"/>
+        <translation>Gemeinsame Speicherorte ausblenden</translation>
     </message>
 </context>
 <context>
@@ -3546,7 +3487,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>No Team</source>
-        <translation type="unfinished"/>
+        <translation>Kein Team</translation>
     </message>
 </context>
 <context>
@@ -3557,7 +3498,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>No Member</source>
-        <translation type="unfinished"/>
+        <translation>Keine Teammitglieder gefunden.</translation>
     </message>
 </context>
 <context>
@@ -3656,7 +3597,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KLocationListTitleWidget</name>
     <message>
         <source>%1 teams</source>
-        <translation type="unfinished"/>
+        <translation>%1 Teams</translation>
     </message>
 </context>
 <context>
@@ -3733,11 +3674,11 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KAddDesktopToolSuccessTipsWidget</name>
     <message>
         <source>Successful addition of WPS document Assistant</source>
-        <translation type="unfinished"/>
+        <translation>Erfolgreich hinzugefügt. Gehen Sie zwecks Überprüfung zurück auf den Desktop. Der WPS-Dokumentassistent hilft Ihnen, Dokumente schneller zu finden.</translation>
     </message>
     <message>
         <source>Successful start of WPS document Assistant</source>
-        <translation type="unfinished"/>
+        <translation>Gehen Sie zwecks Überprüfung zurück auf den Desktop. Der WPS-Dokumentassistent hilft Ihnen, Dokumente schneller zu finden.</translation>
     </message>
 </context>
 <context>
@@ -3799,11 +3740,11 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Add star success,it can be viewed in &quot;Starred&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Erfolgreich mit Sternchen markiert. Sie können sie in der Liste der mit Sternchen markierten Dateien sehen.</translation>
     </message>
     <message>
         <source>After the upload is completed, it will automatically add tag to corresponding cloud document</source>
-        <translation type="unfinished"/>
+        <translation>Die hochgeladene Datei wird automatisch zur Liste der mit Sternchen markierten Dateien hochgeladen.</translation>
     </message>
 </context>
 <context>
@@ -3892,7 +3833,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Shrink</source>
-        <translation type="unfinished"/>
+        <translation>Ausblenden</translation>
     </message>
 </context>
 <context>
@@ -3975,7 +3916,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KCloudTeamMessageWidget</name>
     <message>
         <source>Unable to acquire file info. Check whether this file has been deleted or moved.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Abrufen der Dateiinformationen. Prüfen Sie, ob die Datei gelöscht oder verschoben wurde.</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -3983,7 +3924,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Unable to acquire location info. Check whether this location has been deleted or moved.</source>
-        <translation type="unfinished"/>
+        <translation>Die Standortinformationen konnten nicht ermittelt werden. Prüfen Sie, ob der Ordner an diesem Speicherort gelöscht oder verschoben wurde.</translation>
     </message>
 </context>
 <context>
@@ -3997,11 +3938,11 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KNewUserGuideCloudStorageTip</name>
     <message>
         <source>Once added you can open, edit and save the document more editorially.</source>
-        <translation type="unfinished"/>
+        <translation>Erleichtern Sie zu jeder Zeit das Öffnen, Bearbeiten und Speichern von Dokumenten aus Google Drive und Dropbox.</translation>
     </message>
     <message>
         <source>Adding Cloud Storage</source>
-        <translation type="unfinished"/>
+        <translation>Cloud-Speicher hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -4015,7 +3956,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KTeamAreaFileListTitleWidget</name>
     <message>
         <source>Manage</source>
-        <translation type="unfinished"/>
+        <translation>Verwalten</translation>
     </message>
     <message>
         <source>Invite members</source>
@@ -4023,7 +3964,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>(%1 members)</source>
-        <translation type="unfinished"/>
+        <translation>(%1 Mitglieder)</translation>
     </message>
 </context>
 <context>
@@ -4042,6 +3983,57 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <message>
         <source>We need some time to prepare</source>
         <translation>Zur Vorbereitung ist etwas Zeit erforderlich</translation>
+    </message>
+</context>
+<context>
+    <name>KTemplateGuideDialog</name>
+    <message>
+        <source>Others</source>
+        <translation>Lainnya</translation>
+    </message>
+    <message>
+        <source>For fitness, diet and health</source>
+        <translation>Untuk kebugaran, asupan makanan, dan kesehatan</translation>
+    </message>
+    <message>
+        <source>Social &amp; Life</source>
+        <translation>Sosial &amp; Gaya Hidup</translation>
+    </message>
+    <message>
+        <source>Make your report cooler</source>
+        <translation>Buat laporan Anda lebih memukau</translation>
+    </message>
+    <message>
+        <source>Make students love your class</source>
+        <translation>Buat siswa menyukai kelas Anda</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Bestätigen</translation>
+    </message>
+    <message>
+        <source>Record your wonderful life</source>
+        <translation>Simpan kenangan hidup Anda</translation>
+    </message>
+    <message>
+        <source>Teacher</source>
+        <translation>Guru</translation>
+    </message>
+    <message>
+        <source>Student</source>
+        <translation>Siswa</translation>
+    </message>
+    <message>
+        <source>Health Care</source>
+        <translation>Layanan kesehatan</translation>
+    </message>
+    <message>
+        <source>Designer</source>
+        <translation>Desainer</translation>
+    </message>
+    <message>
+        <source>Finance</source>
+        <translation>Keuangan</translation>
     </message>
 </context>
 <context>
@@ -4136,7 +4128,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Switch Page</source>
-        <translation type="unfinished"/>
+        <translation>Wechseln</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -4235,10 +4227,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
         <translation>Als Standard festlegen</translation>
     </message>
     <message>
-        <source>Always open PDFs in WPS Office</source>
-        <translation>PDFs immer in WPS Office öffnen</translation>
-    </message>
-    <message>
         <source>No more show</source>
         <translation>Nicht mehr anzeigen</translation>
     </message>
@@ -4258,7 +4246,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>guest account</source>
-        <translation type="unfinished"/>
+        <translation>Gastkonto</translation>
     </message>
 </context>
 <context>
@@ -4284,15 +4272,15 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
     <message>
         <source>Search Team</source>
-        <translation type="unfinished"/>
+        <translation>Team suchen</translation>
     </message>
     <message>
         <source>Add Team</source>
-        <translation type="unfinished"/>
+        <translation>Team erstellen</translation>
     </message>
     <message>
         <source>My Teams</source>
-        <translation type="unfinished"/>
+        <translation>Meine Teams</translation>
     </message>
 </context>
 <context>
@@ -4337,7 +4325,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KUserInfoWidgetLoginWidget</name>
     <message>
         <source>wallet</source>
-        <translation type="unfinished"/>
+        <translation>Geldbörse</translation>
     </message>
     <message>
         <source>Docer Vip</source>
@@ -4378,13 +4366,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
-    <name>KCreationAreaView</name>
-    <message>
-        <source>Start a new document</source>
-        <translation>Neues Dokument starten</translation>
-    </message>
-</context>
-<context>
     <name>KLocationListDelegate</name>
     <message>
         <source>ShareToMe</source>
@@ -4417,11 +4398,11 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KAddRecentFileDesktopToolPopouWidget</name>
     <message>
         <source>After opening, you can view documents using the WPS Document Assistant  on the desktop directly.</source>
-        <translation type="unfinished"/>
+        <translation>Wenn diese Funktion aktiviert ist, können Sie den WPS-Dokumentassistenten verwenden, um das Dokument direkt auf dem Desktop anzuzeigen.</translation>
     </message>
     <message>
         <source>No more &quot;Add&quot; button information displayed</source>
-        <translation type="unfinished"/>
+        <translation>Keine Informationen mehr über die Schaltfläche „Hinzufügen“ angezeigt</translation>
     </message>
 </context>
 <context>
@@ -4457,7 +4438,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KFileEventsInfoWidget</name>
     <message>
         <source>%1 sharing</source>
-        <translation type="unfinished"/>
+        <translation>Verlauf verwalten</translation>
     </message>
     <message>
         <source>%1 collaboration</source>
@@ -4473,6 +4454,20 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <message>
         <source>reload config</source>
         <translation>Erneut laden</translation>
+    </message>
+</context>
+<context>
+    <name>KWeatherCurrentWeatherWidget</name>
+    <message>
+        <source>Switch City</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherErrorUnknowBottomWidget</name>
+    <message>
+        <source>Switch City</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4498,6 +4493,20 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
+    <name>KWeatherErrorFailureBottomWidget</name>
+    <message>
+        <source>Manually adding cities</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherComponent</name>
+    <message>
+        <source>weather_component</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KDocerSearchListWidget</name>
     <message>
         <source>Docer Template Selection</source>
@@ -4516,6 +4525,13 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     </message>
 </context>
 <context>
+    <name>KStartPageHomeFileNetworkErrorTip</name>
+    <message>
+        <source>Without an internet connection, you cannot access the following documents.</source>
+        <translation>Keine Internetverbindung. Sie können nicht auf die folgenden Dokumente zugreifen.</translation>
+    </message>
+</context>
+<context>
     <name>KComponentTitle</name>
     <message>
         <source>feedback</source>
@@ -4526,6 +4542,20 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KTeamListDelegate</name>
     <message>
         <source>Last UpdateTime:</source>
+        <translation>Zuletzt aktualisiert um:</translation>
+    </message>
+</context>
+<context>
+    <name>KWeatherCitySearchPopWidget</name>
+    <message>
+        <source>No city is matched</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KWeatherErrorTitleWidget</name>
+    <message>
+        <source>Weather</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -4547,7 +4577,7 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <name>KWeatherLineEditWidget</name>
     <message>
         <source>Add cities to pay attention to the weather</source>
-        <translation type="unfinished"/>
+        <translation>Städte hinzufügen, um das Wetter zu überprüfen</translation>
     </message>
 </context>
 <context>
@@ -4583,66 +4613,6 @@ Die Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translati
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
         <translation>Serverfehler, Suche nicht möglich.</translation>
-    </message>
-</context>
-<context>
-    <name>KWeChatCSWidget</name>
-    <message>
-        <source>WPS After-sales</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeChatCustomerServiceDlg</name>
-    <message>
-        <source>Discuss your problem with WPS customer service</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WeChat QR Code</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherCurrentWeatherWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorUnknowBottomWidget</name>
-    <message>
-        <source>Switch City</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorFailureBottomWidget</name>
-    <message>
-        <source>Manually adding cities</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherComponent</name>
-    <message>
-        <source>weather_component</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherCitySearchPopWidget</name>
-    <message>
-        <source>No city is matched</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWeatherErrorTitleWidget</name>
-    <message>
-        <source>Weather</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
