@@ -4481,7 +4481,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>Save As Video</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить как видео</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -14346,7 +14346,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Видео</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -14538,7 +14538,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось прочитать и записать видео. Проверьте права доступа к диску.</translation>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14642,7 +14642,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
-        <translation type="unfinished"/>
+        <translation>В целях безопасности WPS Office блокирует доступ к этому встроенному объекту.</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -14763,7 +14763,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Save Failed</source>
-        <translation type="unfinished"/>
+        <translation>Сбой сохранения</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14850,7 +14850,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>WPS Office Security Notice</source>
-        <translation type="unfinished"/>
+        <translation>Уведомление о безопасности WPS Office</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -15484,7 +15484,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Save as Video</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить как видео</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -15532,7 +15532,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether your video exists.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось загрузить видео. Проверьте, существует ли видео и не повреждено ли оно.</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -15561,7 +15561,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15751,7 +15751,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Failed to save the file as video!Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка при сохранении. Повторите попытку.</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -16552,7 +16552,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation>&amp;Табуляция...</translation>
+        <translation>Корешок...</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -28963,7 +28963,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Войти</translation>
     </message>
     <message>
         <source>recover from backup</source>
@@ -29003,7 +29003,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This document is read-only. Sign in to create, edit, and share documents.</source>
-        <translation type="unfinished"/>
+        <translation>Этот документ доступен только для чтения. Войдите в систему, чтобы создавать, редактировать и передавать документы.</translation>
     </message>
     <message>
         <source>find some keywords</source>
@@ -34348,47 +34348,47 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <name>KStartupGuidePaneAdvertise</name>
     <message>
         <source>Repair Damaged Files</source>
-        <translation type="unfinished"/>
+        <translation>Восстановление поврежденных файлов</translation>
     </message>
     <message>
         <source>SPlit/Merge/Compress PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Разделение, объединение и сжатие PDF-файлов</translation>
     </message>
     <message>
         <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
-        <translation type="unfinished"/>
+        <translation>OCR (Преобразование изображения в Word/Excel/PPT/TXT)</translation>
     </message>
     <message>
         <source>Edit Text/Images in PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Редактирование текста и изображений в PDF-файлах</translation>
     </message>
     <message>
         <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
-        <translation type="unfinished"/>
+        <translation>Разблокируйте 51 расширенную функцию WPS PDF, Writer, Spreadsheet и Presentation.</translation>
     </message>
     <message>
         <source>Get Your Free Trial</source>
-        <translation type="unfinished"/>
+        <translation>Получите бесплатную пробную версию</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>Преобразование PDF в Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Купить</translation>
     </message>
     <message>
         <source>Start Your free 7-day trail of WPS Premium</source>
-        <translation type="unfinished"/>
+        <translation>Запустить 7-дневную бесплатную пробную версию WPS Premium</translation>
     </message>
     <message>
         <source>View more</source>
-        <translation type="unfinished"/>
+        <translation>Подробнее</translation>
     </message>
     <message>
         <source>PDF Protect/Sign</source>
-        <translation type="unfinished"/>
+        <translation>Добавление защиты и подписи в PDF-файлы</translation>
     </message>
 </context>
 <context>
@@ -40248,7 +40248,7 @@ p, li { white-space: pre-wrap; }
     <name>KSaveOOXMLTipDlg</name>
     <message>
         <source>The presence of extended data in the prompt file</source>
-        <translation>В файле запроса имеются расширенные данные</translation>
+        <translation>В файле существуют расширенные данные. Рекомендуется сохранить файл как %1, иначе повторное изменение расширенных данных не будет поддерживаться.</translation>
     </message>
     <message>
         <source>Save Directly</source>
@@ -40256,7 +40256,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caption</source>
-        <translation>Подпись</translation>
+        <translation>Подтверждение формата сохранения</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -40264,7 +40264,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recommended save as specify format</source>
-        <translation>Рекомендуется сохранить в выбираемом формате</translation>
+        <translation>Рекомендуется сохранить %1 в формате %2</translation>
     </message>
     <message>
         <source>Don&apos;t check file format</source>
@@ -41338,19 +41338,19 @@ p, li { white-space: pre-wrap; }
     <name>KXaOverseasAuthManager</name>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Режим &quot;только чтение&quot;</translation>
     </message>
     <message>
         <source>Continue in Read-only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Продолжить</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Войти</translation>
     </message>
     <message>
         <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
-        <translation type="unfinished"/>
+        <translation>Этот документ можно просматривать в режиме &quot;только чтение&quot;. Войдите, чтобы использовать больше функций, включая редактирование, сохранение и создание документов. В то же время после входа документы надежнее защищены.</translation>
     </message>
 </context>
 <context>
