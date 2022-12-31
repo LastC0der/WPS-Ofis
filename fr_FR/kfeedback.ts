@@ -84,10 +84,6 @@
         <translation>Télécharger un fichier</translation>
     </message>
     <message>
-        <source>Top Questions</source>
-        <translation>Questions principales</translation>
-    </message>	
-    <message>
         <source>Sending</source>
         <translation>Envoi</translation>
     </message>
