@@ -1218,7 +1218,7 @@
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Рукописный ввод</translation>
+        <translation>Нарисовать</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
