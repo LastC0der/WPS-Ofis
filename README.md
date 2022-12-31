@@ -6,4 +6,4 @@ https://linux.wps.com/
 https://wps.com/
 
 
-kso, qing, wpsoffice dosyalarında "message numerus="yes"" kısımlarında bir sorun çıktı, transifex botu çalışmıyor.
+30 Aralık 2022 itibarıyla transifex botu senkronizsayon yapmıyor, çeviri yapmanın bir anlamı yok.
