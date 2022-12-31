@@ -180,10 +180,6 @@
         <source>Old Multi-Component Mode</source>
         <translation>Mode Multi-Komponen seperti 2016</translation>
     </message>
-    <message>
-        <source>Switching WPS 2019 to %1</source>
-        <translation>Memindah WPS Office ke %1</translation>
-    </message>
 </context>
 <context>
     <name>DeleteAccountTipDlg</name>
@@ -538,18 +534,6 @@ Operasi ini dapat dibatalkan. </translation>
     <message>
         <source>Compat Setting</source>
         <translation>Pengaturan Compat</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Presentasi Microsoft PowerPoint (file *.ppt, *.pot, *.pps, *.pptx) (&amp;P)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Buku Kerja Microsoft Excel (file *.xls, *.xlt, *.xlsx) (&amp;E)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
-        <translation>Dokumen Microsoft Word (file *.doc, *.dot, *.docx) dan Dokumen RTF (&amp;W)</translation>
     </message>
 </context>
 <context>
@@ -1760,26 +1744,6 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
         <source>To use &quot;Picture to Text&quot;, &quot;PDF to Word&quot; and &quot;Template Recommend&quot;, enable privacy settings</source>
         <translation>Untuk menggunakan &quot;Gambar ke Teks&quot;, &quot;PDF ke Word&quot; dan &quot;Saran Templat&quot;, aktifkan pengaturan privasi</translation>
     </message>
-    <message>
-        <source>View privacy policy</source>
-        <translation>Lihat kebijakan privasi</translation>
-    </message>
-    <message>
-        <source>Agree Kingsoft Software Privacy Policy.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Agree upload document when converting PDF.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Agree upload document when using OCR tool.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You can change the privacy settings:</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KPageApiCompKDEType</name>
@@ -1825,14 +1789,6 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <message>
         <source>Disable template recommend.</source>
         <translation>Nonaktifkan rekomendasi templat.</translation>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation>Sembunyikan item menu file WPS Cloud.</translation>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
-        <translation>Sembunyikan item menu fitur ekstensi WPS.</translation>
     </message>
 </context>
 <context>
