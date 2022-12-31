@@ -1818,7 +1818,7 @@ Text</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>File Slimming</translation>
+        <translation>Document Compressor</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2350,7 +2350,7 @@ Data Connections are links to data outside of this workbook which can be updated
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convert Picture to Text</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2921,7 +2921,7 @@ Click arrow to set the detail of outline.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>&quot;file slimming&quot; feature can help you reduce the file size.</translation>
+        <translation>Help you reduce the file size.</translation>
     </message>
     <message>
         <source>Underline.title</source>
