@@ -3,9 +3,7 @@ WPS Ofis programının yerelleştirilmesi için Transifex platformunda çeviri y
 Transifex botu yardımıyla çeviri yaptığım dosyaları ara ara "tr_TR" dizinine aktarmaktayım.
 Yeni sürümler çıktığı ve ben çeviri yaptığım sürece repo güncellenecek. Daha yoğun kullandığımdan dolayı çeviri önceliği Excel kısmında olacak.
 
-https://linux.wps.com/
-
-https://wps.com/
+https://linux.wps.com/    https://wps.com/
 
 
 
