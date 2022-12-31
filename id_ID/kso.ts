@@ -4483,6 +4483,10 @@ Anda ingin membukanya menggunakan kumpulan kredensial yang berbeda?</translation
         <translation>Semua orang</translation>
     </message>
     <message>
+        <source>Save As Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Restricted Access</source>
         <translation>Akses Terbatas</translation>
     </message>
@@ -14346,6 +14350,10 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Edit Text</source>
         <translation>Edit Teks</translation>
     </message>
@@ -14455,6 +14463,10 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <translation>File Film QuickTime (*.mov)</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert JdeControl</source>
         <translation>Sisipkan Kontrol JDE</translation>
     </message>
@@ -14528,6 +14540,10 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     <message>
         <source>More Contrast</source>
         <translation>Kontras Lebih</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14628,6 +14644,10 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
+    </message>
+    <message>
+        <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3-D</source>
@@ -14747,6 +14767,10 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <translation>Senggol Objek</translation>
     </message>
     <message>
+        <source>Save Failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Custom</source>
         <translation>Kustom</translation>
     </message>
@@ -14828,6 +14852,10 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     <message>
         <source>Normal</source>
         <translation>Normal</translation>
+    </message>
+    <message>
+        <source>WPS Office Security Notice</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Size</source>
@@ -15461,6 +15489,10 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>Sisipkan Klip Seni</translation>
     </message>
     <message>
+        <source>Save as Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Warna Bayangan</translation>
     </message>
@@ -15505,6 +15537,10 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>3D</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Letter Justify</source>
         <translation>Rata Spasi Huruf</translation>
     </message>
@@ -15527,6 +15563,11 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     <message>
         <source>Insert Control</source>
         <translation>Sisipkan Kontrol</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15713,6 +15754,10 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     <message>
         <source>Alignment</source>
         <translation>Perataan</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please retry.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -19942,14 +19987,6 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>DsOnlineChart</source>
         <translation>Animasikan Bagan</translation>
-    </message>
-    <message>
-        <source>OnlineChart</source>
-        <translation>Bagan Online</translation>
-    </message>
-    <message>
-        <source>OnlineSmartChart</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26653,10 +26690,6 @@ Pemindahan</translation>
         <source>You already have this on Quick Access Toolbar.</source>
         <translation>Anda sudah memilikinya di Bar Alat Akses Cepat.</translation>
     </message>
-    <message>
-        <source>Choose Commands</source>
-        <translation>Pilih Perintah</translation>
-    </message>
 </context>
 <context>
     <name>KxTabNotification</name>
@@ -28938,6 +28971,10 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>Perbaiki Sekarang</translation>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>recover from backup</source>
         <translation>pulihkan dari cadangan</translation>
     </message>
@@ -28972,6 +29009,10 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.If you want to start the macro function,</source>
         <translation>Perpustakaan VBA belum diinstal. Jika Anda ingin mengaktifkan fungsi makro,</translation>
+    </message>
+    <message>
+        <source>This document is read-only. Sign in to create, edit, and share documents.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>find some keywords</source>
@@ -34316,6 +34357,53 @@ Jika masih bermasalah, Anda dapat mencetak halaman tes melalui Properti Printer 
     </message>
 </context>
 <context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgPrintProgress</name>
     <message>
         <source>Printing file:</source>
@@ -34739,18 +34827,6 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     <message>
         <source>System Style</source>
         <translation>Prasetel</translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation>Lainnya</translation>
-    </message>
-    <message>
-        <source>Free Chart Style</source>
-        <translation>Gaya bagan bebas</translation>
-    </message>
-    <message>
-        <source>Check More</source>
-        <translation>Lihat selengkapnya</translation>
     </message>
 </context>
 <context>
@@ -37456,10 +37532,6 @@ Cek koneksi jaringan Anda.</translation>
         <source>Property</source>
         <translation>Properti</translation>
     </message>
-    <message>
-        <source>This option has conflict with other option.</source>
-        <translation>Pilihan ini bertentangan dengan pilihan lain.</translation>
-    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
@@ -40148,10 +40220,6 @@ p, li { white-space: pre-wrap; }
         <source>Find Commands</source>
         <translation>Cari Perintah</translation>
     </message>
-    <message>
-        <source>find commands</source>
-        <translation>Cari Perintah</translation>
-    </message>
 </context>
 <context>
     <name>KxSetMBCommand</name>
@@ -40604,10 +40672,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please usse security document function after saving this document as security document.</source>
         <translation>Untuk menggunakan fitur ini, simpan file sebagai file keamanan.</translation>
-    </message>
-    <message>
-        <source>Local network disconneted, please retry after connection available.</source>
-        <translation>Jaringan lokal terputus. Coba lagi setelah koneksi tersedia.</translation>
     </message>
 </context>
 <context>
@@ -41267,8 +41331,39 @@ untuk membuat dokumen luar</translation>
         <translation>Label Teks untuk Bagan Grup</translation>
     </message>
     <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
         <source>&amp;Manage Templates...</source>
         <translation>Atur Templat...</translation>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation>Hapus, pindahkan, atau ganti nama templat Anda.</translation>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41810,340 +41905,6 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <message>
         <source>make outward doc</source>
         <translation>Buat Dokumen Ke Luar</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowShareWidget</name>
-    <message>
-        <source>QQ</source>
-        <translation>QQ</translation>
-    </message>
-    <message>
-        <source>QZone</source>
-        <translation>QZone</translation>
-    </message>
-    <message>
-        <source>Weibo</source>
-        <translation>Weibo</translation>
-    </message>
-    <message>
-        <source>Click to open the link</source>
-        <translation>Klik untuk membuka tautan</translation>
-    </message>
-    <message>
-        <source>For the link security, you need login to share link
-you can manage,delete,reshare the link</source>
-        <translation>Untuk memastikan keamanan tautan, akses masuk untuk menggunakannya.
-Setelah mengakses masuk. Anda dapat mengatur, menghapus, dan membagi tautan ke orang lain.</translation>
-    </message>
-    <message>
-        <source>Create link succeeded!</source>
-        <translation>Tautan telah dibuat.</translation>
-    </message>
-    <message>
-        <source>WeChat</source>
-        <translation>WeChat</translation>
-    </message>
-    <message>
-        <source>Creating QRCode...</source>
-        <translation>Membuat Kode QR...</translation>
-    </message>
-    <message>
-        <source>Copy QRCode succeeded!</source>
-        <translation>Kode QR telah disalin.</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Buat tautan</translation>
-    </message>
-    <message>
-        <source>Copy link succeeded!</source>
-        <translation>Tautan telah disalin.</translation>
-    </message>
-    <message>
-        <source>Link has been created, login and use it!</source>
-        <translation>Tautan telah dibuat.
-Akses masuk untuk menggunakannya.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
-    <message>
-        <source>Print/Preview</source>
-        <translation>Cetak/Pratampil</translation>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation>Folder</translation>
-    </message>
-    <message>
-        <source>Export Pdf</source>
-        <translation>Ekspor PDF</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewTinyQRCodeWidget</name>
-    <message>
-        <source>Use Wechat scan the code
-share with your friends</source>
-        <translation>Pindai kode QR dengan Wechat
-Bagi ke teman</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWindowShareBar</name>
-    <message>
-        <source>ShareToWeibo</source>
-        <translation>Bagi ke Weibo</translation>
-    </message>
-    <message>
-        <source>ShareToQzone</source>
-        <translation>Bagi ke Qzone</translation>
-    </message>
-    <message>
-        <source>Share to:</source>
-        <translation>Bagi ke:</translation>
-    </message>
-    <message>
-        <source>ShareToQQ</source>
-        <translation>Bagi ke QQ</translation>
-    </message>
-    <message>
-        <source>ShareToWeixin</source>
-        <translation>Bagi ke Wechat</translation>
-    </message>
-    <message>
-        <source>H5Share_Defaut_Tips</source>
-        <translation>Saya baru saja mengonversi dokumen ke halaman web menggunakan WPS Office. Lihatlah!</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowProgressWidget</name>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
-        <translation>Gagal membuat tautan. &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Klik untuk coba lagi&lt;/a&gt;&lt;/b&gt;, atau coba lagi nanti.</translation>
-    </message>
-    <message>
-        <source>The left disk space is not enouth to creat link</source>
-        <translation>Tautan tidak dapat dibuat karena ruang disk yang tersisa tidak cukup.</translation>
-    </message>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
-        <translation>Gagal membuat tautan.&lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Klik untuk mencoba kembali&lt;/a&gt;&lt;/b&gt;, atau coba lagi nanti.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>Untuk memastikan tampilan bagus, tautan hanya berisi 50 halaman pertama dokumen.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 20 pages</source>
-        <translation>Untuk memastikan tampilan bagus, tautan hanya berisi 20 halaman pertama dokumen.</translation>
-    </message>
-    <message>
-        <source>Creating kink, please wait...</source>
-        <translation>Membuat tautan, harap tunggu...</translation>
-    </message>
-    <message>
-        <source>Network is unaccessable, can&apos;t creat link</source>
-        <translation>Tautan tidak dapat dibuat karena masalah jaringan.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
-    <message>
-        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
-        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Masuk pratampil&lt;/a&gt;&gt;&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowHeaderWidget</name>
-    <message>
-        <source>Link preview</source>
-        <translation>Bagikan Tautan</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
-    <message>
-        <source>Server not respondingT_T
-Click to retry, or try it later~</source>
-        <translation>Server tidak merespons.
-Klik untuk mencoba kembali, atau coba lagi nanti.</translation>
-    </message>
-    <message>
-        <source>Scan QRCode</source>
-        <translation>Pindai Kode QR</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Salin Tautan</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Buat tautan</translation>
-    </message>
-    <message>
-        <source>Scan the QRCode
-send document link to mobile</source>
-        <translation>Pindai kode QR
-dan kirim tautan ke ponsel Anda.</translation>
-    </message>
-    <message>
-        <source>Create link failedT_T
-Click to retry, or try it later~</source>
-        <translation>Gagal membuat tautan.
-Klik untuk mencoba kembali, atau coba lagi nanti.</translation>
-    </message>
-    <message>
-        <source>Creating Link...</source>
-        <translation>Membuat tautan...</translation>
-    </message>
-    <message>
-        <source>Network error, can not create link
-Please check your network your firewall configuration</source>
-        <translation>Tautan tidak dapat dibuat karena kesalahan jaringan.
-Periksa jaringan dan konfigurasi firewall Anda.</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareLoginWidget</name>
-    <message>
-        <source>For document security needs, please log in,
-you can also enjoy the link after the link to manage, delete, and then share privileges</source>
-        <translation>Akses masuk untuk menggunakan tautan.
-Setelah mengakses masuk. Anda dapat mengatur, menghapus, dan membagi tautan ke orang lain.</translation>
-    </message>
-    <message>
-        <source>Link has been generated, 
-you can use the login!</source>
-        <translation>Tautan telah dibuat.
-Akses masuk untuk menggunakannya.</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Buka Folder</translation>
-    </message>
-    <message>
-        <source>Find document</source>
-        <translation>Cari dokumen</translation>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontPreviewComboBox</name>
-    <message>
-        <source>Simsun</source>
-        <translation>Simsun</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5RemindDialog</name>
-    <message>
-        <source>Copy Finished</source>
-        <translation>Disalin</translation>
-    </message>
-</context>
-<context>
-    <name>KH5LinkMgrWindow</name>
-    <message>
-        <source>H5 Link Manager</source>
-        <translation>Atur Tautan Terbagi</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
-    <message>
-        <source>Share to QQ</source>
-        <translation>Bagi ke QQ</translation>
-    </message>
-    <message>
-        <source>Share link:</source>
-        <translation>Bagikan tautan:</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Salin tautan</translation>
-    </message>
-    <message>
-        <source>Copy link</source>
-        <translation>Salin tautan</translation>
-    </message>
-    <message>
-        <source>Share to WeChat</source>
-        <translation>Bagi ke Wechat</translation>
-    </message>
-    <message>
-        <source>Share to Weibo</source>
-        <translation>Bagi ke Weibo</translation>
-    </message>
-    <message>
-        <source>Share to QZone</source>
-        <translation>Bagi ke Qzone</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>Untuk memastikan tampilan bagus, tautan hanya berisi 50 halaman pertama dokumen.</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareContiueWidget</name>
-    <message>
-        <source>Manage Shared Link &gt;&gt;</source>
-        <translation>Atur Tautan Terbagi &gt;&gt;</translation>
-    </message>
-    <message>
-        <source>Share Finished!</source>
-        <translation>Dibagikan.</translation>
-    </message>
-    <message>
-        <source>Continue Share &gt;&gt;</source>
-        <translation>Lanjutkan Bagi &gt;&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5hareCreateLinkWidget</name>
-    <message>
-        <source>creating a link...</source>
-        <translation>Membuat tautan...</translation>
-    </message>
-    <message>
-        <source>Mobile scan two-dimensional code</source>
-        <translation>Pindai Kode QR untuk mengirim tautan ke perangkat seluler Anda.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
-    <message>
-        <source>Property</source>
-        <translation>Properti</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageDownloadDialog</name>
-    <message>
-        <source>Are you sure you want to cancel the download?</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWidget</name>
-    <message>
-        <source>weixin scan QR Code 
- Share To Your FriendsSS</source>
-        <translation>Pindai kode QR dengan Wechat
-Bagi ke teman</translation>
     </message>
 </context>
 </TS>
