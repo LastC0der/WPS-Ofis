@@ -1816,7 +1816,7 @@ Para habilitar esta característica, habilite la función Ver en paralelo.</tran
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Aligeramiento de archivo</translation>
+        <translation>Compresor de documentos</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2348,7 +2348,7 @@ Las conexiones de datos son enlaces a datos externos al libro que se pueden actu
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convertir imagen en texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2918,7 +2918,7 @@ Haga clic en la flecha para establecer los detalles del contorno.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>La función de &quot;aligeramiento de archivo&quot; puede ayudarle a reducir el tamaño de este.</translation>
+        <translation>Ayuda a reducir el tamaño del archivo.</translation>
     </message>
     <message>
         <source>Underline.title</source>
