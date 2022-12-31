@@ -44,6 +44,18 @@
         <source>warning</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Null</source>
+        <translation>Yok</translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
