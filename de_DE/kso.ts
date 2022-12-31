@@ -34353,47 +34353,47 @@ Wenn das Problem weiterhin besteht, können Sie über die Druckereigenschaften e
     <name>KStartupGuidePaneAdvertise</name>
     <message>
         <source>Repair Damaged Files</source>
-        <translation type="unfinished"/>
+        <translation>Beschädigte Dateien reparieren</translation>
     </message>
     <message>
         <source>SPlit/Merge/Compress PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>PDF-Dateien teilen/zusammenführen/komprimieren</translation>
     </message>
     <message>
         <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
-        <translation type="unfinished"/>
+        <translation>OCR (Bild in Word/Excel/PPT/TXT)</translation>
     </message>
     <message>
         <source>Edit Text/Images in PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Texte/Bilder in PDF-Dateien bearbeiten</translation>
     </message>
     <message>
         <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
-        <translation type="unfinished"/>
+        <translation>Schalten Sie 51 erweiterte Funktionen für WPS PDF, Writer, Spreadsheet und Presentation frei.</translation>
     </message>
     <message>
         <source>Get Your Free Trial</source>
-        <translation type="unfinished"/>
+        <translation>Holen Sie sich Ihre kostenlose Testversion</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF in Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Jetzt kaufen</translation>
     </message>
     <message>
         <source>Start Your free 7-day trail of WPS Premium</source>
-        <translation type="unfinished"/>
+        <translation>Starten Sie Ihre 7-tägige WPS Premium-Testversion</translation>
     </message>
     <message>
         <source>View more</source>
-        <translation type="unfinished"/>
+        <translation>Mehr anzeigen</translation>
     </message>
     <message>
         <source>PDF Protect/Sign</source>
-        <translation type="unfinished"/>
+        <translation>PDF-Dateien schützen/signieren</translation>
     </message>
 </context>
 <context>
@@ -41339,19 +41339,19 @@ zum Erstellen eines Ausgangsdokuments</translation>
     <name>KXaOverseasAuthManager</name>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Schreibgeschützter Modus</translation>
     </message>
     <message>
         <source>Continue in Read-only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Fortsetzen</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
-        <translation type="unfinished"/>
+        <translation>Sie können dieses Dokument nur im schreibgeschützten Modus anzeigen. Melden Sie sich an, um weitere Funktionen wie das Bearbeiten, Speichern und Erstellen von Dokumenten zu nutzen. Gleichzeitig sind Ihre Dokumente nach dem Anmelden besser geschützt.</translation>
     </message>
 </context>
 <context>
