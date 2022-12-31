@@ -1819,7 +1819,7 @@
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Уменьшение файла</translation>
+        <translation>Средство сжатия документов</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2351,7 +2351,7 @@
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Преобразовать рисунок в текст</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2920,7 +2920,7 @@
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>Сокращение размера файла с помощью функции &quot;Уменьшение файла&quot;.</translation>
+        <translation>Уменьшение размера файла.</translation>
     </message>
     <message>
         <source>Underline.title</source>
