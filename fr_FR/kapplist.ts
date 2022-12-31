@@ -42,12 +42,20 @@
         <translation>Enregistreur d&apos;écran</translation>
     </message>
     <message>
+        <source>Batch rename files with set rules</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Powerful text and image editing tools</source>
         <translation>Outils de modification puissants de texte et d&apos;image</translation>
     </message>
     <message>
         <source>Sorry, screen recording is not currently supported on XP system devices. It is recommended to use screen recording on WIN10 system devices.</source>
         <translation>Désolé, l&apos;enregistreur d&apos;écran n&apos;est pas pris en charge sur les appareils XP pour l&apos;instant. Nous vous recommandons d&apos;utiliser l&apos;enregistreur d&apos;écran sur les appareils Windows 10.</translation>
+    </message>
+    <message>
+        <source>Batch print settings and batch printing for multiple PDF documents</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -58,8 +66,16 @@
         <translation>Créez des formulaires, des enquêtes, des audits, des évaluations et des examens.</translation>
     </message>
     <message>
+        <source>ET Tool Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Layout unchanged, Keep all style and format</source>
         <translation>Disposition inchangée. Conservez tous les styles et formats</translation>
+    </message>
+    <message>
+        <source>Batch Rename Files</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Support exporting files in batch and specifying page ranges</source>
@@ -78,6 +94,14 @@
         <translation>Fractionner/Fusionner</translation>
     </message>
     <message>
+        <source>PDF to CAD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CAD to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Academy</source>
         <translation>WPS Academy</translation>
     </message>
@@ -92,6 +116,10 @@
     <message>
         <source>Translate</source>
         <translation>Traduire</translation>
+    </message>
+    <message>
+        <source>Batch PDF Printing</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smart Form</source>
@@ -122,6 +150,10 @@
         <translation>Exporter au format PDF</translation>
     </message>
     <message>
+        <source>Convert CAD files (DWG/DWT/DXF, etc.) to PDF files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Template</source>
         <translation>Modèle</translation>
     </message>
@@ -139,6 +171,10 @@
     </message>
     <message>
         <source>Resume Master</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert PDF files to CAD files (DWG/DWT/DXF, etc.)</source>
         <translation type="unfinished"/>
     </message>
     <message>
