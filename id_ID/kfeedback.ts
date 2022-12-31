@@ -84,10 +84,6 @@
         <translation>Unggah File</translation>
     </message>
     <message>
-        <source>Top Questions</source>
-        <translation>Pertanyaan Terbaik</translation>
-    </message>	
-    <message>
         <source>Sending</source>
         <translation>Mengirim</translation>
     </message>
