@@ -1212,7 +1212,7 @@ Kliknij strzałkę, aby wybrać inne kolory cienia.</translation>
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Pismo odręczne</translation>
+        <translation>Rysuj</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
