@@ -84,10 +84,6 @@
         <translation>Cargar archivo</translation>
     </message>
     <message>
-        <source>Top Questions</source>
-        <translation>Preguntas destacadas</translation>
-    </message>	
-    <message>
         <source>Sending</source>
         <translation>Enviando</translation>
     </message>
