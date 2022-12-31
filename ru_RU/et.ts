@@ -6242,7 +6242,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     </message>
     <message>
         <source>File Slimming</source>
-        <translation>Уменьшение файла</translation>
+        <translation>Средство сжатия документов</translation>
     </message>
     <message>
         <source>filename</source>
@@ -18008,7 +18008,7 @@ Columns</source>
     </message>
     <message>
         <source>£ English (United Kingdom)</source>
-        <translation type="unfinished"/>
+        <translation>£ Английский (Великобритания)</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -18112,7 +18112,7 @@ Columns</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"/>
+        <translation>Обычный</translation>
     </message>
     <message>
         <source>Number</source>
@@ -18160,7 +18160,7 @@ Columns</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Ориентация</translation>
     </message>
     <message>
         <source>Split Sheet</source>
@@ -18245,7 +18245,7 @@ Columns</source>
     </message>
     <message>
         <source>¥ Chinese (China)</source>
-        <translation type="unfinished"/>
+        <translation>¥ Китайский (Китай)</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
@@ -18297,7 +18297,7 @@ Columns</source>
     </message>
     <message>
         <source>More Accouting Formats...</source>
-        <translation type="unfinished"/>
+        <translation>Другие финансовые форматы...</translation>
     </message>
     <message>
         <source>Insert Cut Cells Dialog</source>
@@ -18321,7 +18321,7 @@ Columns</source>
     </message>
     <message>
         <source>$ English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>$ Английский (США)</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -18421,7 +18421,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Вертикальный текст</translation>
     </message>
     <message>
         <source>Bottom 10%</source>
@@ -18569,7 +18569,7 @@ Center</source>
     </message>
     <message>
         <source>€ Euro (€ 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ Евро (€ 123)</translation>
     </message>
     <message>
         <source>Highlight Cells Rules</source>
@@ -21463,7 +21463,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>RemoveBlankRow</source>
-        <translation type="unfinished"/>
+        <translation>Удалить пустую строку</translation>
     </message>
     <message>
         <source>Straight Segment</source>
@@ -28069,7 +28069,7 @@ Workbook</source>
     </message>
     <message>
         <source>Remove Middle Text</source>
-        <translation type="unfinished"/>
+        <translation>Удалить текст из середины</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
@@ -28135,7 +28135,7 @@ Directly</source>
     </message>
     <message>
         <source>Insert text to the back</source>
-        <translation type="unfinished"/>
+        <translation>Вставить текст в конец</translation>
     </message>
     <message>
         <source>Find All Local Reference</source>
@@ -28163,7 +28163,7 @@ Directly</source>
     </message>
     <message>
         <source>Rename worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать книгу</translation>
     </message>
     <message>
         <source>Equation Accent Popup Menu</source>
@@ -28259,7 +28259,7 @@ Directly</source>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Многофункциональный набор инструментов для таблиц позволяет повысить эффективность работы.</translation>
     </message>
     <message>
         <source>File Send</source>
@@ -28303,7 +28303,7 @@ Directly</source>
     </message>
     <message>
         <source>Remove space</source>
-        <translation type="unfinished"/>
+        <translation>Удалить пробел</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -28315,7 +28315,7 @@ Directly</source>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Заполнить пустые ячейки</translation>
     </message>
     <message>
         <source>Find Direct Reference</source>
@@ -28343,7 +28343,7 @@ Directly</source>
     </message>
     <message>
         <source>Remove Trailing Text</source>
-        <translation type="unfinished"/>
+        <translation>Удалить текст в конце</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
@@ -28542,7 +28542,7 @@ Directly</source>
     </message>
     <message>
         <source>Insert text to the beginning</source>
-        <translation type="unfinished"/>
+        <translation>Вставить текст в начало</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
@@ -28785,7 +28785,7 @@ Directly</source>
     </message>
     <message>
         <source>Remove trailing spaces</source>
-        <translation type="unfinished"/>
+        <translation>Удалить пробел в конце</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -28809,8 +28809,7 @@ Directly</source>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation>Уменьшение 
-документа</translation>
+        <translation>Средство сжатия документов</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -28818,7 +28817,7 @@ Directly</source>
     </message>
     <message>
         <source>Insert text into the middle</source>
-        <translation type="unfinished"/>
+        <translation>Вставить текст в середину</translation>
     </message>
     <message>
         <source>Curve Point</source>
@@ -28830,7 +28829,7 @@ Directly</source>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Панель интеллектуальных инструментов</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -28934,7 +28933,7 @@ Directly</source>
     </message>
     <message>
         <source>Remove leading spaces</source>
-        <translation type="unfinished"/>
+        <translation>Удалить пробел в начале</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -28979,11 +28978,11 @@ Directly</source>
     </message>
     <message>
         <source>Insert text</source>
-        <translation type="unfinished"/>
+        <translation>Вставить текст</translation>
     </message>
     <message>
         <source>Create table directory</source>
-        <translation type="unfinished"/>
+        <translation>Создать каталог таблиц</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -29076,7 +29075,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -29142,7 +29141,7 @@ Screen</source>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Панель интеллектуальных инструментов</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -29162,7 +29161,7 @@ Screen</source>
     </message>
     <message>
         <source>Remove leading Text</source>
-        <translation type="unfinished"/>
+        <translation>Удалить текст из начала</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -29170,7 +29169,7 @@ Screen</source>
     </message>
     <message>
         <source>Remove all spaces</source>
-        <translation type="unfinished"/>
+        <translation>Удалить все пробелы</translation>
     </message>
     <message>
         <source>Recombine Same Name</source>
@@ -29214,7 +29213,7 @@ Screen</source>
     </message>
     <message>
         <source>Sort worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Сортировать листы</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
@@ -29226,7 +29225,7 @@ Screen</source>
     </message>
     <message>
         <source>Remove text</source>
-        <translation type="unfinished"/>
+        <translation>Удалить текст</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -29255,7 +29254,7 @@ Screen</source>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Автозаполнение последовательных чисел</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -29453,7 +29452,7 @@ Comment</source>
     </message>
     <message>
         <source>Delete Blank Table</source>
-        <translation type="unfinished"/>
+        <translation>Удалить пустой лист</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -30198,7 +30197,7 @@ On/Off</source>
     </message>
     <message>
         <source>Euro (Euro 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ Евро (€ 123)</translation>
     </message>
     <message>
         <source>Malayalam</source>
@@ -30274,7 +30273,7 @@ On/Off</source>
     </message>
     <message>
         <source>Euro (123 Euro)</source>
-        <translation type="unfinished"/>
+        <translation>€ Евро (123 €)</translation>
     </message>
     <message>
         <source>Georgian</source>
@@ -37127,7 +37126,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>Рисунок в текст</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -42212,7 +42211,7 @@ Center</source>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>Рисунок в текст</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -42419,7 +42418,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>BatchRename</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать файлы партиями</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -42528,7 +42527,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Многофункциональный набор инструментов для таблиц позволяет повысить эффективность работы.</translation>
     </message>
     <message>
         <source>Core Encryption</source>
@@ -42693,7 +42692,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Панель интеллектуальных инструментов</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -42709,7 +42708,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Insert LaTeX Equation</source>
-        <translation type="unfinished"/>
+        <translation>Используйте LaTeX для быстрого редактирования и вставки формул.</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -42818,7 +42817,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Панель интеллектуальных инструментов</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
@@ -43382,8 +43381,7 @@ Window</source>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>Рисунок 
-в текст</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -53770,7 +53768,7 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
     </message>
     <message>
         <source>Format:</source>
-        <translation>Формат:</translation>
+        <translation>Формат: </translation>
     </message>
 </context>
 <context>
@@ -55828,7 +55826,7 @@ Comment</source>
     <name>KxEtMoreOrientationCommand</name>
     <message>
         <source>Format Cells Alignment...</source>
-        <translation type="unfinished"/>
+        <translation>Формат ячеек, выравнивание</translation>
     </message>
 </context>
 <context>
