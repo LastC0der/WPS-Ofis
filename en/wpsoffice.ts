@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="en-US">
 <context>
     <name>KPreferencesWidget</name>
     <message>
@@ -3313,7 +3313,6 @@ Check path and filename.</source>
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation>
-        <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -5297,9 +5296,9 @@ Please verify the correct file name was given.</source>
     </message>
     <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
+			<numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -5374,6 +5373,7 @@ Please verify the correct file name was given.</source>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
+			<numerusform></numerusform>
         </translation>
     </message>
     <message>
