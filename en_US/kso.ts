@@ -4482,6 +4482,10 @@ Do you want to open it using a different set of credentials?</translation>
         <translation>Everyone</translation>
     </message>
     <message>
+        <source>Save As Video</source>
+        <translation>Save As Video</translation>
+    </message>
+    <message>
         <source>Restricted Access</source>
         <translation>Restricted Access</translation>
     </message>
@@ -13081,7 +13085,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>File Type</source>
-        <translation>File Type: </translation>
+        <translation>File Type</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -14343,6 +14347,10 @@ To select names from the Address book, click the Read or Change button.</transla
         <translation>Union Shapes</translation>
     </message>
     <message>
+        <source>Video</source>
+        <translation>Video</translation>
+    </message>
+    <message>
         <source>Edit Text</source>
         <translation>Edit Text</translation>
     </message>
@@ -14452,6 +14460,10 @@ To select names from the Address book, click the Read or Change button.</transla
         <translation>QuickTime Movie File (*.mov)</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</source>
+        <translation>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</translation>
+    </message>
+    <message>
         <source>Insert JdeControl</source>
         <translation>Insert JDE Control</translation>
     </message>
@@ -14526,6 +14538,10 @@ Picture</translation>
     <message>
         <source>More Contrast</source>
         <translation>More Contrast</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
+        <translation>Failed to read and write the video. Check the access permission of the disk.</translation>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14627,6 +14643,10 @@ Picture</translation>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
+    </message>
+    <message>
+        <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
+        <translation>WPS Office has blocked access to this embedded object to keep you safe.</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -14746,6 +14766,10 @@ Picture</translation>
         <translation>Nudge Object</translation>
     </message>
     <message>
+        <source>Save Failed</source>
+        <translation>Save Failed</translation>
+    </message>
+    <message>
         <source>Custom</source>
         <translation>Custom</translation>
     </message>
@@ -14827,6 +14851,10 @@ Picture</translation>
     <message>
         <source>Normal</source>
         <translation>Normal</translation>
+    </message>
+    <message>
+        <source>WPS Office Security Notice</source>
+        <translation>WPS Office Security Notice</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -15460,6 +15488,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>Insert Clip Art</translation>
     </message>
     <message>
+        <source>Save as Video</source>
+        <translation>Save As Video</translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Shadow Color</translation>
     </message>
@@ -15504,6 +15536,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>3-D</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists.</source>
+        <translation>Failed to load the video. Check whether the video exists or has been damaged.</translation>
+    </message>
+    <message>
         <source>Letter Justify</source>
         <translation>Letter Justify</translation>
     </message>
@@ -15526,6 +15562,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Insert Control</source>
         <translation>Insert Control</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
+        <translation>Error</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15713,6 +15754,10 @@ Picture</translation>
     <message>
         <source>Alignment</source>
         <translation>Alignment</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please retry.</source>
+        <translation>Failed to save. Please try again.</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -19940,14 +19985,6 @@ Check path and filename.</source>
     <message>
         <source>DsOnlineChart</source>
         <translation>Animate Chart</translation>
-    </message>
-    <message>
-        <source>OnlineChart</source>
-        <translation>Online Chart</translation>
-    </message>
-    <message>
-        <source>OnlineSmartChart</source>
-        <translation>SmartChart</translation>
     </message>
 </context>
 <context>
@@ -26645,10 +26682,6 @@ Average</translation>
         <source>You already have this on Quick Access Toolbar.</source>
         <translation>You already have this on the Quick Access Toolbar.</translation>
     </message>
-    <message>
-        <source>Choose Commands</source>
-        <translation>Choose Commands</translation>
-    </message>
 </context>
 <context>
     <name>KxTabNotification</name>
@@ -28930,6 +28963,10 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
         <translation>Fix Now</translation>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
         <source>recover from backup</source>
         <translation>recover from backup</translation>
     </message>
@@ -28964,6 +29001,10 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.If you want to start the macro function,</source>
         <translation>The VBA library has not been installed.If you want to start the macro function,</translation>
+    </message>
+    <message>
+        <source>This document is read-only. Sign in to create, edit, and share documents.</source>
+        <translation>This document is read-only. Sign in to create, edit, and share documents.</translation>
     </message>
     <message>
         <source>find some keywords</source>
@@ -34184,12 +34225,59 @@ Continue printing?</translation>
     <message>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in system and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
-        <translation>WPS Office cannot print. Check whether the printer is turned on or connected.
-If the problem still exists, you can print a test page through Printer Properties to check whether your printer has been installed correctly.</translation>
+        <translation>WPS Office cannot start the print job. Check if the printer is turned on and online.
+If the problem still exists, you can print a test page by setting the printer properties in the system to check whether your printer has been installed correctly.</translation>
     </message>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <translation>Unable to find the cups library, make sure you have installed!</translation>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation>Repair Damaged Files</translation>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation>Split/Merge/Compress PDF Files</translation>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation>OCR (Picture to Word/Excel/PPT/TXT)</translation>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation>Edit Texts/Images in PDF Files</translation>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation>Unlock 51 advanced features for WPS PDF, Writer, Spreadsheet, and Presentation.</translation>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation>Get Your Free Trial</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF to Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation>Buy Now</translation>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation>Start Your 7-Day WPS Premium Trial</translation>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation>View more</translation>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation>Protect/Sign PDF Files</translation>
     </message>
 </context>
 <context>
@@ -34615,19 +34703,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>System Style</source>
-        <translation>System Style</translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation>More</translation>
-    </message>
-    <message>
-        <source>Free Chart Style</source>
-        <translation>Free chart style</translation>
-    </message>
-    <message>
-        <source>Check More</source>
-        <translation>View more</translation>
+        <translation>Built-in Style</translation>
     </message>
 </context>
 <context>
@@ -37321,10 +37397,6 @@ Please check your network connection.</translation>
         <source>Property</source>
         <translation>Property</translation>
     </message>
-    <message>
-        <source>This option has conflict with other option.</source>
-        <translation>This option has conflict with other options.</translation>
-    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
@@ -40004,10 +40076,6 @@ p, li { white-space: pre-wrap; }
         <source>Find Commands</source>
         <translation>Find Commands</translation>
     </message>
-    <message>
-        <source>find commands</source>
-        <translation>Find Commands</translation>
-    </message>
 </context>
 <context>
     <name>KxSetMBCommand</name>
@@ -40057,7 +40125,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caption</source>
-        <translation>Confirm Save Foramt</translation>
+        <translation>Confirm Save Format</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -40452,10 +40520,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please usse security document function after saving this document as security document.</source>
         <translation>To use this feature, please save file as security file.</translation>
-    </message>
-    <message>
-        <source>Local network disconneted, please retry after connection available.</source>
-        <translation>Local network disconneted. Please retry after connection available.</translation>
     </message>
 </context>
 <context>
@@ -41115,8 +41179,39 @@ p, li { white-space: pre-wrap; }
         <translation>Text Label for Group Chart</translation>
     </message>
     <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
+    <message>
         <source>&amp;Manage Templates...</source>
         <translation>&amp;Manage Templates...</translation>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation>Delete, move, or rename your templates.</translation>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation>Read-Only Mode</translation>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation>Continue in Read-only Mode</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
+        <translation>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</translation>
     </message>
 </context>
 <context>
@@ -41658,340 +41753,6 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
     <message>
         <source>make outward doc</source>
         <translation>Create Outward Document</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowShareWidget</name>
-    <message>
-        <source>QQ</source>
-        <translation>QQ</translation>
-    </message>
-    <message>
-        <source>QZone</source>
-        <translation>QZone</translation>
-    </message>
-    <message>
-        <source>Weibo</source>
-        <translation>Weibo</translation>
-    </message>
-    <message>
-        <source>Click to open the link</source>
-        <translation>Click to open the link</translation>
-    </message>
-    <message>
-        <source>For the link security, you need login to share link
-you can manage,delete,reshare the link</source>
-        <translation>To ensure link security, please login to use it.
-After login, you can also manage, delete, and share the link to others.</translation>
-    </message>
-    <message>
-        <source>Create link succeeded!</source>
-        <translation>Link created.</translation>
-    </message>
-    <message>
-        <source>WeChat</source>
-        <translation>WeChat</translation>
-    </message>
-    <message>
-        <source>Creating QRCode...</source>
-        <translation>Creating QR Code...</translation>
-    </message>
-    <message>
-        <source>Copy QRCode succeeded!</source>
-        <translation>QR Code copied.</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Create link</translation>
-    </message>
-    <message>
-        <source>Copy link succeeded!</source>
-        <translation>Link copied.</translation>
-    </message>
-    <message>
-        <source>Link has been created, login and use it!</source>
-        <translation>The link has been created.
-Login to use it.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
-    <message>
-        <source>Print/Preview</source>
-        <translation>Print/Preview</translation>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation>Folder</translation>
-    </message>
-    <message>
-        <source>Export Pdf</source>
-        <translation>Export PDF</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewTinyQRCodeWidget</name>
-    <message>
-        <source>Use Wechat scan the code
-share with your friends</source>
-        <translation>Scan QR code with WeChat
-Share it to friends</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWindowShareBar</name>
-    <message>
-        <source>ShareToWeibo</source>
-        <translation>Share to Weibo</translation>
-    </message>
-    <message>
-        <source>ShareToQzone</source>
-        <translation>Share to Qzone</translation>
-    </message>
-    <message>
-        <source>Share to:</source>
-        <translation>Share to:</translation>
-    </message>
-    <message>
-        <source>ShareToQQ</source>
-        <translation>Share to QQ</translation>
-    </message>
-    <message>
-        <source>ShareToWeixin</source>
-        <translation>Share to WeChat</translation>
-    </message>
-    <message>
-        <source>H5Share_Defaut_Tips</source>
-        <translation>I&apos;ve just converted a document to a web page using WPS Office. Check it out!</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowProgressWidget</name>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
-        <translation>Create link failed. &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Click to retry&lt;/a&gt;&lt;/b&gt;, or try later.</translation>
-    </message>
-    <message>
-        <source>The left disk space is not enouth to creat link</source>
-        <translation>The link can&apos;t be created because you won&apos;t have enough free disk space left.</translation>
-    </message>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
-        <translation>Create link failed.&lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Click to retry&lt;/a&gt;&lt;/b&gt;, or try later.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>To ensure good display, the link contains only the first 50 pages of the document.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 20 pages</source>
-        <translation>To ensure good display, the link contains only the first 20 pages of the document.</translation>
-    </message>
-    <message>
-        <source>Creating kink, please wait...</source>
-        <translation>Creating link, please wait...</translation>
-    </message>
-    <message>
-        <source>Network is unaccessable, can&apos;t creat link</source>
-        <translation>The link can&apos;t be created due to network problem.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
-    <message>
-        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
-        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowHeaderWidget</name>
-    <message>
-        <source>Link preview</source>
-        <translation>Share Link</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
-    <message>
-        <source>Server not respondingT_T
-Click to retry, or try it later~</source>
-        <translation>Server not responding.
-Click to retry, or try later.</translation>
-    </message>
-    <message>
-        <source>Scan QRCode</source>
-        <translation>Scan QR Code</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Copy Link</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Create Link</translation>
-    </message>
-    <message>
-        <source>Scan the QRCode
-send document link to mobile</source>
-        <translation>Scan QR Code
-and send the link to your mobile.</translation>
-    </message>
-    <message>
-        <source>Create link failedT_T
-Click to retry, or try it later~</source>
-        <translation>Create link failed.
-Click to retry, or try later.</translation>
-    </message>
-    <message>
-        <source>Creating Link...</source>
-        <translation>Creating Link...</translation>
-    </message>
-    <message>
-        <source>Network error, can not create link
-Please check your network your firewall configuration</source>
-        <translation>The link can&apos;t be created because of network error.
-Please check your network and firewall configuration.</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareLoginWidget</name>
-    <message>
-        <source>For document security needs, please log in,
-you can also enjoy the link after the link to manage, delete, and then share privileges</source>
-        <translation>Login to use the link.
-After login, you can also manage, delete, and share the link to others.</translation>
-    </message>
-    <message>
-        <source>Link has been generated, 
-you can use the login!</source>
-        <translation>The link has been created.
-Login to use it.</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Open Folder</translation>
-    </message>
-    <message>
-        <source>Find document</source>
-        <translation>Find document</translation>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontPreviewComboBox</name>
-    <message>
-        <source>Simsun</source>
-        <translation>Simsun</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5RemindDialog</name>
-    <message>
-        <source>Copy Finished</source>
-        <translation>Copied</translation>
-    </message>
-</context>
-<context>
-    <name>KH5LinkMgrWindow</name>
-    <message>
-        <source>H5 Link Manager</source>
-        <translation>Manage Shared Links</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
-    <message>
-        <source>Share to QQ</source>
-        <translation>Share to QQ</translation>
-    </message>
-    <message>
-        <source>Share link:</source>
-        <translation>Share link:</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Copy link</translation>
-    </message>
-    <message>
-        <source>Copy link</source>
-        <translation>Copy link</translation>
-    </message>
-    <message>
-        <source>Share to WeChat</source>
-        <translation>Share to WeChat</translation>
-    </message>
-    <message>
-        <source>Share to Weibo</source>
-        <translation>Share to Weibo</translation>
-    </message>
-    <message>
-        <source>Share to QZone</source>
-        <translation>Share to QZone</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>To ensure good display, the link contains only the first 50 pages of the document.</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareContiueWidget</name>
-    <message>
-        <source>Manage Shared Link &gt;&gt;</source>
-        <translation>Manage Shared Links &gt;&gt;</translation>
-    </message>
-    <message>
-        <source>Share Finished!</source>
-        <translation>Shared.</translation>
-    </message>
-    <message>
-        <source>Continue Share &gt;&gt;</source>
-        <translation>Continue Share &gt;&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5hareCreateLinkWidget</name>
-    <message>
-        <source>creating a link...</source>
-        <translation>Creating link...</translation>
-    </message>
-    <message>
-        <source>Mobile scan two-dimensional code</source>
-        <translation>Scan QR Code to send the link to your mobile.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
-    <message>
-        <source>Property</source>
-        <translation>Property</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageDownloadDialog</name>
-    <message>
-        <source>Are you sure you want to cancel the download?</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWidget</name>
-    <message>
-        <source>weixin scan QR Code 
- Share To Your FriendsSS</source>
-        <translation>Scan QR code with WeChat
-Share it to friends</translation>
     </message>
 </context>
 </TS>
