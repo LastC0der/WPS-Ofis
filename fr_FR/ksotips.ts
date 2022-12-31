@@ -1212,7 +1212,7 @@ Cliquez sur la flèche pour sélectionner d&apos;autres couleurs d&apos;ombre.</
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Entrée manuscrite</translation>
+        <translation>Dessiner</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
