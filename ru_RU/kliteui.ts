@@ -44,6 +44,18 @@
         <source>warning</source>
         <translation>Предупреждение</translation>
     </message>
+    <message>
+        <source>Null</source>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation>Ожидание</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Предупреждение</translation>
+    </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
