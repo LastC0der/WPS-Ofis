@@ -355,7 +355,7 @@ Click the arrow to see the different types of bar charts available and pause the
     </message>
     <message>
         <source>ChartArea.content</source>
-        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
+        <translation>Use this chart type to show trends over time (years, months, and days) or categories. Use it to emphasize the magnitude of change over time.
 
 Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</translation>
     </message>
@@ -1184,7 +1184,7 @@ Click the arrow to select different shadow colors.</translation>
     </message>
     <message>
         <source>ChartScatter.title</source>
-        <translation>Insert Scatter (X, Y) Chart</translation>
+        <translation>Insert (X Y) Scatter Chart</translation>
     </message>
     <message>
         <source>InsertOnlinePictureFromFile.content</source>
@@ -1213,7 +1213,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Ink</translation>
+        <translation>Draw</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
@@ -1397,7 +1397,7 @@ Click the arrow to select detailed settings for the outline.</translation>
     </message>
     <message>
         <source>ChartBubble.content</source>
-        <translation>Click the arrow to see the different types of bubble charts available.</translation>
+        <translation>Click the arrow to see the different types of bubble charts available and pause the pointer on the icons to see a preview in your document.</translation>
     </message>
     <message>
         <source>ShapeHeight.content</source>
