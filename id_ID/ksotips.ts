@@ -1212,7 +1212,7 @@ Klik panah untuk memilih warna bayangan lain.</translation>
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Tinta</translation>
+        <translation>Gambar</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
