@@ -84,10 +84,6 @@
         <translation>Carregar Ficheiro</translation>
     </message>
     <message>
-        <source>Top Questions</source>
-        <translation>Principais Perguntas</translation>
-    </message>	
-    <message>
         <source>Sending</source>
         <translation>A enviar</translation>
     </message>
