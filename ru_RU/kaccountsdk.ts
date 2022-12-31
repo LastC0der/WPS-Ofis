@@ -586,7 +586,7 @@ p, li { white-space: pre-wrap; }</translation>
     </message>
     <message>
         <source>Cannot use Cloud services</source>
-        <translation type="unfinished"/>
+        <translation>Невозможно использовать облачные службы Cloud</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
@@ -626,11 +626,11 @@ p, li { white-space: pre-wrap; }</translation>
     </message>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Режим &quot;только чтение&quot;</translation>
     </message>
     <message>
         <source>Create, edit, and share documents as you like</source>
-        <translation type="unfinished"/>
+        <translation>Создавайте, редактируйте и передавайте документы без ограничений</translation>
     </message>
     <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
@@ -643,7 +643,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Cannot create or edit documents</source>
-        <translation type="unfinished"/>
+        <translation>Невозможно создавать и редактировать документы</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
@@ -668,7 +668,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Only support opening and viewing local documents</source>
-        <translation type="unfinished"/>
+        <translation>Можно только открывать и просматривать локальные документы</translation>
     </message>
     <message>
         <source>Use redeem code</source>
@@ -981,7 +981,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Не выполнять вход</translation>
     </message>
     <message>
         <source>Clear record</source>
@@ -1113,7 +1113,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось выполнить вход в систему. Вернитесь на страницу входа и повторите попытку.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -2082,7 +2082,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Не выполнять вход</translation>
     </message>
     <message>
         <source>Service timeout</source>
@@ -2130,7 +2130,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>документу о настройках DNS</translation>
+        <translation>инструкцию по настройке DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2190,15 +2190,15 @@ Easy mobile office.</source>
     <name>KNetworkOtherErrDlg</name>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Не выполнять вход</translation>
     </message>
     <message>
         <source>Login failed</source>
-        <translation type="unfinished"/>
+        <translation>Сбой входа</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Обновить</translation>
     </message>
 </context>
 <context>
