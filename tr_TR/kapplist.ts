@@ -42,12 +42,20 @@
         <translation>Ekran Kaydedici</translation>
     </message>
     <message>
+        <source>Batch rename files with set rules</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Powerful text and image editing tools</source>
         <translation>Güçlü metin ve görüntü düzenleme araçları</translation>
     </message>
     <message>
         <source>Sorry, screen recording is not currently supported on XP system devices. It is recommended to use screen recording on WIN10 system devices.</source>
         <translation>Üzgünüz, ekran kaydedici artık XP cihazlarında desteklenmiyor. Windows 10 cihazlarda ekran kaydedici kullanmanızı öneririz.</translation>
+    </message>
+    <message>
+        <source>Batch print settings and batch printing for multiple PDF documents</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -58,8 +66,16 @@
         <translation>Formlar, Anketler, Denetimler, Değerlendirmeler ve Sınavlar oluşturun.</translation>
     </message>
     <message>
+        <source>ET Tool Box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Layout unchanged, Keep all style and format</source>
         <translation>Tasarım değişmeden, tüm stili ve biçimlendirmeyi koru</translation>
+    </message>
+    <message>
+        <source>Batch Rename Files</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Support exporting files in batch and specifying page ranges</source>
@@ -78,6 +94,14 @@
         <translation>Böl/Birleştir</translation>
     </message>
     <message>
+        <source>PDF to CAD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CAD to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>WPS Academy</source>
         <translation>WPS Akademi</translation>
     </message>
@@ -92,6 +116,10 @@
     <message>
         <source>Translate</source>
         <translation>Çevir</translation>
+    </message>
+    <message>
+        <source>Batch PDF Printing</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smart Form</source>
@@ -122,6 +150,10 @@
         <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
+        <source>Convert CAD files (DWG/DWT/DXF, etc.) to PDF files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Template</source>
         <translation>Şablonlar</translation>
     </message>
@@ -140,6 +172,10 @@
     <message>
         <source>Resume Master</source>
         <translation>Özgeçmiş</translation>
+    </message>
+    <message>
+        <source>Convert PDF files to CAD files (DWG/DWT/DXF, etc.)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Free WPS Office tutorials</source>
