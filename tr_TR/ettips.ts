@@ -3190,7 +3190,7 @@ Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>HeaderRow.title</source>
-        <translation>Üstbilgi Satırı</translation>
+        <translation>Üst Bilgi Satırı</translation>
     </message>
     <message>
         <source>SortAndFilter.content</source>
