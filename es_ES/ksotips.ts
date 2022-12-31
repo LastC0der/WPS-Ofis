@@ -1218,7 +1218,7 @@ Haga clic en la flecha para seleccionar diferentes colores de sombra.</translati
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Lápiz</translation>
+        <translation>Dibujar</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
