@@ -44,6 +44,18 @@
         <source>warning</source>
         <translation>Warning</translation>
     </message>
+    <message>
+        <source>Null</source>
+        <translation>None</translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation>Pending</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Warning</translation>
+    </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
@@ -830,7 +842,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Core support library failed to load</source>
-        <translation>Failed to load the core support library.</translation>
+        <translation>Loading Error</translation>
     </message>
     <message>
         <source>This feature requires core support library,</source>
