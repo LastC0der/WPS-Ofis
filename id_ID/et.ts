@@ -6247,7 +6247,7 @@ Ubah referensi ke satu sel, atau gunakan referensi dengan fungsi lembar kerja, s
     </message>
     <message>
         <source>File Slimming</source>
-        <translation>Pengecilan File</translation>
+        <translation>Kompresor Dokumen</translation>
     </message>
     <message>
         <source>filename</source>
@@ -17969,7 +17969,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
-        <translation>Sudut berlawanan arah jarum jam</translation>
+        <translation>Sudut Berlawanan Arah Jarum Jam</translation>
     </message>
     <message>
         <source>Manage Rules</source>
@@ -18017,7 +18017,7 @@ Lembar</translation>
     </message>
     <message>
         <source>£ English (United Kingdom)</source>
-        <translation type="unfinished"/>
+        <translation>£ Bahasa Inggris(Inggris)</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -18121,7 +18121,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Number</source>
@@ -18169,7 +18169,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Orientasi</translation>
     </message>
     <message>
         <source>Split Sheet</source>
@@ -18246,7 +18246,7 @@ Sesuai Sheet</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
-        <translation>Putar Teks ke Bawah</translation>
+        <translation>Putar Teks Ke Bawah</translation>
     </message>
     <message>
         <source>Top 10 Items</source>
@@ -18254,7 +18254,7 @@ Sesuai Sheet</translation>
     </message>
     <message>
         <source>¥ Chinese (China)</source>
-        <translation type="unfinished"/>
+        <translation>¥ Cina(Cina)</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
@@ -18306,7 +18306,7 @@ Sesuai Sheet</translation>
     </message>
     <message>
         <source>More Accouting Formats...</source>
-        <translation type="unfinished"/>
+        <translation>Format Akuntansi Lainnya...</translation>
     </message>
     <message>
         <source>Insert Cut Cells Dialog</source>
@@ -18330,7 +18330,7 @@ Sesuai Sheet</translation>
     </message>
     <message>
         <source>$ English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>$ Inggris (Amerika Serikat)</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -18430,7 +18430,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Teks Vertikal</translation>
     </message>
     <message>
         <source>Bottom 10%</source>
@@ -18483,7 +18483,7 @@ Tabel</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
-        <translation>Putar Teks ke Atas</translation>
+        <translation>Putar Teks Ke Atas</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -18578,7 +18578,7 @@ Ganti</translation>
     </message>
     <message>
         <source>€ Euro (€ 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ Euro (€ 123)</translation>
     </message>
     <message>
         <source>Highlight Cells Rules</source>
@@ -21472,7 +21472,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>RemoveBlankRow</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Baris Kosong</translation>
     </message>
     <message>
         <source>Straight Segment</source>
@@ -28062,7 +28062,7 @@ Sesuai Konten</translation>
     </message>
     <message>
         <source>Remove Middle Text</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Teks dari Tengah</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
@@ -28129,7 +28129,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Insert text to the back</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Teks ke Akhir</translation>
     </message>
     <message>
         <source>Find All Local Reference</source>
@@ -28157,7 +28157,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Rename worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Ganti Nama Lembar Kerja</translation>
     </message>
     <message>
         <source>Equation Accent Popup Menu</source>
@@ -28253,7 +28253,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan efisiensi kerja Anda dengan kit alat kaya fitur untuk tabel.</translation>
     </message>
     <message>
         <source>File Send</source>
@@ -28297,7 +28297,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Remove space</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Spasi</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -28309,7 +28309,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Isi Sel Kosong</translation>
     </message>
     <message>
         <source>Find Direct Reference</source>
@@ -28337,7 +28337,7 @@ Langsung</translation>
     </message>
     <message>
         <source>Remove Trailing Text</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Teks dari Akhir</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
@@ -28536,7 +28536,7 @@ Panel</translation>
     </message>
     <message>
         <source>Insert text to the beginning</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Teks ke Awal</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
@@ -28778,7 +28778,7 @@ Sesuai Sheet</translation>
     </message>
     <message>
         <source>Remove trailing spaces</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Spasi dari Akhir</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -28802,8 +28802,7 @@ Sesuai Sheet</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation>Perampingan 
-Dokumen</translation>
+        <translation>Kompresor Dokumen</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -28811,7 +28810,7 @@ Dokumen</translation>
     </message>
     <message>
         <source>Insert text into the middle</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Teks ke Tengah</translation>
     </message>
     <message>
         <source>Curve Point</source>
@@ -28823,7 +28822,7 @@ Dokumen</translation>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Smart Toolbox</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -28927,7 +28926,7 @@ Dokumen</translation>
     </message>
     <message>
         <source>Remove leading spaces</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Spasi dari Mulai</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -28972,11 +28971,11 @@ Dokumen</translation>
     </message>
     <message>
         <source>Insert text</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Teks</translation>
     </message>
     <message>
         <source>Create table directory</source>
-        <translation type="unfinished"/>
+        <translation>Buat Direktori Tabel</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -29069,7 +29068,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -29136,7 +29135,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Smart Toolbox</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -29156,7 +29155,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Remove leading Text</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Teks dari Awal</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -29164,7 +29163,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Remove all spaces</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Semua Spasi</translation>
     </message>
     <message>
         <source>Recombine Same Name</source>
@@ -29208,7 +29207,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Sort worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Sortir Lembar Kerja</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
@@ -29220,7 +29219,7 @@ Jeda Halaman</translation>
     </message>
     <message>
         <source>Remove text</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Teks</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -29249,7 +29248,7 @@ Tabel</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Isi Otomatis Angka Berurutan</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -29448,7 +29447,7 @@ Baru</translation>
     </message>
     <message>
         <source>Delete Blank Table</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Lembar Kerja Kosong</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -30204,7 +30203,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Euro (Euro 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ Euro (€ 123)</translation>
     </message>
     <message>
         <source>Malayalam</source>
@@ -30280,7 +30279,7 @@ Nyala/Mati</translation>
     </message>
     <message>
         <source>Euro (123 Euro)</source>
-        <translation type="unfinished"/>
+        <translation>€ Euro (123 €)</translation>
     </message>
     <message>
         <source>Georgian</source>
@@ -37139,7 +37138,7 @@ Pilihan</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>Gambar ke Teks</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -38175,7 +38174,7 @@ Sesuai Sheet</translation>
     <message>
         <source>Text to
 Columns</source>
-        <translation>Teks ke
+        <translation>Teks ke 
 Kolom</translation>
     </message>
     <message>
@@ -42226,7 +42225,7 @@ Baca</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>Gambar ke Teks</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -42435,7 +42434,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>BatchRename</source>
-        <translation type="unfinished"/>
+        <translation>Ganti Nama File Per Batch</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -42544,7 +42543,7 @@ Ponsel</translation>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan efisiensi kerja Anda dengan kit alat kaya fitur untuk tabel.</translation>
     </message>
     <message>
         <source>Core Encryption</source>
@@ -42710,7 +42709,7 @@ Teks</translation>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Smart Toolbox</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -42726,7 +42725,7 @@ Teks</translation>
     </message>
     <message>
         <source>Insert LaTeX Equation</source>
-        <translation type="unfinished"/>
+        <translation>Gunakan LaTeX untuk mengedit dan menyisipkan rumus dengan cepat.</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -42835,7 +42834,7 @@ Pengguna</translation>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Smart Toolbox</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
@@ -43401,8 +43400,7 @@ Baru</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>Gambar 
-ke Teks</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -53820,7 +53818,7 @@ Perluas sel di bawah pilihan dan kelompokkan penggabungan sel yang sama?</transl
     </message>
     <message>
         <source>Format:</source>
-        <translation>Format:</translation>
+        <translation>Format: </translation>
     </message>
 </context>
 <context>
@@ -55880,7 +55878,7 @@ Komentar</translation>
     <name>KxEtMoreOrientationCommand</name>
     <message>
         <source>Format Cells Alignment...</source>
-        <translation type="unfinished"/>
+        <translation>Format Rata Sel</translation>
     </message>
 </context>
 <context>
