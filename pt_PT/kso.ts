@@ -4484,7 +4484,7 @@ Pretende abrir com um conjunto de credenciais diferente?</translation>
     </message>
     <message>
         <source>Save As Video</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como vídeo</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -14351,7 +14351,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Vídeo</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -14543,7 +14543,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao ler e escrever no vídeo. Verifique a permissão de acesso do disco.</translation>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14647,7 +14647,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     </message>
     <message>
         <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
-        <translation type="unfinished"/>
+        <translation>Para manter a sua proteção, o WPS Office bloqueou o acesso a este objeto incorporado.</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -14768,7 +14768,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     </message>
     <message>
         <source>Save Failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao guardar</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14855,7 +14855,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     </message>
     <message>
         <source>WPS Office Security Notice</source>
-        <translation type="unfinished"/>
+        <translation>Aviso de segurança do WPS Office</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -15490,7 +15490,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     </message>
     <message>
         <source>Save as Video</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como vídeo</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -15538,7 +15538,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether your video exists.</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao carregar o vídeo. Verifique se o vídeo existe ou está danificado.</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -15567,7 +15567,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15757,7 +15757,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     </message>
     <message>
         <source>Failed to save the file as video!Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao guardar. Volte a tentar.</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -28971,7 +28971,7 @@ Registo inválido. O nome do ficheiro poderá ter sido alterado ou o ficheiro fo
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar sessão</translation>
     </message>
     <message>
         <source>recover from backup</source>
@@ -29011,7 +29011,7 @@ Registo inválido. O nome do ficheiro poderá ter sido alterado ou o ficheiro fo
     </message>
     <message>
         <source>This document is read-only. Sign in to create, edit, and share documents.</source>
-        <translation type="unfinished"/>
+        <translation>Este documento é só de leitura. Inicie sessão para criar, editar e partilhar documentos.</translation>
     </message>
     <message>
         <source>find some keywords</source>
@@ -34358,47 +34358,47 @@ Se o problema persistir, pode imprimir uma página de teste a partir das Proprie
     <name>KStartupGuidePaneAdvertise</name>
     <message>
         <source>Repair Damaged Files</source>
-        <translation type="unfinished"/>
+        <translation>Reparar ficheiros danificados</translation>
     </message>
     <message>
         <source>SPlit/Merge/Compress PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Dividir/unir/comprimir ficheiros PDF</translation>
     </message>
     <message>
         <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
-        <translation type="unfinished"/>
+        <translation>OCR (imagens em Word/Excel/PPT/TXT)</translation>
     </message>
     <message>
         <source>Edit Text/Images in PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Editar textos/imagens em ficheiros PDF</translation>
     </message>
     <message>
         <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
-        <translation type="unfinished"/>
+        <translation>Desbloqueie 51 funcionalidades avançadas para o WPS PDF, o Writer, o Spreadsheet e o Presentation.</translation>
     </message>
     <message>
         <source>Get Your Free Trial</source>
-        <translation type="unfinished"/>
+        <translation>Obter avaliação gratuita</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiros PDF em Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Comprar Agora</translation>
     </message>
     <message>
         <source>Start Your free 7-day trail of WPS Premium</source>
-        <translation type="unfinished"/>
+        <translation>Inicie a sua avaliação de 7 dias do WPS Premium</translation>
     </message>
     <message>
         <source>View more</source>
-        <translation type="unfinished"/>
+        <translation>Ver mais</translation>
     </message>
     <message>
         <source>PDF Protect/Sign</source>
-        <translation type="unfinished"/>
+        <translation>Proteger/assinar ficheiros PDF</translation>
     </message>
 </context>
 <context>
@@ -40266,7 +40266,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caption</source>
-        <translation>Citação</translation>
+        <translation>Confirmar formato de gravação</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -40274,7 +40274,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recommended save as specify format</source>
-        <translation>Recomenda-se guardar como formato especificado</translation>
+        <translation>Os dados alargados existem no ficheiro. Recomenda-se que se guarde o ficheiro como %1, caso contrário, a alteração dos dados alargados não será suportada.</translation>
     </message>
     <message>
         <source>Don&apos;t check file format</source>
@@ -41348,19 +41348,19 @@ para criar documento externo</translation>
     <name>KXaOverseasAuthManager</name>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Modo só de leitura</translation>
     </message>
     <message>
         <source>Continue in Read-only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Continuar</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar sessão</translation>
     </message>
     <message>
         <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
-        <translation type="unfinished"/>
+        <translation>Só pode ver este documento no modo só de leitura. Inicie sessão para desfrutar de mais funcionalidades, incluindo editar, guardar e criar documentos. Os seus documentos também ficarão mais protegidos depois de iniciar sessão.</translation>
     </message>
 </context>
 <context>
