@@ -588,7 +588,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cannot use Cloud services</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;utiliser les services Cloud</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
@@ -628,11 +628,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode de lecture seule</translation>
     </message>
     <message>
         <source>Create, edit, and share documents as you like</source>
-        <translation type="unfinished"/>
+        <translation>Créer, modifier et partager des documents à votre guise</translation>
     </message>
     <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
@@ -645,7 +645,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Cannot create or edit documents</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de créer ou de modifier des documents</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
@@ -670,7 +670,7 @@ gratuite pendant 7 jours</translation>
     </message>
     <message>
         <source>Only support opening and viewing local documents</source>
-        <translation type="unfinished"/>
+        <translation>Ne prend en charge que l&apos;ouverture et l&apos;affichage des documents locaux</translation>
     </message>
     <message>
         <source>Use redeem code</source>
@@ -983,7 +983,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Ignorer la connexion</translation>
     </message>
     <message>
         <source>Clear record</source>
@@ -1115,7 +1115,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Nous n&apos;avons pas pu vous connecter. Revenez à la connexion et réessayez.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -2084,7 +2084,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Ignorer la connexion</translation>
     </message>
     <message>
         <source>Service timeout</source>
@@ -2132,7 +2132,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>Document Paramètres DNS</translation>
+        <translation>Instructions de configuration DNS</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2192,15 +2192,15 @@ Easy mobile office.</source>
     <name>KNetworkOtherErrDlg</name>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Ignorer la connexion</translation>
     </message>
     <message>
         <source>Login failed</source>
-        <translation type="unfinished"/>
+        <translation>Échec de la connexion</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Actualiser</translation>
     </message>
 </context>
 <context>
