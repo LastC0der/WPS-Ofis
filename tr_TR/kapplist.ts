@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>ET Tool Box</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Araç Kutusu</translation>
     </message>
     <message>
         <source>Layout unchanged, Keep all style and format</source>
