@@ -1815,7 +1815,7 @@ Untuk mengaktifkan fitur ini, nyalakan Lihat Berdampingan.</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Pengecilan File</translation>
+        <translation>Kompresor Dokumen</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2347,7 +2347,7 @@ Koneksi Data adalah tautan ke data di luar buku kerja ini yang dapat diperbarui 
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Konversi Gambar ke Teks</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2916,7 +2916,7 @@ Klik tanda panah untuk menyetel detail kerangka.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>Fitur &quot;perampingan file&quot; dapat membantu Anda memperkecil ukuran file.</translation>
+        <translation>Membantu Anda mengurangi ukuran file.</translation>
     </message>
     <message>
         <source>Underline.title</source>
