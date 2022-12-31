@@ -1211,7 +1211,7 @@ Auf den Pfeil klicken, um andere Schattenfarben auszuwählen.</translation>
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Tinte</translation>
+        <translation>Zeichnen</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
