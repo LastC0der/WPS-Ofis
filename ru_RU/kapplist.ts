@@ -19,7 +19,7 @@
     </message>
     <message>
         <source>Picture to text</source>
-        <translation>Изображение в текст</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Batch rename files with set rules</source>
-        <translation type="unfinished"/>
+        <translation>Пакетное переименование файлов по заданным правилам</translation>
     </message>
     <message>
         <source>Powerful text and image editing tools</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Batch print settings and batch printing for multiple PDF documents</source>
-        <translation type="unfinished"/>
+        <translation>Настройки пакетной печати и печать нескольких PDF-документов</translation>
     </message>
     <message>
         <source>WPS Cloud</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>ET Tool Box</source>
-        <translation type="unfinished"/>
+        <translation>Панель интеллектуальных инструментов</translation>
     </message>
     <message>
         <source>Layout unchanged, Keep all style and format</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Batch Rename Files</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать файлы партиями</translation>
     </message>
     <message>
         <source>Support exporting files in batch and specifying page ranges</source>
@@ -95,11 +95,11 @@
     </message>
     <message>
         <source>PDF to CAD</source>
-        <translation type="unfinished"/>
+        <translation>Из PDF в CAD</translation>
     </message>
     <message>
         <source>CAD to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Из CAD в PDF</translation>
     </message>
     <message>
         <source>WPS Academy</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Batch PDF Printing</source>
-        <translation type="unfinished"/>
+        <translation>Пакетная печать PDF-файлов</translation>
     </message>
     <message>
         <source>Smart Form</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Convert CAD files (DWG/DWT/DXF, etc.) to PDF files</source>
-        <translation type="unfinished"/>
+        <translation>Преобразовать файлы CAD (DWG/DWT/DXF и т. д.) в PDF-файлы</translation>
     </message>
     <message>
         <source>Template</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Convert PDF files to CAD files (DWG/DWT/DXF, etc.)</source>
-        <translation type="unfinished"/>
+        <translation>Преобразовать PDF-файлы в файлы CAD (DWG/DWT/DXF и т. п.)</translation>
     </message>
     <message>
         <source>Free WPS Office tutorials</source>
