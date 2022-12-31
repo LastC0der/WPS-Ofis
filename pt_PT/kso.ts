@@ -4483,6 +4483,10 @@ Pretende abrir com um conjunto de credenciais diferente?</translation>
         <translation>Todos</translation>
     </message>
     <message>
+        <source>Save As Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Restricted Access</source>
         <translation>Acesso Restrito</translation>
     </message>
@@ -14346,6 +14350,10 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Edit Text</source>
         <translation>Editar Texto</translation>
     </message>
@@ -14455,6 +14463,10 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
         <translation>Ficheiro de Filme do QuickTime (*.mov)</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert JdeControl</source>
         <translation>Inserir controlo de JDE</translation>
     </message>
@@ -14528,6 +14540,10 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>More Contrast</source>
         <translation>Mais Contraste</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14628,6 +14644,10 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <translation>Formato GIF Graphics Interchange (*.gif)|*.gif</translation>
+    </message>
+    <message>
+        <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3-D</source>
@@ -14747,6 +14767,10 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
         <translation>Deslocar Objeto</translation>
     </message>
     <message>
+        <source>Save Failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Custom</source>
         <translation>Personalizado</translation>
     </message>
@@ -14828,6 +14852,10 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>Normal</source>
         <translation>Normal</translation>
+    </message>
+    <message>
+        <source>WPS Office Security Notice</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Size</source>
@@ -15461,6 +15489,10 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
         <translation>Inserir ClipArt</translation>
     </message>
     <message>
+        <source>Save as Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Cor da Sombra</translation>
     </message>
@@ -15505,6 +15537,10 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
         <translation>3D</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Letter Justify</source>
         <translation>Letra Justificada</translation>
     </message>
@@ -15527,6 +15563,11 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     <message>
         <source>Insert Control</source>
         <translation>Inserir Controlo</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15713,6 +15754,10 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     <message>
         <source>Alignment</source>
         <translation>Alinhamento</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please retry.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -19942,14 +19987,6 @@ Verifique a localização e o nome.</translation>
     <message>
         <source>DsOnlineChart</source>
         <translation>Animar gráfico</translation>
-    </message>
-    <message>
-        <source>OnlineChart</source>
-        <translation>Gráfico Online</translation>
-    </message>
-    <message>
-        <source>OnlineSmartChart</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26652,10 +26689,6 @@ móvel</translation>
         <source>You already have this on Quick Access Toolbar.</source>
         <translation>Já tem este comando na Barra de Ferramentas de Acesso Rápido.</translation>
     </message>
-    <message>
-        <source>Choose Commands</source>
-        <translation>Escolher Comandos</translation>
-    </message>
 </context>
 <context>
     <name>KxTabNotification</name>
@@ -28937,6 +28970,10 @@ Registo inválido. O nome do ficheiro poderá ter sido alterado ou o ficheiro fo
         <translation>correção imediata</translation>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>recover from backup</source>
         <translation>recuperar a partir da cópia de segurança</translation>
     </message>
@@ -28971,6 +29008,10 @@ Registo inválido. O nome do ficheiro poderá ter sido alterado ou o ficheiro fo
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.If you want to start the macro function,</source>
         <translation>A biblioteca de VBA não foi instalada. Se quiser iniciar a função de macro,</translation>
+    </message>
+    <message>
+        <source>This document is read-only. Sign in to create, edit, and share documents.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>find some keywords</source>
@@ -34314,6 +34355,53 @@ Se o problema persistir, pode imprimir uma página de teste a partir das Proprie
     </message>
 </context>
 <context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgPrintProgress</name>
     <message>
         <source>Printing file:</source>
@@ -34737,18 +34825,6 @@ Verifique as definições do sistema e garanta que o diretório temporário do u
     <message>
         <source>System Style</source>
         <translation>Predefinições</translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation>Mais</translation>
-    </message>
-    <message>
-        <source>Free Chart Style</source>
-        <translation>Estilo de gráfico livre</translation>
-    </message>
-    <message>
-        <source>Check More</source>
-        <translation>Ver mais</translation>
     </message>
 </context>
 <context>
@@ -37453,10 +37529,6 @@ Verifique a ligação de rede.</translation>
         <source>Property</source>
         <translation>Propriedade</translation>
     </message>
-    <message>
-        <source>This option has conflict with other option.</source>
-        <translation>Esta opção está em conflito com outra opção.</translation>
-    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
@@ -40145,10 +40217,6 @@ p, li { white-space: pre-wrap; }
         <source>Find Commands</source>
         <translation>Localizar Comandos</translation>
     </message>
-    <message>
-        <source>find commands</source>
-        <translation>localizar comandos</translation>
-    </message>
 </context>
 <context>
     <name>KxSetMBCommand</name>
@@ -40601,10 +40669,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please usse security document function after saving this document as security document.</source>
         <translation>Utilize a função de documento de segurança depois de guardar este documento como documento de segurança.</translation>
-    </message>
-    <message>
-        <source>Local network disconneted, please retry after connection available.</source>
-        <translation>Rede local desligada; volte a tentar após ligação ficar disponível.</translation>
     </message>
 </context>
 <context>
@@ -41264,8 +41328,39 @@ para criar documento externo</translation>
         <translation>Etiqueta de Texto para Gráfico de Grupo</translation>
     </message>
     <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
         <source>&amp;Manage Templates...</source>
         <translation>Gerir Modelos... (&amp;M)</translation>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation>Elimine, mova ou mude o nome dos seus modelos.</translation>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41807,340 +41902,6 @@ Registo inválido. O nome deste ficheiro poderá ter sido mudado ou o ficheiro p
     <message>
         <source>make outward doc</source>
         <translation>criar documento externo</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowShareWidget</name>
-    <message>
-        <source>QQ</source>
-        <translation>QQ</translation>
-    </message>
-    <message>
-        <source>QZone</source>
-        <translation>QZone</translation>
-    </message>
-    <message>
-        <source>Weibo</source>
-        <translation>Weibo</translation>
-    </message>
-    <message>
-        <source>Click to open the link</source>
-        <translation>Clicar para abrir a ligação</translation>
-    </message>
-    <message>
-        <source>For the link security, you need login to share link
-you can manage,delete,reshare the link</source>
-        <translation>Para garantir a segurança da ligação, inicie sessão para utilizá-la.
-Depois de iniciar sessão, também pode gerir, eliminar e partilhar a ligação com outras pessoas.</translation>
-    </message>
-    <message>
-        <source>Create link succeeded!</source>
-        <translation>Ligação criada.</translation>
-    </message>
-    <message>
-        <source>WeChat</source>
-        <translation>WeChat</translation>
-    </message>
-    <message>
-        <source>Creating QRCode...</source>
-        <translation>A Criar Código QR...</translation>
-    </message>
-    <message>
-        <source>Copy QRCode succeeded!</source>
-        <translation>Código QR copiado.</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Criar ligação</translation>
-    </message>
-    <message>
-        <source>Copy link succeeded!</source>
-        <translation>Ligação copiada.</translation>
-    </message>
-    <message>
-        <source>Link has been created, login and use it!</source>
-        <translation>A ligação foi criada.
-Inicie sessão para utilizá-la.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
-    <message>
-        <source>Print/Preview</source>
-        <translation>Imprimir/Pré-visualizar</translation>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation>Pasta</translation>
-    </message>
-    <message>
-        <source>Export Pdf</source>
-        <translation>Exportar PDF</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewTinyQRCodeWidget</name>
-    <message>
-        <source>Use Wechat scan the code
-share with your friends</source>
-        <translation>Ler código QR com WeChat
-Partilhar com amigos</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWindowShareBar</name>
-    <message>
-        <source>ShareToWeibo</source>
-        <translation>Partilhar no Weibo</translation>
-    </message>
-    <message>
-        <source>ShareToQzone</source>
-        <translation>Partilhar no Qzone</translation>
-    </message>
-    <message>
-        <source>Share to:</source>
-        <translation>Partilhar em:</translation>
-    </message>
-    <message>
-        <source>ShareToQQ</source>
-        <translation>Partilhar no QQ</translation>
-    </message>
-    <message>
-        <source>ShareToWeixin</source>
-        <translation>Partilhar no WeChat</translation>
-    </message>
-    <message>
-        <source>H5Share_Defaut_Tips</source>
-        <translation>Acabei de converter um documento numa página Web com o WPS Office. Dê uma vista de olhos!</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowProgressWidget</name>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
-        <translation>Falha na criação da ligação. &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Clique para repetir&lt;/a&gt;&lt;/b&gt; ou volte a tentar mais tarde.</translation>
-    </message>
-    <message>
-        <source>The left disk space is not enouth to creat link</source>
-        <translation>Não é possível criar a ligação porque não tem espaço livre em disco suficiente.</translation>
-    </message>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
-        <translation>Falha na criação da ligação.&lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Clique para repetir&lt;/a&gt;&lt;/b&gt; ou volte a tentar mais tarde.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>Para garantir a qualidade de apresentação, a ligação contém apenas as primeiras 50 páginas do documento.</translation>
-    </message>
-    <message>
-        <source>Link contains only top 20 pages</source>
-        <translation>Para garantir a qualidade de apresentação, a ligação contém apenas as primeiras 20 páginas do documento.</translation>
-    </message>
-    <message>
-        <source>Creating kink, please wait...</source>
-        <translation>A criar ligação, aguarde...</translation>
-    </message>
-    <message>
-        <source>Network is unaccessable, can&apos;t creat link</source>
-        <translation>Não é possível criar a ligação devido a um problema de rede.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
-    <message>
-        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
-        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Aceder à pré-visualização&lt;/a&gt;&gt;&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowHeaderWidget</name>
-    <message>
-        <source>Link preview</source>
-        <translation>Partilhar Ligação</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
-    <message>
-        <source>Server not respondingT_T
-Click to retry, or try it later~</source>
-        <translation>O servidor não está a responder.
-Clique para repetir ou volte a tentar mais tarde.</translation>
-    </message>
-    <message>
-        <source>Scan QRCode</source>
-        <translation>Ler Código QR</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Copiar Ligação</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation>Criar Ligação</translation>
-    </message>
-    <message>
-        <source>Scan the QRCode
-send document link to mobile</source>
-        <translation>Faça a leitura do Código QR
-e envie a ligação para o telemóvel.</translation>
-    </message>
-    <message>
-        <source>Create link failedT_T
-Click to retry, or try it later~</source>
-        <translation>Falha na criação da ligação.
-Clique para repetir ou volte a tentar mais tarde.</translation>
-    </message>
-    <message>
-        <source>Creating Link...</source>
-        <translation>A Criar Ligação...</translation>
-    </message>
-    <message>
-        <source>Network error, can not create link
-Please check your network your firewall configuration</source>
-        <translation>Não é possível criar a ligação devido ao erro de rede.
-Verifique a configuração da rede e da firewall.</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareLoginWidget</name>
-    <message>
-        <source>For document security needs, please log in,
-you can also enjoy the link after the link to manage, delete, and then share privileges</source>
-        <translation>Inicie sessão para utilizar a ligação.
-Depois de iniciar sessão, também pode gerir, eliminar e partilhar a ligação com outras pessoas.</translation>
-    </message>
-    <message>
-        <source>Link has been generated, 
-you can use the login!</source>
-        <translation>A ligação foi criada.
-Inicie sessão para utilizá-la.</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Abrir Pasta</translation>
-    </message>
-    <message>
-        <source>Find document</source>
-        <translation>Localizar documento</translation>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontPreviewComboBox</name>
-    <message>
-        <source>Simsun</source>
-        <translation>Simsun</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5RemindDialog</name>
-    <message>
-        <source>Copy Finished</source>
-        <translation>Copiado</translation>
-    </message>
-</context>
-<context>
-    <name>KH5LinkMgrWindow</name>
-    <message>
-        <source>H5 Link Manager</source>
-        <translation>Gerir Ligações Partilhadas</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
-    <message>
-        <source>Share to QQ</source>
-        <translation>Partilhar no QQ</translation>
-    </message>
-    <message>
-        <source>Share link:</source>
-        <translation>Partilhar ligação:</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Copiar ligação</translation>
-    </message>
-    <message>
-        <source>Copy link</source>
-        <translation>Copiar ligação</translation>
-    </message>
-    <message>
-        <source>Share to WeChat</source>
-        <translation>Partilhar no WeChat</translation>
-    </message>
-    <message>
-        <source>Share to Weibo</source>
-        <translation>Partilhar no Weibo</translation>
-    </message>
-    <message>
-        <source>Share to QZone</source>
-        <translation>Partilhar no QZone</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation>Para garantir a qualidade de apresentação, a ligação contém apenas as primeiras 50 páginas do documento.</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareContiueWidget</name>
-    <message>
-        <source>Manage Shared Link &gt;&gt;</source>
-        <translation>Gerir Ligações Partilhadas &gt;&gt;</translation>
-    </message>
-    <message>
-        <source>Share Finished!</source>
-        <translation>Partilhado.</translation>
-    </message>
-    <message>
-        <source>Continue Share &gt;&gt;</source>
-        <translation>Continuar com Partilha &gt;&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5hareCreateLinkWidget</name>
-    <message>
-        <source>creating a link...</source>
-        <translation>A criar ligação...</translation>
-    </message>
-    <message>
-        <source>Mobile scan two-dimensional code</source>
-        <translation>Faça a leitura do Código QR para enviar a ligação para o telemóvel.</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
-    <message>
-        <source>Property</source>
-        <translation>Propriedade</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageDownloadDialog</name>
-    <message>
-        <source>Are you sure you want to cancel the download?</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWidget</name>
-    <message>
-        <source>weixin scan QR Code 
- Share To Your FriendsSS</source>
-        <translation>Ler código QR com WeChat
-Partilhar com amigos</translation>
     </message>
 </context>
 </TS>
