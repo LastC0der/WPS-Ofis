@@ -84,10 +84,6 @@
         <translation>Upload File</translation>
     </message>
     <message>
-        <source>Top Questions</source>
-        <translation type="unfinished"/>
-    </message>	
-    <message>
         <source>Sending</source>
         <translation>Sending</translation>
     </message>
@@ -170,7 +166,7 @@ Try another keyword.</source>
     <name>KxTabbarMoreHelpCommand</name>
     <message>
         <source>Help on &quot;%1&quot;</source>
-        <translation>Help on &quot;%1&quot;</translation>
+        <translation>Skills about &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
