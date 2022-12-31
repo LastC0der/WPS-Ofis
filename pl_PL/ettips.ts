@@ -1811,7 +1811,7 @@ Kliknij ponownie aktualnie wybraną orientację tekstu, aby zresetować tekst z 
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Odchudzanie pliku</translation>
+        <translation>Kompresor dokumentów</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2344,7 +2344,7 @@ Połączenia danych to łącza do danych spoza skoroszytu, które można zaktual
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Konwertuj obraz na tekst</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2913,7 +2913,7 @@ Kliknij strzałkę, aby ustawić szczegóły konturu.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>Funkcja &quot;odchudzania pliku&quot; umożliwia zmiejszenie rozmiaru pliku.</translation>
+        <translation>Pozwala zmniejszyć rozmiar pliku.</translation>
     </message>
     <message>
         <source>Underline.title</source>
