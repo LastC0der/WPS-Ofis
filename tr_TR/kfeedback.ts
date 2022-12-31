@@ -84,10 +84,6 @@
         <translation>Dosya Yükle</translation>
     </message>
     <message>
-        <source>Top Questions</source>
-        <translation type="unfinished"/>
-    </message>	
-    <message>
         <source>Sending</source>
         <translation>Gönderiliyor</translation>
     </message>
