@@ -180,10 +180,6 @@
         <source>Old Multi-Component Mode</source>
         <translation>2016 gibi Çok Bileşenli Mod</translation>
     </message>
-    <message>
-        <source>Switching WPS 2019 to %1</source>
-        <translation>WPS 2019 %1 olarak değiştiriliyor</translation>
-    </message>
 </context>
 <context>
     <name>DeleteAccountTipDlg</name>
@@ -536,18 +532,6 @@ These operations can be undone. </source>
     <message>
         <source>Compat Setting</source>
         <translation>Uyumluluk Ayarı</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Microsoft &amp;PowerPoint Sunuları (*.ppt, *.pot, *.pps, *.pptx dosyaları)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Microsoft &amp;Excel Çalışma Kitapları (*.xls, *.xlt, *.xlsx files)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
-        <translation>Microsoft &amp;Word Belgeleri (*.doc, *.dot, *.docx dosyaları) ve RTF Belgeleri</translation>
     </message>
 </context>
 <context>
@@ -1750,26 +1734,6 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
         <source>To use &quot;Picture to Text&quot;, &quot;PDF to Word&quot; and &quot;Template Recommend&quot;, enable privacy settings</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>View privacy policy</source>
-        <translation>Gizlilik ilkesini görüntüle</translation>
-    </message>
-    <message>
-        <source>Agree Kingsoft Software Privacy Policy.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Agree upload document when converting PDF.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Agree upload document when using OCR tool.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You can change the privacy settings:</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KPageApiCompKDEType</name>
@@ -1814,14 +1778,6 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Disable template recommend.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
 </context>
