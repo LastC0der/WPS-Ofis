@@ -2079,7 +2079,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>DataUngroup2.content</source>
-        <translation>Daha önce gruplandırılmış bir hücre aralığını gruptan çıkarın.</translation>
+        <translation>Daha önce gruplandırılmış olan hücre aralığının grubunu çözün.</translation>
     </message>
     <message>
         <source>HomeDetailedSettings.content</source>
