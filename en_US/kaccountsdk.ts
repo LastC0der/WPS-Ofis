@@ -576,7 +576,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Guest</source>
-        <translation type="unfinished"/>
+        <translation>Guest</translation>
     </message>
     <message>
         <source>Login</source>
@@ -588,7 +588,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cannot use Cloud services</source>
-        <translation type="unfinished"/>
+        <translation>Cannot use Cloud services</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
@@ -628,11 +628,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Read-Only Mode</translation>
     </message>
     <message>
         <source>Create, edit, and share documents as you like</source>
-        <translation type="unfinished"/>
+        <translation>Create, edit, and share documents as you like</translation>
     </message>
     <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
@@ -645,7 +645,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Cannot create or edit documents</source>
-        <translation type="unfinished"/>
+        <translation>Cannot create or edit documents</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
@@ -669,7 +669,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Only support opening and viewing local documents</source>
-        <translation type="unfinished"/>
+        <translation>Only support opening and viewing local documents</translation>
     </message>
     <message>
         <source>Use redeem code</source>
@@ -982,7 +982,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Clear record</source>
@@ -1114,7 +1114,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation type="unfinished"/>
+        <translation>We did not manage to sign you in. Please go back to sign in and try again.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -1173,7 +1173,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>SslHandshakeFailedError</source>
-        <translation>SslHandshakeFailedError</translation>
+        <translation>Service in local might have some errors, please contact us to fix it.</translation>
     </message>
     <message>
         <source>ProxyTimeoutError</source>
@@ -1189,7 +1189,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>RemoteHostClosedError</source>
-        <translation>RemoteHostClosedError</translation>
+        <translation>Server disconnected. Please try again.</translation>
     </message>
     <message>
         <source>ContentReSendError</source>
@@ -1197,7 +1197,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>ContentAccessDenied</source>
-        <translation>ContentAccessDenied</translation>
+        <translation>Access to remote content denied. Please try again.</translation>
     </message>
     <message>
         <source>ProxyNotFoundError</source>
@@ -1217,7 +1217,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>UnknownNetworkError</source>
-        <translation>UnknownNetworkError</translation>
+        <translation>Unknown network error. Please try again.</translation>
     </message>
     <message>
         <source>TimeoutError</source>
@@ -1253,11 +1253,11 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Login time out</source>
-        <translation>Login time out</translation>
+        <translation>Your sessions has timed out. Please try again.</translation>
     </message>
     <message>
         <source>ConnectionRefusedError</source>
-        <translation>ConnectionRefusedError</translation>
+        <translation>Server disconnected. Please try again.</translation>
     </message>
 </context>
 <context>
@@ -1440,7 +1440,7 @@ Easy mobile office.</source>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
-        <translation>第三处</translation>
+        <translation>Third</translation>
     </message>
     <message>
         <source>School</source>
@@ -2083,7 +2083,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Service timeout</source>
@@ -2131,7 +2131,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>DNS Settings document</translation>
+        <translation>DNS configuration instruction</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2191,15 +2191,15 @@ Easy mobile office.</source>
     <name>KNetworkOtherErrDlg</name>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Skip Login</translation>
     </message>
     <message>
         <source>Login failed</source>
-        <translation type="unfinished"/>
+        <translation>Login Failed</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Refresh</translation>
     </message>
 </context>
 <context>
