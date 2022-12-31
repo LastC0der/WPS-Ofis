@@ -6248,7 +6248,7 @@ Changez la référence sur une seule cellule ou utilisez-la avec une fonction de
     </message>
     <message>
         <source>File Slimming</source>
-        <translation>Réduction de fichier</translation>
+        <translation>Compresseur de document</translation>
     </message>
     <message>
         <source>filename</source>
@@ -18021,7 +18021,7 @@ la feuille</translation>
     </message>
     <message>
         <source>£ English (United Kingdom)</source>
-        <translation type="unfinished"/>
+        <translation>£ Anglais (Royaume-Uni)</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -18126,7 +18126,7 @@ automatique</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Number</source>
@@ -18174,7 +18174,7 @@ automatique</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Orientation</translation>
     </message>
     <message>
         <source>Split Sheet</source>
@@ -18259,7 +18259,7 @@ par feuille</translation>
     </message>
     <message>
         <source>¥ Chinese (China)</source>
-        <translation type="unfinished"/>
+        <translation>¥ Chinois (Chine)</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
@@ -18311,7 +18311,7 @@ par feuille</translation>
     </message>
     <message>
         <source>More Accouting Formats...</source>
-        <translation type="unfinished"/>
+        <translation>Plus de formats de comptabilité...</translation>
     </message>
     <message>
         <source>Insert Cut Cells Dialog</source>
@@ -18335,7 +18335,7 @@ par feuille</translation>
     </message>
     <message>
         <source>$ English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>$ Anglais (États-Unis)</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -18435,7 +18435,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Texte vertical</translation>
     </message>
     <message>
         <source>Bottom 10%</source>
@@ -18583,7 +18583,7 @@ et Remplacer</translation>
     </message>
     <message>
         <source>€ Euro (€ 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ Euro (€ 123)</translation>
     </message>
     <message>
         <source>Highlight Cells Rules</source>
@@ -21481,7 +21481,7 @@ classeur</translation>
     </message>
     <message>
         <source>RemoveBlankRow</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer la ligne vide</translation>
     </message>
     <message>
         <source>Straight Segment</source>
@@ -28072,7 +28072,7 @@ par contenu</translation>
     </message>
     <message>
         <source>Remove Middle Text</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer le texte à partir du milieu</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
@@ -28139,7 +28139,7 @@ directement</translation>
     </message>
     <message>
         <source>Insert text to the back</source>
-        <translation type="unfinished"/>
+        <translation>Insérer le texte à la fin</translation>
     </message>
     <message>
         <source>Find All Local Reference</source>
@@ -28167,7 +28167,7 @@ directement</translation>
     </message>
     <message>
         <source>Rename worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Renommer la feuille de calcul</translation>
     </message>
     <message>
         <source>Equation Accent Popup Menu</source>
@@ -28263,7 +28263,7 @@ directement</translation>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Améliorez l&apos;efficacité de votre travail avec le kit de ressources riche en fonctionnalités pour les tableaux.</translation>
     </message>
     <message>
         <source>File Send</source>
@@ -28307,7 +28307,7 @@ directement</translation>
     </message>
     <message>
         <source>Remove space</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer l&apos;espace</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -28319,7 +28319,7 @@ directement</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Remplir les cellules vides</translation>
     </message>
     <message>
         <source>Find Direct Reference</source>
@@ -28347,7 +28347,7 @@ directement</translation>
     </message>
     <message>
         <source>Remove Trailing Text</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer le texte à partir de la fin</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
@@ -28547,7 +28547,7 @@ automatique</translation>
     </message>
     <message>
         <source>Insert text to the beginning</source>
-        <translation type="unfinished"/>
+        <translation>Insérer le texte au début</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
@@ -28790,7 +28790,7 @@ dynamique</translation>
     </message>
     <message>
         <source>Remove trailing spaces</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer l&apos;espace à partir de la fin</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -28814,8 +28814,7 @@ dynamique</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation>Réduction de
-documents</translation>
+        <translation>Compresseur de document</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -28823,7 +28822,7 @@ documents</translation>
     </message>
     <message>
         <source>Insert text into the middle</source>
-        <translation type="unfinished"/>
+        <translation>Insérer le texte au milieu</translation>
     </message>
     <message>
         <source>Curve Point</source>
@@ -28835,7 +28834,7 @@ documents</translation>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Boîte à outils intelligente</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -28939,7 +28938,7 @@ documents</translation>
     </message>
     <message>
         <source>Remove leading spaces</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer l&apos;espace à partir du début</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -28984,11 +28983,11 @@ documents</translation>
     </message>
     <message>
         <source>Insert text</source>
-        <translation type="unfinished"/>
+        <translation>Insérer le texte</translation>
     </message>
     <message>
         <source>Create table directory</source>
-        <translation type="unfinished"/>
+        <translation>Créer le répertoire du tableau</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -29081,7 +29080,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -29147,7 +29146,7 @@ sauts de page</translation>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Boîte à outils intelligente</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -29167,7 +29166,7 @@ sauts de page</translation>
     </message>
     <message>
         <source>Remove leading Text</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer le texte à partir du début</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -29175,7 +29174,7 @@ sauts de page</translation>
     </message>
     <message>
         <source>Remove all spaces</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer tous les espaces</translation>
     </message>
     <message>
         <source>Recombine Same Name</source>
@@ -29219,7 +29218,7 @@ sauts de page</translation>
     </message>
     <message>
         <source>Sort worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Trier les feuilles de calcul</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
@@ -29231,7 +29230,7 @@ sauts de page</translation>
     </message>
     <message>
         <source>Remove text</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer le texte</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -29260,7 +29259,7 @@ que tableau</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Remplir automatiquement les nombres en séquence</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -29460,7 +29459,7 @@ commentaire</translation>
     </message>
     <message>
         <source>Delete Blank Table</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer la feuille de calcul vide</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -30214,7 +30213,7 @@ On/Off</source>
     </message>
     <message>
         <source>Euro (Euro 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ Euro (€ 123)</translation>
     </message>
     <message>
         <source>Malayalam</source>
@@ -30290,7 +30289,7 @@ On/Off</source>
     </message>
     <message>
         <source>Euro (123 Euro)</source>
-        <translation type="unfinished"/>
+        <translation>€ Euro (123 €)</translation>
     </message>
     <message>
         <source>Georgian</source>
@@ -37150,7 +37149,7 @@ Sélection</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>D&apos;image à texte</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -42236,7 +42235,7 @@ centrer</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>D&apos;image à texte</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -42446,7 +42445,7 @@ Fichiers</translation>
     </message>
     <message>
         <source>BatchRename</source>
-        <translation type="unfinished"/>
+        <translation>Renommer les fichiers par lots</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -42555,7 +42554,7 @@ vers mobile</translation>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Améliorez l&apos;efficacité de votre travail avec le kit de ressources riche en fonctionnalités pour les tableaux.</translation>
     </message>
     <message>
         <source>Core Encryption</source>
@@ -42720,7 +42719,7 @@ scénarios</translation>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Boîte à outils intelligente</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -42736,7 +42735,7 @@ scénarios</translation>
     </message>
     <message>
         <source>Insert LaTeX Equation</source>
-        <translation type="unfinished"/>
+        <translation>Utilisez LaTeX pour modifier et insérer rapidement des formules.</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -42845,7 +42844,7 @@ de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Boîte à outils intelligente</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
@@ -43412,8 +43411,7 @@ fenêtre</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>D&apos;image 
-à texte</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -53826,7 +53824,7 @@ Besoin de développer les cellules sous la sélection et de fusionner les mêmes
     </message>
     <message>
         <source>Format:</source>
-        <translation>Mise en forme :</translation>
+        <translation>Mise en forme: </translation>
     </message>
 </context>
 <context>
@@ -55886,7 +55884,7 @@ le commentaire</translation>
     <name>KxEtMoreOrientationCommand</name>
     <message>
         <source>Format Cells Alignment...</source>
-        <translation type="unfinished"/>
+        <translation>Alignement du format des cellules</translation>
     </message>
 </context>
 <context>
