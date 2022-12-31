@@ -1814,7 +1814,7 @@ Para ativar esta funcionalidade, ative Ver Lado a Lado.</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Compactação de Ficheiro</translation>
+        <translation>Compressor de documentos</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2346,7 +2346,7 @@ As ligações de dados são ligações para dados exteriores a este livro que po
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Converter Imagem em Texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2915,7 +2915,7 @@ Clique na seta para definir o detalhe do contorno.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>A funcionalidade de &quot;compactação de ficheiro&quot; pode ajuda-lo a reduzir o tamanho do ficheiro.</translation>
+        <translation>Ajuda a reduzir o tamanho de ficheiros.</translation>
     </message>
     <message>
         <source>Underline.title</source>
