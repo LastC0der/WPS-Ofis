@@ -1212,7 +1212,7 @@ Clique na seta para selecionar cores de sombra diferentes.</translation>
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation>Tinta</translation>
+        <translation>Desenhar</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
