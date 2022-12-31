@@ -588,7 +588,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cannot use Cloud services</source>
-        <translation type="unfinished"/>
+        <translation>Cloud-Dienste können nicht verwendet werden</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
@@ -628,11 +628,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Schreibgeschützter Modus</translation>
     </message>
     <message>
         <source>Create, edit, and share documents as you like</source>
-        <translation type="unfinished"/>
+        <translation>Dokumente nach Belieben erstellen, bearbeiten und freigeben</translation>
     </message>
     <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
@@ -645,7 +645,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Cannot create or edit documents</source>
-        <translation type="unfinished"/>
+        <translation>Dokumente können nicht erstellt oder bearbeitet werden</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
@@ -669,7 +669,7 @@ makes documents beautiful</source>
     </message>
     <message>
         <source>Only support opening and viewing local documents</source>
-        <translation type="unfinished"/>
+        <translation>Nur das Öffnen und Anzeigen lokaler Dokumente wird unterstützt</translation>
     </message>
     <message>
         <source>Use redeem code</source>
@@ -982,7 +982,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Anmeldung überspringen</translation>
     </message>
     <message>
         <source>Clear record</source>
@@ -1114,7 +1114,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Die Anmeldung war nicht möglich. Bitte gehen Sie zurück und versuchen Sie die Anmeldung erneut.</translation>
     </message>
     <message>
         <source>Sign in with Google</source>
@@ -2083,7 +2083,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Anmeldung überspringen</translation>
     </message>
     <message>
         <source>Service timeout</source>
@@ -2131,7 +2131,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>DNS Settings document</source>
-        <translation>Dokument mit den DNS-Einstellungen</translation>
+        <translation>DNS-Konfigurationsanweisung</translation>
     </message>
     <message>
         <source>Page load failed,check you network and retry</source>
@@ -2191,15 +2191,15 @@ Easy mobile office.</source>
     <name>KNetworkOtherErrDlg</name>
     <message>
         <source>Skip login</source>
-        <translation type="unfinished"/>
+        <translation>Anmeldung überspringen</translation>
     </message>
     <message>
         <source>Login failed</source>
-        <translation type="unfinished"/>
+        <translation>Anmeldung fehlgeschlagen</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Aktualisieren</translation>
     </message>
 </context>
 <context>
