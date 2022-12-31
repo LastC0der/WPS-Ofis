@@ -4485,7 +4485,7 @@ Voulez-vous l&apos;ouvrir avec d&apos;autres informations d&apos;identification�
     </message>
     <message>
         <source>Save As Video</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer comme vidéo</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -14351,7 +14351,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Vidéo</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -14543,7 +14543,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
-        <translation type="unfinished"/>
+        <translation>Échec de la lecture et de l&apos;écriture de la vidéo. Vérifiez l&apos;autorisation d&apos;accès au disque.</translation>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14647,7 +14647,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office a bloqué l&apos;accès à cet objet incorporé pour préserver votre sécurité.</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -14768,7 +14768,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Save Failed</source>
-        <translation type="unfinished"/>
+        <translation>Échec de l&apos;enregistrement</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14855,7 +14855,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>WPS Office Security Notice</source>
-        <translation type="unfinished"/>
+        <translation>Avis de sécurité de WPS Office</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -15490,7 +15490,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     </message>
     <message>
         <source>Save as Video</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer comme vidéo</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -15538,7 +15538,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether your video exists.</source>
-        <translation type="unfinished"/>
+        <translation>Échec du chargement de la vidéo. Vérifiez si la vidéo existe ou si elle a été endommagée.</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -15567,7 +15567,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Erreur</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15757,7 +15757,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     </message>
     <message>
         <source>Failed to save the file as video!Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Échec de l&apos;enregistrement. Réessayez.</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -28969,7 +28969,7 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Se connecter</translation>
     </message>
     <message>
         <source>recover from backup</source>
@@ -29009,7 +29009,7 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     </message>
     <message>
         <source>This document is read-only. Sign in to create, edit, and share documents.</source>
-        <translation type="unfinished"/>
+        <translation>Ce document est en lecture seule. Connectez-vous pour créer, modifier et partager des documents.</translation>
     </message>
     <message>
         <source>find some keywords</source>
@@ -34357,47 +34357,47 @@ Si le problème persiste, vous pouvez imprimer une page de texte via Propriété
     <name>KStartupGuidePaneAdvertise</name>
     <message>
         <source>Repair Damaged Files</source>
-        <translation type="unfinished"/>
+        <translation>Réparer des fichiers endommagés</translation>
     </message>
     <message>
         <source>SPlit/Merge/Compress PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Fractionner/Fusionner/Compresser des fichiers PDF</translation>
     </message>
     <message>
         <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
-        <translation type="unfinished"/>
+        <translation>OCR (Image vers Word/Excel/PPT/TXT)</translation>
     </message>
     <message>
         <source>Edit Text/Images in PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Modifier du texte et des images dans des fichiers PDF</translation>
     </message>
     <message>
         <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
-        <translation type="unfinished"/>
+        <translation>Déverrouillez 51 fonctionnalités avancées pour WPS PDF, Writer, Spreadsheet et Presentation.</translation>
     </message>
     <message>
         <source>Get Your Free Trial</source>
-        <translation type="unfinished"/>
+        <translation>Obtenir votre essai gratuit</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF vers Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Acheter maintenant</translation>
     </message>
     <message>
         <source>Start Your free 7-day trail of WPS Premium</source>
-        <translation type="unfinished"/>
+        <translation>Commencez votre essai de WPS Premium pendant 7 jours</translation>
     </message>
     <message>
         <source>View more</source>
-        <translation type="unfinished"/>
+        <translation>Afficher plus</translation>
     </message>
     <message>
         <source>PDF Protect/Sign</source>
-        <translation type="unfinished"/>
+        <translation>Protéger/Signer des fichiers PDF</translation>
     </message>
 </context>
 <context>
@@ -40254,7 +40254,7 @@ p, li { white-space: pre-wrap; }
     <name>KSaveOOXMLTipDlg</name>
     <message>
         <source>The presence of extended data in the prompt file</source>
-        <translation>Présence de données étendues dans le fichier d&apos;invite</translation>
+        <translation>Des données étendues existent dans le fichier. Il est recommandé d&apos;enregistrer le fichier en tant que %1, sinon la modification des données étendues ne sera pas prise en charge.</translation>
     </message>
     <message>
         <source>Save Directly</source>
@@ -40262,7 +40262,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caption</source>
-        <translation>Légende</translation>
+        <translation>Confirmer le format de sauvegarde</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -40270,7 +40270,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recommended save as specify format</source>
-        <translation>Enregistrement recommandé au format spécifié</translation>
+        <translation>Recommandé pour sauvegarder %1 en tant que format %2</translation>
     </message>
     <message>
         <source>Don&apos;t check file format</source>
@@ -41344,19 +41344,19 @@ pour créer un document sortant</translation>
     <name>KXaOverseasAuthManager</name>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode de lecture seule</translation>
     </message>
     <message>
         <source>Continue in Read-only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Continuer</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Se connecter</translation>
     </message>
     <message>
         <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
-        <translation type="unfinished"/>
+        <translation>Vous pouvez uniquement afficher ce document en mode de lecture seule. Connectez-vous pour bénéficier d&apos;autres fonctionnalités, notamment la modification, l&apos;enregistrement et la création de documents. Dans le même temps, vos documents seront mieux protégés une fois que vous serez connecté.</translation>
     </message>
 </context>
 <context>
