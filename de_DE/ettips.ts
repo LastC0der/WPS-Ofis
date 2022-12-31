@@ -1815,7 +1815,7 @@ Um diese Funktion zu aktivieren, muss &apos;Nebeneinander anzeigen&apos; aktivie
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Dateiverkleinerung</translation>
+        <translation>Dokumentkomprimierer</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -2347,7 +2347,7 @@ Datenverbindungen sind Verknüpfungen zu Daten außerhalb dieser Arbeitsmappe, d
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Bild in Text konvertieren</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2916,7 +2916,7 @@ Klicken Sie auf den Pfeil, um Details für den Umriss festzulegen.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>Die Funktion &quot;Dateiverkleinerung&quot; kann dazu beitragen, die Größe der Datei zu reduzieren.</translation>
+        <translation>Unterstützung bei der Reduzierung der Dateigröße.</translation>
     </message>
     <message>
         <source>Underline.title</source>
