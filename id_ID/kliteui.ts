@@ -44,6 +44,18 @@
         <source>warning</source>
         <translation>Peringatan</translation>
     </message>
+    <message>
+        <source>Null</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation>Tunda</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Peringatan</translation>
+    </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
