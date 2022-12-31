@@ -4484,7 +4484,7 @@ Anda ingin membukanya menggunakan kumpulan kredensial yang berbeda?</translation
     </message>
     <message>
         <source>Save As Video</source>
-        <translation type="unfinished"/>
+        <translation>Simpan sebagai Video</translation>
     </message>
     <message>
         <source>Restricted Access</source>
@@ -14351,7 +14351,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -14543,7 +14543,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membaca dan menulis video. Periksa izin akses disk.</translation>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14647,7 +14647,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office telah memblokir akses ke objek tertanam ini agar Anda tetap aman.</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -14768,7 +14768,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Save Failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal disimpan</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14855,7 +14855,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>WPS Office Security Notice</source>
-        <translation type="unfinished"/>
+        <translation>Pemberitahuan Keamanan WPS Office</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -15490,7 +15490,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Save as Video</source>
-        <translation type="unfinished"/>
+        <translation>Simpan sebagai Video</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -15538,7 +15538,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Failed to save the file as video!Please check whether your video exists.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal memuat video. Periksa apakah video tersebut ada atau sudah rusak.</translation>
     </message>
     <message>
         <source>Letter Justify</source>
@@ -15567,7 +15567,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15757,7 +15757,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Failed to save the file as video!Please retry.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal menyimpan. Silakan coba lagi.</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -28972,7 +28972,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Akses Masuk</translation>
     </message>
     <message>
         <source>recover from backup</source>
@@ -29012,7 +29012,7 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
     <message>
         <source>This document is read-only. Sign in to create, edit, and share documents.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumen ini hanya baca. Masuk untuk membuat, mengedit, dan membagikan dokumen.</translation>
     </message>
     <message>
         <source>find some keywords</source>
@@ -34360,47 +34360,47 @@ Jika masih bermasalah, Anda dapat mencetak halaman tes melalui Properti Printer 
     <name>KStartupGuidePaneAdvertise</name>
     <message>
         <source>Repair Damaged Files</source>
-        <translation type="unfinished"/>
+        <translation>Perbaiki File yang Rusak</translation>
     </message>
     <message>
         <source>SPlit/Merge/Compress PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Pecah/Gabung/Kompres File PDF</translation>
     </message>
     <message>
         <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
-        <translation type="unfinished"/>
+        <translation>OCR (Gambar ke Word/Excel/PPT/TXT)</translation>
     </message>
     <message>
         <source>Edit Text/Images in PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>Edit Teks/Gambar di File PDF</translation>
     </message>
     <message>
         <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
-        <translation type="unfinished"/>
+        <translation>Buka 51 fitur canggih untuk WPS PDF, Writer, Spreadsheet, dan Presentation.</translation>
     </message>
     <message>
         <source>Get Your Free Trial</source>
-        <translation type="unfinished"/>
+        <translation>Dapatkan Uji Coba Gratis Anda</translation>
     </message>
     <message>
         <source>PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Word/Excel/PPT</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Beli Sekarang</translation>
     </message>
     <message>
         <source>Start Your free 7-day trail of WPS Premium</source>
-        <translation type="unfinished"/>
+        <translation>Mulai Uji Coba WPS Premium 7 Hari</translation>
     </message>
     <message>
         <source>View more</source>
-        <translation type="unfinished"/>
+        <translation>Lihat selengkapnya</translation>
     </message>
     <message>
         <source>PDF Protect/Sign</source>
-        <translation type="unfinished"/>
+        <translation>Lindungi/Tanda Tangan File PDF</translation>
     </message>
 </context>
 <context>
@@ -41351,19 +41351,19 @@ untuk membuat dokumen luar</translation>
     <name>KXaOverseasAuthManager</name>
     <message>
         <source>Read-Only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode Hanya Baca</translation>
     </message>
     <message>
         <source>Continue in Read-only Mode</source>
-        <translation type="unfinished"/>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Masuk</translation>
     </message>
     <message>
         <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
-        <translation type="unfinished"/>
+        <translation>Anda hanya dapat melihat dokumen ini dalam mode hanya baca. Silakan masuk dan nikmati lebih banyak fitur, termasuk pengeditan, penyimpanan, dan pembuatan dokumen. Sekaligus dokumen Anda akan dilindungi dengan lebih baik setelah Anda masuk.</translation>
     </message>
 </context>
 <context>
