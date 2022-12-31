@@ -180,10 +180,6 @@
         <source>Old Multi-Component Mode</source>
         <translation>Multi-Component Mode like 2016</translation>
     </message>
-    <message>
-        <source>Switching WPS 2019 to %1</source>
-        <translation>Switching WPS Office to %1</translation>
-    </message>
 </context>
 <context>
     <name>DeleteAccountTipDlg</name>
@@ -538,18 +534,6 @@ These operations can be undone. </translation>
     <message>
         <source>Compat Setting</source>
         <translation>Compat Setting</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
-        <translation>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
-        <translation>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</translation>
-    </message>
-    <message>
-        <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
-        <translation>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</translation>
     </message>
 </context>
 <context>
@@ -1759,26 +1743,6 @@ You can fix the errors encountered when using WPS Office or make advanced settin
         <source>To use &quot;Picture to Text&quot;, &quot;PDF to Word&quot; and &quot;Template Recommend&quot;, enable privacy settings</source>
         <translation>To use &quot;Picture to Text&quot;, &quot;PDF to Word&quot; and &quot;Template Recommend&quot;, enable privacy settings</translation>
     </message>
-    <message>
-        <source>View privacy policy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Agree Kingsoft Software Privacy Policy.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Agree upload document when converting PDF.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Agree upload document when using OCR tool.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You can change the privacy settings:</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KPageApiCompKDEType</name>
@@ -1824,14 +1788,6 @@ You can fix the errors encountered when using WPS Office or make advanced settin
     <message>
         <source>Disable template recommend.</source>
         <translation>Disable template recommendations.</translation>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation>Hide WPS Cloud file menu items.</translation>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
-        <translation>Hide WPS extension feature menu items.</translation>
     </message>
 </context>
 <context>
