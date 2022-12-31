@@ -4418,6 +4418,10 @@ Do you want to open it using a different set of credentials?</source>
         <translation>Herkes</translation>
     </message>
     <message>
+        <source>Save As Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Restricted Access</source>
         <translation>Kısıtlı Erişim</translation>
     </message>
@@ -14256,6 +14260,10 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Edit Text</source>
         <translation>Metni Düzenle</translation>
     </message>
@@ -14365,6 +14373,10 @@ To select names from the Address book, click the Read or Change button.</source>
         <translation>QuickTime Film Dosyası (*.mov)</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Insert JdeControl</source>
         <translation>JDE Denetimi Ekle</translation>
     </message>
@@ -14439,6 +14451,10 @@ Ekle</translation>
     <message>
         <source>More Contrast</source>
         <translation>Daha Fazla Karşıtlık</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MP4 Audio (*.m4a)</source>
@@ -14540,6 +14556,10 @@ Ekle</translation>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <translation>Grafik Değişim Biçimi(*.gif)|*.gif</translation>
+    </message>
+    <message>
+        <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3-D</source>
@@ -14659,6 +14679,10 @@ Ekle</translation>
         <translation>Nesne Sürükle</translation>
     </message>
     <message>
+        <source>Save Failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Custom</source>
         <translation>Özel</translation>
     </message>
@@ -14740,6 +14764,10 @@ Ekle</translation>
     <message>
         <source>Normal</source>
         <translation>Normal</translation>
+    </message>
+    <message>
+        <source>WPS Office Security Notice</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Size</source>
@@ -15372,6 +15400,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>Küçük Resim Ekle</translation>
     </message>
     <message>
+        <source>Save as Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Gölge Rengi</translation>
     </message>
@@ -15416,6 +15448,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation>3-B</translation>
     </message>
     <message>
+        <source>Failed to save the file as video!Please check whether your video exists.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Letter Justify</source>
         <translation>Harfleri İki Yana Yasla</translation>
     </message>
@@ -15438,6 +15474,11 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Insert Control</source>
         <translation>Denetim Ekle</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15625,6 +15666,10 @@ Ekle</translation>
     <message>
         <source>Alignment</source>
         <translation>Hizalama</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please retry.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -18116,7 +18161,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Basic Target</source>
-        <translation type="unfinished"/>
+        <translation>Temel Hedef</translation>
     </message>
     <message>
         <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shapes and Org Chart hanging layouts are available with this layout. </source>
@@ -18128,7 +18173,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Nested Target</source>
-        <translation type="unfinished"/>
+        <translation>İç İçe Hedef</translation>
     </message>
     <message>
         <source>Cycle Matrix</source>
@@ -19853,14 +19898,6 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>DsOnlineChart</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OnlineChart</source>
-        <translation>Çevrimiçi Grafik</translation>
-    </message>
-    <message>
-        <source>OnlineSmartChart</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -26039,11 +26076,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Ab&amp;ove</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Üste</translation>
     </message>
     <message>
         <source>Belo&amp;w</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alta</translation>
     </message>
     <message>
         <source>S&amp;how Leader Lines</source>
@@ -26545,10 +26582,6 @@ Ortalama</translation>
     <message>
         <source>You already have this on Quick Access Toolbar.</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Choose Commands</source>
-        <translation>Komutları Seçin</translation>
     </message>
 </context>
 <context>
@@ -28825,6 +28858,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>recover from backup</source>
         <translation type="unfinished"/>
     </message>
@@ -28858,6 +28895,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.If you want to start the macro function,</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This document is read-only. Sign in to create, edit, and share documents.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -34120,6 +34161,53 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
 </context>
 <context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxDlgPrintProgress</name>
     <message>
         <source>Printing file:</source>
@@ -34537,18 +34625,6 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>System Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More</source>
-        <translation>Diğer</translation>
-    </message>
-    <message>
-        <source>Free Chart Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Check More</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -37238,10 +37314,6 @@ Please check network</source>
         <source>Property</source>
         <translation>Özellik</translation>
     </message>
-    <message>
-        <source>This option has conflict with other option.</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
@@ -39916,10 +39988,6 @@ p, li { white-space: pre-wrap; }
         <source>Find Commands</source>
         <translation>Komutları Bul</translation>
     </message>
-    <message>
-        <source>find commands</source>
-        <translation>Komutları Bul</translation>
-    </message>
 </context>
 <context>
     <name>KxSetMBCommand</name>
@@ -40363,10 +40431,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please usse security document function after saving this document as security document.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Local network disconneted, please retry after connection available.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -41026,7 +41090,38 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>OK</source>
+        <translation>Tamam</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+    <message>
         <source>&amp;Manage Templates...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -41563,331 +41658,6 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxChooseOutwardDocTitleWidget</name>
     <message>
         <source>make outward doc</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowShareWidget</name>
-    <message>
-        <source>QQ</source>
-        <translation>QQ</translation>
-    </message>
-    <message>
-        <source>QZone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Weibo</source>
-        <translation>Weibo</translation>
-    </message>
-    <message>
-        <source>Click to open the link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>For the link security, you need login to share link
-you can manage,delete,reshare the link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create link succeeded!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WeChat</source>
-        <translation>WeChat</translation>
-    </message>
-    <message>
-        <source>Creating QRCode...</source>
-        <translation>QR Kodu Oluşturuluyor...</translation>
-    </message>
-    <message>
-        <source>Copy QRCode succeeded!</source>
-        <translation>QR Kodu kopyalandı.</translation>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy link succeeded!</source>
-        <translation>Bağlantı kopyalandı.</translation>
-    </message>
-    <message>
-        <source>Link has been created, login and use it!</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
-    <message>
-        <source>Print/Preview</source>
-        <translation>Baskı/Önizleme</translation>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation>Klasör</translation>
-    </message>
-    <message>
-        <source>Export Pdf</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewTinyQRCodeWidget</name>
-    <message>
-        <source>Use Wechat scan the code
-share with your friends</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWindowShareBar</name>
-    <message>
-        <source>ShareToWeibo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ShareToQzone</source>
-        <translation>Qzone&apos;da Paylaş</translation>
-    </message>
-    <message>
-        <source>Share to:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ShareToQQ</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ShareToWeixin</source>
-        <translation>WeChat&apos;te paylaş</translation>
-    </message>
-    <message>
-        <source>H5Share_Defaut_Tips</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowProgressWidget</name>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The left disk space is not enouth to creat link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Link contains only top 20 pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Creating kink, please wait...</source>
-        <translation>Bağlantı oluşturuluyor, lütfen bekleyin...</translation>
-    </message>
-    <message>
-        <source>Network is unaccessable, can&apos;t creat link</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
-    <message>
-        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
-        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Önizlemeye girin&lt;/a&gt;&gt;&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewWindowHeaderWidget</name>
-    <message>
-        <source>Link preview</source>
-        <translation>Linki Paylaş</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
-    <message>
-        <source>Server not respondingT_T
-Click to retry, or try it later~</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Scan QRCode</source>
-        <translation>QR Kodunu Tara</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>create link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Scan the QRCode
-send document link to mobile</source>
-        <translation>QR Kodu tara
-belge bağlantısını cep telefonuna gönder.</translation>
-    </message>
-    <message>
-        <source>Create link failedT_T
-Click to retry, or try it later~</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Creating Link...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Network error, can not create link
-Please check your network your firewall configuration</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareLoginWidget</name>
-    <message>
-        <source>For document security needs, please log in,
-you can also enjoy the link after the link to manage, delete, and then share privileges</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Link has been generated, 
-you can use the login!</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLanguageChooseDialog</name>
-    <message>
-        <source>Cancel</source>
-        <translation>İptal</translation>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Klasörü Aç</translation>
-    </message>
-    <message>
-        <source>Find document</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontPreviewComboBox</name>
-    <message>
-        <source>Simsun</source>
-        <translation>Simsun</translation>
-    </message>
-</context>
-<context>
-    <name>KxH5RemindDialog</name>
-    <message>
-        <source>Copy Finished</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KH5LinkMgrWindow</name>
-    <message>
-        <source>H5 Link Manager</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
-    <message>
-        <source>Share to QQ</source>
-        <translation>QQ ile Paylaş</translation>
-    </message>
-    <message>
-        <source>Share link:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share to WeChat</source>
-        <translation>Wechat ile Paylaş</translation>
-    </message>
-    <message>
-        <source>Share to Weibo</source>
-        <translation>Weibo ile Paylaş</translation>
-    </message>
-    <message>
-        <source>Share to QZone</source>
-        <translation>QZone ile Paylaş</translation>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
-    <message>
-        <source>Link contains only top 50 pages</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxH5ShareContiueWidget</name>
-    <message>
-        <source>Manage Shared Link &gt;&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share Finished!</source>
-        <translation>Paylaşıldı.</translation>
-    </message>
-    <message>
-        <source>Continue Share &gt;&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxH5hareCreateLinkWidget</name>
-    <message>
-        <source>creating a link...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Mobile scan two-dimensional code</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
-    <message>
-        <source>Property</source>
-        <translation>Özellik</translation>
-    </message>
-</context>
-<context>
-    <name>KLanguageDownloadDialog</name>
-    <message>
-        <source>Are you sure you want to cancel the download?</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWebPreviewShareWidget</name>
-    <message>
-        <source>weixin scan QR Code 
- Share To Your FriendsSS</source>
         <translation type="unfinished"/>
     </message>
 </context>
