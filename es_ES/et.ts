@@ -6203,7 +6203,7 @@ Cambie la referencia a una única celda o use la referencia con una función de 
     </message>
     <message>
         <source>File Slimming</source>
-        <translation>Aligeramiento de archivo</translation>
+        <translation>Compresor de documentos</translation>
     </message>
     <message>
         <source>filename</source>
@@ -17956,7 +17956,7 @@ hoja</translation>
     </message>
     <message>
         <source>£ English (United Kingdom)</source>
-        <translation type="unfinished"/>
+        <translation>£ Inglés (Reino Unido)</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -18060,7 +18060,7 @@ hoja</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"/>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Number</source>
@@ -18108,7 +18108,7 @@ hoja</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Orientación</translation>
     </message>
     <message>
         <source>Split Sheet</source>
@@ -18193,7 +18193,7 @@ por hoja</translation>
     </message>
     <message>
         <source>¥ Chinese (China)</source>
-        <translation type="unfinished"/>
+        <translation>¥ Chino(China)</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
@@ -18245,7 +18245,7 @@ por hoja</translation>
     </message>
     <message>
         <source>More Accouting Formats...</source>
-        <translation type="unfinished"/>
+        <translation>Más formatos de contabilidad...</translation>
     </message>
     <message>
         <source>Insert Cut Cells Dialog</source>
@@ -18270,7 +18270,7 @@ cálculo</translation>
     </message>
     <message>
         <source>$ English (United States)</source>
-        <translation type="unfinished"/>
+        <translation>$ Inglés (Estados Unidos)</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -18370,7 +18370,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Vertical Text</source>
-        <translation type="unfinished"/>
+        <translation>Texto vertical</translation>
     </message>
     <message>
         <source>Bottom 10%</source>
@@ -18518,7 +18518,7 @@ reemplazar</translation>
     </message>
     <message>
         <source>€ Euro (€ 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ EUR (€ 123)</translation>
     </message>
     <message>
         <source>Highlight Cells Rules</source>
@@ -21412,7 +21412,7 @@ libro</translation>
     </message>
     <message>
         <source>RemoveBlankRow</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar fila en blanco</translation>
     </message>
     <message>
         <source>Straight Segment</source>
@@ -28001,7 +28001,7 @@ por contenido</translation>
     </message>
     <message>
         <source>Remove Middle Text</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar texto desde el medio</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
@@ -28068,7 +28068,7 @@ directamente</translation>
     </message>
     <message>
         <source>Insert text to the back</source>
-        <translation type="unfinished"/>
+        <translation>Insertar texto al final</translation>
     </message>
     <message>
         <source>Find All Local Reference</source>
@@ -28096,7 +28096,7 @@ directamente</translation>
     </message>
     <message>
         <source>Rename worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar nombre de la hoja de cálculo</translation>
     </message>
     <message>
         <source>Equation Accent Popup Menu</source>
@@ -28192,7 +28192,7 @@ directamente</translation>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Trabaje con más eficiencia con el conjunto de herramientas repleto de funciones para tablas.</translation>
     </message>
     <message>
         <source>File Send</source>
@@ -28236,7 +28236,7 @@ directamente</translation>
     </message>
     <message>
         <source>Remove space</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar espacio</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -28248,7 +28248,7 @@ directamente</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Rellenar celdas en blanco</translation>
     </message>
     <message>
         <source>Find Direct Reference</source>
@@ -28276,7 +28276,7 @@ directamente</translation>
     </message>
     <message>
         <source>Remove Trailing Text</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar texto desde el final</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
@@ -28475,7 +28475,7 @@ secciones</translation>
     </message>
     <message>
         <source>Insert text to the beginning</source>
-        <translation type="unfinished"/>
+        <translation>Insertar texto al principio</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
@@ -28718,7 +28718,7 @@ dinámica</translation>
     </message>
     <message>
         <source>Remove trailing spaces</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar espacio desde el final</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -28742,8 +28742,7 @@ dinámica</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translation>Aligeramiento de 
-documento</translation>
+        <translation>Compresor de documentos</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -28751,7 +28750,7 @@ documento</translation>
     </message>
     <message>
         <source>Insert text into the middle</source>
-        <translation type="unfinished"/>
+        <translation>Insertar texto en el medio</translation>
     </message>
     <message>
         <source>Curve Point</source>
@@ -28763,7 +28762,7 @@ documento</translation>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Caja de herramientas inteligente</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -28867,7 +28866,7 @@ documento</translation>
     </message>
     <message>
         <source>Remove leading spaces</source>
-        <translation type="unfinished"/>
+        <translation>Borrar espacio desde el inicio</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -28912,11 +28911,11 @@ documento</translation>
     </message>
     <message>
         <source>Insert text</source>
-        <translation type="unfinished"/>
+        <translation>Insertar texto</translation>
     </message>
     <message>
         <source>Create table directory</source>
-        <translation type="unfinished"/>
+        <translation>Crear directorio de hojas</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -29009,7 +29008,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -29075,7 +29074,7 @@ salto de página</translation>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Caja de herramientas inteligente</translation>
     </message>
     <message>
         <source>Export to OFD</source>
@@ -29095,7 +29094,7 @@ salto de página</translation>
     </message>
     <message>
         <source>Remove leading Text</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar texto desde el principio</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -29103,7 +29102,7 @@ salto de página</translation>
     </message>
     <message>
         <source>Remove all spaces</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar todos los espacios</translation>
     </message>
     <message>
         <source>Recombine Same Name</source>
@@ -29147,7 +29146,7 @@ salto de página</translation>
     </message>
     <message>
         <source>Sort worksheets</source>
-        <translation type="unfinished"/>
+        <translation>Ordenar hojas de cálculo</translation>
     </message>
     <message>
         <source>Screen Grab Polygon</source>
@@ -29159,7 +29158,7 @@ salto de página</translation>
     </message>
     <message>
         <source>Remove text</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar texto</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -29188,7 +29187,7 @@ como tabla</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Autocompletar secuencia de números</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -29387,7 +29386,7 @@ comentario</translation>
     </message>
     <message>
         <source>Delete Blank Table</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar hoja de cálculo en blanco</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -30137,7 +30136,7 @@ activado/desactivado</translation>
     </message>
     <message>
         <source>Euro (Euro 123)</source>
-        <translation type="unfinished"/>
+        <translation>€ EUR (€ 123)</translation>
     </message>
     <message>
         <source>Malayalam</source>
@@ -30213,7 +30212,7 @@ activado/desactivado</translation>
     </message>
     <message>
         <source>Euro (123 Euro)</source>
-        <translation type="unfinished"/>
+        <translation>€ EUR (123 €)</translation>
     </message>
     <message>
         <source>Georgian</source>
@@ -37066,7 +37065,7 @@ selección</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>De imagen a texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -38141,7 +38140,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Fetch duplicates</source>
-        <translation>Extraer valores duplicados</translation>
+        <translation>Obtener duplicados</translation>
     </message>
     <message>
         <source>InsertDropDownList</source>
@@ -42149,7 +42148,7 @@ lectura</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>De imagen a texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -42358,7 +42357,7 @@ archivo</translation>
     </message>
     <message>
         <source>BatchRename</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar nombre de archivos por lotes</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -42468,7 +42467,7 @@ archivos</translation>
     </message>
     <message>
         <source>Et_ToolBox_Tips</source>
-        <translation type="unfinished"/>
+        <translation>Trabaje con más eficiencia con el conjunto de herramientas repleto de funciones para tablas.</translation>
     </message>
     <message>
         <source>Core Encryption</source>
@@ -42633,7 +42632,7 @@ hipótesis</translation>
     </message>
     <message>
         <source>Et_ToolBox_Title</source>
-        <translation type="unfinished"/>
+        <translation>Caja de herramientas inteligente</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -42649,7 +42648,7 @@ hipótesis</translation>
     </message>
     <message>
         <source>Insert LaTeX Equation</source>
-        <translation type="unfinished"/>
+        <translation>Utilice LaTeX para editar e insertar fórmulas rápidamente.</translation>
     </message>
     <message>
         <source>Goal Seek</source>
@@ -42758,7 +42757,7 @@ de usuario</translation>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation type="unfinished"/>
+        <translation>Caja de herramientas inteligente</translation>
     </message>
     <message>
         <source>DocerTableStyle</source>
@@ -43328,8 +43327,7 @@ código</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>De imagen 
-a texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
@@ -53708,7 +53706,7 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
     </message>
     <message>
         <source>Format:</source>
-        <translation>Formato:</translation>
+        <translation>Formato: </translation>
     </message>
 </context>
 <context>
@@ -55767,7 +55765,7 @@ comentario</translation>
     <name>KxEtMoreOrientationCommand</name>
     <message>
         <source>Format Cells Alignment...</source>
-        <translation type="unfinished"/>
+        <translation>Alineación de formato de celdas</translation>
     </message>
 </context>
 <context>
