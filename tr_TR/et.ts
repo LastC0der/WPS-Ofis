@@ -29073,7 +29073,8 @@ Screen</source>
     </message>
     <message>
         <source>Et ToolBox</source>
-        <translation>Akıllı Araç Kutusu</translation>
+        <translation>Akıllı Araç 
+Kutusu</translation>
     </message>
     <message>
         <source>Export to OFD</source>
