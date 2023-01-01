@@ -892,7 +892,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Edit Team Name</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Adını Düzenle</translation>
     </message>
     <message>
         <source>Spreadsheets</source>
@@ -1364,7 +1364,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Delete team</source>
-        <translation type="unfinished"/>
+        <translation>Ekibi sil</translation>
     </message>
     <message>
         <source>download all/update</source>
@@ -1380,7 +1380,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Leave team</source>
-        <translation>Takımdan ayrıl</translation>
+        <translation>Ekipten ayrıl</translation>
     </message>
     <message>
         <source>cancel uploading</source>
@@ -1580,6 +1580,10 @@ This file may have been renamed, deleted or moved.</source>
         <source>Open</source>
         <translation>Aç</translation>
     </message>
+    <message>
+        <source>Team</source>
+        <translation>Ekip</translation>
+    </message>	
     <message>
         <source>New Document</source>
         <translation>Yeni</translation>
@@ -2205,11 +2209,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Delete Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekibi Sil</translation>
     </message>
     <message>
         <source>Leave Team</source>
-        <translation>Takımdan Ayrıl</translation>
+        <translation>Ekipten Ayrıl</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2217,7 +2221,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Edit Team Name</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Adını Düzenle</translation>
     </message>
 </context>
 <context>
@@ -2292,7 +2296,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>View Team Files</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Dosyalarını Görüntüle</translation>
     </message>
     <message>
         <source>Invite members</source>
@@ -2467,7 +2471,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>My Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekibim</translation>
     </message>
     <message>
         <source>Confirm to delete and leave</source>
@@ -2479,7 +2483,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Modify Team Name</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Adını Değiştir</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -2487,15 +2491,15 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Create Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Oluştur</translation>
     </message>
     <message>
         <source>Delete Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekibi Sil</translation>
     </message>
     <message>
         <source>Leave Team</source>
-        <translation>Takımdan Ayrıl</translation>
+        <translation>Ekipten Ayrıl</translation>
     </message>
     <message>
         <source>%1 members would lose access to this team after deletion</source>
@@ -4264,15 +4268,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Search Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Ara</translation>
     </message>
     <message>
         <source>Add Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Ekle</translation>
     </message>
     <message>
         <source>My Teams</source>
-        <translation type="unfinished"/>
+        <translation>Ekiplerim</translation>
     </message>
 </context>
 <context>
