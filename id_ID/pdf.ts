@@ -185,42 +185,6 @@
         <source>Question Mark</source>
         <translation>Tanda Tanya</translation>
     </message>
-    <message>
-        <source>Open</source>
-        <translation>Buka</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Tutup</translation>
-    </message>
-    <message>
-        <source>Circle</source>
-        <translation>Lingkaran</translation>
-    </message>
-    <message>
-        <source>Square</source>
-        <translation>Persegi</translation>
-    </message>
-    <message>
-        <source>Rhombus</source>
-        <translation>Rhombus</translation>
-    </message>
-    <message>
-        <source>Open(Reverse)</source>
-        <translation>Buka (Balik)</translation>
-    </message>
-    <message>
-        <source>Vertical Line</source>
-        <translation>Garis Vertikal</translation>
-    </message>
-    <message>
-        <source>Oblique Line</source>
-        <translation>Garis Serong</translation>
-    </message>
-    <message>
-        <source>Close(Reverse)</source>
-        <translation>Tutup (Balik)</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfWaterMarkDlg</name>
@@ -400,82 +364,6 @@
         <source>eightlines</source>
         <translation>8 baris per halaman</translation>
     </message>
-    <message>
-        <source>bold</source>
-        <translation>Tebal</translation>
-    </message>
-    <message>
-        <source>Transparenc&amp;y:</source>
-        <translation>Transparansi(&amp;Y):</translation>
-    </message>
-    <message>
-        <source>&amp;File:</source>
-        <translation>File(&amp;F)：</translation>
-    </message>
-    <message>
-        <source>&amp;Size:</source>
-        <translation>Ukuran(&amp;S)：</translation>
-    </message>
-    <message>
-        <source>Mult Row:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fo&amp;nt:</source>
-        <translation>Fo&amp;nt:</translation>
-    </message>
-    <message>
-        <source>Te&amp;xt:</source>
-        <translation>Teks(&amp;X)：</translation>
-    </message>
-    <message>
-        <source>Hori&amp;zontal:</source>
-        <translation>Horizontal(&amp;Z):</translation>
-    </message>
-    <message>
-        <source>font color</source>
-        <translation>Warna</translation>
-    </message>
-    <message>
-        <source>Pres&amp;rve</source>
-        <translation>Per&amp;tahankan Pengaturan</translation>
-    </message>
-    <message>
-        <source>Bro&amp;wse</source>
-        <translation>Tel&amp;usuri</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Konfirmasi</translation>
-    </message>
-    <message>
-        <source>&amp;Apply:</source>
-        <translation>Terapkan(&amp;A):</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation>Hapus (&amp;H)</translation>
-    </message>
-    <message>
-        <source>underline</source>
-        <translation>Garis bawah</translation>
-    </message>
-    <message>
-        <source>Re&amp;lativePageProportion:</source>
-        <translation>Proporsi Halaman Re&amp;latif:</translation>
-    </message>
-    <message>
-        <source>entire chapter</source>
-        <translation>Seluruh bab</translation>
-    </message>
-    <message>
-        <source>Ver&amp;tical:</source>
-        <translation>Vertikal(&amp;T):</translation>
-    </message>
-    <message>
-        <source>Watermark&amp;Settings:</source>
-        <translation>&amp;Pengaturan Cap Air:</translation>
-    </message>
 </context>
 <context>
     <name>AddCommFolderRoot</name>
@@ -634,7 +522,7 @@
     </message>
     <message>
         <source>Load page effect</source>
-        <translation>Efek halaman memuat</translation>
+        <translation>Efek halaman memuat:</translation>
     </message>
     <message>
         <source>Doc read options</source>
@@ -1016,7 +904,7 @@
     </message>
     <message>
         <source>&amp;Comfirm</source>
-        <translation>Konfirmasi(&amp;C)</translation>
+        <translation>Konfirmasi</translation>
     </message>
     <message>
         <source>Have not select file source. Please click browse to select file source</source>
@@ -1045,54 +933,6 @@
     <message>
         <source>There are more than 20. Please delete them and add them later</source>
         <translation>Anda telah menambah lebih dari 20 tanda air. Hapus beberapa tanda air dan tambah lagi.</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation>OK (&amp;O)</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Kustom    </translation>
-    </message>
-    <message>
-        <source>Please input name</source>
-        <translation>Masukkan nama</translation>
-    </message>
-    <message>
-        <source>Sure to delete watermark settings</source>
-        <translation>Anda yakin ingin menghapus pengaturan cap air?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Watermark Settings 1</source>
-        <translation>Pengaturan Cap Air 1</translation>
-    </message>
-    <message>
-        <source>Selected watermark settings does not exist</source>
-        <translation>Pengaturan cap air yang dipilih tidak ada.</translation>
-    </message>
-    <message>
-        <source>Effect1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Effect2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Only %1 watermark settings can be saved at most.</source>
-        <translation>Maksimum %1 pengaturan cap air yang dapat disimpan.</translation>
-    </message>
-    <message>
-        <source>already exists, do you want to replace it?</source>
-        <translation>Nama sudah ada, apakah Anda ingin menggantinya?</translation>
-    </message>
-    <message>
-        <source>Watermark Settings Name</source>
-        <translation>Nama Pengaturan</translation>
     </message>
 </context>
 <context>
@@ -2142,42 +1982,6 @@ Operasi ini tidak dapat dibatalkan</translation>
     <message>
         <source>plugin Loading, please try angin.</source>
         <translation>Memuat alat PDF, harap tunggu.</translation>
-    </message>
-    <message>
-        <source>PDFJumpConverWordURL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Whether to save the correction fluid coverage area?</source>
-        <translation>Area yang ditutupi cairan koreksi tidak akan ditampilkan lagi, sudah menyimpannya?</translation>
-    </message>
-    <message>
-        <source>The document is scanned, please edit it after conversion.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot open this file &quot;%s&quot;!</source>
-        <translation>Tidak dapat membuka file &quot;%s&quot;.</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>Dokumen harus disimpan sebelum diekstrak.</translation>
-    </message>
-    <message>
-        <source>&amp;Open copy</source>
-        <translation>&amp;Buka Salinan</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before compressed.</source>
-        <translation>Dokumen saat ini harus disimpan sebelum dikompresi.</translation>
-    </message>
-    <message>
-        <source>because the file is not surpported or  damaged.</source>
-        <translation>File tidak didukung atau rusak.</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before print.</source>
-        <translation>Dokumen ini harus disimpan sebelum dapat dicetak.</translation>
     </message>
 </context>
 <context>
@@ -3372,14 +3176,6 @@ Masukkan 5-9, berarti ekstrak halaman 5 hingga 9</translation>
         <source>Ctrl+H or U</source>
         <translation>Ctrl+H/U</translation>
     </message>
-    <message>
-        <source>Roll back the mouse wheel,&apos;-&apos;or Ctrl + &apos;-&apos;</source>
-        <translation>Gulir mouse ke belakang, &quot;-&quot; atau Ctrl+&quot;-&quot;</translation>
-    </message>
-    <message>
-        <source>Roll forward the mouse wheel,&apos;+&apos;or Ctrl + &apos;+&apos;</source>
-        <translation>Gulir mouse ke depan, &quot;+&quot; atau Ctrl+&quot;+&quot;</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfDownloadV8Dialog</name>
@@ -3767,6 +3563,10 @@ Halaman yang disisipkan harus dihapus oleh Anda sendiri.</translation>
     <message>
         <source>InsertImage is a VIP privilege</source>
         <translation>Menyisipkan gambar merupakan hak akses eksklusif anggota WPS</translation>
+    </message>
+    <message>
+        <source>Insert Pages</source>
+        <translation>Sisipkan Halaman</translation>
     </message>
     <message>
         <source>MoreScannerOpt</source>
@@ -4202,18 +4002,6 @@ log in to save changes?</source>
         <source>%1year%2mon%3day</source>
         <translation>%1tahun%2bulan%3hari</translation>
     </message>
-    <message>
-        <source>EditText</source>
-        <translation>Edit Teks</translation>
-    </message>
-    <message>
-        <source>EditImg</source>
-        <translation>Edit Gambar</translation>
-    </message>
-    <message>
-        <source>This location contains the form, whether to fill in the form or not?</source>
-        <translation>Posisi ini berisi formulir. Apakah Anda ingin mengisi formulir?</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfManualDuplexPrintTipsDialog</name>
@@ -4274,10 +4062,6 @@ log in to save changes?</source>
     <message>
         <source>TextLabel</source>
         <translation>Label Teks</translation>
-    </message>
-    <message>
-        <source>OK(F)</source>
-        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4769,10 +4553,6 @@ log in to save changes?</source>
         <source>Please enter a valid page range</source>
         <translation>Silakan masukkan rentang halaman yang valid</translation>
     </message>
-    <message>
-        <source>Signature apply range</source>
-        <translation>Rentang Penerapan Tanda tangan</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfSignatureDlg</name>
@@ -4997,10 +4777,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>&amp;Comfirm</source>
         <translation>Konfirmasi(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Make sure to permanently delete the existing watermark</source>
-        <translation>Konfirmasi untuk menghapus cap air yang ada secara permanen?</translation>
     </message>
 </context>
 <context>
@@ -5555,6 +5331,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Titik</translation>
     </message>
     <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
         <source>FormFillingDate Point</source>
         <translation type="unfinished"/>
     </message>
@@ -5896,7 +5676,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation>Gambar menjadi teks</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ReadingMode_View</source>
@@ -6352,11 +6132,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation>Kompresi</translation>
+        <translation>Kompresor PDF</translation>
     </message>
     <message>
         <source>End Arrow</source>
-        <translation>Akhir</translation>
+        <translation>Panah Akhir</translation>
     </message>
     <message>
         <source>Page anticlockwise rotation</source>
@@ -6756,7 +6536,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation>Cetak Batch</translation>
+        <translation>Pencetakan PDF Per Batch</translation>
     </message>
     <message>
         <source>FloatFitSize</source>
@@ -6780,7 +6560,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation>Tangkap &amp; Bandingkan</translation>
+        <translation>Potong dan Sematkan</translation>
     </message>
     <message>
         <source>InterceptSelectedPage</source>
@@ -7160,7 +6940,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>CorrectionFluid</source>
-        <translation>Cairan Koreksi</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>ImageReplace</source>
@@ -7331,7 +7111,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Tambahkan(&amp;A)</translation>
+        <translation>Tambahkan</translation>
     </message>
     <message>
         <source>This document already contains watermarks.If you choose to add a new watermark, it may overwrite the existing watermark</source>
@@ -7347,7 +7127,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation>Ganti(&amp;R)</translation>
+        <translation>Ganti</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -7360,18 +7140,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Add failed! WaterMark apply range does not match the number of document pages</source>
         <translation>Penambahan gagal! Rentang penerapan Tanda Air tidak cocok dengan jumlah halaman dokumen</translation>
-    </message>
-    <message>
-        <source>DO NOT COPY</source>
-        <translation>JANGAN SALIN</translation>
-    </message>
-    <message>
-        <source>TOP SECRET</source>
-        <translation>SANGAT RAHASIA</translation>
-    </message>
-    <message>
-        <source>CONFIDENTIAL</source>
-        <translation>RAHASIA</translation>
     </message>
 </context>
 <context>
@@ -7401,6 +7169,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>FAQ</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Help</source>
@@ -8130,6 +7902,150 @@ COM</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_featuredapp</name>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Ambil Layar dan OCR</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Perbaikan 
+File</translation>
+    </message>
+    <message>
+        <source>Screen Recording</source>
+        <translation>Perekam Layar</translation>
+    </message>
+    <message>
+        <source>PDF2CAD</source>
+        <translation>PDF ke CAD</translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation>PDF ke PPT</translation>
+    </message>
+    <message>
+        <source>PDFToWord_L</source>
+        <translation>PDF ke Word</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation>Kompresor PDF</translation>
+    </message>
+    <message>
+        <source>Photo2PDF</source>
+        <translation>Foto ke PDF</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>Pecah PDF</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation>CAD ke PDF</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>PDFPagesOper</source>
+        <translation>Halaman PDF</translation>
+    </message>
+    <message>
+        <source>PDF2Word</source>
+        <translation>PDF ke Word</translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation>PDF ke Excel</translation>
+    </message>
+    <message>
+        <source>BatchPrint</source>
+        <translation>Pencetakan PDF Per Batch</translation>
+    </message>
+    <message>
+        <source>OtherSpecialFeatures</source>
+        <translation>Fitur Khusus</translation>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation>Gabungkan PDF</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Pencadangan Otomatis</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Ganti Nama File Per Batch</translation>
+    </message>
+    <message>
+        <source>File Collect</source>
+        <translation>Kumpulkan File</translation>
+    </message>
+    <message>
+        <source>Scan to Mobile</source>
+        <translation>Pindai ke 
+Ponsel</translation>
+    </message>
+    <message>
+        <source>Picture to text</source>
+        <translation>Gambar menjadi teks</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_newocr</name>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>I have a suggestion</source>
+        <translation>Saya memiliki saran</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Ambil Layar dan OCR</translation>
+    </message>
+    <message>
+        <source>I like the Ocr, because...</source>
+        <translation>Saya menyukai OCR, karena...</translation>
+    </message>
+    <message>
+        <source>Recommend to friends</source>
+        <translation>Rekomendasikan ke teman</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the Ocr, because...</source>
+        <translation>Saya tidak menyukai OCR, karena...</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>FeedBack</source>
+        <translation>Masukan</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Masukan</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_file</name>
     <message>
         <source>PPT</source>
@@ -8273,7 +8189,7 @@ COM</translation>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation>Cetak Batch</translation>
+        <translation>Pencetakan PDF Per Batch</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -9053,10 +8969,6 @@ File</translation>
         <source>AddPageNumber</source>
         <translation>Tambahkan Nomor Halaman</translation>
     </message>
-    <message>
-        <source>Ribbon center alignment</source>
-        <translation>Perataan tengah pita</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfScreenShotNotifyWin</name>
@@ -9202,18 +9114,6 @@ File</translation>
     <message>
         <source>Show Full Bookmark</source>
         <translation>Tampilkan Nama Penanda Lengkap</translation>
-    </message>
-    <message>
-        <source>Batch Delete</source>
-        <translation>Penghapusan Massal</translation>
-    </message>
-    <message>
-        <source>Show Bookmark FullName</source>
-        <translation>Tampilkan Nama Lengkap Penanda</translation>
-    </message>
-    <message>
-        <source>Insert BookMark</source>
-        <translation>Sisipkan Bookmark</translation>
     </message>
 </context>
 <context>
@@ -10340,7 +10240,7 @@ File</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation>Tangkap &amp; Bandingkan</translation>
+        <translation>Potong dan Sematkan</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
@@ -10710,18 +10610,6 @@ upgrade to WPS VIP?</source>
         <source>ReplacePageOkBtn</source>
         <translation>Konfirmasi untuk Ganti</translation>
     </message>
-    <message>
-        <source>SourcePage</source>
-        <translation>Halaman Sumber:</translation>
-    </message>
-    <message>
-        <source>UsePageTipsIcon</source>
-        <translation>Masukkan 1,3 untuk mengganti halaman sumber agar dapat menggunakan halaman 1 dan halaman 3. Masukkan 5-9 untuk mengganti halaman agar dapat menggunakan halaman 5 hingga halaman 9.</translation>
-    </message>
-    <message>
-        <source>Replaced</source>
-        <translation>Ganti dengan:</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfScanFileSelectDialog</name>
@@ -10988,32 +10876,6 @@ Tidak perlu memasukkan rentang halaman secara manual untuk saat ini.</translatio
     <message>
         <source>The output directory is wrong or does not exist!</source>
         <translation>Lokasi output salah atau tidak ada.</translation>
-    </message>
-    <message>
-        <source>PDF Extract Page is VIP exclusive privilege</source>
-        <translation>&quot;Ekstrak Halaman&quot;adalah hak istimewa WPS Premium</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Open File</source>
-        <translation>Buka File</translation>
-    </message>
-    <message>
-        <source>please input english comma</source>
-        <translation>Masukkan koma Inggris</translation>
-    </message>
-    <message>
-        <source>Open Directory</source>
-        <translation>Buka Direktori</translation>
-    </message>
-    <message>
-        <source>input 1-10,means extract page 1 to 10
-input 1,6, means extract page 1 and 6</source>
-        <translation>Masukkan 1-10,berarti ekstrak halaman 1 hingga 10
-Masukkan 1,6, berarti ekstrak halaman 1 dan 6</translation>
     </message>
 </context>
 <context>
@@ -11985,22 +11847,6 @@ Window</source>
         <source>TextEmpty</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>ReportErrorFile</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Kesalahan</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfMainWinConvertGuideWidget</name>
@@ -12280,77 +12126,6 @@ Window</source>
     </message>
 </context>
 <context>
-    <name>KxPdfPremiumGuideDialog</name>
-    <message>
-        <source>Cancel anytime</source>
-        <translation>Batalkan kapan saja</translation>
-    </message>
-    <message>
-        <source>Split Page</source>
-        <translation>Pecah halaman jadi beberapa halaman</translation>
-    </message>
-    <message>
-        <source>(Current feature)</source>
-        <translation>(sedang digunakan)</translation>
-    </message>
-    <message>
-        <source>Change Fluid</source>
-        <translation>Cairan Koreksi</translation>
-    </message>
-    <message>
-        <source>Output as image-only PDF</source>
-        <translation>Hasilkan sebagai file PDF hanya gambar</translation>
-    </message>
-    <message>
-        <source>Crop Page</source>
-        <translation>Halaman Klip</translation>
-    </message>
-    <message>
-        <source>PDF to Word/Excel/PPT</source>
-        <translation>PDF ke Word/Excel/PPT</translation>
-    </message>
-    <message>
-        <source>Picture to PDF</source>
-        <translation>Image vers PDF</translation>
-    </message>
-    <message>
-        <source>Edit content in PDF</source>
-        <translation>Edit teks/gambar di file PDF</translation>
-    </message>
-    <message>
-        <source>Free 7-day trial</source>
-        <translation>Gratis uji coba 7 hari</translation>
-    </message>
-    <message>
-        <source>View more</source>
-        <translation>Lihat selengkapnya</translation>
-    </message>
-    <message>
-        <source>WPS Premium include 51 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor.</source>
-        <translation>WPS Premium menyertakan 51 fitur lanjutan untuk Dokumen, Spreadsheets, Presentasi dan WPS PDF editor.</translation>
-    </message>
-    <message>
-        <source>Add Attachment</source>
-        <translation>Tambahkan Lampiran</translation>
-    </message>
-    <message>
-        <source>Signature</source>
-        <translation>Tanda Tangan PDF</translation>
-    </message>
-    <message>
-        <source>You are using a premium feature. Try Premium for free to enable this feature and save the changes.</source>
-        <translation>Anda menggunakan fitur berbayar. Coba gratis WPS Premium untuk mengaktifkan fitur ini dan menyimpan perubahan.</translation>
-    </message>
-    <message>
-        <source>Try All Premium Features</source>
-        <translation>Coba Semua Fitur WPS Premium</translation>
-    </message>
-    <message>
-        <source>Manager PDF page</source>
-        <translation>Kelola halaman PDF</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfCopyPageExtractPageDialog</name>
     <message>
         <source>IsCopying %1%</source>
@@ -12418,10 +12193,6 @@ Window</source>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>Dokumen belum ditandatangani atau ditandatangani tapi belum diverifikasi/tidak dikenal</translation>
     </message>
-    <message>
-        <source>Signature</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfEditingTipWidget</name>
@@ -12430,12 +12201,20 @@ Window</source>
         <translation>lebih mengerti&gt;</translation>
     </message>
     <message>
+        <source>Unlock 51 premium benefits, including unlimited PDF editing and save without watermark.</source>
+        <translation>Dapatkan 51 manfaat canggih, termasuk pengeditan PDF tanpa batas dan penyimpanan file tanpa tanda air.</translation>
+    </message>
+    <message>
         <source>Editing images, text, and fluid are premium features. Please go premium, or you will not be able to save the edited content.</source>
         <translation>Mengedit gambar, teks, dan cairan merupakan fitur premium. Silakan tingkatkan ke premium, atau Anda tidak akan dapat menyimpan editan konten.</translation>
     </message>
     <message>
         <source>Free trial</source>
         <translation>Uji Coba Gratis</translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation>Beli Sekarang</translation>
     </message>
     <message>
         <source>Unlimited to edit text and image, convert PDF to word, split and merge files.</source>
@@ -12702,7 +12481,7 @@ Window</source>
     </message>
     <message>
         <source>Save(S)</source>
-        <translation>Simpan (&amp;S)</translation>
+        <translation>Simpan</translation>
     </message>
     <message>
         <source>Save(Trial)</source>
@@ -13260,6 +13039,10 @@ Window</source>
         <translation>Persen(&amp;E):</translation>
     </message>
     <message>
+        <source>WPS Office Suite with PDF Editor Free Version - </source>
+        <translation>Versi Standar Rangkaian WPS Office dengan Editor PDF - </translation>
+    </message>
+    <message>
         <source>Replace Down</source>
         <translation>Atas ke bawah</translation>
     </message>
@@ -13274,14 +13057,6 @@ Window</source>
     <message>
         <source>Replace direction</source>
         <translation>Ganti Arah</translation>
-    </message>
-    <message>
-        <source>IncludeBookmarks</source>
-        <translation>Sertakan Penanda</translation>
-    </message>
-    <message>
-        <source>EnglishWholeWordsSearch</source>
-        <translation>Pencarian Kata Utuh</translation>
     </message>
 </context>
 <context>
@@ -13829,79 +13604,6 @@ Window</source>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_featuredapp</name>
-    <message>
-        <source>Document Fix</source>
-        <translation>Perbaikan 
-File</translation>
-    </message>
-    <message>
-        <source>Picture to text</source>
-        <translation>Gambar menjadi teks</translation>
-    </message>
-    <message>
-        <source>Screen Recording</source>
-        <translation>Perekam Layar</translation>
-    </message>
-    <message>
-        <source>PDF2PPT</source>
-        <translation>PDF ke PPT</translation>
-    </message>
-    <message>
-        <source>PDFToWord_L</source>
-        <translation>PDF ke Word</translation>
-    </message>
-    <message>
-        <source>Compress</source>
-        <translation>Kompresi</translation>
-    </message>
-    <message>
-        <source>Photo2PDF</source>
-        <translation>Foto ke PDF</translation>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation>Pecah PDF</translation>
-    </message>
-    <message>
-        <source>PDFPagesOper</source>
-        <translation>Halaman PDF</translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF ke Word</translation>
-    </message>
-    <message>
-        <source>PDF2Excel</source>
-        <translation>PDF ke Excel</translation>
-    </message>
-    <message>
-        <source>OtherSpecialFeatures</source>
-        <translation>Fitur Khusus</translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation>Gabungkan PDF</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Pencadangan Otomatis</translation>
-    </message>
-    <message>
-        <source>File Collect</source>
-        <translation>Kumpulkan File</translation>
-    </message>
-    <message>
-        <source>Scan to Mobile</source>
-        <translation>Pindai ke 
-Ponsel</translation>
-    </message>
-    <message>
-        <source>PDF2Photo</source>
-        <translation>PDF ke Foto</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfBubbleGuideWidget</name>
     <message>
         <source>Function move hint</source>
@@ -14100,6 +13802,10 @@ Please batches operations</source>
         <translation>PDF ke Excel</translation>
     </message>
     <message>
+        <source>Network Error,Load Failed!</source>
+        <translation>Kegagalan Jaringan, gagal mengunduh!</translation>
+    </message>
+    <message>
         <source>To PPT</source>
         <translation>PDF ke PPT</translation>
     </message>
@@ -14170,18 +13876,6 @@ Please batches operations</source>
     <message>
         <source>Using PDF %1 member function</source>
         <translation>Anda menggunakan manfaat %1 dari WPS Premium.</translation>
-    </message>
-    <message>
-        <source>Keep</source>
-        <translation>Simpan</translation>
-    </message>
-    <message>
-        <source>Do you want to keep your ink annotations?</source>
-        <translation>Ingin simpan anotasi tinta?</translation>
-    </message>
-    <message>
-        <source>Discard</source>
-        <translation>Buang</translation>
     </message>
 </context>
 <context>
@@ -14292,22 +13986,6 @@ Please batches operations</source>
     <message>
         <source>Signed time of signature:</source>
         <translation>Konfirmasi waktu penandatanganan:</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Teks</translation>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>Tombol Tekan</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
     </message>
 </context>
 <context>
@@ -14490,6 +14168,37 @@ Please batches operations</source>
     </message>
 </context>
 <context>
+    <name>KxPdfBubbleEditGuideDialog</name>
+    <message>
+        <source>7-day free trial of PDF converting,you can easily convert PDF files to word, excels or ppts</source>
+        <translation>Cobalah versi uji coba gratis 7 hari kami untuk mengonversi PDF ke Word, Excel, dan PPT dengan mudah.</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF to Picture,easily convert PDF files to pictures,keep your files safe and eneditable</source>
+        <translation>Cobalah versi uji coba gratis 7 hari kami untuk mengonversi PDF ke gambar dengan mudah serta menjaga file Anda tetap aman dan tidak dapat diedit.</translation>
+    </message>
+    <message>
+        <source>Editing PDF for Free</source>
+        <translation>Mengedit PDF secara Gratis</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
+        <translation>7 hari uji coba gratis pengeditan PDF. Anda bisa bebas mengedit dan menyimpan teks atau gambar di file PDF.</translation>
+    </message>
+    <message>
+        <source>Try Now</source>
+        <translation>Coba Sekarang</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Picture for free</source>
+        <translation>Konversi PDF ke Gambar Gratis</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Office for free</source>
+        <translation>Konversi PDF ke Format Lain Gratis</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfCaAddDlgWidget</name>
     <message>
         <source>You can add certificates in two ways:</source>
@@ -14508,7 +14217,7 @@ Please batches operations</source>
     <name>KxPdfWaterMarkGalleryModel</name>
     <message>
         <source>edit watermark</source>
-        <translation>Edit Tanda Air</translation>
+        <translation>Edit Cap Air</translation>
     </message>
     <message>
         <source>click is to delete watermark</source>
@@ -14516,7 +14225,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>click is to edit watermark</source>
-        <translation>Klik untuk Mengedit Tanda Air</translation>
+        <translation>Klik untuk mengedit cap air</translation>
     </message>
     <message>
         <source>complete</source>
@@ -14524,7 +14233,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>delete watermark</source>
-        <translation>Hapus Tanda Air</translation>
+        <translation>Hapus Cap Air</translation>
     </message>
     <message>
         <source>manage</source>
@@ -14532,11 +14241,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Drag adjustment order</source>
-        <translation>Seret untuk Mengubah Urutan</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Cap air kustom</translation>
+        <translation>Seret untuk mengubah urutan</translation>
     </message>
 </context>
 <context>
@@ -14959,6 +14664,21 @@ Anda masih dapat menggunakan tanda tangan yang disinkronkan.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfSearchNoResultOCRGuide</name>
+    <message>
+        <source>The scanned text in this document cannot be searched. You can use the OCR feature to make your scanned PDF searchable first.</source>
+        <translation>Pindaian teks dalam dokumen ini tidak dapat dicari. Anda dapat menggunakan fitur OCR untuk membuat dahulu pindaian PDF yang dapat dicari.</translation>
+    </message>
+    <message>
+        <source>OCR PDF</source>
+        <translation>PDF OCR</translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t search</source>
+        <translation>Tidak dapat mencari</translation>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14994,26 +14714,6 @@ Anda masih dapat menggunakan tanda tangan yang disinkronkan.</translation>
     <message>
         <source>Are you sure you want to verify all the signatures?</source>
         <translation> Anda yakin ingin memverifikasi semua tanda tangan?</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OKE</translation>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation>Pemberitahuan</translation>
-    </message>
-    <message>
-        <source>Select Kingsoft PDF As Default PDF Handler</source>
-        <translation>Atur WPS PDF sebagai pembaca PDF default</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>No tips</source>
-        <translation>Jangan pernah tampilkan</translation>
     </message>
 </context>
 <context>
@@ -15279,30 +14979,6 @@ Anda masih dapat menggunakan tanda tangan yang disinkronkan.</translation>
     <message>
         <source>Signature attribute</source>
         <translation>Atribut Tanda Tangan</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Tutup</translation>
-    </message>
-    <message>
-        <source>Cancle(C)</source>
-        <translation>&amp;Batal</translation>
-    </message>
-    <message>
-        <source>Attribute signature</source>
-        <translation>&amp;Atribut tanda tangan</translation>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>Tombol Tekan</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
     </message>
 </context>
 <context>
@@ -15668,10 +15344,6 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>&amp;ComfirmExtract</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>Dokumen harus disimpan sebelum diekstrak.</translation>
-    </message>
 </context>
 <context>
     <name>KRbSignature</name>
@@ -15881,7 +15553,7 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <name>KxPdfImmediatelySplitCommand</name>
     <message>
         <source>Split Page is VIP function, please upgrade VIP</source>
-        <translation>&quot;Halaman Terpisah&quot; adalah fitur VIP. Silakan daftar keanggotaan.</translation>
+        <translation>&quot;Pecah halaman jadi beberapa halaman&quot; adalah fitur VIP. Silakan daftar keanggotaan.</translation>
     </message>
 </context>
 <context>
@@ -15998,14 +15670,6 @@ File ini mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Unable to name#%1</source>
         <translation>Tidak dapat menamai #%1</translation>
-    </message>
-    <message>
-        <source>#</source>
-        <translation>#</translation>
-    </message>
-    <message>
-        <source>.pdf</source>
-        <translation>.pdf</translation>
     </message>
 </context>
 <context>
@@ -16304,6 +15968,13 @@ silakan masuk untuk menggunakan WPS Office.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfColorCommand</name>
+    <message>
+        <source>Recent Colors</source>
+        <translation>Warna Terbaru</translation>
+    </message>
+</context>
+<context>
     <name>KxEbookFontWidget</name>
     <message>
         <source>AutoFont</source>
@@ -16350,747 +16021,6 @@ silakan masuk untuk menggunakan WPS Office.</translation>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation>tidak dapat menemukan folder &quot;%1&quot;. Folder mungkin telah dihapus, dipindahkan, atau diganti nama.</translation>
-    </message>
-</context>
-<context>
-    <name>kxPdfNewPrintDialog</name>
-    <message>
-        <source>%</source>
-        <translation>%</translation>
-    </message>
-    <message>
-        <source>*</source>
-        <translation>*</translation>
-    </message>
-    <message>
-        <source>/</source>
-        <translation> / </translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation>2</translation>
-    </message>
-    <message>
-        <source>CM</source>
-        <translation>cm</translation>
-    </message>
-    <message>
-        <source>MM</source>
-        <translation>mm</translation>
-    </message>
-    <message>
-        <source>列</source>
-        <translation>Kolom</translation>
-    </message>
-    <message>
-        <source>行</source>
-        <translation>Baris</translation>
-    </message>
-    <message>
-        <source>1000</source>
-        <translation>1000</translation>
-    </message>
-    <message>
-        <source>INCH</source>
-        <translation>inci</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Kiri</translation>
-    </message>
-    <message>
-        <source>打印机：</source>
-        <translation>Printer:</translation>
-    </message>
-    <message>
-        <source>more function</source>
-        <translation>Pengaturan Selengkapnya</translation>
-    </message>
-    <message>
-        <source>last used printer</source>
-        <translation>Printer yang Digunakan Terakhir Kali</translation>
-    </message>
-    <message>
-        <source>Even pages only</source>
-        <translation>Halaman genap</translation>
-    </message>
-    <message>
-        <source>PIXEL</source>
-        <translation>piksel</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Cetak</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Kanan</translation>
-    </message>
-    <message>
-        <source>FitPrint</source>
-        <translation>Paskan untuk margin pencetakan</translation>
-    </message>
-    <message>
-        <source>InsertWatermarkForCurrentDocument</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ShrinkBigsize</source>
-        <translation>Kecilkan halaman ukuran berlebih</translation>
-    </message>
-    <message>
-        <source>click here to show more function</source>
-        <translation>Klik di sini untuk menampilkan fungsi lainnya.</translation>
-    </message>
-    <message>
-        <source>打印边框</source>
-        <translation>Cetak batas halaman</translation>
-    </message>
-    <message>
-        <source>一张多页</source>
-        <translation>Multi</translation>
-    </message>
-    <message>
-        <source>页边距（毫米）：</source>
-        <translation>Margin (mm):</translation>
-    </message>
-    <message>
-        <source>printer not available</source>
-        <translation>Printer Tidak Tersedia</translation>
-    </message>
-    <message>
-        <source>打印内容:</source>
-        <translation>Isi cetakan:</translation>
-    </message>
-    <message>
-        <source>insertwatermark</source>
-        <translation>Sisipkan Cap Air</translation>
-    </message>
-    <message>
-        <source>逆序打印</source>
-        <translation>Balik halaman</translation>
-    </message>
-    <message>
-        <source>All pages in range</source>
-        <translation>Semua halaman</translation>
-    </message>
-    <message>
-        <source>The printer status is abnormal, Please check whether the printer is on and online</source>
-        <translation>Status printer tidak normal, silakan cek apakah printer telah dinyalakan dan online</translation>
-    </message>
-    <message>
-        <source>预览：</source>
-        <translation>Pratinjau:</translation>
-    </message>
-    <message>
-        <source>printer exception</source>
-        <translation>Pengecualian Printer</translation>
-    </message>
-    <message>
-        <source>颜色:</source>
-        <translation>Warna:</translation>
-    </message>
-    <message>
-        <source>OnlyFront</source>
-        <translation>Hanya sisi depan</translation>
-    </message>
-    <message>
-        <source>页码选择：</source>
-        <translation>Pilih Nomor Halaman:</translation>
-    </message>
-    <message>
-        <source>隐藏页面背景</source>
-        <translation>Sembunyikan latar belakang halaman</translation>
-    </message>
-    <message>
-        <source>装订：</source>
-        <translation>Pengikatan:</translation>
-    </message>
-    <message>
-        <source>LandScape</source>
-        <translation>Lanskap</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>Manual page turning for double-sided printing</source>
-        <translation>Apakah Anda ingin membalik halaman secara manual untuk pencetakan bolak balik?</translation>
-    </message>
-    <message>
-        <source>Only Print Out the Document</source>
-        <translation>Hanya Cetak Document</translation>
-    </message>
-    <message>
-        <source>逐份打印</source>
-        <translation>Susun Cetak</translation>
-    </message>
-    <message>
-        <source>自定义比例：</source>
-        <translation>Skala Kustom:</translation>
-    </message>
-    <message>
-        <source>当前页面</source>
-        <translation>Halaman Saat Ini</translation>
-    </message>
-    <message>
-        <source>当前视图</source>
-        <translation>Tampilan Ini</translation>
-    </message>
-    <message>
-        <source>页面范围：</source>
-        <translation>Rentang Halaman:</translation>
-    </message>
-    <message>
-        <source>Print out The Notes</source>
-        <translation>Cetak Catatan</translation>
-    </message>
-    <message>
-        <source>Odd pages only</source>
-        <translation>Halaman ganjil</translation>
-    </message>
-    <message>
-        <source>Portrait</source>
-        <translation>Potret</translation>
-    </message>
-    <message>
-        <source>hide function</source>
-        <translation>Sembunyikan Beberapa Pengaturan</translation>
-    </message>
-    <message>
-        <source>Document And Notes</source>
-        <translation>Document dan Catatan</translation>
-    </message>
-    <message>
-        <source>i got it</source>
-        <translation>Mengerti</translation>
-    </message>
-    <message>
-        <source>纸张：</source>
-        <translation>Kertas:</translation>
-    </message>
-    <message>
-        <source>WPS advance printer</source>
-        <translation>Printer lanjutan WPS</translation>
-    </message>
-    <message>
-        <source>方向：</source>
-        <translation>Arah:</translation>
-    </message>
-    <message>
-        <source>should not be smaller than</source>
-        <translation>Margin halaman tidak boleh kurang dari</translation>
-    </message>
-    <message>
-        <source>打印方式：</source>
-        <translation>Metode cetak:</translation>
-    </message>
-    <message>
-        <source>奇偶页面：</source>
-        <translation>Halaman Ganjil atau Genap:</translation>
-    </message>
-    <message>
-        <source>隐藏部分设置</source>
-        <translation>Pengaturan bagian tersembunyi</translation>
-    </message>
-    <message>
-        <source>RawSize</source>
-        <translation>Ukuran asli</translation>
-    </message>
-    <message>
-        <source>GrayColor</source>
-        <translation>Skala abu-abu</translation>
-    </message>
-    <message>
-        <source>使用双面打印</source>
-        <translation>Gunakan Pencetakan Dua Sisi</translation>
-    </message>
-    <message>
-        <source>长边翻转</source>
-        <translation>Balik di tepian panjang</translation>
-    </message>
-    <message>
-        <source>DoubleSide</source>
-        <translation>Kedua sisi</translation>
-    </message>
-    <message>
-        <source>页面设置：</source>
-        <translation>Penyetelan Halaman:</translation>
-    </message>
-    <message>
-        <source>小册子子集：</source>
-        <translation>Subset buklet:</translation>
-    </message>
-    <message>
-        <source>内容设置：</source>
-        <translation>Pengaturan Konten:</translation>
-    </message>
-    <message>
-        <source>短边翻转</source>
-        <translation>Balik di tepian pendek</translation>
-    </message>
-    <message>
-        <source>out of print range</source>
-        <translation>Di luar rentang cetak</translation>
-    </message>
-    <message>
-        <source>Property</source>
-        <translation>Properti</translation>
-    </message>
-    <message>
-        <source>自动旋转</source>
-        <translation>Potret/lanskap otomatis</translation>
-    </message>
-    <message>
-        <source>自动居中</source>
-        <translation>Tengahkan Otomatis</translation>
-    </message>
-    <message>
-        <source>Custom...</source>
-        <translation>Kustom...</translation>
-    </message>
-    <message>
-        <source>所有页面</source>
-        <translation>Semua Halaman</translation>
-    </message>
-    <message>
-        <source>default printer</source>
-        <translation>Printer Standar</translation>
-    </message>
-    <message>
-        <source>The printer encountered an error, Please check if the printer is on and online</source>
-        <translation>Printer mengalami masalah, silakan cek apakah printer telah dinyalakan dan online</translation>
-    </message>
-    <message>
-        <source>份数：</source>
-        <translation>Salinan:</translation>
-    </message>
-    <message>
-        <source>no printer detected</source>
-        <translation>Tidak Ada Printer yang Terdeteksi</translation>
-    </message>
-    <message>
-        <source>Only Print Out the form</source>
-        <translation>Hanya Cetak Formulir</translation>
-    </message>
-    <message>
-        <source>页边距设置提示</source>
-        <translation>Margin</translation>
-    </message>
-    <message>
-        <source>记住以下设置</source>
-        <translation>Simpan pengaturan berikut</translation>
-    </message>
-    <message>
-        <source>system printing service exception</source>
-        <translation>Pengecualian Layanan Cetak Sistem</translation>
-    </message>
-    <message>
-        <source>页面顺序：</source>
-        <translation>Urutan halaman:</translation>
-    </message>
-    <message>
-        <source>OnlyBehind</source>
-        <translation>Hanya sisi belakang</translation>
-    </message>
-    <message>
-        <source>小册子</source>
-        <translation>Buklet</translation>
-    </message>
-    <message>
-        <source>每张页数：</source>
-        <translation>Halaman per lembar:</translation>
-    </message>
-    <message>
-        <source>Enter page numbers and/or page ranges separated by commas. 
-For example, 1,3,5-12.</source>
-        <translation>Masukkan nomor halaman dan rentang halaman yang dipisahkan oleh koma.
-Sebagai contoh, 1,3,5-12.</translation>
-    </message>
-    <message>
-        <source>CheckBox</source>
-        <translation>Kotak centang</translation>
-    </message>
-    <message>
-        <source>右：</source>
-        <translation>Margin Kanan:</translation>
-    </message>
-    <message>
-        <source>打印</source>
-        <translation>Cetak</translation>
-    </message>
-    <message>
-        <source>Try checking print on both sides,convenient and quick</source>
-        <translation>Cobalah pilih &quot;Cetak di Kedua Sisi&quot;, caranya cepat dan nyaman</translation>
-    </message>
-    <message>
-        <source>上：</source>
-        <translation>Margin Atas:</translation>
-    </message>
-    <message>
-        <source>下：</source>
-        <translation>Margin Bawah:</translation>
-    </message>
-    <message>
-        <source>左：</source>
-        <translation>Margin Kiri:</translation>
-    </message>
-    <message>
-        <source>Please enter a valid page range</source>
-        <translation>Silakan masukkan rentang halaman yang valid</translation>
-    </message>
-    <message>
-        <source>页面大小</source>
-        <translation>Ukuran</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfMessageDialogBaseUI</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation>Tidak</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>CheckBox</source>
-        <translation>Kotak centang</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfOrgPageErrorDialogUi</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation>Petunjuk</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Pemberitahuan</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchTool</name>
-    <message>
-        <source>Exit</source>
-        <translation>Keluar</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Sembunyikan</translation>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfExtractPageDialogWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>Page</source>
-        <translation>Halaman</translation>
-    </message>
-    <message>
-        <source>ExMode</source>
-        <translation>Mode Ekstrak:</translation>
-    </message>
-    <message>
-        <source>Delete After Abstract</source>
-        <translation>Hapus Setelah Pengekstrakan</translation>
-    </message>
-    <message>
-        <source>AddWaterM</source>
-        <translation>Sisipkan Cap Air:</translation>
-    </message>
-    <message>
-        <source>OutputDir</source>
-        <translation>Direktori Output:</translation>
-    </message>
-    <message>
-        <source>PageExtract</source>
-        <translation>Ekstrak Halaman</translation>
-    </message>
-    <message>
-        <source>PageRange</source>
-        <translation>Rentang Halaman:</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfGuidePopupTipsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>点击此处显示更多功能。</source>
-        <translation>Klik di sini untuk menampilkan fungsi lainnya.</translation>
-    </message>
-    <message>
-        <source>我知道了</source>
-        <translation>Mengerti</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchDlg</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>Resume Delivery</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delivery</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfDeleteWaterMarkWarningDialogWidget</name>
-    <message>
-        <source>Hint</source>
-        <translation>Petunjuk</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Teks</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>upgrade VIP</source>
-        <translation>Jadi Premium</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPrintProgressDialog</name>
-    <message>
-        <source>Hint</source>
-        <translation>Pemberitahuan</translation>
-    </message>
-    <message>
-        <source>Page</source>
-        <translation>Halaman</translation>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Beri Nilai</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Printing: </source>
-        <translation>Mencetak: </translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPromptLoginDialogUi</name>
-    <message>
-        <source>Hint</source>
-        <translation>Pemberitahuan</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Teks</translation>
-    </message>
-    <message>
-        <source>Login</source>
-        <translation>Akses masuk</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>Please log in WPS account.</source>
-        <translation>Silakan masuk terlebih dahulu.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfYesOrNoDialogWidget</name>
-    <message>
-        <source>Hint</source>
-        <translation>Pemberitahuan</translation>
-    </message>
-    <message>
-        <source>No(N)</source>
-        <translation>Tidak(N)</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Yes(Y)</source>
-        <translation>Ya(Y)</translation>
-    </message>
-    <message>
-        <source>Save changes to &apos;XXXX&apos; before closing?</source>
-        <translation>Simpan perubahan ke &apos;X&apos; sebelum menutup?</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfReviewHistoryTreeModel</name>
-    <message>
-        <source>None</source>
-        <translation>Tidak Ada</translation>
-    </message>
-    <message>
-        <source>Review history</source>
-        <translation>Tinjau riwayat</translation>
-    </message>
-    <message>
-        <source>Completed</source>
-        <translation>Selesai</translation>
-    </message>
-    <message>
-        <source>Cancelled</source>
-        <translation>Dibatalkan</translation>
-    </message>
-    <message>
-        <source>Accepted</source>
-        <translation>Disetujui</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation>Ditolak</translation>
-    </message>
-</context>
-<context>
-    <name>kxPdfTemplatesPrintDialog</name>
-    <message>
-        <source>choose paper(A4)</source>
-        <translation>Pilih Kertas (A4)</translation>
-    </message>
-    <message>
-        <source>print</source>
-        <translation>Cetak</translation>
-    </message>
-    <message>
-        <source>print number</source>
-        <translation>Jumlah Salinan untuk Dicetak</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>preview</source>
-        <translation>Pratinjau</translation>
-    </message>
-    <message>
-        <source>printer setting</source>
-        <translation>Pengaturan Printer</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPrintAndTempleteDialog</name>
-    <message>
-        <source>Print</source>
-        <translation>Cetak</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfCompressTipsDialog</name>
-    <message>
-        <source>The Compressed size is %1,decrease %2.</source>
-        <translation>Ukuran dikompresi adalah %1,mengurangi %2.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfReadingToolboxWidget</name>
-    <message>
-        <source>Close Toolbox</source>
-        <translation>Tutup Kotak Alat</translation>
-    </message>
-</context>
-<context>
-    <name>KRightSideToolBarWidget</name>
-    <message>
-        <source>Recommended tools</source>
-        <translation>Alat yang direkomendasikan</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchBtn</name>
-    <message>
-        <source>Resume Delivery</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfDocumentCloseTipsDialogUi</name>
-    <message>
-        <source>closeDoc</source>
-        <translation>Penutupan dokumen</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>Batal</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfCompressTipsDialogWidget</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfHideBGHelper</name>
-    <message>
-        <source>HidingPageBackGround...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>HidePageBackGround</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
