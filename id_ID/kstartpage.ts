@@ -1583,6 +1583,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Buka</translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation>Team</translation>
+    </message>	
+    <message>
         <source>New Document</source>
         <translation>Baru</translation>
     </message>
