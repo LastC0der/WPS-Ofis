@@ -30182,7 +30182,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengal dili</translation>
     </message>
     <message>
         <source>Armenian</source>
