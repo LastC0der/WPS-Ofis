@@ -1583,6 +1583,10 @@ Le fichier a peut-être été renommé, supprimé ou déplacé.</translation>
         <translation>Ouvrir</translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation>Team</translation>
+    </message>	
+    <message>
         <source>New Document</source>
         <translation>Nouveau</translation>
     </message>
