@@ -1583,6 +1583,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation>Открыть</translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation>Team</translation>
+    </message>	
+    <message>
         <source>New Document</source>
         <translation>Создать</translation>
     </message>
