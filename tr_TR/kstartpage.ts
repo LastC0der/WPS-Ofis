@@ -935,7 +935,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My PC</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayarım</translation>
     </message>
     <message>
         <source>Add Location</source>
@@ -970,7 +970,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KFilterOptionToolBar</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Tümü</translation>
     </message>
     <message>
         <source>Mark</source>
@@ -978,7 +978,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Files</source>
-        <translation type="unfinished"/>
+        <translation>Dosyalar</translation>
     </message>
     <message>
         <source>Filtering</source>
@@ -1012,7 +1012,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCreationAreaComponentModel</name>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -1028,7 +1028,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Create Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Oluştur</translation>
     </message>
 </context>
 <context>
@@ -2150,7 +2150,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Create Team</source>
-        <translation type="unfinished"/>
+        <translation>Ekip Oluştur</translation>
     </message>
 </context>
 <context>
