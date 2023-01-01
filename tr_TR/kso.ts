@@ -17015,7 +17015,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Permission Approve</source>
-        <translation type="unfinished"/>
+        <translation>Bekleyen Başvurular</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
