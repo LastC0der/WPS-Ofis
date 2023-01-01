@@ -6575,11 +6575,11 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>DarkSlateBlue</source>
-        <translation>Koyu Arduvaz Mavisi</translation>
+        <translation>Koyu Kurşun Mavisi</translation>
     </message>
     <message>
         <source>DarkSlateGray</source>
-        <translation>Koyu Arduvaz Grisi</translation>
+        <translation>Koyu Kurşun Grisi</translation>
     </message>
     <message>
         <source>Single Line</source>
@@ -7351,7 +7351,7 @@ Ekle</translation>
     <message>
         <source>Action Button: Document</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_DOCUMENT</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Belge</translation>
     </message>
     <message>
         <source>SpringGreen</source>
@@ -7955,7 +7955,7 @@ Ekle</translation>
     </message>
     <message>
         <source>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</source>
-        <translation type="unfinished"/>
+        <translation>Orta Kurşun Mavisi</translation>
     </message>
     <message>
         <source>Contrast</source>
@@ -8333,7 +8333,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>LightSlateGray</source>
-        <translation type="unfinished"/>
+        <translation>Açık Kurşun Grisi</translation>
     </message>
     <message>
         <source>Right Brace</source>
@@ -8628,7 +8628,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Action Button: Document</source>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Belge</translation>
     </message>
     <message>
         <source>Gray-25%</source>
@@ -8640,19 +8640,19 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Add Text Box</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu Ekle</translation>
     </message>
     <message>
         <source>DarkBlue</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Mavi</translation>
     </message>
     <message>
         <source>DarkCyan</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Camgöbeği</translation>
     </message>
     <message>
         <source>DarkGray</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Gri</translation>
     </message>
     <message>
         <source>Concentric Circle</source>
@@ -8690,19 +8690,19 @@ Line-type: %3</source>
     </message>
     <message>
         <source>SlateGray</source>
-        <translation type="unfinished"/>
+        <translation>Kurşun Grisi</translation>
     </message>
     <message>
         <source>SlateBlue</source>
-        <translation type="unfinished"/>
+        <translation>Kurşun Mavisi</translation>
     </message>
     <message>
         <source>WordArt: Inflate Bottom</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Altı Şişir</translation>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"/>
+        <translation>Dağıtılmış</translation>
     </message>
     <message>
         <source>Flowchart: Delay</source>
@@ -8735,7 +8735,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>MidnightBlue</source>
-        <translation type="unfinished"/>
+        <translation>Gece Yarısı Mavisi</translation>
     </message>
     <message>
         <source>MediumSpringGreen</source>
@@ -9894,7 +9894,7 @@ Line-type: %3</source>
     <message>
         <source>Action Button: Document</source>
         <comment>DRAWING2STR_ACTION_BUTTON_DOCUMENT</comment>
-        <translation type="unfinished"/>
+        <translation>Eylem Düğmesi: Belge</translation>
     </message>
     <message>
         <source>Stick Arrow</source>
