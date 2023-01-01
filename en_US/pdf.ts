@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>fill color:</source>
-        <translation>Fill Color :</translation>
+        <translation>Fill color :</translation>
     </message>
     <message>
         <source>Annotation Properties</source>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>end(E):</source>
-        <translation>End Arrow :</translation>
+        <translation>End (E):</translation>
     </message>
     <message>
         <source>General</source>
@@ -184,42 +184,6 @@
     <message>
         <source>Question Mark</source>
         <translation>Question Mark</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Open</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Close</translation>
-    </message>
-    <message>
-        <source>Circle</source>
-        <translation>Circle</translation>
-    </message>
-    <message>
-        <source>Square</source>
-        <translation>Square</translation>
-    </message>
-    <message>
-        <source>Rhombus</source>
-        <translation>Rhombus</translation>
-    </message>
-    <message>
-        <source>Open(Reverse)</source>
-        <translation>Open (Reverse)</translation>
-    </message>
-    <message>
-        <source>Vertical Line</source>
-        <translation>Vertical Line</translation>
-    </message>
-    <message>
-        <source>Oblique Line</source>
-        <translation>Oblique Line</translation>
-    </message>
-    <message>
-        <source>Close(Reverse)</source>
-        <translation>Close (Reverse)</translation>
     </message>
 </context>
 <context>
@@ -400,82 +364,6 @@
         <source>eightlines</source>
         <translation>8 lines per page</translation>
     </message>
-    <message>
-        <source>bold</source>
-        <translation>Bold</translation>
-    </message>
-    <message>
-        <source>Transparenc&amp;y:</source>
-        <translation>Transparenc&amp;y:</translation>
-    </message>
-    <message>
-        <source>&amp;File:</source>
-        <translation>&amp;File：</translation>
-    </message>
-    <message>
-        <source>&amp;Size:</source>
-        <translation>&amp;Size：</translation>
-    </message>
-    <message>
-        <source>Mult Row:</source>
-        <translation>Multi-row watermark:</translation>
-    </message>
-    <message>
-        <source>Fo&amp;nt:</source>
-        <translation>Fo&amp;nt:</translation>
-    </message>
-    <message>
-        <source>Te&amp;xt:</source>
-        <translation>Te&amp;xt：</translation>
-    </message>
-    <message>
-        <source>Hori&amp;zontal:</source>
-        <translation>Hori&amp;zontal:</translation>
-    </message>
-    <message>
-        <source>font color</source>
-        <translation>Color</translation>
-    </message>
-    <message>
-        <source>Pres&amp;rve</source>
-        <translation>P&amp;reserve Settings</translation>
-    </message>
-    <message>
-        <source>Bro&amp;wse</source>
-        <translation>Bro&amp;wse</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Confirm</translation>
-    </message>
-    <message>
-        <source>&amp;Apply:</source>
-        <translation>&amp;Apply:</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation>&amp;Delete</translation>
-    </message>
-    <message>
-        <source>underline</source>
-        <translation>Underline</translation>
-    </message>
-    <message>
-        <source>Re&amp;lativePageProportion:</source>
-        <translation>Re&amp;lative Page Proportion:</translation>
-    </message>
-    <message>
-        <source>entire chapter</source>
-        <translation>Entire chapter</translation>
-    </message>
-    <message>
-        <source>Ver&amp;tical:</source>
-        <translation>Ver&amp;tical:</translation>
-    </message>
-    <message>
-        <source>Watermark&amp;Settings:</source>
-        <translation>Watermark &amp;Settings:</translation>
-    </message>
 </context>
 <context>
     <name>AddCommFolderRoot</name>
@@ -634,7 +522,7 @@
     </message>
     <message>
         <source>Load page effect</source>
-        <translation>Effect of loading page</translation>
+        <translation>Effect of loading page:</translation>
     </message>
     <message>
         <source>Doc read options</source>
@@ -702,7 +590,7 @@
     </message>
     <message>
         <source>Auto Select</source>
-        <translation>Auto Select</translation>
+        <translation>Auto Select Based on File Type</translation>
     </message>
     <message>
         <source>Fit Width</source>
@@ -1045,54 +933,6 @@
     <message>
         <source>There are more than 20. Please delete them and add them later</source>
         <translation>You have added more than 20 watermarks. Delete some watermarks and add again.</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Custom    </translation>
-    </message>
-    <message>
-        <source>Please input name</source>
-        <translation>Please input name</translation>
-    </message>
-    <message>
-        <source>Sure to delete watermark settings</source>
-        <translation>Are you sure you want to delete the watermark settings</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Watermark Settings 1</source>
-        <translation>Watermark Settings 1</translation>
-    </message>
-    <message>
-        <source>Selected watermark settings does not exist</source>
-        <translation>The selected watermark settings does not exist.</translation>
-    </message>
-    <message>
-        <source>Effect1</source>
-        <translation>Effect 1</translation>
-    </message>
-    <message>
-        <source>Effect2</source>
-        <translation>Effect 2</translation>
-    </message>
-    <message>
-        <source>Only %1 watermark settings can be saved at most.</source>
-        <translation>A maximum of %1 watermark settings can be saved.</translation>
-    </message>
-    <message>
-        <source>already exists, do you want to replace it?</source>
-        <translation>Name already exists, do you want to replace it?</translation>
-    </message>
-    <message>
-        <source>Watermark Settings Name</source>
-        <translation>Settings Name</translation>
     </message>
 </context>
 <context>
@@ -2142,42 +1982,6 @@ The operation is irrevocable</translation>
     <message>
         <source>plugin Loading, please try angin.</source>
         <translation>Loading PDF tools,please wait.</translation>
-    </message>
-    <message>
-        <source>PDFJumpConverWordURL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Whether to save the correction fluid coverage area?</source>
-        <translation>The area covered by the correction fluid will no longer be displayed, is it saved?</translation>
-    </message>
-    <message>
-        <source>The document is scanned, please edit it after conversion.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot open this file &quot;%s&quot;!</source>
-        <translation>Unable to open file &quot;%s&quot;.</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>The document need to be saved before extracted.</translation>
-    </message>
-    <message>
-        <source>&amp;Open copy</source>
-        <translation>O&amp;pen Copy</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before compressed.</source>
-        <translation>The current document need to be saved before compressed.</translation>
-    </message>
-    <message>
-        <source>because the file is not surpported or  damaged.</source>
-        <translation>File is not supported or damaged.</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before print.</source>
-        <translation>Current document must be saved before it can be printed.</translation>
     </message>
 </context>
 <context>
@@ -3372,14 +3176,6 @@ input 5-9,means extract page 5 to 9</translation>
         <source>Ctrl+H or U</source>
         <translation>Ctrl+H/U</translation>
     </message>
-    <message>
-        <source>Roll back the mouse wheel,&apos;-&apos;or Ctrl + &apos;-&apos;</source>
-        <translation>Scroll the mouse wheel back, &quot;-&quot; or Ctrl+&quot;+&quot;</translation>
-    </message>
-    <message>
-        <source>Roll forward the mouse wheel,&apos;+&apos;or Ctrl + &apos;+&apos;</source>
-        <translation>Scroll the mouse wheel forward, &quot;+&quot; or Ctrl+&quot;+&quot;</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfDownloadV8Dialog</name>
@@ -3767,6 +3563,10 @@ Inserted pages must deleted by yourself.</translation>
     <message>
         <source>InsertImage is a VIP privilege</source>
         <translation>Inserting images is an exclusive privilege of WPS members</translation>
+    </message>
+    <message>
+        <source>Insert Pages</source>
+        <translation>Insert Pages</translation>
     </message>
     <message>
         <source>MoreScannerOpt</source>
@@ -4202,18 +4002,6 @@ log in to save changes?</source>
         <source>%1year%2mon%3day</source>
         <translation>%1year%2mon%3day</translation>
     </message>
-    <message>
-        <source>EditText</source>
-        <translation>Edit Text</translation>
-    </message>
-    <message>
-        <source>EditImg</source>
-        <translation>Edit Picture</translation>
-    </message>
-    <message>
-        <source>This location contains the form, whether to fill in the form or not?</source>
-        <translation>This position contains a form. Do you want to fill in the form?</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfManualDuplexPrintTipsDialog</name>
@@ -4274,10 +4062,6 @@ log in to save changes?</source>
     <message>
         <source>TextLabel</source>
         <translation>Text Label</translation>
-    </message>
-    <message>
-        <source>OK(F)</source>
-        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4769,10 +4553,6 @@ log in to save changes?</source>
         <source>Please enter a valid page range</source>
         <translation>Please input a valid page range</translation>
     </message>
-    <message>
-        <source>Signature apply range</source>
-        <translation>Page range</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfSignatureDlg</name>
@@ -4998,10 +4778,6 @@ Input 5-9 page 5 to page 9</source>
         <source>&amp;Comfirm</source>
         <translation>&amp;Confirm</translation>
     </message>
-    <message>
-        <source>Make sure to permanently delete the existing watermark</source>
-        <translation>Confirm to delete the existing watermark permanently?</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfInsertWaterMarkWarningDialog</name>
@@ -5202,7 +4978,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FixWidthHeightScale</source>
-        <translation>Pixed page width and height ratio</translation>
+        <translation>Lock aspect ratio</translation>
     </message>
     <message>
         <source>PageMargin</source>
@@ -5257,7 +5033,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>FixWidthHeightScale</source>
-        <translation>Pixed page width and height ratio</translation>
+        <translation>Lock aspect ratio</translation>
     </message>
     <message>
         <source>PageMargin</source>
@@ -5553,6 +5329,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Dot</source>
         <translation>Dot</translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>FormFillingDate Point</source>
@@ -5896,7 +5676,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation>Picture to Text</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ReadingMode_View</source>
@@ -6353,7 +6133,7 @@ Speech</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation>Compress</translation>
+        <translation>PDF Compressor</translation>
     </message>
     <message>
         <source>End Arrow</source>
@@ -6757,7 +6537,7 @@ Speech</translation>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation>Batch Print</translation>
+        <translation>Batch PDF Printing</translation>
     </message>
     <message>
         <source>FloatFitSize</source>
@@ -6781,7 +6561,7 @@ Speech</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation>Screen Grab</translation>
+        <translation>Snip and Pin</translation>
     </message>
     <message>
         <source>InterceptSelectedPage</source>
@@ -7069,7 +6849,7 @@ Speech</translation>
     </message>
     <message>
         <source>InsertText</source>
-        <translation>Insert Text</translation>
+        <translation>Add Text</translation>
     </message>
     <message>
         <source>MoveTotop</source>
@@ -7161,7 +6941,7 @@ Speech</translation>
     </message>
     <message>
         <source>CorrectionFluid</source>
-        <translation>Change fluid</translation>
+        <translation>Wipe Off</translation>
     </message>
     <message>
         <source>ImageReplace</source>
@@ -7362,18 +7142,6 @@ Speech</translation>
         <source>Add failed! WaterMark apply range does not match the number of document pages</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>DO NOT COPY</source>
-        <translation>DO NOT COPY</translation>
-    </message>
-    <message>
-        <source>TOP SECRET</source>
-        <translation>TOP SECRET</translation>
-    </message>
-    <message>
-        <source>CONFIDENTIAL</source>
-        <translation>CONFIDENTIAL</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfWaterMarkGalleryModelPaintItem</name>
@@ -7402,6 +7170,10 @@ Speech</translation>
     <message>
         <source>FAQ</source>
         <translation>FAQ</translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Help</source>
@@ -8130,6 +7902,148 @@ Add-Ins</source>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_featuredapp</name>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Screen Grab and OCR</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Files Repair</translation>
+    </message>
+    <message>
+        <source>Screen Recording</source>
+        <translation>Screen Recorder</translation>
+    </message>
+    <message>
+        <source>PDF2CAD</source>
+        <translation>PDF to CAD</translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation>PDF to PPT</translation>
+    </message>
+    <message>
+        <source>PDFToWord_L</source>
+        <translation>PDF to Word</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Hide current window when screenshot</translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation>PDF Compressor</translation>
+    </message>
+    <message>
+        <source>Photo2PDF</source>
+        <translation>Picture to PDF</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>Split PDF</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation>CAD to PDF</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>PDFPagesOper</source>
+        <translation>PDF Pages</translation>
+    </message>
+    <message>
+        <source>PDF2Word</source>
+        <translation>PDF to Word</translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation>PDF to Excel</translation>
+    </message>
+    <message>
+        <source>BatchPrint</source>
+        <translation>Batch PDF Printing</translation>
+    </message>
+    <message>
+        <source>OtherSpecialFeatures</source>
+        <translation>Special Features</translation>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation>Merge PDF</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Auto Backup</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Batch Rename Files</translation>
+    </message>
+    <message>
+        <source>File Collect</source>
+        <translation>File Collect</translation>
+    </message>
+    <message>
+        <source>Scan to Mobile</source>
+        <translation>Scan to Mobile</translation>
+    </message>
+    <message>
+        <source>Picture to text</source>
+        <translation>Picture to Text</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_newocr</name>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>I have a suggestion</source>
+        <translation>I have a suggestion</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Screen Grab and OCR</translation>
+    </message>
+    <message>
+        <source>I like the Ocr, because...</source>
+        <translation>I like the OCR, because...</translation>
+    </message>
+    <message>
+        <source>Recommend to friends</source>
+        <translation>Recommend to friends</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Hide current window when screenshot</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the Ocr, because...</source>
+        <translation>I don&apos;t like the OCR, because...</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>FeedBack</source>
+        <translation>Feedback</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Feedback</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_file</name>
     <message>
         <source>PPT</source>
@@ -8273,7 +8187,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation>Batch Print</translation>
+        <translation>Batch PDF Printing</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -9052,10 +8966,6 @@ Add-Ins</source>
         <source>AddPageNumber</source>
         <translation>Add Page Number</translation>
     </message>
-    <message>
-        <source>Ribbon center alignment</source>
-        <translation>Ribbon center alignment</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfScreenShotNotifyWin</name>
@@ -9201,18 +9111,6 @@ Add-Ins</source>
     <message>
         <source>Show Full Bookmark</source>
         <translation>Show Full Bookmark Name</translation>
-    </message>
-    <message>
-        <source>Batch Delete</source>
-        <translation>Bulk Delete</translation>
-    </message>
-    <message>
-        <source>Show Bookmark FullName</source>
-        <translation>Show Bookmark Fullname</translation>
-    </message>
-    <message>
-        <source>Insert BookMark</source>
-        <translation>Insert Bookmark</translation>
     </message>
 </context>
 <context>
@@ -9578,7 +9476,7 @@ Pane</translation>
     </message>
     <message>
         <source>AddImage</source>
-        <translation>Insert pictures</translation>
+        <translation>Add Picture</translation>
     </message>
     <message>
         <source>Edit PDF</source>
@@ -10341,7 +10239,7 @@ Speech</translation>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation>Screen Grab</translation>
+        <translation>Snip and Pin</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
@@ -10486,7 +10384,7 @@ Content</translation>
     </message>
     <message>
         <source>The document could not be saved. The file may be read-only, or opend by another user.</source>
-        <translation>The document could not be saved. The file may be read-only, or another user may have it open.</translation>
+        <translation>The file could not be saved. The file may be in use by another application or it may be marked as read-only.</translation>
     </message>
 </context>
 <context>
@@ -10711,18 +10609,6 @@ upgrade to WPS VIP?</source>
         <source>ReplacePageOkBtn</source>
         <translation>Confirm</translation>
     </message>
-    <message>
-        <source>SourcePage</source>
-        <translation>Source Page:</translation>
-    </message>
-    <message>
-        <source>UsePageTipsIcon</source>
-        <translation>Input 1,3 to replace the source pages in order using page 1 and page 3. Input 5-9 to replace the pages in order using page 5 to page 9.</translation>
-    </message>
-    <message>
-        <source>Replaced</source>
-        <translation>Replace with:</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfScanFileSelectDialog</name>
@@ -10845,7 +10731,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>DO NOT COPY</source>
-        <translation>Copy Prohibited</translation>
+        <translation>DO NOT COPY</translation>
     </message>
     <message>
         <source>The following characters cannot be used /:*?&quot; &lt;&gt;|</source>
@@ -10877,7 +10763,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>TOP SECRET</source>
-        <translation>Top Secret</translation>
+        <translation>TOP SECRET</translation>
     </message>
     <message>
         <source>Delete After Abstract</source>
@@ -10945,7 +10831,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>CONFIDENTIAL</source>
-        <translation>Confidential</translation>
+        <translation>CONFIDENTIAL</translation>
     </message>
     <message>
         <source>Custom define</source>
@@ -10990,32 +10876,6 @@ There is no need to manually enter the page range at this time.</translation>
     <message>
         <source>The output directory is wrong or does not exist!</source>
         <translation>The output location is incorrect or does not exist.</translation>
-    </message>
-    <message>
-        <source>PDF Extract Page is VIP exclusive privilege</source>
-        <translation>&quot;Extract Page&quot;is WPS Premium privilege</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Open File</source>
-        <translation>Open File</translation>
-    </message>
-    <message>
-        <source>please input english comma</source>
-        <translation>Please input english comma</translation>
-    </message>
-    <message>
-        <source>Open Directory</source>
-        <translation>Open Directory</translation>
-    </message>
-    <message>
-        <source>input 1-10,means extract page 1 to 10
-input 1,6, means extract page 1 and 6</source>
-        <translation>input 1-10,means extract page 1 to 10
-input 1,6, means extract page 1 and 6</translation>
     </message>
 </context>
 <context>
@@ -11126,7 +10986,7 @@ input 1,6, means extract page 1 and 6</translation>
     </message>
     <message>
         <source>Close Annotation Panel</source>
-        <translation>Close</translation>
+        <translation>Close Panel</translation>
     </message>
 </context>
 <context>
@@ -11984,22 +11844,6 @@ Window</source>
         <source>TextEmpty</source>
         <translation>Unrecognized text</translation>
     </message>
-    <message>
-        <source>ReportErrorFile</source>
-        <translation>Has reported the type of error</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Error</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>&amp;ComfirmExtract</source>
-        <translation>&amp;Confirm</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfMainWinConvertGuideWidget</name>
@@ -12279,77 +12123,6 @@ Window</source>
     </message>
 </context>
 <context>
-    <name>KxPdfPremiumGuideDialog</name>
-    <message>
-        <source>Cancel anytime</source>
-        <translation>Cancel anytime</translation>
-    </message>
-    <message>
-        <source>Split Page</source>
-        <translation>Split Page</translation>
-    </message>
-    <message>
-        <source>(Current feature)</source>
-        <translation>(in use)</translation>
-    </message>
-    <message>
-        <source>Change Fluid</source>
-        <translation>Change fluid</translation>
-    </message>
-    <message>
-        <source>Output as image-only PDF</source>
-        <translation>Output as image-only PDF files</translation>
-    </message>
-    <message>
-        <source>Crop Page</source>
-        <translation>Crop Page</translation>
-    </message>
-    <message>
-        <source>PDF to Word/Excel/PPT</source>
-        <translation>PDF to Word/Excel/PPT</translation>
-    </message>
-    <message>
-        <source>Picture to PDF</source>
-        <translation>Picture to PDF</translation>
-    </message>
-    <message>
-        <source>Edit content in PDF</source>
-        <translation>Edit texts/images in PDF files</translation>
-    </message>
-    <message>
-        <source>Free 7-day trial</source>
-        <translation>Free 7-day trial</translation>
-    </message>
-    <message>
-        <source>View more</source>
-        <translation>View more</translation>
-    </message>
-    <message>
-        <source>WPS Premium include 51 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor.</source>
-        <translation>WPS Premium include 51 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor.</translation>
-    </message>
-    <message>
-        <source>Add Attachment</source>
-        <translation>Add Attachment</translation>
-    </message>
-    <message>
-        <source>Signature</source>
-        <translation>PDF Signature</translation>
-    </message>
-    <message>
-        <source>You are using a premium feature. Try Premium for free to enable this feature and save the changes.</source>
-        <translation>You are using a paid feature. Try WPS Premium for free to enable this feature and save the changes.</translation>
-    </message>
-    <message>
-        <source>Try All Premium Features</source>
-        <translation>Try All WPS Premium Features</translation>
-    </message>
-    <message>
-        <source>Manager PDF page</source>
-        <translation>Manage PDF pages</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfCopyPageExtractPageDialog</name>
     <message>
         <source>IsCopying %1%</source>
@@ -12395,7 +12168,7 @@ Window</source>
     </message>
     <message>
         <source>Signature List</source>
-        <translation>Signatures</translation>
+        <translation>Signature</translation>
     </message>
     <message>
         <source>Close Signature Panel</source>
@@ -12417,10 +12190,6 @@ Window</source>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>The document is unsigned or signed unverified/unrecognized</translation>
     </message>
-    <message>
-        <source>Signature</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfEditingTipWidget</name>
@@ -12429,12 +12198,20 @@ Window</source>
         <translation>Learn more&gt;</translation>
     </message>
     <message>
+        <source>Unlock 51 premium benefits, including unlimited PDF editing and save without watermark.</source>
+        <translation>Unlock 51 advanced benefits, including unlimited PDF editing and saving files without watermark.</translation>
+    </message>
+    <message>
         <source>Editing images, text, and fluid are premium features. Please go premium, or you will not be able to save the edited content.</source>
         <translation>Editing images, text, and fluid are premium features. Please go premium, or you will not be able to save the edited content.</translation>
     </message>
     <message>
         <source>Free trial</source>
         <translation>Free trial</translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation>Buy Now</translation>
     </message>
     <message>
         <source>Unlimited to edit text and image, convert PDF to word, split and merge files.</source>
@@ -12677,7 +12454,7 @@ Window</source>
     <name>KxPdfDocumentCloseTipsDialog</name>
     <message>
         <source>No(N)</source>
-        <translation>&amp;No</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>filename:</source>
@@ -12689,7 +12466,7 @@ Window</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>&amp;Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
@@ -12701,7 +12478,7 @@ Window</source>
     </message>
     <message>
         <source>Save(S)</source>
-        <translation>&amp;Save</translation>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Save(Trial)</source>
@@ -13259,6 +13036,10 @@ Window</source>
         <translation>P&amp;ercent:</translation>
     </message>
     <message>
+        <source>WPS Office Suite with PDF Editor Free Version - </source>
+        <translation>Standard Version of WPS Office Suite with PDF Editor - </translation>
+    </message>
+    <message>
         <source>Replace Down</source>
         <translation>Top-down</translation>
     </message>
@@ -13273,14 +13054,6 @@ Window</source>
     <message>
         <source>Replace direction</source>
         <translation>Replace Direction</translation>
-    </message>
-    <message>
-        <source>IncludeBookmarks</source>
-        <translation>Include Bookmarks</translation>
-    </message>
-    <message>
-        <source>EnglishWholeWordsSearch</source>
-        <translation>Whole Word Search</translation>
     </message>
 </context>
 <context>
@@ -13828,77 +13601,6 @@ Window</source>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_featuredapp</name>
-    <message>
-        <source>Document Fix</source>
-        <translation>Files Repair</translation>
-    </message>
-    <message>
-        <source>Picture to text</source>
-        <translation>Picture to Text</translation>
-    </message>
-    <message>
-        <source>Screen Recording</source>
-        <translation>Screen Recorder</translation>
-    </message>
-    <message>
-        <source>PDF2PPT</source>
-        <translation>PDF to PPT</translation>
-    </message>
-    <message>
-        <source>PDFToWord_L</source>
-        <translation>PDF to Word</translation>
-    </message>
-    <message>
-        <source>Compress</source>
-        <translation>Compress</translation>
-    </message>
-    <message>
-        <source>Photo2PDF</source>
-        <translation>Picture to PDF</translation>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation>Split PDF</translation>
-    </message>
-    <message>
-        <source>PDFPagesOper</source>
-        <translation>PDF Pages</translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF to Word</translation>
-    </message>
-    <message>
-        <source>PDF2Excel</source>
-        <translation>PDF to Excel</translation>
-    </message>
-    <message>
-        <source>OtherSpecialFeatures</source>
-        <translation>Special Features</translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation>Merge PDF</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Auto Backup</translation>
-    </message>
-    <message>
-        <source>File Collect</source>
-        <translation>File Collect</translation>
-    </message>
-    <message>
-        <source>Scan to Mobile</source>
-        <translation>Scan to Mobile</translation>
-    </message>
-    <message>
-        <source>PDF2Photo</source>
-        <translation>PDF to Picture</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfBubbleGuideWidget</name>
     <message>
         <source>Function move hint</source>
@@ -14097,6 +13799,10 @@ Please batches operations</source>
         <translation>To Excel</translation>
     </message>
     <message>
+        <source>Network Error,Load Failed!</source>
+        <translation>Network Error,failed to downLoad!</translation>
+    </message>
+    <message>
         <source>To PPT</source>
         <translation>To PPT</translation>
     </message>
@@ -14141,7 +13847,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Is using the &quot;Delete Page&quot; membership privilege, non-member users can delete 5 pages for free</source>
-        <translation>You are using the &quot;Delete Pagesquot; benefit of WPS Premium. Non-Premium users can delete 5 pages for free.</translation>
+        <translation>You are using the &quot;Delete Page&quot; Premium privilege. Non-Premium users can delete 5 pages for free.</translation>
     </message>
     <message>
         <source>move page is VIP function, save modify need upgrade VIP</source>
@@ -14162,23 +13868,11 @@ Please batches operations</source>
     </message>
     <message>
         <source>Is using the &quot;insert page&quot; membership privilege, non-member users can insert 5 pages for free</source>
-        <translation>You are using the &quot;Insert Pages&quot; benefit of WPS Premium. Non-Premium users can insert 5 pages for free.</translation>
+        <translation>You are using the &quot;Insert Page&quot; Premium privilege. Non-Premium users can insert 5 pages for free.</translation>
     </message>
     <message>
         <source>Using PDF %1 member function</source>
-        <translation>You are using the %1 benefit of WPS Premium.</translation>
-    </message>
-    <message>
-        <source>Keep</source>
-        <translation>Keep</translation>
-    </message>
-    <message>
-        <source>Do you want to keep your ink annotations?</source>
-        <translation>Do you want to keep your ink annotations?</translation>
-    </message>
-    <message>
-        <source>Discard</source>
-        <translation>Discard</translation>
+        <translation>Using the &quot;%1&quot; Premium feature</translation>
     </message>
 </context>
 <context>
@@ -14289,22 +13983,6 @@ Please batches operations</source>
     <message>
         <source>Signed time of signature:</source>
         <translation>Signature confirmed time of signing:</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Text</translation>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>PushButton</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Text Label</translation>
     </message>
 </context>
 <context>
@@ -14487,6 +14165,37 @@ Please batches operations</source>
     </message>
 </context>
 <context>
+    <name>KxPdfBubbleEditGuideDialog</name>
+    <message>
+        <source>7-day free trial of PDF converting,you can easily convert PDF files to word, excels or ppts</source>
+        <translation>Try our 7-day free trial to easily convert PDF to Word, Excel, and PPT with ease.</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF to Picture,easily convert PDF files to pictures,keep your files safe and eneditable</source>
+        <translation>Try our 7-day free trial to easily convert PDFs to images and keep your files non-editable and safe.</translation>
+    </message>
+    <message>
+        <source>Editing PDF for Free</source>
+        <translation>Editing PDF for Free</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
+        <translation>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</translation>
+    </message>
+    <message>
+        <source>Try Now</source>
+        <translation>Try Now</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Picture for free</source>
+        <translation>Convert PDF to Picture for Free</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Office for free</source>
+        <translation>Convert PDF to Other Formats for Free</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfCaAddDlgWidget</name>
     <message>
         <source>You can add certificates in two ways:</source>
@@ -14517,7 +14226,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>complete</source>
-        <translation type="unfinished"/>
+        <translation>Finish</translation>
     </message>
     <message>
         <source>delete watermark</source>
@@ -14530,10 +14239,6 @@ Please batches operations</source>
     <message>
         <source>Drag adjustment order</source>
         <translation>Drag to Change Order</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Custom watermark</translation>
     </message>
 </context>
 <context>
@@ -14748,7 +14453,7 @@ Deleted pages cannot be recovered</translation>
     </message>
     <message>
         <source>immediately crop</source>
-        <translation>crop now</translation>
+        <translation>Crop Now</translation>
     </message>
     <message>
         <source>OddPages</source>
@@ -14957,6 +14662,21 @@ you can still use the synced signature.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfSearchNoResultOCRGuide</name>
+    <message>
+        <source>The scanned text in this document cannot be searched. You can use the OCR feature to make your scanned PDF searchable first.</source>
+        <translation>The scanned text in this document cannot be searched. You can use the OCR feature to make your scanned PDF searchable first.</translation>
+    </message>
+    <message>
+        <source>OCR PDF</source>
+        <translation>PDF OCR</translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t search</source>
+        <translation>Couldn&apos;t search</translation>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14992,26 +14712,6 @@ you can still use the synced signature.</translation>
     <message>
         <source>Are you sure you want to verify all the signatures?</source>
         <translation> Are you sure you want to verify all your signatures?</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation>Notice</translation>
-    </message>
-    <message>
-        <source>Select Kingsoft PDF As Default PDF Handler</source>
-        <translation>Set WPS PDF as default PDF reader</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>No tips</source>
-        <translation>Never show</translation>
     </message>
 </context>
 <context>
@@ -15130,7 +14830,7 @@ you can still use the synced signature.</translation>
     </message>
     <message>
         <source>Please input what you want</source>
-        <translation>Enter content</translation>
+        <translation>Please input...</translation>
     </message>
     <message>
         <source>Set Up</source>
@@ -15225,7 +14925,7 @@ you can still use the synced signature.</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation>Convert to Image-only PDF</translation>
+        <translation>Convert Image-only PDF</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
@@ -15277,30 +14977,6 @@ you can still use the synced signature.</translation>
     <message>
         <source>Signature attribute</source>
         <translation>Signature Attribute</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Close</translation>
-    </message>
-    <message>
-        <source>Cancle(C)</source>
-        <translation>&amp;Cancel</translation>
-    </message>
-    <message>
-        <source>Attribute signature</source>
-        <translation>&amp;Signature Attribute</translation>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>PushButton</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Text Label</translation>
     </message>
 </context>
 <context>
@@ -15665,10 +15341,6 @@ you can still use the synced signature.</translation>
         <source>&amp;ComfirmExtract</source>
         <translation>&amp;Confirm</translation>
     </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>The document need to be saved before extracted.</translation>
-    </message>
 </context>
 <context>
     <name>KRbSignature</name>
@@ -15878,7 +15550,7 @@ you can still use the synced signature.</translation>
     <name>KxPdfImmediatelySplitCommand</name>
     <message>
         <source>Split Page is VIP function, please upgrade VIP</source>
-        <translation>&quot;Separate Page&quot; is a VIP feature. Please register for the membership.</translation>
+        <translation>&quot;Split Page&quot; is a VIP feature. Please register for the membership.</translation>
     </message>
 </context>
 <context>
@@ -15995,14 +15667,6 @@ you can still use the synced signature.</translation>
     <message>
         <source>Unable to name#%1</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>#</source>
-        <translation>#</translation>
-    </message>
-    <message>
-        <source>.pdf</source>
-        <translation>.pdf</translation>
     </message>
 </context>
 <context>
@@ -16301,6 +15965,13 @@ please sign in to use WPS Office.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfColorCommand</name>
+    <message>
+        <source>Recent Colors</source>
+        <translation>Recent Colors</translation>
+    </message>
+</context>
+<context>
     <name>KxEbookFontWidget</name>
     <message>
         <source>AutoFont</source>
@@ -16347,747 +16018,6 @@ please sign in to use WPS Office.</translation>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation>Unable to find folder &quot;%1&quot;. It might have been deleted, moved, or renamed.</translation>
-    </message>
-</context>
-<context>
-    <name>kxPdfNewPrintDialog</name>
-    <message>
-        <source>%</source>
-        <translation>%</translation>
-    </message>
-    <message>
-        <source>*</source>
-        <translation>*</translation>
-    </message>
-    <message>
-        <source>/</source>
-        <translation> / </translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation>2</translation>
-    </message>
-    <message>
-        <source>CM</source>
-        <translation>cm</translation>
-    </message>
-    <message>
-        <source>MM</source>
-        <translation>mm</translation>
-    </message>
-    <message>
-        <source>列</source>
-        <translation>Column</translation>
-    </message>
-    <message>
-        <source>行</source>
-        <translation>Row</translation>
-    </message>
-    <message>
-        <source>1000</source>
-        <translation>1000</translation>
-    </message>
-    <message>
-        <source>INCH</source>
-        <translation>inch</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Left</translation>
-    </message>
-    <message>
-        <source>打印机：</source>
-        <translation>Printer:</translation>
-    </message>
-    <message>
-        <source>more function</source>
-        <translation>More Settings</translation>
-    </message>
-    <message>
-        <source>last used printer</source>
-        <translation>Last Used Printer</translation>
-    </message>
-    <message>
-        <source>Even pages only</source>
-        <translation>Even pages</translation>
-    </message>
-    <message>
-        <source>PIXEL</source>
-        <translation>pixel</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Print</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Right</translation>
-    </message>
-    <message>
-        <source>FitPrint</source>
-        <translation>Fit for printing margins</translation>
-    </message>
-    <message>
-        <source>InsertWatermarkForCurrentDocument</source>
-        <translation>Insert Watermark for Doc</translation>
-    </message>
-    <message>
-        <source>ShrinkBigsize</source>
-        <translation>Shrink oversized pages</translation>
-    </message>
-    <message>
-        <source>click here to show more function</source>
-        <translation>Click here to show more functions.</translation>
-    </message>
-    <message>
-        <source>打印边框</source>
-        <translation>Print page border</translation>
-    </message>
-    <message>
-        <source>一张多页</source>
-        <translation>Multiple</translation>
-    </message>
-    <message>
-        <source>页边距（毫米）：</source>
-        <translation>Margins (mm):</translation>
-    </message>
-    <message>
-        <source>printer not available</source>
-        <translation>Printer Not Available</translation>
-    </message>
-    <message>
-        <source>打印内容:</source>
-        <translation>Print content:</translation>
-    </message>
-    <message>
-        <source>insertwatermark</source>
-        <translation>Insert Watermark</translation>
-    </message>
-    <message>
-        <source>逆序打印</source>
-        <translation>Reverse pages</translation>
-    </message>
-    <message>
-        <source>All pages in range</source>
-        <translation>All pages</translation>
-    </message>
-    <message>
-        <source>The printer status is abnormal, Please check whether the printer is on and online</source>
-        <translation>Printer status is abnormal, please check whether the printer is powered on and online</translation>
-    </message>
-    <message>
-        <source>预览：</source>
-        <translation>Preview:</translation>
-    </message>
-    <message>
-        <source>printer exception</source>
-        <translation>Printer Exception</translation>
-    </message>
-    <message>
-        <source>颜色:</source>
-        <translation>Color:</translation>
-    </message>
-    <message>
-        <source>OnlyFront</source>
-        <translation>Front side only</translation>
-    </message>
-    <message>
-        <source>页码选择：</source>
-        <translation>Select Page Number:</translation>
-    </message>
-    <message>
-        <source>隐藏页面背景</source>
-        <translation>Hide page background</translation>
-    </message>
-    <message>
-        <source>装订：</source>
-        <translation>Binding:</translation>
-    </message>
-    <message>
-        <source>LandScape</source>
-        <translation>Landscape</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>Manual page turning for double-sided printing</source>
-        <translation>Do you want to manually flip the page for double-sided printing?</translation>
-    </message>
-    <message>
-        <source>Only Print Out the Document</source>
-        <translation>Only Print the Document</translation>
-    </message>
-    <message>
-        <source>逐份打印</source>
-        <translation>Collate Print</translation>
-    </message>
-    <message>
-        <source>自定义比例：</source>
-        <translation>Custom Scale:</translation>
-    </message>
-    <message>
-        <source>当前页面</source>
-        <translation>Current Page</translation>
-    </message>
-    <message>
-        <source>当前视图</source>
-        <translation>Current View</translation>
-    </message>
-    <message>
-        <source>页面范围：</source>
-        <translation>Page Range:</translation>
-    </message>
-    <message>
-        <source>Print out The Notes</source>
-        <translation>Print Notes</translation>
-    </message>
-    <message>
-        <source>Odd pages only</source>
-        <translation>Odd pages</translation>
-    </message>
-    <message>
-        <source>Portrait</source>
-        <translation>Portrait</translation>
-    </message>
-    <message>
-        <source>hide function</source>
-        <translation>Hide Some Settings</translation>
-    </message>
-    <message>
-        <source>Document And Notes</source>
-        <translation>Documents and Notes</translation>
-    </message>
-    <message>
-        <source>i got it</source>
-        <translation>Got it</translation>
-    </message>
-    <message>
-        <source>纸张：</source>
-        <translation>Paper:</translation>
-    </message>
-    <message>
-        <source>WPS advance printer</source>
-        <translation>WPS advanced printer</translation>
-    </message>
-    <message>
-        <source>方向：</source>
-        <translation>Direction:</translation>
-    </message>
-    <message>
-        <source>should not be smaller than</source>
-        <translation>Page margin cannot be less than</translation>
-    </message>
-    <message>
-        <source>打印方式：</source>
-        <translation>Print method:</translation>
-    </message>
-    <message>
-        <source>奇偶页面：</source>
-        <translation>Odd or Even Pages:</translation>
-    </message>
-    <message>
-        <source>隐藏部分设置</source>
-        <translation>Hidden part settings</translation>
-    </message>
-    <message>
-        <source>RawSize</source>
-        <translation>Actual size</translation>
-    </message>
-    <message>
-        <source>GrayColor</source>
-        <translation>Grayscale</translation>
-    </message>
-    <message>
-        <source>使用双面打印</source>
-        <translation>Use Double-sided Printing</translation>
-    </message>
-    <message>
-        <source>长边翻转</source>
-        <translation>Flip on long edge</translation>
-    </message>
-    <message>
-        <source>DoubleSide</source>
-        <translation>Both sides</translation>
-    </message>
-    <message>
-        <source>页面设置：</source>
-        <translation>Page Setup:</translation>
-    </message>
-    <message>
-        <source>小册子子集：</source>
-        <translation>Booklet Subset:</translation>
-    </message>
-    <message>
-        <source>内容设置：</source>
-        <translation>Content Settings:</translation>
-    </message>
-    <message>
-        <source>短边翻转</source>
-        <translation>Flip on short edge</translation>
-    </message>
-    <message>
-        <source>out of print range</source>
-        <translation>Out of print range</translation>
-    </message>
-    <message>
-        <source>Property</source>
-        <translation>Properties</translation>
-    </message>
-    <message>
-        <source>自动旋转</source>
-        <translation>Auto portrait/landscape</translation>
-    </message>
-    <message>
-        <source>自动居中</source>
-        <translation>Auto Center</translation>
-    </message>
-    <message>
-        <source>Custom...</source>
-        <translation>Custom...</translation>
-    </message>
-    <message>
-        <source>所有页面</source>
-        <translation>All Pages</translation>
-    </message>
-    <message>
-        <source>default printer</source>
-        <translation>Default Printer</translation>
-    </message>
-    <message>
-        <source>The printer encountered an error, Please check if the printer is on and online</source>
-        <translation>The printer encountered an error, please check if the printer is powered on and online</translation>
-    </message>
-    <message>
-        <source>份数：</source>
-        <translation>Copies:</translation>
-    </message>
-    <message>
-        <source>no printer detected</source>
-        <translation>No Printer Detected</translation>
-    </message>
-    <message>
-        <source>Only Print Out the form</source>
-        <translation>Only Print the Form</translation>
-    </message>
-    <message>
-        <source>页边距设置提示</source>
-        <translation>Margins</translation>
-    </message>
-    <message>
-        <source>记住以下设置</source>
-        <translation>Save the following settings</translation>
-    </message>
-    <message>
-        <source>system printing service exception</source>
-        <translation>System Printing Service Exception</translation>
-    </message>
-    <message>
-        <source>页面顺序：</source>
-        <translation>Page order:</translation>
-    </message>
-    <message>
-        <source>OnlyBehind</source>
-        <translation>Back side only</translation>
-    </message>
-    <message>
-        <source>小册子</source>
-        <translation>Booklet</translation>
-    </message>
-    <message>
-        <source>每张页数：</source>
-        <translation>Pages per sheet:</translation>
-    </message>
-    <message>
-        <source>Enter page numbers and/or page ranges separated by commas. 
-For example, 1,3,5-12.</source>
-        <translation>Enter page numbers and page ranges separated by commas. 
-For example, 1,3,5-12.</translation>
-    </message>
-    <message>
-        <source>CheckBox</source>
-        <translation>Checkbox</translation>
-    </message>
-    <message>
-        <source>右：</source>
-        <translation>Right Margin:</translation>
-    </message>
-    <message>
-        <source>打印</source>
-        <translation>Print</translation>
-    </message>
-    <message>
-        <source>Try checking print on both sides,convenient and quick</source>
-        <translation>Try selecting &quot;Print on Both Sides&quot;, it&apos;s fast and convenient</translation>
-    </message>
-    <message>
-        <source>上：</source>
-        <translation>Top Margin:</translation>
-    </message>
-    <message>
-        <source>下：</source>
-        <translation>Bottom Margin:</translation>
-    </message>
-    <message>
-        <source>左：</source>
-        <translation>Left Margin:</translation>
-    </message>
-    <message>
-        <source>Please enter a valid page range</source>
-        <translation>Please input a valid page range</translation>
-    </message>
-    <message>
-        <source>页面大小</source>
-        <translation>Size</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfMessageDialogBaseUI</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation>No</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>CheckBox</source>
-        <translation>Checkbox</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfOrgPageErrorDialogUi</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation>Prompt</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Notice</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchTool</name>
-    <message>
-        <source>Exit</source>
-        <translation>Exit</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Hide</translation>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation>Send your resume to get a desired job from large volume of high-quality third-party occupations.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfExtractPageDialogWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source>Page</source>
-        <translation>Page</translation>
-    </message>
-    <message>
-        <source>ExMode</source>
-        <translation>Extract Mode:</translation>
-    </message>
-    <message>
-        <source>Delete After Abstract</source>
-        <translation>Delete After Extracting</translation>
-    </message>
-    <message>
-        <source>AddWaterM</source>
-        <translation>Insert Watermark:</translation>
-    </message>
-    <message>
-        <source>OutputDir</source>
-        <translation>Output Dir:</translation>
-    </message>
-    <message>
-        <source>PageExtract</source>
-        <translation>Extract Page</translation>
-    </message>
-    <message>
-        <source>PageRange</source>
-        <translation>Page Range:</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfGuidePopupTipsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source>点击此处显示更多功能。</source>
-        <translation>Click here to show more functions.</translation>
-    </message>
-    <message>
-        <source>我知道了</source>
-        <translation>Got it</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchDlg</name>
-    <message>
-        <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source>Resume Delivery</source>
-        <translation>Resume Delivery</translation>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation>Send your resume to get a desired job from large volume of high-quality third-party occupations.</translation>
-    </message>
-    <message>
-        <source>Delivery</source>
-        <translation>Deliver Now</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfDeleteWaterMarkWarningDialogWidget</name>
-    <message>
-        <source>Hint</source>
-        <translation>Prompt</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Text</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>upgrade VIP</source>
-        <translation>Go Premium</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPrintProgressDialog</name>
-    <message>
-        <source>Hint</source>
-        <translation>Notice</translation>
-    </message>
-    <message>
-        <source>Page</source>
-        <translation>Page</translation>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Rate</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Printing: </source>
-        <translation>Printing: </translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPromptLoginDialogUi</name>
-    <message>
-        <source>Hint</source>
-        <translation>Notice</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Text</translation>
-    </message>
-    <message>
-        <source>Login</source>
-        <translation>Sign in</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>Please log in WPS account.</source>
-        <translation>Please sign in first.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfYesOrNoDialogWidget</name>
-    <message>
-        <source>Hint</source>
-        <translation>Notice</translation>
-    </message>
-    <message>
-        <source>No(N)</source>
-        <translation>&amp;No</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Yes(Y)</source>
-        <translation>&amp;Yes</translation>
-    </message>
-    <message>
-        <source>Save changes to &apos;XXXX&apos; before closing?</source>
-        <translation>Save changes to &apos;X&apos; before closing?</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfReviewHistoryTreeModel</name>
-    <message>
-        <source>None</source>
-        <translation>None</translation>
-    </message>
-    <message>
-        <source>Review history</source>
-        <translation>Review history</translation>
-    </message>
-    <message>
-        <source>Completed</source>
-        <translation>Completed</translation>
-    </message>
-    <message>
-        <source>Cancelled</source>
-        <translation>Canceled</translation>
-    </message>
-    <message>
-        <source>Accepted</source>
-        <translation>Accepted</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation>Rejected</translation>
-    </message>
-</context>
-<context>
-    <name>kxPdfTemplatesPrintDialog</name>
-    <message>
-        <source>choose paper(A4)</source>
-        <translation>Choose Paper (A4)</translation>
-    </message>
-    <message>
-        <source>print</source>
-        <translation>Print</translation>
-    </message>
-    <message>
-        <source>print number</source>
-        <translation>Number of Copies to Print</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>preview</source>
-        <translation>Preview</translation>
-    </message>
-    <message>
-        <source>printer setting</source>
-        <translation>Printer Settings</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPrintAndTempleteDialog</name>
-    <message>
-        <source>Print</source>
-        <translation>Print</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfCompressTipsDialog</name>
-    <message>
-        <source>The Compressed size is %1,decrease %2.</source>
-        <translation>The Compressed size is %1,reduce %2.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfReadingToolboxWidget</name>
-    <message>
-        <source>Close Toolbox</source>
-        <translation>Close Toolbox</translation>
-    </message>
-</context>
-<context>
-    <name>KRightSideToolBarWidget</name>
-    <message>
-        <source>Recommended tools</source>
-        <translation>Recommended tools</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchBtn</name>
-    <message>
-        <source>Resume Delivery</source>
-        <translation>Resume Delivery</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfDocumentCloseTipsDialogUi</name>
-    <message>
-        <source>closeDoc</source>
-        <translation>Document closing</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>Cancel</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfCompressTipsDialogWidget</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfHideBGHelper</name>
-    <message>
-        <source>HidingPageBackGround...</source>
-        <translation>Hiding background...</translation>
-    </message>
-    <message>
-        <source>HidePageBackGround</source>
-        <translation>after login.</translation>
     </message>
 </context>
 </TS>
