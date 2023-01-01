@@ -3,7 +3,7 @@
     <name/>
     <message>
         <source>CAD2PDF.title</source>
-        <translation>CAD na PDF</translation>
+        <translation>CAD do PDF</translation>
     </message>
     <message>
         <source>FitPageSize.content</source>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF na CAD</translation>
+        <translation>Przekonwertuj pliki PDF na pliki CAD (DWG/DWT/DXF itd.)</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Zakrywa obszary, których nie chcesz pokazywać</translation>
+        <translation>Przeciągnij zaznaczenie, aby objąć i usunąć niechcianą zawartość.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -635,7 +635,7 @@
     </message>
     <message>
         <source>PDF2CAD.title</source>
-        <translation>PDF na CAD</translation>
+        <translation>PDF do CAD</translation>
     </message>
     <message>
         <source>PDF2PPT.title</source>
@@ -725,7 +725,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Kopiuj jako obraz</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -1021,7 +1021,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Przechwytuje zawartość ekranu w celu porównania graficznego</translation>
+        <translation>Przekonwertuj zawartość schowka, aby przypiąć ją jako znajdujące się najwyżej okno przestawne</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1313,7 +1313,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Ograniczanie rozmiaru plików PDF</translation>
+        <translation>Zmniejsz rozmiar plików PDF.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1673,7 +1673,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Zrzuty ekranu i porównania</translation>
+        <translation>Wytnij i przypnij</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1790,7 +1790,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Kopiuj bieżące zaznaczenie jako obraz</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>NextPage.title</source>
@@ -1850,7 +1850,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Korektor</translation>
+        <translation>Wytrzyj</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2042,7 +2042,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>kompresja</translation>
+        <translation>Kompresor PDF</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2174,7 +2174,7 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD na PDF</translation>
+        <translation>Przekonwertuj pliki CAD (DWG/DWT/DXF itd.) na pliki PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
