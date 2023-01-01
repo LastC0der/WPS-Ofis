@@ -1582,6 +1582,10 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation type="unfinished"></translation>
+    </message>	
+    <message>
         <source>New Document</source>
         <translation type="unfinished"></translation>
     </message>
