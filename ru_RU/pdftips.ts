@@ -3,7 +3,7 @@
     <name/>
     <message>
         <source>CAD2PDF.title</source>
-        <translation>CAD в PDF</translation>
+        <translation>Из CAD в PDF</translation>
     </message>
     <message>
         <source>FitPageSize.content</source>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF в CAD</translation>
+        <translation>Преобразовать PDF-файлы в файлы CAD (DWG/DWT/DXF и т. п.)</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Закрытие ненужных областей</translation>
+        <translation>Перетащите выделенную область, чтобы скрыть и удалить нежелательное содержимое.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -635,7 +635,7 @@
     </message>
     <message>
         <source>PDF2CAD.title</source>
-        <translation>PDF в CAD</translation>
+        <translation>Из PDF в CAD</translation>
     </message>
     <message>
         <source>PDF2PPT.title</source>
@@ -1021,7 +1021,7 @@
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Наложение содержимого экрана для графического сравнения</translation>
+        <translation>Преобразуйте содержимое в буфер обмена, чтобы закрепить его как самое верхнее плавающее окно изображения</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1313,7 +1313,7 @@
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Уменьшение размера файлов PDF</translation>
+        <translation>Уменьшение размера PDF-файлов.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1673,7 +1673,7 @@
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Снимки экрана и сравнение</translation>
+        <translation>Вырезать и закрепить</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1850,7 +1850,7 @@
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Замазка</translation>
+        <translation>Стереть</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2042,7 +2042,7 @@
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>сжатие</translation>
+        <translation>Средство сжатия PDF-документов</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2174,7 +2174,7 @@
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD в PDF</translation>
+        <translation>Преобразовать файлы CAD (DWG/DWT/DXF и т. д.) в PDF-файлы</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
