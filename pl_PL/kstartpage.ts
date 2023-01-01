@@ -1583,6 +1583,10 @@ Nazwa pliku mogła zostać zmieniona, plik mógł zostać usunięty lub przenies
         <translation>Otwórz</translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation>Team</translation>
+    </message>	
+    <message>
         <source>New Document</source>
         <translation>Nowy</translation>
     </message>
