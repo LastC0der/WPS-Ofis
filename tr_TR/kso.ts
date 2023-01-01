@@ -19373,7 +19373,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengal dili</translation>
     </message>
     <message>
         <source>Armenian</source>
@@ -21711,7 +21711,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengal dili</translation>
     </message>
     <message>
         <source>Armenian</source>
@@ -21974,7 +21974,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengal dili</translation>
     </message>
     <message>
         <source>Armenian</source>
