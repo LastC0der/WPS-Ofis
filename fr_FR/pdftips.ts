@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF vers CAO</translation>
+        <translation>Convertir des fichiers PDF en fichiers CAO (DWG/DWT/DXF, etc.)</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Recouvre les zones dont vous ne voulez pas</translation>
+        <translation>Faites glisser une zone de sélection pour couvrir et effacer le contenu indésirable.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -725,7 +725,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copier en tant qu&apos;image</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -1021,7 +1021,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Intercepte le contenu de l&apos;écran pour effectuer une comparaison graphique</translation>
+        <translation>Convertissez le contenu de votre Presse-papiers pour l&apos;épingler sous la forme d&apos;une fenêtre d&apos;image flottante toujours visible</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1313,7 +1313,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Réduction de la taille des fichiers PDF</translation>
+        <translation>Réduisez la taille des fichiers PDF.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1673,7 +1673,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Captures d&apos;écran et comparaisons</translation>
+        <translation>Capturer et épingler</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1789,7 +1789,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copier la sélection actuelle en tant qu&apos;image</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>NextPage.title</source>
@@ -1849,7 +1849,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Liquide correcteur</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2041,7 +2041,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>compression</translation>
+        <translation>Compresseur de PDF</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2173,7 +2173,7 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAO vers PDF</translation>
+        <translation>Convertir des fichiers CAO (DWG/DWT/DXF, etc.) en fichiers PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
