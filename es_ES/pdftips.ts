@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF a CAD</translation>
+        <translation>Convertir archivos PDF en archivos CAD (DWG/DWT/DXF, etc.)</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Cubre áreas que usted no quiere</translation>
+        <translation>Arrastre un área de selección para cubrir y borrar el contenido no deseado.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -725,7 +725,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copiar como imagen</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -1021,7 +1021,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Intercepta el contenido de la pantalla para la comparación gráfica</translation>
+        <translation>Convierta el contenido del portapapeles para anclarlo como una ventana de imagen flotante superior</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1313,7 +1313,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Reducción del tamaño de los archivos PDF</translation>
+        <translation>Reduzca el tamaño de los archivos PDF.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1673,7 +1673,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Capturas de pantalla y comparativas</translation>
+        <translation>Recortar y anclar</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1790,7 +1790,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copiar la selección actual como una imagen</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>NextPage.title</source>
@@ -1850,7 +1850,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Líquido corrector</translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2042,7 +2042,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>compresión</translation>
+        <translation>Compresor de PDF</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2174,7 +2174,7 @@ Haga clic en la flecha para seleccionar el color.</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD a PDF</translation>
+        <translation>Convertir archivos CAD (DWG/DWT/DXF, etc.) en archivos PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
