@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.title</source>
-        <translation>Rotate an image in a certain angle</translation>
+        <translation>Rotate Image</translation>
     </message>
     <message>
         <source>TranslationSelect.title</source>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF to CAD</translation>
+        <translation>Convert PDF files to CAD files (DWG/DWT/DXF, etc.)</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Covers areas you don&apos;t want</translation>
+        <translation>Drag a selection area to cover and clear unwanted content.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -575,7 +575,7 @@
     </message>
     <message>
         <source>EditPicNewTool_Rotate.content</source>
-        <translation>Rotate an image in a certain angle</translation>
+        <translation>Rotate Image</translation>
     </message>
     <message>
         <source>RandomDraw.title</source>
@@ -725,7 +725,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copy as Image</translation>
+        <translation>Copy Pictures</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -989,7 +989,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>ReplaceBorder.title</source>
-        <translation>Replacement</translation>
+        <translation>Replace text</translation>
     </message>
     <message>
         <source>EditTextToolBarTips.content</source>
@@ -1021,7 +1021,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Intercepts screen content for graphic comparison</translation>
+        <translation>Convert the content in your clipboard to pin it as a topmost floating image window.</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1065,7 +1065,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>StrikeoutBorder.title</source>
-        <translation>Strikethrough</translation>
+        <translation>Strikethrough text</translation>
     </message>
     <message>
         <source>NewImage2Bottom.title</source>
@@ -1157,7 +1157,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>UnderlineBorder.content</source>
-        <translation>Add Underline.</translation>
+        <translation>Select text to underline</translation>
     </message>
     <message>
         <source>AttachmentTip.content</source>
@@ -1197,7 +1197,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>UnderlineBorder.title</source>
-        <translation>Underline</translation>
+        <translation>Underline text</translation>
     </message>
     <message>
         <source>VerificationSignature.title</source>
@@ -1313,7 +1313,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Reducing the size of PDF files</translation>
+        <translation>Reduce the size of PDF Files.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1445,7 +1445,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>ReplaceBorder.content</source>
-        <translation>Add Replacement</translation>
+        <translation>Add note to replace text</translation>
     </message>
     <message>
         <source>DocPermission.title</source>
@@ -1497,7 +1497,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>AddImage.content</source>
-        <translation>Insert picture from local folder.</translation>
+        <translation>Add picture from local folder.</translation>
     </message>
     <message>
         <source>FileCollect.content</source>
@@ -1529,7 +1529,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>InsertBorder.title</source>
-        <translation>Insert</translation>
+        <translation>Insert text</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
@@ -1621,7 +1621,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>InsertBorder.content</source>
-        <translation>Add Insert</translation>
+        <translation>Insert text at cursor</translation>
     </message>
     <message>
         <source>FitVisible.title</source>
@@ -1673,7 +1673,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Screenshots and comparisons</translation>
+        <translation>Snip and Pin</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1790,7 +1790,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copy the current selection as an image</translation>
+        <translation>Copy Pictures</translation>
     </message>
     <message>
         <source>NextPage.title</source>
@@ -1850,7 +1850,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Correction Fluid</translation>
+        <translation>Wipe Off</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2042,7 +2042,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>compression</translation>
+        <translation>PDF Compressor</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2174,11 +2174,11 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD to PDF</translation>
+        <translation>Convert CAD files (DWG/DWT/DXF, etc.) to PDF files</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
-        <translation>Add strikethrough.</translation>
+        <translation>Select text to strikethrough</translation>
     </message>
     <message>
         <source>ScreenGrab.content</source>
