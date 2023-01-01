@@ -31841,7 +31841,7 @@ Boyacısı</translation>
     <name>kdlgExportToPDF</name>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
