@@ -185,42 +185,6 @@
         <source>Question Mark</source>
         <translation>Знак вопроса</translation>
     </message>
-    <message>
-        <source>Open</source>
-        <translation>Открыть</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>Circle</source>
-        <translation>Круг</translation>
-    </message>
-    <message>
-        <source>Square</source>
-        <translation>Вокруг рамки</translation>
-    </message>
-    <message>
-        <source>Rhombus</source>
-        <translation>Ромб</translation>
-    </message>
-    <message>
-        <source>Open(Reverse)</source>
-        <translation>Открыть (обратно)</translation>
-    </message>
-    <message>
-        <source>Vertical Line</source>
-        <translation>Вертикальная линия</translation>
-    </message>
-    <message>
-        <source>Oblique Line</source>
-        <translation>Косая</translation>
-    </message>
-    <message>
-        <source>Close(Reverse)</source>
-        <translation>Закрыть (обратно)</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfWaterMarkDlg</name>
@@ -400,82 +364,6 @@
         <source>eightlines</source>
         <translation>8 строк на страницу</translation>
     </message>
-    <message>
-        <source>bold</source>
-        <translation>полужирный</translation>
-    </message>
-    <message>
-        <source>Transparenc&amp;y:</source>
-        <translation>Прозрачность (&amp;Y):</translation>
-    </message>
-    <message>
-        <source>&amp;File:</source>
-        <translation>Файл (&amp;F):</translation>
-    </message>
-    <message>
-        <source>&amp;Size:</source>
-        <translation>Размер (&amp;S):</translation>
-    </message>
-    <message>
-        <source>Mult Row:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fo&amp;nt:</source>
-        <translation>Шр&amp;ифт:</translation>
-    </message>
-    <message>
-        <source>Te&amp;xt:</source>
-        <translation>Текст (&amp;X):</translation>
-    </message>
-    <message>
-        <source>Hori&amp;zontal:</source>
-        <translation>Горизонтально (&amp;Z):</translation>
-    </message>
-    <message>
-        <source>font color</source>
-        <translation>Цвет</translation>
-    </message>
-    <message>
-        <source>Pres&amp;rve</source>
-        <translation>Сохр&amp;анить параметры</translation>
-    </message>
-    <message>
-        <source>Bro&amp;wse</source>
-        <translation>Обз&amp;ор</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Дополнительно</translation>
-    </message>
-    <message>
-        <source>&amp;Apply:</source>
-        <translation>Применить (&amp;A):</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation>&amp;Удалить</translation>
-    </message>
-    <message>
-        <source>underline</source>
-        <translation>Подчеркивание</translation>
-    </message>
-    <message>
-        <source>Re&amp;lativePageProportion:</source>
-        <translation>От&amp;носительные пропорции страницы:</translation>
-    </message>
-    <message>
-        <source>entire chapter</source>
-        <translation>Вся глава</translation>
-    </message>
-    <message>
-        <source>Ver&amp;tical:</source>
-        <translation>Вертикально (&amp;T):</translation>
-    </message>
-    <message>
-        <source>Watermark&amp;Settings:</source>
-        <translation>Параметры &amp;подложки:</translation>
-    </message>
 </context>
 <context>
     <name>AddCommFolderRoot</name>
@@ -634,7 +522,7 @@
     </message>
     <message>
         <source>Load page effect</source>
-        <translation>Эффект загрузки страницы</translation>
+        <translation>Эффект загрузки страницы:</translation>
     </message>
     <message>
         <source>Doc read options</source>
@@ -1016,7 +904,7 @@
     </message>
     <message>
         <source>&amp;Comfirm</source>
-        <translation>Подтвердить (&amp;C)</translation>
+        <translation>Подтвердить</translation>
     </message>
     <message>
         <source>Have not select file source. Please click browse to select file source</source>
@@ -1045,54 +933,6 @@
     <message>
         <source>There are more than 20. Please delete them and add them later</source>
         <translation>Вы добавили более 20 подложек. Удалите несколько подложек и добавьте еще раз.</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Пользовательский    </translation>
-    </message>
-    <message>
-        <source>Please input name</source>
-        <translation>Введите имя</translation>
-    </message>
-    <message>
-        <source>Sure to delete watermark settings</source>
-        <translation>Действительно хотите удалить параметры подложки?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Watermark Settings 1</source>
-        <translation>Параметры подложки 1</translation>
-    </message>
-    <message>
-        <source>Selected watermark settings does not exist</source>
-        <translation>Выбранный параметр подложки не существует.</translation>
-    </message>
-    <message>
-        <source>Effect1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Effect2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Only %1 watermark settings can be saved at most.</source>
-        <translation>Максимальное количество доступных для сохранения параметров подложки: %1.</translation>
-    </message>
-    <message>
-        <source>already exists, do you want to replace it?</source>
-        <translation>Имя уже существует. Хотите заменить его?</translation>
-    </message>
-    <message>
-        <source>Watermark Settings Name</source>
-        <translation>Название параметров</translation>
     </message>
 </context>
 <context>
@@ -2142,42 +1982,6 @@ The operation is irrevocable</source>
     <message>
         <source>plugin Loading, please try angin.</source>
         <translation>Загрузка инструментов PDF, подождите...</translation>
-    </message>
-    <message>
-        <source>PDFJumpConverWordURL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Whether to save the correction fluid coverage area?</source>
-        <translation>Область, покрытая замазкой, не будет отображаться, сохранение выполнено?</translation>
-    </message>
-    <message>
-        <source>The document is scanned, please edit it after conversion.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot open this file &quot;%s&quot;!</source>
-        <translation>Не удалось открыть файл «%s».</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>Перед извлечением необходимо сохранить текущий документ.</translation>
-    </message>
-    <message>
-        <source>&amp;Open copy</source>
-        <translation>&amp;Открыть копию</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before compressed.</source>
-        <translation>Перед сжатием необходимо сохранить текущий документ.</translation>
-    </message>
-    <message>
-        <source>because the file is not surpported or  damaged.</source>
-        <translation>Файл не поддерживается или поврежден.</translation>
-    </message>
-    <message>
-        <source>The current document need to be saved before print.</source>
-        <translation>Необходимо сохранить текущий документ, прежде чем его можно будет напечатать.</translation>
     </message>
 </context>
 <context>
@@ -3372,14 +3176,6 @@ input 5-9,means extract page 5 to 9</source>
         <source>Ctrl+H or U</source>
         <translation>Ctrl+H/U</translation>
     </message>
-    <message>
-        <source>Roll back the mouse wheel,&apos;-&apos;or Ctrl + &apos;-&apos;</source>
-        <translation>Прокрутка колеса мыши назад, &quot;-&quot; или Ctrl+&quot;-&quot;</translation>
-    </message>
-    <message>
-        <source>Roll forward the mouse wheel,&apos;+&apos;or Ctrl + &apos;+&apos;</source>
-        <translation>Прокрутка колеса мыши вперед, &quot;+&quot; или Ctrl+&quot;+&quot;</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfDownloadV8Dialog</name>
@@ -3767,6 +3563,10 @@ Inserted pages must delete by yourself.</source>
     <message>
         <source>InsertImage is a VIP privilege</source>
         <translation>Вставка изображений — это эксклюзивное преимущество участников WPS</translation>
+    </message>
+    <message>
+        <source>Insert Pages</source>
+        <translation>Вставить страницы</translation>
     </message>
     <message>
         <source>MoreScannerOpt</source>
@@ -4202,18 +4002,6 @@ log in to save changes?</source>
         <source>%1year%2mon%3day</source>
         <translation>%1 год %2 мес %3 день</translation>
     </message>
-    <message>
-        <source>EditText</source>
-        <translation>Изменить текст</translation>
-    </message>
-    <message>
-        <source>EditImg</source>
-        <translation>Редактировать изображение</translation>
-    </message>
-    <message>
-        <source>This location contains the form, whether to fill in the form or not?</source>
-        <translation>Эта позиция содержит форму. Заполнить форму?</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfManualDuplexPrintTipsDialog</name>
@@ -4274,10 +4062,6 @@ log in to save changes?</source>
     <message>
         <source>TextLabel</source>
         <translation>Текстовая подпись</translation>
-    </message>
-    <message>
-        <source>OK(F)</source>
-        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -4769,10 +4553,6 @@ log in to save changes?</source>
         <source>Please enter a valid page range</source>
         <translation>Введите допустимый диапазон страниц</translation>
     </message>
-    <message>
-        <source>Signature apply range</source>
-        <translation>Диапазон применения подписи</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfSignatureDlg</name>
@@ -4997,10 +4777,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>&amp;Comfirm</source>
         <translation>Подтвердить (&amp;C)</translation>
-    </message>
-    <message>
-        <source>Make sure to permanently delete the existing watermark</source>
-        <translation>Удалить эту подложку безвозвратно?</translation>
     </message>
 </context>
 <context>
@@ -5555,6 +5331,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Пунктир</translation>
     </message>
     <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
         <source>FormFillingDate Point</source>
         <translation type="unfinished"/>
     </message>
@@ -5896,7 +5676,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Picture to text</source>
-        <translation>Рисунок в текст</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ReadingMode_View</source>
@@ -6352,11 +6132,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Compress</source>
-        <translation>Сжатие</translation>
+        <translation>Средство сжатия PDF-документов</translation>
     </message>
     <message>
         <source>End Arrow</source>
-        <translation>End</translation>
+        <translation>Конечная стрелка</translation>
     </message>
     <message>
         <source>Page anticlockwise rotation</source>
@@ -6756,7 +6536,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation>Пакетная печать</translation>
+        <translation>Пакетная печать PDF-файлов</translation>
     </message>
     <message>
         <source>FloatFitSize</source>
@@ -6780,7 +6560,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation>Запись и сравнение</translation>
+        <translation>Вырезать и закрепить</translation>
     </message>
     <message>
         <source>InterceptSelectedPage</source>
@@ -7160,7 +6940,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>CorrectionFluid</source>
-        <translation>Замазка</translation>
+        <translation>Стереть</translation>
     </message>
     <message>
         <source>ImageReplace</source>
@@ -7331,7 +7111,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Добавить (&amp;A)</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>This document already contains watermarks.If you choose to add a new watermark, it may overwrite the existing watermark</source>
@@ -7347,7 +7127,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation>Заменить (&amp;R)</translation>
+        <translation>Заменить</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -7360,18 +7140,6 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Add failed! WaterMark apply range does not match the number of document pages</source>
         <translation>Сбой добавления! Диапазон применения подложки не соответствует количеству страниц документа</translation>
-    </message>
-    <message>
-        <source>DO NOT COPY</source>
-        <translation>НЕ КОПИРОВАТЬ</translation>
-    </message>
-    <message>
-        <source>TOP SECRET</source>
-        <translation>СОВЕРШЕННО СЕКРЕТНО</translation>
-    </message>
-    <message>
-        <source>CONFIDENTIAL</source>
-        <translation>СЕКРЕТНО</translation>
     </message>
 </context>
 <context>
@@ -7401,6 +7169,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>FAQ</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Help</source>
@@ -8130,6 +7902,150 @@ COM</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_featuredapp</name>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Захват экрана и OCR</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Восстановление 
+файлов</translation>
+    </message>
+    <message>
+        <source>Screen Recording</source>
+        <translation>Средство записи экрана</translation>
+    </message>
+    <message>
+        <source>PDF2CAD</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation>PDF в PPT</translation>
+    </message>
+    <message>
+        <source>PDFToWord_L</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Скрывать текущее окно при снимке экрана</translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation>Средство сжатия PDF-документов</translation>
+    </message>
+    <message>
+        <source>Photo2PDF</source>
+        <translation>Изображение в PDF</translation>
+    </message>
+    <message>
+        <source>SplitPDF</source>
+        <translation>Разделить PDF</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation>Из CAD в PDF</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>PDFPagesOper</source>
+        <translation>Страницы PDF</translation>
+    </message>
+    <message>
+        <source>PDF2Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation>PDF в Excel</translation>
+    </message>
+    <message>
+        <source>BatchPrint</source>
+        <translation>Пакетная печать PDF-файлов</translation>
+    </message>
+    <message>
+        <source>OtherSpecialFeatures</source>
+        <translation>Дополнительные возможности</translation>
+    </message>
+    <message>
+        <source>MergePDF</source>
+        <translation>Объединить PDF</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Переименовать файлы партиями</translation>
+    </message>
+    <message>
+        <source>File Collect</source>
+        <translation>Сбор файлов</translation>
+    </message>
+    <message>
+        <source>Scan to Mobile</source>
+        <translation>Отсканировать на
+мобильное устройство</translation>
+    </message>
+    <message>
+        <source>Picture to text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_newocr</name>
+    <message>
+        <source>OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I have a suggestion</source>
+        <translation>У меня есть предложение</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Захват экрана и OCR</translation>
+    </message>
+    <message>
+        <source>I like the Ocr, because...</source>
+        <translation>Мне нравятся OCR, потому что...</translation>
+    </message>
+    <message>
+        <source>Recommend to friends</source>
+        <translation>Рекомендовать друзьям</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Скрывать текущее окно при снимке экрана</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the Ocr, because...</source>
+        <translation>Мне не нравится OCR, потому что...</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>FeedBack</source>
+        <translation>Отзывы</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Отзывы</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_file</name>
     <message>
         <source>PPT</source>
@@ -8273,7 +8189,7 @@ COM</translation>
     </message>
     <message>
         <source>BatchPrint</source>
-        <translation>Пакетная печать</translation>
+        <translation>Пакетная печать PDF-файлов</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
@@ -9053,10 +8969,6 @@ COM</translation>
         <source>AddPageNumber</source>
         <translation>Добавить номер страницы</translation>
     </message>
-    <message>
-        <source>Ribbon center alignment</source>
-        <translation>Выравнивание ленты по центру</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfScreenShotNotifyWin</name>
@@ -9202,18 +9114,6 @@ COM</translation>
     <message>
         <source>Show Full Bookmark</source>
         <translation>Показать полное имя закладки</translation>
-    </message>
-    <message>
-        <source>Batch Delete</source>
-        <translation>Групповое удаление</translation>
-    </message>
-    <message>
-        <source>Show Bookmark FullName</source>
-        <translation>Показать полное имя закладки</translation>
-    </message>
-    <message>
-        <source>Insert BookMark</source>
-        <translation>Вставить закладку</translation>
     </message>
 </context>
 <context>
@@ -10340,7 +10240,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>InterceptSelectedArea</source>
-        <translation>Запись и сравнение</translation>
+        <translation>Вырезать и закрепить</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
@@ -10710,18 +10610,6 @@ upgrade to WPS VIP?</source>
         <source>ReplacePageOkBtn</source>
         <translation>Подтвердить замену</translation>
     </message>
-    <message>
-        <source>SourcePage</source>
-        <translation>Исходная страница:</translation>
-    </message>
-    <message>
-        <source>UsePageTipsIcon</source>
-        <translation>Введите 1,3, чтобы заменить исходные страницы, используя страницу 1 и страницу 3. Введите 5-9, чтобы заменить страницы, используя страницы от 5 до 9.</translation>
-    </message>
-    <message>
-        <source>Replaced</source>
-        <translation>Заменить на:</translation>
-    </message>
 </context>
 <context>
     <name>KxPdfScanFileSelectDialog</name>
@@ -10988,32 +10876,6 @@ and then use the page extraction function, there is no need to manually enter th
     <message>
         <source>The output directory is wrong or does not exist!</source>
         <translation>Расположение вывода неверно или не существует.</translation>
-    </message>
-    <message>
-        <source>PDF Extract Page is VIP exclusive privilege</source>
-        <translation>Функция &quot;Извлечение страниц&quot; является преимуществом WPS Premium</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Open File</source>
-        <translation>Открыть файл</translation>
-    </message>
-    <message>
-        <source>please input english comma</source>
-        <translation>Введите латинскую запятую</translation>
-    </message>
-    <message>
-        <source>Open Directory</source>
-        <translation>Открыть каталог</translation>
-    </message>
-    <message>
-        <source>input 1-10,means extract page 1 to 10
-input 1,6, means extract page 1 and 6</source>
-        <translation>&quot;1-10&quot; означает извлечение страниц с 1 по 10
-&quot;1,6&quot; означает извлечение страниц 1 и 6</translation>
     </message>
 </context>
 <context>
@@ -11983,22 +11845,6 @@ Window</source>
         <source>TextEmpty</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>ReportErrorFile</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Ошибка</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>отмена</translation>
-    </message>
-    <message>
-        <source>&amp;ComfirmExtract</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfMainWinConvertGuideWidget</name>
@@ -12278,77 +12124,6 @@ Window</source>
     </message>
 </context>
 <context>
-    <name>KxPdfPremiumGuideDialog</name>
-    <message>
-        <source>Cancel anytime</source>
-        <translation>Можно отменить в любое время</translation>
-    </message>
-    <message>
-        <source>Split Page</source>
-        <translation>Разделение страницы на несколько страниц</translation>
-    </message>
-    <message>
-        <source>(Current feature)</source>
-        <translation>(используется)</translation>
-    </message>
-    <message>
-        <source>Change Fluid</source>
-        <translation>Замазка</translation>
-    </message>
-    <message>
-        <source>Output as image-only PDF</source>
-        <translation>Вывод в формате PDF-файлов, состоящих только из изображений</translation>
-    </message>
-    <message>
-        <source>Crop Page</source>
-        <translation>Обрезать страницу</translation>
-    </message>
-    <message>
-        <source>PDF to Word/Excel/PPT</source>
-        <translation>PDF в Word/Excel/PPT</translation>
-    </message>
-    <message>
-        <source>Picture to PDF</source>
-        <translation>Изображение в PDF</translation>
-    </message>
-    <message>
-        <source>Edit content in PDF</source>
-        <translation>Редактирование текста и изображений в PDF-файлах</translation>
-    </message>
-    <message>
-        <source>Free 7-day trial</source>
-        <translation>7-дневная бесплатная пробная версия</translation>
-    </message>
-    <message>
-        <source>View more</source>
-        <translation>Просмотреть далее</translation>
-    </message>
-    <message>
-        <source>WPS Premium include 51 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor.</source>
-        <translation>WPS Premium включает дополнительные функции (51) для документов, электронных таблиц, презентаций и PDF-редактора WPS.</translation>
-    </message>
-    <message>
-        <source>Add Attachment</source>
-        <translation>Добавить вложение</translation>
-    </message>
-    <message>
-        <source>Signature</source>
-        <translation>Подпись PDF</translation>
-    </message>
-    <message>
-        <source>You are using a premium feature. Try Premium for free to enable this feature and save the changes.</source>
-        <translation>Вы используете платную функцию. Попробуйте использовать WPS Premium бесплатно, чтобы активировать эту функцию и сохранить изменения.</translation>
-    </message>
-    <message>
-        <source>Try All Premium Features</source>
-        <translation>Ознакомьтесь со всеми преимуществами WPS Premium</translation>
-    </message>
-    <message>
-        <source>Manager PDF page</source>
-        <translation>Управление страницами PDF-файла</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfCopyPageExtractPageDialog</name>
     <message>
         <source>IsCopying %1%</source>
@@ -12416,10 +12191,6 @@ Window</source>
         <source>The document is unsigned or signature is unverified unrecognized</source>
         <translation>Этот документ неподписан или подписан непроверенным/нераспознанным</translation>
     </message>
-    <message>
-        <source>Signature</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPdfEditingTipWidget</name>
@@ -12428,12 +12199,20 @@ Window</source>
         <translation>понять больше&gt;</translation>
     </message>
     <message>
+        <source>Unlock 51 premium benefits, including unlimited PDF editing and save without watermark.</source>
+        <translation>Разблокируйте 51 расширенную функцию, в том числе неограниченные возможности редактирования и сохранения файлов PDF без подложки.</translation>
+    </message>
+    <message>
         <source>Editing images, text, and fluid are premium features. Please go premium, or you will not be able to save the edited content.</source>
         <translation>Редактирование изображений и текста, а также замазка — функции премиум-версии. Перейдите на нее, иначе вы не сможете сохранять отредактированное содержимое.</translation>
     </message>
     <message>
         <source>Free trial</source>
         <translation>Бесплатная пробная версия</translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation>Купить сейчас</translation>
     </message>
     <message>
         <source>Unlimited to edit text and image, convert PDF to word, split and merge files.</source>
@@ -13258,6 +13037,10 @@ Window</source>
         <translation>В процентах(&amp;E):</translation>
     </message>
     <message>
+        <source>WPS Office Suite with PDF Editor Free Version - </source>
+        <translation>Стандартная версия набора программ WPS Office: </translation>
+    </message>
+    <message>
         <source>Replace Down</source>
         <translation>Сверху вниз</translation>
     </message>
@@ -13272,14 +13055,6 @@ Window</source>
     <message>
         <source>Replace direction</source>
         <translation>Направление замены</translation>
-    </message>
-    <message>
-        <source>IncludeBookmarks</source>
-        <translation>Включить закладки</translation>
-    </message>
-    <message>
-        <source>EnglishWholeWordsSearch</source>
-        <translation>Глобальный поиск</translation>
     </message>
 </context>
 <context>
@@ -13827,79 +13602,6 @@ Window</source>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_featuredapp</name>
-    <message>
-        <source>Document Fix</source>
-        <translation>Восстановление 
-файлов</translation>
-    </message>
-    <message>
-        <source>Picture to text</source>
-        <translation>Рисунок в текст</translation>
-    </message>
-    <message>
-        <source>Screen Recording</source>
-        <translation>Средство записи экрана</translation>
-    </message>
-    <message>
-        <source>PDF2PPT</source>
-        <translation>PDF в PPT</translation>
-    </message>
-    <message>
-        <source>PDFToWord_L</source>
-        <translation>PDF в Word</translation>
-    </message>
-    <message>
-        <source>Compress</source>
-        <translation>Сжатие</translation>
-    </message>
-    <message>
-        <source>Photo2PDF</source>
-        <translation>Изображение в PDF</translation>
-    </message>
-    <message>
-        <source>SplitPDF</source>
-        <translation>Разделить PDF</translation>
-    </message>
-    <message>
-        <source>PDFPagesOper</source>
-        <translation>Страницы PDF</translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF в Word</translation>
-    </message>
-    <message>
-        <source>PDF2Excel</source>
-        <translation>PDF в Excel</translation>
-    </message>
-    <message>
-        <source>OtherSpecialFeatures</source>
-        <translation>Дополнительные возможности</translation>
-    </message>
-    <message>
-        <source>MergePDF</source>
-        <translation>Объединить PDF</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Автоматическое резервное копирование</translation>
-    </message>
-    <message>
-        <source>File Collect</source>
-        <translation>Сбор файлов</translation>
-    </message>
-    <message>
-        <source>Scan to Mobile</source>
-        <translation>Отсканировать на
-мобильное устройство</translation>
-    </message>
-    <message>
-        <source>PDF2Photo</source>
-        <translation>PDF в фото</translation>
-    </message>
-</context>
-<context>
     <name>KxPdfBubbleGuideWidget</name>
     <message>
         <source>Function move hint</source>
@@ -14098,6 +13800,10 @@ Please batches operations</source>
         <translation>PDF в Excel</translation>
     </message>
     <message>
+        <source>Network Error,Load Failed!</source>
+        <translation>Ошибка сети, не удалось загрузить.</translation>
+    </message>
+    <message>
         <source>To PPT</source>
         <translation>PDF в PPT</translation>
     </message>
@@ -14168,18 +13874,6 @@ Please batches operations</source>
     <message>
         <source>Using PDF %1 member function</source>
         <translation>Вы используете преимущество %1 WPS Premium.</translation>
-    </message>
-    <message>
-        <source>Keep</source>
-        <translation>Сохранить</translation>
-    </message>
-    <message>
-        <source>Do you want to keep your ink annotations?</source>
-        <translation>Сохранить рукописные примечания?</translation>
-    </message>
-    <message>
-        <source>Discard</source>
-        <translation>Отклонить</translation>
     </message>
 </context>
 <context>
@@ -14290,22 +13984,6 @@ Please batches operations</source>
     <message>
         <source>Signed time of signature:</source>
         <translation>Подтвержденное время создания подписи:</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation>Форма</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Текст</translation>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>Нажмите кнопку</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Текстовая подпись</translation>
     </message>
 </context>
 <context>
@@ -14488,6 +14166,37 @@ Please batches operations</source>
     </message>
 </context>
 <context>
+    <name>KxPdfBubbleEditGuideDialog</name>
+    <message>
+        <source>7-day free trial of PDF converting,you can easily convert PDF files to word, excels or ppts</source>
+        <translation>Воспользуйтесь нашей 7-дневной бесплатной пробной версией, чтобы легко и просто конвертировать PDF-файлы в форматы Word, Excel и PPT.</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF to Picture,easily convert PDF files to pictures,keep your files safe and eneditable</source>
+        <translation>Воспользуйтесь нашей 7-дневной бесплатной пробной версией, чтобы легко преобразовать PDF-файлы в изображения и сделать файлы нередактируемыми и безопасными.</translation>
+    </message>
+    <message>
+        <source>Editing PDF for Free</source>
+        <translation>Бесплатное редактирование PDF-файлов</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
+        <translation>7-дневный бесплатный пробный период редактирования PDF-файлов. Можно бесплатно редактировать и сохранять тексты или изображения в PDF-файле.</translation>
+    </message>
+    <message>
+        <source>Try Now</source>
+        <translation>Попробовать сейчас</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Picture for free</source>
+        <translation>Бесплатное преобразование PDF-файлов в изображение</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Office for free</source>
+        <translation>Бесплатное преобразование PDF-файлов в другие форматы</translation>
+    </message>
+</context>
+<context>
     <name>KxPdfCaAddDlgWidget</name>
     <message>
         <source>You can add certificates in two ways:</source>
@@ -14531,10 +14240,6 @@ Please batches operations</source>
     <message>
         <source>Drag adjustment order</source>
         <translation>Перетащите, чтобы изменить порядок</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Пользовательская подложка</translation>
     </message>
 </context>
 <context>
@@ -14957,6 +14662,21 @@ Deleted pages can not be recovered</source>
     </message>
 </context>
 <context>
+    <name>KxPdfSearchNoResultOCRGuide</name>
+    <message>
+        <source>The scanned text in this document cannot be searched. You can use the OCR feature to make your scanned PDF searchable first.</source>
+        <translation>Поиск отсканированного текста в этом документе невозможен. Можно сначала использовать функцию OCR, чтобы сделать отсканированный PDF-файл доступным для поиска.</translation>
+    </message>
+    <message>
+        <source>OCR PDF</source>
+        <translation>PDF OCR</translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t search</source>
+        <translation>Не удалось выполнить поиск</translation>
+    </message>
+</context>
+<context>
     <name>KTaskModeGuideWidget</name>
     <message>
         <source>Open Highlight &amp;&amp; Markup</source>
@@ -14992,26 +14712,6 @@ Deleted pages can not be recovered</source>
     <message>
         <source>Are you sure you want to verify all the signatures?</source>
         <translation> Вы действительно хотите проверить все подписи?</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>ОК</translation>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation>Примечание</translation>
-    </message>
-    <message>
-        <source>Select Kingsoft PDF As Default PDF Handler</source>
-        <translation>Установить WPS PDF в качестве средства чтения PDF по умолчанию</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>No tips</source>
-        <translation>Никогда не показывать</translation>
     </message>
 </context>
 <context>
@@ -15277,30 +14977,6 @@ Deleted pages can not be recovered</source>
     <message>
         <source>Signature attribute</source>
         <translation>Атрибут подписи</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation>Форма</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>Cancle(C)</source>
-        <translation>&amp;Отмена</translation>
-    </message>
-    <message>
-        <source>Attribute signature</source>
-        <translation>Атрибут &amp;подписи</translation>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>Нажмите кнопку</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Текстовая подпись</translation>
     </message>
 </context>
 <context>
@@ -15666,10 +15342,6 @@ Deleted pages can not be recovered</source>
         <source>&amp;ComfirmExtract</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The current document need to be saved before extracted.</source>
-        <translation>Перед извлечением необходимо сохранить текущий документ.</translation>
-    </message>
 </context>
 <context>
     <name>KRbSignature</name>
@@ -15879,7 +15551,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfImmediatelySplitCommand</name>
     <message>
         <source>Split Page is VIP function, please upgrade VIP</source>
-        <translation>Функция &quot;Отдельная страница&quot; доступна для VIP-участников. Зарегистрируйтесь, чтобы получить необходимый статус.</translation>
+        <translation>Функция &quot;Разделение страницы на несколько страниц&quot; доступна для VIP-участников. Зарегистрируйтесь, чтобы получить необходимый статус.</translation>
     </message>
 </context>
 <context>
@@ -15996,14 +15668,6 @@ Deleted pages can not be recovered</source>
     <message>
         <source>Unable to name#%1</source>
         <translation>Не удалось назвать #%1</translation>
-    </message>
-    <message>
-        <source>#</source>
-        <translation>#</translation>
-    </message>
-    <message>
-        <source>.pdf</source>
-        <translation>.pdf</translation>
     </message>
 </context>
 <context>
@@ -16302,6 +15966,13 @@ please sign in to use WPS Office.</source>
     </message>
 </context>
 <context>
+    <name>KxPdfColorCommand</name>
+    <message>
+        <source>Recent Colors</source>
+        <translation>Недавние цвета</translation>
+    </message>
+</context>
+<context>
     <name>KxEbookFontWidget</name>
     <message>
         <source>AutoFont</source>
@@ -16348,747 +16019,6 @@ please sign in to use WPS Office.</source>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
         <translation>не удалось найти папку «%1». Она могла быть удалена, перемещена или переименована.</translation>
-    </message>
-</context>
-<context>
-    <name>kxPdfNewPrintDialog</name>
-    <message>
-        <source>%</source>
-        <translation>%</translation>
-    </message>
-    <message>
-        <source>*</source>
-        <translation>*</translation>
-    </message>
-    <message>
-        <source>/</source>
-        <translation> / </translation>
-    </message>
-    <message>
-        <source>2</source>
-        <translation>2</translation>
-    </message>
-    <message>
-        <source>CM</source>
-        <translation>см</translation>
-    </message>
-    <message>
-        <source>MM</source>
-        <translation>мм</translation>
-    </message>
-    <message>
-        <source>列</source>
-        <translation>Столбец</translation>
-    </message>
-    <message>
-        <source>行</source>
-        <translation>Строку</translation>
-    </message>
-    <message>
-        <source>1000</source>
-        <translation>1000</translation>
-    </message>
-    <message>
-        <source>INCH</source>
-        <translation>дюйм</translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation>Слева</translation>
-    </message>
-    <message>
-        <source>打印机：</source>
-        <translation>Принтер:</translation>
-    </message>
-    <message>
-        <source>more function</source>
-        <translation>Больше параметров</translation>
-    </message>
-    <message>
-        <source>last used printer</source>
-        <translation>Последний использованный принтер</translation>
-    </message>
-    <message>
-        <source>Even pages only</source>
-        <translation>Чётные страницы</translation>
-    </message>
-    <message>
-        <source>PIXEL</source>
-        <translation>пкс</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Печать</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation>Справа</translation>
-    </message>
-    <message>
-        <source>FitPrint</source>
-        <translation>Подогнать для полей печати</translation>
-    </message>
-    <message>
-        <source>InsertWatermarkForCurrentDocument</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ShrinkBigsize</source>
-        <translation>Сжимать страницы превышающие размер</translation>
-    </message>
-    <message>
-        <source>click here to show more function</source>
-        <translation>Щелкните здесь, чтобы отобразить дополнительные функции.</translation>
-    </message>
-    <message>
-        <source>打印边框</source>
-        <translation>Печатать рамку страницы</translation>
-    </message>
-    <message>
-        <source>一张多页</source>
-        <translation>Множитель</translation>
-    </message>
-    <message>
-        <source>页边距（毫米）：</source>
-        <translation>Поля (мм):</translation>
-    </message>
-    <message>
-        <source>printer not available</source>
-        <translation>Принтер недоступен</translation>
-    </message>
-    <message>
-        <source>打印内容:</source>
-        <translation>Печать содержимого:</translation>
-    </message>
-    <message>
-        <source>insertwatermark</source>
-        <translation>Вставить подложку</translation>
-    </message>
-    <message>
-        <source>逆序打印</source>
-        <translation>Обратные страницы</translation>
-    </message>
-    <message>
-        <source>All pages in range</source>
-        <translation>Все страницы</translation>
-    </message>
-    <message>
-        <source>The printer status is abnormal, Please check whether the printer is on and online</source>
-        <translation>Аномальный статус принтера. Убедитесь что принтер включен и подключен к сети</translation>
-    </message>
-    <message>
-        <source>预览：</source>
-        <translation>Просмотр:</translation>
-    </message>
-    <message>
-        <source>printer exception</source>
-        <translation>Исключение принтера</translation>
-    </message>
-    <message>
-        <source>颜色:</source>
-        <translation>Цвет:</translation>
-    </message>
-    <message>
-        <source>OnlyFront</source>
-        <translation>Только передняя сторона</translation>
-    </message>
-    <message>
-        <source>页码选择：</source>
-        <translation>Выберите номер страницы:</translation>
-    </message>
-    <message>
-        <source>隐藏页面背景</source>
-        <translation>Скрыть фон страницы</translation>
-    </message>
-    <message>
-        <source>装订：</source>
-        <translation>Привязка:</translation>
-    </message>
-    <message>
-        <source>LandScape</source>
-        <translation>Альбомная</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-    <message>
-        <source>Manual page turning for double-sided printing</source>
-        <translation>Хотите вручную перевернуть страницу для двусторонней печати?</translation>
-    </message>
-    <message>
-        <source>Only Print Out the Document</source>
-        <translation>Печатать только документ</translation>
-    </message>
-    <message>
-        <source>逐份打印</source>
-        <translation>Сопоставить печать</translation>
-    </message>
-    <message>
-        <source>自定义比例：</source>
-        <translation>Пользовательский масштаб:</translation>
-    </message>
-    <message>
-        <source>当前页面</source>
-        <translation>Текущая страница</translation>
-    </message>
-    <message>
-        <source>当前视图</source>
-        <translation>Текущий вид</translation>
-    </message>
-    <message>
-        <source>页面范围：</source>
-        <translation>Диапазон страниц:</translation>
-    </message>
-    <message>
-        <source>Print out The Notes</source>
-        <translation>Печатать заметки</translation>
-    </message>
-    <message>
-        <source>Odd pages only</source>
-        <translation>Нечётные страницы</translation>
-    </message>
-    <message>
-        <source>Portrait</source>
-        <translation>Книжная</translation>
-    </message>
-    <message>
-        <source>hide function</source>
-        <translation>Скрыть некоторые параметры</translation>
-    </message>
-    <message>
-        <source>Document And Notes</source>
-        <translation>Документы и заметки</translation>
-    </message>
-    <message>
-        <source>i got it</source>
-        <translation>Все ясно</translation>
-    </message>
-    <message>
-        <source>纸张：</source>
-        <translation>Бумага:</translation>
-    </message>
-    <message>
-        <source>WPS advance printer</source>
-        <translation>Расширенный принтер WPS</translation>
-    </message>
-    <message>
-        <source>方向：</source>
-        <translation>Направление:</translation>
-    </message>
-    <message>
-        <source>should not be smaller than</source>
-        <translation>Поля страницы не могут быть меньше</translation>
-    </message>
-    <message>
-        <source>打印方式：</source>
-        <translation>Метод печати:</translation>
-    </message>
-    <message>
-        <source>奇偶页面：</source>
-        <translation>Четные или нечетные страницы:</translation>
-    </message>
-    <message>
-        <source>隐藏部分设置</source>
-        <translation>Параметры скрытой части</translation>
-    </message>
-    <message>
-        <source>RawSize</source>
-        <translation>Фактический размер</translation>
-    </message>
-    <message>
-        <source>GrayColor</source>
-        <translation>Оттенки серого</translation>
-    </message>
-    <message>
-        <source>使用双面打印</source>
-        <translation>Использовать двустороннюю печать</translation>
-    </message>
-    <message>
-        <source>长边翻转</source>
-        <translation>Отразить по длинному краю</translation>
-    </message>
-    <message>
-        <source>DoubleSide</source>
-        <translation>Обе стороны</translation>
-    </message>
-    <message>
-        <source>页面设置：</source>
-        <translation>Параметры страницы:</translation>
-    </message>
-    <message>
-        <source>小册子子集：</source>
-        <translation>Подмножество буклета:</translation>
-    </message>
-    <message>
-        <source>内容设置：</source>
-        <translation>Параметры содержимого:</translation>
-    </message>
-    <message>
-        <source>短边翻转</source>
-        <translation>Отразить по короткому краю</translation>
-    </message>
-    <message>
-        <source>out of print range</source>
-        <translation>Вне диапазона печати</translation>
-    </message>
-    <message>
-        <source>Property</source>
-        <translation>Свойство</translation>
-    </message>
-    <message>
-        <source>自动旋转</source>
-        <translation>Автоматическая книжная/альбомная ориентация</translation>
-    </message>
-    <message>
-        <source>自动居中</source>
-        <translation>Автоматически по центру</translation>
-    </message>
-    <message>
-        <source>Custom...</source>
-        <translation>Выбор...</translation>
-    </message>
-    <message>
-        <source>所有页面</source>
-        <translation>Все страницы</translation>
-    </message>
-    <message>
-        <source>default printer</source>
-        <translation>Принтер по умолчанию</translation>
-    </message>
-    <message>
-        <source>The printer encountered an error, Please check if the printer is on and online</source>
-        <translation>На этом принтере произошла ошибка. Убедитесь что принтер включен и подключен к сети</translation>
-    </message>
-    <message>
-        <source>份数：</source>
-        <translation>Количество копий:</translation>
-    </message>
-    <message>
-        <source>no printer detected</source>
-        <translation>Принтер не обнаружен</translation>
-    </message>
-    <message>
-        <source>Only Print Out the form</source>
-        <translation>Печатать только форму</translation>
-    </message>
-    <message>
-        <source>页边距设置提示</source>
-        <translation>Поля</translation>
-    </message>
-    <message>
-        <source>记住以下设置</source>
-        <translation>Сохранить следующие параметры</translation>
-    </message>
-    <message>
-        <source>system printing service exception</source>
-        <translation>Исключение в системной службе печати</translation>
-    </message>
-    <message>
-        <source>页面顺序：</source>
-        <translation>Порядок страниц:</translation>
-    </message>
-    <message>
-        <source>OnlyBehind</source>
-        <translation>Только задняя сторона</translation>
-    </message>
-    <message>
-        <source>小册子</source>
-        <translation>Буклет</translation>
-    </message>
-    <message>
-        <source>每张页数：</source>
-        <translation>Страниц на лист:</translation>
-    </message>
-    <message>
-        <source>Enter page numbers and/or page ranges separated by commas. 
-For example, 1,3,5-12.</source>
-        <translation>Введите номера страниц и диапазоны страниц через запятую. 
-Например, 1,3,5-12.</translation>
-    </message>
-    <message>
-        <source>CheckBox</source>
-        <translation>Флажок</translation>
-    </message>
-    <message>
-        <source>右：</source>
-        <translation>Правое поле:</translation>
-    </message>
-    <message>
-        <source>打印</source>
-        <translation>Печать</translation>
-    </message>
-    <message>
-        <source>Try checking print on both sides,convenient and quick</source>
-        <translation>Попробуйте выбрать параметр &quot;Печать с двух сторон&quot;. Это быстро и удобно</translation>
-    </message>
-    <message>
-        <source>上：</source>
-        <translation>Верхнее поле:</translation>
-    </message>
-    <message>
-        <source>下：</source>
-        <translation>Нижнее поле:</translation>
-    </message>
-    <message>
-        <source>左：</source>
-        <translation>Левое поле:</translation>
-    </message>
-    <message>
-        <source>Please enter a valid page range</source>
-        <translation>Введите допустимый диапазон страниц</translation>
-    </message>
-    <message>
-        <source>页面大小</source>
-        <translation>Размер</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfMessageDialogBaseUI</name>
-    <message>
-        <source>OK</source>
-        <translation>ОК</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation>Нет</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-    <message>
-        <source>CheckBox</source>
-        <translation>Флажок</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfOrgPageErrorDialogUi</name>
-    <message>
-        <source>OK</source>
-        <translation>ОК</translation>
-    </message>
-    <message>
-        <source>Hint</source>
-        <translation>Подсказка</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Примечание</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchTool</name>
-    <message>
-        <source>Exit</source>
-        <translation>Выход</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Скрыть</translation>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfExtractPageDialogWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Форма</translation>
-    </message>
-    <message>
-        <source>Page</source>
-        <translation>Страница</translation>
-    </message>
-    <message>
-        <source>ExMode</source>
-        <translation>Режим извлечения:</translation>
-    </message>
-    <message>
-        <source>Delete After Abstract</source>
-        <translation>Удалить после извлечения</translation>
-    </message>
-    <message>
-        <source>AddWaterM</source>
-        <translation>Вставить подложку:</translation>
-    </message>
-    <message>
-        <source>OutputDir</source>
-        <translation>Выходной каталог:</translation>
-    </message>
-    <message>
-        <source>PageExtract</source>
-        <translation>Извлечь страницу</translation>
-    </message>
-    <message>
-        <source>PageRange</source>
-        <translation>Диапазон страниц:</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfGuidePopupTipsWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Форма</translation>
-    </message>
-    <message>
-        <source>点击此处显示更多功能。</source>
-        <translation>Щелкните здесь, чтобы отобразить дополнительные функции.</translation>
-    </message>
-    <message>
-        <source>我知道了</source>
-        <translation>Все ясно</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchDlg</name>
-    <message>
-        <source>Form</source>
-        <translation>Форма</translation>
-    </message>
-    <message>
-        <source>Resume Delivery</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>high-quality resources, come and deliver!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delivery</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfDeleteWaterMarkWarningDialogWidget</name>
-    <message>
-        <source>Hint</source>
-        <translation>Подсказка</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Текст</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-    <message>
-        <source>upgrade VIP</source>
-        <translation>Получить статус Premium</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPrintProgressDialog</name>
-    <message>
-        <source>Hint</source>
-        <translation>Примечание</translation>
-    </message>
-    <message>
-        <source>Page</source>
-        <translation>Страница</translation>
-    </message>
-    <message>
-        <source>Rate</source>
-        <translation>Ставка</translation>
-    </message>
-    <message>
-        <source>Cancle</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Printing: </source>
-        <translation>Печать: </translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPromptLoginDialogUi</name>
-    <message>
-        <source>Hint</source>
-        <translation>Примечание</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation>Текст</translation>
-    </message>
-    <message>
-        <source>Login</source>
-        <translation>Вход</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-    <message>
-        <source>Please log in WPS account.</source>
-        <translation>Сначала необходимо войти в систему.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfYesOrNoDialogWidget</name>
-    <message>
-        <source>Hint</source>
-        <translation>Примечание</translation>
-    </message>
-    <message>
-        <source>No(N)</source>
-        <translation>Нет(N)</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Yes(Y)</source>
-        <translation>Да(Y)</translation>
-    </message>
-    <message>
-        <source>Save changes to &apos;XXXX&apos; before closing?</source>
-        <translation>Сохранить изменения в «X» перед закрытием?</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfReviewHistoryTreeModel</name>
-    <message>
-        <source>None</source>
-        <translation>Нет</translation>
-    </message>
-    <message>
-        <source>Review history</source>
-        <translation>Журнал рецензирования</translation>
-    </message>
-    <message>
-        <source>Completed</source>
-        <translation>Завершено</translation>
-    </message>
-    <message>
-        <source>Cancelled</source>
-        <translation>Отменено</translation>
-    </message>
-    <message>
-        <source>Accepted</source>
-        <translation>Принято</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation>Отклонено</translation>
-    </message>
-</context>
-<context>
-    <name>kxPdfTemplatesPrintDialog</name>
-    <message>
-        <source>choose paper(A4)</source>
-        <translation>Выберите бумагу (A4)</translation>
-    </message>
-    <message>
-        <source>print</source>
-        <translation>Печать</translation>
-    </message>
-    <message>
-        <source>print number</source>
-        <translation>Количество копий, которое необходимо напечатать</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>отмена</translation>
-    </message>
-    <message>
-        <source>preview</source>
-        <translation>Просмотр</translation>
-    </message>
-    <message>
-        <source>printer setting</source>
-        <translation>Параметры принтера</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPrintAndTempleteDialog</name>
-    <message>
-        <source>Print</source>
-        <translation>Печать</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfCompressTipsDialog</name>
-    <message>
-        <source>The Compressed size is %1,decrease %2.</source>
-        <translation>Размер после сжатия %1, сокращено %2.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfReadingToolboxWidget</name>
-    <message>
-        <source>Close Toolbox</source>
-        <translation>Закрыть панель инструментов</translation>
-    </message>
-</context>
-<context>
-    <name>KRightSideToolBarWidget</name>
-    <message>
-        <source>Recommended tools</source>
-        <translation>Рекомендованные инструменты</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfPostMatchBtn</name>
-    <message>
-        <source>Resume Delivery</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KxPdfDocumentCloseTipsDialogUi</name>
-    <message>
-        <source>closeDoc</source>
-        <translation>Закрытие документа</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-    <message>
-        <source>cancel</source>
-        <translation>отмена</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfCompressTipsDialogWidget</name>
-    <message>
-        <source>Dialog</source>
-        <translation>Диалоговое окно</translation>
-    </message>
-</context>
-<context>
-    <name>KxPdfHideBGHelper</name>
-    <message>
-        <source>HidingPageBackGround...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>HidePageBackGround</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
