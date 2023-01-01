@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF em CAD</translation>
+        <translation>Converter ficheiros PDF em ficheiros CAD (DWG/DWT/DXF, etc.)</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Cobre as áreas não pretendidas</translation>
+        <translation>Arraste uma área de seleção para tapar e limpar conteúdo não pretendido.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -725,7 +725,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Copiar como imagem</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -1021,7 +1021,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Interceta conteúdo do ecrã para comparação gráfica</translation>
+        <translation>Converta o conteúdo na área de transferência para o afixar como uma janela de imagem flutuante superior</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1313,7 +1313,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Reduzir tamanho de ficheiros PDF</translation>
+        <translation>Reduza o tamanho de ficheiros PDF.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1673,7 +1673,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Capturas de ecrã e comparações</translation>
+        <translation>Recortar e afixar</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1790,7 +1790,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Copiar a seleção atual como uma imagem</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>NextPage.title</source>
@@ -1850,7 +1850,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Corretor Líquido</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2042,7 +2042,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>compressão</translation>
+        <translation>Compressor de ficheiros PDF</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2174,7 +2174,7 @@ Clicar na seta para selecionar a cor.</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD em PDF</translation>
+        <translation>Converter ficheiros CAD (DWG/DWT/DXF, etc.) em ficheiros PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
