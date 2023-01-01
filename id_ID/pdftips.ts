@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF ke CAD</translation>
+        <translation>Konversi file PDF ke file CAD (DWG/DWT/DXF, dll.)</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Mencakup area yang tidak Anda inginkan</translation>
+        <translation>Seret area pemilihan untuk menutup dan menghapus isi yang tak diinginkan.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -725,7 +725,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.title</source>
-        <translation>Salin sebagai Gambar</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>PdfImageExitEdit.content</source>
@@ -1021,7 +1021,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Menahan konten layar untuk perbandingan grafik</translation>
+        <translation>Ubah konten di clipboard Anda untuk disematkan sebagai jendela gambar terapung paling atas</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1313,7 +1313,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Mengurangi ukuran file PDF</translation>
+        <translation>Mengurangi ukuran File PDF.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1673,7 +1673,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Tangkapan layar dan perbandingan</translation>
+        <translation>Potong dan Sematkan</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1790,7 +1790,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>OcrExtractTextCopyPic.content</source>
-        <translation>Salin pilihan saat ini sebagai gambar</translation>
+        <translation>Copy Images</translation>
     </message>
     <message>
         <source>NextPage.title</source>
@@ -1850,7 +1850,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Cairan Koreksi</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2042,7 +2042,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>pemadatan</translation>
+        <translation>Kompresor PDF</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2174,7 +2174,7 @@ Klik panah untuk memilih warna.</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD ke PDF</translation>
+        <translation>Konversi file CAD (DWG/DWT/DXF, dll.) ke file PDF</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
