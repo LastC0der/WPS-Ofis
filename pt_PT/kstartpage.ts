@@ -1583,6 +1583,10 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
         <translation>Abrir</translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation>Team</translation>
+    </message>	
+    <message>
         <source>New Document</source>
         <translation>Novo</translation>
     </message>
