@@ -1583,6 +1583,10 @@ The file may have been renamed, deleted or moved.</translation>
         <translation>Open</translation>
     </message>
     <message>
+        <source>Team</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>New Document</source>
         <translation>New</translation>
     </message>
