@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>PDF2CAD.content</source>
-        <translation>PDF in CAD</translation>
+        <translation>PDF-Dateien in CAD-Dateien (DWG/DWT/DXF usw.) konvertieren</translation>
     </message>
     <message>
         <source>LastPage.content</source>
@@ -491,7 +491,7 @@
     </message>
     <message>
         <source>CorrectionFluid.content</source>
-        <translation>Deckt Bereiche ab, die Sie nicht möchten</translation>
+        <translation>Ziehen Sie einen Auswahlbereich, um unerwünschte Inhalte abzudecken und zu löschen.</translation>
     </message>
     <message>
         <source>FloatNavigationBar2.content</source>
@@ -1021,7 +1021,7 @@ Klicken Sie auf den Pfeil, um eine Farbe auszuwählen.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.content</source>
-        <translation>Fängt Bildschirminhalte für den grafischen Vergleich ab</translation>
+        <translation>Konvertieren Sie den Inhalt Ihrer Zwischenablage, um ihn als unverankertes Bildfenster ganz oben anzuheften</translation>
     </message>
     <message>
         <source>PDFEditContent.title</source>
@@ -1313,7 +1313,7 @@ Klicken Sie auf den Pfeil, um eine Farbe auszuwählen.</translation>
     </message>
     <message>
         <source>CompressTips.content</source>
-        <translation>Größe der PDF-Dateien wird reduziert</translation>
+        <translation>Reduzieren Sie die Größe der PDF-Dateien.</translation>
     </message>
     <message>
         <source>IndentFisrtLine.content</source>
@@ -1673,7 +1673,7 @@ Klicken Sie auf den Pfeil, um eine Farbe auszuwählen.</translation>
     </message>
     <message>
         <source>InterceptSelectedArea.title</source>
-        <translation>Screenshots und Vergleiche</translation>
+        <translation>Ausschneiden und anheften</translation>
     </message>
     <message>
         <source>Polygon.content</source>
@@ -1850,7 +1850,7 @@ Klicken Sie auf den Pfeil, um eine Farbe auszuwählen.</translation>
     </message>
     <message>
         <source>CorrectionFluid.title</source>
-        <translation>Korrekturflüssigkeit</translation>
+        <translation>Wegwischen</translation>
     </message>
     <message>
         <source>CombinePDFTips.content</source>
@@ -2042,7 +2042,7 @@ Klicken Sie auf den Pfeil, um eine Farbe auszuwählen.</translation>
     </message>
     <message>
         <source>CompressTips.title</source>
-        <translation>Komprimierung</translation>
+        <translation>PDF-Komprimierer</translation>
     </message>
     <message>
         <source>NavigateForward.content</source>
@@ -2174,7 +2174,7 @@ Klicken Sie auf den Pfeil, um eine Farbe auszuwählen.</translation>
     </message>
     <message>
         <source>CAD2PDF.content</source>
-        <translation>CAD in PDF</translation>
+        <translation>CAD-Dateien (DWG/DWT/DXF usw.) in PDF-Dateien konvertieren</translation>
     </message>
     <message>
         <source>StrikeoutBorder.content</source>
