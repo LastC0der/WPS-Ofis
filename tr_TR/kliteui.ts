@@ -1049,7 +1049,7 @@ please wait</source>
     </message>
     <message>
         <source>Backgroundg</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan</translation>
     </message>
 </context>
 <context>
@@ -1142,7 +1142,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     <name>KAppLoadWindow</name>
     <message>
         <source>Load failed</source>
-        <translation type="unfinished"/>
+        <translation>Okuma başarısız oldu</translation>
     </message>
     <message>
         <source>Loading %1, please wait</source>
