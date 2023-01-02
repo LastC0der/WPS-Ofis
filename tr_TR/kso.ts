@@ -27226,15 +27226,15 @@ Ortalama</translation>
     </message>
     <message>
         <source>The document has password.</source>
-        <translation type="unfinished"/>
+        <translation>Belge parola korumalıdır</translation>
     </message>
     <message>
         <source>This file format is not supported at this time.</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya biçimi şu anda desteklenmiyor.</translation>
     </message>
     <message>
         <source>The document need to be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Belgenin kaydedilmesi gerekiyor.</translation>
     </message>
 </context>
 <context>
