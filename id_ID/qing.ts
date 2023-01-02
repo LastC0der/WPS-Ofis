@@ -809,10 +809,6 @@ Pilih nama file lain.</translation>
         <source>After the synchronization is cancelled, the folder will no longer be synchronized locally. You can open the WPS network disk to continue to access the cloud files</source>
         <translation>Setelah penyinkronan dibatalkan, folder tidak akan lagi disinkronkan ke jalur lokal. Anda dapat membuka disk jaringan WPS untuk lanjut mengakses file di Cloud.</translation>
     </message>
-    <message>
-        <source>WPS Cloud</source>
-        <translation>WPS Cloud</translation>
-    </message>
 </context>
 <context>
     <name>KCloudDiskGuideWidget</name>
@@ -1040,21 +1036,6 @@ Anda yakin ingin mengubahnya?</translation>
     <message>
         <source>Unable to get the file list. Please check the network connection and try again.</source>
         <translation>Tidak bisa mengambil daftar file. Silakan cek koneksi jaringan dan coba lagi.</translation>
-    </message>
-</context>
-<context>
-    <name>KSmartSyncPreSaleTipDlg</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Prompt</source>
-        <translation>Perintah</translation>
-    </message>
-    <message>
-        <source>Did not purchase the network disk file automatic update service, please contact the enterprise administrator or consult %1WPS customer service%2</source>
-        <translation>Anda belum membeli layanan pembaruan otomatis untuk file Penyimpanan Cloud. Untuk informasi lebih lanjut, hubungi administrator perusahaan atau konsultasikan dengan %1Layanan Pelanggan WPS%2.</translation>
     </message>
 </context>
 <context>
@@ -1606,10 +1587,6 @@ Anda yakin ingin mengubahnya?</translation>
         <translation>Hari ini %1</translation>
     </message>
     <message>
-        <source>Desktop cloud synchronization is on, the folder has beensynchronized, no need to add repeatedly</source>
-        <translation>Sinkronisasi Cloud desktop aktif. Folder telah disinkronkan. Jangan tambahkan berkali-kali.</translation>
-    </message>
-    <message>
         <source>These files will be moved to the system recycle bin. Under Windows 7, if there is insufficient space in the recycle bin, some files will be completely deleted</source>
         <translation>File-file ini akan dihapus ke tempat sampah sistem. Dalam Windows 7, jika tidak cukup ruang dalam tempat sampah, sejumlah file akan dihapus selamanya.</translation>
     </message>
@@ -1828,7 +1805,7 @@ Anda yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>Upload failed. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation type="unfinished"/>
+        <translation>Pengunggahan gagal. Klik &apos;Coba Lagi&apos; untuk mencoba kembali.</translation>
     </message>
     <message>
         <source>Network Error</source>
@@ -1859,10 +1836,6 @@ Anda yakin ingin mengubahnya?</translation>
         <translation>kesalahan qiniu tak dikenal</translation>
     </message>
     <message>
-        <source>The mobile hard disk is not supported to be set to synchronization directory, please select again</source>
-        <translation>Hard disk seluler tidak dapat diatur sebagai direktori sinkronisasi. Silakan pilih lagi.</translation>
-    </message>
-    <message>
         <source>Transdetail</source>
         <translation type="unfinished"/>
     </message>
@@ -1881,6 +1854,10 @@ Anda yakin ingin mengubahnya?</translation>
     <message>
         <source>file is renamed on server but failed to be renamed on local disk</source>
         <translation>file diganti namanya di server tetapi gagal diganti namanya di disk lokal</translation>
+    </message>
+    <message>
+        <source>No internet connection. Upload interrupted.</source>
+        <translation>Tidak ada koneksi internet. Pengunggahan terhenti.</translation>
     </message>
     <message>
         <source>Network error.</source>
@@ -1947,16 +1924,16 @@ Anda yakin ingin mengubahnya?</translation>
         <translation>Pengunggahan selesai. Silakan cek di tab Selesai.</translation>
     </message>
     <message>
-        <source>The maximum synchronized folders supported are %1, currently.</source>
-        <translation>Anda dapat menambahkan hingga %1 folder sinkronisasi.</translation>
-    </message>
-    <message>
         <source>The folder has been Shared. Please unshare the folder and try again</source>
         <translation>Folder ini telah dibagikan. Batalkan pembagian folder dan coba lagi.</translation>
     </message>
     <message>
         <source>Check data failed</source>
         <translation>Cek data gagal</translation>
+    </message>
+    <message>
+        <source>No internet connection. Download interrupted.</source>
+        <translation>Tidak ada koneksi internet. Pengunduhan terhenti.</translation>
     </message>
     <message>
         <source>Custom Teams</source>
@@ -2069,10 +2046,6 @@ Anda yakin ingin mengubahnya?</translation>
     <message>
         <source>Upload failed.You do not have permission to save the file to this directory</source>
         <translation>Pengunggahan gagal. Anda tidak memiliki izin untuk menyimpan file ke direktori ini</translation>
-    </message>
-    <message>
-        <source>This folder is included in the sync folder, please select again</source>
-        <translation>Folder ini tercakup dalam folder sinkronisasi. Silakan pilih lagi.</translation>
     </message>
     <message>
         <source>Task empty</source>
@@ -2549,32 +2522,6 @@ Anda yakin ingin mengubahnya?</translation>
     </message>
 </context>
 <context>
-    <name>KMacCancelSyncFolderWidget</name>
-    <message>
-        <source>Ok</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-</context>
-<context>
-    <name>KMacFileSyncFailWidget</name>
-    <message>
-        <source>Ok</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Failed</source>
-        <translation>Gagal</translation>
-    </message>
-    <message>
-        <source>feedback</source>
-        <translation>Masukan</translation>
-    </message>
-</context>
-<context>
     <name>KMigrateFileBubble</name>
     <message>
         <source>Ok</source>
@@ -2728,6 +2675,37 @@ Anda yakin ingin mengubahnya?</translation>
     </message>
 </context>
 <context>
+    <name>KRadarBackupLimitBubble</name>
+    <message>
+        <source>QQ</source>
+        <translation>QQ</translation>
+    </message>
+    <message>
+        <source> and so on %1 files</source>
+        <translation> dan %1 file</translation>
+    </message>
+    <message>
+        <source>View detail</source>
+        <translation>Lihat Detail</translation>
+    </message>
+    <message>
+        <source>Come from %1</source>
+        <translation>dari %1</translation>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation>Dokumen</translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation>Desktop</translation>
+    </message>
+    <message>
+        <source>Over 1GB</source>
+        <translation>Lebih dari 1 GB</translation>
+    </message>
+</context>
+<context>
     <name>KUploadLimitBubble</name>
     <message>
         <source>QQ</source>
@@ -2827,14 +2805,6 @@ Anda yakin ingin mengubahnya?</translation>
     <message>
         <source>last modify time : </source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>setting</source>
-        <translation>Pengaturan</translation>
-    </message>
-    <message>
-        <source>Recommend</source>
-        <translation>Rekomendasi</translation>
     </message>
 </context>
 <context>
@@ -4272,6 +4242,10 @@ Cek jalur dan nama file.</translation>
         <translation>periode keanggotaan: Kurang dari</translation>
     </message>
     <message>
+        <source>Upgrade membership and enjoy 130+ special zones</source>
+        <translation>Tingkatkan ke Premium untuk menikmati lebih dari 70 hak akses {130+?}</translation>
+    </message>
+    <message>
         <source>membership period: Remaining</source>
         <translation>periode keanggotaan: Sisa</translation>
     </message>
@@ -4645,38 +4619,6 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>&amp;Ignored</source>
         <translation>Diabaikan (&amp;D)</translation>
-    </message>
-    <message>
-        <source>View failed tasks</source>
-        <translation>Lihat tugas yang gagal</translation>
-    </message>
-    <message>
-        <source>Uploaded file version conflict</source>
-        <translation>Versi file terunggah bermasalah</translation>
-    </message>
-    <message>
-        <source>File upload error</source>
-        <translation>Kesalahan pengunggahan file</translation>
-    </message>
-    <message>
-        <source>File upload completed</source>
-        <translation>Pengunggahan file selesai</translation>
-    </message>
-    <message>
-        <source>Detail</source>
-        <translation>Detail</translation>
-    </message>
-    <message>
-        <source>Uploading files</source>
-        <translation>Mengunggah file</translation>
-    </message>
-    <message>
-        <source>Browse historical versions</source>
-        <translation>Telusuri versi historis</translation>
-    </message>
-    <message>
-        <source>File upload succeeded</source>
-        <translation>Pengunggahan file berhasil</translation>
     </message>
 </context>
 <context>
@@ -5543,13 +5485,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
 </context>
 <context>
-    <name>KTrayMiddleWidget</name>
-    <message>
-        <source>Tool</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KTotalDetailItem</name>
     <message>
         <source>Tray</source>
@@ -5695,53 +5630,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <message>
         <source>View</source>
         <translation>Lihat</translation>
-    </message>
-</context>
-<context>
-    <name>KTrayTopItem</name>
-    <message>
-        <source>View</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clean up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Downloading</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Uploading</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Paused</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complete</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>My Cloud Document</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cloud Sync</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Upgrade</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cloud Space:%1/%2</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7552,21 +7440,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
 </context>
 <context>
-    <name>KMacSyncFolderWidget</name>
-    <message>
-        <source>Sync now</source>
-        <translation>Sinkronkan sekarang</translation>
-    </message>
-    <message>
-        <source>Change</source>
-        <translation>Ubah</translation>
-    </message>
-    <message>
-        <source>Upgrade VIP</source>
-        <translation>Tingkatkan VIP</translation>
-    </message>
-</context>
-<context>
     <name>KSyncFolderCloudWidget</name>
     <message>
         <source>Sync now</source>
@@ -7792,25 +7665,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <message>
         <source>Restore down</source>
         <translation>Memulihkan balik</translation>
-    </message>
-</context>
-<context>
-    <name>KMacSameFolderDialog</name>
-    <message>
-        <source>Cloud</source>
-        <translation>Awan</translation>
-    </message>
-    <message>
-        <source>local</source>
-        <translation>Perangkat saat ini</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>My cloud documents</source>
-        <translation>Dokumen Cloud Saya</translation>
     </message>
 </context>
 <context>
@@ -8178,6 +8032,33 @@ hingga
     </message>
 </context>
 <context>
+    <name>afterlogin::topcactivity::KFissionActivityToastWidget</name>
+    <message>
+        <source>Sorry</source>
+        <translation>Maaf</translation>
+    </message>
+    <message>
+        <source>You do not have permission to receive rewards</source>
+        <translation>Anda tidak memenuhi syarat untuk menerima hadiah ini.</translation>
+    </message>
+    <message>
+        <source>30-day Premium has been successfully credited to your account!</source>
+        <translation>30 hari WPS Premium telah ditambahkan ke akun Anda.</translation>
+    </message>
+    <message>
+        <source>Get more Days</source>
+        <translation>Dapatkan Lainnya</translation>
+    </message>
+    <message>
+        <source>Congratulations!</source>
+        <translation>Selamat!</translation>
+    </message>
+    <message>
+        <source>Get Again</source>
+        <translation>Ambil Lagi</translation>
+    </message>
+</context>
+<context>
     <name>KCustomCachePathInvalidDlg</name>
     <message>
         <source>Reinstall</source>
@@ -8286,12 +8167,12 @@ hingga
         <translation>Jumlah folder sinkronisasi melebihi limit.</translation>
     </message>
     <message>
-        <source>Batch download/export is WPS membership function</source>
-        <translation>Unduh/Perbarui Semua adalah fitur Premium.</translation>
+        <source>I got it</source>
+        <translation>Mengerti</translation>
     </message>
     <message>
-        <source>1 synchronization folder has been set up, and Svip can set up 5 synchronization folders</source>
-        <translation>1 folder sinkronisasi telah dibuat. Pengguna super Premium dapat membuat maksimal hingga 5 folder sinkronisasi.</translation>
+        <source>Batch download/export is WPS membership function</source>
+        <translation>Unduh/Perbarui Semua adalah fitur Premium.</translation>
     </message>
     <message>
         <source>Full text search is a svip feature</source>
@@ -9977,49 +9858,11 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
 </context>
 <context>
-    <name>QApplication</name>
-    <message>
-        <source>Activates the program&apos;s main window</source>
-        <translation>Mengaktifkan jendela utama program</translation>
-    </message>
-    <message>
-        <source>QT_LAYOUT_DIRECTION</source>
-        <translation>QT_LAYOUT_DIRECTION</translation>
-    </message>
-    <message>
-        <source>Activate</source>
-        <translation>Aktivasi</translation>
-    </message>
-    <message>
-        <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
-        <translation>&apos;%1&apos; yang dapat dieksekusi memerlukan Qt %2, menemukan Qt %3.</translation>
-    </message>
-    <message>
-        <source>Incompatible Qt Library Error</source>
-        <translation>Kesalahan Pustaka Qt Tidak Kompatibel</translation>
-    </message>
-</context>
-<context>
-    <name>KAutoSyncLimitBubble</name>
-    <message>
-        <source>Upgrade SVIP, get privileges.</source>
-        <translation>Tingkatkan ke Super Premium untuk mendapatkan hak akses dan fitur lainnya.</translation>
-    </message>
-    <message>
-        <source>Intelligent updates can get more setting and make efficiency work.</source>
-        <translation>Pengaturan fitur super Premium memberi Anda pengaturan yang lebih halus dan efisiensi kerja yang lebih baik.</translation>
-    </message>
-    <message>
-        <source>Upgrade to SVIP</source>
-        <translation>Tingkatkan ke SVIP</translation>
-    </message>
-    <message>
-        <source>WPS Cloud File</source>
-        <translation>File WPS Cloud</translation>
-    </message>
-</context>
-<context>
     <name>KUploadLimitBubbleP7</name>
+    <message>
+        <source>Share Folder</source>
+        <translation>Bagi</translation>
+    </message>
     <message>
         <source>Upgrade SVIP, cloud space can upgrade to %1 at most, and can upload file %2 at most</source>
         <translation>Tingkatkan ke Premium untuk menikmati ruang Cloud hingga %1 GB dan mengunggah file hingga %2 GB</translation>
@@ -10031,6 +9874,10 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <message>
         <source>Manage cloud space</source>
         <translation>Atur ruang cloud</translation>
+    </message>
+    <message>
+        <source> and so on %1 files</source>
+        <translation> dan %1 file</translation>
     </message>
     <message>
         <source>I know</source>
@@ -10080,13 +9927,47 @@ telah menginstal libgstreamer-plugins-base.</translation>
         <source>Manage cloud storage space</source>
         <translation>Atur ruang penyimpanan cloud</translation>
     </message>
+</context>
+<context>
+    <name>QApplication</name>
     <message>
-        <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
-        <translation>Tingkatkan SVIP, ruang penyimpanan awan dapat ditingkatkan hingga maksimal %1</translation>
+        <source>Activates the program&apos;s main window</source>
+        <translation>Mengaktifkan jendela utama program</translation>
     </message>
     <message>
-        <source>Cancel Upload</source>
-        <translation>Batalkan Unggah</translation>
+        <source>QT_LAYOUT_DIRECTION</source>
+        <translation>QT_LAYOUT_DIRECTION</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>Aktivasi</translation>
+    </message>
+    <message>
+        <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
+        <translation>&apos;%1&apos; yang dapat dieksekusi memerlukan Qt %2, menemukan Qt %3.</translation>
+    </message>
+    <message>
+        <source>Incompatible Qt Library Error</source>
+        <translation>Kesalahan Pustaka Qt Tidak Kompatibel</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoSyncLimitBubble</name>
+    <message>
+        <source>Upgrade SVIP, get privileges.</source>
+        <translation>Tingkatkan ke Super Premium untuk mendapatkan hak akses dan fitur lainnya.</translation>
+    </message>
+    <message>
+        <source>Intelligent updates can get more setting and make efficiency work.</source>
+        <translation>Pengaturan fitur super Premium memberi Anda pengaturan yang lebih halus dan efisiensi kerja yang lebih baik.</translation>
+    </message>
+    <message>
+        <source>Upgrade to SVIP</source>
+        <translation>Tingkatkan ke SVIP</translation>
+    </message>
+    <message>
+        <source>WPS Cloud File</source>
+        <translation>File WPS Cloud</translation>
     </message>
 </context>
 <context>
@@ -10482,10 +10363,6 @@ telah menginstal libgstreamer-plugins-base.</translation>
         <source>Created link</source>
         <translation>Tautan telah dibuat.</translation>
     </message>
-    <message>
-        <source>Desktop</source>
-        <translation>Desktop</translation>
-    </message>
 </context>
 <context>
     <name>KSyncFolderExpiredWidget</name>
@@ -10632,6 +10509,10 @@ telah menginstal libgstreamer-plugins-base.</translation>
         <translation>Unduh massal adalah hak akses VIP, tingkatkan ke VIP.</translation>
     </message>
     <message>
+        <source>I got it</source>
+        <translation>Mengerti</translation>
+    </message>
+    <message>
         <source>please upgrade vip</source>
         <translation>harap tingkatkan vip</translation>
     </message>
@@ -10647,9 +10528,24 @@ telah menginstal libgstreamer-plugins-base.</translation>
         <source>batch download</source>
         <translation>unduh massal</translation>
     </message>
+</context>
+<context>
+    <name>KBatchProgress::KBatchProgressBubble</name>
     <message>
-        <source>Continue download</source>
-        <translation>Lanjutkan unduh</translation>
+        <source>Cancel download</source>
+        <translation>Batalkan unduh</translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation>Mengunduh</translation>
+    </message>
+    <message>
+        <source>I got it</source>
+        <translation>Mengerti</translation>
+    </message>
+    <message>
+        <source>Transmission details</source>
+        <translation>Transfer details</translation>
     </message>
 </context>
 <context>
@@ -11196,13 +11092,6 @@ telah menginstal libgstreamer-plugins-base.</translation>
     </message>
 </context>
 <context>
-    <name>KTrayBottomWidget</name>
-    <message>
-        <source>Recent Visit</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KHistoryDocItemWidget</name>
     <message>
         <source>(current version)</source>
@@ -11441,21 +11330,6 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <message>
         <source>Unable to use database</source>
         <translation>Tidak dapat menggunakan basisdata</translation>
-    </message>
-</context>
-<context>
-    <name>KTrayClipboardTopWidget</name>
-    <message>
-        <source>Paused</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Record</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recording</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11795,13 +11669,6 @@ Waktu untuk peningkatan: %1</translation>
     </message>
 </context>
 <context>
-    <name>KIntroCloudSyncWidget</name>
-    <message>
-        <source>My cloud documents</source>
-        <translation>Dokumen Cloud Saya</translation>
-    </message>
-</context>
-<context>
     <name>KSpaceFullUsageRemindBubble</name>
     <message>
         <source>Space Full</source>
@@ -11866,13 +11733,6 @@ Waktu untuk peningkatan: %1</translation>
     </message>
 </context>
 <context>
-    <name>KTrayClipboardEmptyContentWidget</name>
-    <message>
-        <source>Recording</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>KWpsCloudFileSettingsDialog</name>
     <message>
         <source>Cloud File Settings</source>
@@ -11898,13 +11758,6 @@ Waktu untuk peningkatan: %1</translation>
     <message>
         <source>WPS Office Box</source>
         <translation>Boks WPS Office</translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderObj</name>
-    <message>
-        <source>desktop</source>
-        <translation>desktop</translation>
     </message>
 </context>
 <context>
@@ -12090,970 +11943,171 @@ Waktu untuk peningkatan: %1</translation>
     </message>
 </context>
 <context>
-    <name>KCloudSettingFunctionWidget</name>
+    <name>KSmartSyncPreSaleTipDlg</name>
     <message>
-        <source>)</source>
-        <translation>)</translation>
-    </message>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>Show Cloud Files Entry in &apos;My Computer&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>linkText</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Folder Position</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>(Enable synchronous privileges and use more smoothly)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Automatically updates the data under the specified folder to the local</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>smartSync</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>(Respected WPS super members, you can use all privileges.)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show %1 Entry in My Computer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>custome</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Upgraded to WPS super member, enjoying synchronous privileges.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please login in firstly</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Auto Update Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show %1 in My Computer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Auto Update Entering Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show WPS Cloud Files in My Computer</source>
-        <translation>Tampilkan File WPS Cloud di Komputer Saya</translation>
-    </message>
-    <message>
-        <source>Enter a folder where files are automatically updated</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileDialog_New</name>
-    <message>
-        <source>%1</source>
-        <translation>%1</translation>
-    </message>
-    <message>
-        <source>please reset</source>
-        <translation>harap reset</translation>
-    </message>
-    <message>
-        <source>please retry</source>
-        <translation>Silakan coba lagi</translation>
-    </message>
-    <message>
-        <source>goto know more</source>
-        <translation>Klik untuk mengetahui lebih lanjut</translation>
-    </message>
-    <message>
-        <source>link: %1</source>
-        <translation>tautan: %1</translation>
-    </message>
-    <message>
-        <source>Uploading to cloud (0%)...</source>
-        <translation>Mengunggah ke awan (0%)...</translation>
-    </message>
-    <message>
-        <source>%1  Last modify time: %2</source>
-        <translation>%1  Waktu terakhir diubah: %2</translation>
-    </message>
-    <message>
-        <source>Cloud link useless,</source>
-        <translation>Tautan awan tidak berguna,</translation>
-    </message>
-    <message>
-        <source>Uploading to cloud (%1%)...</source>
-        <translation>Mengunggah ke awan (%1%)...</translation>
-    </message>
-    <message>
-        <source> Today</source>
-        <translation> Hari ini</translation>
-    </message>
-    <message>
-        <source>WPS super member</source>
-        <translation>WPS Super VIP</translation>
-    </message>
-    <message>
-        <source>You can create links to %1 times one day, the current creation for the %2 time, need to upgrade to %3 and can continue</source>
-        <translation>Anda dapat membuat hingga %1 tautan dalam satu hari. Sekarang Anda membuat %2 tautan. Untuk melanjutkan, sila tingkatkan ke %3</translation>
-    </message>
-    <message>
-        <source>cannot upload 0Bytes file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>account had logout!</source>
-        <translation>akun telah terakses keluar!</translation>
+        <source>OK</source>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Prompt</source>
         <translation>Perintah</translation>
     </message>
-    <message>
-        <source>Loading cloud link ...</source>
-        <translation>Memuatkan tautan awan...</translation>
-    </message>
-    <message>
-        <source>Share My Cloud File</source>
-        <translation>Bagi File Awan Saya</translation>
-    </message>
-    <message>
-        <source>WPS member</source>
-        <translation>Keanggotaan WPS</translation>
-    </message>
-    <message>
-        <source>please upgrade vip</source>
-        <translation>harap tingkatkan vip</translation>
-    </message>
-    <message>
-        <source>UpgradeVip</source>
-        <translation>Tingkatkan VIP</translation>
-    </message>
-    <message>
-        <source>file name conflict</source>
-        <translation>konflik nama file</translation>
-    </message>
-    <message>
-        <source>network error</source>
-        <translation>Kesalahan Jaringan</translation>
-    </message>
-    <message>
-        <source>(password:%1)</source>
-        <translation>(kata sandi:%1)</translation>
-    </message>
-    <message>
-        <source> Yesterday</source>
-        <translation> Kemarin</translation>
-    </message>
-    <message>
-        <source>Upload failed,</source>
-        <translation>Gagal mengunggah,</translation>
-    </message>
-    <message>
-        <source>Copy link successed!</source>
-        <translation>Berhasil menyalin tautan!</translation>
-    </message>
-    <message>
-        <source>Through WPS to share with you the</source>
-        <translation>Dibagikan kepada Anda lewat WPS</translation>
-    </message>
-    <message>
-        <source>Identity timeout, please close and retry!</source>
-        <translation>Batas waktu identifikasi telah habis, tutup dan coba lagi!</translation>
-    </message>
-    <message>
-        <source>Get cloud file link timeout, please check network and retry!</source>
-        <translation>Batas waktu ambil tautan file awan habis, silakan cek ringan dan coba lagi!</translation>
-    </message>
-    <message>
-        <source>From WPS--share by %1</source>
-        <translation>Dari WPS--bagi lewat %1</translation>
-    </message>
-    <message>
-        <source>
-password:%1</source>
-        <translation>
-kata sandi:%1</translation>
-    </message>
-    <message>
-        <source>Copy link and password successed!</source>
-        <translation>Berhasil menyalin tautan dan kata sandi!</translation>
-    </message>
 </context>
 <context>
-    <name>KNewFunctionAutoUpdateDlg</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>upgrade to vip</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>set right now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>New Function Coming</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The function of &apos;auto update&apos; is coming</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>For super members, we have opened the&quot; automatic update &quot;function:
-Specify a folder. All files in this folder will be
-Download to the computer and keep the latest version.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
-    </message>
-</context>
-<context>
-    <name>KSelAutoUpdateFolderDlg</name>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>Auto Update</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Select a Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>is loading .....</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>cloumnName</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
-    </message>
-</context>
-<context>
-    <name>KInfoMsgDlg</name>
+    <name>KMacCancelSyncFolderWidget</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-</context>
-<context>
-    <name>WpsBoxLnkDialog</name>
-    <message>
-        <source>Ok</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-</context>
-<context>
-    <name>WpsBoxWeakRemindDlg</name>
-    <message>
-        <source>Ok</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceListWidget</name>
-    <message>
-        <source>ok</source>
         <translation>OK</translation>
     </message>
     <message>
-        <source>send</source>
-        <translation>Send</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
-    <message>
-        <source>I know</source>
-        <translation>Mengerti</translation>
-    </message>
 </context>
 <context>
-    <name>KFileTransferOpenDlg</name>
+    <name>KMacFileSyncFailWidget</name>
     <message>
-        <source>ok</source>
+        <source>Ok</source>
         <translation>OK</translation>
     </message>
     <message>
-        <source>cancel</source>
-        <translation>Batal</translation>
+        <source>Failed</source>
+        <translation>Gagal</translation>
     </message>
-    <message>
-        <source>Save As</source>
-        <translation>Simpan Sebagai</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudSettingExtesionWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>look</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>size</source>
-        <translation>Ukuran</translation>
-    </message>
-    <message>
-        <source>Common File Backup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calculating cache size...</source>
-        <translation>Menghitung ukuran cache ...</translation>
-    </message>
-    <message>
-        <source>Desktop documents and pictures</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WeChat received files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>about %1 MB</source>
-        <translation>sekitar %1 MB</translation>
-    </message>
-    <message>
-        <source>Add &apos;upload to WPS Cloud document&apos; menu item on the right menu</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Right-click extension menu</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Always ask</source>
-        <translation>Selalu tanyakan(&amp;A)</translation>
-    </message>
-    <message>
-        <source>QQ/TIM received files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Smart backup location files that can be accessed on your phone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add share file to WPS cloud doc menu item on the right menu</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add &apos;share file to WPS Cloud document&apos; menu item on the right menu</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KCloudSettingRestWidget</name>
-    <message>
-        <source>Form</source>
-        <translation>Formulir</translation>
-    </message>
-    <message>
-        <source>size</source>
-        <translation>Ukuran</translation>
-    </message>
-    <message>
-        <source>Save:</source>
-        <translation>Simpan:</translation>
-    </message>
-    <message>
-        <source>Calculating cache size...</source>
-        <translation>Menghitung ukuran cache ...</translation>
-    </message>
-    <message>
-        <source>Never bubble</source>
-        <translation>Jangan pernah gelembung</translation>
-    </message>
-    <message>
-        <source>Clear Cache</source>
-        <translation>Kosongkan Cache</translation>
-    </message>
-    <message>
-        <source>Cache:</source>
-        <translation>Cache:</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Kustom</translation>
-    </message>
-    <message>
-        <source>Select Location</source>
-        <translation>Pilih Lokasi</translation>
-    </message>
-    <message>
-        <source>Sometimes,bubble when transfer is failed(Recommend)</source>
-        <translation>Sesekali, gelembung saat transfer gagal (Disarankan)</translation>
-    </message>
-    <message>
-        <source>Transfer Bubble:</source>
-        <translation>Gelembung Transfer:</translation>
-    </message>
-    <message>
-        <source>Saving data from a landed file and editing / changing the data in that location directly may result in an unknown exception</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Always,bubble when transfer is complete</source>
-        <translation>Selalu, gelembung saat transfer selesai</translation>
-    </message>
-    <message>
-        <source>Cleaning up &apos;downloaded documents&apos; frees up the disk space occupied by the document.Re-use needs to be redownloaded</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWpsCloudFileSettingsDialog_new</name>
-    <message>
-        <source>Rest</source>
-        <translation>Reset</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation>Terapkan</translation>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>Notice</source>
-        <translation>Pemberitahuan</translation>
-    </message>
-    <message>
-        <source>WPS Cloud File Settings</source>
-        <translation>Pengaturan File WPS Cloud</translation>
-    </message>
-    <message>
-        <source>Function</source>
-        <translation>Fungsi</translation>
-    </message>
-    <message>
-        <source>Extesion</source>
-        <translation>Ekstensi</translation>
-    </message>
-</context>
-<context>
-    <name>KAuthorizeDialog</name>
-    <message>
-        <source>icon</source>
-        <translation>ikon</translation>
-    </message>
-    <message>
-        <source>confirm</source>
-        <translation>Konfirmasi</translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileUpFailedTip</name>
-    <message>
-        <source>please retry</source>
-        <translation>Silakan coba lagi</translation>
-    </message>
-    <message>
-        <source>Upload failed,</source>
-        <translation>Gagal mengunggah,</translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileDialog</name>
-    <message>
-        <source>goto know more</source>
-        <translation>Klik untuk mengetahui lebih lanjut</translation>
-    </message>
-    <message>
-        <source>cloudFile can be edited by people and synchronized in terminals, and more secure.</source>
-        <translation>Awan memungkinkan pengeditan multi pengguna, sinkronisasi multi perangkat, dan penyimpanan file yang lebih aman.</translation>
-    </message>
-    <message>
-        <source>KShareFileDialog</source>
-        <translation>KShareFileDialog</translation>
-    </message>
-    <message>
-        <source>Send the download link of the document by e-mail to your friends, at most 5 people once:</source>
-        <translation>Kirim tautan unduhan hingga 5 alamat email:</translation>
-    </message>
-    <message>
-        <source>Send Mail</source>
-        <translation>Kirim Email</translation>
-    </message>
-    <message>
-        <source>Please enter or select the mail address, separate multiple address with semicolons;</source>
-        <translation>Masukkan atau pilih alamat email, dan pisahkan beberapa alamat dengan titik koma;</translation>
-    </message>
-    <message>
-        <source>File Share:</source>
-        <translation>Berbagi File:</translation>
-    </message>
-    <message>
-        <source>Generate Link</source>
-        <translation>Hasilkan Tautan</translation>
-    </message>
-    <message>
-        <source>Contents:(at most 500 words)</source>
-        <translation>Isi: (maksimal 500 kata)</translation>
-    </message>
-    <message>
-        <source>Note:before share link by e-mail, you need to create the configuration of mail.</source>
-        <translation>Catatan: sebelum membagikan tautan melalui email, Anda perlu membuat file konfigurasi email.</translation>
-    </message>
-    <message>
-        <source>Cloudfile is uploading...</source>
-        <translation>Mengunggah...</translation>
-    </message>
-    <message>
-        <source>Share document to your friends by link</source>
-        <translation>Bagikan dokumen ke teman Anda melalui tautan</translation>
-    </message>
-    <message>
-        <source>cancel upload</source>
-        <translation>Batalkan Unggah</translation>
-    </message>
-</context>
-<context>
-    <name>KClearCacheTipDialog</name>
-    <message>
-        <source>Clear</source>
-        <translation>Hapus</translation>
-    </message>
-    <message>
-        <source>Finished</source>
-        <translation>Selesai</translation>
-    </message>
-    <message>
-        <source>Clear finished.</source>
-        <translation>Penghapusan selesai.</translation>
-    </message>
-    <message>
-        <source>Clear finished.
-Free Space: about %1 MB</source>
-        <translation>Penghapusan selesai.
-Ruang Kosong: sekitar %1 MB</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Operation Tips</source>
-        <translation>Tips Operasi</translation>
-    </message>
-    <message>
-        <source>This operation will delete downloaded WPS cloud files, them will be download when you open them.</source>
-        <translation>Operasi ini akan menghapus file WPS cloud yang diunduh, file akan diunduh saat Anda membukanya.</translation>
-    </message>
-    <message>
-        <source>Deleting file</source>
-        <translation>Menghapus file</translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderPageSyncFail</name>
-    <message>
-        <source>Finished</source>
-        <translation>Selesai</translation>
-    </message>
-</context>
-<context>
-    <name>KShareFileDlgUi</name>
-    <message>
-        <source>Login</source>
-        <translation>Akses masuk</translation>
-    </message>
-    <message>
-        <source>cloudFile can be edited by people and synchronized in terminals, and more secure.</source>
-        <translation>Awan memungkinkan pengeditan multi pengguna, sinkronisasi multi perangkat, dan penyimpanan file yang lebih aman.</translation>
-    </message>
-    <message>
-        <source>goto konw more</source>
-        <translation>buka untuk mengetahui lebih lanjut</translation>
-    </message>
-    <message>
-        <source>wechat friends</source>
-        <translation>teman wechat</translation>
-    </message>
-    <message>
-        <source>send e-mail</source>
-        <translation>Kirim Email</translation>
-    </message>
-    <message>
-        <source>abcdef</source>
-        <translation>abcdef</translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation>Bagi File</translation>
-    </message>
-    <message>
-        <source>copy link</source>
-        <translation>Salin Tautan</translation>
-    </message>
-    <message>
-        <source>password</source>
-        <translation>kata sandi</translation>
-    </message>
-    <message>
-        <source>QQ friends</source>
-        <translation>Teman QQ</translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceListViewDelegate</name>
-    <message>
-        <source>local</source>
-        <translation>Perangkat saat ini</translation>
-    </message>
-</context>
-<context>
-    <name>KDeviceLoadFailureWidget</name>
-    <message>
-        <source>retry</source>
-        <translation>Coba lagi</translation>
-    </message>
-    <message>
-        <source>Failed to get device, please</source>
-        <translation>Gagal mengambil perangkat, silakan </translation>
-    </message>
-</context>
-<context>
-    <name>KSuperUserTipDlg</name>
-    <message>
-        <source>title</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Upgrade To Vip</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>The function of automatically updating to Super member</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All files under the selected folder will be downloaded to your computer and kept up to date</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KShareFileQRCodeWidget</name>
-    <message>
-        <source>copy QR Code</source>
-        <translation>salin Kode QR</translation>
-    </message>
-    <message>
-        <source>Share to WeChat friends or circle of friends</source>
-        <translation>Bagi ke teman WeChat atau lingkaran teman</translation>
-    </message>
-    <message>
-        <source>Copy QRCode Successed!</source>
-        <translation>Berhasil Menyalin Kode QR!</translation>
-    </message>
-    <message>
-        <source>Scan the QR code by cell phone, you can share the file</source>
-        <translation>Pindai kode QR lewat ponsel, Anda dapat membagikan file</translation>
-    </message>
-</context>
-<context>
-    <name>KDesktopDocGuide</name>
-    <message>
-        <source>One touch backup</source>
-        <translation>Pencadangan sekali sentuh</translation>
-    </message>
-    <message>
-        <source>WPS copy safety</source>
-        <translation>Keamanan penyalinan WPS</translation>
-    </message>
-    <message>
-        <source>loss or damage accidently</source>
-        <translation>kehilangan atau kerusakan secara tidak sengaja</translation>
-    </message>
-    <message>
-        <source>give up copying</source>
-        <translation>berhenti menyalin</translation>
-    </message>
-    <message>
-        <source>Desktop files</source>
-        <translation>File desktop</translation>
-    </message>
-    <message>
-        <source>There are %1 files in your desktop, copy files to avoid</source>
-        <translation>Ada %1 file di desktop Anda, salin file untuk menghindari</translation>
-    </message>
-    <message>
-        <source>Do not remind</source>
-        <translation>Jangan ingatkan</translation>
-    </message>
-    <message>
-        <source>desktop files list</source>
-        <translation>daftar file desktop</translation>
-    </message>
-    <message>
-        <source>desktop files item</source>
-        <translation>item file desktop</translation>
-    </message>
-    <message>
-        <source>WPS Cloud Document</source>
-        <translation>Dokumen WPS Cloud</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudDiskGuideDlg</name>
-    <message>
-        <source>Place the %1 into desktop</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>go and see</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation>Pembuatan pintasan File WPS Cloud gagal!</translation>
-    </message>
-    <message>
-        <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation>Pintasan File WPS Cloud telah dibuat, Anda dapat menemukannya di desktop</translation>
-    </message>
-</context>
-<context>
-    <name>KUserSecureIdentityDlg</name>
-    <message>
-        <source>User Identity Verifier</source>
-        <translation>Pemverifikasi Identitas Pengguna</translation>
-    </message>
-</context>
-<context>
-    <name>KQingExitTip</name>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Operation tips</source>
-        <translation>Tips Operasi</translation>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation>Lanjutkan</translation>
-    </message>
-    <message>
-        <source>WPS Cloud is working. Please exit at tray and continue.</source>
-        <translation>WPS Cloud berfungsi. Keluar di baki dan lanjutkan.</translation>
-    </message>
-</context>
-<context>
-    <name>KLogoutConfirmDlg</name>
-    <message>
-        <source>I know</source>
-        <translation>Mengerti</translation>
-    </message>
-</context>
-<context>
-    <name>KTempLoginBubble</name>
-    <message>
-        <source>I know</source>
-        <translation>Mengerti</translation>
-    </message>
-</context>
-<context>
-    <name>KAddDevicesWidget</name>
-    <message>
-        <source>continue</source>
-        <translation>Lanjutkan</translation>
-    </message>
-</context>
-<context>
-    <name>KFileTransferItemWidget</name>
-    <message>
-        <source>history version</source>
-        <translation>Versi riwayat</translation>
-    </message>
-    <message>
-        <source>save as...</source>
-        <translation>Simpan sebagai...</translation>
-    </message>
-</context>
-<context>
-    <name>KSyncMultiFolderUpgradeWidget</name>
-    <message>
-        <source>cancel</source>
-        <translation>Batal</translation>
-    </message>
-</context>
-<context>
-    <name>KSettingLinkWidget</name>
-    <message>
-        <source>File Share</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>Setting(effective to current document)</source>
-        <translation>Pengaturan(efektif untuk dokumen saat ini)</translation>
-    </message>
-</context>
-<context>
-    <name>KUploadFileGuideDlg</name>
-    <message>
-        <source>Account had been logouted, uploading has been canceled</source>
-        <translation>Akun telah tercatat keluar, mengunggah telah dibatalkan</translation>
-    </message>
-    <message>
-        <source>selected files have been in cloud</source>
-        <translation>file-file yang dipilih telah berada di cloud</translation>
-    </message>
-    <message>
-        <source>Account had been logouted</source>
-        <translation>Akun telah tercatat keluar</translation>
-    </message>
-</context>
-<context>
-    <name>KCommonGuideDlgMgr</name>
-    <message>
-        <source>WPS Cloud File.lnk</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLimitedFreeExpireDlg</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLimitedFreeGuideDlg</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KOfficialTemplateDlg</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KOfficialTemplateTip</name>
-    <message>
-        <source>WPS Net Disk</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KWpsboxMiniCtrl</name>
-    <message>
-        <source>Desktop</source>
-        <translation>Desktop</translation>
-    </message>
-</context>
-<context>
-    <name>KUserSecureLoadingView</name>
-    <message>
-        <source>Loading...</source>
-        <translation>正在載入...</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudSettingShareWidget</name>
-    <message>
-        <source>editable</source>
-        <translation>Dapat Diedit</translation>
-    </message>
-    <message>
-        <source>view only</source>
-        <translation>Hanya lihat</translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderWidget</name>
     <message>
         <source>feedback</source>
         <translation>Masukan</translation>
     </message>
 </context>
 <context>
-    <name>KSaveAndOpenTask</name>
+    <name>KTrayMiddleWidget</name>
     <message>
-        <source>%1 history version save as failed.</source>
-        <translation>%1 penyimpanan sebagai versi riwayat gagal.</translation>
+        <source>Tool</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KTrayTopItem</name>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clean up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paused</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>My Cloud Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Sync</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cloud Space:%1/%2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KMacSyncFolderWidget</name>
+    <message>
+        <source>Sync now</source>
+        <translation>Sinkronkan sekarang</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Ubah</translation>
+    </message>
+    <message>
+        <source>Upgrade VIP</source>
+        <translation>Tingkatkan VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KMacSameFolderDialog</name>
+    <message>
+        <source>Cloud</source>
+        <translation>Awan</translation>
+    </message>
+    <message>
+        <source>local</source>
+        <translation>Perangkat saat ini</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>My cloud documents</source>
+        <translation>Dokumen Cloud Saya</translation>
+    </message>
+</context>
+<context>
+    <name>KTrayBottomWidget</name>
+    <message>
+        <source>Recent Visit</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KTrayClipboardTopWidget</name>
+    <message>
+        <source>Paused</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KIntroCloudSyncWidget</name>
+    <message>
+        <source>My cloud documents</source>
+        <translation>Dokumen Cloud Saya</translation>
+    </message>
+</context>
+<context>
+    <name>KTrayClipboardEmptyContentWidget</name>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KSyncFolderObj</name>
+    <message>
+        <source>desktop</source>
+        <translation>desktop</translation>
     </message>
 </context>
 </TS>
