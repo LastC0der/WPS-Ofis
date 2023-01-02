@@ -16063,7 +16063,7 @@ tıklayın.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme dosyalarını &quot;%1&quot; konumuna yazma izniniz yok.</translation>
     </message>
 </context>
 <context>
@@ -38778,7 +38778,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme dosyalarını &quot;%1&quot; konumuna yazma izniniz yok.</translation>
     </message>
     <message>
         <source>File Path: WPS CloudFile\Cloud BackUp</source>
