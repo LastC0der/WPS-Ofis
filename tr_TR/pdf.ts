@@ -13341,7 +13341,7 @@ Pencere</translation>
     <name>pdfongmani.mainwindow</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesyonel</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
