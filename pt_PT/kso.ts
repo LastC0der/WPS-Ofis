@@ -2378,7 +2378,7 @@ elementos</translation>
     <message>
         <source>Close</source>
         <comment>kso_sCloseCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
@@ -2900,7 +2900,7 @@ Transferir o pacote de expansão XML?</translation>
     <message>
         <source>Stop</source>
         <comment>kso_sWASSTop</comment>
-        <translation type="unfinished"/>
+        <translation>Parar</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3107,7 +3107,7 @@ Please save the file and create share link</source>
     <message>
         <source>Part of %s</source>
         <comment>kso_sPartOf</comment>
-        <translation type="unfinished"/>
+        <translation>Parte de %s</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -4117,7 +4117,7 @@ O Sqlite3 utiliza o código open source de armazenamento e leitura de dados nos 
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished"/>
+        <translation>Todos os Ficheiros (*.*)</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -9927,7 +9927,7 @@ Tipo de Linha: %3</translation>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished"/>
+        <translation>Agrupar</translation>
     </message>
     <message>
         <source>Whole-Iamge,4 Pt Offset</source>
@@ -13609,19 +13609,19 @@ Efetuar sempre esta ação.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Não</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sim</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13629,11 +13629,11 @@ Efetuar sempre esta ação.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Abortar</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13641,15 +13641,15 @@ Efetuar sempre esta ação.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Tentar Novamente</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar Predefinições</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13657,23 +13657,23 @@ Efetuar sempre esta ação.</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>N&amp;ão para Todos</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Guardar Tudo</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Descartar</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Sim para &amp;Todos</translation>
     </message>
 </context>
 <context>
@@ -14219,7 +14219,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <name>kso_dguil</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
     <message>
         <source>pt</source>
@@ -14443,7 +14443,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>Formatar Forma</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -14573,7 +14573,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
-        <translation type="unfinished"/>
+        <translation>Inserir Caixa de Texto</translation>
     </message>
     <message>
         <source>Unidentifiable sound format.</source>
@@ -14598,7 +14598,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeUp</comment>
-        <translation type="unfinished"/>
+        <translation>Deslocar Objeto</translation>
     </message>
     <message>
         <source>*.mp3;*.mp2;*.m3u</source>
@@ -14823,7 +14823,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation type="unfinished"/>
+        <translation>Alterar Imagem</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
@@ -14863,7 +14863,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     </message>
     <message>
         <source>Create Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Criar Controlo de Conteúdo</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -14980,7 +14980,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -15121,7 +15121,7 @@ Para selecionar nomes no Livro de endereços, clique no botão Ler ou Alterar.</
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
-        <translation type="unfinished"/>
+        <translation>Deslocar Sombra</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -15302,7 +15302,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished"/>
+        <translation>Inserir Forma Automática</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -15441,7 +15441,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     </message>
     <message>
         <source>Common Compression</source>
-        <translation type="unfinished"/>
+        <translation>Compressão Comum</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -15663,7 +15663,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     </message>
     <message>
         <source>Smart Compression</source>
-        <translation type="unfinished"/>
+        <translation>Compressão Inteligente</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
@@ -15741,7 +15741,7 @@ Note que a compressão de imagens pode reduzir a qualidade das mesmas. Deseja co
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation type="unfinished"/>
+        <translation>Recortar</translation>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff</source>
@@ -20607,7 +20607,7 @@ Verifique a localização e o nome.</translation>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -22768,7 +22768,7 @@ Verifique a localização e o nome.</translation>
     </message>
     <message>
         <source>Change Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Alterar Formatação</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
