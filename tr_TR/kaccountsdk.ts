@@ -158,11 +158,11 @@
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"/>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı noktası:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>User name:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı adı:</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -206,7 +206,7 @@
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"/>
+        <translation>Adres:</translation>
     </message>
 </context>
 <context>
@@ -1352,7 +1352,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ağ hatası, ağınızı kontrol edin ve yeniden deneyin</translation>
     </message>
     <message>
         <source>Account information has timed out</source>
@@ -2090,7 +2090,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Network error,check you network and retry</source>
-        <translation type="unfinished"/>
+        <translation>Ağ hatası, ağınızı kontrol edin ve yeniden deneyin</translation>
     </message>
     <message>
         <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
@@ -2190,7 +2190,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
 </context>
 <context>
@@ -2249,7 +2249,7 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Gifts for New Users on PC</source>
@@ -2275,7 +2275,7 @@ Easy mobile office.</source>
     <name>KNewGuideDialog</name>
     <message>
         <source>User Guide</source>
-        <translation type="unfinished"/>
+        <translation>Kullanım Kılavuzu</translation>
     </message>
 </context>
 <context>
