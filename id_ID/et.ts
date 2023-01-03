@@ -17920,7 +17920,7 @@ Kolom</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Urutan Huruf</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18470,7 +18470,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Urutan Numerik Roman</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18479,7 +18479,7 @@ Tabel</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Isi Otomatis Angka Berurutan</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -19041,7 +19041,7 @@ digabungkan dalam satu buku kerja</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Urutan Huruf</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -19234,7 +19234,7 @@ Lembar</translation>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Situs Web Resmi</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -19327,7 +19327,7 @@ Perubahan</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi Inti</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -20191,7 +20191,7 @@ Penuh</translation>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan lembar kerja dengan nama yang sama di buku kerja</translation>
     </message>
     <message>
         <source>% of Parent Row Total</source>
@@ -20614,7 +20614,7 @@ Data</translation>
     </message>
     <message>
         <source>Create Table Directory</source>
-        <translation type="unfinished"/>
+        <translation>Buat Direktori Tabel</translation>
     </message>
     <message>
         <source>Insert Column Before</source>
@@ -20710,7 +20710,7 @@ Data</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Dekripsi</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -21098,7 +21098,7 @@ OLE DB Query</source>
     <message>
         <source>PivotTable</source>
         <comment>Top 10</comment>
-        <translation type="unfinished"/>
+        <translation>PivotTable</translation>
     </message>
     <message>
         <source>TrendLine</source>
@@ -21139,11 +21139,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Urutan Numerik Roman</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Isi Otomatis Angka Berurutan</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -21680,7 +21680,7 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi Normal</translation>
     </message>
     <message>
         <source>Close Workspace</source>
@@ -29526,11 +29526,11 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Rekomendasi</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29538,7 +29538,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -31050,7 +31050,7 @@ Jika Anda menghapus semua teks di kotak centang Ruas, dan mengeklik OK, semua fi
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>Pemisahan Lanjutan</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -31631,7 +31631,7 @@ Format</translation>
     </message>
     <message>
         <source>Insert Diagonal Header</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Sel Multidiagonal</translation>
     </message>
     <message>
         <source>Sparkline Tools</source>
@@ -31647,7 +31647,7 @@ Format</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Ekspor ke Gambar</translation>
     </message>
 </context>
 <context>
@@ -32260,7 +32260,7 @@ Format</translation>
     </message>
     <message>
         <source>Account Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi Akun</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -38062,7 +38062,7 @@ Sesuai Konten</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Urutan Huruf</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38247,11 +38247,11 @@ Semua</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Urutan Numerik Roman</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Isi Otomatis Angka Berurutan</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38342,7 +38342,7 @@ yang Ada</translation>
     </message>
     <message>
         <source>Merge Tables</source>
-        <translation type="unfinished"/>
+        <translation>Gabungkan Tabel</translation>
     </message>
 </context>
 <context>
@@ -42254,7 +42254,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Perekam Layar</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -42310,7 +42310,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Papan Klip Cloud</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -42392,7 +42392,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Kotak Alat Et</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -42964,11 +42964,11 @@ Ponsel</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Barcode</translation>
     </message>
 </context>
 <context>
@@ -43311,7 +43311,7 @@ Baru</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -43810,11 +43810,11 @@ Data</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF ke Word</translation>
     </message>
 </context>
 <context>
@@ -44478,7 +44478,7 @@ Dokumen</translation>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Enkripsi Dokumen</translation>
     </message>
 </context>
 <context>
@@ -44887,27 +44887,27 @@ Berikutnya</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Paskan Lembar di Satu Halaman</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada Zoom</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom Kustom</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Paskan Semua Baris di Satu Halaman</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Paskan Semua Kolom di Satu Halaman</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom Halaman</translation>
     </message>
 </context>
 <context>
@@ -45415,11 +45415,11 @@ Backward</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Jeda</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom Kustom</translation>
     </message>
     <message>
         <source>Print
@@ -47000,7 +47000,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Cina (Taiwan)</translation>
     </message>
 </context>
 <context>
@@ -48668,7 +48668,7 @@ Nilai: </translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>Cetak Bolak-Balik</translation>
     </message>
 </context>
 <context>
@@ -51310,7 +51310,7 @@ Label Item</translation>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
+        <translation>Bantuan tentang Fungsi ini (&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -55927,11 +55927,11 @@ Komentar</translation>
     <name>et_et_ui</name>
     <message>
         <source>Split window</source>
-        <translation type="unfinished"/>
+        <translation>Bagi Jendela</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Tampilan Tata Letak Halaman tidak kompatibel dengan Panel Beku. Jika Anda melanjutkan, kebekuan panel pada lembar ini akan dihilangkan, Apakah Anda ingin melanjutkan?</translation>
     </message>
 </context>
 <context>
@@ -56013,7 +56013,7 @@ Kueri OLE DB</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Konversi ke file PDF</translation>
     </message>
 </context>
 </TS>
