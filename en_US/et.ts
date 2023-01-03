@@ -920,7 +920,7 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>Default JS developer environment(&amp;Y)</source>
-        <translation type="unfinished"/>
+        <translation>Default JS developer environment(&amp;Y)</translation>
     </message>
     <message>
         <source>Auto Filter</source>
@@ -7819,7 +7819,7 @@ Workbook</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Macro Editor</translation>
     </message>
     <message>
         <source>The date you specified in End Date is invalid.</source>
@@ -12645,15 +12645,15 @@ Workbook</source>
     </message>
     <message>
         <source>Switch to %s</source>
-        <translation type="unfinished"/>
+        <translation>Switch to %s</translation>
     </message>
     <message>
         <source>Switch to JS</source>
-        <translation type="unfinished"/>
+        <translation>Switch to JS</translation>
     </message>
     <message>
         <source>Switch to VB</source>
-        <translation type="unfinished"/>
+        <translation>Switch to VB</translation>
     </message>
     <message>
         <source>Right section </source>
@@ -15371,7 +15371,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>Advance Split</translation>
     </message>
     <message>
         <source>Please enter the content of the split rules</source>
@@ -16114,7 +16114,7 @@ file,click OK.</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Fill Blank Cells</translation>
     </message>
     <message>
         <source>The selected area belongs to a protected worksheet, please select again.</source>
@@ -17911,7 +17911,7 @@ Columns</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Letter Sequence</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18460,7 +18460,7 @@ with same name in workbooks</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Roman Numeric Sequence</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18469,7 +18469,7 @@ Table</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Numeric Sequence</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -20676,7 +20676,7 @@ merged into one worksheet</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Offline Secret Key</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -21728,7 +21728,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>PivotTable</translation>
     </message>
     <message>
         <source>Grouping</source>
@@ -22370,7 +22370,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Exporting document attachments...</source>
-        <translation type="unfinished"/>
+        <translation>Exporting document attachments...</translation>
     </message>
 </context>
 <context>
@@ -27806,7 +27806,7 @@ Effects</translation>
     </message>
     <message>
         <source>Split Tables</source>
-        <translation type="unfinished"/>
+        <translation>Split Tables</translation>
     </message>
     <message>
         <source>Merge Range Data</source>
@@ -28114,7 +28114,7 @@ Directly</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Macro Editor</translation>
     </message>
     <message>
         <source>No authentication status</source>
@@ -28451,7 +28451,7 @@ Directly</translation>
     </message>
     <message>
         <source>Search Help Information</source>
-        <translation type="unfinished"/>
+        <translation>Search Help Information</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -28467,7 +28467,7 @@ Directly</translation>
     </message>
     <message>
         <source>ShortDataMarket</source>
-        <translation type="unfinished"/>
+        <translation>ShortDataMarket</translation>
     </message>
     <message>
         <source>Equation Operator Popup Menu</source>
@@ -29403,7 +29403,7 @@ Comment</translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Click to turn on/off AutoBackup</translation>
     </message>
     <message>
         <source>Column Header</source>
@@ -29492,11 +29492,11 @@ Window</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Macros</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Recommend</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29504,7 +29504,7 @@ Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Editor</translation>
     </message>
 </context>
 <context>
@@ -31018,7 +31018,7 @@ PDF</translation>
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>Advance Split</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -31379,7 +31379,7 @@ Center</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Hide current window when taking screenshots</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -31453,7 +31453,7 @@ PDF</translation>
     </message>
     <message>
         <source>Screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Screenshots</translation>
     </message>
     <message>
         <source>accout info</source>
@@ -31601,7 +31601,7 @@ Painter</translation>
     </message>
     <message>
         <source>Insert Diagonal Header</source>
-        <translation type="unfinished"/>
+        <translation>Insert Diagonal Header</translation>
     </message>
     <message>
         <source>Sparkline Tools</source>
@@ -31617,7 +31617,7 @@ Painter</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Export to Picture</translation>
     </message>
 </context>
 <context>
@@ -32231,7 +32231,7 @@ Permissions</translation>
     </message>
     <message>
         <source>Account Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Account Encryption</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -34581,7 +34581,7 @@ Only %2 unique values will be left after delete.</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Letter Sequence</translation>
     </message>
     <message>
         <source>Advance Split</source>
@@ -34613,7 +34613,7 @@ Only %2 unique values will be left after delete.</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Fill Blank Cells</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -34633,7 +34633,7 @@ Only %2 unique values will be left after delete.</translation>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Merge worksheets with same name in workbooks</translation>
     </message>
     <message>
         <source>Remove Leading Space</source>
@@ -34678,11 +34678,11 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Roman Numeric Sequence</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Numeric Sequence</translation>
     </message>
     <message>
         <source>Highlight unique values</source>
@@ -34690,7 +34690,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Delete Blank Table</source>
-        <translation type="unfinished"/>
+        <translation>Delete Blank Worksheet</translation>
     </message>
     <message>
         <source>Fetch unique values</source>
@@ -38008,7 +38008,7 @@ Pane</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Fill</translation>
     </message>
     <message>
         <source>Form</source>
@@ -38037,7 +38037,7 @@ By Content</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Letter Sequence</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38073,7 +38073,7 @@ By Content</translation>
     </message>
     <message>
         <source>Fill Blank Cells</source>
-        <translation type="unfinished"/>
+        <translation>Fill Blank Cells</translation>
     </message>
     <message>
         <source>Import 
@@ -38170,7 +38170,7 @@ Columns</translation>
     </message>
     <message>
         <source>Smart Split Columns</source>
-        <translation type="unfinished"/>
+        <translation>Smart Split Columns</translation>
     </message>
     <message>
         <source>Merge worksheets 
@@ -38220,11 +38220,11 @@ All</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Roman Numeric Sequence</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Input Numeric Sequence</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38313,7 +38313,7 @@ All</source>
     </message>
     <message>
         <source>Merge Tables</source>
-        <translation type="unfinished"/>
+        <translation>Merge Tables</translation>
     </message>
 </context>
 <context>
@@ -38777,7 +38777,7 @@ All</source>
     </message>
     <message>
         <source>&amp;Close Backup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Close Backup</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
@@ -42436,7 +42436,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Quick</translation>
     </message>
     <message>
         <source>Share</source>
@@ -42493,7 +42493,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>WPS Office Skill</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Skill</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -42517,7 +42517,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Core Encryption</translation>
     </message>
     <message>
         <source>File Send</source>
@@ -42765,7 +42765,7 @@ Permissions</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Decryption</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -42935,11 +42935,11 @@ Permissions</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>InsertBarcode</translation>
     </message>
 </context>
 <context>
@@ -43117,7 +43117,7 @@ Permissions</translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Macro Editor</translation>
     </message>
     <message>
         <source>Print Headings</source>
@@ -43278,7 +43278,7 @@ Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Editor</translation>
     </message>
 </context>
 <context>
@@ -43777,11 +43777,11 @@ Speech</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF to Word</translation>
     </message>
 </context>
 <context>
@@ -44440,7 +44440,7 @@ Security</translation>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Document Encryption</translation>
     </message>
 </context>
 <context>
@@ -44847,27 +44847,27 @@ Page</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Fit Sheet on One Page</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation type="unfinished"/>
+        <translation>No Zoom</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Custom Zoom</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Fit All Rows on One Page</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Fit All Columns on One Page</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Page Zoom</translation>
     </message>
 </context>
 <context>
@@ -45319,7 +45319,7 @@ Pane</translation>
     </message>
     <message>
         <source>Document theme effect</source>
-        <translation type="unfinished"/>
+        <translation>Document theme effect</translation>
     </message>
     <message>
         <source>View Page Break</source>
@@ -45372,11 +45372,11 @@ Backward</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Breaks</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Custom Zoom</translation>
     </message>
     <message>
         <source>Print
@@ -46592,7 +46592,7 @@ To continue saving as a macro-free workbook, click Yes.</translation>
     </message>
     <message>
         <source>Cannot save as that name. Document was opened as read-only.</source>
-        <translation type="unfinished"/>
+        <translation>Cannot save as that name. Document was opened as read-only.</translation>
     </message>
     <message>
         <source>Normal Files</source>
@@ -46957,7 +46957,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Chinese(Taiwan)</translation>
     </message>
 </context>
 <context>
@@ -48627,7 +48627,7 @@ Value: </translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>Duple&amp;x</translation>
     </message>
 </context>
 <context>
@@ -48693,7 +48693,7 @@ Value: </translation>
     </message>
     <message>
         <source>WPS Macro Editor</source>
-        <translation type="unfinished"/>
+        <translation>WPS Macro Editor</translation>
     </message>
     <message>
         <source>More Controls</source>
@@ -51941,7 +51941,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Cloud Clipboard</translation>
     </message>
     <message>
         <source>PDF2Word</source>
@@ -52882,7 +52882,7 @@ The player or file does not exist.</translation>
     </message>
     <message>
         <source>Enter the minimum value for the vertical axis</source>
-        <translation type="unfinished"/>
+        <translation>Enter the minimum value for the vertical axis</translation>
     </message>
     <message>
         <source>Enter the maximum value for the vertical axis</source>
@@ -55388,11 +55388,11 @@ Note that data links can be used to access and share confidential information wi
     <name>KxEtRemoveSpaceCommand</name>
     <message>
         <source>The selected area contains the pivot table, please select again.</source>
-        <translation type="unfinished"/>
+        <translation>The selected area contains the pivot table, please select again.</translation>
     </message>
     <message>
         <source>Please select a valid range.</source>
-        <translation type="unfinished"/>
+        <translation>Please select a valid range.</translation>
     </message>
     <message>
         <source>The space you want to delete belongs to a protected sheet and cannot be deleted.</source>
@@ -55415,11 +55415,11 @@ Note that data links can be used to access and share confidential information wi
     <name>KxEtRoundCommand</name>
     <message>
         <source>The selected area contains the pivot table, please select again.</source>
-        <translation type="unfinished"/>
+        <translation>The selected area contains the pivot table, please select again.</translation>
     </message>
     <message>
         <source>Please select a valid range.</source>
-        <translation type="unfinished"/>
+        <translation>Please select a valid range.</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
@@ -55878,7 +55878,7 @@ Comment</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozen. Do you want to continue?</translation>
     </message>
 </context>
 <context>
@@ -55933,7 +55933,7 @@ Reference</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"/>
+        <translation>Edit OLE DB Query</translation>
     </message>
 </context>
 <context>
@@ -55955,7 +55955,7 @@ OLE DB Query</source>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Picture to PDF</translation>
     </message>
 </context>
 </TS>
