@@ -11,11 +11,11 @@
     </message>
     <message>
         <source>Load failed</source>
-        <translation type="unfinished"/>
+        <translation>Okuma başarısız oldu</translation>
     </message>
     <message>
         <source>Loading %1, please wait</source>
-        <translation type="unfinished"/>
+        <translation>%1 yükleniyor. Lütfen bekleyin.</translation>
     </message>
 </context>
 <context>
@@ -30,15 +30,16 @@
     </message>
     <message>
         <source>SmartCompress</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı Sıkıştırma</translation>
     </message>
     <message>
         <source>CommonCompress</source>
-        <translation type="unfinished"/>
+        <translation>Ortak Sıkıştırma</translation>
     </message>
     <message>
         <source>%1 picture you inserted is too large. Compress?</source>
-        <translation type="unfinished"/>
+        <translation>Eklediğiniz %1 resim çok büyük (2 MB&apos;den büyük). Disk alanından tasarruf etmek ve program çalışmasının verimliliğini artırmak için görüntüleri sıkıştırmanız önerilir.
+Sıkıştırılmış görüntülerin kalitesinden belirli bir ölçüde ödün verilecektir. Resimleri sıkıştırmaya devam edilsin mi?</translation>
     </message>
 </context>
 <context>
@@ -52,23 +53,23 @@
     <name>QObject</name>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>File is not saved</source>
-        <translation type="unfinished"/>
+        <translation>Dosya kaydedilmedi</translation>
     </message>
     <message>
         <source>The document has password.</source>
-        <translation type="unfinished"/>
+        <translation>Belge parola korumalıdır</translation>
     </message>
     <message>
         <source>This file format is not supported at this time.</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya biçimi şu anda desteklenmiyor.</translation>
     </message>
     <message>
         <source>Save and continue</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet ve devam Et</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -76,11 +77,11 @@
     </message>
     <message>
         <source>The document need to be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Belgenin kaydedilmesi gerekiyor.</translation>
     </message>
     <message>
         <source>The active document has been modified. Please save to continue.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belge değiştirildi. Devam etmeden önce belgeyi kaydedin.</translation>
     </message>
 </context>
 <context>
@@ -187,11 +188,11 @@
     <name>KAppRbTabLoadWidget</name>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>[%1] Load Failed.</source>
@@ -377,7 +378,7 @@
     <name>KLitePluginWaitingWidget</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>failed</source>
@@ -399,7 +400,7 @@
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Document management is provided by NoteExpress, which requires NoteExpress for WPS. Confirm to download and install?</source>
@@ -426,7 +427,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -441,7 +442,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -456,11 +457,11 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>The active document has been modified. Please save to continue.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli belge değiştirildi. Devam etmeden önce belgeyi kaydedin.</translation>
     </message>
 </context>
 <context>
@@ -735,7 +736,7 @@
     <name>KDetectorOfAbcPen</name>
     <message>
         <source>AbcPen</source>
-        <translation type="unfinished"/>
+        <translation>Sınav Kağıdı Kompozisyonu</translation>
     </message>
     <message>
         <source>Combine questions to produce examination paper</source>
@@ -746,7 +747,7 @@
     <name>KMsgBox</name>
     <message>
         <source>Advanced Mode Description</source>
-        <translation type="unfinished"/>
+        <translation>Tebrikler. Elektronik tablolar için gelişmiş filtre modunu etkinleştirdiniz. Gelişmiş mod, karmaşık verileri hızlı bir şekilde filtreleyebilir ve çeşitli gelişmiş filtre koşullarını destekler. Göz atın.</translation>
     </message>
     <message>
         <source>confirm</source>
