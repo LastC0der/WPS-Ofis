@@ -11344,7 +11344,7 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
     <message>
         <source>No, thanks</source>
-        <translation type="unfinished"/>
+        <translation>Tidak, terima kasih</translation>
     </message>
     <message>
         <source>Open failed!</source>
@@ -13609,19 +13609,19 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>Tidak (&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ya (&amp;Y)</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Bantuan</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Buka</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13629,11 +13629,11 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Terapkan</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13641,15 +13641,15 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Pulihkan Default</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13657,23 +13657,23 @@ Selalu ambil tindakan ini.</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Tidak untuk Semua (&amp;i)</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Semua</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Buang</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Ya untuk Semua (&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -14219,7 +14219,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     <name>kso_dguil</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Tidak</translation>
     </message>
     <message>
         <source>pt</source>
@@ -14863,7 +14863,7 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     </message>
     <message>
         <source>Create Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Buat Kontrol Konten</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -15302,7 +15302,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished"/>
+        <translation>Sisipkan Autobentuk</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -15441,7 +15441,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Common Compression</source>
-        <translation type="unfinished"/>
+        <translation>Kompresi Umum</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -15663,7 +15663,7 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     </message>
     <message>
         <source>Smart Compression</source>
-        <translation type="unfinished"/>
+        <translation>Kompresi Pintar</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
@@ -22768,7 +22768,7 @@ Cek jalur dan nama file.</translation>
     </message>
     <message>
         <source>Change Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Ubah Pemformatan</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
