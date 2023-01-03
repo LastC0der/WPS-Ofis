@@ -3,15 +3,15 @@
     <name>KLiteCustomerServiceDlg</name>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>WPS customer service</source>
@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Uyarı</translation>
     </message>
 </context>
 <context>
@@ -288,11 +288,11 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>En Fazla</translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -352,7 +352,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Geri Yükle</translation>
     </message>
     <message>
         <source>Folder Select</source>
@@ -408,7 +408,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Aç</translation>
     </message>
     <message>
         <source>Thumbnail</source>
@@ -502,14 +502,14 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"/>
+        <translation>Değiştirilme</translation>
     </message>
 </context>
 <context>
     <name>KThirdCloudFileListPage</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -733,7 +733,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Devam Et</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
