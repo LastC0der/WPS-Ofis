@@ -13608,19 +13608,19 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sí</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13628,11 +13628,11 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Interrumpir</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13640,15 +13640,15 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reinicializar</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Reintentar</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar los valores predeterminados</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13656,23 +13656,23 @@ Siempre ejecute esa acción.</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>N&amp;o a todo</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Guardar todo</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Descartar</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Sí a &amp;todo</translation>
     </message>
 </context>
 <context>
@@ -14218,7 +14218,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     <name>kso_dguil</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>pt</source>
@@ -14862,7 +14862,7 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     </message>
     <message>
         <source>Create Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Crear control de contenido</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -15301,7 +15301,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished"/>
+        <translation>Insertar autoforma</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -15440,7 +15440,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Common Compression</source>
-        <translation type="unfinished"/>
+        <translation>Compresión común</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -15662,7 +15662,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     </message>
     <message>
         <source>Smart Compression</source>
-        <translation type="unfinished"/>
+        <translation>Compresión inteligente</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
@@ -20607,7 +20607,7 @@ asistente</translation>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -22768,7 +22768,7 @@ asistente</translation>
     </message>
     <message>
         <source>Change Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar formato</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
