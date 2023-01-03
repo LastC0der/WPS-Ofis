@@ -3662,7 +3662,7 @@ Value</source>
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_MergedCell_InRange</comment>
-        <translation type="unfinished"/>
+        <translation>Объединённые ячейки не могут быть отсортированы.</translation>
     </message>
     <message>
         <source>Converting to Linked Data Types (Press ESC to cancel)</source>
@@ -3884,7 +3884,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_Hyperlink_Cannot_OpenRef</comment>
-        <translation type="unfinished"/>
+        <translation>Неверная ссылка.</translation>
     </message>
     <message>
         <source>Formula%d</source>
@@ -3946,7 +3946,7 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Min</source>
         <comment>TX_SUBTOTAL_MIN</comment>
-        <translation type="unfinished"/>
+        <translation>Минимум</translation>
     </message>
     <message>
         <source>Grand Total</source>
@@ -4031,7 +4031,7 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Max</source>
         <comment>TX_SUBTOTAL_MAX</comment>
-        <translation type="unfinished"/>
+        <translation>Максимум</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -6152,7 +6152,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>No Format Set</source>
         <comment>TX_UNDEF_FMT</comment>
-        <translation type="unfinished"/>
+        <translation>Не выбран формат</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7439,7 +7439,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>Unprotect Book</source>
         <comment>TX_BookUnProtectHint</comment>
-        <translation type="unfinished"/>
+        <translation>Снять защиту книги</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8331,7 +8331,7 @@ Data</source>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_045</comment>
-        <translation type="unfinished"/>
+        <translation>Число</translation>
     </message>
     <message>
         <source>Number</source>
@@ -9396,7 +9396,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Format Cells</source>
         <comment>TX_SETEDITCAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Формат ячеек</translation>
     </message>
     <message>
         <source>is the value between A and B at which to evaluate the function.</source>
@@ -10045,7 +10045,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
-        <translation type="unfinished"/>
+        <translation>угол в радианах, для которого определяется синус. Градусы * PI()/180 = радианы.</translation>
     </message>
     <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
@@ -10482,7 +10482,7 @@ There are several possible reasons:
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
         <comment>TX_ParaDesc_113</comment>
-        <translation type="unfinished"/>
+        <translation>значение, для которого вычисляется функция, неотрицательное число.</translation>
     </message>
     <message>
         <source>Left section </source>
@@ -11152,7 +11152,7 @@ Continue ?</source>
     <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
-        <translation type="unfinished"/>
+        <translation>Вниз</translation>
     </message>
     <message>
         <source>is the number of rows, up or down, that you want the upper-left cell of the result to refer to.</source>
@@ -11556,7 +11556,7 @@ The values which can be typed here is restricted by other users.</source>
     <message>
         <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_263</comment>
-        <translation type="unfinished"/>
+        <translation>вероятность, связанная с нормальным распределением, число в диапазоне от 0 до 1, включительно.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
@@ -11671,7 +11671,7 @@ The values which can be typed here is restricted by other users.</source>
     <message>
         <source>Width</source>
         <comment>TX_SizeTip_Col</comment>
-        <translation type="unfinished"/>
+        <translation>Ширина</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
@@ -12233,7 +12233,7 @@ Workbook</source>
     <message>
         <source>Height</source>
         <comment>TX_SizeTip_Row</comment>
-        <translation type="unfinished"/>
+        <translation>Высота</translation>
     </message>
     <message>
         <source>The Maximum contains an error now. Do you want to continue?</source>
@@ -12316,7 +12316,7 @@ Workbook</source>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>В центре</translation>
     </message>
     <message>
         <source>is the y-coordinate of the point.</source>
@@ -12567,7 +12567,7 @@ Workbook</source>
     <message>
         <source>Left section </source>
         <comment>TX_CHECKSPELLING_FROMLEFTHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Область слева</translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
@@ -12652,7 +12652,7 @@ Workbook</source>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Область справа</translation>
     </message>
     <message>
         <source>is the payment made each period, it change over the life of the investment.</source>
@@ -13290,7 +13290,7 @@ Workbook</source>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sInvalidName</comment>
-        <translation type="unfinished"/>
+        <translation>Введенный текст не является правильной ссылкой или именем.</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
@@ -17257,7 +17257,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearFormats</comment>
-        <translation type="unfinished"/>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>AutoFitSelection</source>
@@ -17389,7 +17389,8 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Insert Function</source>
         <comment>TX_Undo_Function</comment>
-        <translation type="unfinished"/>
+        <translation>Вставить 
+функцию</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -17491,7 +17492,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Remove Page Break</source>
         <comment>TX_Undo_RemovePageBreak</comment>
-        <translation type="unfinished"/>
+        <translation>Удаление разрыва страницы</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -17508,7 +17509,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Set Print Area</source>
         <comment>TX_Undo_SetPrintAreas</comment>
-        <translation type="unfinished"/>
+        <translation>Установить диапазон для печати</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -17712,7 +17713,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Insert Page Break</source>
         <comment>TX_Undo_PageBreak</comment>
-        <translation type="unfinished"/>
+        <translation>Вставить разрыв страницы</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -17911,7 +17912,7 @@ Columns</source>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Ввести последовательность букв</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18461,7 +18462,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Ввести последовательность римских цифр</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18470,7 +18471,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Автозаполнение последовательных чисел</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -19032,7 +19033,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Ввести последовательность букв</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -19225,7 +19226,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Официальный веб-сайт</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -19317,7 +19318,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Основное шифрование</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -20181,7 +20182,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Объединить листы с одинаковыми именами в книгах</translation>
     </message>
     <message>
         <source>% of Parent Row Total</source>
@@ -20604,7 +20605,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Create Table Directory</source>
-        <translation type="unfinished"/>
+        <translation>Создать каталог таблиц</translation>
     </message>
     <message>
         <source>Insert Column Before</source>
@@ -20700,7 +20701,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Расшифровка</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -21089,7 +21090,7 @@ OLE DB Query</source>
     <message>
         <source>PivotTable</source>
         <comment>Top 10</comment>
-        <translation type="unfinished"/>
+        <translation>Сводная таблица</translation>
     </message>
     <message>
         <source>TrendLine</source>
@@ -21130,11 +21131,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Ввести последовательность римских цифр</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Автозаполнение последовательных чисел</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -21671,7 +21672,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Normal Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Нормальное шифрование</translation>
     </message>
     <message>
         <source>Close Workspace</source>
@@ -24509,7 +24510,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>GAMMALN(x)</source>
         <comment>GAMMALN_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ГАММАНЛОГ(x)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
@@ -26688,7 +26689,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ПЕРЕСТ(число,число_выбранных)</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
@@ -27562,7 +27563,7 @@ Workbook</source>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic_</comment>
-        <translation type="unfinished"/>
+        <translation>Полужирный курсив</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -29529,11 +29530,11 @@ Window</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Макрос</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендации</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29541,7 +29542,7 @@ Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Редактор Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -31044,7 +31045,7 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>Дополнительные возможности разделения</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -31626,7 +31627,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert Diagonal Header</source>
-        <translation type="unfinished"/>
+        <translation>Вставить многоугольную ячейку</translation>
     </message>
     <message>
         <source>Sparkline Tools</source>
@@ -31642,7 +31643,7 @@ Painter</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт в рисунок</translation>
     </message>
 </context>
 <context>
@@ -32255,7 +32256,7 @@ Painter</source>
     </message>
     <message>
         <source>Account Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Шифрование учетной записи</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -38047,7 +38048,7 @@ On/Off</source>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Ввести последовательность букв</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38234,11 +38235,11 @@ All</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Ввести последовательность римских цифр</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Автозаполнение последовательных чисел</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38329,7 +38330,7 @@ All</source>
     </message>
     <message>
         <source>Merge Tables</source>
-        <translation type="unfinished"/>
+        <translation>Объединить таблицы</translation>
     </message>
 </context>
 <context>
@@ -42239,7 +42240,7 @@ Center</source>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Средство записи экрана</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -42295,7 +42296,7 @@ Center</source>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Буфер обмена Cloud</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -42377,7 +42378,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Инструментарий Et</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -42947,11 +42948,11 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>Вставить штрих-код</translation>
     </message>
 </context>
 <context>
@@ -43292,7 +43293,7 @@ Window</source>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Редактор Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -43791,11 +43792,11 @@ OLE DB</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF в Word</translation>
     </message>
 </context>
 <context>
@@ -44453,7 +44454,7 @@ Comment</source>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Шифрование документа</translation>
     </message>
 </context>
 <context>
@@ -44862,27 +44863,27 @@ Page</source>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Вписать лист на одну страницу</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Нет масштаба</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Пользовательский масштаб</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Вписать все строки на одну страницу</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Вписать все столбцы на одну страницу</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Масштаб страницы</translation>
     </message>
 </context>
 <context>
@@ -45389,11 +45390,11 @@ Backward</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Разрывы</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Пользовательский масштаб</translation>
     </message>
     <message>
         <source>Print
@@ -46962,7 +46963,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Китайский(Тайвань)</translation>
     </message>
 </context>
 <context>
@@ -48627,7 +48628,7 @@ Value: </source>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>Двусторонняя печать</translation>
     </message>
 </context>
 <context>
@@ -51262,7 +51263,7 @@ Item Labels</source>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Справка по этой функции</translation>
     </message>
 </context>
 <context>
@@ -55875,11 +55876,11 @@ Comment</source>
     <name>et_et_ui</name>
     <message>
         <source>Split window</source>
-        <translation type="unfinished"/>
+        <translation>Разделить окно</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Режим разметки страницы несовместим с закреплением областей. Если продолжить, области на этом листе будут откреплены. Продолжить?</translation>
     </message>
 </context>
 <context>
@@ -55960,7 +55961,7 @@ OLE DB</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Преобразовать в файл PDF</translation>
     </message>
 </context>
 </TS>
