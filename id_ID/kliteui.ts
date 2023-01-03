@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>WPS customer service</source>
-        <translation type="unfinished"/>
+        <translation>Layanan pelanggan WPS</translation>
     </message>
 </context>
 <context>
@@ -189,7 +189,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <name>QObject</name>
     <message>
         <source>DOC</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
     <message>
         <source>PDF</source>
@@ -217,7 +217,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
 </context>
 <context>
