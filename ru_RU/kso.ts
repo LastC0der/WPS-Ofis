@@ -2376,7 +2376,7 @@ elements</source>
     <message>
         <source>Close</source>
         <comment>kso_sCloseCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
@@ -2898,7 +2898,7 @@ Download the XML expansion pack?</source>
     <message>
         <source>Stop</source>
         <comment>kso_sWASSTop</comment>
-        <translation type="unfinished"/>
+        <translation>Остановить</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3105,7 +3105,7 @@ Please save the file and create share link</source>
     <message>
         <source>Part of %s</source>
         <comment>kso_sPartOf</comment>
-        <translation type="unfinished"/>
+        <translation>Часть %s</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -4114,7 +4114,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished"/>
+        <translation>Все файлы(*.*)</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -9924,7 +9924,7 @@ Line-type: %3</source>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished"/>
+        <translation>Группировать</translation>
     </message>
     <message>
         <source>Whole-Iamge,4 Pt Offset</source>
@@ -11341,7 +11341,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>No, thanks</source>
-        <translation type="unfinished"/>
+        <translation>Нет, спасибо</translation>
     </message>
     <message>
         <source>Open failed!</source>
@@ -12983,7 +12983,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>None</source>
@@ -13421,7 +13421,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка чтения из %1: %2</translation>
     </message>
     <message>
         <source>Yesterday</source>
@@ -13585,7 +13585,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка записи в %1: %2</translation>
     </message>
     <message>
         <source>must be 6-16 chars(case-sensitive)</source>
@@ -13604,19 +13604,19 @@ Always take this action.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Нет</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Да</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Справка</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13624,11 +13624,11 @@ Always take this action.</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Прервать</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13636,15 +13636,15 @@ Always take this action.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Повторить</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Восстановить значения</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13652,23 +13652,23 @@ Always take this action.</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Н&amp;ет для всех</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить все</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Отклонить</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Да для &amp;всех</translation>
     </message>
 </context>
 <context>
@@ -14214,7 +14214,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>kso_dguil</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>pt</source>
@@ -14438,7 +14438,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>Формат фигуры</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -14568,7 +14568,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
-        <translation type="unfinished"/>
+        <translation>Вставить текстовое поле</translation>
     </message>
     <message>
         <source>Unidentifiable sound format.</source>
@@ -14593,7 +14593,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeUp</comment>
-        <translation type="unfinished"/>
+        <translation>Сдвиг объекта</translation>
     </message>
     <message>
         <source>*.mp3;*.mp2;*.m3u</source>
@@ -14818,7 +14818,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation type="unfinished"/>
+        <translation>Изменить рисунок</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
@@ -14858,7 +14858,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Create Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Создать элемент управления содержимым</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -14975,7 +14975,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -15116,7 +15116,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
-        <translation type="unfinished"/>
+        <translation>Сдвиг тени</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -15296,7 +15296,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished"/>
+        <translation>Вставить автофигуру</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -15435,7 +15435,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Common Compression</source>
-        <translation type="unfinished"/>
+        <translation>Обычное сжатие</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -15657,7 +15657,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>Smart Compression</source>
-        <translation type="unfinished"/>
+        <translation>Интеллектуальное сжатие</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
@@ -15735,7 +15735,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation type="unfinished"/>
+        <translation>Обрезать</translation>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff</source>
@@ -20601,7 +20601,7 @@ Check path and filename.</source>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -22762,7 +22762,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Change Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Изменить форматирование</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
@@ -33649,7 +33649,7 @@ Document</source>
     </message>
     <message>
         <source>Volume: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Громкость: %1%</translation>
     </message>
 </context>
 <context>
