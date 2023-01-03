@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>Metni Etiketi</translation>
     </message>
 </context>
 <context>
@@ -393,7 +393,7 @@
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;aydamlık</translation>
     </message>
 </context>
 <context>
@@ -1011,7 +1011,7 @@
     </message>
     <message>
         <source>&amp;Distance</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uzaklık</translation>
     </message>
     <message>
         <source>content_shadow</source>
@@ -1276,7 +1276,7 @@
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"/>
+        <translation>sn</translation>
     </message>
     <message>
         <source>Plain Text</source>
@@ -1485,7 +1485,7 @@ Please check your data and make sure that the reference is valid and the workshe
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz</translation>
     </message>
     <message>
         <source>Weave</source>
@@ -1762,7 +1762,7 @@ Used to show relationships of core elements</source>
     </message>
     <message>
         <source>Light vertical</source>
-        <translation type="unfinished"/>
+        <translation>İnce dikey</translation>
     </message>
     <message>
         <source>Sea Green</source>
@@ -1900,7 +1900,7 @@ Used to show foundation-based relationships</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -2157,7 +2157,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>First Slide</source>
-        <translation type="unfinished"/>
+        <translation>İlk Slayt</translation>
     </message>
     <message>
         <source>Light Green</source>
@@ -2169,7 +2169,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>File not found</source>
-        <translation type="unfinished"/>
+        <translation>Dosya bulunamadı</translation>
     </message>
     <message>
         <source>Last Slide</source>
@@ -2976,7 +2976,7 @@ Lütfen dosyayı kaydedin ve paylaşım bağlantısı oluşturun</translation>
     </message>
     <message>
         <source>Defined Names</source>
-        <translation type="unfinished"/>
+        <translation>Tanımlı Adlar</translation>
     </message>
     <message>
         <source>8 9 10 12 14 16 18 20 24 28 32 36 40 44 48 54 60 66 72 80 88 96</source>
@@ -3117,7 +3117,7 @@ Lütfen dosyayı kaydedin ve paylaşım bağlantısı oluşturun</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Çince (Tayvan)</translation>
     </message>
     <message>
         <source>Chinese (PRC)</source>
@@ -3349,7 +3349,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -3712,7 +3712,7 @@ Used to show hierarchical relationships</source>
     <name>kso_ksocomm</name>
     <message>
         <source>,</source>
-        <translation type="unfinished"/>
+        <translation>,</translation>
     </message>
     <message>
         <source>No</source>
@@ -3740,7 +3740,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>Bildirim</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3834,7 +3834,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Kingsoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF</translation>
     </message>
     <message>
         <source>Visio Files</source>
@@ -4387,7 +4387,7 @@ Do you want to open it using a different set of credentials?</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya aç</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this stored credential? You will not be able to use this credential unless you re-enable it.</source>
@@ -4848,7 +4848,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>En Fazla</translation>
     </message>
     <message>
         <source>&amp;Dates in reverse order</source>
@@ -4856,7 +4856,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>En Az</translation>
     </message>
     <message>
         <source>Bounds</source>
@@ -5293,7 +5293,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bekleyin...</translation>
     </message>
 </context>
 <context>
@@ -5935,7 +5935,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Loose</source>
-        <translation type="unfinished"/>
+        <translation>Seyrek</translation>
     </message>
     <message>
         <source>Minus</source>
@@ -6119,7 +6119,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     <message>
         <source>Button</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
-        <translation type="unfinished"/>
+        <translation>Düğme</translation>
     </message>
     <message>
         <source>Left-Up Offset</source>
@@ -6289,7 +6289,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     </message>
     <message>
         <source>Inverted Triangle</source>
-        <translation type="unfinished"/>
+        <translation>Üçgen Aşağı</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -7214,11 +7214,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation type="unfinished"/>
+        <translation>Düğme</translation>
     </message>
     <message>
         <source>Two-seater</source>
@@ -7266,7 +7266,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Horizontal Scroll</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Kaydırma</translation>
     </message>
     <message>
         <source>Left Indent</source>
@@ -7743,7 +7743,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Text Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Metin Gölgesi</translation>
     </message>
     <message>
         <source>Down Ribbon</source>
@@ -8108,7 +8108,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Explosion 1</source>
-        <translation type="unfinished"/>
+        <translation>Patlama 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
@@ -8364,7 +8364,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Promote</source>
-        <translation type="unfinished"/>
+        <translation>Yükselt</translation>
     </message>
     <message>
         <source>Accent1</source>
@@ -10195,7 +10195,7 @@ Line-type: %3</source>
     <message>
         <source>Explosion 1</source>
         <comment>DRAWING2STR_EXPLOSION_1</comment>
-        <translation type="unfinished"/>
+        <translation>Patlama 1</translation>
     </message>
     <message>
         <source>Up Arrow Callout</source>
@@ -10251,11 +10251,11 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Decrease Indent</source>
-        <translation type="unfinished"/>
+        <translation>Girintiyi Azalt</translation>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation type="unfinished"/>
+        <translation>Girintiyi Artır</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
@@ -10406,7 +10406,7 @@ Line-type: %3</source>
     <message>
         <source>Horizontal Scroll</source>
         <comment>DRAWING2STR_HORIZONTAL_SCROLL</comment>
-        <translation type="unfinished"/>
+        <translation>Yatay Kaydırma</translation>
     </message>
     <message>
         <source>HorizontalBrick</source>
@@ -11276,7 +11276,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Uyarı</translation>
     </message>
     <message>
         <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
@@ -11491,7 +11491,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>Ignore (&amp;I)</source>
@@ -11812,7 +11812,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Password Protection</source>
-        <translation type="unfinished"/>
+        <translation>Parola Koruması</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12876,7 +12876,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>in</source>
-        <translation type="unfinished"/>
+        <translation>inç</translation>
     </message>
     <message>
         <source>mm</source>
@@ -12992,7 +12992,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Backing up</source>
-        <translation type="unfinished"/>
+        <translation>Yedekleme</translation>
     </message>
     <message>
         <source>Split selected PDF pages as a new separate document</source>
@@ -13008,7 +13008,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>File Type</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Türü</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -13833,7 +13833,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&apos;urlonline&apos;&gt; WPS Çevrimiçi Mağaza &lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -14011,7 +14011,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kaynak:</translation>
     </message>
     <message>
         <source>Document Issuing organization</source>
@@ -14031,7 +14031,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değer:</translation>
     </message>
     <message>
         <source>yyyy-MM-dd</source>
@@ -14229,7 +14229,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"/>
+        <translation>Üstü Çizili</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -14261,7 +14261,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -14517,7 +14517,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Saydamlık</translation>
     </message>
     <message>
         <source>Insert Scribble</source>
@@ -14900,7 +14900,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Devam</translation>
     </message>
     <message>
         <source>To edit this diagram, you must convert it to Shapes.</source>
@@ -15075,7 +15075,7 @@ Ekle</translation>
     <message>
         <source>Rotate 3-D</source>
         <comment>DgUil_KSO_Cmd_3DTiltRight</comment>
-        <translation type="unfinished"/>
+        <translation>3-B Döndür</translation>
     </message>
     <message>
         <source>Brightness/Contrast</source>
@@ -15478,7 +15478,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Hata</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15743,7 +15743,7 @@ Ekle</translation>
     </message>
     <message>
         <source>ResetDefaults</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılanı Sıfırla</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -15755,7 +15755,7 @@ Ekle</translation>
     </message>
     <message>
         <source>No To All</source>
-        <translation type="unfinished"/>
+        <translation>Tümüne Hayır</translation>
     </message>
     <message>
         <source>Yes To All</source>
@@ -15775,7 +15775,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Retry (&amp;R)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeniden Dene</translation>
     </message>
     <message>
         <source>Discard</source>
@@ -16118,7 +16118,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Narrow Margins</source>
-        <translation type="unfinished"/>
+        <translation>Dar Kenar Boşlukları</translation>
     </message>
     <message>
         <source>&amp;Columns...</source>
@@ -16676,7 +16676,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Enter 0 to 120 Degres  of value</source>
-        <translation type="unfinished"/>
+        <translation>0 ile 120 arasında Derece değeri girin</translation>
     </message>
     <message>
         <source>Turn Up</source>
@@ -16767,7 +16767,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Turn Down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Döndür</translation>
     </message>
     <message>
         <source>Turn Left</source>
@@ -17600,7 +17600,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Tarih</translation>
     </message>
     <message>
         <source>File</source>
@@ -17672,7 +17672,7 @@ Ekle</translation>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;osya adı:</translation>
     </message>
     <message>
         <source>Delete %1</source>
@@ -17874,7 +17874,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Öğe</translation>
     </message>
     <message>
         <source>Lock</source>
@@ -19226,7 +19226,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     <name>KNativeFileDialogEx</name>
     <message>
         <source>Alt</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>Ctrl</source>
@@ -20173,7 +20173,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Limit</source>
-        <translation type="unfinished"/>
+        <translation>Sınır</translation>
     </message>
     <message>
         <source>Minus</source>
@@ -20203,11 +20203,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>En Fazla</translation>
     </message>
     <message>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>En Az</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -20219,11 +20219,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"/>
+        <translation>Betik</translation>
     </message>
     <message>
         <source>Integral</source>
-        <translation type="unfinished"/>
+        <translation>İntegral</translation>
     </message>
     <message>
         <source>Basic Math</source>
@@ -20232,7 +20232,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Operator</source>
-        <translation type="unfinished"/>
+        <translation>İşleç</translation>
     </message>
     <message>
         <source>Remove Opening Bracket</source>
@@ -20260,7 +20260,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Radical</source>
-        <translation type="unfinished"/>
+        <translation>Kök</translation>
     </message>
     <message>
         <source>Greater Than</source>
@@ -20284,7 +20284,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Percentage</source>
-        <translation type="unfinished"/>
+        <translation>Yüzde Oranı</translation>
     </message>
     <message>
         <source>Remove Closing Bracket</source>
@@ -20292,7 +20292,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Less Than</source>
-        <translation type="unfinished"/>
+        <translation>Küçük</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -20326,7 +20326,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Subscripts and Superscripts</source>
-        <translation type="unfinished"/>
+        <translation>Üst ve Alt Simgeler</translation>
     </message>
     <message>
         <source>Basic Math</source>
@@ -20879,7 +20879,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Module</source>
-        <translation type="unfinished"/>
+        <translation>Modül</translation>
     </message>
     <message>
         <source>Office</source>
@@ -21643,15 +21643,15 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Peru</source>
-        <translation type="unfinished"/>
+        <translation>Peru</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Tayca</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Yunanca</translation>
     </message>
     <message>
         <source>Khmer</source>
@@ -21659,7 +21659,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya dili</translation>
     </message>
     <message>
         <source>Tamil</source>
@@ -21671,39 +21671,39 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalamca</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arapça</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"/>
+        <translation>Fransızca</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"/>
+        <translation>Almanca</translation>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"/>
+        <translation>Moğolca</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>İbranice</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Kore dili</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugu dili</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Süryanice</translation>
     </message>
     <message>
         <source>Japanese</source>
@@ -21715,39 +21715,39 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"/>
+        <translation>Ermenice</translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Çince</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Seylanca</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"/>
+        <translation>Tibetçe</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamca</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Guceratça</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Gürcüce</translation>
     </message>
     <message>
         <source>Cherokee</source>
-        <translation type="unfinished"/>
+        <translation>Çerokice</translation>
     </message>
 </context>
 <context>
@@ -22436,7 +22436,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
-        <translation type="unfinished"/>
+        <translation>Grafik türü değiştirilemedi. Seçilen veriler bu grafik türüne değiştirilemez.</translation>
     </message>
     <message>
         <source>Reset To Match Style</source>
@@ -22680,7 +22680,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Change Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirmeyi Değiştir</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
@@ -22847,7 +22847,9 @@ This file may be renamed, deleted or moved.</source>
         <source>
 
 Modified time: </source>
-        <translation type="unfinished"/>
+        <translation>
+
+Değiştirme zamanı: </translation>
     </message>
     <message>
         <source>From Design Templates</source>
@@ -23215,7 +23217,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Brush Tool</source>
@@ -23223,7 +23225,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"/>
+        <translation>Ayar</translation>
     </message>
     <message>
         <source>Rect Tool</source>
@@ -23255,11 +23257,11 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"/>
+        <translation>Metin Aracı</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Araç Çubuğunu Gizle</translation>
     </message>
 </context>
 <context>
@@ -23949,7 +23951,7 @@ to Adsorb Line</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
@@ -24129,7 +24131,7 @@ Possible reasons:
     <message>
         <source>WPS Writer Documents</source>
         <comment>_KsoLinuxOleWpsFile</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Writer Belgeleri</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Presentation</source>
@@ -24470,7 +24472,7 @@ Possible reasons:
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;zen</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
@@ -24498,7 +24500,7 @@ Possible reasons:
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <source>&amp;Step Into</source>
@@ -25300,7 +25302,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Where:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
@@ -25378,7 +25380,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Gölge</translation>
     </message>
     <message>
         <source>Capture%1</source>
@@ -25386,7 +25388,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
@@ -25494,23 +25496,23 @@ Please verify the correct file name was given.</source>
     <name>KxDlgCustomThemeColor</name>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"/>
+        <translation>Koyu</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kaydet</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Açık</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ad:</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sıfırla</translation>
     </message>
     <message>
         <source>Text/&amp;Backdrop-Light 1</source>
@@ -25522,11 +25524,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Köprü</translation>
     </message>
     <message>
         <source>Theme color</source>
@@ -25566,7 +25568,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Example</source>
-        <translation type="unfinished"/>
+        <translation>Örnek</translation>
     </message>
     <message>
         <source>Text/Backdrop-&amp;Light 2</source>
@@ -25890,7 +25892,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPTX Sunumu</translation>
     </message>
     <message>
         <source>Inserts the contents of the file into your document and creates a link to the source file. Changes to the source file will be reflected in your document.</source>
@@ -25906,7 +25908,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Uniform Office Spreadsheet Format</source>
-        <translation type="unfinished"/>
+        <translation>Tekdüzen Ofis Elektronik Tablo Biçimi</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation.</source>
@@ -25922,7 +25924,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Uniform Office Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Tekdüzen Ofis Metin Biçimi</translation>
     </message>
     <message>
         <source>Inserts a new %1 object into your presentation. It will be displayed as an icon.</source>
@@ -26183,7 +26185,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Outline</source>
-        <translation type="unfinished"/>
+        <translation>Çerçe&amp;ve</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
@@ -26541,7 +26543,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sekmeler</translation>
     </message>
     <message>
         <source>Assign [Alt+number] hot keys to commands in quick toolbar</source>
@@ -26611,7 +26613,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>test</source>
-        <translation type="unfinished"/>
+        <translation>test</translation>
     </message>
     <message>
         <source>Sorry! An error occurred just now. Now it has been fixed.</source>
@@ -27297,11 +27299,11 @@ Ortalama</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>En Fazla</translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -27361,7 +27363,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"/>
+        <translation>Geri Yükle</translation>
     </message>
     <message>
         <source>Folder Select</source>
@@ -27606,7 +27608,7 @@ Ortalama</translation>
     <name>KxInkDrawPenGalleryCommand</name>
     <message>
         <source>Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <source>Rect</source>
@@ -27614,7 +27616,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Wave</source>
-        <translation type="unfinished"/>
+        <translation>Dalga</translation>
     </message>
     <message>
         <source>1pound</source>
@@ -27649,7 +27651,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"/>
+        <translation>Saat</translation>
     </message>
     <message>
         <source>nothing</source>
@@ -28024,7 +28026,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Close Full Screen</source>
@@ -28036,7 +28038,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Uzaklaştır</translation>
     </message>
     <message>
         <source>Real Size</source>
@@ -28319,7 +28321,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Çokgen</translation>
     </message>
     <message>
         <source>RoundedRect</source>
@@ -28327,7 +28329,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"/>
+        <translation>Oval</translation>
     </message>
     <message>
         <source>WPS Screengrab</source>
@@ -28612,7 +28614,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxMBHistoryDatasModel</name>
     <message>
         <source>Time</source>
-        <translation type="unfinished"/>
+        <translation>Saat</translation>
     </message>
     <message>
         <source>Level of classification</source>
@@ -28639,11 +28641,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxCustomThemeColorDlg</name>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>metin</translation>
     </message>
     <message>
         <source>Change Theme Color</source>
@@ -28651,11 +28653,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation type="unfinished"/>
+        <translation>Köprü</translation>
     </message>
     <message>
         <source>Theme color name cannot be empty</source>
@@ -28859,7 +28861,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>recover from backup</source>
@@ -29100,7 +29102,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxWithdrawSignedMBCommand</name>
     <message>
         <source>tips</source>
-        <translation type="unfinished"/>
+        <translation>İpuçları</translation>
     </message>
     <message>
         <source>Are you sure to withdraw issue?</source>
@@ -30191,7 +30193,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>It is not possible to cast from %1 to %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1&apos;den %2&apos;ye yayın yapmak mümkün değil.</translation>
     </message>
     <message>
         <source>No variable by name %1 exists</source>
@@ -30329,7 +30331,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>User Name:	%1</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Adı:	%1</translation>
     </message>
     <message>
         <source>Document Name</source>
@@ -30699,11 +30701,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxShortcutsDiffDlg</name>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"/>
+        <translation>Baskı Önizleme</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol</translation>
     </message>
 </context>
 <context>
@@ -31069,7 +31071,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Grant Permission</source>
-        <translation type="unfinished"/>
+        <translation>İzin Ver</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -33072,7 +33074,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KRbQatCustomMenu</name>
     <message>
         <source>Float</source>
-        <translation type="unfinished"/>
+        <translation>Kayan</translation>
     </message>
     <message>
         <source>Put below ribbon</source>
@@ -33333,7 +33335,7 @@ Document</source>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
@@ -33645,7 +33647,7 @@ yazılamadı</translation>
     <name>KxFormatGroupContentChartAxisOptions</name>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <source>Veritcal axis crosses</source>
@@ -34073,7 +34075,7 @@ yazılamadı</translation>
     <name>KxCOMAddinsDlg</name>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
@@ -34192,7 +34194,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>Start Your free 7-day trail of WPS Premium</source>
@@ -34250,7 +34252,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Bu projedeki makrolar devre dışı bırakıldı.</translation>
     </message>
 </context>
 <context>
@@ -34397,7 +34399,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>The shortcut keys for WPS screenshots have been occupied. It is suggested that you change the shortcut keys for conflict software or modify the shortcut keys for WPS screenshots.</source>
@@ -35083,7 +35085,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Some files cannot be deleted. They may be occupied.</source>
-        <translation type="unfinished"/>
+        <translation>Bazı dosyalar silinemiyor. Meşgul olabilirler.</translation>
     </message>
 </context>
 <context>
@@ -36645,7 +36647,7 @@ Please check network</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya aç</translation>
     </message>
     <message>
         <source>Click to control PPT</source>
@@ -36870,7 +36872,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan</translation>
     </message>
 </context>
 <context>
@@ -36885,7 +36887,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan</translation>
     </message>
     <message>
         <source>enable global shortcut for sreengrab</source>
@@ -38323,7 +38325,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Two password inconsistencies</source>
-        <translation type="unfinished"/>
+        <translation>Parolalar tutarlı değil.</translation>
     </message>
     <message>
         <source>Please enter the document password again</source>
@@ -38443,7 +38445,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Check Permissions</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı İzinlerini Kontrol Et</translation>
     </message>
     <message>
         <source>Add &amp;Template</source>
@@ -39208,7 +39210,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya aç</translation>
     </message>
     <message>
         <source>Can not make outward document</source>
@@ -39382,7 +39384,7 @@ Become a VIP for unlimited use of this feature.</source>
     <name>KxThemesGalleryCommand</name>
     <message>
         <source>Change Theme</source>
-        <translation type="unfinished"/>
+        <translation>Temayı Değiştir</translation>
     </message>
 </context>
 <context>
@@ -39415,7 +39417,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"/>
+        <translation>Girdi, %1 değerinden büyük veya buna eşit olmalıdır</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
@@ -39434,7 +39436,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"/>
+        <translation>Girdi, %1 değerinden büyük veya buna eşit olmalıdır</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
@@ -39667,7 +39669,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
 </context>
 <context>
@@ -39888,11 +39890,11 @@ p, li { white-space: pre-wrap; }
     <name>KxThemeColorGalleryModelItem</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
 </context>
 <context>
@@ -39953,7 +39955,7 @@ p, li { white-space: pre-wrap; }
     <name>KxVasEnterClientWidget</name>
     <message>
         <source>I know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
 </context>
 <context>
@@ -40115,7 +40117,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştir</translation>
     </message>
 </context>
 <context>
@@ -40322,7 +40324,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Current password can&apos;t be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli parola boş olamaz.</translation>
     </message>
     <message>
         <source>Password&apos;s length must greater than 8</source>
@@ -40393,15 +40395,15 @@ p, li { white-space: pre-wrap; }
     <name>KxVasEnterGuideInCoopShellDlg</name>
     <message>
         <source>Split Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Bölünmüş Sayfa</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Birleştir</translation>
     </message>
     <message>
         <source>Advanced Filter</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş Filtre</translation>
     </message>
 </context>
 <context>
@@ -40830,7 +40832,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -40954,7 +40956,7 @@ p, li { white-space: pre-wrap; }
     <name>KFilePageFixedButton</name>
     <message>
         <source>fixed to list</source>
-        <translation type="unfinished"/>
+        <translation>Listeye sabitlendi</translation>
     </message>
     <message>
         <source>unfixed from list</source>
@@ -41028,7 +41030,7 @@ p, li { white-space: pre-wrap; }
     <name>KxListFillPictureCommand</name>
     <message>
         <source>Change Picture</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Değiştir</translation>
     </message>
 </context>
 <context>
@@ -41118,7 +41120,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
@@ -41171,7 +41173,7 @@ p, li { white-space: pre-wrap; }
     <name>KxHardwareEncryptionAlert</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Bilgi</translation>
     </message>
     <message>
         <source>It is not supported for Data Encryption/Decryption on this platform.</source>
@@ -41182,7 +41184,7 @@ p, li { white-space: pre-wrap; }
     <name>KCoopReadOnlyCannotSyncMsgBox</name>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"/>
+        <translation>Farklı kaydet</translation>
     </message>
 </context>
 <context>
@@ -41457,7 +41459,7 @@ Properties</source>
     <name>KxCustomMessageBox</name>
     <message>
         <source>Official Document</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Belge</translation>
     </message>
 </context>
 <context>
@@ -41554,7 +41556,9 @@ Properties</source>
         <source>
 
 Modified time: </source>
-        <translation type="unfinished"/>
+        <translation>
+
+Değiştirme zamanı: </translation>
     </message>
     <message>
         <source>
