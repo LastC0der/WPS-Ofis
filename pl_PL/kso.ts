@@ -2377,7 +2377,7 @@ elementów</translation>
     <message>
         <source>Close</source>
         <comment>kso_sCloseCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
@@ -2899,7 +2899,7 @@ Czy pobrać pakiet rozszerzenia XML?</translation>
     <message>
         <source>Stop</source>
         <comment>kso_sWASSTop</comment>
-        <translation type="unfinished"/>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3107,7 +3107,7 @@ Zapisz plik i utwórz łącze udostępniania</translation>
     <message>
         <source>Part of %s</source>
         <comment>kso_sPartOf</comment>
-        <translation type="unfinished"/>
+        <translation>Część %s</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -4116,7 +4116,7 @@ Sqlite3 korzysta z kodu open source do odczytu i zapisu danych na warunkach okre
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished"/>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -9926,7 +9926,7 @@ Typ linii: %3</translation>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished"/>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Whole-Iamge,4 Pt Offset</source>
@@ -11343,7 +11343,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
     <message>
         <source>No, thanks</source>
-        <translation type="unfinished"/>
+        <translation>Nie, dziękuję.</translation>
     </message>
     <message>
         <source>Open failed!</source>
@@ -12987,7 +12987,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzia główne</translation>
     </message>
     <message>
         <source>None</source>
@@ -13425,7 +13425,7 @@ Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Błąd odczytu odczytywania z %1: %2</translation>
     </message>
     <message>
         <source>Yesterday</source>
@@ -13589,7 +13589,7 @@ Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Błąd zapisu zapisywania do %1: %2</translation>
     </message>
     <message>
         <source>must be 6-16 chars(case-sensitive)</source>
@@ -13608,19 +13608,19 @@ Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nie</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tak</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz  </translation>
     </message>
     <message>
         <source>Save</source>
@@ -13628,11 +13628,11 @@ Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Przerwij</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13640,15 +13640,15 @@ Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Resetuj</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Spróbuj ponownie</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Przywróć domyślne</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13656,23 +13656,23 @@ Zawsze wykonuj tą akcję.</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignoruj</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Ni&amp;e dla wszystkich</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz wszystko</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Odrzuć</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;ak dla wszystkich</translation>
     </message>
 </context>
 <context>
@@ -14218,7 +14218,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>kso_dguil</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nie</translation>
     </message>
     <message>
         <source>pt</source>
@@ -14442,7 +14442,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>Formatuj kształt</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -14572,7 +14572,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
-        <translation type="unfinished"/>
+        <translation>Wstaw pole tekstowe</translation>
     </message>
     <message>
         <source>Unidentifiable sound format.</source>
@@ -14597,7 +14597,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeUp</comment>
-        <translation type="unfinished"/>
+        <translation>Posuń obiekt</translation>
     </message>
     <message>
         <source>*.mp3;*.mp2;*.m3u</source>
@@ -14822,7 +14822,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation type="unfinished"/>
+        <translation>Zmień obraz</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
@@ -14862,7 +14862,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Create Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz kontrolę zawartości</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -14979,7 +14979,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>3-D</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -15120,7 +15120,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
-        <translation type="unfinished"/>
+        <translation>Posuń cień</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -15301,7 +15301,7 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished"/>
+        <translation>Wstaw autokształt</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -15440,7 +15440,7 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
     </message>
     <message>
         <source>Common Compression</source>
-        <translation type="unfinished"/>
+        <translation>Zwykła kompresja</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -15662,7 +15662,7 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
     </message>
     <message>
         <source>Smart Compression</source>
-        <translation type="unfinished"/>
+        <translation>Inteligentna kompresja</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
@@ -15740,7 +15740,7 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation type="unfinished"/>
+        <translation>Przytnij</translation>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff</source>
@@ -20606,7 +20606,7 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignoruj</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -22767,7 +22767,7 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     </message>
     <message>
         <source>Change Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Zmień formatowanie</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
@@ -33657,7 +33657,7 @@ dokumencie</translation>
     </message>
     <message>
         <source>Volume: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Głośność: %1%</translation>
     </message>
 </context>
 <context>
