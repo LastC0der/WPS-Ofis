@@ -3660,7 +3660,7 @@ Wartość</translation>
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_MergedCell_InRange</comment>
-        <translation type="unfinished"/>
+        <translation>Scalone komórki nie mogą być sortowane.</translation>
     </message>
     <message>
         <source>Converting to Linked Data Types (Press ESC to cancel)</source>
@@ -3883,7 +3883,7 @@ Aby anulować kwerendę, kliknij przycisk Anuluj.</translation>
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_Hyperlink_Cannot_OpenRef</comment>
-        <translation type="unfinished"/>
+        <translation>Odwołanie jest nieprawidłowe.</translation>
     </message>
     <message>
         <source>Formula%d</source>
@@ -3945,7 +3945,7 @@ Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik
     <message>
         <source>Min</source>
         <comment>TX_SUBTOTAL_MIN</comment>
-        <translation type="unfinished"/>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>Grand Total</source>
@@ -4030,7 +4030,7 @@ Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik
     <message>
         <source>Max</source>
         <comment>TX_SUBTOTAL_MAX</comment>
-        <translation type="unfinished"/>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -6152,7 +6152,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     <message>
         <source>No Format Set</source>
         <comment>TX_UNDEF_FMT</comment>
-        <translation type="unfinished"/>
+        <translation>Brak ustawionego formatu</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7439,7 +7439,7 @@ Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalku
     <message>
         <source>Unprotect Book</source>
         <comment>TX_BookUnProtectHint</comment>
-        <translation type="unfinished"/>
+        <translation>Nie chroń zeszytu</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8332,7 +8332,7 @@ rejestrowanie</translation>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_045</comment>
-        <translation type="unfinished"/>
+        <translation>Numer</translation>
     </message>
     <message>
         <source>Number</source>
@@ -9399,7 +9399,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Format Cells</source>
         <comment>TX_SETEDITCAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Formatuj komórki</translation>
     </message>
     <message>
         <source>is the value between A and B at which to evaluate the function.</source>
@@ -10486,7 +10486,7 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
         <comment>TX_ParaDesc_113</comment>
-        <translation type="unfinished"/>
+        <translation>wartość, dla której ma zostać oszacowana funkcja, liczba nieujemna.</translation>
     </message>
     <message>
         <source>Left section </source>
@@ -11156,7 +11156,7 @@ Czy kontynuować?</translation>
     <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
-        <translation type="unfinished"/>
+        <translation>Do dołu</translation>
     </message>
     <message>
         <source>is the number of rows, up or down, that you want the upper-left cell of the result to refer to.</source>
@@ -11560,7 +11560,7 @@ Wartości, które mogą być tutaj wpisane są ograniczone przez innych użytkow
     <message>
         <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_263</comment>
-        <translation type="unfinished"/>
+        <translation>prawdopodobieństwo dotyczące danego rozkładu normalnego, liczba z przedziału 0 i 1, włącznie.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
@@ -11675,7 +11675,7 @@ Wartości, które mogą być tutaj wpisane są ograniczone przez innych użytkow
     <message>
         <source>Width</source>
         <comment>TX_SizeTip_Col</comment>
-        <translation type="unfinished"/>
+        <translation>Szerokość</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
@@ -12237,7 +12237,7 @@ połączenia</translation>
     <message>
         <source>Height</source>
         <comment>TX_SizeTip_Row</comment>
-        <translation type="unfinished"/>
+        <translation>Wysokość</translation>
     </message>
     <message>
         <source>The Maximum contains an error now. Do you want to continue?</source>
@@ -12320,7 +12320,7 @@ połączenia</translation>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Środkowa sekcja </translation>
     </message>
     <message>
         <source>is the y-coordinate of the point.</source>
@@ -12571,7 +12571,7 @@ połączenia</translation>
     <message>
         <source>Left section </source>
         <comment>TX_CHECKSPELLING_FROMLEFTHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Lewa sekcja </translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
@@ -12657,7 +12657,7 @@ połączenia</translation>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Prawa sekcja </translation>
     </message>
     <message>
         <source>is the payment made each period, it change over the life of the investment.</source>
@@ -13295,7 +13295,7 @@ połączenia</translation>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sInvalidName</comment>
-        <translation type="unfinished"/>
+        <translation>Wprowadzony tekst nie jest prawidłowym odwołaniem lub zdefiniowaną nazwą.</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
@@ -17263,7 +17263,7 @@ dane</translation>
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearFormats</comment>
-        <translation type="unfinished"/>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>AutoFitSelection</source>
@@ -17395,7 +17395,8 @@ okienka</translation>
     <message>
         <source>Insert Function</source>
         <comment>TX_Undo_Function</comment>
-        <translation type="unfinished"/>
+        <translation>Wstaw 
+funkcję</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -17497,7 +17498,7 @@ okienka</translation>
     <message>
         <source>Remove Page Break</source>
         <comment>TX_Undo_RemovePageBreak</comment>
-        <translation type="unfinished"/>
+        <translation>Usuń podział strony</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -17514,7 +17515,7 @@ okienka</translation>
     <message>
         <source>Set Print Area</source>
         <comment>TX_Undo_SetPrintAreas</comment>
-        <translation type="unfinished"/>
+        <translation>Ustaw obszar wydruku</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -17718,7 +17719,7 @@ wyśrodkuj</translation>
     <message>
         <source>Insert Page Break</source>
         <comment>TX_Undo_PageBreak</comment>
-        <translation type="unfinished"/>
+        <translation>Wstaw podział strony</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -17917,7 +17918,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź sekwencję liter</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18467,7 +18468,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź sekwencję cyfr rzymskich</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18476,7 +18477,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie wypełnij kolejnymi liczbami</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -19038,7 +19039,7 @@ scalonych w jeden skoroszyt</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź sekwencję liter</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -19231,7 +19232,7 @@ arkusz</translation>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Oficjalna strona internetowa</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -19324,7 +19325,7 @@ zmiany</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Szyfrowanie podstawowe</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -20188,7 +20189,7 @@ ekran</translation>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Scal arkusze o tej samej nazwie w skoroszytach</translation>
     </message>
     <message>
         <source>% of Parent Row Total</source>
@@ -20611,7 +20612,7 @@ dane</translation>
     </message>
     <message>
         <source>Create Table Directory</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz katalog tabeli</translation>
     </message>
     <message>
         <source>Insert Column Before</source>
@@ -20707,7 +20708,7 @@ dane</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Odszyfrowywanie</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -21096,7 +21097,7 @@ OLE DB Query</source>
     <message>
         <source>PivotTable</source>
         <comment>Top 10</comment>
-        <translation type="unfinished"/>
+        <translation>Tabela przestawna</translation>
     </message>
     <message>
         <source>TrendLine</source>
@@ -21137,11 +21138,11 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź sekwencję cyfr rzymskich</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie wypełnij kolejnymi liczbami</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -21678,7 +21679,7 @@ warunkowe</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Normalne zaszyfrowanie</translation>
     </message>
     <message>
         <source>Close Workspace</source>
@@ -24510,7 +24511,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>GAMMALN(x)</source>
         <comment>GAMMALN_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ROZKŁAD.LIN.GAMMA(x)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
@@ -26679,7 +26680,7 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>PERMUTACJE(liczba; liczba_wybrana)</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
@@ -27554,7 +27555,7 @@ tekstowe</translation>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic_</comment>
-        <translation type="unfinished"/>
+        <translation>Pogrubiona kursywa</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -29526,11 +29527,11 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Makra</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Zalecane</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29538,7 +29539,7 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -31050,7 +31051,7 @@ Jeśli to pole wyboru zostanie puste, a następnie klikniesz przycisk OK, wszyst
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>Dzielenie zaawansowane</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -31632,7 +31633,7 @@ formatów</translation>
     </message>
     <message>
         <source>Insert Diagonal Header</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw komórkę wielodiagonalną</translation>
     </message>
     <message>
         <source>Sparkline Tools</source>
@@ -31648,7 +31649,7 @@ formatów</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj jako obraz</translation>
     </message>
 </context>
 <context>
@@ -32261,7 +32262,7 @@ formatów</translation>
     </message>
     <message>
         <source>Account Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Szyfrowanie konta</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -38060,7 +38061,7 @@ według zawartości</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź sekwencję liter</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38247,11 +38248,11 @@ wszystko</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź sekwencję cyfr rzymskich</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie wypełnij kolejnymi liczbami</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38342,7 +38343,7 @@ połączenia</translation>
     </message>
     <message>
         <source>Merge Tables</source>
-        <translation type="unfinished"/>
+        <translation>Scal tabele</translation>
     </message>
 </context>
 <context>
@@ -42251,7 +42252,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Rejestrator ekranu</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -42307,7 +42308,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Schowek Cloud</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -42389,7 +42390,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Przybornik Et</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -42958,11 +42959,11 @@ telefon</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw kod kreskowy</translation>
     </message>
 </context>
 <context>
@@ -43306,7 +43307,7 @@ okno</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Edytor Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -43808,11 +43809,11 @@ dane</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF na Word</translation>
     </message>
 </context>
 <context>
@@ -44473,7 +44474,7 @@ komentarz</translation>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Szyfrowanie dokumentów</translation>
     </message>
 </context>
 <context>
@@ -44883,27 +44884,27 @@ strona</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj arkusz do jednej strony</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Bez powiększenia</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie niestandardowe</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj wszystkie wiersze do jednej strony</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj wszystkie kolumny do jednej strony</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie strony</translation>
     </message>
 </context>
 <context>
@@ -45411,11 +45412,11 @@ Backward</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Znaki podziału</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Powiększenie niestandardowe</translation>
     </message>
     <message>
         <source>Print
@@ -46980,7 +46981,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Chiński (Tajwan)</translation>
     </message>
 </context>
 <context>
@@ -48648,7 +48649,7 @@ Wartość: </translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>Drukowanie dwustronne</translation>
     </message>
 </context>
 <context>
@@ -51286,7 +51287,7 @@ Etykiety elementów</translation>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pomoc dotycząca tej funkcji</translation>
     </message>
 </context>
 <context>
@@ -55902,11 +55903,11 @@ komentarz</translation>
     <name>et_et_ui</name>
     <message>
         <source>Split window</source>
-        <translation type="unfinished"/>
+        <translation>Podziel okno</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Widok układu strony jest niezgodny z opcją Zablokuj panele. W razie kontynuacji panele w tym arkuszu zostaną odblokowane. Kontynuować?</translation>
     </message>
 </context>
 <context>
@@ -55988,7 +55989,7 @@ kwerendy bazy danych OLE</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Konwertuj na plik PDF</translation>
     </message>
 </context>
 </TS>
