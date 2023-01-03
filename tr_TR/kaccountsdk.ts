@@ -1431,7 +1431,7 @@ Easy mobile office.</source>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
-        <translation type="unfinished"/>
+        <translation>Üçüncü</translation>
     </message>
     <message>
         <source>School</source>
@@ -1943,15 +1943,15 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Clear data and delete login records</source>
-        <translation type="unfinished"/>
+        <translation>Verileri temizle ve oturum açma kayıtlarını sil.</translation>
     </message>
     <message>
         <source>Keep data for next use.</source>
-        <translation type="unfinished"/>
+        <translation>Verileri bir sonraki kullanım için sakla.</translation>
     </message>
     <message>
         <source>Select this if you no longer use this device</source>
-        <translation type="unfinished"/>
+        <translation>Bu cihazı artık kullanmayacaksanız bunu seçin.</translation>
     </message>
     <message>
         <source>Keep data for next use</source>
