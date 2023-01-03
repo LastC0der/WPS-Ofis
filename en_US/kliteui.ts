@@ -555,7 +555,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KSevenDaysFreeWidgetV3</name>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -587,7 +587,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Try again</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -595,11 +595,11 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Leave us a message，We will contact you as soon as possible.</translation>
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Resume Now</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
@@ -622,7 +622,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <name>KVipOpeningWidget</name>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</translation>
     </message>
     <message>
         <source>Transactions</source>
@@ -666,23 +666,23 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
+        <translation>Common Payment Issues</translation>
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Leave us a message，We will contact you as soon as possible.</translation>
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Resume Now</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</translation>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Payment failed</translation>
     </message>
 </context>
 <context>
@@ -717,7 +717,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
+        <translation>Common Payment Issues</translation>
     </message>
     <message>
         <source>Buy Coupons</source>
@@ -753,7 +753,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Payment failed</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -804,7 +804,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
@@ -1162,7 +1162,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
