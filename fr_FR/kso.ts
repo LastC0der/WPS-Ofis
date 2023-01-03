@@ -2378,7 +2378,7 @@ Utilisé pour afficher les zones de chevauchement entre les
     <message>
         <source>Close</source>
         <comment>kso_sCloseCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
@@ -2900,7 +2900,7 @@ Voulez-vous télécharger le kit d&apos;extension XML ?</translation>
     <message>
         <source>Stop</source>
         <comment>kso_sWASSTop</comment>
-        <translation type="unfinished"/>
+        <translation>Arrêter</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3107,7 +3107,7 @@ Please save the file and create share link</source>
     <message>
         <source>Part of %s</source>
         <comment>kso_sPartOf</comment>
-        <translation type="unfinished"/>
+        <translation>Partie de %s</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
@@ -4118,7 +4118,7 @@ Sqlite3 utilise son code source ouvert open source de lecture et de stockage des
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished"/>
+        <translation>Tous les fichiers (*.*)</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -9928,7 +9928,7 @@ Type de trait : %3</translation>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished"/>
+        <translation>Groupe</translation>
     </message>
     <message>
         <source>Whole-Iamge,4 Pt Offset</source>
@@ -12988,7 +12988,7 @@ Lorsqu&apos;il aura expiré, certaines fonctions ne fonctionneront pas correctem
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Accueil</translation>
     </message>
     <message>
         <source>None</source>
@@ -13426,7 +13426,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Erreur de lecture de %1 : %2</translation>
     </message>
     <message>
         <source>Yesterday</source>
@@ -13590,7 +13590,7 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Erreur d&apos;écriture de %1 : %2</translation>
     </message>
     <message>
         <source>must be 6-16 chars(case-sensitive)</source>
@@ -13609,19 +13609,19 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Non</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Oui</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Aide</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <source>Save</source>
@@ -13629,11 +13629,11 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13641,15 +13641,15 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Réessayer</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Restaurer les valeurs par défaut</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13657,23 +13657,23 @@ Toujours effectuer cette action.</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Non à to&amp;ut</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Tout Enregistrer</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Ne pas enregistrer</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Oui à &amp;tout</translation>
     </message>
 </context>
 <context>
@@ -14219,7 +14219,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <name>kso_dguil</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Non</translation>
     </message>
     <message>
         <source>pt</source>
@@ -14443,7 +14443,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>Format de la forme</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -14573,7 +14573,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
-        <translation type="unfinished"/>
+        <translation>Insérer une zone de texte</translation>
     </message>
     <message>
         <source>Unidentifiable sound format.</source>
@@ -14598,7 +14598,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>Nudge Object</source>
         <comment>DgUil_KSO_Cmd_NudgeUp</comment>
-        <translation type="unfinished"/>
+        <translation>Déplacer l&apos;objet</translation>
     </message>
     <message>
         <source>*.mp3;*.mp2;*.m3u</source>
@@ -14823,7 +14823,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation type="unfinished"/>
+        <translation>Changer d&apos;image</translation>
     </message>
     <message>
         <source>Delete Freeform Point</source>
@@ -14863,7 +14863,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Create Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Créer un contrôle de contenu</translation>
     </message>
     <message>
         <source>More Brightness</source>
@@ -14980,7 +14980,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>3-D</source>
         <comment>DgUil_KSO_Cmd_3DStylePalette</comment>
-        <translation type="unfinished"/>
+        <translation>3D</translation>
     </message>
     <message>
         <source>Add Point</source>
@@ -15121,7 +15121,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>Nudge Shadow</source>
         <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
-        <translation type="unfinished"/>
+        <translation>Déplacer l&apos;ombre</translation>
     </message>
     <message>
         <source>Format WordArt</source>
@@ -15302,7 +15302,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Insert AutoShape</source>
         <comment>DgUil_InsertShape</comment>
-        <translation type="unfinished"/>
+        <translation>Insérer une forme automatique</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -15441,7 +15441,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     </message>
     <message>
         <source>Common Compression</source>
-        <translation type="unfinished"/>
+        <translation>Compression ordinaire</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -15663,7 +15663,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     </message>
     <message>
         <source>Smart Compression</source>
-        <translation type="unfinished"/>
+        <translation>Compression intelligente</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
@@ -15741,7 +15741,7 @@ A noter que la compression peut réduire la qualité de vos images. Voulez-vous 
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation type="unfinished"/>
+        <translation>Rogner</translation>
     </message>
     <message>
         <source>*.aif;*.aifc;*.aiff</source>
@@ -20607,7 +20607,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -22768,7 +22768,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     </message>
     <message>
         <source>Change Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Modifier la mise en forme</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
@@ -33658,7 +33658,7 @@ document</translation>
     </message>
     <message>
         <source>Volume: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Volume : %1%</translation>
     </message>
 </context>
 <context>
