@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>WPS customer service</source>
-        <translation type="unfinished"/>
+        <translation>WPS-Kundendienst.</translation>
     </message>
 </context>
 <context>
@@ -189,7 +189,7 @@ Speichern Sie die Daten und starten Sie die WPS-Software neu, um diese Funktion 
     <name>QObject</name>
     <message>
         <source>DOC</source>
-        <translation type="unfinished"/>
+        <translation>DOC</translation>
     </message>
     <message>
         <source>PDF</source>
@@ -217,7 +217,7 @@ Speichern Sie die Daten und starten Sie die WPS-Software neu, um diese Funktion 
     </message>
     <message>
         <source>Dropbox</source>
-        <translation type="unfinished"/>
+        <translation>Dropbox</translation>
     </message>
 </context>
 <context>
