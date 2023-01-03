@@ -1020,7 +1020,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Writer</source>
-        <translation>Belge</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spreadsheet</source>
@@ -2429,14 +2429,14 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KStartPageLoginButton</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
 </context>
 <context>
     <name>KCreationAreaController</name>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2455,7 +2455,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>KTeamListContentWidget</name>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Team files would be inaccessible after that</source>
