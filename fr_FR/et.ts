@@ -3663,7 +3663,7 @@ Valeur</translation>
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_MergedCell_InRange</comment>
-        <translation type="unfinished"/>
+        <translation>Impossible de trier les cellules fusionnées.</translation>
     </message>
     <message>
         <source>Converting to Linked Data Types (Press ESC to cancel)</source>
@@ -3886,7 +3886,7 @@ Cliquez sur Annuler pour annluer la requête.</translation>
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_Hyperlink_Cannot_OpenRef</comment>
-        <translation type="unfinished"/>
+        <translation>La référence n&apos;est pas valide.</translation>
     </message>
     <message>
         <source>Formula%d</source>
@@ -3948,7 +3948,7 @@ Si vous essayez d&apos;ouvrir le fichier depuis la liste des fichiers récemment
     <message>
         <source>Min</source>
         <comment>TX_SUBTOTAL_MIN</comment>
-        <translation type="unfinished"/>
+        <translation>Min</translation>
     </message>
     <message>
         <source>Grand Total</source>
@@ -4033,7 +4033,7 @@ Si vous essayez d&apos;ouvrir le fichier depuis la liste des fichiers récemment
     <message>
         <source>Max</source>
         <comment>TX_SUBTOTAL_MAX</comment>
-        <translation type="unfinished"/>
+        <translation>Max</translation>
     </message>
     <message>
         <source>Formula</source>
@@ -6158,7 +6158,7 @@ Changez la référence sur une seule cellule ou utilisez-la avec une fonction de
     <message>
         <source>No Format Set</source>
         <comment>TX_UNDEF_FMT</comment>
-        <translation type="unfinished"/>
+        <translation>Sans mise en forme</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7445,7 +7445,7 @@ Changez la référence sur une seule cellule ou utilisez-la avec une fonction de
     <message>
         <source>Unprotect Book</source>
         <comment>TX_BookUnProtectHint</comment>
-        <translation type="unfinished"/>
+        <translation>Ôter la protection du classeur</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8337,7 +8337,7 @@ Data</source>
     <message>
         <source>Number</source>
         <comment>TX_ParaInfo_045</comment>
-        <translation type="unfinished"/>
+        <translation>Numérotation</translation>
     </message>
     <message>
         <source>Number</source>
@@ -9403,7 +9403,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>Format Cells</source>
         <comment>TX_SETEDITCAPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Format de cellule</translation>
     </message>
     <message>
         <source>is the value between A and B at which to evaluate the function.</source>
@@ -11160,7 +11160,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <source>Bottom</source>
         <comment>TX_ParaInfo_009</comment>
-        <translation type="unfinished"/>
+        <translation>En bas</translation>
     </message>
     <message>
         <source>is the number of rows, up or down, that you want the upper-left cell of the result to refer to.</source>
@@ -11679,7 +11679,7 @@ Les valeurs qui peuvent être tapées ici sont limitées par d&apos;autres utili
     <message>
         <source>Width</source>
         <comment>TX_SizeTip_Col</comment>
-        <translation type="unfinished"/>
+        <translation>Largeur</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
@@ -12241,7 +12241,7 @@ orthographique</translation>
     <message>
         <source>Height</source>
         <comment>TX_SizeTip_Row</comment>
-        <translation type="unfinished"/>
+        <translation>Hauteur</translation>
     </message>
     <message>
         <source>The Maximum contains an error now. Do you want to continue?</source>
@@ -12324,7 +12324,7 @@ orthographique</translation>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Partie centrale </translation>
     </message>
     <message>
         <source>is the y-coordinate of the point.</source>
@@ -12575,7 +12575,7 @@ orthographique</translation>
     <message>
         <source>Left section </source>
         <comment>TX_CHECKSPELLING_FROMLEFTHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Partie gauche </translation>
     </message>
     <message>
         <source>is the range of cells that makes up the list or database. A database is a list of related data.</source>
@@ -12660,7 +12660,7 @@ orthographique</translation>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTHEADER</comment>
-        <translation type="unfinished"/>
+        <translation>Partie droite </translation>
     </message>
     <message>
         <source>is the payment made each period, it change over the life of the investment.</source>
@@ -13298,7 +13298,7 @@ orthographique</translation>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sInvalidName</comment>
-        <translation type="unfinished"/>
+        <translation>Le texte que vous avez tapé n&apos;est ni une référence ni un nom défini valides.</translation>
     </message>
     <message>
         <source>The file already exists. Do you want to replace the existing file?</source>
@@ -17267,7 +17267,7 @@ La chaîne que vous avez tapée ne correspond pas à la syntaxe SQL.
     <message>
         <source>Clear</source>
         <comment>TX_Undo_ClearFormats</comment>
-        <translation type="unfinished"/>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>AutoFitSelection</source>
@@ -17400,7 +17400,8 @@ automatique</translation>
     <message>
         <source>Insert Function</source>
         <comment>TX_Undo_Function</comment>
-        <translation type="unfinished"/>
+        <translation>Insérer une 
+fonction</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -17502,7 +17503,7 @@ automatique</translation>
     <message>
         <source>Remove Page Break</source>
         <comment>TX_Undo_RemovePageBreak</comment>
-        <translation type="unfinished"/>
+        <translation>Supprimer le saut de page</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -17519,7 +17520,7 @@ automatique</translation>
     <message>
         <source>Set Print Area</source>
         <comment>TX_Undo_SetPrintAreas</comment>
-        <translation type="unfinished"/>
+        <translation>Définir la zone d&apos;impression</translation>
     </message>
     <message>
         <source>Format Cells</source>
@@ -17724,7 +17725,7 @@ et centrer</translation>
     <message>
         <source>Insert Page Break</source>
         <comment>TX_Undo_PageBreak</comment>
-        <translation type="unfinished"/>
+        <translation>Insérer un saut de page</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -17923,7 +17924,7 @@ Colonnes</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Saisir une séquence de lettres</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18475,7 +18476,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Saisir une séquence de chiffres romains</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18484,7 +18485,7 @@ forme de tableau</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Remplir automatiquement les nombres en séquence</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -19046,7 +19047,7 @@ fusionnés en un seul classeur</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Saisir une séquence de lettres</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -19240,7 +19241,7 @@ la feuille</translation>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Site Web officiel</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -19333,7 +19334,7 @@ modifications</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Chiffrement principal</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -20198,7 +20199,7 @@ d&apos;impression</translation>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Fusionner les feuilles de calcul portant le même nom dans les classeurs</translation>
     </message>
     <message>
         <source>% of Parent Row Total</source>
@@ -20622,7 +20623,7 @@ de données</translation>
     </message>
     <message>
         <source>Create Table Directory</source>
-        <translation type="unfinished"/>
+        <translation>Créer le répertoire du tableau</translation>
     </message>
     <message>
         <source>Insert Column Before</source>
@@ -20718,7 +20719,7 @@ de données</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Déchiffrement</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -21107,7 +21108,7 @@ OLE DB Query</source>
     <message>
         <source>PivotTable</source>
         <comment>Top 10</comment>
-        <translation type="unfinished"/>
+        <translation>Tableau croisé dynamique</translation>
     </message>
     <message>
         <source>TrendLine</source>
@@ -21148,11 +21149,11 @@ classeur</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Saisir une séquence de chiffres romains</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Remplir automatiquement les nombres en séquence</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -21689,7 +21690,7 @@ conditionnelle</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Chiffrement normal</translation>
     </message>
     <message>
         <source>Close Workspace</source>
@@ -24521,7 +24522,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     <message>
         <source>GAMMALN(x)</source>
         <comment>GAMMALN_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>GAMMALN(x)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
@@ -26690,7 +26691,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>PERMUT(nombre,nombre_choisi)</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
@@ -27565,7 +27566,7 @@ le classeur</translation>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic_</comment>
-        <translation type="unfinished"/>
+        <translation>Italique gras</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -29538,11 +29539,11 @@ le classeur</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Macros</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Recommander</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29550,7 +29551,7 @@ le classeur</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Editor</translation>
     </message>
 </context>
 <context>
@@ -31062,7 +31063,7 @@ automatique</translation>
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>Fractionnement anticipé</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -31645,7 +31646,7 @@ Painter</translation>
     </message>
     <message>
         <source>Insert Diagonal Header</source>
-        <translation type="unfinished"/>
+        <translation>Insérer une cellule multidiagonale</translation>
     </message>
     <message>
         <source>Sparkline Tools</source>
@@ -31661,7 +31662,7 @@ Painter</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Exporter en tant qu&apos;image</translation>
     </message>
 </context>
 <context>
@@ -32275,7 +32276,7 @@ des utilisateurs</translation>
     </message>
     <message>
         <source>Account Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Chiffrement du compte</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -38074,7 +38075,7 @@ par contenu</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Saisir une séquence de lettres</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38260,11 +38261,11 @@ tout</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Saisir une séquence de chiffres romains</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Remplir automatiquement les nombres en séquence</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38355,7 +38356,7 @@ existantes</translation>
     </message>
     <message>
         <source>Merge Tables</source>
-        <translation type="unfinished"/>
+        <translation>Fusionner les tableaux</translation>
     </message>
 </context>
 <context>
@@ -42263,7 +42264,7 @@ centrer</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Enregistreur d&apos;écran</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -42319,7 +42320,7 @@ centrer</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Presse-papiers Cloud</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -42403,7 +42404,7 @@ Fichiers</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Boîte à outils ET</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -42974,11 +42975,11 @@ vers mobile</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>Insérer un code-barres</translation>
     </message>
 </context>
 <context>
@@ -43322,7 +43323,7 @@ fenêtre</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual Basic Editor</translation>
     </message>
 </context>
 <context>
@@ -43822,11 +43823,11 @@ de données</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF vers Word</translation>
     </message>
 </context>
 <context>
@@ -44490,7 +44491,7 @@ document</translation>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Chiffrement de document</translation>
     </message>
 </context>
 <context>
@@ -44900,27 +44901,27 @@ suivante</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Ajuster la feuille à une page</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Aucun zoom</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom personnalisé</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Ajuster toutes les lignes à une page</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Ajuster toutes les colonnes à une page</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom de la page</translation>
     </message>
 </context>
 <context>
@@ -45427,11 +45428,11 @@ Backward</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Sauts de page</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom personnalisé</translation>
     </message>
     <message>
         <source>Print
@@ -47012,7 +47013,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Chinois (Taïwan)</translation>
     </message>
 </context>
 <context>
@@ -48680,7 +48681,7 @@ Valeur : </translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>Impression recto verso</translation>
     </message>
 </context>
 <context>
@@ -51317,7 +51318,7 @@ Item Labels</source>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
+        <translation>Aide sur cette fonction</translation>
     </message>
 </context>
 <context>
@@ -55933,11 +55934,11 @@ le commentaire</translation>
     <name>et_et_ui</name>
     <message>
         <source>Split window</source>
-        <translation type="unfinished"/>
+        <translation>Fractionner la fenêtre</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>La vue Mise en page n&apos;est pas compatible avec Figer les volets. Si vous continuez, les volets de cette feuille ne seront plus figés. Voulez-vous continuer ?</translation>
     </message>
 </context>
 <context>
@@ -56019,7 +56020,7 @@ la requête de base de données OLE</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Convertir en fichier PDF</translation>
     </message>
 </context>
 </TS>
