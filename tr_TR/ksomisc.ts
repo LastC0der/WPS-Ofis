@@ -691,7 +691,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;zen</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -719,7 +719,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>PPTX Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPTX Sunumu</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -727,7 +727,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>PPT Presentation</source>
-        <translation type="unfinished"/>
+        <translation>PPT Sunumu</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -1181,7 +1181,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>delete</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>cache clear finished.</source>
@@ -1610,7 +1610,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>XLSX Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>XLSX Çalışma Sayfası</translation>
     </message>
     <message>
         <source>RTF Documentation</source>
@@ -1633,7 +1633,7 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Kingsoft PDF</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF</translation>
     </message>
     <message>
         <source>Use WPS E-Book to read and edit e-book.</source>
@@ -1898,7 +1898,7 @@ Her şemanın düğme simgesi, komut grubu ve görev penceresi konumu farklıdı
     <name>KGdprConfig</name>
     <message>
         <source>View privacy policy</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik ilkesini görüntüle</translation>
     </message>
     <message>
         <source>Application has been submitted, we will delete your data as quickly as possible.</source>
