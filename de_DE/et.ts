@@ -6121,7 +6121,7 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>No Format Set</source>
         <comment>TX_UNDEF_FMT</comment>
-        <translation type="unfinished"/>
+        <translation>Kein Format festgelegt</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -10014,7 +10014,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     <message>
         <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
-        <translation type="unfinished"/>
+        <translation>ist der Winkel im Bogenmaß, für den Sie den Sinus berechnen möchten.</translation>
     </message>
     <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
@@ -17871,7 +17871,7 @@ Columns</source>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Buchstabenfolge eingeben</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18420,7 +18420,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Römische Ziffernfolge eingeben</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18429,7 +18429,7 @@ formatieren</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Automatisches Ausfüllen fortlaufender Zahlen</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -18991,7 +18991,7 @@ zusammengeführt in einer Arbeitsmappe</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Buchstabenfolge eingeben</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -19185,7 +19185,7 @@ schützen</translation>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Offizielle Website</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -19278,7 +19278,7 @@ verfolgen</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Zentrale Verschlüsselung</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -20140,7 +20140,7 @@ Nach Inhalt</translation>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Arbeitsblätter mit demselben Namen in Arbeitsmappen zusammenführen</translation>
     </message>
     <message>
         <source>% of Parent Row Total</source>
@@ -20563,7 +20563,7 @@ importieren</translation>
     </message>
     <message>
         <source>Create Table Directory</source>
-        <translation type="unfinished"/>
+        <translation>Tabellenverzeichnis erstellen</translation>
     </message>
     <message>
         <source>Insert Column Before</source>
@@ -20659,7 +20659,7 @@ importieren</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Entschlüsselung</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -21047,7 +21047,7 @@ OLE DB Query</source>
     <message>
         <source>PivotTable</source>
         <comment>Top 10</comment>
-        <translation type="unfinished"/>
+        <translation>PivotTable</translation>
     </message>
     <message>
         <source>TrendLine</source>
@@ -21088,11 +21088,11 @@ schützen</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Römische Ziffernfolge eingeben</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Automatisches Ausfüllen fortlaufender Zahlen</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -21629,7 +21629,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Normale Verschlüsselung</translation>
     </message>
     <message>
         <source>Close Workspace</source>
@@ -29463,11 +29463,11 @@ neu berechnen</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Makros</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Empfehlen</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29475,7 +29475,7 @@ neu berechnen</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual-Basic-Editor</translation>
     </message>
 </context>
 <context>
@@ -30988,7 +30988,7 @@ reparieren</translation>
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>Erweiterte Teilung</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -31569,7 +31569,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert Diagonal Header</source>
-        <translation type="unfinished"/>
+        <translation>Multidiagonale Zelle einfügen</translation>
     </message>
     <message>
         <source>Sparkline Tools</source>
@@ -31585,7 +31585,7 @@ Painter</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Als Bild exportieren</translation>
     </message>
 </context>
 <context>
@@ -32198,7 +32198,7 @@ Painter</source>
     </message>
     <message>
         <source>Account Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Kontoverschlüsselung</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -37984,7 +37984,7 @@ Nach Inhalt</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Buchstabenfolge eingeben</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38170,11 +38170,11 @@ aufheben</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Römische Ziffernfolge eingeben</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Automatisches Ausfüllen fortlaufender Zahlen</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38265,7 +38265,7 @@ Verbindungen</translation>
     </message>
     <message>
         <source>Merge Tables</source>
-        <translation type="unfinished"/>
+        <translation>Tabellen zusammenführen</translation>
     </message>
 </context>
 <context>
@@ -42171,7 +42171,7 @@ zentrieren</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmrekorder</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -42227,7 +42227,7 @@ zentrieren</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Cloud-Zwischenablage</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -42309,7 +42309,7 @@ Docs öffnen</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Et-Toolbox</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -42878,11 +42878,11 @@ scannen</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>Barcode einfügen</translation>
     </message>
 </context>
 <context>
@@ -43224,7 +43224,7 @@ Fenster</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Visual-Basic-Editor</translation>
     </message>
 </context>
 <context>
@@ -43722,11 +43722,11 @@ importieren</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>PDF in Word</translation>
     </message>
 </context>
 <context>
@@ -44388,7 +44388,7 @@ sicherheit</translation>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentverschlüsselung</translation>
     </message>
 </context>
 <context>
@@ -44797,27 +44797,27 @@ Seite</translation>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Blatt auf einer Seite darstellen</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Kein Zoom</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefiniert Zoom</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Alle Zeilen auf einer Seite darstellen</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Alle Spalten auf einer Seite darstellen</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Seitenzoom</translation>
     </message>
 </context>
 <context>
@@ -45321,11 +45321,11 @@ Backward</source>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Umbrüche</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerdefiniert Zoom</translation>
     </message>
     <message>
         <source>Print
@@ -46882,7 +46882,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Chinesisch,trad.(Taiwan)</translation>
     </message>
 </context>
 <context>
@@ -48549,7 +48549,7 @@ Wert: </translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>Duplexdruck</translation>
     </message>
 </context>
 <context>
@@ -51183,7 +51183,7 @@ Elementbeschriftungen</translation>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hilfe für diese Funktion</translation>
     </message>
 </context>
 <context>
@@ -55794,11 +55794,11 @@ bearbeiten</translation>
     <name>et_et_ui</name>
     <message>
         <source>Split window</source>
-        <translation type="unfinished"/>
+        <translation>Fenster teilen</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Die Seitenlayoutansicht ist mit &apos;Fenster fixieren&apos; nicht kompatibel. Wenn Sie den Vorgang fortsetzen, wird die Fixierung der Fenster aufgehoben. Möchten Sie den Vorgang fortsetzen?</translation>
     </message>
 </context>
 <context>
@@ -55880,7 +55880,7 @@ bearbeiten</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>In PDF-Datei konvertieren</translation>
     </message>
 </context>
 </TS>
