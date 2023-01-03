@@ -17859,7 +17859,7 @@ columnas</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Introducir secuencia de letras</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18410,7 +18410,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Introducir secuencia de números romanos</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18419,7 +18419,7 @@ como tabla</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Autocompletar secuencia de números</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -18981,7 +18981,7 @@ combinados en un libro</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Introducir secuencia de letras</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -19174,7 +19174,7 @@ hoja</translation>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Sitio web oficial</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -19267,7 +19267,7 @@ cambios</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Cifrado del núcleo</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -20115,7 +20115,7 @@ completa</translation>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar ventana anterior</translation>
     </message>
     <message>
         <source>Options</source>
@@ -20131,7 +20131,7 @@ completa</translation>
     </message>
     <message>
         <source>Merge worksheets with same name in workbooks</source>
-        <translation type="unfinished"/>
+        <translation>Combinar hojas de cálculo con el mismo nombre en libros</translation>
     </message>
     <message>
         <source>% of Parent Row Total</source>
@@ -20554,7 +20554,7 @@ datos</translation>
     </message>
     <message>
         <source>Create Table Directory</source>
-        <translation type="unfinished"/>
+        <translation>Crear directorio de tablas</translation>
     </message>
     <message>
         <source>Insert Column Before</source>
@@ -20650,7 +20650,7 @@ datos</translation>
     </message>
     <message>
         <source>Decryption</source>
-        <translation type="unfinished"/>
+        <translation>Descifrado</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -21038,7 +21038,7 @@ OLE DB Query</source>
     <message>
         <source>PivotTable</source>
         <comment>Top 10</comment>
-        <translation type="unfinished"/>
+        <translation>Tabla dinámica</translation>
     </message>
     <message>
         <source>TrendLine</source>
@@ -21079,11 +21079,11 @@ libro</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Introducir secuencia de números romanos</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Autocompletar secuencia de números</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -21620,7 +21620,7 @@ condicional</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Cifrado normal</translation>
     </message>
     <message>
         <source>Close Workspace</source>
@@ -29465,11 +29465,11 @@ calcular libro</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Macros</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Recomendar</translation>
     </message>
     <message>
         <source>Recommend Template From Docer</source>
@@ -29477,7 +29477,7 @@ calcular libro</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor de Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -30984,7 +30984,7 @@ archivos</translation>
     </message>
     <message>
         <source>Advance Split</source>
-        <translation type="unfinished"/>
+        <translation>División avanzada</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
@@ -31565,7 +31565,7 @@ formato</translation>
     </message>
     <message>
         <source>Insert Diagonal Header</source>
-        <translation type="unfinished"/>
+        <translation>Insertar celda multidiagonal</translation>
     </message>
     <message>
         <source>Sparkline Tools</source>
@@ -31581,7 +31581,7 @@ formato</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation type="unfinished"/>
+        <translation>Exportar como imagen</translation>
     </message>
 </context>
 <context>
@@ -32194,7 +32194,7 @@ formato</translation>
     </message>
     <message>
         <source>Account Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Cifrado de cuenta</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -37989,7 +37989,7 @@ por contenido</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Introducir secuencia de letras</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38175,11 +38175,11 @@ todo</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Introducir secuencia de números romanos</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Autocompletar secuencia de números</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -38270,7 +38270,7 @@ existentes</translation>
     </message>
     <message>
         <source>Merge Tables</source>
-        <translation type="unfinished"/>
+        <translation>Combinar tablas</translation>
     </message>
 </context>
 <context>
@@ -42176,7 +42176,7 @@ lectura</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Grabadora de pantalla</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -42232,7 +42232,7 @@ lectura</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Portapapeles de Cloud</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -42315,7 +42315,7 @@ archivo</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>Caja de herramientas Et</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -42887,11 +42887,11 @@ dispositivo móvil</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>InsertBarcode</source>
-        <translation type="unfinished"/>
+        <translation>Insertar código de barras</translation>
     </message>
 </context>
 <context>
@@ -43237,7 +43237,7 @@ ventana</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor de Visual Basic</translation>
     </message>
 </context>
 <context>
@@ -43740,11 +43740,11 @@ datos</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translation type="unfinished"/>
+        <translation>De PDF a Word</translation>
     </message>
 </context>
 <context>
@@ -44406,7 +44406,7 @@ documento</translation>
     </message>
     <message>
         <source>Document Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Cifrado de documento</translation>
     </message>
 </context>
 <context>
@@ -44809,27 +44809,27 @@ Page</source>
     </message>
     <message>
         <source>Fit Sheet on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Ajustar hojas en una página</translation>
     </message>
     <message>
         <source>No Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Sin zoom</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom personalizado</translation>
     </message>
     <message>
         <source>Fit All Rows on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Ajustar todas las filas en una página</translation>
     </message>
     <message>
         <source>Fit All Columns on One Page</source>
-        <translation type="unfinished"/>
+        <translation>Ajustar todas las columnas en una página</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom de página</translation>
     </message>
 </context>
 <context>
@@ -45338,11 +45338,11 @@ página</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Saltos</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom personalizado</translation>
     </message>
     <message>
         <source>Print
@@ -46898,7 +46898,7 @@ This backup will be saved to (%s)</source>
     </message>
     <message>
         <source>Chinese(Taiwan)</source>
-        <translation type="unfinished"/>
+        <translation>Chino (Taiwán)</translation>
     </message>
 </context>
 <context>
@@ -48566,7 +48566,7 @@ Valor:</translation>
     </message>
     <message>
         <source>Duple&amp;x print</source>
-        <translation type="unfinished"/>
+        <translation>Impresión a doble cara</translation>
     </message>
 </context>
 <context>
@@ -51199,7 +51199,7 @@ Etiquetas de elementos</translation>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation type="unfinished"/>
+        <translation>Ayuda sobre esta función</translation>
     </message>
 </context>
 <context>
@@ -55814,11 +55814,11 @@ comentario</translation>
     <name>et_et_ui</name>
     <message>
         <source>Split window</source>
-        <translation type="unfinished"/>
+        <translation>Dividir ventana</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>La vista de diseño de página no es compatible con Inmovilizar paneles. Si continúa, los paneles de esta hoja dejarán de estar inmovilizados. ¿Desea continuar?</translation>
     </message>
 </context>
 <context>
@@ -55900,7 +55900,7 @@ consulta BD de OLE</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Photo2Pdf</source>
-        <translation type="unfinished"/>
+        <translation>Convertir en archivo PDF</translation>
     </message>
 </context>
 </TS>
