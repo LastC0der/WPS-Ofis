@@ -19330,7 +19330,7 @@ tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Photo to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Remove Limit</source>
@@ -42196,7 +42196,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Photo to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
@@ -48329,11 +48329,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Compare the cells of the two worksheets one by one, and mark the cells with different values at the same position.</source>
-        <translation type="unfinished"/>
+        <translation>İki çalışma sayfasının hücrelerini tek tek karşılaştırın ve farklı değerlere sahip hücreleri aynı konumda işaretleyin.</translation>
     </message>
     <message>
         <source>With the Worksheet</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Sayfası ile</translation>
     </message>
     <message>
         <source>Compare the two worksheets, find the rows where the entire row of data is exactly the same, and extract them into the new workbook.</source>
@@ -48373,7 +48373,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Mark the same data in two areas</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen verileri iki aralıkta işaretleyin</translation>
     </message>
     <message>
         <source>Compare the two selected areas and mark the rows where the row data is not identical.</source>
@@ -48385,7 +48385,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Export to new book</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Çalışma Kitabına Aktar</translation>
     </message>
     <message>
         <source>Compare the two selected areas, find the rows with the same row data, and extract them to the new worksheet.</source>
