@@ -5428,7 +5428,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Combine PDF</source>
-        <translation type="unfinished"/>
+        <translation>Combine PDF</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -5508,7 +5508,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Quick</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -6989,7 +6989,7 @@ Speech</translation>
     </message>
     <message>
         <source>Click to turn on/off AutoBackup</source>
-        <translation type="unfinished"/>
+        <translation>Click to turn on/off AutoBackup</translation>
     </message>
     <message>
         <source>CorrectionFluidRoundCap</source>
@@ -8047,7 +8047,7 @@ Add-Ins</source>
     <name>ongmani.ct_file</name>
     <message>
         <source>PPT</source>
-        <translation type="unfinished"/>
+        <translation>PPT</translation>
     </message>
     <message>
         <source>TXT</source>
@@ -8365,11 +8365,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>End Time</source>
-        <translation type="unfinished"/>
+        <translation>End Time</translation>
     </message>
     <message>
         <source>Issuer</source>
-        <translation type="unfinished"/>
+        <translation>Issuer</translation>
     </message>
     <message>
         <source>Start Time:</source>
@@ -8381,7 +8381,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"/>
+        <translation>Start Time</translation>
     </message>
     <message>
         <source>Public key param</source>
@@ -10090,7 +10090,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Quick</source>
-        <translation type="unfinished"/>
+        <translation>Quick</translation>
     </message>
     <message>
         <source>Share</source>
@@ -13643,7 +13643,7 @@ Permissions</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Offline Secret Key</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -13938,7 +13938,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Signed by &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -14890,7 +14890,7 @@ you can still use the synced signature.</translation>
     </message>
     <message>
         <source>Issuer</source>
-        <translation type="unfinished"/>
+        <translation>Issuer</translation>
     </message>
     <message>
         <source>CA name</source>
@@ -14968,7 +14968,7 @@ you can still use the synced signature.</translation>
     </message>
     <message>
         <source>Signed by &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Signed by &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Verify the signature result</source>
@@ -15385,7 +15385,7 @@ you can still use the synced signature.</translation>
     </message>
     <message>
         <source>Turn on protection</source>
-        <translation type="unfinished"/>
+        <translation>Turn on protection</translation>
     </message>
     <message>
         <source>Why protect?</source>
