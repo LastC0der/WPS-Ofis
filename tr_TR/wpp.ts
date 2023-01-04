@@ -12091,7 +12091,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Import Templates</source>
-        <translation>Şablonları Al</translation>
+        <translation>Şablonları İçe Aktar</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -14804,7 +14804,7 @@ Slide</source>
     </message>
     <message>
         <source>Import Templates</source>
-        <translation>Şablonları Al</translation>
+        <translation>Şablonları İçe Aktar</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -25415,7 +25415,7 @@ Animasyon</translation>
     </message>
     <message>
         <source>Import Templates</source>
-        <translation>Şablonları Al</translation>
+        <translation>Şablonları İçe Aktar</translation>
     </message>
     <message>
         <source>Color
