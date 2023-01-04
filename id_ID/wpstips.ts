@@ -2741,7 +2741,7 @@ Garis diagonal pada kepala tabel dapat dipindahkan.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Konversi Gambar ke Teks</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
