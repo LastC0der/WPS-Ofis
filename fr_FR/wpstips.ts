@@ -2740,7 +2740,7 @@ Les lignes diagonales des en-têtes du tableau peuvent être déplacées.</trans
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convertir une image en texte</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
