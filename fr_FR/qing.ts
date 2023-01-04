@@ -1281,7 +1281,7 @@ Voulez-vous vraiment la modifier ?</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Accueil</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1850,7 +1850,7 @@ Voulez-vous vraiment la modifier ?</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Erreur de lecture de %1 : %2</translation>
     </message>
     <message>
         <source>file is renamed on server but failed to be renamed on local disk</source>
@@ -2154,7 +2154,7 @@ Voulez-vous vraiment la modifier ?</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Erreur d&apos;écriture de %1 : %2</translation>
     </message>
     <message>
         <source>File occupied, rename failed</source>
@@ -2189,19 +2189,19 @@ Voulez-vous vraiment la modifier ?</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Non</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Oui</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Aide</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2209,11 +2209,11 @@ Voulez-vous vraiment la modifier ?</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Abandonner</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2221,15 +2221,15 @@ Voulez-vous vraiment la modifier ?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Réessayer</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Restaurer les valeurs par défaut</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2237,23 +2237,23 @@ Voulez-vous vraiment la modifier ?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Non à to&amp;ut</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Tout Enregistrer</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Ne pas enregistrer</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Oui à &amp;tout</translation>
     </message>
 </context>
 <context>
@@ -2679,31 +2679,31 @@ Voulez-vous vraiment la modifier ?</translation>
     <name>KRadarBackupLimitBubble</name>
     <message>
         <source>QQ</source>
-        <translation type="unfinished"/>
+        <translation>QQ</translation>
     </message>
     <message>
         <source> and so on %1 files</source>
-        <translation type="unfinished"/>
+        <translation> et %1 fichiers</translation>
     </message>
     <message>
         <source>View detail</source>
-        <translation type="unfinished"/>
+        <translation>Afficher les détails</translation>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>de %1</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"/>
+        <translation>Documents</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Bureau</translation>
     </message>
     <message>
         <source>Over 1GB</source>
-        <translation type="unfinished"/>
+        <translation>Plus de 1 Go</translation>
     </message>
 </context>
 <context>
@@ -3829,7 +3829,7 @@ Vérifiez le chemin et le nom du fichier.</translation>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -7877,7 +7877,7 @@ Espace libre : %1 Mo environ</translation>
     </message>
     <message>
         <source>Volume: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Volume : %1%</translation>
     </message>
 </context>
 <context>
@@ -8169,7 +8169,7 @@ en
     </message>
     <message>
         <source>I got it</source>
-        <translation type="unfinished"/>
+        <translation>J&apos;ai compris</translation>
     </message>
     <message>
         <source>Batch download/export is WPS membership function</source>
@@ -9859,7 +9859,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KUploadLimitBubbleP7</name>
     <message>
         <source>Share Folder</source>
-        <translation type="unfinished"/>
+        <translation>Partager</translation>
     </message>
     <message>
         <source>Upgrade SVIP, cloud space can upgrade to %1 at most, and can upload file %2 at most</source>
@@ -9875,7 +9875,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source> and so on %1 files</source>
-        <translation type="unfinished"/>
+        <translation> et %1 fichiers</translation>
     </message>
     <message>
         <source>I know</source>
@@ -10508,7 +10508,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>I got it</source>
-        <translation type="unfinished"/>
+        <translation>J&apos;ai compris</translation>
     </message>
     <message>
         <source>please upgrade vip</source>
@@ -10531,15 +10531,15 @@ have libgstreamer-plugins-base installed.</source>
     <name>KBatchProgress::KBatchProgressBubble</name>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"/>
+        <translation>Annuler le téléchargement vers le serveur</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"/>
+        <translation>Téléchargement</translation>
     </message>
     <message>
         <source>I got it</source>
-        <translation type="unfinished"/>
+        <translation>J&apos;ai compris</translation>
     </message>
     <message>
         <source>Transmission details</source>
