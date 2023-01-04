@@ -1276,7 +1276,7 @@ Please batches operations</source>
     <message>
         <source>You have selected too many pages to move(&gt;50).
 Please batches operations</source>
-        <translation type="unfinished"/>
+        <translation>Ha seleccionado demasiadas páginas para mover (&gt;50). Seleccione por lotes.</translation>
     </message>
     <message>
         <source>The text of the current editor has not been saved yet. Inserting the page will cause the edited content to be lost.</source>
@@ -1288,7 +1288,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Select Files</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar archivos</translation>
     </message>
     <message>
         <source>PDF Compress loading failed.</source>
@@ -2125,11 +2125,11 @@ Esta acción no se puede deshacer</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Rehacer</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>Online Security PDF Files (*.pdf)|*.pdf|</source>
@@ -2219,11 +2219,11 @@ Esta acción no se puede deshacer</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="unfinished"/>
+        <translation>No se puede rehacer</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="unfinished"/>
+        <translation>No se puede deshacer</translation>
     </message>
     <message>
         <source>Failed to add attachment</source>
@@ -4611,7 +4611,7 @@ log in to save changes?</source>
     <message>
         <source>The font &apos;</source>
         <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"/>
+        <translation>La fuente</translation>
     </message>
     <message>
         <source>add Image</source>
@@ -5808,7 +5808,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Grabadora de pantalla</translation>
     </message>
     <message>
         <source>100.0%</source>
@@ -6760,7 +6760,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>De PDF a Word</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -7284,7 +7284,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Sitio web oficial</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -7489,7 +7489,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Show Previous Window</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar ventana anterior</translation>
     </message>
     <message>
         <source>Hide TaskPane</source>
@@ -8827,7 +8827,7 @@ dispositivo móvil</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar la ventana actual al hacer capturas de pantalla</translation>
     </message>
     <message>
         <source>PageNumber</source>
@@ -8876,7 +8876,7 @@ dispositivo móvil</translation>
     </message>
     <message>
         <source>Screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Capturas de pantalla</translation>
     </message>
     <message>
         <source>accout info</source>
@@ -14534,7 +14534,7 @@ Las páginas eliminadas no se pueden recuperar</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Grabadora de pantalla</translation>
     </message>
     <message>
         <source>PDF to Excel</source>
