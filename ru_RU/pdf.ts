@@ -1276,7 +1276,7 @@ Please batches operations</source>
     <message>
         <source>You have selected too many pages to move(&gt;50).
 Please batches operations</source>
-        <translation type="unfinished"/>
+        <translation>Выбрано слишком много страниц для перемещения (&gt;50). Выберите партиями.</translation>
     </message>
     <message>
         <source>The text of the current editor has not been saved yet. Inserting the page will cause the edited content to be lost.</source>
@@ -1288,7 +1288,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Select Files</source>
-        <translation type="unfinished"/>
+        <translation>Выбор файлов</translation>
     </message>
     <message>
         <source>PDF Compress loading failed.</source>
@@ -2125,11 +2125,11 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Повторить действие</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Отменить действие</translation>
     </message>
     <message>
         <source>Online Security PDF Files (*.pdf)|*.pdf|</source>
@@ -2219,11 +2219,11 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="unfinished"/>
+        <translation>Нельзя вернуть</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="unfinished"/>
+        <translation>Нельзя отменить</translation>
     </message>
     <message>
         <source>Failed to add attachment</source>
@@ -4611,7 +4611,7 @@ log in to save changes?</source>
     <message>
         <source>The font &apos;</source>
         <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"/>
+        <translation>Шрифт &apos;</translation>
     </message>
     <message>
         <source>add Image</source>
@@ -5808,7 +5808,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Средство записи экрана</translation>
     </message>
     <message>
         <source>100.0%</source>
@@ -6760,7 +6760,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>PDF в Word</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -7284,7 +7284,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Официальный веб-сайт</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -8006,7 +8006,7 @@ COM</translation>
     <name>ongmani.ct_newocr</name>
     <message>
         <source>OCR</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>I have a suggestion</source>
@@ -8830,7 +8830,7 @@ COM</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Скрывать текущее окно при создании снимков экрана</translation>
     </message>
     <message>
         <source>PageNumber</source>
@@ -8879,7 +8879,7 @@ COM</translation>
     </message>
     <message>
         <source>Screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Снимки экрана</translation>
     </message>
     <message>
         <source>accout info</source>
@@ -14536,7 +14536,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Средство записи экрана</translation>
     </message>
     <message>
         <source>PDF to Excel</source>
