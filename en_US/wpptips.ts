@@ -1925,7 +1925,7 @@ Tool</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convert Picture to Text</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2088,7 +2088,7 @@ Pane</translation>
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>Convert to Word Format</translation>
+        <translation>PPT to Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
@@ -2166,7 +2166,7 @@ Pane</translation>
         <source>AnimationPainter.content</source>
         <translation>Copy the animation of selected object and apply it to other objects.
 
-Double-click to copy the animation to multiple objects.</translation>
+Double click to copy the animation to multiple objects.</translation>
     </message>
     <message>
         <source>Distributed.content</source>
