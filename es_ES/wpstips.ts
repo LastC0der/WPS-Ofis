@@ -2739,7 +2739,7 @@ Puede mover las líneas diagonales en los encabezados de la tabla.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convertir imagen en texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
