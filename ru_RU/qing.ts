@@ -1280,7 +1280,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Главная</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1849,7 +1849,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка чтения из %1: %2</translation>
     </message>
     <message>
         <source>file is renamed on server but failed to be renamed on local disk</source>
@@ -2153,7 +2153,7 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Ошибка записи в %1: %2</translation>
     </message>
     <message>
         <source>File occupied, rename failed</source>
@@ -2188,19 +2188,19 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Нет</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Да</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Справка</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2208,11 +2208,11 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Прервать</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2220,15 +2220,15 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Сбросить</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Повторить</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Восстановить значения</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2236,23 +2236,23 @@ Are you sure to modify?</source>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Н&amp;ет для всех</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить все</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Отклонить</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Да для &amp;всех</translation>
     </message>
 </context>
 <context>
@@ -3828,7 +3828,7 @@ Check path and filename.</source>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -7877,7 +7877,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Volume: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Громкость: %1%</translation>
     </message>
 </context>
 <context>
