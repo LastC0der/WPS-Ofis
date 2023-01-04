@@ -2741,7 +2741,7 @@ Die diagonalen Linien in den Überschriften können verschoben werden.</translat
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Bild in Text konvertieren</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
