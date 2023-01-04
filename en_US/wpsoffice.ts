@@ -177,15 +177,15 @@
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Up</translation>
     </message>
     <message>
         <source>Alt</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>F%1</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"/>
+        <translation>Del</translation>
     </message>
     <message>
         <source>End</source>
@@ -209,15 +209,15 @@
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"/>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Call</source>
@@ -225,31 +225,31 @@
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Down</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation type="unfinished"/>
+        <translation>Flip</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"/>
+        <translation>Left</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Meta</source>
@@ -261,31 +261,31 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"/>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation type="unfinished"/>
+        <translation>Enter</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pause</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Print</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"/>
+        <translation>Right</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Space</translation>
     </message>
     <message>
         <source>Media Record</source>
@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"/>
+        <translation>Home Page</translation>
     </message>
     <message>
         <source>Volume Up</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -401,7 +401,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -413,15 +413,15 @@
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Search</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Select</translation>
     </message>
     <message>
         <source>SysReq</source>
@@ -429,7 +429,7 @@
     </message>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"/>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>ScrollLock</source>
@@ -461,7 +461,7 @@
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>System Request</source>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Refresh</translation>
     </message>
     <message>
         <source>Launch Mail</source>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"/>
+        <translation>Backspace</translation>
     </message>
     <message>
         <source>Bass Down</source>
@@ -517,7 +517,7 @@
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Forward</translation>
     </message>
     <message>
         <source>Page Down</source>
@@ -564,33 +564,6 @@
     </message>
 </context>
 <context>
-    <name>KGDPRAgreementAskWidget</name>
-    <message>
-        <source>, </source>
-        <translation>, </translation>
-    </message>
-    <message>
-        <source>Accept &amp;&amp; Continue</source>
-        <translation>Accept &amp;&amp; Continue</translation>
-    </message>
-    <message>
-        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation>Online Service User Agreement</translation>
-    </message>
-    <message>
-        <source>End-User License Agreement</source>
-        <translation>End-User License Agreement</translation>
-    </message>
-    <message>
-        <source>Exit WPS</source>
-        <translation>Exit WPS</translation>
-    </message>
-</context>
-<context>
     <name>QPrintDialog</name>
     <message>
         <source>A0</source>
@@ -598,7 +571,7 @@
     </message>
     <message>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <source>A2</source>
@@ -606,27 +579,27 @@
     </message>
     <message>
         <source>A3</source>
-        <translation type="unfinished"/>
+        <translation>A3</translation>
     </message>
     <message>
         <source>A4</source>
-        <translation type="unfinished"/>
+        <translation>A4</translation>
     </message>
     <message>
         <source>A5</source>
-        <translation type="unfinished"/>
+        <translation>A5</translation>
     </message>
     <message>
         <source>A6</source>
-        <translation type="unfinished"/>
+        <translation>A6</translation>
     </message>
     <message>
         <source>A7</source>
-        <translation type="unfinished"/>
+        <translation>A7</translation>
     </message>
     <message>
         <source>A8</source>
-        <translation type="unfinished"/>
+        <translation>A8</translation>
     </message>
     <message>
         <source>A9</source>
@@ -674,7 +647,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>B10</source>
@@ -702,7 +675,7 @@
     </message>
     <message>
         <source>Legal</source>
-        <translation type="unfinished"/>
+        <translation>Legal</translation>
     </message>
     <message>
         <source>Print all</source>
@@ -710,7 +683,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Print</translation>
     </message>
     <message>
         <source>&amp;Options &lt;&lt;</source>
@@ -762,7 +735,7 @@
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Print</translation>
     </message>
     <message>
         <source>A3 (297 x 420 mm)</source>
@@ -791,7 +764,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>B1 (707 x 1000 mm)</source>
@@ -807,7 +780,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Letter</translation>
     </message>
     <message>
         <source>DLE (110 x 220 mm)</source>
@@ -823,7 +796,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Print range</translation>
     </message>
     <message>
         <source>File exists</source>
@@ -875,7 +848,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Executive</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -1099,11 +1072,11 @@ Please choose a different file name.</source>
     <name>QDateTimeEdit</name>
     <message>
         <source>AM</source>
-        <translation type="unfinished"/>
+        <translation>AM</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation type="unfinished"/>
+        <translation>PM</translation>
     </message>
     <message>
         <source>am</source>
@@ -1408,7 +1381,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Star Items</source>
-        <translation>Starred</translation>
+        <translation>Star</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1464,7 +1437,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KRegisterDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Documents&apos; Author</source>
@@ -1545,7 +1518,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>The server is busy. Please try again later.</source>
@@ -1569,7 +1542,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>The serial number you entered already exists.</source>
-        <translation type="unfinished"/>
+        <translation>The serial number you entered already exists.</translation>
     </message>
     <message>
         <source>The serial number is not support this platform.</source>
@@ -1581,7 +1554,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>The serial number has expired.</source>
-        <translation type="unfinished"/>
+        <translation>The serial number has expired.</translation>
     </message>
     <message>
         <source>Use other activation codes</source>
@@ -1601,7 +1574,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>The serial number is invalid. Please confirm it.</source>
-        <translation type="unfinished"/>
+        <translation>The serial number is invalid. Please confirm it.</translation>
     </message>
     <message>
         <source>&lt;u&gt;Use other SN or Activation codes&lt;/u&gt;</source>
@@ -1625,11 +1598,11 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
-        <translation type="unfinished"/>
+        <translation>LIFETIME LICENSE</translation>
     </message>
     <message>
         <source>Please check your network connection and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Please check your network connection and try again.</translation>
     </message>
     <message>
         <source>Invalid activation code.</source>
@@ -1660,7 +1633,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KxQingActiveSucceedDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>WPS Office activation is successful</source>
@@ -1671,15 +1644,15 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KxQingBuyTooltip</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"/>
+        <translation>Buy</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Subscription will expire after %1 days</source>
@@ -1737,7 +1710,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"/>
+        <translation>Activate</translation>
     </message>
     <message>
         <source>Purchase License</source>
@@ -1839,15 +1812,15 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>Q3TabDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Apply</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1862,7 +1835,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>QAxSelect</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>COM &amp;Object:</source>
@@ -1870,7 +1843,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancel</translation>
     </message>
     <message>
         <source>Select ActiveX Control</source>
@@ -1885,23 +1858,23 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yes</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Save</source>
@@ -1917,7 +1890,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Apply</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1925,11 +1898,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -1937,7 +1910,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Close</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1945,7 +1918,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Close without Saving</source>
@@ -1957,15 +1930,15 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Save All</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancel</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Discard</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -1973,18 +1946,18 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"/>
+        <translation>Don&apos;t Save</translation>
     </message>
 </context>
 <context>
     <name>QMessageBox</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Show Details...</source>
@@ -2011,19 +1984,19 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yes</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2035,7 +2008,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Apply</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2043,11 +2016,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -2059,7 +2032,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
@@ -2067,11 +2040,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Save All</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Discard</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -2215,11 +2188,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>QSql</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2227,15 +2200,15 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Update</translation>
     </message>
     <message>
         <source>Delete this record?</source>
@@ -2247,7 +2220,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>Cancel your edits?</source>
@@ -2333,19 +2306,19 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>QPrintSettingsOutput</name>
     <message>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>to</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>None</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Color</translation>
     </message>
     <message>
         <source>Print all</source>
@@ -2353,7 +2326,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selection</translation>
     </message>
     <message>
         <source>Long side</source>
@@ -2361,11 +2334,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Copies</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Print range</translation>
     </message>
     <message>
         <source>Color Mode</source>
@@ -2373,7 +2346,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Output Settings</source>
@@ -2385,7 +2358,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"/>
+        <translation>Grayscale</translation>
     </message>
     <message>
         <source>Short side</source>
@@ -2393,11 +2366,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Collate</source>
-        <translation type="unfinished"/>
+        <translation>Collate printing</translation>
     </message>
     <message>
         <source>Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Copies:</translation>
     </message>
     <message>
         <source>Pages from</source>
@@ -2416,7 +2389,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"/>
+        <translation>Print Preview</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2424,7 +2397,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Print</translation>
     </message>
     <message>
         <source>Fit page</source>
@@ -2452,7 +2425,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"/>
+        <translation>Page Setup</translation>
     </message>
     <message>
         <source>Page setup</source>
@@ -2476,7 +2449,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Export to PDF</translation>
     </message>
     <message>
         <source>Previous page</source>
@@ -2530,11 +2503,11 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>Q3FileDialog</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <source>Dir</source>
@@ -2542,43 +2515,43 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yes</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Date</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"/>
+        <translation>Sort</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Open</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -2586,7 +2559,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Open </source>
@@ -2606,7 +2579,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Sort by &amp;Name</source>
-        <translation type="unfinished"/>
+        <translation>Sort by &amp;Name</translation>
     </message>
     <message>
         <source>New Folder 1</source>
@@ -2638,7 +2611,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>New Folder</translation>
     </message>
     <message>
         <source>&amp;Unsorted</source>
@@ -2662,7 +2635,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Read-only</source>
-        <translation type="unfinished"/>
+        <translation>Read-only</translation>
     </message>
     <message>
         <source>Copy or Move a File</source>
@@ -2678,7 +2651,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attributes</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
@@ -2686,7 +2659,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Save As</translation>
     </message>
     <message>
         <source>Inaccessible</source>
@@ -2716,7 +2689,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -2736,7 +2709,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"/>
+        <translation>All Files (*.*)</translation>
     </message>
     <message>
         <source>Read: %1</source>
@@ -2744,11 +2717,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rename</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Location:</translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -2776,14 +2749,14 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Detail View</translation>
     </message>
 </context>
 <context>
     <name>QErrorMessage</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Fatal Error:</source>
@@ -2806,15 +2779,15 @@ Check path and filename.</source>
     <name>QPrintWidget</name>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -2834,11 +2807,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"/>
+        <translation>Printer</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"/>
+        <translation>Location:</translation>
     </message>
 </context>
 <context>
@@ -2849,11 +2822,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"/>
+        <translation>Lao</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"/>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>Demi</source>
@@ -2861,7 +2834,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Thai</translation>
     </message>
     <message>
         <source>Black</source>
@@ -2869,15 +2842,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Greek</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"/>
+        <translation>Khmer</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation type="unfinished"/>
+        <translation>Latin</translation>
     </message>
     <message>
         <source>Light</source>
@@ -2885,31 +2858,31 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"/>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya</translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation type="unfinished"/>
+        <translation>Runic</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"/>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation type="unfinished"/>
+        <translation>Cyrillic</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"/>
+        <translation>Kannada</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalam</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -2921,23 +2894,23 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arabic</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation type="unfinished"/>
+        <translation>Myanmar</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Korean</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -2945,55 +2918,55 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Oblique</source>
-        <translation type="unfinished"/>
+        <translation>Oblique</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"/>
+        <translation>Thaana</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Syriac</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation type="unfinished"/>
+        <translation>Devanagari</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"/>
+        <translation>Japanese</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengali</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"/>
+        <translation>Armenian</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Sinhala</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"/>
+        <translation>Tibetan</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamese</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Gujarati</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -3001,18 +2974,18 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Georgian</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"/>
+        <translation>Gurmukhi</translation>
     </message>
 </context>
 <context>
     <name>QWebPage</name>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Cut</translation>
     </message>
     <message>
         <source>LTR</source>
@@ -3024,19 +2997,19 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Top</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"/>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Copy</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"/>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Insert a new paragraph</source>
@@ -3048,19 +3021,19 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Open Image</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Fonts</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Paste</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Inspect</source>
@@ -3116,15 +3089,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Scroll down</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Scroll here</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Scroll left</translation>
     </message>
     <message>
         <source>Move the cursor to the start of the block</source>
@@ -3133,23 +3106,24 @@ Check path and filename.</source>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"/>
+        <translation>Text 
+Direction</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Bottom</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>Move the cursor to the end of the line</source>
@@ -3161,7 +3135,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Reload</translation>
     </message>
     <message>
         <source>JavaScript Confirm - %1</source>
@@ -3173,7 +3147,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Submit</translation>
     </message>
     <message>
         <source>Web Inspector - %2</source>
@@ -3181,7 +3155,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"/>
+        <translation>Page up</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -3189,7 +3163,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"/>
+        <translation>Outline</translation>
     </message>
     <message>
         <source>Check Grammar With Spelling</source>
@@ -3201,7 +3175,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished"/>
+        <translation>Save Image</translation>
     </message>
     <message>
         <source>Save Link...</source>
@@ -3213,7 +3187,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"/>
+        <translation>Page right</translation>
     </message>
     <message>
         <source>Move the cursor to the start of the document</source>
@@ -3241,7 +3215,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>Check Spelling</translation>
     </message>
     <message>
         <source>Select to the next character</source>
@@ -3257,7 +3231,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"/>
+        <translation>Direction</translation>
     </message>
     <message>
         <source>Select to the end of the line</source>
@@ -3266,15 +3240,15 @@ Check path and filename.</source>
     <message>
         <source>Submit</source>
         <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
-        <translation type="unfinished"/>
+        <translation>Submit</translation>
     </message>
     <message>
         <source>Choose File</source>
-        <translation type="unfinished"/>
+        <translation>Choose File</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Scroll up</translation>
     </message>
     <message>
         <source>Clear recent searches</source>
@@ -3286,11 +3260,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Default</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"/>
+        <translation>Underline</translation>
     </message>
     <message>
         <source>Move the cursor to the previous character</source>
@@ -3310,11 +3284,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"/>
+        <translation>Select all</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Scroll right</translation>
     </message>
     <message>
         <source>No Guesses Found</source>
@@ -3330,7 +3304,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>Move the cursor to the previous word</source>
@@ -3346,7 +3320,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Left edge</source>
-        <translation type="unfinished"/>
+        <translation>Left edge</translation>
     </message>
     <message>
         <source>Go Forward</source>
@@ -3354,11 +3328,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"/>
+        <translation>Page down</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"/>
+        <translation>Page left</translation>
     </message>
     <message>
         <source>This is a searchable index. Enter search keywords: </source>
@@ -3378,7 +3352,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Right edge</source>
-        <translation type="unfinished"/>
+        <translation>Right edge</translation>
     </message>
     <message>
         <source>Move the cursor to the end of the document</source>
@@ -3425,7 +3399,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Free Trial</source>
-        <translation type="unfinished"/>
+        <translation>Free Trial</translation>
     </message>
     <message>
         <source>Premium</source>
@@ -3494,19 +3468,19 @@ Check path and filename.</source>
     <name>QScrollBar</name>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Top</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Scroll down</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Scroll here</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Scroll left</translation>
     </message>
     <message>
         <source>Line up</source>
@@ -3518,43 +3492,43 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Bottom</translation>
     </message>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"/>
+        <translation>Page up</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"/>
+        <translation>Page right</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Scroll up</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Scroll right</translation>
     </message>
     <message>
         <source>Left edge</source>
-        <translation type="unfinished"/>
+        <translation>Left edge</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"/>
+        <translation>Page down</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"/>
+        <translation>Page left</translation>
     </message>
     <message>
         <source>Right edge</source>
-        <translation type="unfinished"/>
+        <translation>Right edge</translation>
     </message>
 </context>
 <context>
@@ -3877,19 +3851,19 @@ Check path and filename.</source>
     <name>QFileDialog</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Open</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -3897,7 +3871,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Drive</source>
-        <translation type="unfinished"/>
+        <translation>Drive</translation>
     </message>
     <message>
         <source>Show </source>
@@ -3914,7 +3888,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>New Folder</translation>
     </message>
     <message>
         <source>Parent Directory</source>
@@ -3926,7 +3900,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>My Computer</source>
@@ -3954,7 +3928,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Save As</translation>
     </message>
     <message>
         <source>%1
@@ -3972,7 +3946,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -3984,11 +3958,11 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"/>
+        <translation>All Files (*.*)</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rename</translation>
     </message>
     <message>
         <source>Could not delete directory.</source>
@@ -3996,11 +3970,11 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Location:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>%1 already exists.
@@ -4009,7 +3983,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Forward</translation>
     </message>
     <message>
         <source>Recent Places</source>
@@ -4021,7 +3995,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Detail View</translation>
     </message>
     <message>
         <source>%1
@@ -4034,31 +4008,31 @@ Please verify the correct file name was given.</source>
     <name>Q3TextEdit</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Cu&amp;t</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Copy</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Undo</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Clear</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Paste</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Select All</translation>
     </message>
 </context>
 <context>
@@ -4073,11 +4047,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Undo</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -4085,42 +4059,42 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Select All</translation>
     </message>
 </context>
 <context>
     <name>QTextControl</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Cu&amp;t</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Copy</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Undo</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Paste</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Select All</translation>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
@@ -4154,14 +4128,14 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Float</source>
-        <translation type="unfinished"/>
+        <translation>Float</translation>
     </message>
 </context>
 <context>
     <name>QDialog</name>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Done</translation>
     </message>
     <message>
         <source>What&apos;s This?</source>
@@ -4172,11 +4146,11 @@ Please verify the correct file name was given.</source>
     <name>QWizard</name>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Done</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -4184,7 +4158,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Next</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4196,15 +4170,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Continue</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Finish</translation>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Next &gt;</translation>
     </message>
     <message>
         <source>Go Back</source>
@@ -4212,14 +4186,14 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"/>
+        <translation>&lt; &amp;Back</translation>
     </message>
 </context>
 <context>
     <name>QPageSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>bottom margin</source>
@@ -4227,7 +4201,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Paper</source>
-        <translation type="unfinished"/>
+        <translation>Paper</translation>
     </message>
     <message>
         <source>Paper source:</source>
@@ -4251,7 +4225,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Width:</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -4295,22 +4269,22 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Height:</translation>
     </message>
 </context>
 <context>
     <name>QPrintPropertiesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Page</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Advanced</translation>
     </message>
 </context>
 <context>
@@ -4443,80 +4417,16 @@ Please verify the correct file name was given.</source>
         <source>Choose a plan</source>
         <translation>Choose a plan</translation>
     </message>
-    <message>
-        <source>ADD or edit image in PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cloud Storage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Compress</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Files Repair</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export picture without watermark</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No Ads</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Picture to Text(OCR)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited downloads of template, inforgraphics and more</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Edit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More other Privileges</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export PDF in batch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Correction fluid in PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited picture to PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Basic Document Operations</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Split/Merge</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>&amp;Move</source>
@@ -4524,7 +4434,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Size</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4544,7 +4454,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Close</translation>
     </message>
     <message>
         <source>- [%1]</source>
@@ -4556,7 +4466,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Restore</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -4572,11 +4482,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>Mi&amp;nimize</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>Ma&amp;ximize</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -4602,7 +4512,7 @@ Please verify the correct file name was given.</source>
     <name>QObject</name>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Convert Presentation to Word document</source>
@@ -4725,15 +4635,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Date Modified</source>
@@ -4748,15 +4658,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>%1 GB</source>
@@ -4788,7 +4698,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Computer</translation>
     </message>
     <message>
         <source>Invalid filename</source>
@@ -4803,22 +4713,22 @@ Please verify the correct file name was given.</source>
     <name>QDoubleSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Less Than</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
 </context>
 <context>
     <name>QSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Less Than</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
 </context>
 <context>
@@ -4846,11 +4756,11 @@ Please verify the correct file name was given.</source>
     <name>QPPDOptionsModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"/>
+        <translation>Value</translation>
     </message>
 </context>
 <context>
@@ -4883,7 +4793,7 @@ Please verify the correct file name was given.</source>
     <name>QComboBox</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>True</source>
@@ -4902,7 +4812,7 @@ Please verify the correct file name was given.</source>
     <name>QMenu</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4917,14 +4827,14 @@ Please verify the correct file name was given.</source>
     <name>QPushButton</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
 </context>
 <context>
     <name>QToolButton</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Press</source>
@@ -4935,29 +4845,29 @@ Please verify the correct file name was given.</source>
     <name>QUndoGroup</name>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Redo</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Undo</translation>
     </message>
 </context>
 <context>
     <name>QUndoStack</name>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Redo</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Undo</translation>
     </message>
 </context>
 <context>
     <name>KxTrialExpireDlg</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Quit</translation>
     </message>
 </context>
 <context>
@@ -5039,15 +4949,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Update</translation>
     </message>
 </context>
 <context>
@@ -6082,7 +5992,7 @@ Please download and update in time so as not to affect your work.</translation>
     <message>
         <source>Your file has been automatically saved to the backup folder, don't worry.
 If this error occurs repeatedly, please send us an error report.</source>
-        <translation>Do not worry,your file has been automatically saved.
+        <translation>Do not worry, your file has been automatically saved.
 If error occurs repeatedly, please send us an error report.</translation>
     </message>
     <message>
@@ -6112,11 +6022,11 @@ Sorry for the inconvenience.</source>
     <name>QFontDialog</name>
     <message>
         <source>&amp;Font</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Font</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Size</translation>
     </message>
     <message>
         <source>Sample</source>
@@ -6136,11 +6046,11 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Underline</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Effects</translation>
     </message>
     <message>
         <source>Stri&amp;keout</source>
@@ -6155,19 +6065,19 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancel</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Finish</translation>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Next &gt;</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"/>
+        <translation>&lt; &amp;Back</translation>
     </message>
 </context>
 <context>
@@ -6178,7 +6088,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Size</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6186,7 +6096,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimize</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -6194,11 +6104,11 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Close</translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
-        <translation type="unfinished"/>
+        <translation>%2 - %1</translation>
     </message>
     <message>
         <source>Sh&amp;ade</source>
@@ -6206,7 +6116,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Restore</translation>
     </message>
     <message>
         <source>&amp;Unshade</source>
@@ -6214,11 +6124,11 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>Mi&amp;nimize</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>Ma&amp;ximize</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -6229,11 +6139,11 @@ Sorry for the inconvenience.</source>
     <name>QColorDialog</name>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Red:</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sat:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
@@ -6241,11 +6151,11 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation type="unfinished"/>
+        <translation>Hu&amp;e:</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Select Color</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
@@ -6253,11 +6163,11 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation type="unfinished"/>
+        <translation>Bl&amp;ue:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Green:</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
@@ -6269,7 +6179,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;lpha channel:</translation>
     </message>
 </context>
 <context>
@@ -6820,7 +6730,7 @@ Sorry for the inconvenience.</source>
     <name>QCheckBox</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Check Mark</translation>
     </message>
     <message>
         <source>Toggle</source>
@@ -6835,7 +6745,7 @@ Sorry for the inconvenience.</source>
     <name>QRadioButton</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Check Mark</translation>
     </message>
 </context>
 <context>
@@ -6884,7 +6794,7 @@ and you can view them in Backup center.</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimize</translation>
     </message>
     <message>
         <source>Puts a minimized back to normal</source>
@@ -6900,11 +6810,11 @@ and you can view them in Backup center.</translation>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>System</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Maximize</translation>
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
@@ -6969,11 +6879,11 @@ and you can view them in Backup center.</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>Music</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Communication</source>
@@ -6985,7 +6895,7 @@ and you can view them in Backup center.</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Notifications</translation>
     </message>
 </context>
 <context>
@@ -7107,6 +7017,77 @@ to
     </message>
 </context>
 <context>
+    <name>KPromeGuestNoticeDlg</name>
+    <message>
+        <source>As a guest, you can only open and view your local documents in read-only mode.</source>
+        <translation>As a guest, you can only open and view your local documents in read-only mode.</translation>
+    </message>
+    <message>
+        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be saved in the guest account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Guest account data cannot be migrated to another account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User Login</source>
+        <translation>User Login</translation>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user WPS as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be stored in the guest account.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to enable more editing features and better protect your privacy.</source>
+        <translation>We recommend that you sign in first to enable more editing features and better protect your privacy.</translation>
+    </message>
+    <message>
+        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>Guest account data is only saved locally, no cloud backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The one who uses WPS on the same device may view your data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data cannot be synchronized on multiple ends.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to protect your privacy better.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are about to use WPS as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KPromeExportPDFFailedCenterWidget</name>
     <message>
         <source>Retry</source>
@@ -7205,7 +7186,7 @@ to
     <name>KxDlgQingWelcome</name>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"/>
+        <translation>Trial</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
@@ -7217,15 +7198,15 @@ to
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"/>
+        <translation>Enter Activation Code</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Welcome to WPS Office</translation>
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
@@ -7236,7 +7217,7 @@ to
     <name>KxDlgWelcome</name>
     <message>
         <source>Trial</source>
-        <translation type="unfinished"/>
+        <translation>Trial</translation>
     </message>
     <message>
         <source>Sign in to use WPS Office and enjoy more advanced services.</source>
@@ -7244,11 +7225,11 @@ to
     </message>
     <message>
         <source>Enter Serial Number</source>
-        <translation type="unfinished"/>
+        <translation>Enter Serial Number</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"/>
+        <translation>Enter Activation Code</translation>
     </message>
     <message>
         <source>Enter Serial Number/Activation Code</source>
@@ -7264,7 +7245,7 @@ to
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Get a 30-day trial.</source>
@@ -7272,7 +7253,7 @@ to
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Welcome to WPS Office</translation>
     </message>
 </context>
 <context>
@@ -7332,6 +7313,53 @@ to
     <message>
         <source>SOCKS version 5 protocol error</source>
         <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation>Repair Damaged Files</translation>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation>Split/Merge/Compress PDF Files</translation>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation>OCR (Picture to Word/Excel/PPT/TXT)</translation>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation>Edit Texts/Images in PDF Files</translation>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation>Unlock 51 advanced features for WPS PDF, Writer, Spreadsheet, and Presentation.</translation>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation>Get Your Free Trial</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF to Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation>Buy Now</translation>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation>Start Your 7-Day WPS Premium Trial</translation>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation>View more</translation>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation>Protect/Sign PDF Files</translation>
     </message>
 </context>
 <context>
@@ -7565,69 +7593,6 @@ to
     </message>
     <message>
         <source>Connection closed</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KPromeGuestNoticeDlg</name>
-    <message>
-        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your data will be saved in the guest account</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Guest account data cannot be migrated to another account</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User Login</source>
-        <translation>User Login</translation>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user WPS as a guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your data will be stored in the guest account.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Sign in</translation>
-    </message>
-    <message>
-        <source>Guest account data is only saved locally, no cloud backup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The one who uses WPS on the same device may view your data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your data cannot be synchronized on multiple ends.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>We recommend that you sign in first to protect your privacy better.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Login Now</source>
-        <translation>Sign in</translation>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You are about to use WPS as a guest</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -8370,7 +8335,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Need Help?</source>
-        <translation type="unfinished"/>
+        <translation>Need Help?</translation>
     </message>
     <message>
         <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
@@ -8378,7 +8343,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>Welcome to WPS Office</translation>
     </message>
 </context>
 <context>
@@ -8545,7 +8510,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"/>
+        <translation>Activate</translation>
     </message>
     <message>
         <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
@@ -8637,7 +8602,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>File does not exist</source>
-        <translation type="unfinished"/>
+        <translation>File does not exist</translation>
     </message>
     <message>
         <source>Cannot show mimetype</source>
@@ -8814,6 +8779,37 @@ This file may be renamed, deleted or moved.</translation>
     </message>
 </context>
 <context>
+    <name>KPromeLoginReminderDlg</name>
+    <message>
+        <source>1GB of free cloud storage</source>
+        <translation>1GB of free cloud storage</translation>
+    </message>
+    <message>
+        <source>Sign in to unlock more features.</source>
+        <translation>Sign in to unlock more features</translation>
+    </message>
+    <message>
+        <source>Document to image</source>
+        <translation>Document to image</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF to Word</translation>
+    </message>
+    <message>
+        <source>If you don&apos;t sign in, you will only be allowed to open and view documents in read-only mode.</source>
+        <translation>If you don&apos;t sign in, you will only be allowed to open and view documents in read-only mode.</translation>
+    </message>
+    <message>
+        <source>Edit and share document</source>
+        <translation>Edit and share document</translation>
+    </message>
+</context>
+<context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
@@ -8832,7 +8828,7 @@ This file may be renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>&amp;Select All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Select All</translation>
     </message>
 </context>
 <context>
@@ -9193,7 +9189,7 @@ All Rights Reserved.</source>
     <name>KxWelcomeDlg</name>
     <message>
         <source>Purchase WPS Office for Enterprise</source>
-        <translation type="unfinished"/>
+        <translation>Purchase WPS Office for Enterprise</translation>
     </message>
 </context>
 <context>
@@ -9247,7 +9243,7 @@ All Rights Reserved.</source>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"/>
+        <translation>Show All</translation>
     </message>
 </context>
 <context>
@@ -9290,7 +9286,7 @@ Create a blank tab with Command+N</translation>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>New Tab</translation>
+        <translation>New</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9307,8 +9303,8 @@ Create a blank tab with Command+N</translation>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>New Tab
-Create a blank tab with Ctrl+N</translation>
+        <translation>New
+Create a new document tab with Ctrl+N</translation>
     </message>
 </context>
 <context>
@@ -9404,7 +9400,7 @@ p, li { white-space: pre-wrap; }
     <name>Q3ToolBar</name>
     <message>
         <source>More...</source>
-        <translation type="unfinished"/>
+        <translation>More...</translation>
     </message>
 </context>
 <context>
@@ -9476,11 +9472,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Exit Now</source>
         <translation>Exit</translation>
-    </message>
-    <message>
-        <source>A logined account is needed To continue to use WPS 2019 beta version.
-Exit login panel will lead to exiting WPS 2019.</source>
-        <translation>You must be logged in to use WPS 2019 beta version.</translation>
     </message>
 </context>
 <context>
@@ -9593,7 +9584,7 @@ Exit login panel will lead to exiting WPS 2019.</source>
     <name>KxDlgAuthorizeExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Expiration Reminder</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -9612,7 +9603,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgExpirationReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Expiration Reminder</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expires now.</source>
@@ -9646,7 +9637,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgTrialExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Expiration Reminder</translation>
     </message>
     <message>
         <source>Contact Email:gch@wps.cn</source>
@@ -9723,6 +9714,41 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KPromeHeaderUpgradeNoticeDlg</name>
+    <message>
+        <source>Your WPS Premium free trial has ended</source>
+        <translation>Your WPS Premium free trial has ended</translation>
+    </message>
+    <message>
+        <source>50GB Cloud storage and collaboration</source>
+        <translation>20GB Cloud storage and collaboration</translation>
+    </message>
+    <message>
+        <source>Go Premium</source>
+        <translation>Go Premium</translation>
+    </message>
+    <message>
+        <source>Try All WPS Premium Features</source>
+        <translation>Try All WPS Premium Features</translation>
+    </message>
+    <message>
+        <source>Convert PDF to Word/Excel/PPT</source>
+        <translation>Convert PDF to Word,Excel,PPT</translation>
+    </message>
+    <message>
+        <source>Help you to boost efficiency with 80 premium features</source>
+        <translation>Help you boost efficiency with 80 premium features</translation>
+    </message>
+    <message>
+        <source>Free 7-Day Trial</source>
+        <translation>Free 7-Day Trial</translation>
+    </message>
+    <message>
+        <source>Edit text and images in PDFs</source>
+        <translation>Edit PDF text,images and links</translation>
+    </message>
+</context>
+<context>
     <name>AudioOutput</name>
     <message>
         <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
@@ -9782,23 +9808,23 @@ p, li { white-space: pre-wrap; }
     <name>QSlider</name>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"/>
+        <translation>Page up</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"/>
+        <translation>Page right</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"/>
+        <translation>Page down</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"/>
+        <translation>Page left</translation>
     </message>
 </context>
 <context>
@@ -9873,10 +9899,21 @@ Customer service hotline:</translation>
     </message>
 </context>
 <context>
+    <name>KPromeHeaderUpgrade</name>
+    <message>
+        <source>Free Trial</source>
+        <translation>Free Trial</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Go Premium</translation>
+    </message>
+</context>
+<context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
-        <translation type="unfinished"/>
+        <translation>Premium</translation>
     </message>
 </context>
 <context>
@@ -9925,22 +9962,6 @@ Customer service hotline:</translation>
     <message>
         <source>add current web page to wps startpage</source>
         <translation>Add current web page to wps startpage</translation>
-    </message>
-    <message>
-        <source>copy web page</source>
-        <translation>Copy web page</translation>
-    </message>
-    <message>
-        <source>load by default browser</source>
-        <translation>Open with default browser</translation>
-    </message>
-    <message>
-        <source>reload web page</source>
-        <translation>Reload page</translation>
-    </message>
-    <message>
-        <source>new web page</source>
-        <translation>New web page</translation>
     </message>
 </context>
 <context>
@@ -9997,6 +10018,25 @@ Customer service hotline:</translation>
     <message>
         <source>abnormal network status, turn to be offline status</source>
         <translation>Network error. Offline now.</translation>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation>Read-Only Mode</translation>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation>Continue in Read-only Mode</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Sign in</translation>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
+        <translation>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</translation>
     </message>
 </context>
 <context>
@@ -10148,13 +10188,6 @@ Customer service hotline:</translation>
     </message>
 </context>
 <context>
-    <name>KPromeHeaderUpgrade</name>
-    <message>
-        <source>Upgrade</source>
-        <translation>Go Premium</translation>
-    </message>
-</context>
-<context>
     <name>KRightTopTipWidgetBase</name>
     <message>
         <source>Upgrade</source>
@@ -10201,18 +10234,30 @@ Customer service hotline:</translation>
     </message>
 </context>
 <context>
-    <name>KPromeTipGroup_XA</name>
+    <name>KGDPRAgreementAskWidget</name>
     <message>
-        <source>Share</source>
-        <translation>Share</translation>
+        <source>, </source>
+        <translation>, </translation>
     </message>
     <message>
-        <source>Cloud backup</source>
-        <translation>Cloud backup</translation>
+        <source>Accept &amp;&amp; Continue</source>
+        <translation>Accept &amp;&amp; Continue</translation>
     </message>
     <message>
-        <source>Local save:</source>
-        <translation>Local save:</translation>
+        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation>Online Service User Agreement</translation>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation>End-User License Agreement</translation>
+    </message>
+    <message>
+        <source>Exit WPS</source>
+        <translation>Exit WPS</translation>
     </message>
 </context>
 </TS>
