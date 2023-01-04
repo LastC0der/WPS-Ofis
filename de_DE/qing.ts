@@ -1280,7 +1280,7 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Start</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1849,7 +1849,7 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Beim Lesen von der Datei %1 trat ein Fehler auf: %2</translation>
     </message>
     <message>
         <source>file is renamed on server but failed to be renamed on local disk</source>
@@ -2153,7 +2153,7 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Schreiben zur Datei %1: %2</translation>
     </message>
     <message>
         <source>File occupied, rename failed</source>
@@ -2188,19 +2188,19 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nein</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ja</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Hilfe</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2208,11 +2208,11 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2220,15 +2220,15 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Voreinstellungen</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2236,23 +2236,23 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignorieren</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>N&amp;ein, keine</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Alles speichern</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Verwerfen</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Ja, &amp;alle</translation>
     </message>
 </context>
 <context>
@@ -7877,7 +7877,7 @@ Freier Speicherplatz: ca. %1 MB</translation>
     </message>
     <message>
         <source>Volume: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Lautstärke: %1%</translation>
     </message>
 </context>
 <context>
@@ -10535,7 +10535,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"/>
+        <translation>Download läuft</translation>
     </message>
     <message>
         <source>I got it</source>
