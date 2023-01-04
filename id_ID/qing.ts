@@ -2188,19 +2188,19 @@ Anda yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>Tidak (&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ya (&amp;Y)</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Bantuan</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Buka</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2208,11 +2208,11 @@ Anda yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Terapkan</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2220,15 +2220,15 @@ Anda yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Pulihkan Default</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2236,23 +2236,23 @@ Anda yakin ingin mengubahnya?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Tidak untuk Semua (&amp;i)</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Simpan Semua</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Buang</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Ya untuk Semua (&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -11631,7 +11631,7 @@ Waktu untuk peningkatan: %1</translation>
     <name>KOtherCloudTransDelegate</name>
     <message>
         <source>Download failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal Mengunduh</translation>
     </message>
     <message>
         <source>Upload failed</source>
@@ -11983,50 +11983,50 @@ Waktu untuk peningkatan: %1</translation>
     <name>KTrayMiddleWidget</name>
     <message>
         <source>Tool</source>
-        <translation type="unfinished"/>
+        <translation>Alat</translation>
     </message>
 </context>
 <context>
     <name>KTrayTopItem</name>
     <message>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Lihat</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan</translation>
     </message>
     <message>
         <source>Clean up</source>
-        <translation type="unfinished"/>
+        <translation>Bersihkan</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"/>
+        <translation>Mengunduh</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"/>
+        <translation>Mengunggah</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"/>
+        <translation>Dijeda</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"/>
+        <translation>Selesai</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
-        <translation type="unfinished"/>
+        <translation>File Cloud Saya</translation>
     </message>
     <message>
         <source>Cloud Sync</source>
-        <translation type="unfinished"/>
+        <translation>Cloud Sync</translation>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Go Premium</translation>
     </message>
     <message>
         <source>Cloud Space:%1/%2</source>
@@ -12071,14 +12071,14 @@ Waktu untuk peningkatan: %1</translation>
     <name>KTrayBottomWidget</name>
     <message>
         <source>Recent Visit</source>
-        <translation type="unfinished"/>
+        <translation>Terbaru</translation>
     </message>
 </context>
 <context>
     <name>KTrayClipboardTopWidget</name>
     <message>
         <source>Paused</source>
-        <translation type="unfinished"/>
+        <translation>Dijeda</translation>
     </message>
     <message>
         <source>Record</source>
