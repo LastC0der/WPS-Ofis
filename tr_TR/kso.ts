@@ -40975,7 +40975,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New Template</source>
-        <translation type="unfinished"/>
+        <translation>Yeni İzin Şablonu</translation>
     </message>
 </context>
 <context>
