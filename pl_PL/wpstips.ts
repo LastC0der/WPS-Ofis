@@ -2741,7 +2741,7 @@ Ukośne linie w nagłówkach tabeli mogą być przenoszone.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Konwertuj obraz na tekst</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
