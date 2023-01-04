@@ -1276,7 +1276,7 @@ Please batches operations</source>
     <message>
         <source>You have selected too many pages to move(&gt;50).
 Please batches operations</source>
-        <translation type="unfinished"/>
+        <translation>Vous avez sélectionné un trop grand nombre de plages à déplacer (&gt;50). Effectuez la sélection par lots.</translation>
     </message>
     <message>
         <source>The text of the current editor has not been saved yet. Inserting the page will cause the edited content to be lost.</source>
@@ -1288,7 +1288,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Select Files</source>
-        <translation type="unfinished"/>
+        <translation>Sélectionner des fichiers</translation>
     </message>
     <message>
         <source>PDF Compress loading failed.</source>
@@ -2125,11 +2125,11 @@ L&apos;opération ne peut pas être annulée</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Rétablir</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Online Security PDF Files (*.pdf)|*.pdf|</source>
@@ -2219,11 +2219,11 @@ L&apos;opération ne peut pas être annulée</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de rétablir</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;annuler</translation>
     </message>
     <message>
         <source>Failed to add attachment</source>
@@ -4611,7 +4611,7 @@ log in to save changes?</source>
     <message>
         <source>The font &apos;</source>
         <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"/>
+        <translation>La police &apos;</translation>
     </message>
     <message>
         <source>add Image</source>
@@ -5808,7 +5808,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Enregistreur d&apos;écran</translation>
     </message>
     <message>
         <source>100.0%</source>
@@ -6760,7 +6760,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDFToWord</source>
-        <translation type="unfinished"/>
+        <translation>De PDF à Word</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -7284,7 +7284,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Official website</source>
-        <translation type="unfinished"/>
+        <translation>Site Web officiel</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -8829,7 +8829,7 @@ fichiers</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Masquer la fenêtre active lors de la capture d&apos;écrans</translation>
     </message>
     <message>
         <source>PageNumber</source>
@@ -8878,7 +8878,7 @@ fichiers</translation>
     </message>
     <message>
         <source>Screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Captures d&apos;écran</translation>
     </message>
     <message>
         <source>accout info</source>
@@ -14537,7 +14537,7 @@ Les pages supprimées ne peuvent pas être récupérées</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
-        <translation type="unfinished"/>
+        <translation>Enregistreur d&apos;écran</translation>
     </message>
     <message>
         <source>PDF to Excel</source>
