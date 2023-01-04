@@ -564,33 +564,6 @@
     </message>
 </context>
 <context>
-    <name>KGDPRAgreementAskWidget</name>
-    <message>
-        <source>, </source>
-        <translation>, </translation>
-    </message>
-    <message>
-        <source>Accept &amp;&amp; Continue</source>
-        <translation>Aceitar e Continuar</translation>
-    </message>
-    <message>
-        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
-        <translation>Para garantir que você compreendeu os seus direitos e responsabilidades ao utilizar o WPS, clique no link abaixo para conhecer os novos termos do(s) nosso(s) contrato(s) atualizado(s).</translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation>Contrato de Utilizador de Serviço Online</translation>
-    </message>
-    <message>
-        <source>End-User License Agreement</source>
-        <translation>Contrato de Licença do Utilizador Final</translation>
-    </message>
-    <message>
-        <source>Exit WPS</source>
-        <translation>Sair do WPS</translation>
-    </message>
-</context>
-<context>
     <name>QPrintDialog</name>
     <message>
         <source>A0</source>
@@ -2015,19 +1988,19 @@ Depois da expiração, algumas funcionalidades não funcionarão corretamente. R
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Não</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sim</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2035,11 +2008,11 @@ Depois da expiração, algumas funcionalidades não funcionarão corretamente. R
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Abortar</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2047,15 +2020,15 @@ Depois da expiração, algumas funcionalidades não funcionarão corretamente. R
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Tentar Novamente</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar Predefinições</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2063,23 +2036,23 @@ Depois da expiração, algumas funcionalidades não funcionarão corretamente. R
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>N&amp;ão para Todos</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Guardar Tudo</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Descartar</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Sim para &amp;Todos</translation>
     </message>
 </context>
 <context>
@@ -3139,7 +3112,7 @@ Verifique a localização e o nome.</translation>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -4455,70 +4428,6 @@ durante 7 dias</translation>
     <message>
         <source>Choose a plan</source>
         <translation>Escolher um plano</translation>
-    </message>
-    <message>
-        <source>ADD or edit image in PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cloud Storage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Compress</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Files Repair</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export picture without watermark</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No Ads</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Picture to Text(OCR)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited downloads of template, inforgraphics and more</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Edit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More other Privileges</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export PDF in batch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Correction fluid in PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited picture to PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Basic Document Operations</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Split/Merge</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7128,6 +7037,77 @@ para
     </message>
 </context>
 <context>
+    <name>KPromeGuestNoticeDlg</name>
+    <message>
+        <source>As a guest, you can only open and view your local documents in read-only mode.</source>
+        <translation>Como convidado, só pode abrir e ver documentos locais no modo só de leitura.</translation>
+    </message>
+    <message>
+        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be saved in the guest account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Guest account data cannot be migrated to another account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User Login</source>
+        <translation>Início de Sessão de Utilizador</translation>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user WPS as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be stored in the guest account.</source>
+        <translation>Os seus dados serão armazenados na conta de convidado.</translation>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to enable more editing features and better protect your privacy.</source>
+        <translation>Recomendamos que inicie sessão primeiro para ativar mais funcionalidades de edição e melhor proteger a sua privacidade.</translation>
+    </message>
+    <message>
+        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Iniciar sessão</translation>
+    </message>
+    <message>
+        <source>Guest account data is only saved locally, no cloud backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The one who uses WPS on the same device may view your data.</source>
+        <translation>Quem utilizar o WPS no mesmo dispositivo pode ver os seus dados.</translation>
+    </message>
+    <message>
+        <source>Your data cannot be synchronized on multiple ends.</source>
+        <translation>Os dados não podem ser sincronizados em vários locais.</translation>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to protect your privacy better.</source>
+        <translation>Recomendamos que inicie primeiro sessão para proteger melhor a sua privacidade.</translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation>Iniciar Sessão Agora</translation>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are about to use WPS as a guest</source>
+        <translation>Está prestes a utilizar o WPS como convidado</translation>
+    </message>
+</context>
+<context>
     <name>KPromeExportPDFFailedCenterWidget</name>
     <message>
         <source>Retry</source>
@@ -7353,6 +7333,53 @@ para
     <message>
         <source>SOCKS version 5 protocol error</source>
         <translation>Erro de protocolo de Versão 5 de SOCKS</translation>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation>Reparar ficheiros danificados</translation>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation>Dividir/unir/comprimir ficheiros PDF</translation>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation>OCR (imagens em Word/Excel/PPT/TXT)</translation>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation>Editar textos/imagens em ficheiros PDF</translation>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation>Desbloqueie 51 funcionalidades avançadas para o WPS PDF, o Writer, o Spreadsheet e o Presentation.</translation>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation>Obter avaliação gratuita</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>Ficheiros PDF em Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation>Comprar Agora</translation>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation>Inicie a sua avaliação de 7 dias do WPS Premium</translation>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation>Ver mais</translation>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation>Proteger/assinar ficheiros PDF</translation>
     </message>
 </context>
 <context>
@@ -7596,69 +7623,6 @@ para
     <message>
         <source>Connection closed</source>
         <translation>Ligação fechada</translation>
-    </message>
-</context>
-<context>
-    <name>KPromeGuestNoticeDlg</name>
-    <message>
-        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your data will be saved in the guest account</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Guest account data cannot be migrated to another account</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User Login</source>
-        <translation>Início de Sessão de Utilizador</translation>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user WPS as a guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your data will be stored in the guest account.</source>
-        <translation>Os seus dados serão armazenados na conta de convidado.</translation>
-    </message>
-    <message>
-        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Iniciar sessão</translation>
-    </message>
-    <message>
-        <source>Guest account data is only saved locally, no cloud backup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The one who uses WPS on the same device may view your data.</source>
-        <translation>Quem utilizar o WPS no mesmo dispositivo pode ver os seus dados.</translation>
-    </message>
-    <message>
-        <source>Your data cannot be synchronized on multiple ends.</source>
-        <translation>Os dados não podem ser sincronizados em vários locais.</translation>
-    </message>
-    <message>
-        <source>We recommend that you sign in first to protect your privacy better.</source>
-        <translation>Recomendamos que inicie primeiro sessão para proteger melhor a sua privacidade.</translation>
-    </message>
-    <message>
-        <source>Login Now</source>
-        <translation>Iniciar Sessão Agora</translation>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You are about to use WPS as a guest</source>
-        <translation>Está prestes a utilizar o WPS como convidado</translation>
     </message>
 </context>
 <context>
@@ -8846,6 +8810,37 @@ O ficheiro poderá ter sido eliminado ou movido, ou o nome poderá ter sido muda
     </message>
 </context>
 <context>
+    <name>KPromeLoginReminderDlg</name>
+    <message>
+        <source>1GB of free cloud storage</source>
+        <translation>1 GB de armazenamento gratuito na cloud</translation>
+    </message>
+    <message>
+        <source>Sign in to unlock more features.</source>
+        <translation>Inicie sessão para ter acesso a mais funcionalidades</translation>
+    </message>
+    <message>
+        <source>Document to image</source>
+        <translation>Documento em imagem</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Iniciar sessão</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF em Word</translation>
+    </message>
+    <message>
+        <source>If you don&apos;t sign in, you will only be allowed to open and view documents in read-only mode.</source>
+        <translation>Se não iniciar sessão, só poderá abrir e ver documentos no modo só de leitura.</translation>
+    </message>
+    <message>
+        <source>Edit and share document</source>
+        <translation>Editar e partilhar documento</translation>
+    </message>
+</context>
+<context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
@@ -9325,7 +9320,7 @@ Criar um separador vazio com Command+N</translation>
     </message>
     <message>
         <source>NewTab</source>
-        <translation>Novo Separador</translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>DocerTab</source>
@@ -9342,8 +9337,8 @@ Criar um separador vazio com Command+N</translation>
     <message>
         <source>New Tab
 Swiftly create a blank tab of the same type with Ctrl+N</source>
-        <translation>Novo Separador
-Criar um separador vazio com Ctrl+N</translation>
+        <translation>Novo
+Crie um novo separador do documento com Ctrl+N</translation>
     </message>
 </context>
 <context>
@@ -9515,11 +9510,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Exit Now</source>
         <translation>Sair</translation>
-    </message>
-    <message>
-        <source>A logined account is needed To continue to use WPS 2019 beta version.
-Exit login panel will lead to exiting WPS 2019.</source>
-        <translation>Tem de ter sessão iniciada para utilizar a versão beta do WPS 2019.</translation>
     </message>
 </context>
 <context>
@@ -9770,6 +9760,41 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KPromeHeaderUpgradeNoticeDlg</name>
+    <message>
+        <source>Your WPS Premium free trial has ended</source>
+        <translation>A sua avaliação gratuita do WPS Premium terminou</translation>
+    </message>
+    <message>
+        <source>50GB Cloud storage and collaboration</source>
+        <translation>20 GB de armazenamento na nuvem e colaboração</translation>
+    </message>
+    <message>
+        <source>Go Premium</source>
+        <translation>Vá Premium</translation>
+    </message>
+    <message>
+        <source>Try All WPS Premium Features</source>
+        <translation>Experimente todas as funcionalidades do WPS Premium</translation>
+    </message>
+    <message>
+        <source>Convert PDF to Word/Excel/PPT</source>
+        <translation>Converter ficheiros PDF em Word, Excel, PPT</translation>
+    </message>
+    <message>
+        <source>Help you to boost efficiency with 80 premium features</source>
+        <translation>Ajude a otimizar a sua eficiência com 80 funcionalidades premium</translation>
+    </message>
+    <message>
+        <source>Free 7-Day Trial</source>
+        <translation>Avaliação gratuita de 7 dias</translation>
+    </message>
+    <message>
+        <source>Edit text and images in PDFs</source>
+        <translation>Edite texto, imagens e ligações em ficheiros PDF</translation>
+    </message>
+</context>
+<context>
     <name>AudioOutput</name>
     <message>
         <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
@@ -9920,6 +9945,17 @@ Linha direta do Suporte ao cliente:</translation>
     </message>
 </context>
 <context>
+    <name>KPromeHeaderUpgrade</name>
+    <message>
+        <source>Free Trial</source>
+        <translation>Avaliação gratuita</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Vá Premium</translation>
+    </message>
+</context>
+<context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
@@ -9972,22 +10008,6 @@ Linha direta do Suporte ao cliente:</translation>
     <message>
         <source>add current web page to wps startpage</source>
         <translation>Adicionar página Web atual à página inicial do WPS</translation>
-    </message>
-    <message>
-        <source>copy web page</source>
-        <translation>Copiar página Web</translation>
-    </message>
-    <message>
-        <source>load by default browser</source>
-        <translation>Abrir com browser predefinido</translation>
-    </message>
-    <message>
-        <source>reload web page</source>
-        <translation>Recarregar página</translation>
-    </message>
-    <message>
-        <source>new web page</source>
-        <translation>Nova página Web</translation>
     </message>
 </context>
 <context>
@@ -10044,6 +10064,25 @@ Linha direta do Suporte ao cliente:</translation>
     <message>
         <source>abnormal network status, turn to be offline status</source>
         <translation>estado de rede irregular, mudar para estado offline</translation>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation>Modo só de leitura</translation>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation>Continuar</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Iniciar sessão</translation>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
+        <translation>Só pode ver este documento no modo só de leitura. Inicie sessão para desfrutar de mais funcionalidades, incluindo editar, guardar e criar documentos. Os seus documentos também ficarão mais protegidos depois de iniciar sessão.</translation>
     </message>
 </context>
 <context>
@@ -10195,13 +10234,6 @@ Linha direta do Suporte ao cliente:</translation>
     </message>
 </context>
 <context>
-    <name>KPromeHeaderUpgrade</name>
-    <message>
-        <source>Upgrade</source>
-        <translation>Vá Premium</translation>
-    </message>
-</context>
-<context>
     <name>KRightTopTipWidgetBase</name>
     <message>
         <source>Upgrade</source>
@@ -10248,18 +10280,30 @@ Linha direta do Suporte ao cliente:</translation>
     </message>
 </context>
 <context>
-    <name>KPromeTipGroup_XA</name>
+    <name>KGDPRAgreementAskWidget</name>
     <message>
-        <source>Share</source>
-        <translation>Partilhar</translation>
+        <source>, </source>
+        <translation>, </translation>
     </message>
     <message>
-        <source>Cloud backup</source>
-        <translation>Cópia de segurança na nuvem</translation>
+        <source>Accept &amp;&amp; Continue</source>
+        <translation>Aceitar e Continuar</translation>
     </message>
     <message>
-        <source>Local save:</source>
-        <translation>Guardar localmente:</translation>
+        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
+        <translation>Para garantir que você compreendeu os seus direitos e responsabilidades ao utilizar o WPS, clique no link abaixo para conhecer os novos termos do(s) nosso(s) contrato(s) atualizado(s).</translation>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation>Contrato de Utilizador de Serviço Online</translation>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation>Contrato de Licença do Utilizador Final</translation>
+    </message>
+    <message>
+        <source>Exit WPS</source>
+        <translation>Sair do WPS</translation>
     </message>
 </context>
 </TS>
