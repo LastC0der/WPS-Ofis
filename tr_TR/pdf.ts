@@ -5921,11 +5921,11 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>PDF2PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>PDF2TXT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den TXT&apos;ye</translation>
     </message>
     <message>
         <source>Align Text Center</source>
@@ -6230,7 +6230,7 @@ Okuma</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>UpdateBackGround</source>
@@ -6494,11 +6494,11 @@ Okuma</translation>
     </message>
     <message>
         <source>PDF2Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Excel&apos;e</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Resme</translation>
     </message>
     <message>
         <source>Select CommentText</source>
@@ -7388,7 +7388,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Görüntüden Oluşan PDF&apos;yi Dönüştür</translation>
     </message>
     <message>
         <source>Line Number</source>
@@ -7919,7 +7919,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>PDF2PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>PDFToWord_L</source>
@@ -7939,7 +7939,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>CAD2PDF</source>
@@ -7951,7 +7951,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>PDFPagesOper</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sayfaları</translation>
     </message>
     <message>
         <source>PDF2Word</source>
@@ -7959,7 +7959,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>PDF2Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Excel&apos;e</translation>
     </message>
     <message>
         <source>BatchPrint</source>
@@ -7967,7 +7967,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Özel Özellikler</translation>
     </message>
     <message>
         <source>MergePDF</source>
@@ -8129,7 +8129,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Görüntüden Oluşan PDF&apos;yi Dönüştür</translation>
     </message>
     <message>
         <source>SaveAs</source>
@@ -8173,7 +8173,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Resme</translation>
     </message>
     <message>
         <source>Scan2PDF</source>
@@ -10039,7 +10039,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>StampTool</source>
@@ -12864,7 +12864,7 @@ Pencere</translation>
     </message>
     <message>
         <source>PDFPagesOper</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sayfaları</translation>
     </message>
     <message>
         <source>TextBox</source>
@@ -12918,7 +12918,7 @@ Pencere</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>PageTool</source>
@@ -14521,7 +14521,7 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Photo to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
@@ -14537,7 +14537,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
@@ -14545,7 +14545,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>PDFPagesOper</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sayfaları</translation>
     </message>
     <message>
         <source>PDF2Word</source>
@@ -14557,11 +14557,11 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Resme</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Özel Özellikler</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -14904,7 +14904,7 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>ongmani.ct_convert</name>
     <message>
         <source>PDF2PPT</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den PPT&apos;ye</translation>
     </message>
     <message>
         <source>PDFToWord_L</source>
@@ -14912,7 +14912,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>ImgPDF</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Görüntüden Oluşan PDF&apos;yi Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
@@ -14920,19 +14920,19 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>SplitPDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi Böl</translation>
     </message>
     <message>
         <source>PDFPagesOper</source>
-        <translation type="unfinished"/>
+        <translation>PDF Sayfaları</translation>
     </message>
     <message>
         <source>PDF2Excel</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Excel&apos;e</translation>
     </message>
     <message>
         <source>PDF2Photo</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Resme</translation>
     </message>
     <message>
         <source>ImageExtract</source>
@@ -14940,7 +14940,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>OtherSpecialFeatures</source>
-        <translation type="unfinished"/>
+        <translation>Özel Özellikler</translation>
     </message>
     <message>
         <source>MergePDF</source>
