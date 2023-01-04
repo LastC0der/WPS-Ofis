@@ -1828,7 +1828,7 @@ Used to show foundation-based relationships</source>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"/>
+        <translation>Bu geçerli bir ölçüm değil.</translation>
     </message>
     <message>
         <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
