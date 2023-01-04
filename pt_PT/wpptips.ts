@@ -1917,7 +1917,7 @@ Cada página irá conter um diapositivo e as respetivas notas de orador, que pod
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Converter Imagem em Texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2079,7 +2079,7 @@ Se quiser efetuar notas, mas não quiser sair da apresentação de diapositivos,
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>Converter em Formato Word</translation>
+        <translation>PPT em Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
