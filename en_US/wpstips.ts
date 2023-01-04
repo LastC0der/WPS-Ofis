@@ -2753,7 +2753,7 @@ The diagonal lines in the table headings can be moved.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convert Picture to Text</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
