@@ -1918,7 +1918,7 @@
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Преобразовать рисунок в текст</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2080,7 +2080,7 @@
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>Преобразовать в формат Word</translation>
+        <translation>PPT в Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
