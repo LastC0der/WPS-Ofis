@@ -14,15 +14,15 @@
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Up</translation>
     </message>
     <message>
         <source>Alt</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>F%1</source>
@@ -30,7 +30,7 @@
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"/>
+        <translation>Del</translation>
     </message>
     <message>
         <source>End</source>
@@ -46,15 +46,15 @@
     </message>
     <message>
         <source>Tab</source>
-        <translation type="unfinished"/>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Call</source>
@@ -62,31 +62,31 @@
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Down</translation>
     </message>
     <message>
         <source>Flip</source>
-        <translation type="unfinished"/>
+        <translation>Flip</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"/>
+        <translation>Left</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Meta</source>
@@ -98,31 +98,31 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"/>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation type="unfinished"/>
+        <translation>Enter</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"/>
+        <translation>Pause</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Print</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"/>
+        <translation>Right</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"/>
+        <translation>Space</translation>
     </message>
     <message>
         <source>Media Record</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Home Page</source>
-        <translation type="unfinished"/>
+        <translation>Home Page</translation>
     </message>
     <message>
         <source>Volume Up</source>
@@ -226,7 +226,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Escape</source>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Bass Boost</source>
@@ -250,15 +250,15 @@
     </message>
     <message>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Search</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Select</translation>
     </message>
     <message>
         <source>SysReq</source>
@@ -266,7 +266,7 @@
     </message>
     <message>
         <source>NumLock</source>
-        <translation type="unfinished"/>
+        <translation>NumLock</translation>
     </message>
     <message>
         <source>ScrollLock</source>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Caps Lock</source>
-        <translation type="unfinished"/>
+        <translation>Caps Lock</translation>
     </message>
     <message>
         <source>System Request</source>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Refresh</translation>
     </message>
     <message>
         <source>Launch Mail</source>
@@ -326,7 +326,7 @@
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"/>
+        <translation>Backspace</translation>
     </message>
     <message>
         <source>Bass Down</source>
@@ -354,7 +354,7 @@
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Forward</translation>
     </message>
     <message>
         <source>Page Down</source>
@@ -385,7 +385,7 @@
     </message>
     <message>
         <source>A1</source>
-        <translation type="unfinished"/>
+        <translation>A1</translation>
     </message>
     <message>
         <source>A2</source>
@@ -393,27 +393,27 @@
     </message>
     <message>
         <source>A3</source>
-        <translation type="unfinished"/>
+        <translation>A3</translation>
     </message>
     <message>
         <source>A4</source>
-        <translation type="unfinished"/>
+        <translation>A4</translation>
     </message>
     <message>
         <source>A5</source>
-        <translation type="unfinished"/>
+        <translation>A5</translation>
     </message>
     <message>
         <source>A6</source>
-        <translation type="unfinished"/>
+        <translation>A6</translation>
     </message>
     <message>
         <source>A7</source>
-        <translation type="unfinished"/>
+        <translation>A7</translation>
     </message>
     <message>
         <source>A8</source>
-        <translation type="unfinished"/>
+        <translation>A8</translation>
     </message>
     <message>
         <source>A9</source>
@@ -461,7 +461,7 @@
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>B10</source>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Legal</source>
-        <translation type="unfinished"/>
+        <translation>Legal</translation>
     </message>
     <message>
         <source>Print all</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Print</translation>
     </message>
     <message>
         <source>&amp;Options &lt;&lt;</source>
@@ -549,7 +549,7 @@
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Print</translation>
     </message>
     <message>
         <source>A3 (297 x 420 mm)</source>
@@ -578,7 +578,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>B1 (707 x 1000 mm)</source>
@@ -594,7 +594,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Letter</translation>
     </message>
     <message>
         <source>DLE (110 x 220 mm)</source>
@@ -610,7 +610,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Print range</translation>
     </message>
     <message>
         <source>File exists</source>
@@ -662,7 +662,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Executive</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -719,11 +719,11 @@ Please choose a different file name.</source>
     <name>QDateTimeEdit</name>
     <message>
         <source>AM</source>
-        <translation type="unfinished"/>
+        <translation>AM</translation>
     </message>
     <message>
         <source>PM</source>
-        <translation type="unfinished"/>
+        <translation>PM</translation>
     </message>
     <message>
         <source>am</source>
@@ -1101,15 +1101,15 @@ Are you sure you want to change it?</translation>
     <name>Q3TabDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Apply</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1124,7 +1124,7 @@ Are you sure you want to change it?</translation>
     <name>QAxSelect</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>COM &amp;Object:</source>
@@ -1132,7 +1132,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancel</translation>
     </message>
     <message>
         <source>Select ActiveX Control</source>
@@ -1147,23 +1147,23 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yes</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Save</source>
@@ -1179,7 +1179,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Apply</translation>
     </message>
     <message>
         <source>Close</source>
@@ -1187,11 +1187,11 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -1199,7 +1199,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Close</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1207,7 +1207,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Close without Saving</source>
@@ -1219,15 +1219,15 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Save All</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancel</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Discard</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -1235,18 +1235,18 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"/>
+        <translation>Don&apos;t Save</translation>
     </message>
 </context>
 <context>
     <name>QMessageBox</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Show Details...</source>
@@ -1277,7 +1277,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2185,19 +2185,19 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yes</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2209,7 +2209,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Apply</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2217,11 +2217,11 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -2233,7 +2233,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
@@ -2241,11 +2241,11 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Save All</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Discard</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
@@ -2468,11 +2468,11 @@ Are you sure you want to change it?</translation>
     <name>QSql</name>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2480,15 +2480,15 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Update</translation>
     </message>
     <message>
         <source>Delete this record?</source>
@@ -2500,7 +2500,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>Cancel your edits?</source>
@@ -2848,7 +2848,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>WechatOfficial</source>
-        <translation type="unfinished"/>
+        <translation>WechatOfficial</translation>
     </message>
     <message>
         <source>wpsAccount</source>
@@ -2907,19 +2907,19 @@ Are you sure you want to change it?</translation>
     <name>QPrintSettingsOutput</name>
     <message>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>to</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>None</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Color</translation>
     </message>
     <message>
         <source>Print all</source>
@@ -2927,7 +2927,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selection</translation>
     </message>
     <message>
         <source>Long side</source>
@@ -2935,11 +2935,11 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished"/>
+        <translation>Copies</translation>
     </message>
     <message>
         <source>Print range</source>
-        <translation type="unfinished"/>
+        <translation>Print range</translation>
     </message>
     <message>
         <source>Color Mode</source>
@@ -2947,7 +2947,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Output Settings</source>
@@ -2959,7 +2959,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"/>
+        <translation>Grayscale</translation>
     </message>
     <message>
         <source>Short side</source>
@@ -2967,11 +2967,11 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Collate</source>
-        <translation type="unfinished"/>
+        <translation>Collate printing</translation>
     </message>
     <message>
         <source>Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Copies:</translation>
     </message>
     <message>
         <source>Pages from</source>
@@ -2990,7 +2990,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation type="unfinished"/>
+        <translation>Print Preview</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2998,7 +2998,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Print</translation>
     </message>
     <message>
         <source>Fit page</source>
@@ -3026,7 +3026,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"/>
+        <translation>Page Setup</translation>
     </message>
     <message>
         <source>Page setup</source>
@@ -3050,7 +3050,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Export to PDF</translation>
     </message>
     <message>
         <source>Previous page</source>
@@ -3073,11 +3073,11 @@ Are you sure you want to change it?</translation>
     <name>Q3FileDialog</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <source>Dir</source>
@@ -3085,43 +3085,43 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yes</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Date</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"/>
+        <translation>Sort</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Open</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -3129,7 +3129,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Open </source>
@@ -3149,7 +3149,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Sort by &amp;Name</source>
-        <translation type="unfinished"/>
+        <translation>Sort by &amp;Name</translation>
     </message>
     <message>
         <source>New Folder 1</source>
@@ -3181,7 +3181,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>New Folder</translation>
     </message>
     <message>
         <source>&amp;Unsorted</source>
@@ -3205,7 +3205,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Read-only</source>
-        <translation type="unfinished"/>
+        <translation>Read-only</translation>
     </message>
     <message>
         <source>Copy or Move a File</source>
@@ -3221,7 +3221,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Attributes</translation>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
@@ -3229,7 +3229,7 @@ Are you sure you want to change it?</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Save As</translation>
     </message>
     <message>
         <source>Inaccessible</source>
@@ -3259,7 +3259,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -3279,7 +3279,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"/>
+        <translation>All Files (*.*)</translation>
     </message>
     <message>
         <source>Read: %1</source>
@@ -3287,11 +3287,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rename</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Location:</translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -3319,14 +3319,14 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Detail View</translation>
     </message>
 </context>
 <context>
     <name>QErrorMessage</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Fatal Error:</source>
@@ -3349,15 +3349,15 @@ Check path and filename.</source>
     <name>QPrintWidget</name>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Type:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -3377,11 +3377,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Printer</source>
-        <translation type="unfinished"/>
+        <translation>Printer</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished"/>
+        <translation>Location:</translation>
     </message>
 </context>
 <context>
@@ -3392,11 +3392,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"/>
+        <translation>Lao</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"/>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>Demi</source>
@@ -3404,7 +3404,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Thai</translation>
     </message>
     <message>
         <source>Black</source>
@@ -3412,15 +3412,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Greek</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"/>
+        <translation>Khmer</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation type="unfinished"/>
+        <translation>Latin</translation>
     </message>
     <message>
         <source>Light</source>
@@ -3428,31 +3428,31 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Ogham</source>
-        <translation type="unfinished"/>
+        <translation>Ogham</translation>
     </message>
     <message>
         <source>Oriya</source>
-        <translation type="unfinished"/>
+        <translation>Oriya</translation>
     </message>
     <message>
         <source>Runic</source>
-        <translation type="unfinished"/>
+        <translation>Runic</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"/>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation type="unfinished"/>
+        <translation>Cyrillic</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"/>
+        <translation>Kannada</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"/>
+        <translation>Malayalam</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -3464,23 +3464,23 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arabic</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <source>Myanmar</source>
-        <translation type="unfinished"/>
+        <translation>Myanmar</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Korean</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -3488,55 +3488,55 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Oblique</source>
-        <translation type="unfinished"/>
+        <translation>Oblique</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"/>
+        <translation>Thaana</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Syriac</source>
-        <translation type="unfinished"/>
+        <translation>Syriac</translation>
     </message>
     <message>
         <source>Devanagari</source>
-        <translation type="unfinished"/>
+        <translation>Devanagari</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"/>
+        <translation>Japanese</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengali</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"/>
+        <translation>Armenian</translation>
     </message>
     <message>
         <source>Sinhala</source>
-        <translation type="unfinished"/>
+        <translation>Sinhala</translation>
     </message>
     <message>
         <source>Tibetan</source>
-        <translation type="unfinished"/>
+        <translation>Tibetan</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamese</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Gujarati</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
@@ -3544,11 +3544,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"/>
+        <translation>Georgian</translation>
     </message>
     <message>
         <source>Gurmukhi</source>
-        <translation type="unfinished"/>
+        <translation>Gurmukhi</translation>
     </message>
 </context>
 <context>
@@ -3702,7 +3702,7 @@ Check path and filename.</source>
     <name>QWebPage</name>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Cut</translation>
     </message>
     <message>
         <source>LTR</source>
@@ -3714,19 +3714,19 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Top</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"/>
+        <translation>Bold</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Copy</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"/>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Insert a new paragraph</source>
@@ -3738,19 +3738,19 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Open Image</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Fonts</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Paste</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Inspect</source>
@@ -3806,15 +3806,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Scroll down</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Scroll here</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Scroll left</translation>
     </message>
     <message>
         <source>Move the cursor to the start of the block</source>
@@ -3823,23 +3823,24 @@ Check path and filename.</source>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="unfinished"/>
+        <translation>Text 
+Direction</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Bottom</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>Italic</translation>
     </message>
     <message>
         <source>Move the cursor to the end of the line</source>
@@ -3851,7 +3852,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Reload</translation>
     </message>
     <message>
         <source>JavaScript Confirm - %1</source>
@@ -3863,7 +3864,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Submit</source>
-        <translation type="unfinished"/>
+        <translation>Submit</translation>
     </message>
     <message>
         <source>Web Inspector - %2</source>
@@ -3871,7 +3872,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"/>
+        <translation>Page up</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -3879,7 +3880,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"/>
+        <translation>Outline</translation>
     </message>
     <message>
         <source>Check Grammar With Spelling</source>
@@ -3891,7 +3892,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished"/>
+        <translation>Save Image</translation>
     </message>
     <message>
         <source>Save Link...</source>
@@ -3903,7 +3904,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"/>
+        <translation>Page right</translation>
     </message>
     <message>
         <source>Move the cursor to the start of the document</source>
@@ -3931,7 +3932,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>Check Spelling</translation>
     </message>
     <message>
         <source>Select to the next character</source>
@@ -3947,7 +3948,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"/>
+        <translation>Direction</translation>
     </message>
     <message>
         <source>Select to the end of the line</source>
@@ -3956,15 +3957,15 @@ Check path and filename.</source>
     <message>
         <source>Submit</source>
         <comment>Submit (input element) alt text for &lt;input&gt; elements with no alt, title, or value</comment>
-        <translation type="unfinished"/>
+        <translation>Submit</translation>
     </message>
     <message>
         <source>Choose File</source>
-        <translation type="unfinished"/>
+        <translation>Choose File</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Scroll up</translation>
     </message>
     <message>
         <source>Clear recent searches</source>
@@ -3976,11 +3977,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Default</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"/>
+        <translation>Underline</translation>
     </message>
     <message>
         <source>Move the cursor to the previous character</source>
@@ -4000,11 +4001,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"/>
+        <translation>Select all</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Scroll right</translation>
     </message>
     <message>
         <source>No Guesses Found</source>
@@ -4020,7 +4021,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>Move the cursor to the previous word</source>
@@ -4036,7 +4037,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Left edge</source>
-        <translation type="unfinished"/>
+        <translation>Left edge</translation>
     </message>
     <message>
         <source>Go Forward</source>
@@ -4044,11 +4045,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"/>
+        <translation>Page down</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"/>
+        <translation>Page left</translation>
     </message>
     <message>
         <source>This is a searchable index. Enter search keywords: </source>
@@ -4068,7 +4069,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Right edge</source>
-        <translation type="unfinished"/>
+        <translation>Right edge</translation>
     </message>
     <message>
         <source>Move the cursor to the end of the document</source>
@@ -4095,19 +4096,19 @@ Check path and filename.</source>
     <name>QScrollBar</name>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Top</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Scroll down</translation>
     </message>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"/>
+        <translation>Scroll here</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"/>
+        <translation>Scroll left</translation>
     </message>
     <message>
         <source>Line up</source>
@@ -4119,43 +4120,43 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Bottom</translation>
     </message>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"/>
+        <translation>Page up</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"/>
+        <translation>Page right</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Scroll up</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"/>
+        <translation>Scroll right</translation>
     </message>
     <message>
         <source>Left edge</source>
-        <translation type="unfinished"/>
+        <translation>Left edge</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"/>
+        <translation>Page down</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"/>
+        <translation>Page left</translation>
     </message>
     <message>
         <source>Right edge</source>
-        <translation type="unfinished"/>
+        <translation>Right edge</translation>
     </message>
 </context>
 <context>
@@ -4635,19 +4636,19 @@ Check path and filename.</source>
     <name>QFileDialog</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Back</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Open</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -4655,7 +4656,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Drive</source>
-        <translation type="unfinished"/>
+        <translation>Drive</translation>
     </message>
     <message>
         <source>Show </source>
@@ -4672,7 +4673,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>New Folder</translation>
     </message>
     <message>
         <source>Parent Directory</source>
@@ -4684,7 +4685,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>My Computer</source>
@@ -4712,7 +4713,7 @@ Do you want to delete it anyway?</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Save As</translation>
     </message>
     <message>
         <source>%1
@@ -4730,7 +4731,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -4742,11 +4743,11 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation type="unfinished"/>
+        <translation>All Files (*.*)</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rename</translation>
     </message>
     <message>
         <source>Could not delete directory.</source>
@@ -4754,11 +4755,11 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Location:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>%1 already exists.
@@ -4767,7 +4768,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Forward</translation>
     </message>
     <message>
         <source>Recent Places</source>
@@ -4779,7 +4780,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Detail View</source>
-        <translation type="unfinished"/>
+        <translation>Detail View</translation>
     </message>
     <message>
         <source>%1
@@ -4799,31 +4800,31 @@ Please verify the correct file name was given.</source>
     <name>Q3TextEdit</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Cu&amp;t</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Copy</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Undo</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Clear</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Paste</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Select All</translation>
     </message>
 </context>
 <context>
@@ -4838,11 +4839,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Undo</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -4850,42 +4851,42 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Select All</translation>
     </message>
 </context>
 <context>
     <name>QTextControl</name>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Cu&amp;t</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Copy</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Undo</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Paste</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Select All</translation>
     </message>
     <message>
         <source>Copy &amp;Link Location</source>
@@ -4904,14 +4905,14 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Float</source>
-        <translation type="unfinished"/>
+        <translation>Float</translation>
     </message>
 </context>
 <context>
     <name>QDialog</name>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Done</translation>
     </message>
     <message>
         <source>What&apos;s This?</source>
@@ -4922,11 +4923,11 @@ Please verify the correct file name was given.</source>
     <name>QWizard</name>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Done</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -4934,7 +4935,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Next</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4946,15 +4947,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"/>
+        <translation>Continue</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Finish</translation>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Next &gt;</translation>
     </message>
     <message>
         <source>Go Back</source>
@@ -4962,7 +4963,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"/>
+        <translation>&lt; &amp;Back</translation>
     </message>
 </context>
 <context>
@@ -4984,7 +4985,7 @@ Please verify the correct file name was given.</source>
     <name>QPageSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>bottom margin</source>
@@ -4992,7 +4993,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Paper</source>
-        <translation type="unfinished"/>
+        <translation>Paper</translation>
     </message>
     <message>
         <source>Paper source:</source>
@@ -5016,7 +5017,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished"/>
+        <translation>Width:</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -5060,33 +5061,33 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Height:</translation>
     </message>
 </context>
 <context>
     <name>QPrintPropertiesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Page</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Advanced</translation>
     </message>
 </context>
 <context>
     <name>QMdiSubWindow</name>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>&amp;Move</source>
@@ -5094,7 +5095,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Size</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5114,7 +5115,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Close</translation>
     </message>
     <message>
         <source>- [%1]</source>
@@ -5126,7 +5127,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Restore</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -5142,11 +5143,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>Mi&amp;nimize</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>Ma&amp;ximize</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -5161,15 +5162,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Date Modified</source>
@@ -5184,15 +5185,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Size</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Type</translation>
     </message>
     <message>
         <source>%1 GB</source>
@@ -5224,7 +5225,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Computer</source>
-        <translation type="unfinished"/>
+        <translation>Computer</translation>
     </message>
     <message>
         <source>Invalid filename</source>
@@ -5289,33 +5290,33 @@ Please verify the correct file name was given.</source>
     <name>QDoubleSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Less Than</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
 </context>
 <context>
     <name>QSpinBox</name>
     <message>
         <source>Less</source>
-        <translation type="unfinished"/>
+        <translation>Less Than</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
 </context>
 <context>
     <name>QPPDOptionsModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"/>
+        <translation>Value</translation>
     </message>
 </context>
 <context>
@@ -5365,7 +5366,7 @@ Please verify the correct file name was given.</source>
     <name>QComboBox</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>True</source>
@@ -5384,7 +5385,7 @@ Please verify the correct file name was given.</source>
     <name>QMenu</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5399,14 +5400,14 @@ Please verify the correct file name was given.</source>
     <name>QPushButton</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
 </context>
 <context>
     <name>QToolButton</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Open</translation>
     </message>
     <message>
         <source>Press</source>
@@ -5417,22 +5418,22 @@ Please verify the correct file name was given.</source>
     <name>QUndoGroup</name>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Redo</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Undo</translation>
     </message>
 </context>
 <context>
     <name>QUndoStack</name>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Redo</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Undo</translation>
     </message>
 </context>
 <context>
@@ -5588,15 +5589,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Insert</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Update</translation>
     </message>
 </context>
 <context>
@@ -6712,11 +6713,11 @@ Please verify the correct file name was given.</source>
     <name>QFontDialog</name>
     <message>
         <source>&amp;Font</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Font</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Size</translation>
     </message>
     <message>
         <source>Sample</source>
@@ -6736,11 +6737,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Underline</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"/>
+        <translation>Effects</translation>
     </message>
     <message>
         <source>Stri&amp;keout</source>
@@ -6755,19 +6756,19 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancel</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Finish</translation>
     </message>
     <message>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Next &gt;</translation>
     </message>
     <message>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"/>
+        <translation>&lt; &amp;Back</translation>
     </message>
 </context>
 <context>
@@ -6778,7 +6779,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Size</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6786,7 +6787,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimize</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -6794,11 +6795,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Close</translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
-        <translation type="unfinished"/>
+        <translation>%2 - %1</translation>
     </message>
     <message>
         <source>Sh&amp;ade</source>
@@ -6806,7 +6807,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Restore</translation>
     </message>
     <message>
         <source>&amp;Unshade</source>
@@ -6814,11 +6815,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation type="unfinished"/>
+        <translation>Mi&amp;nimize</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation type="unfinished"/>
+        <translation>Ma&amp;ximize</translation>
     </message>
     <message>
         <source>Restore Down</source>
@@ -6829,11 +6830,11 @@ Please verify the correct file name was given.</source>
     <name>QColorDialog</name>
     <message>
         <source>&amp;Red:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Red:</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sat:</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
@@ -6841,11 +6842,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Hu&amp;e:</source>
-        <translation type="unfinished"/>
+        <translation>Hu&amp;e:</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Select Color</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
@@ -6853,11 +6854,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation type="unfinished"/>
+        <translation>Bl&amp;ue:</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Green:</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
@@ -6869,7 +6870,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;lpha channel:</translation>
     </message>
 </context>
 <context>
@@ -7302,7 +7303,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Cloud space has been full</source>
-        <translation type="unfinished"/>
+        <translation>Cloud space has been full</translation>
     </message>
     <message>
         <source>upload file failed for exceeding %1</source>
@@ -7310,7 +7311,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>from %1</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -7452,7 +7453,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"/>
+        <translation>Choose folder</translation>
     </message>
 </context>
 <context>
@@ -7552,7 +7553,7 @@ Please verify the correct file name was given.</source>
     <name>QCheckBox</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Check Mark</translation>
     </message>
     <message>
         <source>Toggle</source>
@@ -7567,7 +7568,7 @@ Please verify the correct file name was given.</source>
     <name>QRadioButton</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Check Mark</translation>
     </message>
 </context>
 <context>
@@ -7609,7 +7610,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"/>
+        <translation>Minimize</translation>
     </message>
     <message>
         <source>Puts a minimized back to normal</source>
@@ -7625,11 +7626,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>System</source>
-        <translation type="unfinished"/>
+        <translation>System</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"/>
+        <translation>Maximize</translation>
     </message>
     <message>
         <source>Contains commands to manipulate the window</source>
@@ -7697,11 +7698,11 @@ Free Space: about %1 MB</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"/>
+        <translation>Music</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Communication</source>
@@ -7713,7 +7714,7 @@ Free Space: about %1 MB</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Notifications</translation>
     </message>
 </context>
 <context>
@@ -8968,7 +8969,7 @@ to
     <name>QAbstractSocket</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Host not found</translation>
     </message>
     <message>
         <source>Connection refused</source>
@@ -8999,7 +9000,7 @@ to
     <name>QHostInfoAgent</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Host not found</translation>
     </message>
     <message>
         <source>Unknown address type</source>
@@ -9067,7 +9068,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KAddSyncFolderDlgJsApi</name>
     <message>
         <source>scanning now :</source>
-        <translation type="unfinished"/>
+        <translation>scanning now :</translation>
     </message>
     <message>
         <source>The first synchronization takes a long time.</source>
@@ -9723,7 +9724,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upgrade and Expansion</source>
-        <translation type="unfinished"/>
+        <translation>Upgrade and Expansion</translation>
     </message>
 </context>
 <context>
@@ -9909,7 +9910,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"/>
+        <translation>Activate</translation>
     </message>
     <message>
         <source>Executable &apos;%1&apos; requires Qt %2, found Qt %3.</source>
@@ -10017,7 +10018,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>File does not exist</source>
-        <translation type="unfinished"/>
+        <translation>File does not exist</translation>
     </message>
     <message>
         <source>Cannot show mimetype</source>
@@ -10126,7 +10127,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Only documents saved to the cloud can add star tag</source>
-        <translation type="unfinished"/>
+        <translation>Only documents saved to the cloud can add star tag</translation>
     </message>
     <message>
         <source>Save to cloud space to add &apos;Star&apos;</source>
@@ -10310,7 +10311,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Office Box</source>
-        <translation type="unfinished"/>
+        <translation>WPS Office Box</translation>
     </message>
     <message>
         <source>Updated doc</source>
@@ -10364,7 +10365,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>&amp;Select All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Select All</translation>
     </message>
 </context>
 <context>
@@ -10421,7 +10422,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KPayGuideStyleMessageBoxWidget</name>
     <message>
         <source>I knew it</source>
-        <translation type="unfinished"/>
+        <translation>I knew it</translation>
     </message>
     <message>
         <source>WPS cloud service</source>
@@ -11037,7 +11038,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"/>
+        <translation>Show All</translation>
     </message>
 </context>
 <context>
@@ -11088,7 +11089,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>Q3ToolBar</name>
     <message>
         <source>More...</source>
-        <translation type="unfinished"/>
+        <translation>More...</translation>
     </message>
 </context>
 <context>
@@ -11333,7 +11334,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KOtherCloudTransTabWidget</name>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Upload</translation>
     </message>
     <message>
         <source>Download</source>
@@ -11401,23 +11402,23 @@ Time for upgrade: %1</translation>
     <name>QSlider</name>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"/>
+        <translation>Page up</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Position</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"/>
+        <translation>Page right</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"/>
+        <translation>Page down</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"/>
+        <translation>Page left</translation>
     </message>
 </context>
 <context>
@@ -11598,11 +11599,11 @@ Time for upgrade: %1</translation>
     <name>KOtherCloudTransDelegate</name>
     <message>
         <source>Download failed</source>
-        <translation type="unfinished"/>
+        <translation>Download failed</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Upload failed</translation>
     </message>
 </context>
 <context>
@@ -11653,7 +11654,7 @@ Time for upgrade: %1</translation>
     <name>KCustomerServiceWidget</name>
     <message>
         <source>WPS customer service</source>
-        <translation type="unfinished"/>
+        <translation>WPS customer service</translation>
     </message>
     <message>
         <source>Scan the code to follow for exclusive services Customer service hotline:</source>
@@ -11696,7 +11697,7 @@ Time for upgrade: %1</translation>
     <name>KWpsRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Recommand</translation>
     </message>
 </context>
 <context>
