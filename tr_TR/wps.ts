@@ -9008,11 +9008,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Import Template</source>
-        <translation type="unfinished"/>
+        <translation>Şablonu İçe Aktar</translation>
     </message>
     <message>
         <source>New Template</source>
-        <translation type="unfinished"/>
+        <translation>Yeni İzin Şablonu</translation>
     </message>
     <message>
         <source>Template Corrupt</source>
@@ -9296,7 +9296,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation>Şablonları Al</translation>
+        <translation>Şablonları İçe Aktar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -25618,7 +25618,7 @@ Böl</translation>
     </message>
     <message>
         <source>Align Top Justified</source>
-        <translation>İki Yana Yaslı Olarak Üste Hizala</translation>
+        <translation>Üste Hizalı Olarak Hizala</translation>
     </message>
     <message>
         <source>Select Cell</source>
@@ -25706,7 +25706,7 @@ Böl</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
-        <translation type="unfinished"/>
+        <translation>İçeriğe Otomatik Sığdır</translation>
     </message>
     <message>
         <source>Align Bottom Right</source>
@@ -25737,7 +25737,7 @@ Böl</translation>
     </message>
     <message>
         <source>Import Template</source>
-        <translation type="unfinished"/>
+        <translation>Şablonu İçe Aktar</translation>
     </message>
 </context>
 <context>
@@ -47262,7 +47262,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Import Template</source>
-        <translation type="unfinished"/>
+        <translation>Şablonu İçe Aktar</translation>
     </message>
 </context>
 <context>
