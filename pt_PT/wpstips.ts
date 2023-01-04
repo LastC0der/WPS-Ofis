@@ -2741,7 +2741,7 @@ As linhas diagonais nos cabeçalhos da tabela podem ser movidas.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Converter Imagem em Texto</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>ProofreadOfficial.content</source>
