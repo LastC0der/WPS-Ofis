@@ -1915,7 +1915,7 @@ Cada página contendrá una diapositiva y sus notas del orador, que podrá edita
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Organiza las diapositivas en secciones.</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2077,7 +2077,7 @@ Cuando desea hacer notas sin salir de la presentación con diapositivas, haga cl
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>Convertir a formato de Word</translation>
+        <translation>PPT a Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
