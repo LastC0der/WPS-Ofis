@@ -1912,7 +1912,7 @@ Kliknij Strzałki, aby uzyskać szczegółową konfigurację.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Konwertuj obraz na tekst</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2074,7 +2074,7 @@ Jeśli chcesz robić notatki bez wychodzenia z pokazu slajdów, kliknij prawym p
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>Konwertuj do Word/WPS Writer</translation>
+        <translation>PPT do Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
