@@ -1280,7 +1280,7 @@ Czy na pewno chcesz dokonać zmiany?</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Narzędzia główne</translation>
     </message>
     <message>
         <source>Open</source>
@@ -1849,7 +1849,7 @@ Czy na pewno chcesz dokonać zmiany?</translation>
     </message>
     <message>
         <source>Read error reading from %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Błąd odczytu odczytywania z %1: %2</translation>
     </message>
     <message>
         <source>file is renamed on server but failed to be renamed on local disk</source>
@@ -2153,7 +2153,7 @@ Czy na pewno chcesz dokonać zmiany?</translation>
     </message>
     <message>
         <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>Błąd zapisu zapisywania do %1: %2</translation>
     </message>
     <message>
         <source>File occupied, rename failed</source>
@@ -2188,19 +2188,19 @@ Czy na pewno chcesz dokonać zmiany?</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nie</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tak</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz  </translation>
     </message>
     <message>
         <source>Save</source>
@@ -2208,11 +2208,11 @@ Czy na pewno chcesz dokonać zmiany?</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>Przerwij</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2220,15 +2220,15 @@ Czy na pewno chcesz dokonać zmiany?</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Resetuj</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Spróbuj ponownie</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Przywróć domyślne</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2236,23 +2236,23 @@ Czy na pewno chcesz dokonać zmiany?</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignoruj</translation>
     </message>
     <message>
         <source>N&amp;o to All</source>
-        <translation type="unfinished"/>
+        <translation>Ni&amp;e dla wszystkich</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz wszystko</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"/>
+        <translation>Odrzuć</translation>
     </message>
     <message>
         <source>Yes to &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;ak dla wszystkich</translation>
     </message>
 </context>
 <context>
@@ -3828,7 +3828,7 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Ignore</source>
         <comment>Ignore Spelling context menu item</comment>
-        <translation type="unfinished"/>
+        <translation>Ignoruj</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -7877,7 +7877,7 @@ Wolne miejsce: około %1 MB</translation>
     </message>
     <message>
         <source>Volume: %1%</source>
-        <translation type="unfinished"/>
+        <translation>Głośność: %1%</translation>
     </message>
 </context>
 <context>
