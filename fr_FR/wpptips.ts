@@ -1917,7 +1917,7 @@ Chaque page contiendra une seule diapositive avec ses commentaires du présentat
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convertir une image en texte</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2079,7 +2079,7 @@ Si vous souhaitez prendre des notes sans quitter le diaporama, cliquez avec le b
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>Convertir au format Word</translation>
+        <translation>PPT vers Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
