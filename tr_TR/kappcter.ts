@@ -389,7 +389,7 @@ Sıkıştırılmış görüntülerin kalitesinden belirli bir ölçüde ödün v
     <name>KStatusBarRecommendWidget</name>
     <message>
         <source>Close Recommend</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Önerisini Kapat</translation>
     </message>
 </context>
 <context>
