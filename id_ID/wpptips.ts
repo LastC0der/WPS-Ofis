@@ -1919,7 +1919,7 @@ Setiap halaman akan berisi satu slaid dan catatan pembicaranya, di mana Anda bis
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Konversi Gambar ke Teks</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2081,7 +2081,7 @@ Jika Anda ingin membuat catatan tapi tidak ingin keluar dari tampilan slaid, kli
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>Konversi ke Format Word</translation>
+        <translation>PPT ke Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
