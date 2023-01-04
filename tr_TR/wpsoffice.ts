@@ -27,19 +27,19 @@
     </message>
     <message>
         <source>Tab2</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 2</translation>
     </message>
     <message>
         <source>Tab3</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 3</translation>
     </message>
     <message>
         <source>Tab4</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 4</translation>
     </message>
     <message>
         <source>Tab5</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 5</translation>
     </message>
     <message>
         <source>Source directory</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Tab 1</source>
-        <translation type="unfinished"/>
+        <translation>Sekme 1</translation>
     </message>
     <message>
         <source>Recovery options</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -548,7 +548,7 @@
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>ve</translation>
     </message>
     <message>
         <source>License Agreements</source>
@@ -561,33 +561,6 @@
     <message>
         <source>Privacy Policies</source>
         <translation>Gizlilik İlkeleri</translation>
-    </message>
-</context>
-<context>
-    <name>KGDPRAgreementAskWidget</name>
-    <message>
-        <source>, </source>
-        <translation>, </translation>
-    </message>
-    <message>
-        <source>Accept &amp;&amp; Continue</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>End-User License Agreement</source>
-        <translation>Son Kullanıcı Lisans Sözleşmesi</translation>
-    </message>
-    <message>
-        <source>Exit WPS</source>
-        <translation>WPS&apos;den Çık</translation>
     </message>
 </context>
 <context>
@@ -1194,7 +1167,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesyonel</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -2546,7 +2519,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Tarih</translation>
     </message>
     <message>
         <source>File</source>
@@ -2618,7 +2591,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;osya adı:</translation>
     </message>
     <message>
         <source>Delete %1</source>
@@ -2971,7 +2944,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengal dili</translation>
     </message>
     <message>
         <source>Armenian</source>
@@ -3340,7 +3313,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation><numerusform>%n dosyası</numerusform><numerusform>%n dosyaları</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -3602,7 +3575,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesyonel</translation>
     </message>
     <message>
         <source>Kingsoft PDF</source>
@@ -3793,7 +3766,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     <name>KxPromeEulaDlg</name>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>ve</translation>
     </message>
     <message>
         <source>Have read and agreed to Kingsoft Office Software</source>
@@ -4441,70 +4414,6 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Choose a plan</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ADD or edit image in PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cloud Storage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Compress</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Files Repair</source>
-        <translation>Dosya Onarımı</translation>
-    </message>
-    <message>
-        <source>Unlimited PDF to Word/Excel/PPT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export picture without watermark</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No Ads</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Picture to Text(OCR)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited downloads of template, inforgraphics and more</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Edit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More other Privileges</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export PDF in batch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Correction fluid in PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited picture to PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Basic Document Operations</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF Split/Merge</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5471,15 +5380,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is an unknown schema type.</source>
-        <translation type="unfinished"/>
+        <translation>%1 bilinmeyen bir şema türüdür.</translation>
     </message>
     <message>
         <source>The value for attribute %1 on element %2 must either be %3 or %4, not %5.</source>
-        <translation type="unfinished"/>
+        <translation>%2 öğesindeki %1 özniteliğinin değeri %5 değil, %3 veya %4 olmalıdır.</translation>
     </message>
     <message>
         <source>In the replacement string, %1 must be followed by at least one digit when not escaped.</source>
-        <translation type="unfinished"/>
+        <translation>Değiştirme dizesinde, %1&apos;den sonra kaçış olmadığında en az bir basamak gelmelidir.</translation>
     </message>
     <message>
         <source>In an XSL-T pattern, axis %1 cannot be used, only axis %2 or %3 can.</source>
@@ -6767,7 +6676,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Out of resources</source>
-        <translation type="unfinished"/>
+        <translation>Yeterli kaynak yok</translation>
     </message>
 </context>
 <context>
@@ -6782,15 +6691,15 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Error while uploading %1: %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 yüklenirken hata oluştu: %2</translation>
     </message>
     <message>
         <source>Cannot open %1: is a directory</source>
-        <translation type="unfinished"/>
+        <translation>%1 açılamıyor: bir dizindir</translation>
     </message>
     <message>
         <source>Logging in to %1 failed: authentication required</source>
-        <translation type="unfinished"/>
+        <translation>%1&apos;de oturum açılamadı: kimlik doğrulama gerekli</translation>
     </message>
 </context>
 <context>
@@ -7111,6 +7020,77 @@ yazılamadı</translation>
     </message>
 </context>
 <context>
+    <name>KPromeGuestNoticeDlg</name>
+    <message>
+        <source>As a guest, you can only open and view your local documents in read-only mode.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be saved in the guest account</source>
+        <translation>Verileriniz misafir hesabına kaydedilecek</translation>
+    </message>
+    <message>
+        <source>Guest account data cannot be migrated to another account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User Login</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user WPS as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your data will be stored in the guest account.</source>
+        <translation>Verileriniz misafir hesabında saklanacaktır.</translation>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to enable more editing features and better protect your privacy.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Oturum aç</translation>
+    </message>
+    <message>
+        <source>Guest account data is only saved locally, no cloud backup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The one who uses WPS on the same device may view your data.</source>
+        <translation>Aynı cihazda WPS kullanan kişi verilerinizi görüntüleyebilir.</translation>
+    </message>
+    <message>
+        <source>Your data cannot be synchronized on multiple ends.</source>
+        <translation>Verileriniz birden çok uçta senkronize edilemez.</translation>
+    </message>
+    <message>
+        <source>We recommend that you sign in first to protect your privacy better.</source>
+        <translation>Gizliliğinizi daha iyi korumak için önce oturum açmanızı öneririz.</translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are about to use WPS as a guest</source>
+        <translation>WPS&apos;yi misafir olarak kullanmak üzeresiniz</translation>
+    </message>
+</context>
+<context>
     <name>KPromeExportPDFFailedCenterWidget</name>
     <message>
         <source>Retry</source>
@@ -7339,6 +7319,53 @@ yazılamadı</translation>
     </message>
 </context>
 <context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation>Şimdi Satın Al</translation>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KDocerFakeBtnTabMenu</name>
     <message>
         <source>close</source>
@@ -7437,7 +7464,7 @@ yazılamadı</translation>
     <name>KPromeStartup</name>
     <message>
         <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"/>
+        <translation>WPS PDF Profesyonel</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -7572,69 +7599,6 @@ yazılamadı</translation>
     <message>
         <source>Connection closed</source>
         <translation>Bağlantı kapatıldı</translation>
-    </message>
-</context>
-<context>
-    <name>KPromeGuestNoticeDlg</name>
-    <message>
-        <source>It&apos;s recommended to log in, you can enjoy multi-end synchronization and account encryption</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your data will be saved in the guest account</source>
-        <translation>Verileriniz misafir hesabına kaydedilecek</translation>
-    </message>
-    <message>
-        <source>Guest account data cannot be migrated to another account</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User Login</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user WPS as a guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Your data will be stored in the guest account.</source>
-        <translation>Verileriniz misafir hesabında saklanacaktır.</translation>
-    </message>
-    <message>
-        <source>Guest account can be used by anyone, there is a risk of privacy and data leakage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Oturum aç</translation>
-    </message>
-    <message>
-        <source>Guest account data is only saved locally, no cloud backup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The one who uses WPS on the same device may view your data.</source>
-        <translation>Aynı cihazda WPS kullanan kişi verilerinizi görüntüleyebilir.</translation>
-    </message>
-    <message>
-        <source>Your data cannot be synchronized on multiple ends.</source>
-        <translation>Verileriniz birden çok uçta senkronize edilemez.</translation>
-    </message>
-    <message>
-        <source>We recommend that you sign in first to protect your privacy better.</source>
-        <translation>Gizliliğinizi daha iyi korumak için önce oturum açmanızı öneririz.</translation>
-    </message>
-    <message>
-        <source>Login Now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You are not currently logged in and will user Kingsoft PDF as a guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You are about to use WPS as a guest</source>
-        <translation>WPS&apos;yi misafir olarak kullanmak üzeresiniz</translation>
     </message>
 </context>
 <context>
@@ -8819,6 +8783,37 @@ This file may be renamed, deleted or moved.</source>
     </message>
 </context>
 <context>
+    <name>KPromeLoginReminderDlg</name>
+    <message>
+        <source>1GB of free cloud storage</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in to unlock more features.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document to image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If you don&apos;t sign in, you will only be allowed to open and view documents in read-only mode.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit and share document</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KLanguageChooseDialog</name>
     <message>
         <source>Choose Language</source>
@@ -9487,11 +9482,6 @@ p, li { white-space: pre-wrap; }
         <source>Exit Now</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>A logined account is needed To continue to use WPS 2019 beta version.
-Exit login panel will lead to exiting WPS 2019.</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>Q3ProgressDialog</name>
@@ -9649,7 +9639,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştir</translation>
     </message>
 </context>
 <context>
@@ -9729,6 +9719,41 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All-in-One Mode</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KPromeHeaderUpgradeNoticeDlg</name>
+    <message>
+        <source>Your WPS Premium free trial has ended</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>50GB Cloud storage and collaboration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go Premium</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Try All WPS Premium Features</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert PDF to Word/Excel/PPT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Help you to boost efficiency with 80 premium features</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Free 7-Day Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit text and images in PDFs</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -9882,6 +9907,17 @@ Customer service hotline:</source>
     </message>
 </context>
 <context>
+    <name>KPromeHeaderUpgrade</name>
+    <message>
+        <source>Free Trial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation>Premium&apos;a Geç</translation>
+    </message>
+</context>
+<context>
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
@@ -9933,22 +9969,6 @@ Customer service hotline:</source>
     <name>KPromeBrowserSubPage</name>
     <message>
         <source>add current web page to wps startpage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>copy web page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>load by default browser</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>reload web page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>new web page</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10005,6 +10025,25 @@ Customer service hotline:</source>
     <name>KUserCenterMenuButton</name>
     <message>
         <source>abnormal network status, turn to be offline status</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Oturum aç</translation>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10157,13 +10196,6 @@ Customer service hotline:</source>
     </message>
 </context>
 <context>
-    <name>KPromeHeaderUpgrade</name>
-    <message>
-        <source>Upgrade</source>
-        <translation>Premium&apos;a Geç</translation>
-    </message>
-</context>
-<context>
     <name>KRightTopTipWidgetBase</name>
     <message>
         <source>Upgrade</source>
@@ -10210,18 +10242,30 @@ Customer service hotline:</source>
     </message>
 </context>
 <context>
-    <name>KPromeTipGroup_XA</name>
+    <name>KGDPRAgreementAskWidget</name>
     <message>
-        <source>Share</source>
-        <translation>Paylaş</translation>
+        <source>, </source>
+        <translation>, </translation>
     </message>
     <message>
-        <source>Cloud backup</source>
-        <translation>Bulut yedeklemesi</translation>
-    </message>
-    <message>
-        <source>Local save:</source>
+        <source>Accept &amp;&amp; Continue</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To ensure that you understand your rights and responsibilities when using WPS, please click the link below to learn about the new terms of our updated agreement(s).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End-User License Agreement</source>
+        <translation>Son Kullanıcı Lisans Sözleşmesi</translation>
+    </message>
+    <message>
+        <source>Exit WPS</source>
+        <translation>WPS&apos;den Çık</translation>
     </message>
 </context>
 </TS>
