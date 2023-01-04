@@ -29717,15 +29717,15 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1 is an unknown schema type.</source>
-        <translation type="unfinished"/>
+        <translation>%1 bilinmeyen bir şema türüdür.</translation>
     </message>
     <message>
         <source>The value for attribute %1 on element %2 must either be %3 or %4, not %5.</source>
-        <translation type="unfinished"/>
+        <translation>%2 öğesindeki %1 özniteliğinin değeri %5 değil, %3 veya %4 olmalıdır.</translation>
     </message>
     <message>
         <source>In the replacement string, %1 must be followed by at least one digit when not escaped.</source>
-        <translation type="unfinished"/>
+        <translation>Değiştirme dizesinde, %1&apos;den sonra kaçış olmadığında en az bir basamak gelmelidir.</translation>
     </message>
     <message>
         <source>In an XSL-T pattern, axis %1 cannot be used, only axis %2 or %3 can.</source>
