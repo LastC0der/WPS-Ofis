@@ -1917,7 +1917,7 @@ Pro Seite wird eine Folie mit ihren Sprechernotizen angezeigt, die Sie in dieser
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Bild in Text konvertieren</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
@@ -2079,7 +2079,7 @@ Wenn Sie Notizen eingeben möchten, dabei aber die Bildschirmpräsentation nicht
     </message>
     <message>
         <source>wpp2doc.title</source>
-        <translation>In Word-Format konvertieren</translation>
+        <translation>PPT in Word</translation>
     </message>
     <message>
         <source>TableEffects.title</source>
