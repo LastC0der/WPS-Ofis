@@ -5296,15 +5296,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%1 en fazla %n bağımsız değişken alır. Bu nedenle %2 geçersiz.</numerusform><numerusform>%1 en fazla %n bağımsız değişken alır. Bu nedenle %2 geçersiz.</numerusform></translation>
     </message>
     <message>
         <source>Circularity detected</source>
-        <translation type="unfinished"/>
+        <translation>Döngüsellik algılandı</translation>
     </message>
     <message>
         <source>A variable by name %1 has already been declared.</source>
-        <translation type="unfinished"/>
+        <translation>%1 isimli bir değişken zaten bildirildi.</translation>
     </message>
     <message>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
