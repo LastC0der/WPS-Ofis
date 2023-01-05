@@ -28232,7 +28232,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Editing is limited</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme sınırlıdır</translation>
     </message>
     <message>
         <source>Remove space</source>
