@@ -27506,7 +27506,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Check Cell</source>
-        <translation type="unfinished"/>
+        <translation>İşaretli Hücre</translation>
     </message>
     <message>
         <source>Page %d of %d</source>
@@ -27515,7 +27515,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Linked Cell</source>
-        <translation type="unfinished"/>
+        <translation>Bağlı Hücre</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -27524,7 +27524,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>CExplanatory Text</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama Metni</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -27591,7 +27591,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"/>
+        <translation>Atla</translation>
     </message>
     <message>
         <source>Text</source>
@@ -27634,7 +27634,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"/>
+        <translation>Atla</translation>
     </message>
     <message>
         <source>Text</source>
@@ -27697,11 +27697,11 @@ Efektleri</translation>
     </message>
     <message>
         <source>Grand:</source>
-        <translation type="unfinished"/>
+        <translation>Toplam:</translation>
     </message>
     <message>
         <source>Column Grand</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Toplamı</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -27709,7 +27709,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Row Grand</source>
-        <translation type="unfinished"/>
+        <translation>Satır Toplamı</translation>
     </message>
     <message>
         <source>Choose Summary Fields:</source>
@@ -27737,7 +27737,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Value Field Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Değer Alanı Yönü:</translation>
     </message>
     <message>
         <source>Choose Category Fields:</source>
@@ -27745,7 +27745,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Report Layout:</source>
-        <translation type="unfinished"/>
+        <translation>Rapor Düzeni:</translation>
     </message>
 </context>
 <context>
@@ -27872,7 +27872,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Cells Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Hücre İletişim Kutusu</translation>
     </message>
     <message>
         <source>Split Sheets</source>
@@ -55735,7 +55735,7 @@ Düzenle</translation>
     <name>KxEtMoreOrientationCommand</name>
     <message>
         <source>Format Cells Alignment...</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Hizalamasını Biçimlendir</translation>
     </message>
 </context>
 <context>
