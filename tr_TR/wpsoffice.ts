@@ -5540,15 +5540,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>The attribute %1 can only appear on the first %2 element.</source>
-        <translation type="unfinished"/>
+        <translation>%1 özniteliği yalnızca ilk %2 öğesinde görünebilir.</translation>
     </message>
     <message>
         <source>Element %1 must have either a %2-attribute or a sequence constructor.</source>
-        <translation type="unfinished"/>
+        <translation>%1 öğesinin ya bir %2 özniteliği ya da bir dizi oluşturucusu olmalıdır.</translation>
     </message>
     <message>
         <source>Module imports must occur before function, variable, and option declarations.</source>
-        <translation type="unfinished"/>
+        <translation>Modül içe aktarmaları, işlev, değişken ve seçenek bildirimlerinden önce yapılmalıdır.</translation>
     </message>
     <message>
         <source>Day %1 is outside the range %2..%3.</source>
@@ -5556,7 +5556,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 contains octets which are disallowed in the requested encoding %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1, istenen %2 kodlamasında izin verilmeyen sekizlileri içeriyor.</translation>
     </message>
     <message>
         <source>When a parameter is required, a default value cannot be supplied through a %1-attribute or a sequence constructor.</source>
@@ -5564,15 +5564,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>In an XSL-T pattern, the first argument to function %1 must be a string literal, when used for matching.</source>
-        <translation type="unfinished"/>
+        <translation>Bir XSL-T modelinde, %1 işlevinin ilk bağımsız değişkeni, eşleştirme için kullanıldığında bir dizge sabit değeri olmalıdır.</translation>
     </message>
     <message>
         <source>Text nodes are not allowed at this location.</source>
-        <translation type="unfinished"/>
+        <translation>Bu konumda metin düğümlerine izin verilmez.</translation>
     </message>
     <message>
         <source>A value of type %1 cannot be a predicate. A predicate must have either a numeric type or an Effective Boolean Value type.</source>
-        <translation type="unfinished"/>
+        <translation>%1 türünde bir değer koşul olamaz. Koşulun sayısal bir türü veya Etkin Boole Değeri türü olmalıdır.</translation>
     </message>
     <message>
         <source>%1 is not a valid name for a processing-instruction.</source>
