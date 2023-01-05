@@ -27415,11 +27415,11 @@ Efektleri</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <source>ColLevel</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Seviyesi</translation>
     </message>
     <message>
         <source>Page %d</source>
@@ -27427,7 +27427,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>RowLevel</source>
-        <translation type="unfinished"/>
+        <translation>Satır Seviyesi</translation>
     </message>
     <message>
         <source>Percent</source>
@@ -38861,7 +38861,7 @@ Birleştir</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
-        <translation type="unfinished"/>
+        <translation>Okuma Düzeni</translation>
     </message>
     <message>
         <source>MarjorFont</source>
@@ -45656,7 +45656,7 @@ Başlıkları</translation>
     </message>
     <message>
         <source>General(&amp;G)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Genel</translation>
     </message>
     <message>
         <source>Date(&amp;D)</source>
