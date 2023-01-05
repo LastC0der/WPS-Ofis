@@ -550,7 +550,7 @@
     </message>
     <message>
         <source>Cloud Synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Senkronizasyonu</translation>
     </message>
     <message>
         <source>Default layout&apos;s mode and scale</source>
@@ -4586,7 +4586,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Cloud Synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Senkronizasyonu</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -6814,7 +6814,7 @@ Okuma</translation>
     </message>
     <message>
         <source>CA Encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Sertifika Yetkilisi Şifrelemesi</translation>
     </message>
     <message>
         <source>SplitSetPage</source>
@@ -14491,30 +14491,30 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPdfAnnotReplyWidget</name>
     <message>
         <source>Delete(D)</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Edit(E)</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <source>Reply(R)</source>
-        <translation type="unfinished"/>
+        <translation>Yanıtla</translation>
     </message>
 </context>
 <context>
     <name>KxPdfSingleAnnotWidget</name>
     <message>
         <source>Delete(D)</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Edit(E)</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <source>Reply(R)</source>
-        <translation type="unfinished"/>
+        <translation>Yanıtla</translation>
     </message>
 </context>
 <context>
@@ -14616,14 +14616,14 @@ Silinen sayfalar kurtarılamaz</translation>
     <name>KxPageLabel</name>
     <message>
         <source>is %1 pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa%1</translation>
     </message>
 </context>
 <context>
     <name>KxPdfSignatureToCloudWidget</name>
     <message>
         <source>Cloud Synchronization</source>
-        <translation type="unfinished"/>
+        <translation>Bulut Senkronizasyonu</translation>
     </message>
     <message>
         <source>Only WPS Premium members can sync signatures to the cloud.Go Premium to enjoy value-added features.</source>
@@ -15039,7 +15039,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>ca encrypt</source>
-        <translation type="unfinished"/>
+        <translation>Sertifika Tabanlı Şifreleme</translation>
     </message>
 </context>
 <context>
@@ -15050,7 +15050,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>ca import</source>
-        <translation type="unfinished"/>
+        <translation>Dijital Sertifikayı İçe Aktar</translation>
     </message>
 </context>
 <context>
