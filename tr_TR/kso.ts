@@ -5859,7 +5859,7 @@ Bu pozisyon güvenli olmayabilir.</translation>
     <message>
         <source>TextBox</source>
         <comment>DRAWING2_TOOLTIP_TEXTBOX</comment>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>Donut</source>
@@ -9352,7 +9352,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>TextBox</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
@@ -29633,15 +29633,15 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%1 en fazla %n bağımsız değişken alır. Bu nedenle %2 geçersiz.</numerusform><numerusform>%1 en fazla %n bağımsız değişken alır. Bu nedenle %2 geçersiz.</numerusform></translation>
     </message>
     <message>
         <source>Circularity detected</source>
-        <translation type="unfinished"/>
+        <translation>Döngüsellik algılandı</translation>
     </message>
     <message>
         <source>A variable by name %1 has already been declared.</source>
-        <translation type="unfinished"/>
+        <translation>%1 isimli bir değişken zaten bildirildi.</translation>
     </message>
     <message>
         <source>In a namespace constructor, the value for a namespace cannot be an empty string.</source>
@@ -41359,7 +41359,7 @@ p, li { white-space: pre-wrap; }
     <name>KxFormatProperty_TextBox</name>
     <message>
         <source>TextBox</source>
-        <translation type="unfinished"/>
+        <translation>METİN KUTUSU</translation>
     </message>
 </context>
 <context>
