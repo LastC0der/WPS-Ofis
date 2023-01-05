@@ -9383,7 +9383,7 @@ Okuma</translation>
     </message>
     <message>
         <source>TextBox</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>PDF to Word</source>
@@ -11488,7 +11488,7 @@ Pencere</translation>
     </message>
     <message>
         <source>TextBox</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -11565,7 +11565,7 @@ Pencere</translation>
     </message>
     <message>
         <source>TextBox</source>
-        <translation type="unfinished"/>
+        <translation>Metinkutusu</translation>
     </message>
 </context>
 <context>
@@ -12817,7 +12817,7 @@ Pencere</translation>
     </message>
     <message>
         <source>TextBox</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>PDFBackGround</source>
@@ -12868,7 +12868,7 @@ Pencere</translation>
     </message>
     <message>
         <source>TextBox</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>Translate selected</source>
