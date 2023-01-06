@@ -3657,7 +3657,7 @@ Used to show hierarchical relationships</source>
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"/>
+        <translation>Geri Al</translation>
     </message>
     <message>
         <source>Bass Down</source>
@@ -40316,11 +40316,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Current password:</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli parola:</translation>
     </message>
     <message>
         <source>Confirm new password:</source>
-        <translation type="unfinished"/>
+        <translation>Yeni parolayı onayla:</translation>
     </message>
     <message>
         <source>Current password can&apos;t be empty.</source>
@@ -40505,11 +40505,11 @@ p, li { white-space: pre-wrap; }
     <name>KxChangeColorCommand</name>
     <message>
         <source>Colorful</source>
-        <translation type="unfinished"/>
+        <translation>Renkli</translation>
     </message>
     <message>
         <source>Monochromatic</source>
-        <translation type="unfinished"/>
+        <translation>Tek Renkli</translation>
     </message>
 </context>
 <context>
@@ -40524,7 +40524,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"/>
+        <translation>Geri Al</translation>
     </message>
     <message>
         <source>Up one folder</source>
@@ -40703,11 +40703,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>(Recommended)</source>
-        <translation type="unfinished"/>
+        <translation>(Önerilen)</translation>
     </message>
     <message>
         <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyi şifrelemek için WPS hesabını kullanın. Şifreli belge açılırken hesap doğrulaması gerekiyor</translation>
     </message>
 </context>
 <context>
@@ -40722,11 +40722,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>(Recommended)</source>
-        <translation type="unfinished"/>
+        <translation>(Önerilen)</translation>
     </message>
     <message>
         <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyi şifrelemek için WPS hesabını kullanın. Şifreli belge açılırken hesap doğrulaması gerekiyor</translation>
     </message>
 </context>
 <context>
