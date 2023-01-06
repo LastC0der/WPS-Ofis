@@ -27860,7 +27860,8 @@ Efektleri</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Baskı Önizleme</translation>
+        <translation>Baskı 
+Önizleme</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
@@ -28018,7 +28019,8 @@ Göre Böl</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation>Ekran Görüntüsü</translation>
+        <translation>Ekran 
+Görüntüsü</translation>
     </message>
     <message>
         <source>Paste Previous Content</source>
@@ -29036,7 +29038,8 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Chart Library</source>
-        <translation>Grafik Kitaplığı</translation>
+        <translation>Grafik 
+Kitaplığı</translation>
     </message>
     <message>
         <source>Image Previewer</source>
@@ -38091,7 +38094,8 @@ Filtre</translation>
     </message>
     <message>
         <source>Split Sheet</source>
-        <translation>Bölünmüş Sayfa</translation>
+        <translation>Bölünmüş 
+Sayfa</translation>
     </message>
     <message>
         <source>Split Books</source>
@@ -38116,7 +38120,8 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Merge Sheet</source>
-        <translation>Sayfayı Birleştir</translation>
+        <translation>Sayfayı 
+Birleştir</translation>
     </message>
     <message>
         <source>Text to
@@ -43071,7 +43076,8 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
-        <translation>Göz Koruma Modu</translation>
+        <translation>Göz Koruma 
+Modu</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -43151,7 +43157,8 @@ Düzenle</translation>
     <message>
         <source>Reading
 Layout</source>
-        <translation>Okuma Düzeni</translation>
+        <translation>Okuma 
+Düzeni</translation>
     </message>
     <message>
         <source>View
@@ -43423,7 +43430,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Dosya Nesnesi</translation>
+        <translation>Dosya 
+Nesnesi</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -43515,7 +43523,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Üst Bilgi ve Alt Bilgi</translation>
+        <translation>Üst Bilgi ve 
+Alt Bilgi</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -43567,7 +43576,8 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Metin Kutusu</translation>
+        <translation>Metin 
+Kutusu</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
@@ -45287,7 +45297,8 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
-        <translation>Sayfa Sonu Önizleme</translation>
+        <translation>Sayfa Sonu 
+Önizleme</translation>
     </message>
     <message>
         <source>Print Header Or Footer</source>
@@ -45333,7 +45344,8 @@ Gönder</translation>
     </message>
     <message>
         <source>Page Zoom</source>
-        <translation>Sayfa Yakınlaştırma</translation>
+        <translation>Sayfa 
+Yakınlaştırma</translation>
     </message>
     <message>
         <source>Align Left</source>
