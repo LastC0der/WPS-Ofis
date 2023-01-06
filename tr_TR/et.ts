@@ -28220,7 +28220,8 @@ Yazdır</translation>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation>Simge Kütüphanesi</translation>
+        <translation>Simge 
+Kütüphanesi</translation>
     </message>
     <message>
         <source>Link Preview</source>
@@ -29178,7 +29179,8 @@ Kutusu</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Ekran Görüntüsü</translation>
+        <translation>Ekran 
+Görüntüsü</translation>
     </message>
     <message>
         <source>Geogebra</source>
