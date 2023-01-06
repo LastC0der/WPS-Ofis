@@ -28307,7 +28307,8 @@ Kütüphanesi</translation>
     </message>
     <message>
         <source>Split or Merge</source>
-        <translation>Böl veya Birleştir</translation>
+        <translation>Böl veya 
+Birleştir</translation>
     </message>
     <message>
         <source>Freeze Panes</source>
@@ -29372,7 +29373,8 @@ Açıklama</translation>
     </message>
     <message>
         <source>Design Library</source>
-        <translation>Tasarım Kitaplığı</translation>
+        <translation>Tasarım 
+Kitaplığı</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -42178,7 +42180,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>Picture to Text</source>
-        <translation>Resimden Metne</translation>
+        <translation>Resimden 
+Metne</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -42186,7 +42189,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Resim Olarak Dışa Aktar</translation>
+        <translation>Resim Olarak 
+Dışa Aktar</translation>
     </message>
     <message>
         <source>Online Fonts</source>
@@ -42214,11 +42218,13 @@ Düzeni</translation>
     </message>
     <message>
         <source>Screen Recording</source>
-        <translation>Ekran Kaydedici</translation>
+        <translation>Ekran 
+Kaydedici</translation>
     </message>
     <message>
         <source>PDF to Excel</source>
-        <translation>PDF&apos;den Excel&apos;e</translation>
+        <translation>PDF&apos;den 
+Excel&apos;e</translation>
     </message>
     <message>
         <source>Special Tools</source>
@@ -42258,7 +42264,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation>Resimden PDF&apos;ye</translation>
+        <translation>Resimden 
+PDF&apos;ye</translation>
     </message>
     <message>
         <source>Cloud Clipboard</source>
@@ -42278,7 +42285,8 @@ Düzeni</translation>
     </message>
     <message>
         <source>Invoice Maker</source>
-        <translation>Fatura Oluşturucu</translation>
+        <translation>Fatura 
+Oluşturucu</translation>
     </message>
     <message>
         <source>File Tools</source>
@@ -42388,11 +42396,13 @@ Aktar</translation>
     </message>
     <message>
         <source>File Collect</source>
-        <translation>Dosya Topla</translation>
+        <translation>Dosya 
+Topla</translation>
     </message>
     <message>
         <source>Scan to Mobile</source>
-        <translation>Cep Telefonuna Tara</translation>
+        <translation>Cep Telefonuna 
+Tara</translation>
     </message>
     <message>
         <source>Document security</source>
@@ -53541,7 +53551,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"/>
+        <translation>Geri Al</translation>
     </message>
     <message>
         <source>Up one folder</source>
