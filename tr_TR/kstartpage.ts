@@ -585,15 +585,15 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>I known</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>NewFolder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör</translation>
     </message>
     <message>
         <source>Remove File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Kaldır</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
@@ -680,7 +680,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Remove File</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı Kaldır</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
@@ -717,7 +717,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KEnterpriseWebJsObj</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>choose download path</source>
@@ -832,7 +832,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Pdf Files</source>
-        <translation type="unfinished"/>
+        <translation>Pdf Dosyaları</translation>
     </message>
     <message>
         <source>Rtf Files</source>
@@ -2373,7 +2373,7 @@ With &quot;Collaborative editing&quot;, you and your partner can edit the docume
     </message>
     <message>
         <source>Pdf Files</source>
-        <translation type="unfinished"/>
+        <translation>Pdf Dosyaları</translation>
     </message>
     <message>
         <source>Rtf Files</source>
