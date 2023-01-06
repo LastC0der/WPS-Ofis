@@ -42364,7 +42364,8 @@ Aktar</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Bulut Belgelerine Kaydet</translation>
+        <translation>Bulut Belgelerine 
+Kaydet</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -42392,7 +42393,8 @@ Aktar</translation>
     </message>
     <message>
         <source>BatchRename</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları Topluca 
+Yeniden Adlandır</translation>
     </message>
     <message>
         <source>File Collect</source>
