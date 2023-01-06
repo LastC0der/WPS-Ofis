@@ -445,7 +445,7 @@ Click the arrow to select different fill effects.</translation>
     </message>
     <message>
         <source>FooterPlaceHolder.title</source>
-        <translation>Footer</translation>
+        <translation>Alt Bilgi</translation>
     </message>
     <message>
         <source>HideAudio.content</source>
