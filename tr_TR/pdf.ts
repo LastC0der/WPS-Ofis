@@ -6170,7 +6170,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;yi dışa Aktar </translation>
     </message>
     <message>
         <source>Measure Finished</source>
