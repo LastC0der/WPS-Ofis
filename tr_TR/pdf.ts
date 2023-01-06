@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>Question Mark</source>
-        <translation type="unfinished"/>
+        <translation>Soru İşareti</translation>
     </message>
 </context>
 <context>
@@ -5182,7 +5182,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>NewFolder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör</translation>
     </message>
     <message>
         <source>White Deer Plain</source>
@@ -12204,7 +12204,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Satın Al</translation>
     </message>
     <message>
         <source>Unlimited to edit text and image, convert PDF to word, split and merge files.</source>
@@ -12277,7 +12277,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Question Mark</source>
-        <translation type="unfinished"/>
+        <translation>Soru İşareti</translation>
     </message>
 </context>
 <context>
