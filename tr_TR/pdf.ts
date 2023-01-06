@@ -2662,7 +2662,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>default printer</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Yazıcı</translation>
     </message>
     <message>
         <source>Gray Print</source>
@@ -6842,7 +6842,7 @@ Okuma</translation>
     </message>
     <message>
         <source>InsertText</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>MoveTotop</source>
