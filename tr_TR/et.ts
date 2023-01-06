@@ -29179,8 +29179,7 @@ Kutusu</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Ekran 
-Görüntüsü</translation>
+        <translation>Ekran Görüntüsü</translation>
     </message>
     <message>
         <source>Geogebra</source>
@@ -31429,7 +31428,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Screenshots</source>
-        <translation type="unfinished"/>
+        <translation>Ekran Görüntüleri</translation>
     </message>
     <message>
         <source>accout info</source>
