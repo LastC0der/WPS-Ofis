@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Backspace</source>
-        <translation type="unfinished"/>
+        <translation>Geri Al</translation>
     </message>
     <message>
         <source>Bass Down</source>
