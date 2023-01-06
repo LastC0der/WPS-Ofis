@@ -17866,7 +17866,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation>Giriş Harfi Sırası</translation>
+        <translation>Harf Dizisi Girişi</translation>
     </message>
     <message>
         <source>Color Scales</source>
@@ -18415,7 +18415,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Roma Rakamı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Format as Table</source>
@@ -18424,7 +18424,7 @@ Biçimlendir</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Rotate Text Up</source>
@@ -18986,7 +18986,7 @@ tek bir çalışma kitabında birleştir</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation>Giriş Harfi Sırası</translation>
+        <translation>Harf Dizisi Girişi</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -21079,11 +21079,11 @@ Düzenle</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Roma Rakamı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Formula Bar</source>
@@ -28068,7 +28068,7 @@ Yazdır</translation>
     </message>
     <message>
         <source>Insert text to the back</source>
-        <translation type="unfinished"/>
+        <translation>Metni Sona Ekle</translation>
     </message>
     <message>
         <source>Find All Local Reference</source>
@@ -28475,7 +28475,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>Insert text to the beginning</source>
-        <translation type="unfinished"/>
+        <translation>Metni Başa Ekle</translation>
     </message>
     <message>
         <source>ShortThemeColor</source>
@@ -28751,7 +28751,7 @@ Sıkıştırma</translation>
     </message>
     <message>
         <source>Insert text into the middle</source>
-        <translation type="unfinished"/>
+        <translation>Metni Ortaya Ekle</translation>
     </message>
     <message>
         <source>Curve Point</source>
@@ -28913,7 +28913,7 @@ Doldurma</translation>
     </message>
     <message>
         <source>Insert text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <source>Create table directory</source>
@@ -29190,7 +29190,7 @@ Kutusu</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Dizisi Girişi</translation>
     </message>
     <message>
         <source>DocerChart</source>
@@ -34552,7 +34552,7 @@ Only %2 unique values will be left after delete.</source>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation>Giriş Harfi Sırası</translation>
+        <translation>Harf Dizisi Girişi</translation>
     </message>
     <message>
         <source>Advance Split</source>
@@ -34650,11 +34650,11 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Roma Rakamı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Highlight unique values</source>
@@ -38005,7 +38005,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Input Letter Sequence</source>
-        <translation>Giriş Harfi Sırası</translation>
+        <translation>Harf Dizisi Girişi</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -38193,11 +38193,11 @@ Yenile</translation>
     </message>
     <message>
         <source>Input Roman Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Roma Rakamı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Input Numeric Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Sayı Dizisi Girişi</translation>
     </message>
     <message>
         <source>Settings</source>
