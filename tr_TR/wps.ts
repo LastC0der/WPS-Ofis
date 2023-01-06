@@ -6980,7 +6980,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Header:</source>
-        <translation type="unfinished"/>
+        <translation>Ü&amp;st Bilgi:</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -15546,7 +15546,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Footer Right</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bilgi Sağ</translation>
     </message>
     <message>
         <source>Line Numbers</source>
@@ -17639,7 +17639,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Footer Left</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bilgi Sol</translation>
     </message>
     <message>
         <source>Format Legend Entry</source>
@@ -17647,7 +17647,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Header Left</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi Sol</translation>
     </message>
     <message>
         <source>Remove Watermark</source>
@@ -36985,7 +36985,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"/>
+        <translation>Alt bilgi sağ</translation>
     </message>
     <message>
         <source>Page different settings</source>
@@ -37041,7 +37041,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi orta</translation>
     </message>
     <message>
         <source>Header or footer link to previous</source>
@@ -37057,7 +37057,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi sol</translation>
     </message>
     <message>
         <source>Footer left</source>
@@ -37065,7 +37065,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"/>
+        <translation>Alt bilgi orta</translation>
     </message>
     <message>
         <source>Different first p&amp;age</source>
@@ -42830,7 +42830,7 @@ Modu</translation>
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"/>
+        <translation>Alt bilgi sağ</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -42850,7 +42850,7 @@ Modu</translation>
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi orta</translation>
     </message>
     <message>
         <source>Footer inside</source>
@@ -42858,7 +42858,7 @@ Modu</translation>
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi sol</translation>
     </message>
     <message>
         <source>Footer left</source>
@@ -42866,7 +42866,7 @@ Modu</translation>
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"/>
+        <translation>Alt bilgi orta</translation>
     </message>
     <message>
         <source>Header outside</source>
@@ -43619,7 +43619,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Default Printer</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Yazıcı</translation>
     </message>
 </context>
 <context>
@@ -43634,7 +43634,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"/>
+        <translation>Alt bilgi sağ</translation>
     </message>
     <message>
         <source>Footer</source>
@@ -43654,7 +43654,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi orta</translation>
     </message>
     <message>
         <source>Footer inside</source>
@@ -43662,7 +43662,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"/>
+        <translation>Üst bilgi sol</translation>
     </message>
     <message>
         <source>Footer left</source>
@@ -43670,7 +43670,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"/>
+        <translation>Alt bilgi orta</translation>
     </message>
     <message>
         <source>Header outside</source>
@@ -43681,7 +43681,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <name>KxWpsReviewPane</name>
     <message>
         <source>Deletions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Silmeler: %1</translation>
     </message>
     <message>
         <source>Comments: %1</source>
@@ -43689,7 +43689,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Insertions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Eklemeler: %1</translation>
     </message>
     <message>
         <source>Export Comments</source>
@@ -46976,7 +46976,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>footer:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bilgi:</translation>
     </message>
     <message>
         <source>header:</source>
@@ -48594,7 +48594,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source> Footer </source>
-        <translation type="unfinished"/>
+        <translation>Alt Bilgi</translation>
     </message>
     <message>
         <source>View More Replies</source>
@@ -48735,7 +48735,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
     <message>
         <source>Header:</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bilgi:</translation>
     </message>
 </context>
 <context>
