@@ -22286,7 +22286,8 @@ Aktar</translation>
     </message>
     <message>
         <source>BatchRename</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları Topluca 
+Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Model Essay</source>
