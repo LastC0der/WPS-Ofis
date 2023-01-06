@@ -24840,7 +24840,7 @@ Okuma</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alt Bilgi</translation>
     </message>
     <message>
         <source>Placeholders</source>
@@ -25288,11 +25288,11 @@ Animasyon</translation>
     </message>
     <message>
         <source>&amp;Footer</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alt Bilgi</translation>
     </message>
     <message>
         <source>&amp;Header</source>
-        <translation type="unfinished"/>
+        <translation>Üst &amp;Bilgi</translation>
     </message>
     <message>
         <source>&amp;Date and time</source>
