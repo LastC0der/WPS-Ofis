@@ -2035,7 +2035,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>SparklineClear.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen mini grafikleri temizle.</translation>
     </message>
     <message>
         <source>StopAutoVersion.content</source>
@@ -2139,7 +2139,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PrevNextPage.content</source>
-        <translation>Yazdırılan bir sonraki sayfaya gidin.</translation>
+        <translation>Geçerli çalışma sayfasının bir sonraki yazdırma sayfasına gidin.</translation>
     </message>
     <message>
         <source>InsertPageBreak.title</source>
