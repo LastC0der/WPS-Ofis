@@ -13,7 +13,7 @@ Seçilen paragraf için İçindekiler seviyesini ayarlayın ve bir İçindekiler
     </message>
     <message>
         <source>AlignTopJustified.title</source>
-        <translation>Üst İki Yana Yasla</translation>
+        <translation>Üste Hizalı Olarak Hizala</translation>
     </message>
     <message>
         <source>OpenDataSource2.content</source>
