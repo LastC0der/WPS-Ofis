@@ -943,7 +943,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Girintiyi Azalt</translation>
+        <translation>Liste Düzeyini Azalt</translation>
     </message>
     <message>
         <source>VideoBegin.content</source>
