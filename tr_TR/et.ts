@@ -8737,7 +8737,7 @@ Dondur</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen?</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%s&quot; zaten açık. Yeniden açmak, yaptığınız değişiklikleri yok sayacak. Yeniden açmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>Duplicates do not support reference to multiple worksheets.</source>
@@ -10473,7 +10473,7 @@ Bunun çeşitli nedenleri olabilir:
     </message>
     <message>
         <source>is the rate of discount over the length of one period.</source>
-        <translation type="unfinished"/>
+        <translation>bir dönem başına düşen indirim oranıdır.</translation>
     </message>
     <message>
         <source>is the value at which to evaluate the function, a nonnegative number.</source>
@@ -26429,7 +26429,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Returns the discount rate for a security.</source>
-        <translation>!Menkul kıymet için indirim oranını döndürür.</translation>
+        <translation>Menkul kıymet için indirim oranını döndürür.</translation>
     </message>
     <message>
         <source>HEX2DEC(number)</source>
@@ -26674,7 +26674,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>DISC(settlement, maturity, pr, redemption, [basis])</source>
-        <translation type="unfinished"/>
+        <translation>İNDİRİM(düzenleme, vade, ücret, teminat, [temel])</translation>
     </message>
     <message>
         <source>NORM.INV(probability,mean,standard_dev)</source>
