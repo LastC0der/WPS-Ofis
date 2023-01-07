@@ -32238,6 +32238,10 @@ Permissions</translation>
         <translation>Document 
 Security</translation>
     </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"/>
+    </message>		
 </context>
 <context>
     <name>KxDlgEditConnectionProperties</name>
