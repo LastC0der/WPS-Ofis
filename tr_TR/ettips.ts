@@ -1076,7 +1076,7 @@ Belgedeki tüm bölümlere belirli bir kağıt boyutu uygulamak,  kağıt boyutu
     </message>
     <message>
         <source>DecreaseIndent.title</source>
-        <translation>Liste Düzeyini Azalt</translation>
+        <translation>Girintiyi Azalt</translation>
     </message>
     <message>
         <source>GraphicFillColor2.content</source>
@@ -1809,7 +1809,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</
     </message>
     <message>
         <source>AutoFilter.title</source>
-        <translation>Otomatik Süzgeç</translation>
+        <translation>Otomatik Filtre</translation>
     </message>
     <message>
         <source>DataGroup.content</source>
@@ -2055,7 +2055,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>AddFavorite.content</source>
-        <translation>Mevcut süzgeç koşullarını Sık Kullanılanlar&apos;a ekleyin, böylece bir dahaki sefere doğrudan kullanabilirsiniz.</translation>
+        <translation>Geçerli filtre koşullarını Sık Kullanılanlar&apos;a ekleyin, böylece bir dahaki sefere doğrudan kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>PageZoom.title</source>
@@ -2988,7 +2988,7 @@ Tüm veriler korunur.</translation>
     </message>
     <message>
         <source>ExportFilterResult.title</source>
-        <translation>Süzgeç Sonuçlarını Dışa Aktar</translation>
+        <translation>Filtre Sonuçlarını Dışa Aktar</translation>
     </message>
     <message>
         <source>EvaluateFormula.content</source>
