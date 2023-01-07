@@ -32220,7 +32220,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye Aktar</translation>
+        <translation>PDF Olarak Dışa Aktar</translation>
     </message>		
 </context>
 <context>
