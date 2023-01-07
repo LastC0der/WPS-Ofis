@@ -40727,7 +40727,7 @@ p, li { white-space: pre-wrap; }
     <name>KLoginStatusTipWidget</name>
     <message>
         <source>Login abnormally</source>
-        <translation type="unfinished"/>
+        <translation>Login abnormally</translation>
     </message>
 </context>
 <context>
