@@ -371,7 +371,7 @@ Sıkıştırılmış görüntülerin kalitesinden belirli bir ölçüde ödün v
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -1042,7 +1042,7 @@ Sıkıştırılmış görüntülerin kalitesinden belirli bir ölçüde ödün v
     <name>KAppRbTabFeedbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
