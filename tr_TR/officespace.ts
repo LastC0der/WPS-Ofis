@@ -7,11 +7,11 @@
     </message>
     <message>
         <source>uploaded to the cloud</source>
-        <translation type="unfinished"/>
+        <translation>buluta yüklendi</translation>
     </message>
     <message>
         <source>This document is often used and is recommended to be </source>
-        <translation type="unfinished"/>
+        <translation>Bu belge sıklıkla kullanılır ve kullanılması önerilir.</translation>
     </message>
 </context>
 <context>
@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>Upgrade member</source>
-        <translation type="unfinished"/>
+        <translation>Premium Hesaba Yükselt</translation>
     </message>
     <message>
         <source>WPS Diagnositic</source>
@@ -42,15 +42,15 @@
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sürüm mevcut. Lütfen yenileyin.</translation>
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce kontrol edildi</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Uploaded %1 minutes ago </source>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Manually stopped uploading</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Document had been saved to lock disk, advice</source>
@@ -398,7 +398,7 @@
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>cloud syncing</source>
@@ -442,11 +442,11 @@
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>already sync</source>
@@ -611,7 +611,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -841,7 +841,7 @@
     <name>KDownloadingTip</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Continue opening the updated version of your document.</source>
@@ -852,7 +852,7 @@
     <name>KFileConflictSelectDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>backup local version and open</source>
@@ -1013,7 +1013,7 @@
     <name>KOpenFromOtherDeviceTip</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>This document is from another device. The cloud document has been automatically called and opened for you.</source>
@@ -1024,7 +1024,7 @@
     <name>KRoamingSave2PrivateTip</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Document has been saved automatically to the private space root directory</source>
@@ -1039,7 +1039,7 @@
     <name>KxLiveStateUpdateCache</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>You have logged in to the WPS Office account: &lt;br/&gt;%1&lt;br/&gt; You can %2 change your login account or sign out.</source>
@@ -1063,7 +1063,7 @@
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"/>
+        <translation>Oturum aç</translation>
     </message>
     <message>
         <source>Equipment Management</source>
@@ -1075,14 +1075,14 @@
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="unfinished"/>
+        <translation>Oturumu kapat</translation>
     </message>
 </context>
 <context>
     <name>KxLiveTabDialogExControl</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Files in the Cloud Docs support multi-user collaborations</source>
@@ -1097,7 +1097,7 @@
     <name>CloudSyncSettingDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -1105,25 +1105,25 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>CloudSyncUseDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>InsertAttachmentTypeWidget</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>The attachment will be uploaded to the cloud and a sharing link will be generated</source>
@@ -1153,7 +1153,7 @@
     <name>KOneStepSaveSelectView</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -1161,14 +1161,14 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>KSaveFileExceedPanelP6Enterprise</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>please contact the enterprise administrator or consult </source>
@@ -1207,7 +1207,7 @@
     <name>KShareFileDialog</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>goto know more</source>
@@ -1257,7 +1257,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -1336,7 +1336,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     <name>share2019_recommend::KShare19RecommendDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Share this document with others ?</source>
@@ -1348,7 +1348,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>say goodbye to transfer files</source>
@@ -1402,7 +1402,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     <name>KNewFileToCloudRenameDlg</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Resolve data error!please try again.</source>
@@ -1422,11 +1422,11 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>rename</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Group file, roaming file and shared file can not been renamed.</source>
@@ -1461,7 +1461,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Latest Version</source>
@@ -1504,11 +1504,11 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sürüm mevcut. Lütfen yenileyin.</translation>
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce kontrol edildi</translation>
     </message>
     <message>
         <source>Cloud Docs:</source>
@@ -1560,11 +1560,11 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Manually stopped uploading</source>
@@ -1659,11 +1659,11 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sürüm mevcut. Lütfen yenileyin.</translation>
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce kontrol edildi</translation>
     </message>
     <message>
         <source>Cloud Docs:</source>
@@ -1707,11 +1707,11 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Manually stopped uploading</source>
@@ -1794,7 +1794,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Don&apos;t prompt</source>
@@ -1806,7 +1806,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Only documents saved to the cloud can be concerned about document modification.</source>
@@ -2003,7 +2003,7 @@ This may because:
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Upload error</source>
@@ -2500,7 +2500,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>When the upload is complete, the document will open</source>
@@ -2535,7 +2535,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>I know</source>
@@ -2608,7 +2608,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>This document is updated. Go and check the updates.</source>
@@ -3194,7 +3194,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Cloud space has been full</source>
@@ -3369,14 +3369,14 @@ parola:%1</translation>
     <name>KCloudSyncVersionTitleCoopWidget</name>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
 </context>
 <context>
     <name>KCollaborationToolButton</name>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>has Accepted invitation to collaborate</source>
@@ -3610,7 +3610,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>cloud file</source>
@@ -3667,7 +3667,7 @@ parola:%1</translation>
     <name>AttachmentTipWidget</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Binding mobile phone</source>
@@ -3683,7 +3683,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>I know</source>
@@ -3734,7 +3734,7 @@ parola:%1</translation>
     <name>KxDlgCheckUpload</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Submit for review</source>
@@ -4038,7 +4038,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>desktop</source>
@@ -4681,7 +4681,7 @@ for your account&apos;s security</source>
     <name>KSaveFileExceedPanelP5</name>
     <message>
         <source>Upgrade Member</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıcalıklı Sürüme Yükselt</translation>
     </message>
     <message>
         <source>file size exceed %1 limit, upgrade vip to continue upload</source>
@@ -4893,7 +4893,7 @@ for your account&apos;s security</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <source>The file name already exists.</source>
@@ -5061,7 +5061,7 @@ for your account&apos;s security</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
 </context>
 <context>
@@ -5285,7 +5285,7 @@ for your account&apos;s security</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
 </context>
 <context>
