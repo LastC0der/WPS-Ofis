@@ -32282,6 +32282,10 @@ des utilisateurs</translation>
         <source>Document Security</source>
         <translation>Sécurité du document</translation>
     </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"/>
+    </message>		
 </context>
 <context>
     <name>KxDlgEditConnectionProperties</name>
