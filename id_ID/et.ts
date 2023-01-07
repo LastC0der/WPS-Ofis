@@ -32266,6 +32266,10 @@ Format</translation>
         <source>Document Security</source>
         <translation>Keamanan Dokumen</translation>
     </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"/>
+    </message>		
 </context>
 <context>
     <name>KxDlgEditConnectionProperties</name>
