@@ -32268,6 +32268,10 @@ formatów</translation>
         <source>Document Security</source>
         <translation>Zabezpieczenie dokumentu</translation>
     </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"/>
+    </message>		
 </context>
 <context>
     <name>KxDlgEditConnectionProperties</name>
