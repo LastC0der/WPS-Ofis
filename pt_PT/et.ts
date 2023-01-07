@@ -32280,6 +32280,10 @@ Formatação</translation>
         <source>Document Security</source>
         <translation>Segurança do Documento</translation>
     </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"/>
+    </message>		
 </context>
 <context>
     <name>KxDlgEditConnectionProperties</name>
