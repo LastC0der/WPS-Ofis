@@ -2068,7 +2068,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>The converted file is saved on your computer.</source>
@@ -3000,7 +3000,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     <name>QDevicesLoadFailureWidget</name>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Failed to get device, please</source>
