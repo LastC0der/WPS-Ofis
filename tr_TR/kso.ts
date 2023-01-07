@@ -11965,7 +11965,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Local network disconnect, please print after connect avaliable.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ağ bağlantısı kesildi, lütfen bağlantı kurulduktan sonra yazdırın.</translation>
     </message>
     <message>
         <source>Failed to approve this application, you don&apos;t have auth permission.</source>
@@ -11997,7 +11997,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Local network disconnect, please print screen after connect avaliable.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ağ bağlantısı kesildi, lütfen bağlantı kurulduktan sonra ekranı yazdırın.</translation>
     </message>
     <message>
         <source>Your application has been approved, cancel failed.</source>
@@ -12005,7 +12005,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Local network disconnect, please copy after connect avaliable.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ağ bağlantısı kesildi, lütfen bağlantı kurulduktan sonra kopyalayın.</translation>
     </message>
     <message>
         <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Security document format mismatch: %1.)</source>
@@ -12013,11 +12013,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Local network disconnect, please save after connect avaliable.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ağ bağlantısı kesildi, lütfen bağlantı kurulduktan sonra kaydedin.</translation>
     </message>
     <message>
         <source>Local network disconnect, please open after connect avaliable.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ağ bağlantısı kesildi, lütfen bağlantı kurulduktan sonra açın.</translation>
     </message>
     <message>
         <source>The applicant has already canceled this apply.</source>
@@ -12061,7 +12061,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Local network disconneted, please retry after connection available.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ağ bağlantısız, lütfen bağlantı sağlandıktan sonra yeniden deneyin.</translation>
     </message>
     <message>
         <source>show tips</source>
@@ -12109,7 +12109,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Local network disconnect, check permission failed.</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ağ bağlantısı kesildi, kontrol izni başarısız oldu.</translation>
     </message>
     <message>
         <source>Sorry, you don&apos;t have read permission of this document(%1).</source>
