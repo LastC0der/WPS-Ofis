@@ -32204,6 +32204,10 @@ Painter</source>
         <source>Document Security</source>
         <translation>Dokumentsicherheit</translation>
     </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"/>
+    </message>		
 </context>
 <context>
     <name>KxDlgEditConnectionProperties</name>
