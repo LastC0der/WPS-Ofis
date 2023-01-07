@@ -31943,6 +31943,10 @@ Painter</source>
         <source>Document Security</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation></translation>
+    </message>		
 </context>
 <context>
     <name>KxDlgEditConnectionProperties</name>
