@@ -4435,11 +4435,11 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>UnLock</source>
-        <translation type="unfinished"/>
+        <translation>Kilidi Aç</translation>
     </message>
     <message>
         <source>Unfold</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>Bold Reveal</source>
@@ -5705,7 +5705,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Exciting</source>
-        <translation type="unfinished"/>
+        <translation>Heyecan Verici</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
@@ -5719,7 +5719,7 @@ Asıl Slayt</translation>
     <message>
         <source>Unfold</source>
         <comment>wpp_sAnimExitEffectTextUnfold</comment>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>Hexagon</source>
@@ -6812,7 +6812,7 @@ Body: Thread</source>
     </message>
     <message>
         <source>Unfold</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <source>blue longing</source>
@@ -8052,7 +8052,7 @@ Body: Spinner</source>
     </message>
     <message>
         <source>Exciting</source>
-        <translation type="unfinished"/>
+        <translation>Heyecan Verici</translation>
     </message>
     <message>
         <source>training course</source>
@@ -8097,11 +8097,11 @@ Body: Spinner</source>
     </message>
     <message>
         <source>The linked file is unavailable and can&apos;t be updated.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantılı dosya kullanılamıyor ve güncellenemiyor.</translation>
     </message>
     <message>
         <source>friendly cooperation</source>
-        <translation type="unfinished"/>
+        <translation>dostça işbirliği</translation>
     </message>
     <message>
         <source>Highlights</source>
@@ -8109,11 +8109,11 @@ Body: Spinner</source>
     </message>
     <message>
         <source>government_celebration</source>
-        <translation type="unfinished"/>
+        <translation>resmi_tatil</translation>
     </message>
     <message>
         <source>Insert WebExtension</source>
-        <translation type="unfinished"/>
+        <translation>Web Uzantısı Ekle</translation>
     </message>
     <message>
         <source>Dark Style 1 - Accent 1</source>
@@ -13025,7 +13025,7 @@ Template</source>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -27918,7 +27918,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>Decryption</source>
@@ -28544,11 +28544,11 @@ Gizle</translation>
     </message>
     <message>
         <source>Click to add subtitle</source>
-        <translation type="unfinished"/>
+        <translation>Alt başlık eklemek için tıklatın</translation>
     </message>
     <message>
         <source>Click to add title</source>
-        <translation type="unfinished"/>
+        <translation>Başlık eklemek için tıklayın</translation>
     </message>
     <message>
         <source>Picture</source>
