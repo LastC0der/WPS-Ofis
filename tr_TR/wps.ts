@@ -4713,7 +4713,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Insert a picture from a file</source>
-        <translation type="unfinished"/>
+        <translation>Bir dosyadan resim ekle</translation>
     </message>
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
@@ -17252,7 +17252,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>Do not Show Line Number for Blank Line</source>
@@ -40873,7 +40873,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>Decryption</source>
