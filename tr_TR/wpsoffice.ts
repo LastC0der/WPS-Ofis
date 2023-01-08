@@ -4579,7 +4579,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Create a PDF from files, pictures or scanner</source>
-        <translation type="unfinished"/>
+        <translation>Dosya, resim veya tarayıcıdan PDF oluşturun</translation>
     </message>
     <message>
         <source>Share as a link for comments</source>
