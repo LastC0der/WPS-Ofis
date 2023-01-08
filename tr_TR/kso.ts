@@ -13380,7 +13380,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Laurel Green</source>
-        <translation type="unfinished"/>
+        <translation>Defne Yeşili</translation>
     </message>
     <message>
         <source>the encryption algorithm is different between the client version and the document</source>
@@ -13464,7 +13464,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Dark Brown</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Kahverengi</translation>
     </message>
     <message>
         <source>Operation not supported on %1</source>
