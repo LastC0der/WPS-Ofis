@@ -18481,7 +18481,8 @@ Break</source>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation>Ekran Görüntüsü</translation>
+        <translation>Ekran 
+Görüntüsü</translation>
     </message>
     <message>
         <source>Paste Previous Content</source>
@@ -18691,7 +18692,8 @@ Yazdır</translation>
     </message>
     <message>
         <source>IconLibrary</source>
-        <translation>Simge Kütüphanesi</translation>
+        <translation>Simge 
+Kütüphanesi</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -19758,7 +19760,8 @@ Navigation</source>
     </message>
     <message>
         <source>Chart Library</source>
-        <translation>Grafik Kitaplığı</translation>
+        <translation>Grafik 
+Kitaplığı</translation>
     </message>
     <message>
         <source>Image Previewer</source>
@@ -26088,7 +26091,8 @@ Break</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Kenar Boşlukları</translation>
+        <translation>Kenar 
+Boşlukları</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -26182,7 +26186,8 @@ Yönü</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Sayfa Rengi</translation>
+        <translation>Sayfa 
+Rengi</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -26227,7 +26232,8 @@ Kaydır</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Seçim Bölmesi</translation>
+        <translation>Seçim 
+Bölmesi</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
@@ -38607,7 +38613,8 @@ Ekle</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Metin Kutusu</translation>
+        <translation>Metin 
+Kutusu</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow</source>
@@ -38653,7 +38660,8 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Date and Time</source>
-        <translation>Tarih ve Saat</translation>
+        <translation>Tarih ve 
+Saat</translation>
     </message>
     <message>
         <source>Page
