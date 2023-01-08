@@ -20633,7 +20633,7 @@ tek bir çalışma sayfasında birleştir</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -50812,7 +50812,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>Decryption</source>
