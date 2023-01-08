@@ -13597,7 +13597,7 @@ Pencere</translation>
     <name>KxPdfBubbleGuideWidget</name>
     <message>
         <source>Function move hint</source>
-        <translation type="unfinished"/>
+        <translation>Taşınan işlevler</translation>
     </message>
 </context>
 <context>
@@ -13636,7 +13636,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>Forward</source>
