@@ -687,7 +687,7 @@
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Paste the clipboard&apos;s contents into the current directory</source>
@@ -1846,7 +1846,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <source>Uploading document...</source>
@@ -5472,7 +5472,7 @@ for your account&apos;s security</source>
     <name>KFileConflictTipDlg</name>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Farklı Kaydet</translation>
     </message>
 </context>
 <context>
