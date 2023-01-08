@@ -946,7 +946,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>New version is available. Please refresh.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sürüm mevcut. Lütfen yenileyin.</translation>
     </message>
     <message>
         <source>Check update</source>
@@ -1092,7 +1092,7 @@ Please choose a different file name.</source>
     <name>KForceLoginModalWidget</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>No, thanks</source>
@@ -1337,7 +1337,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeCloudSvrReinstallDlg</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>FAQ</source>
@@ -1348,7 +1348,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeFallbackBubble</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -1362,7 +1362,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     <name>KPromeMainWindow</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>New</source>
@@ -1386,7 +1386,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Recheck and restart WPS</source>
@@ -2227,7 +2227,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     <name>KPromeWindowLoadingWidget</name>
     <message>
         <source>ok</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>save</source>
@@ -2263,7 +2263,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>You can, </source>
@@ -9457,7 +9457,7 @@ p, li { white-space: pre-wrap; }
     <name>KPromePermissionDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -9472,7 +9472,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Confirm to exit?</source>
@@ -10145,7 +10145,7 @@ Customer service hotline:</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
 </context>
 <context>
@@ -10166,7 +10166,7 @@ Customer service hotline:</source>
     <name>KPromeUnloginExitDlg</name>
     <message>
         <source>feedback</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>Confirm to exit?</source>
