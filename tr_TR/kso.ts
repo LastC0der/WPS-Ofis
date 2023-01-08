@@ -11859,7 +11859,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Offline Secret Key</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı Gizli Anahtar</translation>
     </message>
     <message>
         <source>comfirm password:</source>
@@ -12228,7 +12228,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Offline secret key has been successfully cached to your local computer.</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimdışı gizli anahtar, yerel bilgisayarınıza başarıyla önbelleğe alındı.</translation>
     </message>
     <message>
         <source>Failed to modify password</source>
@@ -13299,7 +13299,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Create a PDF from files, pictures or scanner</source>
-        <translation type="unfinished"/>
+        <translation>Dosya, resim veya tarayıcıdan PDF oluşturun</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -28742,7 +28742,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Follow Path</source>
-        <translation type="unfinished"/>
+        <translation>Yolu Takip Et</translation>
     </message>
     <message>
         <source>Perspective</source>
@@ -37551,15 +37551,15 @@ Please check network</source>
     </message>
     <message>
         <source>From &amp;Picture...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Resimden...</translation>
     </message>
     <message>
         <source>From &amp;Online Picture</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çevrimiçi Resimden</translation>
     </message>
     <message>
         <source>Picture Source</source>
-        <translation type="unfinished"/>
+        <translation>Resim Kaynağı</translation>
     </message>
 </context>
 <context>
