@@ -4466,7 +4466,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Open WPS Office</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i Aç</translation>
     </message>
     <message>
         <source>network anomaly status, 
@@ -5350,7 +5350,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>View On &amp;Website</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Web Sitesinde Görüntüle</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -7799,7 +7799,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Login WPS</source>
-        <translation>WPS Hesabında oturum açın</translation>
+        <translation>WPS Hesabında </translation>
     </message>
 </context>
 <context>
@@ -10728,7 +10728,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>View On &amp;Website</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Web Sitesinde Görüntüle</translation>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
@@ -11842,7 +11842,7 @@ Time for upgrade: %1</source>
     <name>KDefaultCloudSpaceWidget</name>
     <message>
         <source>Login wps and to view cloud space</source>
-        <translation type="unfinished"/>
+        <translation>Bulut alanınızı görüntülemek için oturum açın.</translation>
     </message>
 </context>
 <context>
@@ -11884,7 +11884,7 @@ Time for upgrade: %1</source>
     <name>KTransDetailsDlg</name>
     <message>
         <source>Transfer Details</source>
-        <translation type="unfinished"/>
+        <translation>Aktarım Ayrıntıları</translation>
     </message>
 </context>
 <context>
