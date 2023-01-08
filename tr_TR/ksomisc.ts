@@ -1296,7 +1296,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Repair WPS Office</source>
-        <translation>WPS Ofis&apos;i Onarın</translation>
+        <translation>WPS Ofis&apos;i Onar</translation>
     </message>
     <message>
         <source>WPS Photo</source>
@@ -1372,7 +1372,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Configure WPS Office</source>
-        <translation>WPS Ofis&apos;i yapılandırın</translation>
+        <translation>WPS Ofis&apos;i Yapılandır</translation>
     </message>
     <message>
         <source>Uninstall.lnk</source>
