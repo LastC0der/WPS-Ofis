@@ -8165,7 +8165,7 @@ Body: Spinner</source>
     </message>
     <message>
         <source>Slide %1:</source>
-        <translation type="unfinished"/>
+        <translation>Slayt %1:</translation>
     </message>
     <message>
         <source>Loop until next sound</source>
@@ -22863,7 +22863,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"/>
+        <translation>Slayt %1</translation>
     </message>
     <message>
         <source>Decrease Font</source>
@@ -23087,7 +23087,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"/>
+        <translation>Slayt %1</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
@@ -27039,7 +27039,8 @@ Bölmesi</translation>
     <message>
         <source>Slide %1
 </source>
-        <translation type="unfinished"/>
+        <translation>Slayt %1
+</translation>
     </message>
 </context>
 <context>
@@ -27488,7 +27489,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Print only on one side of the paper</source>
-        <translation type="unfinished"/>
+        <translation>Kağıdın yalnızca bir yüzüne yazdırın</translation>
     </message>
     <message>
         <source>Print one sided</source>
@@ -27496,7 +27497,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Reload paper when prompted to print the second side</source>
-        <translation type="unfinished"/>
+        <translation>İkinci tarafı yazdırmanız istendiğinde kağıdı yeniden yükleyin</translation>
     </message>
     <message>
         <source>Flip on short edge</source>
@@ -28441,7 +28442,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"/>
+        <translation>Slayt %1</translation>
     </message>
     <message>
         <source>All Slides</source>
@@ -29005,7 +29006,7 @@ Asıl Slayt</translation>
     <name>KxHyperlinkWppPage</name>
     <message>
         <source>Slide %1</source>
-        <translation type="unfinished"/>
+        <translation>Slayt %1</translation>
     </message>
     <message>
         <source>Custom Show</source>
