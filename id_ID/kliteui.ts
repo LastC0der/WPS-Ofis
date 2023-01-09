@@ -29,24 +29,12 @@
         <translation>WPS Office</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>success</source>
-        <translation>Berhasil Dikonversi.</translation>
-    </message>
-    <message>
-        <source>waiting</source>
-        <translation>Harap tunggu.</translation>
-    </message>
-    <message>
-        <source>warning</source>
-        <translation>Peringatan</translation>
-    </message>
-    <message>
         <source>Null</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Waiting</source>
@@ -55,6 +43,18 @@
     <message>
         <source>Warning</source>
         <translation>Peringatan</translation>
+    </message>
+    <message>
+        <source>warning</source>
+        <translation>Peringatan</translation>
+    </message>
+    <message>
+        <source>success</source>
+        <translation>Berhasil Dikonversi.</translation>
+    </message>
+    <message>
+        <source>waiting</source>
+        <translation>Harap tunggu.</translation>
     </message>
 </context>
 <context>
@@ -212,12 +212,12 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <translation>Google</translation>
     </message>
     <message>
-        <source>The company&apos;s files can only be saved to that company</source>
-        <translation>File perusahaan hanya dapat disimpan di perusahaan tersebut.</translation>
-    </message>
-    <message>
         <source>Dropbox</source>
         <translation>Dropbox</translation>
+    </message>
+    <message>
+        <source>The company&apos;s files can only be saved to that company</source>
+        <translation>File perusahaan hanya dapat disimpan di perusahaan tersebut.</translation>
     </message>
 </context>
 <context>
@@ -335,10 +335,6 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <translation>Komputer</translation>
     </message>
     <message>
-        <source>Shares received of cloud disk</source>
-        <translation>Pembagian yang Diterima</translation>
-    </message>
-    <message>
         <source>There is an extension of the data in the document</source>
         <translation>Data yang diperluas ada di file. Direkomendasikan untuk menyimpan file sebagai %1, jika tidak, mengubah lagi data yang diperluas tidak akan didukung.</translation>
     </message>
@@ -367,16 +363,8 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <translation>Simpan ke</translation>
     </message>
     <message>
-        <source>ShareFolder</source>
-        <translation>Folder Berbagi</translation>
-    </message>
-    <message>
         <source>Folder is not exist</source>
         <translation>Folder tidak ada</translation>
-    </message>
-    <message>
-        <source>Group Space of cloud disk</source>
-        <translation>Tim Saya</translation>
     </message>
     <message>
         <source>My Company</source>
@@ -454,6 +442,18 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <source>Search Title</source>
         <translation>Hasil Pencarian di &quot;Komputer&quot;</translation>
     </message>
+    <message>
+        <source>Shares received of cloud disk</source>
+        <translation>Pembagian yang Diterima</translation>
+    </message>
+    <message>
+        <source>ShareFolder</source>
+        <translation>Folder Berbagi</translation>
+    </message>
+    <message>
+        <source>Group Space of cloud disk</source>
+        <translation>Tim Saya</translation>
+    </message>
 </context>
 <context>
     <name>KSearchEngine</name>
@@ -506,11 +506,162 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
 </context>
 <context>
-    <name>KThirdCloudFileListPage</name>
+    <name>KDrawBrowserWnd</name>
     <message>
-        <source>Open</source>
-        <translation>Buka (&amp;B)</translation>
+        <source>Browse for folder</source>
+        <translation>Telusuri folder</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Tutup</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchCtrl</name>
+    <message>
+        <source>Clear</source>
+        <translation>Hapus</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Cari</translation>
+    </message>
+</context>
+<context>
+    <name>KCefLoadingProgressDlgBase</name>
+    <message>
+        <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
+        <translation>Silakan tunggu beberapa menit sampai pengunduhan selesai.</translation>
+    </message>
+    <message>
+        <source>Loading core support library......</source>
+        <translation>Memuat perpustakaan dukungan inti...</translation>
+    </message>
+    <message>
+        <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
+        <translation>Gagal mengunduh perpustakaan dukungan inti. Silakan periksa konektivitas jaringan dan muat ulang perpustakaan.</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation>Muat Ulang</translation>
+    </message>
+    <message>
+        <source>Core support library failed to load</source>
+        <translation>Gagal memuat perpustakaan dukungan inti.</translation>
+    </message>
+    <message>
+        <source>This feature requires core support library,</source>
+        <translation>Fitur ini memerlukan perpustakaan dukungan inti.</translation>
+    </message>
+    <message>
+        <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KDrawMsgBox</name>
+    <message>
+        <source>Instant Recovery</source>
+        <translation>Pemulihan Instan</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudDiskGuideDlg</name>
+    <message>
+        <source>Place the %1 into desktop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>go and see</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create shortcut of WPS CloudFile failed!</source>
+        <translation>Pembuatan pintasan File WPS Cloud gagal!</translation>
+    </message>
+    <message>
+        <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
+        <translation>Pintasan File WPS Cloud telah dibuat, Anda dapat menemukannya di desktop</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudErrorPage</name>
+    <message>
+        <source>Authorized sign-in is invalid.</source>
+        <translation>Proses masuk terotorisasi tidak valid.</translation>
+    </message>
+    <message>
+        <source>Failed to load the file list.</source>
+        <translation>Gagal memuat daftar file.</translation>
+    </message>
+    <message>
+        <source>Try again</source>
+        <translation>Coba lagi</translation>
+    </message>
+    <message>
+        <source>Authorize again</source>
+        <translation>Otorisasi lagi</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudLoadingPage</name>
+    <message>
+        <source>Loading the file list for you...</source>
+        <translation>Memuat daftar file untuk Anda...</translation>
+    </message>
+</context>
+<context>
+    <name>KAppLoadingWidget</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Loading %1, please wait</source>
+        <translation>Memuat %1. Harap Tunggu.</translation>
+    </message>
+    <message>
+        <source>Backgroundg</source>
+        <translation>Latar belakang</translation>
+    </message>
+</context>
+<context>
+    <name>KImagePlayDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudFileListPage</name>
     <message>
         <source>Cancel</source>
         <translation>Batal</translation>
@@ -531,21 +682,222 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <source>File Type(T):</source>
         <translation>Tipe File(T):</translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation>Buka (&amp;B)</translation>
+    </message>
 </context>
 <context>
-    <name>KDrawBrowserWnd</name>
+    <name>KLinkMessageBox</name>
     <message>
-        <source>Browse for folder</source>
-        <translation>Telusuri folder</translation>
+        <source>Open Folder</source>
+        <translation>Buka Folder</translation>
+    </message>
+</context>
+<context>
+    <name>KLoadingTipsLiteUI</name>
+    <message>
+        <source>Network Error,Load Failed!</source>
+        <translation>Kegagalan Jaringan, gagal mengunduh!</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Tutup</translation>
+        <source>Loading the Data Recovery Master.Please wait...</source>
+        <translation>Memuatkan Master Pemulihan Data. Harap tunggu...</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawRecentListCtrl</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Default Font</source>
         <translation>Arial</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file has not been uploaded to Cloud.Please upload it in mobile phone.</source>
+        <translation>Tidak dapat membuka &quot;%1&quot;.
+File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KCustomCtrl</name>
+    <message>
+        <source>Rename</source>
+        <translation>Ganti nama</translation>
+    </message>
+    <message>
+        <source>Delete Control</source>
+        <translation>Hapus Kontrol</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawSearchListCtrl</name>
+    <message>
+        <source>UAC Fail Message</source>
+        <translation>Pencarian gagal. Anda telah menolak izin inisiasi alat pencarian. \r\n Klik Ya untuk menyelesaikan pencarian ketika dialog perintah muncul saat pencarian berikutnya.</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this file</source>
+        <translation>Tidak dapat membuka file ini.</translation>
+    </message>
+    <message>
+        <source>No Result Message</source>
+        <translation>Maaf, pencarian tidak menemukan kecocokan dari &quot;%s&quot;. \r\nCoba kata kunci lainnya.</translation>
+    </message>
+</context>
+<context>
+    <name>KUploadFileGuideDlg</name>
+    <message>
+        <source>Account had been logouted, uploading has been canceled</source>
+        <translation>Akun telah tercatat keluar, mengunggah telah dibatalkan</translation>
+    </message>
+    <message>
+        <source>selected files have been in cloud</source>
+        <translation>file-file yang dipilih telah berada di cloud</translation>
+    </message>
+    <message>
+        <source>Account had been logouted</source>
+        <translation>Akun telah tercatat keluar</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteTrialReminderDlg</name>
+    <message>
+        <source>Preview</source>
+        <translation>Pratampil</translation>
+    </message>
+    <message>
+        <source>confirm</source>
+        <translation>Konfirmasi</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawButton</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawCheckBox</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawComboBox</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMenu</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawTreeCtrl</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchButton</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipCtrl</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation>Disarankan menyimpan sebagai %1 format</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeIconThemeMgr</name>
+    <message>
+        <source>2019default</source>
+        <translation>2019 Beauty</translation>
+    </message>
+</context>
+<context>
+    <name>KCreateCompanyView</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KFileDlgAssitantTool</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft YaHei</translation>
+    </message>
+</context>
+<context>
+    <name>KFolderSelCombo</name>
     <message>
         <source>Microsoft Yahei</source>
         <translation>Microsoft YaHei</translation>
@@ -684,6 +1036,34 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <source>Payment failed</source>
         <translation>Pembayaran gagal</translation>
     </message>
+    <message>
+        <source>.</source>
+        <translation>.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation>Coba lagi</translation>
+    </message>
+    <message>
+        <source>Customer Service</source>
+        <translation>Layanan Pelanggan</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation>Lanjutkan</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Konfirmasi</translation>
+    </message>
 </context>
 <context>
     <name>KVipUpgradeDialog</name>
@@ -759,6 +1139,34 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <source>Congratulations to join WPS VIP family!</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>.</source>
+        <translation>.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation>Coba lagi</translation>
+    </message>
+    <message>
+        <source>Customer Service</source>
+        <translation>Layanan Pelanggan</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Network Error</source>
+        <translation>Kesalahan Jaringan</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Konfirmasi</translation>
+    </message>
 </context>
 <context>
     <name>KVUHelper</name>
@@ -806,47 +1214,9 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <source>WPS VIP</source>
         <translation>WPS VIP</translation>
     </message>
-</context>
-<context>
-    <name>KSearchCtrl</name>
     <message>
-        <source>Clear</source>
-        <translation>Hapus</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation>Cari</translation>
-    </message>
-</context>
-<context>
-    <name>KCefLoadingProgressDlgBase</name>
-    <message>
-        <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
-        <translation>Silakan tunggu beberapa menit sampai pengunduhan selesai.</translation>
-    </message>
-    <message>
-        <source>Loading core support library......</source>
-        <translation>Memuat perpustakaan dukungan inti...</translation>
-    </message>
-    <message>
-        <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
-        <translation>Gagal mengunduh perpustakaan dukungan inti. Silakan periksa konektivitas jaringan dan muat ulang perpustakaan.</translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation>Muat Ulang</translation>
-    </message>
-    <message>
-        <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Core support library failed to load</source>
-        <translation>Gagal memuat perpustakaan dukungan inti.</translation>
-    </message>
-    <message>
-        <source>This feature requires core support library,</source>
-        <translation>Fitur ini memerlukan perpustakaan dukungan inti.</translation>
+        <source>Free</source>
+        <translation>Gratis</translation>
     </message>
 </context>
 <context>
@@ -867,6 +1237,18 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <source>Resume now</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>More</source>
+        <translation>Lainnya</translation>
+    </message>
+    <message>
+        <source>Customer Service</source>
+        <translation>Layanan Pelanggan</translation>
+    </message>
+    <message>
+        <source>Terms of service</source>
+        <translation>Ketentuan layanan</translation>
+    </message>
 </context>
 <context>
     <name>KUserInfoRequester</name>
@@ -884,25 +1266,6 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
 </context>
 <context>
-    <name>KDrawMsgBox</name>
-    <message>
-        <source>Instant Recovery</source>
-        <translation>Pemulihan Instan</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
@@ -911,25 +1274,6 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <message>
         <source>Authorize</source>
         <translation>Otorisasi</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudDiskGuideDlg</name>
-    <message>
-        <source>Place the %1 into desktop</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>go and see</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation>Pembuatan pintasan File WPS Cloud gagal!</translation>
-    </message>
-    <message>
-        <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation>Pintasan File WPS Cloud telah dibuat, Anda dapat menemukannya di desktop</translation>
     </message>
 </context>
 <context>
@@ -954,6 +1298,14 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
         <source>Please clean up files in time</source>
         <translation>Harap bersihkan file pada waktunya</translation>
     </message>
+    <message>
+        <source>Got it</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>K7DaysRetainWidget</name>
@@ -971,25 +1323,6 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
 </context>
 <context>
-    <name>KThirdCloudErrorPage</name>
-    <message>
-        <source>Authorized sign-in is invalid.</source>
-        <translation>Proses masuk terotorisasi tidak valid.</translation>
-    </message>
-    <message>
-        <source>Failed to load the file list.</source>
-        <translation>Gagal memuat daftar file.</translation>
-    </message>
-    <message>
-        <source>Try again</source>
-        <translation>Coba lagi</translation>
-    </message>
-    <message>
-        <source>Authorize again</source>
-        <translation>Otorisasi lagi</translation>
-    </message>
-</context>
-<context>
     <name>KLiteQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
@@ -1001,13 +1334,6 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     <message>
         <source>Network exception, %1 failed to load</source>
         <translation>Pengecualian jaringan, %1 gagal dimuat</translation>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudLoadingPage</name>
-    <message>
-        <source>Loading the file list for you...</source>
-        <translation>Memuat daftar file untuk Anda...</translation>
     </message>
 </context>
 <context>
@@ -1030,6 +1356,10 @@ harap tunggu</translation>
         <source>Processing...</source>
         <translation>Memproses...</translation>
     </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
 </context>
 <context>
     <name>KWhatIsNewWidgetStartPage</name>
@@ -1037,93 +1367,9 @@ harap tunggu</translation>
         <source>Welcome to WPS Office for Mac</source>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>KAppLoadingWidget</name>
     <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Loading %1, please wait</source>
-        <translation>Memuat %1. Harap Tunggu.</translation>
-    </message>
-    <message>
-        <source>Backgroundg</source>
-        <translation>Latar belakang</translation>
-    </message>
-</context>
-<context>
-    <name>KImagePlayDlg</name>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Buka Folder</translation>
-    </message>
-</context>
-<context>
-    <name>KLoadingTipsLiteUI</name>
-    <message>
-        <source>Network Error,Load Failed!</source>
-        <translation>Kegagalan Jaringan, gagal mengunduh!</translation>
-    </message>
-    <message>
-        <source>Loading the Data Recovery Master.Please wait...</source>
-        <translation>Memuatkan Master Pemulihan Data. Harap tunggu...</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawRecentListCtrl</name>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Unable to open &quot;%1&quot;.
-This file has not been uploaded to Cloud.Please upload it in mobile phone.</source>
-        <translation>Tidak dapat membuka &quot;%1&quot;.
-File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KCustomCtrl</name>
-    <message>
-        <source>Rename</source>
-        <translation>Ganti nama</translation>
-    </message>
-    <message>
-        <source>Delete Control</source>
-        <translation>Hapus Kontrol</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
+        <source>Start</source>
+        <translation>Mulai</translation>
     </message>
 </context>
 <context>
@@ -1131,6 +1377,10 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <message>
         <source>Dont remind me</source>
         <translation>Jangan ingatkan saya</translation>
+    </message>
+    <message>
+        <source>close</source>
+        <translation>Tutup</translation>
     </message>
 </context>
 <context>
@@ -1149,6 +1399,14 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <message>
         <source>Loading %1, please wait</source>
         <translation>Memuat %1. Harap Tunggu.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OKE</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Latar Belakang</translation>
     </message>
 </context>
 <context>
@@ -1174,147 +1432,26 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
 </context>
 <context>
-    <name>KDrawSearchListCtrl</name>
-    <message>
-        <source>UAC Fail Message</source>
-        <translation>Pencarian gagal. Anda telah menolak izin inisiasi alat pencarian. \r\n Klik Ya untuk menyelesaikan pencarian ketika dialog perintah muncul saat pencarian berikutnya.</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-    <message>
-        <source>Can&apos;t open this file</source>
-        <translation>Tidak dapat membuka file ini.</translation>
-    </message>
-    <message>
-        <source>No Result Message</source>
-        <translation>Maaf, pencarian tidak menemukan kecocokan dari &quot;%s&quot;. \r\nCoba kata kunci lainnya.</translation>
-    </message>
-</context>
-<context>
-    <name>KUploadFileGuideDlg</name>
-    <message>
-        <source>Account had been logouted, uploading has been canceled</source>
-        <translation>Akun telah tercatat keluar, mengunggah telah dibatalkan</translation>
-    </message>
-    <message>
-        <source>selected files have been in cloud</source>
-        <translation>file-file yang dipilih telah berada di cloud</translation>
-    </message>
-    <message>
-        <source>Account had been logouted</source>
-        <translation>Akun telah tercatat keluar</translation>
-    </message>
-</context>
-<context>
-    <name>KLiteTrialReminderDlg</name>
-    <message>
-        <source>Preview</source>
-        <translation>Pratampil</translation>
-    </message>
-    <message>
-        <source>confirm</source>
-        <translation>Konfirmasi</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawButton</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawCheckBox</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawComboBox</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawMenu</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawTreeCtrl</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KSwitchButton</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KTooltipCtrl</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Recommended save as specify format</source>
-        <translation>Disarankan menyimpan sebagai %1 format</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>Remind me tomorrow</source>
         <translation>Ingatkan saya besok</translation>
     </message>
-</context>
-<context>
-    <name>KPromeIconThemeMgr</name>
     <message>
-        <source>2019default</source>
-        <translation>2019 Beauty</translation>
+        <source>More</source>
+        <translation>Lainnya</translation>
+    </message>
+    <message>
+        <source>Install</source>
+        <translation>Instal</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Abaikan</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Restart</translation>
     </message>
 </context>
 <context>
@@ -1325,31 +1462,38 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
 </context>
 <context>
-    <name>KCreateCompanyView</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KFileDlgAssitantTool</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
-    <name>KFolderSelCombo</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft YaHei</translation>
-    </message>
-</context>
-<context>
     <name>KSevenDaysFreeWidget</name>
     <message>
         <source>Free trial for 7 days</source>
         <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KVipUpgradeLeftWidget</name>
+    <message>
+        <source>More</source>
+        <translation>Lainnya</translation>
+    </message>
+</context>
+<context>
+    <name>K7DFreeVipPrivilegeTableWidget</name>
+    <message>
+        <source>Privilege</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KLiteUpdateMessageDlgWhenExpire</name>
+    <message>
+        <source>Download</source>
+        <translation>Unduh</translation>
+    </message>
+</context>
+<context>
+    <name>KUnionVipWidget</name>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation>Jangan tunjukkan lagi</translation>
     </message>
 </context>
 </TS>
