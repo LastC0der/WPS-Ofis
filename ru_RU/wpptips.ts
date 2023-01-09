@@ -2748,5 +2748,21 @@
         <source>TableFontEffects.content</source>
         <translation>Добавление к тексту визуального эффекта, например тени, подсветки или отражения.</translation>
     </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
