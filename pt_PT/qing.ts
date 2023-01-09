@@ -4316,6 +4316,10 @@ Verifique a localização e o nome.</translation>
         <translation>A atualização para a nova versão já foi efetuada. Feche o ficheiro atual e abra-o novamente.</translation>
     </message>
     <message>
+        <source>&amp;View On Website</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation>Obtenha a experiência da versão mais recente e atualize o WPS Office Cloud.</translation>
     </message>
