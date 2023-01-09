@@ -4314,7 +4314,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>&amp;View On Website</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Web Sitesinde Görüntüle</translation>
     </message>	
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
@@ -4458,7 +4458,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>&amp;Transmission Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aktarım Ayrıntıları</translation>
     </message>
     <message>
         <source> have been updated.</source>
@@ -10530,7 +10530,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Transmission details</source>
-        <translation type="unfinished"/>
+        <translation>Aktarım ayrıntıları</translation>
     </message>
 </context>
 <context>
