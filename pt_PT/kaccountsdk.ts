@@ -575,20 +575,12 @@ p, li { white-space: pre-wrap; }
         <translation>texto</translation>
     </message>
     <message>
-        <source>Guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Login</source>
         <translation>Iniciar sessão</translation>
     </message>
     <message>
         <source>personal logo</source>
         <translation>logótipo pessoal</translation>
-    </message>
-    <message>
-        <source>Cannot use Cloud services</source>
-        <translation>Não é possível utilizar serviços Cloud</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
@@ -627,14 +619,6 @@ p, li { white-space: pre-wrap; }
         <translation>Sugestão Premium</translation>
     </message>
     <message>
-        <source>Read-Only Mode</source>
-        <translation>Modo só de leitura</translation>
-    </message>
-    <message>
-        <source>Create, edit, and share documents as you like</source>
-        <translation>Crie, edite e partilhe todos os documentos que quiser</translation>
-    </message>
-    <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
 makes documents beautiful</source>
         <translation>Modelos excecionais criam documentos fantásticos</translation>
@@ -642,10 +626,6 @@ makes documents beautiful</source>
     <message>
         <source>Sign In</source>
         <translation>Iniciar sessão</translation>
-    </message>
-    <message>
-        <source>Cannot create or edit documents</source>
-        <translation>Não é possível criar nem editar documentos</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
@@ -656,10 +636,6 @@ makes documents beautiful</source>
         <translation>Obter versão Premium?</translation>
     </message>
     <message>
-        <source>Sign in User</source>
-        <translation>Utilizador com Sessão Iniciada</translation>
-    </message>
-    <message>
         <source>Free 7-day trial</source>
         <translation>Avaliação gratuita
 durante 7 dias</translation>
@@ -667,10 +643,6 @@ durante 7 dias</translation>
     <message>
         <source>I am vip/commercial user</source>
         <translation>Premium</translation>
-    </message>
-    <message>
-        <source>Only support opening and viewing local documents</source>
-        <translation>Suporte apenas para abertura e visualização de documentos locais</translation>
     </message>
     <message>
         <source>Use redeem code</source>
@@ -687,10 +659,6 @@ we will make continuous improvements</source>
 Apostamos no melhoramento contínuo</translation>
     </message>
     <message>
-        <source>Premium User</source>
-        <translation>Utilizador Premium</translation>
-    </message>
-    <message>
         <source>TextLabel</source>
         <translation>Etiqueta de Texto</translation>
     </message>
@@ -698,6 +666,62 @@ Apostamos no melhoramento contínuo</translation>
         <source>Login and use, synchronize data between computer and mobile,
 Easy mobile office.</source>
         <translation>Iniciar sessão para sincronizar dados entre o PC e o telemóvel</translation>
+    </message>
+    <message>
+        <source>Guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot use Cloud services</source>
+        <translation>Não é possível utilizar serviços Cloud</translation>
+    </message>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation>Modo só de leitura</translation>
+    </message>
+    <message>
+        <source>Create, edit, and share documents as you like</source>
+        <translation>Crie, edite e partilhe todos os documentos que quiser</translation>
+    </message>
+    <message>
+        <source>Cannot create or edit documents</source>
+        <translation>Não é possível criar nem editar documentos</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Utilizador com Sessão Iniciada</translation>
+    </message>
+    <message>
+        <source>Only support opening and viewing local documents</source>
+        <translation>Suporte apenas para abertura e visualização de documentos locais</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Utilizador Premium</translation>
+    </message>
+    <message>
+        <source>Sign in to sync data between PC and phone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get all benefits of services on both PC and phone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>High quality of Cloud services</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Massive templates make amazing documents</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1G Cloud space</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -719,16 +743,16 @@ Easy mobile office.</source>
         <translation>Tentar novamente</translation>
     </message>
     <message>
+        <source>Checking payment...</source>
+        <translation>A verificar pagamento...</translation>
+    </message>
+    <message>
         <source>Check order</source>
         <translation>Histórico de encomendas</translation>
     </message>
     <message>
         <source>How to activate?</source>
         <translation>Como faço posso ativar?</translation>
-    </message>
-    <message>
-        <source>Checking payment...</source>
-        <translation>A verificar pagamento...</translation>
     </message>
 </context>
 <context>
@@ -924,238 +948,98 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KLoginMainWindow</name>
+    <name>KNetworkErrDlg</name>
     <message>
-        <source>here</source>
-        <translation>aqui</translation>
+        <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Falha ao carregar página; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Email</source>
-        <translation>E-mail</translation>
+        <source>Retry</source>
+        <translation>Tentar Novamente</translation>
     </message>
     <message>
-        <source>Forget password</source>
-        <translation>Esqueceu-se da palavra-passe</translation>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Tempo limite de carregamento da página excedido; verifique a rede e volte a tentar</translation>
     </message>
     <message>
-        <source>Continue with Facebook</source>
-        <translation>Continuar com o Facebook</translation>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Não é possível aceder ao servidor de Contas dos WPS! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Don&apos;t have an account?</source>
-        <translation>Não tenho uma conta?</translation>
+        <source>Network error,check you network and retry</source>
+        <translation>Erro de rede; verifique a rede e volte a tentar</translation>
     </message>
     <message>
-        <source>Frequent requests. Please wait a minute and try again.</source>
-        <translation>Pedidos frequentes. Aguarde um minuto e tente de novo.</translation>
+        <source>Account information has timed out</source>
+        <translation>Tempo limite das informações de conta excedido</translation>
     </message>
     <message>
-        <source>Invalid argument</source>
-        <translation>Argumento inválido</translation>
+        <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Falha ao sincronizar informações de início de sessão; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Lots resources</source>
-        <translation>Inúmeros recursos</translation>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Ocorreu um erro; verifique a rede e volte a tentar</translation>
     </message>
     <message>
-        <source>Docs security</source>
-        <translation>Segurança dos documentos</translation>
+        <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Tempo limite de carregamento da página excedido! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>QR Code Login</source>
-        <translation>Login com código QR</translation>
+        <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Falha ao carregar página! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Online pictures, templates, shapes</source>
-        <translation>Imagens, modelos e formas online</translation>
+        <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Ocorreu um erro! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Please enter a valid email address</source>
-        <translation>Endereço de e-mail inválido. Tente de novo.</translation>
+        <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Ocorreu um erro; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Wrong password</source>
-        <translation>Palavra-passe incorreta. Verifique-a e tente de novo. Em alternativa, pode repor a palavra-passe.</translation>
+        <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Falha ao sincronizar informações de início de sessão! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Server error</source>
-        <translation>Erro de servidor</translation>
+        <source>DNS Setting Document</source>
+        <translation>Documento de definição de DNS</translation>
     </message>
     <message>
-        <source>Skip login</source>
-        <translation>Ignorar Início de Sessão</translation>
+        <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Falha ao sincronizar informações de início de sessão! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Clear record</source>
-        <translation>Limpar registo</translation>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Falha ao sincronizar informações de início de sessão; verifique a rede e volte a tentar</translation>
     </message>
     <message>
-        <source>Wechat qrcode loading...</source>
-        <translation>A carregar código QR do Wechat...</translation>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Não é possível aceder ao servidor de Contas do WPS; verifique a rede e volte a tentar</translation>
     </message>
     <message>
-        <source>There is no account for the email you entered</source>
-        <translation>Não foi encontrada nenhuma conta com esse endereço de e-mail. Verifique-o e tente de novo.</translation>
+        <source>Second verify fail</source>
+        <translation>Falha na segunda verificação</translation>
     </message>
     <message>
-        <source>Remember Me</source>
-        <translation>Memorizar-me</translation>
+        <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Erro de rede; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Unknown error!</source>
-        <translation>Erro desconhecido!</translation>
+        <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Tempo limite de carregamento da página excedido; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation>Abrimos um novo separador no browser para iniciar sessão. Deve concluir a autenticação no browser. Em seguida, irá continuar automaticamente aqui. </translation>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Não é possível aceder ao servidor de Contas do WPS; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Continue with Google</source>
-        <translation>Continuar com o Google</translation>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Falha ao carregar página; verifique a rede e volte a tentar</translation>
     </message>
     <message>
-        <source>User name can&apos;t be pure whitespace</source>
-        <translation>O nome de utilizador não pode ser composto apenas por espaços em branco</translation>
-    </message>
-    <message>
-        <source>Invalid character. Please retry.</source>
-        <translation>Caráter inválido. Tente novamente.</translation>
-    </message>
-    <message>
-        <source>Sign in with other accounts</source>
-        <translation>Iniciar sessão com outras contas</translation>
-    </message>
-    <message>
-        <source>Check docs on phone and iPad</source>
-        <translation>Verificar documentos no telemóvel e iPad</translation>
-    </message>
-    <message>
-        <source>Password can&apos;t be pure whitespace</source>
-        <translation>A palavra-passe não pode ser composta apenas por espaços em branco</translation>
-    </message>
-    <message>
-        <source>Share docs</source>
-        <translation>Partilhar documentos</translation>
-    </message>
-    <message>
-        <source>password</source>
-        <translation>palavra-passe</translation>
-    </message>
-    <message>
-        <source>No password</source>
-        <translation>Sem palavra-passe</translation>
-    </message>
-    <message>
-        <source>Unknow error happened!</source>
-        <translation>Ocorreu um erro desconhecido!</translation>
-    </message>
-    <message>
-        <source>Synchronize docs</source>
-        <translation>Sincronizar documentos</translation>
-    </message>
-    <message>
-        <source>No username</source>
-        <translation>Sem nome de utilizador</translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation>Contrato de Utilizador de Serviço Online</translation>
-    </message>
-    <message>
-        <source>Continue with Twitter</source>
-        <translation>Continuar com o Twitter</translation>
-    </message>
-    <message>
-        <source>More safety with an account</source>
-        <translation>Mais segurança com uma conta</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Iniciar sessão</translation>
-    </message>
-    <message>
-        <source>Continue with Dropbox</source>
-        <translation>Continuar com o Dropbox</translation>
-    </message>
-    <message>
-        <source>User not active</source>
-        <translation>Utilizador não ativo</translation>
-    </message>
-    <message>
-        <source>User not exists</source>
-        <translation>O utilizador não existe</translation>
-    </message>
-    <message>
-        <source>Please enter a valid email address.</source>
-        <translation>Introduza um endereço de e-mail válido.</translation>
-    </message>
-    <message>
-        <source>Waiting...</source>
-        <translation>A aguardar...</translation>
-    </message>
-    <message>
-        <source>Invalid account</source>
-        <translation>Conta inválida</translation>
-    </message>
-    <message>
-        <source>Continue with Email</source>
-        <translation>Continuar com o E-mail</translation>
-    </message>
-    <message>
-        <source>Continue with Line</source>
-        <translation>Continuar com o Line</translation>
-    </message>
-    <message>
-        <source>Share docs with others</source>
-        <translation>Partilhar documentos com outros utilizadores</translation>
-    </message>
-    <message>
-        <source>Password should be 8-16 characters. Please retry</source>
-        <translation>A palavra-passe deve ter entre 8 a 16 carateres. Tente novamente.</translation>
-    </message>
-    <message>
-        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation>Não foi possível iniciar a sessão. Volte ao início de sessão e tente novamente.</translation>
-    </message>
-    <message>
-        <source>Sign in with Google</source>
-        <translation>Iniciar sessão com o Google</translation>
-    </message>
-    <message>
-        <source>Forgot?</source>
-        <translation>Esqueceu-se?</translation>
-    </message>
-    <message>
-        <source>User is limited</source>
-        <translation>Utilizador limitado</translation>
-    </message>
-    <message>
-        <source>User suspend</source>
-        <translation>Utilizador suspenso</translation>
-    </message>
-    <message>
-        <source>Create account</source>
-        <translation>Criar conta</translation>
-    </message>
-    <message>
-        <source>User is banned</source>
-        <translation>O utilizador foi banido</translation>
-    </message>
-    <message>
-        <source>Register now</source>
-        <translation>Registar agora</translation>
-    </message>
-    <message>
-        <source>I agree to the %1</source>
-        <translation>Concordo com o %1</translation>
-    </message>
-    <message>
-        <source>Login too frequently, please retry after %1 seconds</source>
-        <translation>Demasiadas tentativas de início de sessão; volte a tentar decorridos %1 segundos</translation>
-    </message>
-    <message>
-        <source>Login with third account</source>
-        <translation>Iniciar sessão com terceira conta</translation>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Falha ao aceder ao servidor da Conta do WPS. Certifique-se de que dispõe de uma boa conectividade de rede e volte a tentar.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1269,6 +1153,249 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KLoginMainWindow</name>
+    <message>
+        <source>Email</source>
+        <translation>E-mail</translation>
+    </message>
+    <message>
+        <source>Forget password</source>
+        <translation>Esqueceu-se da palavra-passe</translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation>Continuar com o Facebook</translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation>Não tenho uma conta?</translation>
+    </message>
+    <message>
+        <source>Invalid argument</source>
+        <translation>Argumento inválido</translation>
+    </message>
+    <message>
+        <source>Lots resources</source>
+        <translation>Inúmeros recursos</translation>
+    </message>
+    <message>
+        <source>Docs security</source>
+        <translation>Segurança dos documentos</translation>
+    </message>
+    <message>
+        <source>QR Code Login</source>
+        <translation>Login com código QR</translation>
+    </message>
+    <message>
+        <source>Online pictures, templates, shapes</source>
+        <translation>Imagens, modelos e formas online</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address</source>
+        <translation>Endereço de e-mail inválido. Tente de novo.</translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation>Palavra-passe incorreta. Verifique-a e tente de novo. Em alternativa, pode repor a palavra-passe.</translation>
+    </message>
+    <message>
+        <source>Server error</source>
+        <translation>Erro de servidor</translation>
+    </message>
+    <message>
+        <source>Clear record</source>
+        <translation>Limpar registo</translation>
+    </message>
+    <message>
+        <source>Wechat qrcode loading...</source>
+        <translation>A carregar código QR do Wechat...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation>Não foi encontrada nenhuma conta com esse endereço de e-mail. Verifique-o e tente de novo.</translation>
+    </message>
+    <message>
+        <source>Remember Me</source>
+        <translation>Memorizar-me</translation>
+    </message>
+    <message>
+        <source>Unknown error!</source>
+        <translation>Erro desconhecido!</translation>
+    </message>
+    <message>
+        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
+        <translation>Abrimos um novo separador no browser para iniciar sessão. Deve concluir a autenticação no browser. Em seguida, irá continuar automaticamente aqui. </translation>
+    </message>
+    <message>
+        <source>Continue with Google</source>
+        <translation>Continuar com o Google</translation>
+    </message>
+    <message>
+        <source>User name can&apos;t be pure whitespace</source>
+        <translation>O nome de utilizador não pode ser composto apenas por espaços em branco</translation>
+    </message>
+    <message>
+        <source>Sign in with other accounts</source>
+        <translation>Iniciar sessão com outras contas</translation>
+    </message>
+    <message>
+        <source>Check docs on phone and iPad</source>
+        <translation>Verificar documentos no telemóvel e iPad</translation>
+    </message>
+    <message>
+        <source>Password can&apos;t be pure whitespace</source>
+        <translation>A palavra-passe não pode ser composta apenas por espaços em branco</translation>
+    </message>
+    <message>
+        <source>Share docs</source>
+        <translation>Partilhar documentos</translation>
+    </message>
+    <message>
+        <source>password</source>
+        <translation>palavra-passe</translation>
+    </message>
+    <message>
+        <source>No password</source>
+        <translation>Sem palavra-passe</translation>
+    </message>
+    <message>
+        <source>Unknow error happened!</source>
+        <translation>Ocorreu um erro desconhecido!</translation>
+    </message>
+    <message>
+        <source>Synchronize docs</source>
+        <translation>Sincronizar documentos</translation>
+    </message>
+    <message>
+        <source>No username</source>
+        <translation>Sem nome de utilizador</translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation>Continuar com o Twitter</translation>
+    </message>
+    <message>
+        <source>More safety with an account</source>
+        <translation>Mais segurança com uma conta</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Iniciar sessão</translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation>Continuar com o Dropbox</translation>
+    </message>
+    <message>
+        <source>User not active</source>
+        <translation>Utilizador não ativo</translation>
+    </message>
+    <message>
+        <source>User not exists</source>
+        <translation>O utilizador não existe</translation>
+    </message>
+    <message>
+        <source>Waiting...</source>
+        <translation>A aguardar...</translation>
+    </message>
+    <message>
+        <source>Invalid account</source>
+        <translation>Conta inválida</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation>Continuar com o E-mail</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Continuar com o Line</translation>
+    </message>
+    <message>
+        <source>Share docs with others</source>
+        <translation>Partilhar documentos com outros utilizadores</translation>
+    </message>
+    <message>
+        <source>Sign in with Google</source>
+        <translation>Iniciar sessão com o Google</translation>
+    </message>
+    <message>
+        <source>Forgot?</source>
+        <translation>Esqueceu-se?</translation>
+    </message>
+    <message>
+        <source>User is limited</source>
+        <translation>Utilizador limitado</translation>
+    </message>
+    <message>
+        <source>User suspend</source>
+        <translation>Utilizador suspenso</translation>
+    </message>
+    <message>
+        <source>Create account</source>
+        <translation>Criar conta</translation>
+    </message>
+    <message>
+        <source>User is banned</source>
+        <translation>O utilizador foi banido</translation>
+    </message>
+    <message>
+        <source>Register now</source>
+        <translation>Registar agora</translation>
+    </message>
+    <message>
+        <source>Login too frequently, please retry after %1 seconds</source>
+        <translation>Demasiadas tentativas de início de sessão; volte a tentar decorridos %1 segundos</translation>
+    </message>
+    <message>
+        <source>Login with third account</source>
+        <translation>Iniciar sessão com terceira conta</translation>
+    </message>
+    <message>
+        <source>here</source>
+        <translation>aqui</translation>
+    </message>
+    <message>
+        <source>Frequent requests. Please wait a minute and try again.</source>
+        <translation>Pedidos frequentes. Aguarde um minuto e tente de novo.</translation>
+    </message>
+    <message>
+        <source>Skip login</source>
+        <translation>Ignorar Início de Sessão</translation>
+    </message>
+    <message>
+        <source>Invalid character. Please retry.</source>
+        <translation>Caráter inválido. Tente novamente.</translation>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation>Contrato de Utilizador de Serviço Online</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation>Introduza um endereço de e-mail válido.</translation>
+    </message>
+    <message>
+        <source>Password should be 8-16 characters. Please retry</source>
+        <translation>A palavra-passe deve ter entre 8 a 16 carateres. Tente novamente.</translation>
+    </message>
+    <message>
+        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
+        <translation>Não foi possível iniciar a sessão. Volte ao início de sessão e tente novamente.</translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
+        <translation>Concordo com o %1</translation>
+    </message>
+    <message>
+        <source>Go back to sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue with Huawei</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>StackedWidget</name>
     <message>
         <source>Login</source>
@@ -1343,101 +1470,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KNetworkErrDlg</name>
-    <message>
-        <source>Retry</source>
-        <translation>Tentar Novamente</translation>
-    </message>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation>Tempo limite de carregamento da página excedido; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Falha ao aceder ao servidor da Conta do WPS. Certifique-se de que dispõe de uma boa conectividade de rede e volte a tentar.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Não é possível aceder ao servidor de Contas dos WPS! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation>Erro de rede; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Account information has timed out</source>
-        <translation>Tempo limite das informações de conta excedido</translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation>Ocorreu um erro; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Tempo limite de carregamento da página excedido! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Falha ao carregar página! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Ocorreu um erro! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Falha ao sincronizar informações de início de sessão! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Falha ao sincronizar informações de início de sessão! Verifique a rede e volte a tentar.&lt;br&gt;Se não existirem problemas na rede, verifique &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;as razões&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation>Falha ao sincronizar informações de início de sessão; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation>Não é possível aceder ao servidor de Contas do WPS; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Second verify fail</source>
-        <translation>Falha na segunda verificação</translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
-        <translation>Falha ao carregar página; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Falha ao carregar página; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Falha ao sincronizar informações de início de sessão; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Ocorreu um erro; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>DNS Setting Document</source>
-        <translation>Documento de definição de DNS</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Erro de rede; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Tempo limite de carregamento da página excedido; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Não é possível aceder ao servidor de Contas do WPS; &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;verifique a rede&lt;/a&gt; e volte a tentar&lt;/p&gt;</translation>
-    </message>
-</context>
-<context>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
@@ -1446,53 +1478,6 @@ Easy mobile office.</source>
     <message>
         <source>School</source>
         <translation>Escola</translation>
-    </message>
-</context>
-<context>
-    <name>KPayStateDlg</name>
-    <message>
-        <source>Please wait a few minutes</source>
-        <translation>Aguarde alguns minutos</translation>
-    </message>
-    <message>
-        <source>You can download unlimted templates.</source>
-        <translation>Pode transferir um número ilimitado de modelos.</translation>
-    </message>
-    <message>
-        <source>Payment timeout</source>
-        <translation>Tempo limite de pagamento excedido</translation>
-    </message>
-    <message>
-        <source>Get your personal customization now.</source>
-        <translation>Obtenha a sua personalização pessoal agora.</translation>
-    </message>
-    <message>
-        <source>You can use PDF conversion unlimited.</source>
-        <translation>Pode utilizar a conversão de ficheiros PDF sem limites.</translation>
-    </message>
-    <message>
-        <source>Payment successful!</source>
-        <translation>O pagamento foi efetuado com êxito!</translation>
-    </message>
-    <message>
-        <source>Fill in</source>
-        <translation>Preencher</translation>
-    </message>
-    <message>
-        <source>You have become WPS Premium user.</source>
-        <translation>A sua conta é agora WPS Premium.</translation>
-    </message>
-    <message>
-        <source>How to activate?</source>
-        <translation>Como faço posso ativar?</translation>
-    </message>
-    <message>
-        <source>Checking payment...</source>
-        <translation>A verificar pagamento...</translation>
-    </message>
-    <message>
-        <source>Payment failed</source>
-        <translation>Falha no pagamento</translation>
     </message>
 </context>
 <context>
@@ -1531,6 +1516,73 @@ Easy mobile office.</source>
     <message>
         <source>Ctrl+F5</source>
         <translation>Ctrl+F5</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>The service is timeout. Please try again directly or refer to the </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Tempo limite de carregamento da página excedido; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation>Tempo limite do serviço excedido.</translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation>Erro de rede; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation>O pedido excedeu o tempo limite. Tente novamente ao clicar no botão para atualizar antes de verificar as definições de DNS.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Ocorreu um erro; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Atualizar</translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Falha ao sincronizar informações de início de sessão; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Não é possível aceder ao servidor de Contas do WPS; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation>instrução de configuração do DNS</translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Falha ao carregar página; verifique a rede e volte a tentar</translation>
+    </message>
+    <message>
+        <source>Skip login</source>
+        <translation>Ignorar Início de Sessão</translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation>Diagnosticar rede</translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation> ou leia a </translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
+        <translation>Tempo limite do pedido excedido. Clique em Atualizar e volte a tentar.</translation>
     </message>
 </context>
 <context>
@@ -1933,16 +1985,16 @@ Easy mobile office.</source>
         <translation>Falha ao obter utilizadores</translation>
     </message>
     <message>
-        <source>request failed, please retry later.</source>
-        <translation>Falha ao obter informações a partir do servidor. Volte a tentar mais tarde.</translation>
-    </message>
-    <message>
         <source>Select user failed</source>
         <translation>Falha ao selecionar utilizadores</translation>
     </message>
     <message>
         <source>verify failed</source>
         <translation>falha na verificação</translation>
+    </message>
+    <message>
+        <source>request failed, please retry later.</source>
+        <translation>Falha ao obter informações a partir do servidor. Volte a tentar mais tarde.</translation>
     </message>
 </context>
 <context>
@@ -2077,92 +2129,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KNetworkDnsErrDlg</name>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation>Tempo limite de carregamento da página excedido; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Skip login</source>
-        <translation>Ignorar Início de Sessão</translation>
-    </message>
-    <message>
-        <source>Service timeout</source>
-        <translation>Tempo limite do serviço excedido.</translation>
-    </message>
-    <message>
-        <source>Diagnosing tool</source>
-        <translation>Diagnosticar rede</translation>
-    </message>
-    <message>
-        <source> or refer to the </source>
-        <translation> ou leia a </translation>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation>Erro de rede; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation>O pedido excedeu o tempo limite. Tente novamente ao clicar no botão para atualizar antes de verificar as definições de DNS.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancelar</translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation>Ocorreu um erro; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation>Tempo limite do pedido excedido. Clique em Atualizar e volte a tentar.</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Atualizar</translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation>Falha ao sincronizar informações de início de sessão; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation>Não é possível aceder ao servidor de Contas do WPS; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>DNS Settings document</source>
-        <translation>instrução de configuração do DNS</translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
-        <translation>Falha ao carregar página; verifique a rede e volte a tentar</translation>
-    </message>
-    <message>
-        <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KFeedbackPopupWidget</name>
-    <message>
-        <source>Forgot the password</source>
-        <translation>Esqueci-me da palavra-passe</translation>
-    </message>
-    <message>
-        <source>Sign-in failed</source>
-        <translation>Falha ao iniciar sessão</translation>
-    </message>
-    <message>
-        <source>Other questions or feedback</source>
-        <translation>Outros problemas ou sugestões</translation>
-    </message>
-    <message>
-        <source>Select your question type:</source>
-        <translation>Selecione o tipo de pergunta:</translation>
-    </message>
-</context>
-<context>
     <name>HomepageBottomRightWidget</name>
     <message>
         <source>Skip login</source>
@@ -2186,21 +2152,6 @@ Easy mobile office.</source>
     <message>
         <source>Input activation code</source>
         <translation>Introduzir Código de Ativação</translation>
-    </message>
-</context>
-<context>
-    <name>KNetworkOtherErrDlg</name>
-    <message>
-        <source>Skip login</source>
-        <translation>Ignorar Início de Sessão</translation>
-    </message>
-    <message>
-        <source>Login failed</source>
-        <translation>Falha no início de sessão</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Atualizar</translation>
     </message>
 </context>
 <context>
@@ -2249,21 +2200,6 @@ Easy mobile office.</source>
     <message>
         <source>TextLabel</source>
         <translation>Etiqueta de Texto</translation>
-    </message>
-</context>
-<context>
-    <name>KGuidePaneForTopcActivity</name>
-    <message>
-        <source>Sign in with WPS account to get gifts.</source>
-        <translation>Inicie sessão com a conta WPS para receber presentes.</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Iniciar sessão</translation>
-    </message>
-    <message>
-        <source>Gifts for New Users on PC</source>
-        <translation>Presentes para novos utilizadores em computadores PC</translation>
     </message>
 </context>
 <context>
@@ -2399,6 +2335,102 @@ Easy mobile office.</source>
     <message>
         <source>Select other account</source>
         <translation>Selecionar outra conta</translation>
+    </message>
+</context>
+<context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation>Aguarde alguns minutos</translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation>Pode transferir um número ilimitado de modelos.</translation>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation>Tempo limite de pagamento excedido</translation>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation>Obtenha a sua personalização pessoal agora.</translation>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation>Pode utilizar a conversão de ficheiros PDF sem limites.</translation>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation>O pagamento foi efetuado com êxito!</translation>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation>Preencher</translation>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation>A sua conta é agora WPS Premium.</translation>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation>Como faço posso ativar?</translation>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation>A verificar pagamento...</translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation>Falha no pagamento</translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation>Esqueci-me da palavra-passe</translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation>Falha ao iniciar sessão</translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation>Outros problemas ou sugestões</translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation>Selecione o tipo de pergunta:</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkOtherErrDlg</name>
+    <message>
+        <source>Skip login</source>
+        <translation>Ignorar Início de Sessão</translation>
+    </message>
+    <message>
+        <source>Login failed</source>
+        <translation>Falha no início de sessão</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Atualizar</translation>
+    </message>
+</context>
+<context>
+    <name>KGuidePaneForTopcActivity</name>
+    <message>
+        <source>Sign in with WPS account to get gifts.</source>
+        <translation>Inicie sessão com a conta WPS para receber presentes.</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Iniciar sessão</translation>
+    </message>
+    <message>
+        <source>Gifts for New Users on PC</source>
+        <translation>Presentes para novos utilizadores em computadores PC</translation>
     </message>
 </context>
 </TS>
