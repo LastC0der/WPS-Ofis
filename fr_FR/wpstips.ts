@@ -3860,5 +3860,21 @@ Cliquez sur la flèche pour sélectionner une autre couleur de surbrillance.</tr
         <source>ShowTocNavigationPane.content</source>
         <translation>Afficher ou masquer la navigation dans le volet.</translation>
     </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
