@@ -49,6 +49,10 @@
         <source>&amp;Substituted font:</source>
         <translation>Замененный шрифт(&amp;S):</translation>
     </message>
+    <message>
+        <source>more online fonts</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
@@ -510,10 +514,6 @@ For example, 1,3,5-9.</source>
         <translation>Позиция эскизов и структур</translation>
     </message>
     <message>
-        <source>Keep cache for</source>
-        <translation>Хранить только самые последние элементы</translation>
-    </message>
-    <message>
         <source>Cloud backup</source>
         <translation>Облачная резервная копия</translation>
     </message>
@@ -730,10 +730,6 @@ For example, 1,3,5-9.</source>
         <translation>Режим резервного копирования:</translation>
     </message>
     <message>
-        <source>Keep files cache</source>
-        <translation>Период хранения</translation>
-    </message>
-    <message>
         <source>Create &amp;backup file at the first save</source>
         <translation>Создать &amp;резервную копию файла при первом открытии</translation>
     </message>
@@ -784,10 +780,6 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Apply Auto&amp;Layout to new objects.</source>
         <translation>Применить &amp;автомакет к новым объектам.</translation>
-    </message>
-    <message>
-        <source>Fix &amp;interval</source>
-        <translation>Периодичность запланированного резервного копирования (&amp;П)</translation>
     </message>
     <message>
         <source>days (Range 7-120)</source>
@@ -874,10 +866,6 @@ For example, 1,3,5-9.</source>
         <translation>&amp;Дополнительно</translation>
     </message>
     <message>
-        <source>Default &amp;insert images of original size</source>
-        <translation>По умолчанию вставлять изображения в исходном размере</translation>
-    </message>
-    <message>
         <source>Enable &amp;timing backup</source>
         <translation>Включить резервное копирование &amp;по времени</translation>
     </message>
@@ -896,10 +884,6 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Max U&amp;ndo/Redo:</source>
         <translation>Отменить/повторить действия:</translation>
-    </message>
-    <message>
-        <source>&amp;entries</source>
-        <translation>&amp;записи</translation>
     </message>
     <message>
         <source>&amp;Open backup file</source>
@@ -926,10 +910,6 @@ For example, 1,3,5-9.</source>
         <translation>Показывать &amp;окна на панели задач</translation>
     </message>
     <message>
-        <source>Not Read Compa&amp;tibility Data</source>
-        <translation>Не читать данные о совместимости</translation>
-    </message>
-    <message>
         <source>Backup Center</source>
         <translation>Центр резервного копирования</translation>
     </message>
@@ -940,10 +920,6 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Enable &amp;hardware graphics acceleration, effecitve after restart WPS</source>
         <translation>Включить аппаратное ускорение графики. Изменения вступят в силу после перезапуска WPS Office.</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation>Расположение резервной копии:</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -1056,6 +1032,34 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Le&amp;ft of slide</source>
         <translation>С&amp;лева от слайда</translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Хранить только самые последние элементы</translation>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation>Период хранения</translation>
+    </message>
+    <message>
+        <source>Fix &amp;interval</source>
+        <translation>Периодичность запланированного резервного копирования (&amp;П)</translation>
+    </message>
+    <message>
+        <source>Default &amp;insert images of original size</source>
+        <translation>По умолчанию вставлять изображения в исходном размере</translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation>&amp;записи</translation>
+    </message>
+    <message>
+        <source>Not Read Compa&amp;tibility Data</source>
+        <translation>Не читать данные о совместимости</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Расположение резервной копии:</translation>
     </message>
     <message>
         <source>Disable &amp;hardware graphics acceleration, effecitve after restart</source>
@@ -1701,12 +1705,12 @@ For example, 1,3,5-9.</source>
         <translation>С&amp;лайды:</translation>
     </message>
     <message>
-        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
-        <translation>После настройки результатом будет защищенный PDF-документ в Интернете. Откройте его с помощью версии PDF Security.</translation>
-    </message>
-    <message>
         <source>Export PDF File</source>
         <translation>Преобразовать в файл PDF</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation>После настройки результатом будет защищенный PDF-документ в Интернете. Откройте его с помощью версии PDF Security.</translation>
     </message>
 </context>
 <context>
@@ -1866,10 +1870,6 @@ For example, 1,3,5-9.</source>
         <translation>Линейка</translation>
     </message>
     <message>
-        <source>Draw outter borders</source>
-        <translation>Нарисовать внешнюю границу</translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint Presentation Templates(*.potx; *.potm)</source>
         <translation>Шаблоны презентаций Microsoft PowerPoint (*.potx; *.potm)</translation>
     </message>
@@ -1982,10 +1982,6 @@ For example, 1,3,5-9.</source>
         <translation>Удалить интеллектуальную анимацию</translation>
     </message>
     <message>
-        <source>Cannot get outline from this file. There might be error in its data.</source>
-        <translation>Не удалось получить структуру из этого файла, так как файл поврежден или имеет неправильный формат.</translation>
-    </message>
-    <message>
         <source>Notes Layout</source>
         <translation>Разметка заметок</translation>
     </message>
@@ -2064,10 +2060,6 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Insert Media</source>
         <translation>Вставить мультимедиа</translation>
-    </message>
-    <message>
-        <source>Insert Outline</source>
-        <translation>Вставить структуру</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -2383,10 +2375,6 @@ Check</source>
         <translation>Формат переносимой сетевой графики PNG (*.png)</translation>
     </message>
     <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</source>
-        <translation>Формат Presentation/PowerPoint (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</translation>
-    </message>
-    <message>
         <source>Copy of </source>
         <translation>Копия </translation>
     </message>
@@ -2398,10 +2386,6 @@ Check</source>
         <source>Delete Comment</source>
         <translation>Удалить 
 примечание</translation>
-    </message>
-    <message>
-        <source>Paste Animation</source>
-        <translation>Вставить анимацию</translation>
     </message>
     <message>
         <source>Master Layout...</source>
@@ -2436,10 +2420,6 @@ Check</source>
         <translation>Рисунок</translation>
     </message>
     <message>
-        <source>/WPS Capture/WPS Capture</source>
-        <translation>/WPS Speech Recording/WPS Speech Recording</translation>
-    </message>
-    <message>
         <source>Table Style</source>
         <translation>Стиль таблицы</translation>
     </message>
@@ -2458,10 +2438,6 @@ Check</source>
     <message>
         <source>Set Multipicture Rotation</source>
         <translation>Задать поворот нескольких изображений</translation>
-    </message>
-    <message>
-        <source>Erase Table</source>
-        <translation>Стереть Spreadsheet</translation>
     </message>
     <message>
         <source>Pause Audio</source>
@@ -2522,12 +2498,6 @@ Check</source>
     <message>
         <source>Distribute Rows Evenly</source>
         <translation>Выровнять высоту строк</translation>
-    </message>
-    <message>
-        <source>When saved as a text file, only the text content in the slide will be retained, and other content will be lost.
-Are you sure you want to save it in this format ?</source>
-        <translation>В случае сохранения как текстового файла будет сохранено только текстовое содержимое слайдов.
-Действительно сохранить в этом формате?</translation>
     </message>
     <message>
         <source>Media Files(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
@@ -2667,10 +2637,6 @@ Are you sure you want to save it in this format ?</source>
         <translation>Подстрочный</translation>
     </message>
     <message>
-        <source>All Outline(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</source>
-        <translation>Все структуры (*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</translation>
-    </message>
-    <message>
         <source>Insert New Title Master</source>
         <translation>Вставить новый образец заголовков</translation>
     </message>
@@ -2767,10 +2733,6 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Save as Picture</source>
         <translation>Сохранить как рисунок</translation>
-    </message>
-    <message>
-        <source>Text content(*.txt)|*.txt</source>
-        <translation>Текстовый файл (*.txt)|*.txt</translation>
     </message>
     <message>
         <source>Open Web Media Video(*.webm)|*.webm</source>
@@ -2894,10 +2856,6 @@ Are you sure you want to save it in this format ?</source>
         <source>Set Up Show</source>
         <translation>Настройка 
 презентации</translation>
-    </message>
-    <message>
-        <source>WuKuang Core Encrypted Presentation Files(*.hppt)|*.hppt</source>
-        <translation>Основной формат файла с шифрованием (*.hppt)|*.hppt</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.
@@ -3024,10 +2982,6 @@ Are you sure you want to save it in this format ?</source>
         <translation>Файлы отдельной веб-страницы(*.mht; *.mhtml)</translation>
     </message>
     <message>
-        <source>WuKuang Normal Encrypted Presentation Files(*.pppt)|*.pppt</source>
-        <translation>Обычный формат файла с шифрованием (*.pppt)|*.pppt</translation>
-    </message>
-    <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
         <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
     </message>
@@ -3144,10 +3098,6 @@ Are you sure you want to save it in this format ?</source>
         <translation>Этот файл использует макрос %s. Перейти в среду %s?</translation>
     </message>
     <message>
-        <source>Microsoft PowerPoint XML Presentation(*.xml)</source>
-        <translation>Microsoft PowerPoint XML Presentation (*.xml)</translation>
-    </message>
-    <message>
         <source>New Blank Presentation</source>
         <comment>WP_NewBlankFileHint</comment>
         <translation>Создать пустую презентацию</translation>
@@ -3200,6 +3150,137 @@ Are you sure you want to save it in this format ?</source>
         <source>Delete Master</source>
         <translation>Удалить образец</translation>
     </message>
+    <message>
+        <source>Draw outter borders</source>
+        <translation>Нарисовать внешнюю границу</translation>
+    </message>
+    <message>
+        <source>Cannot get outline from this file. There might be error in its data.</source>
+        <translation>Не удалось получить структуру из этого файла, так как файл поврежден или имеет неправильный формат.</translation>
+    </message>
+    <message>
+        <source>Insert Outline</source>
+        <translation>Вставить структуру</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</source>
+        <translation>Формат Presentation/PowerPoint (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</translation>
+    </message>
+    <message>
+        <source>Paste Animation</source>
+        <translation>Вставить анимацию</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <translation>/WPS Speech Recording/WPS Speech Recording</translation>
+    </message>
+    <message>
+        <source>Erase Table</source>
+        <translation>Стереть Spreadsheet</translation>
+    </message>
+    <message>
+        <source>When saved as a text file, only the text content in the slide will be retained, and other content will be lost.
+Are you sure you want to save it in this format ?</source>
+        <translation>В случае сохранения как текстового файла будет сохранено только текстовое содержимое слайдов.
+Действительно сохранить в этом формате?</translation>
+    </message>
+    <message>
+        <source>All Outline(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</source>
+        <translation>Все структуры (*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</translation>
+    </message>
+    <message>
+        <source>Text content(*.txt)|*.txt</source>
+        <translation>Текстовый файл (*.txt)|*.txt</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Presentation Files(*.hppt)|*.hppt</source>
+        <translation>Основной формат файла с шифрованием (*.hppt)|*.hppt</translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Presentation Files(*.pppt)|*.pppt</source>
+        <translation>Обычный формат файла с шифрованием (*.pppt)|*.pppt</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint XML Presentation(*.xml)</source>
+        <translation>Microsoft PowerPoint XML Presentation (*.xml)</translation>
+    </message>
+    <message>
+        <source>4 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1 Slide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2 Slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>3 Slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>9 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>6 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Smartart Graphic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>9 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>4 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Full Slide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>6 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Beautify Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Drag-and-Drop</source>
+        <comment>WpDRAGDESIGN</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notes Master Layout</source>
+        <comment>WpNOTESMASTERLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>DgDesc_ClearTextBox</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Handout Master Layout</source>
+        <comment>WpHANDOUTMASTERLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notes Layout</source>
+        <comment>WpNOTESLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgEquationOptions</name>
@@ -3220,24 +3301,12 @@ Are you sure you want to save it in this format ?</source>
         <translation>Дублировать операторы для вычитания как:</translation>
     </message>
     <message>
-        <source>Copy MathML to the clipboard as &amp;plain text</source>
-        <translation>Копировать MathML в буфер обмена как обычный текст (&amp;П)</translation>
-    </message>
-    <message>
-        <source>Default &amp;font for math regions:</source>
-        <translation>Шрифт по у&amp;молчанию для областей формул:</translation>
-    </message>
-    <message>
         <source>Before</source>
         <translation>До</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>B&amp;reak lines with binary and relational operators:</source>
-        <translation>Р&amp;азрывать строки бинарными операторами и операторами отношений:</translation>
     </message>
     <message>
         <source>When copying an equation,</source>
@@ -3248,16 +3317,8 @@ Are you sure you want to save it in this format ?</source>
         <translation>Дублировать</translation>
     </message>
     <message>
-        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
-        <translation>Копировать линейный формат в буфер обмена как обычный текст (&amp;Н)</translation>
-    </message>
-    <message>
         <source>Automatically convert expressions to professional format</source>
         <translation>Автоматическое преобразование выражений в профессиональный формат</translation>
-    </message>
-    <message>
-        <source>Reduce si&amp;ze of nested fractions in display equations</source>
-        <translation>Уменьшить разм&amp;ер вложенных простых дробей в отображаемых формулах</translation>
     </message>
     <message>
         <source>General</source>
@@ -3266,6 +3327,26 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Equation Options</source>
         <translation>Параметры формул</translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation>Копировать MathML в буфер обмена как обычный текст (&amp;П)</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>Шрифт по у&amp;молчанию для областей формул:</translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>Р&amp;азрывать строки бинарными операторами и операторами отношений:</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation>Копировать линейный формат в буфер обмена как обычный текст (&amp;Н)</translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation>Уменьшить разм&amp;ер вложенных простых дробей в отображаемых формулах</translation>
     </message>
 </context>
 <context>
@@ -3836,10 +3917,6 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Follow Background Scheme Color</source>
         <translation>Цвет фона</translation>
-    </message>
-    <message>
-        <source>%d seconds(Extremely Slow)</source>
-        <translation>%d секунд (чрезвычайно медленно)</translation>
     </message>
     <message>
         <source>Pinwheel</source>
@@ -5428,10 +5505,6 @@ Are you sure you want to save it in this format ?</source>
         <translation>Вправо по спирали</translation>
     </message>
     <message>
-        <source>Extremely Slow</source>
-        <translation>чрезвычайно медленн</translation>
-    </message>
-    <message>
         <source>Float</source>
         <comment>wpp_sAnimExitEffectTextFloat</comment>
         <translation>Плавающий</translation>
@@ -5925,6 +5998,14 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <source>From Bottom-R&amp;ight</source>
         <translation>Снизу-с&amp;права</translation>
     </message>
+    <message>
+        <source>%d seconds(Extremely Slow)</source>
+        <translation>%d секунд (чрезвычайно медленно)</translation>
+    </message>
+    <message>
+        <source>Extremely Slow</source>
+        <translation>чрезвычайно медленн</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSlideShowHelp</name>
@@ -6102,10 +6183,6 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Body: Ascend</source>
         <translation>Слайд: проявление снизу</translation>
-    </message>
-    <message>
-        <source>Frame From Up</source>
-        <translation>Ввод сверху</translation>
     </message>
     <message>
         <source>*.dpt</source>
@@ -6420,20 +6497,6 @@ Body: Peek In</source>
         <translation>Только заголовок</translation>
     </message>
     <message>
-        <source>The following features cannot be saved in macro-free workbooks:
- · VB project
- · JS project
-To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
-To continue saving as a macro-free workbook, click Yes.
-</source>
-        <translation>Следующие файлы нельзя сохранить в документе без макросов:
- · проект VB;
- · проект JS.
-Для сохранения файла с такими особенностями нажмите &quot;Нет&quot;, чтобы вернуться в диалоговое окно &quot;Сохранить как&quot;, затем выберите файл с поддержкой макросов в раскрывающемся списке &quot;Тип файла&quot;.
-Сохранить как документ без макросов?
-</translation>
-    </message>
-    <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE_TIP</comment>
         <translation>Без анимации</translation>
@@ -6633,22 +6696,12 @@ For this to work, keep the capitalization the same.</source>
         <translation>Преобразование упрощенного китайского в традиционный китайский...</translation>
     </message>
     <message>
-        <source>
- Do you continue to save it as HTML format?</source>
-        <translation>
-Сохранить файл в формате HTML?</translation>
-    </message>
-    <message>
         <source>Comb Horizontal</source>
         <translation>Объединение по горизонтали</translation>
     </message>
     <message>
         <source>The contents you pasted contains tabs. Do you want to paste tabs as a table?</source>
         <translation>Содержимое вставки содержит вкладки. Хотите вставить вкладки в виде таблицы?</translation>
-    </message>
-    <message>
-        <source>Plane Left</source>
-        <translation>Вылет слева</translation>
     </message>
     <message>
         <source>WPS Presentation Slide Show - </source>
@@ -6926,10 +6979,6 @@ Body: Thread</source>
         <translation>Не используется ни одного слайда</translation>
     </message>
     <message>
-        <source>Formulas will become uneditable pictures in this version of WPS Presentation (slide %1)</source>
-        <translation>Формулы будут преобразованы в нередактируемые изображения в этой версии WPS Presentation. (Слайд %1)</translation>
-    </message>
-    <message>
         <source>Title: Brush On Underline</source>
         <translation>Заголовок: подчеркивание</translation>
     </message>
@@ -7049,20 +7098,12 @@ Body: Descend</source>
         <translation>Титульный слайд</translation>
     </message>
     <message>
-        <source>Plane Right</source>
-        <translation>Вылет справа</translation>
-    </message>
-    <message>
         <source>Content Layouts</source>
         <translation>Макеты содержимого</translation>
     </message>
     <message>
         <source>Text Layouts</source>
         <translation>Макеты текста</translation>
-    </message>
-    <message>
-        <source>Cube From Right</source>
-        <translation>Ввод справа</translation>
     </message>
     <message>
         <source>Explosion</source>
@@ -7297,10 +7338,6 @@ Fifth level</source>
     <message>
         <source>Print: Page %d of %d</source>
         <translation>Печать страницы %d из %d</translation>
-    </message>
-    <message>
-        <source>Cube From Up</source>
-        <translation>Ввод сверху</translation>
     </message>
     <message>
         <source>Convert to Shapes</source>
@@ -7687,14 +7724,6 @@ Body: Dissolve In</source>
         <translation>Заголовок и объект над текстом</translation>
     </message>
     <message>
-        <source>The following features of your presentation are not going to be saved in HTML format:
-
-</source>
-        <translation>Следующие особенности презентации нельзя сохранить в формате HTML:
-
-</translation>
-    </message>
-    <message>
         <source>Title: Zoom
 Body: Zoom</source>
         <translation>Заголовок: масштаб
@@ -7765,10 +7794,6 @@ Body: Zoom</source>
     <message>
         <source>Used in This Presentation</source>
         <translation>Использованные в презентации</translation>
-    </message>
-    <message>
-        <source>Frame From Right</source>
-        <translation>Ввод справа</translation>
     </message>
     <message>
         <source>Blinds Horizontal</source>
@@ -7973,12 +7998,6 @@ Body: Zoom</source>
         <translation>Уголки влево-вниз</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot open this file, because the password is not correct.
-</source>
-        <translation>Неправильный пароль. WPS Presentation не удалось открыть этот файл.
-</translation>
-    </message>
-    <message>
         <source>pleasant garden</source>
         <translation>приятный сад</translation>
     </message>
@@ -8038,14 +8057,6 @@ Body: Fly In</source>
         <translation>Замещающий текст</translation>
     </message>
     <message>
-        <source>Frame From Down</source>
-        <translation>Ввод снизу</translation>
-    </message>
-    <message>
-        <source>Frame From Left</source>
-        <translation>Ввод слева</translation>
-    </message>
-    <message>
         <source>Chart Placeholder</source>
         <translation>Замещающая диаграмма</translation>
     </message>
@@ -8098,10 +8109,6 @@ Body: Spinner</source>
         <translation>Темный стиль 2 </translation>
     </message>
     <message>
-        <source>Modify Theme</source>
-        <translation>Изменить тему</translation>
-    </message>
-    <message>
         <source>Fade In And Dim</source>
         <translation>Появление и затемнение</translation>
     </message>
@@ -8125,14 +8132,6 @@ Body: Spinner</source>
     <message>
         <source>Custom Design</source>
         <translation>Специальное оформление</translation>
-    </message>
-    <message>
-        <source>Cube From Down</source>
-        <translation>Ввод снизу</translation>
-    </message>
-    <message>
-        <source>Cube From Left</source>
-        <translation>Ввод слева</translation>
     </message>
     <message>
         <source>Click to edit Master subtitle style</source>
@@ -8303,6 +8302,151 @@ Body: Fade</source>
     <message>
         <source> The Slide Master: </source>
         <translation> Образец слайда: </translation>
+    </message>
+    <message>
+        <source>Frame From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+ · JS project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <translation>Следующие файлы нельзя сохранить в документе без макросов:
+ · проект VB;
+ · проект JS.
+Для сохранения файла с такими особенностями нажмите &quot;Нет&quot;, чтобы вернуться в диалоговое окно &quot;Сохранить как&quot;, затем выберите файл с поддержкой макросов в раскрывающемся списке &quot;Тип файла&quot;.
+Сохранить как документ без макросов?
+</translation>
+    </message>
+    <message>
+        <source>
+ Do you continue to save it as HTML format?</source>
+        <translation>
+Сохранить файл в формате HTML?</translation>
+    </message>
+    <message>
+        <source>Plane Left</source>
+        <translation>Вылет слева</translation>
+    </message>
+    <message>
+        <source>Formulas will become uneditable pictures in this version of WPS Presentation (slide %1)</source>
+        <translation>Формулы будут преобразованы в нередактируемые изображения в этой версии WPS Presentation. (Слайд %1)</translation>
+    </message>
+    <message>
+        <source>Plane Right</source>
+        <translation>Вылет справа</translation>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>The following features of your presentation are not going to be saved in HTML format:
+
+</source>
+        <translation>Следующие особенности презентации нельзя сохранить в формате HTML:
+
+</translation>
+    </message>
+    <message>
+        <source>Frame From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the password is not correct.
+</source>
+        <translation>Неправильный пароль. WPS Presentation не удалось открыть этот файл.
+</translation>
+    </message>
+    <message>
+        <source>Frame From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation>Ввод слева</translation>
+    </message>
+    <message>
+        <source>Modify Theme</source>
+        <translation>Изменить тему</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation>Ввод слева</translation>
+    </message>
+    <message>
+        <source>Video Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move objects and individual words.
+
+For this to work, keep the capitalization the same.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Downloading required %1 . You can close this dialog box without affecting the download.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move objects and individual letters.
+
+For this work, keep the capitalization the same.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some transitions in this version of WPS Presentation will be lost (slide %1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move entire objects(like pictures and shape).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Animation</source>
+        <comment>WP_ANIMATIONTYPE_NONE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Title: Fade
+Body: Fade</source>
+        <comment>WP_ANIMATIONTYPE_FADEDWIPE_TIP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Body: Appear</source>
+        <comment>WP_ANIMATIONTYPE_APPEARANDDIM_TIP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to edit Master title style</source>
+        <comment>WP_TEXT_OF_CENTERTITLE_IN_MASTER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cut</source>
+        <comment>WP_CUTSLIDE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <comment>WP_TP_ANIMATIONSCHEMECATEGORY1</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9195,10 +9339,6 @@ Body: Fade</source>
         <translation>Тень</translation>
     </message>
     <message>
-        <source>docer vip area</source>
-        <translation>область docer vip</translation>
-    </message>
-    <message>
         <source>Rotate Left 90°</source>
         <translation>Повернуть влево на 90°</translation>
     </message>
@@ -9414,6 +9554,10 @@ Body: Fade</source>
     <message>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
+    </message>
+    <message>
+        <source>docer vip area</source>
+        <translation>область docer vip</translation>
     </message>
 </context>
 <context>
@@ -10368,10 +10512,6 @@ Body: Fade</source>
         <translation>Повторно использовать слайды</translation>
     </message>
     <message>
-        <source>Docer Bullet</source>
-        <translation>Шаблон маркированных списков</translation>
-    </message>
-    <message>
         <source>Align</source>
         <translation>Выровнять</translation>
     </message>
@@ -10536,10 +10676,6 @@ Slide</source>
     <message>
         <source>More Font Colors</source>
         <translation>Другие цвета шрифта</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Вертикальная</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -11004,6 +11140,14 @@ Effects</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Вертикальная</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_texttool</name>
@@ -11070,10 +11214,6 @@ Effects</source>
     <message>
         <source>Quick Styles</source>
         <translation>Быстрые стили</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Шаблон маркированных списков</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -11150,10 +11290,6 @@ Effects</source>
     <message>
         <source>Thai Distributed</source>
         <translation>Тайский распределенный</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Вертикальный</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -11405,6 +11541,14 @@ Effects</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Вертикальный</translation>
+    </message>
 </context>
 <context>
     <name>classics.formatting</name>
@@ -11479,10 +11623,6 @@ Effects</source>
     <message>
         <source>More Font Colors</source>
         <translation>Другие цвета шрифта</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>По вертикали</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -11568,6 +11708,10 @@ Effects</source>
     <message>
         <source>Rotate all text 270°</source>
         <translation>Повернуть на 270°</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>По вертикали</translation>
     </message>
 </context>
 <context>
@@ -11866,10 +12010,6 @@ Effects</source>
         <translation>Неограниченный доступ</translation>
     </message>
     <message>
-        <source>Picture background and mask</source>
-        <translation>Шаблон фонового изображения</translation>
-    </message>
-    <message>
         <source>Format Painter</source>
         <translation>Формат по образцу</translation>
     </message>
@@ -12150,10 +12290,6 @@ Effects</source>
     <message>
         <source>Edit Sound Object</source>
         <translation>Изменить звуковой объект</translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation>Извлечь текст из изображения</translation>
     </message>
     <message>
         <source>AlignCenter</source>
@@ -12487,14 +12623,6 @@ Add-Ins</source>
     <message>
         <source>Normal</source>
         <translation>Обычный</translation>
-    </message>
-    <message>
-        <source>Increase Argument Size</source>
-        <translation>Увеличить размер аргумента</translation>
-    </message>
-    <message>
-        <source>Decrease Argument Size</source>
-        <translation>Уменьшить размер аргумента</translation>
     </message>
     <message>
         <source>Object</source>
@@ -13097,10 +13225,6 @@ Add-Ins</source>
         <translation>Фильмы и звук</translation>
     </message>
     <message>
-        <source>Centered as group</source>
-        <translation>По центру как группу</translation>
-    </message>
-    <message>
         <source>Sound from File</source>
         <translation>Звук из файла</translation>
     </message>
@@ -13125,10 +13249,6 @@ Template</source>
     <message>
         <source>Format DataLabel</source>
         <translation>Формат подписей данных</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Export</source>
-        <translation>Экспорт</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
@@ -13272,16 +13392,8 @@ Template</source>
         <translation>По центру</translation>
     </message>
     <message>
-        <source>LaserPen and SpotLight</source>
-        <translation>Прожектор Presentation</translation>
-    </message>
-    <message>
         <source>Underline</source>
         <translation>Подчеркнутый</translation>
-    </message>
-    <message>
-        <source>Stretch N-ary character</source>
-        <translation>Растяжение N-арного знака</translation>
     </message>
     <message>
         <source>Format Category Label</source>
@@ -13308,20 +13420,12 @@ Template</source>
         <translation>Добавить промежуточные линии сетки</translation>
     </message>
     <message>
-        <source>Right Format Painter Popup</source>
-        <translation>Постоянное форматирование по образцу</translation>
-    </message>
-    <message>
         <source>View Historical Backup</source>
         <translation>Просмотр журнала архивации</translation>
     </message>
     <message>
         <source>AutoPoint</source>
         <translation>Автоузел</translation>
-    </message>
-    <message>
-        <source>Remove Superscript</source>
-        <translation>Удалить надстрочный знак</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
@@ -13617,14 +13721,6 @@ Master</source>
         <translation>Преобразоватьt...</translation>
     </message>
     <message>
-        <source>Save as Video</source>
-        <translation>Сохранить как видео</translation>
-    </message>
-    <message>
-        <source>Webshape Flush</source>
-        <translation>Обновить</translation>
-    </message>
-    <message>
         <source>Remove Section And Slides</source>
         <translation>Удалить раздел и слайды</translation>
     </message>
@@ -13677,10 +13773,6 @@ Master</source>
         <translation>Заливка изображения</translation>
     </message>
     <message>
-        <source>Picture Mask</source>
-        <translation>Фоновое изображение</translation>
-    </message>
-    <message>
         <source>Two Period Moving Average</source>
         <translation>Линейная фильтрация</translation>
     </message>
@@ -13707,10 +13799,6 @@ Master</source>
     <message>
         <source>Ink Color</source>
         <translation>Цвет чернил</translation>
-    </message>
-    <message>
-        <source>Keep Picture Only</source>
-        <translation>Вставить как рисунок</translation>
     </message>
     <message>
         <source>Left Hang</source>
@@ -13750,28 +13838,8 @@ Master</source>
         <translation>Слева</translation>
     </message>
     <message>
-        <source>Ds Webshape Set</source>
-        <translation>Параметры</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Del</source>
-        <translation>Удалить</translation>
-    </message>
-    <message>
-        <source>Webshape Del</source>
-        <translation>Удалить</translation>
-    </message>
-    <message>
         <source>View File Safe</source>
         <translation>Просмотр хранилища файлов</translation>
-    </message>
-    <message>
-        <source>Webshape Min</source>
-        <translation>Восстановить</translation>
-    </message>
-    <message>
-        <source>Webshape Max</source>
-        <translation>Развернуть</translation>
     </message>
     <message>
         <source>Insert Row Before</source>
@@ -13932,10 +14000,6 @@ Master</source>
         <translation>Мои подписки</translation>
     </message>
     <message>
-        <source>One-click combing of content to make writing more organized</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Object Menu List</source>
         <translation>Список объектов меню</translation>
     </message>
@@ -13983,10 +14047,6 @@ Master</source>
     <message>
         <source>Line Spacing</source>
         <translation>Интервал</translation>
-    </message>
-    <message>
-        <source>Remove Subscript</source>
-        <translation>Удалить подстрочный знак</translation>
     </message>
     <message>
         <source>Trim Sound</source>
@@ -14082,6 +14142,90 @@ Master</source>
         <source>Delete Master</source>
         <translation>Удалить образец</translation>
     </message>
+    <message>
+        <source>Picture background and mask</source>
+        <translation>Шаблон фонового изображения</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation>Извлечь текст из изображения</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation>Увеличить размер аргумента</translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation>Уменьшить размер аргумента</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>По центру как группу</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>LaserPen and SpotLight</source>
+        <translation>Прожектор Presentation</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation>Растяжение N-арного знака</translation>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation>Постоянное форматирование по образцу</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation>Удалить надстрочный знак</translation>
+    </message>
+    <message>
+        <source>Save as Video</source>
+        <translation>Сохранить как видео</translation>
+    </message>
+    <message>
+        <source>Webshape Flush</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation>Фоновое изображение</translation>
+    </message>
+    <message>
+        <source>Keep Picture Only</source>
+        <translation>Вставить как рисунок</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation>Параметры</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Webshape Del</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Webshape Min</source>
+        <translation>Восстановить</translation>
+    </message>
+    <message>
+        <source>Webshape Max</source>
+        <translation>Развернуть</translation>
+    </message>
+    <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation>Удалить подстрочный знак</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -14120,10 +14264,6 @@ Master</source>
     <message>
         <source>Wipe</source>
         <translation>Появление</translation>
-    </message>
-    <message>
-        <source>Frame From Up</source>
-        <translation>Ввод сверху</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -14214,10 +14354,6 @@ Master</source>
         <translation>Наплыв вправо</translation>
     </message>
     <message>
-        <source>Plane Left</source>
-        <translation>Вылет слева</translation>
-    </message>
-    <message>
         <source>Blinds</source>
         <translation>Жалюзи</translation>
     </message>
@@ -14286,14 +14422,6 @@ Master</source>
         <translation>Наплыв вверх</translation>
     </message>
     <message>
-        <source>Plane Right</source>
-        <translation>Вылет справа</translation>
-    </message>
-    <message>
-        <source>Cube From Right</source>
-        <translation>Ввод справа</translation>
-    </message>
-    <message>
         <source>Wipe Right</source>
         <translation>Появление справа</translation>
     </message>
@@ -14332,10 +14460,6 @@ Master</source>
     <message>
         <source>CheckerBoard</source>
         <translation>Шашки</translation>
-    </message>
-    <message>
-        <source>Cube From Up</source>
-        <translation>Ввод сверху</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
@@ -14474,10 +14598,6 @@ Master</source>
         <translation>Жирный контур</translation>
     </message>
     <message>
-        <source>Frame From Right</source>
-        <translation>Ввод справа</translation>
-    </message>
-    <message>
         <source>Cover Down</source>
         <translation>Наплыв вниз</translation>
     </message>
@@ -14496,14 +14616,6 @@ Master</source>
     <message>
         <source>Primary Colors</source>
         <translation>Основные цвета</translation>
-    </message>
-    <message>
-        <source>Frame From Down</source>
-        <translation>Ввод снизу</translation>
-    </message>
-    <message>
-        <source>Frame From Left</source>
-        <translation>Ввод слева</translation>
     </message>
     <message>
         <source>Wheel 1</source>
@@ -14530,20 +14642,52 @@ Master</source>
         <translation>Появление сверху</translation>
     </message>
     <message>
-        <source>Cube From Down</source>
-        <translation>Ввод снизу</translation>
-    </message>
-    <message>
-        <source>Cube From Left</source>
-        <translation>Ввод слева</translation>
-    </message>
-    <message>
         <source>Square Shaows</source>
         <translation>Квадратные тени</translation>
     </message>
     <message>
         <source>Bookend Fills</source>
         <translation>Корешки книг</translation>
+    </message>
+    <message>
+        <source>Frame From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>Plane Left</source>
+        <translation>Вылет слева</translation>
+    </message>
+    <message>
+        <source>Plane Right</source>
+        <translation>Вылет справа</translation>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>Frame From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>Frame From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation>Ввод слева</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation>Ввод слева</translation>
     </message>
 </context>
 <context>
@@ -14697,10 +14841,6 @@ Master</source>
         <translation>Стиль</translation>
     </message>
     <message>
-        <source>Opening animation video</source>
-        <translation>Открытие видео с анимацией</translation>
-    </message>
-    <message>
         <source>Tools</source>
         <translation>Инструменты</translation>
     </message>
@@ -14711,14 +14851,6 @@ Master</source>
     <message>
         <source>Shortcut Setting</source>
         <translation>Параметр ярлыка</translation>
-    </message>
-    <message>
-        <source>JdeControl Popup Menu</source>
-        <translation>Меню управление Jde</translation>
-    </message>
-    <message>
-        <source>SplitMerge</source>
-        <translation>Разделение/объединение документов</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
@@ -14794,10 +14926,6 @@ Master</source>
         <translation>Рисунок в текст</translation>
     </message>
     <message>
-        <source>Equation Accent Popup Menu</source>
-        <translation>Функция выделения</translation>
-    </message>
-    <message>
         <source>Justify</source>
         <translation>Выровнять по ширине</translation>
     </message>
@@ -14867,10 +14995,6 @@ Slide</source>
         <translation>Защита включена</translation>
     </message>
     <message>
-        <source>Equation Delimiter Popup Menu</source>
-        <translation>Функция круглых скобок</translation>
-    </message>
-    <message>
         <source>Inside Vertical Border</source>
         <translation>Внутренняя вертикальная граница</translation>
     </message>
@@ -14899,10 +15023,6 @@ Slide</source>
         <translation>Экспорт в рисунок</translation>
     </message>
     <message>
-        <source>Equation Normal Popup Menu</source>
-        <translation>Математическое уравнение</translation>
-    </message>
-    <message>
         <source>New Blank Document</source>
         <translation>Новый пустой документ</translation>
     </message>
@@ -14921,10 +15041,6 @@ Slide</source>
     <message>
         <source>Clip Art</source>
         <translation>Картинка</translation>
-    </message>
-    <message>
-        <source>Phonetic OneKey</source>
-        <translation>Быстрое извлечение фонетической транскрипции</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
@@ -14963,10 +15079,6 @@ Slide</source>
         <translation>Форматирование</translation>
     </message>
     <message>
-        <source>Equation Script Popup Menu</source>
-        <translation>Функция сценария</translation>
-    </message>
-    <message>
         <source>Set Language</source>
         <translation>Выбрать язык</translation>
     </message>
@@ -14981,10 +15093,6 @@ Slide</source>
     <message>
         <source>Complete symbol</source>
         <translation>Символы</translation>
-    </message>
-    <message>
-        <source>Phonetic Symbol</source>
-        <translation>Фонетический справочник</translation>
     </message>
     <message>
         <source>Note</source>
@@ -15089,10 +15197,6 @@ Slide</source>
         <translation>По центру</translation>
     </message>
     <message>
-        <source>Equation Operator Popup Menu</source>
-        <translation>Функция оператора</translation>
-    </message>
-    <message>
         <source>New from Other Templates</source>
         <translation>Создание на других шаблонах</translation>
     </message>
@@ -15174,10 +15278,6 @@ Slide</source>
         <translation>Окно задач</translation>
     </message>
     <message>
-        <source>Equation Matrix Popup Menu</source>
-        <translation>Функция матрицы</translation>
-    </message>
-    <message>
         <source>Rename</source>
         <translation>переименование</translation>
     </message>
@@ -15210,10 +15310,6 @@ Slide</source>
         <translation>Диагональная граница сверху вниз</translation>
     </message>
     <message>
-        <source>Equation Radical Popup Menu</source>
-        <translation>Функция корня</translation>
-    </message>
-    <message>
         <source>Draw Shapes</source>
         <translation>Нарисовать фигуры</translation>
     </message>
@@ -15242,20 +15338,12 @@ Slide</source>
         <translation>Линии сетки</translation>
     </message>
     <message>
-        <source>Equation Large Operator Popup Menu</source>
-        <translation>Функция крупного оператора</translation>
-    </message>
-    <message>
         <source>Switch to previous window</source>
         <translation>Переключить на предыдущее окно</translation>
     </message>
     <message>
         <source>Motion Path</source>
         <translation>Путь перемещения</translation>
-    </message>
-    <message>
-        <source>HelpDocSearch</source>
-        <translation>Поиск</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -15314,20 +15402,12 @@ Slide</source>
         <translation>Меню &quot;Создать файл&quot;</translation>
     </message>
     <message>
-        <source>Equation BorderBox Popup Menu</source>
-        <translation>Функция границы</translation>
-    </message>
-    <message>
         <source>Hyperlink</source>
         <translation>Гиперссылка</translation>
     </message>
     <message>
         <source>Properties</source>
         <translation>Свойства</translation>
-    </message>
-    <message>
-        <source>Equation Limit Popup Menu</source>
-        <translation>Функция ограничения</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -15596,10 +15676,6 @@ Slide</source>
         <translation>Режим поворота</translation>
     </message>
     <message>
-        <source>Audio library</source>
-        <translation>Шаблон аудио</translation>
-    </message>
-    <message>
         <source>Delete Note In Current Slide</source>
         <translation>Удалить заметку на текущем слайде</translation>
     </message>
@@ -15620,10 +15696,6 @@ Slide</source>
         <translation>Сохранить как рисунок</translation>
     </message>
     <message>
-        <source>Equation Group Popup Menu</source>
-        <translation>Функция группирования</translation>
-    </message>
-    <message>
         <source>Change Background Image</source>
         <translation>Изменить фоновое изображение</translation>
     </message>
@@ -15634,10 +15706,6 @@ Slide</source>
     <message>
         <source>Underline</source>
         <translation>Подчеркнутый</translation>
-    </message>
-    <message>
-        <source>PCLaTeXEquation</source>
-        <translation>LaTeX</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -15651,10 +15719,6 @@ Slide</source>
         <source>From Current
 Slide</source>
         <translation>С текущего слайда</translation>
-    </message>
-    <message>
-        <source>setting MB</source>
-        <translation>Отметить как конфиденциальный</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -15731,10 +15795,6 @@ Slide</source>
     <message>
         <source>Select All</source>
         <translation>Выделить все</translation>
-    </message>
-    <message>
-        <source>EduTools</source>
-        <translation>Средства для инструкций</translation>
     </message>
     <message>
         <source>Security</source>
@@ -15853,14 +15913,6 @@ Slide</source>
         <translation>Пакетное извлечение</translation>
     </message>
     <message>
-        <source>Equation Function Popup Menu</source>
-        <translation>Функции</translation>
-    </message>
-    <message>
-        <source>Equation Fraction Popup Menu</source>
-        <translation>Функция дробей</translation>
-    </message>
-    <message>
         <source>New 
 Comment</source>
         <translation>Новое примечание</translation>
@@ -15943,10 +15995,6 @@ Comment</source>
         <translation>Изменить текст</translation>
     </message>
     <message>
-        <source>Equation Array Popup Menu</source>
-        <translation>Функция массива</translation>
-    </message>
-    <message>
         <source>Recent File List</source>
         <translation>Список последних файлов</translation>
     </message>
@@ -16004,17 +16052,8 @@ Comment</source>
         <translation>Увеличить отступ</translation>
     </message>
     <message>
-        <source>Equation Bar Popup Menu</source>
-        <translation>Функция строки</translation>
-    </message>
-    <message>
         <source>Image Preview Float</source>
         <translation>Плавающее окно предварительного просмотра изображений</translation>
-    </message>
-    <message>
-        <source>Export graph ppt</source>
-        <translation>Преобразование в PPT-файл 
-в виде слайдов-изображений</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -16048,6 +16087,111 @@ Comment</source>
     <message>
         <source>Online Textbox</source>
         <translation>Текстовое поле шаблона</translation>
+    </message>
+    <message>
+        <source>Opening animation video</source>
+        <translation>Открытие видео с анимацией</translation>
+    </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation>Меню управление Jde</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Разделение/объединение документов</translation>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Функция выделения</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Функция круглых скобок</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Математическое уравнение</translation>
+    </message>
+    <message>
+        <source>Phonetic OneKey</source>
+        <translation>Быстрое извлечение фонетической транскрипции</translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Функция сценария</translation>
+    </message>
+    <message>
+        <source>Phonetic Symbol</source>
+        <translation>Фонетический справочник</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>Функция оператора</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Функция матрицы</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Функция корня</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Функция крупного оператора</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Поиск</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Функция границы</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Функция ограничения</translation>
+    </message>
+    <message>
+        <source>Audio library</source>
+        <translation>Шаблон аудио</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Функция группирования</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation>LaTeX</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Отметить как конфиденциальный</translation>
+    </message>
+    <message>
+        <source>EduTools</source>
+        <translation>Средства для инструкций</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>Функции</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Функция дробей</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Функция массива</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Функция строки</translation>
+    </message>
+    <message>
+        <source>Export graph ppt</source>
+        <translation>Преобразование в PPT-файл 
+в виде слайдов-изображений</translation>
     </message>
 </context>
 <context>
@@ -17221,10 +17365,6 @@ On/Off</source>
         <translation>Разместить в веб-странице микроблога</translation>
     </message>
     <message>
-        <source>Insert LaTeX Equation</source>
-        <translation>Используйте LaTeX для быстрого редактирования и вставки формул.</translation>
-    </message>
-    <message>
         <source>Enter the access code</source>
         <translation>Введите код доступа</translation>
     </message>
@@ -17261,10 +17401,6 @@ On/Off</source>
         <translation>Интеллектуальная анимация</translation>
     </message>
     <message>
-        <source>PDFTOCad</source>
-        <translation>Из PDF в CAD</translation>
-    </message>
-    <message>
         <source>Share to Microblog</source>
         <translation>Разместить в микроблоге</translation>
     </message>
@@ -17294,10 +17430,6 @@ On/Off</source>
         <translation>Диаграмма</translation>
     </message>
     <message>
-        <source>Ds Webshape Export</source>
-        <translation>Экспорт</translation>
-    </message>
-    <message>
         <source>ShortWordArt</source>
         <translation>Фигурный текст</translation>
     </message>
@@ -17312,10 +17444,6 @@ On/Off</source>
     <message>
         <source>Presentation Tool</source>
         <translation>Средство презентации</translation>
-    </message>
-    <message>
-        <source>PCLatexEquation</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
@@ -17372,10 +17500,6 @@ On/Off</source>
     <message>
         <source>Feedback</source>
         <translation>Отзывы</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Edit</source>
-        <translation>Изменить</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -17450,14 +17574,6 @@ On/Off</source>
         <translation>Сохранить исходную тему</translation>
     </message>
     <message>
-        <source>Ds Webshape Set</source>
-        <translation>Параметры</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Del</source>
-        <translation>Удалить</translation>
-    </message>
-    <message>
         <source>Check Mine Permission</source>
         <translation>Проверка моих 
 разрешений</translation>
@@ -17484,10 +17600,6 @@ On/Off</source>
 мобильное устройство</translation>
     </message>
     <message>
-        <source>One-click combing of content to make writing more organized</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>New from More Templates</source>
         <translation>Новая на другом шаблоне</translation>
     </message>
@@ -17506,6 +17618,42 @@ On/Off</source>
     <message>
         <source>Online Textbox</source>
         <translation>Текстовое поле шаблона</translation>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation>Используйте LaTeX для быстрого редактирования и вставки формул.</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
+        <translation>Изменить</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation>Параметры</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18996,10 +19144,6 @@ Shape</source>
         <translation>Работа с таблицами</translation>
     </message>
     <message>
-        <source>Special Feature</source>
-        <translation>Дополнительная возможность</translation>
-    </message>
-    <message>
         <source>Quick Retrieve</source>
         <translation>Быстрое получение</translation>
     </message>
@@ -19054,10 +19198,6 @@ Shape</source>
     <message>
         <source>Stick the Toolbar</source>
         <translation>Привязать панель инструментов</translation>
-    </message>
-    <message>
-        <source>PDFTOCad</source>
-        <translation>Из PDF в CAD</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -19259,6 +19399,14 @@ Shape</source>
     <message>
         <source>Sign Out</source>
         <translation>Выйти</translation>
+    </message>
+    <message>
+        <source>Special Feature</source>
+        <translation>Дополнительная возможность</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
     </message>
 </context>
 <context>
@@ -19468,10 +19616,6 @@ Shape</source>
         <translation>&amp;Слайды:</translation>
     </message>
     <message>
-        <source>set sy info(&amp;S)</source>
-        <translation>Задать сведения об источнике</translation>
-    </message>
-    <message>
         <source>Copies</source>
         <translation>Копии</translation>
     </message>
@@ -19550,6 +19694,10 @@ Shape</source>
     <message>
         <source>Hori&amp;zontal</source>
         <translation>Гори&amp;зонтальная</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation>Задать сведения об источнике</translation>
     </message>
 </context>
 <context>
@@ -20052,10 +20200,6 @@ Table Style</source>
         <translation>2,25 пт</translation>
     </message>
     <message>
-        <source>Convert Text in Picture</source>
-        <translation>Преобразовывайте тексты в изображении в текстовый формат</translation>
-    </message>
-    <message>
         <source>Rotate Right 90°</source>
         <translation>Повернуть вправо на 90°</translation>
     </message>
@@ -20138,10 +20282,6 @@ Table Style</source>
     <message>
         <source>Equal Size</source>
         <translation>Равного размера</translation>
-    </message>
-    <message>
-        <source>Text Translation in Image</source>
-        <translation>Переводите тексты в изображении с английского/китайского языков и обратно</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
@@ -20268,10 +20408,6 @@ On/Off</source>
         <translation>Контур изображения</translation>
     </message>
     <message>
-        <source>Picture Batch to PDF</source>
-        <translation>Пакетное преобразование изображения в PDF</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Параметры</translation>
     </message>
@@ -20336,6 +20472,18 @@ Size</source>
     <message>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
+    </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Преобразовывайте тексты в изображении в текстовый формат</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Переводите тексты в изображении с английского/китайского языков и обратно</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Пакетное преобразование изображения в PDF</translation>
     </message>
 </context>
 <context>
@@ -20526,10 +20674,6 @@ Size</source>
         <translation>Управление мобильным телефоном</translation>
     </message>
     <message>
-        <source>Use Presenter View</source>
-        <translation>Использовать режим докладчика</translation>
-    </message>
-    <message>
         <source>Rehearse 
 Timings</source>
         <translation>Настройка 
@@ -20566,10 +20710,6 @@ Beginning</source>
         <translation>Настройка</translation>
     </message>
     <message>
-        <source>Slide Show Location</source>
-        <translation>Показать Presentation на</translation>
-    </message>
-    <message>
         <source>Hide Slide</source>
         <translation>Скрыть 
 слайд</translation>
@@ -20579,10 +20719,6 @@ Beginning</source>
 Notes</source>
         <translation>Заметки
 докладчика</translation>
-    </message>
-    <message>
-        <source>Multi Monitor</source>
-        <translation>Несколько дисплеев</translation>
     </message>
     <message>
         <source>Slide Show Mode</source>
@@ -20612,13 +20748,30 @@ Slide Shows</source>
         <translation>Параметры слайд-шоу</translation>
     </message>
     <message>
+        <source>Slide Transition</source>
+        <translation>Смена 
+слайдов</translation>
+    </message>
+    <message>
+        <source>Use Presenter View</source>
+        <translation>Использовать режим докладчика</translation>
+    </message>
+    <message>
+        <source>Slide Show Location</source>
+        <translation>Показать Presentation на</translation>
+    </message>
+    <message>
+        <source>Multi Monitor</source>
+        <translation>Несколько дисплеев</translation>
+    </message>
+    <message>
         <source>Show On:</source>
         <translation>Выводить на:</translation>
     </message>
     <message>
-        <source>Slide Transition</source>
-        <translation>Смена 
-слайдов</translation>
+        <source>Slide
+Transition</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20638,10 +20791,6 @@ Slide Shows</source>
     <message>
         <source>Select Folder:</source>
         <translation>Выбор папки:</translation>
-    </message>
-    <message>
-        <source>Keep backup cache file days must be between %1 and %2!</source>
-        <translation>Период хранения резервных копий файлов должен быть в диапазоне от %1 до %2.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -20708,16 +20857,20 @@ Slide Shows</source>
         <translation>Настроить ленту</translation>
     </message>
     <message>
-        <source>This will delete all backup files in your computer. Sure to delete ?</source>
-        <translation>Действительно удалить все локальные резервные копии файлов?</translation>
-    </message>
-    <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>У вас нет разрешения на сохранение файлов резервной копии в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Расписание резервного копирования</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation>Период хранения резервных копий файлов должен быть в диапазоне от %1 до %2.</translation>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation>Действительно удалить все локальные резервные копии файлов?</translation>
     </message>
 </context>
 <context>
@@ -20776,10 +20929,6 @@ Slide Shows</source>
     <message>
         <source>Font</source>
         <translation>Шрифт</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Шаблон маркированных списков</translation>
     </message>
     <message>
         <source>Close</source>
@@ -20901,6 +21050,10 @@ Master View</source>
         <source>Delete Master</source>
         <translation>Удалить образец</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_tabletool</name>
@@ -20991,10 +21144,6 @@ Master View</source>
     <message>
         <source>More Font Colors</source>
         <translation>Другие цвета шрифта</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Вертикальная</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -21210,6 +21359,10 @@ Cells</source>
     <message>
         <source>Alignment</source>
         <translation>Выровнять</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Вертикальная</translation>
     </message>
 </context>
 <context>
@@ -22205,10 +22358,6 @@ Cells</source>
         <translation>Изображение в PDF</translation>
     </message>
     <message>
-        <source>Export to graph ppt</source>
-        <translation>Преобразование в презентацию в виде слайдов-изображений</translation>
-    </message>
-    <message>
         <source>Screen Recorder</source>
         <translation>Средство записи экрана</translation>
     </message>
@@ -22394,16 +22543,8 @@ Cloud Docs</translation>
         <translation>Хранилище файлов</translation>
     </message>
     <message>
-        <source>BatchRename</source>
-        <translation>Переименовать файлы партиями</translation>
-    </message>
-    <message>
         <source>Model Essay</source>
         <translation>Проверка модели</translation>
-    </message>
-    <message>
-        <source>After conversion, you will get an image-like presentation file, each slide of which will be a non-searchable and non-editable image. And all formatting and contents, such as texts and graphs in the original file, will be retained.</source>
-        <translation>После преобразования будет получен файл презентации, состоящей из слайдов-изображений, где каждый слайд является недоступным для поиска и редактирования изображением. При этом все форматирование и содержимое исходного файла, например тексты и графики, будут сохранены.</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -22415,13 +22556,29 @@ Cloud Docs</translation>
 мобильное устройство</translation>
     </message>
     <message>
+        <source>Document security</source>
+        <translation>Безопасность документа</translation>
+    </message>
+    <message>
+        <source>Export to graph ppt</source>
+        <translation>Преобразование в презентацию в виде слайдов-изображений</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Переименовать файлы партиями</translation>
+    </message>
+    <message>
+        <source>After conversion, you will get an image-like presentation file, each slide of which will be a non-searchable and non-editable image. And all formatting and contents, such as texts and graphs in the original file, will be retained.</source>
+        <translation>После преобразования будет получен файл презентации, состоящей из слайдов-изображений, где каждый слайд является недоступным для поиска и редактирования изображением. При этом все форматирование и содержимое исходного файла, например тексты и графики, будут сохранены.</translation>
+    </message>
+    <message>
         <source>Export graph ppt</source>
         <translation>Преобразование в PPT-файл 
 в виде слайдов-изображений</translation>
     </message>
     <message>
-        <source>Document security</source>
-        <translation>Безопасность документа</translation>
+        <source>Picture to PDF</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22887,10 +23044,6 @@ Comment</source>
 чтения</translation>
     </message>
     <message>
-        <source>Slide Show from Current(Shift+F5)</source>
-        <translation>Показ от текущего слайда(Shift+F5)</translation>
-    </message>
-    <message>
         <source>Screen Recorder</source>
         <translation>Средство записи экрана</translation>
     </message>
@@ -22917,6 +23070,10 @@ Comment</source>
     <message>
         <source>Slide Show Settings</source>
         <translation>Параметры слайд-шоу</translation>
+    </message>
+    <message>
+        <source>Slide Show from Current(Shift+F5)</source>
+        <translation>Показ от текущего слайда(Shift+F5)</translation>
     </message>
 </context>
 <context>
@@ -22972,10 +23129,6 @@ Comment</source>
         <translation>Слайд %1 из %2</translation>
     </message>
     <message>
-        <source>Resume timer</source>
-        <translation>Возобновить таймер</translation>
-    </message>
-    <message>
         <source>Slide %1</source>
         <translation>Слайд %1</translation>
     </message>
@@ -23020,12 +23173,16 @@ Comment</source>
         <translation>Экран с маркированным списком</translation>
     </message>
     <message>
-        <source>Screen camera</source>
-        <translation>Запись экрана</translation>
-    </message>
-    <message>
         <source>End of Slide Show</source>
         <translation>Конец презентации</translation>
+    </message>
+    <message>
+        <source>Resume timer</source>
+        <translation>Возобновить таймер</translation>
+    </message>
+    <message>
+        <source>Screen camera</source>
+        <translation>Запись экрана</translation>
     </message>
 </context>
 <context>
@@ -23228,16 +23385,16 @@ Comment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Run %1 &amp;macro</source>
-        <translation>Выполнить макрос %1 (&amp;М)</translation>
-    </message>
-    <message>
         <source>All Presentations</source>
         <translation>Все презентации</translation>
     </message>
     <message>
         <source>All Files</source>
         <translation>Все файлы</translation>
+    </message>
+    <message>
+        <source>Run %1 &amp;macro</source>
+        <translation>Выполнить макрос %1 (&amp;М)</translation>
     </message>
 </context>
 <context>
@@ -23420,10 +23577,6 @@ Directly</source>
         <translation>Альбомная</translation>
     </message>
     <message>
-        <source>Print Ways</source>
-        <translation>Распечатал:</translation>
-    </message>
-    <message>
         <source>Print What</source>
         <translation>Печатать</translation>
     </message>
@@ -23488,6 +23641,10 @@ Page</source>
     <message>
         <source>Print Copies:</source>
         <translation>Печатать копии:</translation>
+    </message>
+    <message>
+        <source>Print Ways</source>
+        <translation>Распечатал:</translation>
     </message>
 </context>
 <context>
@@ -24574,10 +24731,6 @@ Footer</source>
         <translation>Другие цвета заливки</translation>
     </message>
     <message>
-        <source>Vertical direction</source>
-        <translation>По вертикали</translation>
-    </message>
-    <message>
         <source>Text Direction</source>
         <translation>Направление текста</translation>
     </message>
@@ -24676,6 +24829,10 @@ Footer</source>
     <message>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>По вертикали</translation>
     </message>
 </context>
 <context>
@@ -25265,14 +25422,6 @@ Footer</source>
         <translation>Удалить анимацию</translation>
     </message>
     <message>
-        <source>Delete All Animations from Selected Object</source>
-        <translation>Удалить все анимации из выбранных объектов</translation>
-    </message>
-    <message>
-        <source>Delete All Animations from Selected Slide</source>
-        <translation>Удалить все анимации из выбранных слайдов</translation>
-    </message>
-    <message>
         <source>Custom
 Animation</source>
         <translation>Настройка
@@ -25289,14 +25438,6 @@ Animation</source>
     <message>
         <source>Sound:</source>
         <translation>Звук:</translation>
-    </message>
-    <message>
-        <source>AnimationPainter</source>
-        <translation>Художник анимации</translation>
-    </message>
-    <message>
-        <source>Delete All Animations from Presentation</source>
-        <translation>Удалить все анимации из Presentation</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -25353,6 +25494,22 @@ Animation</source>
     <message>
         <source>Animation Painter</source>
         <translation>Анимация по образцу</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Selected Object</source>
+        <translation>Удалить все анимации из выбранных объектов</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Selected Slide</source>
+        <translation>Удалить все анимации из выбранных слайдов</translation>
+    </message>
+    <message>
+        <source>AnimationPainter</source>
+        <translation>Художник анимации</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Presentation</source>
+        <translation>Удалить все анимации из Presentation</translation>
     </message>
 </context>
 <context>
@@ -25525,10 +25682,6 @@ Animation</source>
         <translation>Волшебный</translation>
     </message>
     <message>
-        <source>Picture background and mask</source>
-        <translation>Шаблон фонового изображения</translation>
-    </message>
-    <message>
         <source>Background</source>
         <translation>Фон</translation>
     </message>
@@ -25626,12 +25779,16 @@ Slide Master</source>
 образец слайдов</translation>
     </message>
     <message>
-        <source>Picture Mask</source>
-        <translation>Фоновое изображение</translation>
-    </message>
-    <message>
         <source>Stand Screen(4:3)</source>
         <translation>Стандартный экран (4:3)</translation>
+    </message>
+    <message>
+        <source>Picture background and mask</source>
+        <translation>Шаблон фонового изображения</translation>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation>Фоновое изображение</translation>
     </message>
 </context>
 <context>
@@ -26299,10 +26456,6 @@ Slide Master</source>
         <translation>Закрыть</translation>
     </message>
     <message>
-        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
-        <translation>К текущему подключению к серверу применяется исключение, поэтому выведение интернет-файлов безопасности PDF невозможно. Повторите попытку позже.</translation>
-    </message>
-    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Подготовка к экспорту PDF-файла...</translation>
     </message>
@@ -26325,10 +26478,6 @@ Slide Master</source>
     <message>
         <source> Page...</source>
         <translation>Страница...</translation>
-    </message>
-    <message>
-        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
-        <translation>В настоящее время отсутствует сеть, поэтому выведение интернет-файлов безопасности PDF невозможно. Обеспечьте нормальные условия сети.</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
@@ -26357,6 +26506,14 @@ Slide Master</source>
     <message>
         <source>User canceled operation.</source>
         <translation>Пользователь отменил операцию.</translation>
+    </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation>К текущему подключению к серверу применяется исключение, поэтому выведение интернет-файлов безопасности PDF невозможно. Повторите попытку позже.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation>В настоящее время отсутствует сеть, поэтому выведение интернет-файлов безопасности PDF невозможно. Обеспечьте нормальные условия сети.</translation>
     </message>
 </context>
 <context>
@@ -27218,14 +27375,6 @@ Add-Ins</source>
         <translation>Выдачи</translation>
     </message>
     <message>
-        <source>The file opening password is inconsistent with the previously entered password.</source>
-        <translation>Пароль для открытия файла не соответствует ранее введенному паролю.</translation>
-    </message>
-    <message>
-        <source>The permission setting password is inconsistent with the previously entered password.</source>
-        <translation>Пароль для установки разрешений не соответствует ранее введенному паролю.</translation>
-    </message>
-    <message>
         <source>Permission password and document open password must be different.</source>
         <translation>Пароль для разрешений и пароль на открытие документов должны отличаться.</translation>
     </message>
@@ -27252,6 +27401,14 @@ Add-Ins</source>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
         <translation>Выбранный для экспорта слайд не существует. Выберите другой.</translation>
+    </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation>Пароль для открытия файла не соответствует ранее введенному паролю.</translation>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation>Пароль для установки разрешений не соответствует ранее введенному паролю.</translation>
     </message>
 </context>
 <context>
@@ -28066,10 +28223,6 @@ Esc					Завершение показа слайдов</translation>
         <translation>Шифрование</translation>
     </message>
     <message>
-        <source>setting MB</source>
-        <translation>Отметить как конфиденциальный</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Вперёд</translation>
     </message>
@@ -28089,6 +28242,10 @@ Esc					Завершение показа слайдов</translation>
     <message>
         <source>Normal Encryption</source>
         <translation>Нормальное шифрование</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Отметить как конфиденциальный</translation>
     </message>
 </context>
 <context>
@@ -28234,17 +28391,6 @@ Esc					Завершение показа слайдов</translation>
     <message>
         <source>No Color</source>
         <translation>Без цвета</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppBulletScreenCtrl</name>
-    <message>
-        <source>Preparing for BulletScreen</source>
-        <translation>Загрузка экрана с маркированным списком</translation>
-    </message>
-    <message>
-        <source>BulletScreen Load Failed</source>
-        <translation>Не удалось загрузить экран с маркированным списком.</translation>
     </message>
 </context>
 <context>
@@ -28465,25 +28611,6 @@ Esc					Завершение показа слайдов</translation>
     </message>
 </context>
 <context>
-    <name>KxWppReuseSlidesListView</name>
-    <message>
-        <source>Apply theme to selected slides</source>
-        <translation>Применить тему к выделенным слайдам</translation>
-    </message>
-    <message>
-        <source>Insert slide</source>
-        <translation>Вставить слайд</translation>
-    </message>
-    <message>
-        <source>Apply theme to all slides</source>
-        <translation>Применить тему ко всем слайдам</translation>
-    </message>
-    <message>
-        <source>Insert all slides</source>
-        <translation>Вставить все слайды</translation>
-    </message>
-</context>
-<context>
     <name>KxWppFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
@@ -28555,25 +28682,6 @@ Esc					Завершение показа слайдов</translation>
     <message>
         <source>Fail to open the file!</source>
         <translation>Не удалось открыть файл.</translation>
-    </message>
-</context>
-<context>
-    <name>KxBackupSettingTipWidgetBase</name>
-    <message>
-        <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>Включите &quot;Роуминг документов&quot;, чтобы открытые локальные файлы автоматически сохранялись в Cloud.</translation>
-    </message>
-    <message>
-        <source>What is Auto Roaming</source>
-        <translation>Что такое автоматический роуминг</translation>
-    </message>
-    <message>
-        <source>we update your modification on time</source>
-        <translation>Система автоматически синхронизирует изменения, внесенные в локальные файлы, с файлами в Cloud.</translation>
-    </message>
-    <message>
-        <source>you also reference this document when login on another deviec</source>
-        <translation>Также возможен просмотр и редактирование этого документа при выполнении входа на другом устройстве.</translation>
     </message>
 </context>
 <context>
@@ -28758,10 +28866,6 @@ Esc					Завершение показа слайдов</translation>
         <translation>Символы для уравнений</translation>
     </message>
     <message>
-        <source>Accent</source>
-        <translation>Акцент</translation>
-    </message>
-    <message>
         <source>Linear</source>
         <translation>Линейная</translation>
     </message>
@@ -28832,6 +28936,10 @@ Esc					Завершение показа слайдов</translation>
     <message>
         <source>Professional</source>
         <translation>Профессиональная</translation>
+    </message>
+    <message>
+        <source>Accent</source>
+        <translation>Акцент</translation>
     </message>
 </context>
 <context>
@@ -29226,6 +29334,25 @@ Master</source>
     <message>
         <source>Slides in &amp;presentation:</source>
         <translation>Слайды &amp;презентации:</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupSettingTipWidgetBase</name>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation>Что такое автоматический роуминг</translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>Включите &quot;Роуминг документов&quot;, чтобы открытые локальные файлы автоматически сохранялись в Cloud.</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>Система автоматически синхронизирует изменения, внесенные в локальные файлы, с файлами в Cloud.</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>Также возможен просмотр и редактирование этого документа при выполнении входа на другом устройстве.</translation>
     </message>
 </context>
 <context>
@@ -30199,17 +30326,47 @@ Sure to close?</source>
     </message>
 </context>
 <context>
-    <name>ReuseSlidesTitle</name>
-    <message>
-        <source>In this pane, you can select one or more slides of other presentations and import them into the current presentation without opening other documents directly</source>
-        <translation>На этой панели можно выбрать один или несколько слайдов из других презентаций и вставить их непосредственно в текущую презентацию.</translation>
-    </message>
-</context>
-<context>
     <name>KxWppEquationOptionsDlg</name>
     <message>
         <source>Equation Options</source>
         <translation>Параметры формул</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBulletScreenCtrl</name>
+    <message>
+        <source>Preparing for BulletScreen</source>
+        <translation>Загрузка экрана с маркированным списком</translation>
+    </message>
+    <message>
+        <source>BulletScreen Load Failed</source>
+        <translation>Не удалось загрузить экран с маркированным списком.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppReuseSlidesListView</name>
+    <message>
+        <source>Apply theme to selected slides</source>
+        <translation>Применить тему к выделенным слайдам</translation>
+    </message>
+    <message>
+        <source>Insert slide</source>
+        <translation>Вставить слайд</translation>
+    </message>
+    <message>
+        <source>Apply theme to all slides</source>
+        <translation>Применить тему ко всем слайдам</translation>
+    </message>
+    <message>
+        <source>Insert all slides</source>
+        <translation>Вставить все слайды</translation>
+    </message>
+</context>
+<context>
+    <name>ReuseSlidesTitle</name>
+    <message>
+        <source>In this pane, you can select one or more slides of other presentations and import them into the current presentation without opening other documents directly</source>
+        <translation>На этой панели можно выбрать один или несколько слайдов из других презентаций и вставить их непосредственно в текущую презентацию.</translation>
     </message>
 </context>
 <context>
