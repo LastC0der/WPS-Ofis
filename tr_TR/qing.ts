@@ -4313,6 +4313,10 @@ Yolu ve dosya adını kontrol edin.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>&amp;View On Website</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation type="unfinished"/>
     </message>
@@ -7077,23 +7081,23 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1: invalid size</source>
-        <translation type="unfinished"/>
+        <translation>%1: geçersiz boyut</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation type="unfinished"/>
+        <translation>%1: anahtar yapılamıyor</translation>
     </message>
     <message>
         <source>%1: unable to set key on lock</source>
-        <translation type="unfinished"/>
+        <translation>%1: anahtar kilide ayarlanamıyor</translation>
     </message>
     <message>
         <source>%1: unable to unlock</source>
-        <translation type="unfinished"/>
+        <translation>%1: kilit açılamıyor</translation>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
@@ -10690,7 +10694,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation type="unfinished"/>
+        <translation>%1: anahtar yapılamıyor</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
