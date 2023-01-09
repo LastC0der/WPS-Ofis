@@ -4317,6 +4317,10 @@ Vérifiez le chemin et le nom du fichier.</translation>
         <translation>Déjà mis à jour vers la nouvelle version. Fermez le fichier actuel et rouvrez-le.</translation>
     </message>
     <message>
+        <source>&amp;View On Website</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation>Mettez à niveau WPS Office Cloud pour découvrir des avantages de la toute dernière version.</translation>
     </message>
