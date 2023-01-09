@@ -3872,5 +3872,21 @@
         <source>ShowTocNavigationPane.content</source>
         <translation>Показать или скрыть навигацию на панели.</translation>
     </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
