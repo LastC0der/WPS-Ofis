@@ -3199,5 +3199,37 @@ Można sortować zaznaczone dane w kolejności rosnącej lub malejącej.</transl
         <source>DataSort.title</source>
         <translation>Sortuj</translation>
     </message>
+    <message>
+        <source>QuickOrientation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QuickOrientation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>StrikeThroughHome.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>StrikeThroughHome.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
