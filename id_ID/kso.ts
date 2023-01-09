@@ -14,10 +14,6 @@
         <translation>WPS Office</translation>
     </message>
     <message>
-        <source>&quot;Tab</source>
-        <translation>&quot;Tab</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>Tutup</translation>
     </message>
@@ -66,20 +62,12 @@
         <translation>Deskripsi</translation>
     </message>
     <message>
-        <source>O&amp;ffice Shortcuts</source>
-        <translation>Tombol Pintas O&amp;ffice </translation>
-    </message>
-    <message>
         <source>Click here</source>
         <translation>Ketuk di sini</translation>
     </message>
     <message>
         <source>&amp;Assign</source>
         <translation>Tetapkan</translation>
-    </message>
-    <message>
-        <source>&amp;WPS Shortcuts</source>
-        <translation>Tombol Pintas &amp;WPS </translation>
     </message>
     <message>
         <source>Sa&amp;ve changes in:</source>
@@ -96,6 +84,18 @@
     <message>
         <source>TextLabel</source>
         <translation>Label Teks</translation>
+    </message>
+    <message>
+        <source>&quot;Tab</source>
+        <translation>&quot;Tab</translation>
+    </message>
+    <message>
+        <source>O&amp;ffice Shortcuts</source>
+        <translation>Tombol Pintas O&amp;ffice </translation>
+    </message>
+    <message>
+        <source>&amp;WPS Shortcuts</source>
+        <translation>Tombol Pintas &amp;WPS </translation>
     </message>
 </context>
 <context>
@@ -1622,11 +1622,6 @@ berkelanjutan</translation>
         <translation>Spasi Tanpa Jeda</translation>
     </message>
     <message>
-        <source>Enter network password to connect to:%1</source>
-        <translation>Terhubung ke %1
-Masukkan kredensial Anda</translation>
-    </message>
-    <message>
         <source>Load on Demand</source>
         <translation>Muatkan sesuai Permintaan</translation>
     </message>
@@ -1718,10 +1713,6 @@ Masukkan kredensial Anda</translation>
     <message>
         <source>Sky Blue</source>
         <translation>Biru Langit</translation>
-    </message>
-    <message>
-        <source>Currently using %1 keyboard shortcuts template, for more details of the differences between the two sets of templates WPS and Generic Office, please</source>
-        <translation>Anda sedang menggunakan templat tombol pintas %1. Untuk informasi selengkapnya mengenai perbedaan antara templat tombol pintas WPS dan templat tombol pintas Office umum, silakan</translation>
     </message>
     <message>
         <source>Bright Green</source>
@@ -1941,10 +1932,6 @@ Untuk membuat laporan PivotTable, Anda harus menggunakan data yang diatur sebaga
 Jika Anda mengubah nama ruas PivotTable, Anda harus mengetikkan nama baru untuk ruas tersebut.</translation>
     </message>
     <message>
-        <source>The XML extension package security settings have been disabled, which will facilitate solution development but allow for the running of unsafe XML extension package components. Do you re-enable the XML extension package security settings?</source>
-        <translation>Keamanan paket ekspansi XML telah dinonaktifkan. Ini membuat pengembangan solusi lebih mudah tetapi memungkinkan berjalannya komponen paket ekspansi XML yang tidak aman. Apakah Anda yakin ingin mengaktifkan kembali keamanan paket ekspansi XML?</translation>
-    </message>
-    <message>
         <source>Indigo</source>
         <translation>Nila</translation>
     </message>
@@ -2007,12 +1994,6 @@ Jika Anda mengubah nama ruas PivotTable, Anda harus mengetikkan nama baru untuk 
     <message>
         <source>Orange</source>
         <translation>Oranye</translation>
-    </message>
-    <message>
-        <source>%1
-Please carefully identify the website to ensure that it is trustworthy and safe, so as not to disturb you by sending irrelevant content, or Because unsafe operations cause you losses. If you trust it, it will have the right to display its web page information in WPS application and access document content and computer resources.</source>
-        <translation>%1
-Harap mengidentifikasi situs web dengan hati-hati untuk memastikan bahwa situs web dapat dipercaya dan aman, sehingga Anda tidak akan terganggu oleh konten tidak relevan yang dikirim oleh situs web, atau menderita kerugian karena operasi yang tidak aman. Jika Anda mempercayainya, situs web tersebut akan memiliki hak untuk menampilkan informasi halaman web-nya dalam aplikasi WPS dan mengakses konten dokumen dan sumber daya komputer.</translation>
     </message>
     <message>
         <source>Paused</source>
@@ -3265,6 +3246,44 @@ Used to show hierarchical relationships</source>
         <translation>Bagan Organisasi
 Digunakan untuk menunjukkan hubungan hierarkis</translation>
     </message>
+    <message>
+        <source>Enter network password to connect to:%1</source>
+        <translation>Terhubung ke %1
+Masukkan kredensial Anda</translation>
+    </message>
+    <message>
+        <source>Currently using %1 keyboard shortcuts template, for more details of the differences between the two sets of templates WPS and Generic Office, please</source>
+        <translation>Anda sedang menggunakan templat tombol pintas %1. Untuk informasi selengkapnya mengenai perbedaan antara templat tombol pintas WPS dan templat tombol pintas Office umum, silakan</translation>
+    </message>
+    <message>
+        <source>The XML extension package security settings have been disabled, which will facilitate solution development but allow for the running of unsafe XML extension package components. Do you re-enable the XML extension package security settings?</source>
+        <translation>Keamanan paket ekspansi XML telah dinonaktifkan. Ini membuat pengembangan solusi lebih mudah tetapi memungkinkan berjalannya komponen paket ekspansi XML yang tidak aman. Apakah Anda yakin ingin mengaktifkan kembali keamanan paket ekspansi XML?</translation>
+    </message>
+    <message>
+        <source>%1
+Please carefully identify the website to ensure that it is trustworthy and safe, so as not to disturb you by sending irrelevant content, or Because unsafe operations cause you losses. If you trust it, it will have the right to display its web page information in WPS application and access document content and computer resources.</source>
+        <translation>%1
+Harap mengidentifikasi situs web dengan hati-hati untuk memastikan bahwa situs web dapat dipercaya dan aman, sehingga Anda tidak akan terganggu oleh konten tidak relevan yang dikirim oleh situs web, atau menderita kerugian karena operasi yang tidak aman. Jika Anda mempercayainya, situs web tersebut akan memiliki hak untuk menampilkan informasi halaman web-nya dalam aplikasi WPS dan mengakses konten dokumen dan sumber daya komputer.</translation>
+    </message>
+    <message>
+        <source>Part of %s</source>
+        <comment>kso_sActivePartOf</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> if you still want to assign this shortcut, and view its original destination.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>kso_Nav_Close</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stop</source>
+        <comment>kso_Nav_Stop</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QWidget</name>
@@ -3734,6 +3753,510 @@ Digunakan untuk menunjukkan hubungan hierarkis</translation>
         <source>Launch Media</source>
         <translation>Buka Media</translation>
     </message>
+    <message>
+        <source>CD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DOS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WWW</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Away</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Book</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Game</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>XFer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Split Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Eject</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kanji</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Music</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reply</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sleep</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hiragana</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Wireless</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Multiple Candidate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Zenkaku</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Rewind</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Repeat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Toggle Call/Hangup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Camera Shutter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ultra Wide Band</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul Special</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Media Pause</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Word Processor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kana Shift</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Meeting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Menu PB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard Brightness Up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul PostHanja</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Kana Lock</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Community</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Random Play</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Henkan</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Home Office</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last Number Redial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Logoff</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Market</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Massyo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Option</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Romaji</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Travel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Forward</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WebCam</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hiragana Katakana</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hot Links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Cycle Track</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>iTouch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous Candidate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Toggle Media Play/Pause</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Eisu Shift</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Code input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Camera Focus</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Adjust Brightness</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Spreadsheet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Eisu toggle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard Brightness Down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Grab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Monitor Brightness Up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Battery</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Katakana</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hibernate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Application Left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Voice Dial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Browser</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Back Forward</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard Light On/Off</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mail Forward</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Messenger</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul Banja</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul Hanja</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul Start</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rotation KB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rotation PB</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Calculator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Support</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Suspend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul Romaja</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>My Sites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rotate Windows</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Touroku</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Zenkaku Hankaku</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul Jeonja</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Subtitle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul Jamo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bluetooth</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Muhenkan</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screensaver</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Spellchecker</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul PreHanja</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Terminal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add Favorite</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Finance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Task Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Wake Up</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Power Off</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>LightBulb</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hankaku</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hangul End</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Monitor Brightness Down</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>History</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Application Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pictures</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kso_ksocomm</name>
@@ -3833,10 +4356,6 @@ Digunakan untuk menunjukkan hubungan hierarkis</translation>
     <message>
         <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <translation>Izin untuk %1 saat ini dibatasi. File dengan izin terbatas tidak dapat disisipkan ke dokumen ini.</translation>
-    </message>
-    <message>
-        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation>Perangkat lunak ini hanya dapat digunakan oleh pengguna individu untuk tujuan pribadi saja. Tidak dapat digunakan untuk tujuan komersial seperti produksi, bisnis, dan lain-lain. ||Perangkat lunak ini mencakup: Proyek FreeType, dengan otorisasi gratis diberikan berdasarkan klausul otorisasi dari Lisensi FreeType; Segmen Kata Mandarin, Anotasi Fonetik Mandarin, dan teknologi untuk konversi antara Mandarin modern dan Mandarin tradisional yang disediakan oleh Pusat Penelitian untuk Komputasi Sosial dan Pengambilan Informasi, Institut Teknologi Harbin; Pemeriksa Ejaan Hunspell, dan kode sumber Hunspell adalah kode sumber terbuka yang berlaku untuk beberapa lisensi: MPL 1.1, GPL 2.0, dan LGPL 2.1; Sqlite3--sesuai lisensi komersial gratisnya--menggunakan datanya untuk menyimpan dan membaca kode sumber terbuka.</translation>
     </message>
     <message>
         <source>WPS Simulation Error Recovery Help</source>
@@ -3981,10 +4500,6 @@ File: %s
     <message>
         <source>Network transfer failed! Error code: %d</source>
         <translation>Transfer jaringan gagal! Kode kesalahan: %d</translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot inert a file into self. (%1)</source>
-        <translation>WPS Writer tidak dapat menyisipkan dokumen ke dalam dokumen itu sendiri. (%1)</translation>
     </message>
     <message>
         <source>WPS SpreadSheet</source>
@@ -4217,22 +4732,6 @@ Anda dapat mengeklik tombol untuk memulihkan file yang Anda kerjakan.</translati
     <message>
         <source>Are you sure you want to remove the user?</source>
         <translation>Anda yakin ingin menghapus pengguna?</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when backup is running! Please try the following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation>%s Ada kesalahan selama operasi pencadangan. Coba operasi berikut: 
-•Periksa apakah direktori cadangan memiliki izin menulis, atau ubah direktori cadangan.
-•[Urungkan] operasi sebelumnya lalu [Simpan]; 
-•[Simpan Sebagai...] file teks（*.txt）; 
-•[Salin/Tempel] konten ke file baru; 
-•Buang perubahan pada file ini.
-(%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
@@ -4483,25 +4982,8 @@ Anda ingin membukanya menggunakan kumpulan kredensial yang berbeda?</translation
         <translation>Semua orang</translation>
     </message>
     <message>
-        <source>Save As Video</source>
-        <translation>Simpan sebagai Video</translation>
-    </message>
-    <message>
         <source>Restricted Access</source>
         <translation>Akses Terbatas</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when backup is running! Please try the  following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation>%s Ada kesalahan selama operasi pencadangan. Coba operasi berikut:
-•Periksa apakah direktori cadangan memiliki izin menulis, atau ubah direktori cadangan.
-•[Urungkan] operasi sebelumnya lalu [Simpan]; 
-•[Salin/Tempel] konten ke file baru; 
-•Buang perubahan pada file ini.</translation>
     </message>
     <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
@@ -4583,10 +5065,6 @@ Posisi ini mungkin tidak aman.</translation>
         <translation>Teks Atau Properti</translation>
     </message>
     <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation>Perangkat lunak ini mencakup: Proyek FreeType, dengan otorisasi gratis diberikan berdasarkan klausul otorisasi dari Lisensi FreeType; Segmen Kata Mandarin, Anotasi Fonetik Mandarin, dan teknologi untuk konversi antara Mandarin modern dan Mandarin tradisional yang disediakan oleh Pusat Penelitian untuk Komputasi Sosial dan Pengambilan Informasi, Institut Teknologi Harbin; Pemeriksa Ejaan Hunspell, dan kode sumber Hunspell adalah kode sumber terbuka yang berlaku untuk beberapa lisensi: MPL 1.1, GPL 2.0, dan LGPL 2.1; Font Founder untuk digunakan di Linux WPS Office, dengan otorisasi resmi dari Founder; Sqlite3--sesuai lisensi komersial gratisnya--menggunakan datanya untuk menyimpan dan membaca kode sumber terbuka.</translation>
-    </message>
-    <message>
         <source>Your session with the user account %1 has timed out. The service must verify your credentials again before you continue. If prompted, enter the username and password for %1 or loss of the document may occur.</source>
         <translation>Sesi Anda dengan akun pengguna %1 telah habis. Layanan harus memverifikasi lagi kredensial Anda sebelum melanjutkan. Jika diminta, masukkan nama pengguna dan kata sandi untuk %1 atau hilangnya dokumen dapat terjadi.</translation>
     </message>
@@ -4609,6 +5087,66 @@ Posisi ini mungkin tidak aman.</translation>
     <message>
         <source>PhotoDraw Files</source>
         <translation>File PhotoDraw</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
+        <translation>Perangkat lunak ini hanya dapat digunakan oleh pengguna individu untuk tujuan pribadi saja. Tidak dapat digunakan untuk tujuan komersial seperti produksi, bisnis, dan lain-lain. ||Perangkat lunak ini mencakup: Proyek FreeType, dengan otorisasi gratis diberikan berdasarkan klausul otorisasi dari Lisensi FreeType; Segmen Kata Mandarin, Anotasi Fonetik Mandarin, dan teknologi untuk konversi antara Mandarin modern dan Mandarin tradisional yang disediakan oleh Pusat Penelitian untuk Komputasi Sosial dan Pengambilan Informasi, Institut Teknologi Harbin; Pemeriksa Ejaan Hunspell, dan kode sumber Hunspell adalah kode sumber terbuka yang berlaku untuk beberapa lisensi: MPL 1.1, GPL 2.0, dan LGPL 2.1; Sqlite3--sesuai lisensi komersial gratisnya--menggunakan datanya untuk menyimpan dan membaca kode sumber terbuka.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot inert a file into self. (%1)</source>
+        <translation>WPS Writer tidak dapat menyisipkan dokumen ke dalam dokumen itu sendiri. (%1)</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation>%s Ada kesalahan selama operasi pencadangan. Coba operasi berikut: 
+•Periksa apakah direktori cadangan memiliki izin menulis, atau ubah direktori cadangan.
+•[Urungkan] operasi sebelumnya lalu [Simpan]; 
+•[Simpan Sebagai...] file teks（*.txt）; 
+•[Salin/Tempel] konten ke file baru; 
+•Buang perubahan pada file ini.
+(%s)</translation>
+    </message>
+    <message>
+        <source>Save As Video</source>
+        <translation>Simpan sebagai Video</translation>
+    </message>
+    <message>
+        <source>%s Errors occur when backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <translation>%s Ada kesalahan selama operasi pencadangan. Coba operasi berikut:
+•Periksa apakah direktori cadangan memiliki izin menulis, atau ubah direktori cadangan.
+•[Urungkan] operasi sebelumnya lalu [Simpan]; 
+•[Salin/Tempel] konten ke file baru; 
+•Buang perubahan pada file ini.</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
+        <translation>Perangkat lunak ini mencakup: Proyek FreeType, dengan otorisasi gratis diberikan berdasarkan klausul otorisasi dari Lisensi FreeType; Segmen Kata Mandarin, Anotasi Fonetik Mandarin, dan teknologi untuk konversi antara Mandarin modern dan Mandarin tradisional yang disediakan oleh Pusat Penelitian untuk Komputasi Sosial dan Pengambilan Informasi, Institut Teknologi Harbin; Pemeriksa Ejaan Hunspell, dan kode sumber Hunspell adalah kode sumber terbuka yang berlaku untuk beberapa lisensi: MPL 1.1, GPL 2.0, dan LGPL 2.1; Font Founder untuk digunakan di Linux WPS Office, dengan otorisasi resmi dari Founder; Sqlite3--sesuai lisensi komersial gratisnya--menggunakan datanya untuk menyimpan dan membaca kode sumber terbuka.</translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file is being edited by other users.</source>
+        <comment>_kso_TX_FILE_EDITING_CONFLICT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file has been updated by other users.</source>
+        <comment>_kso_TX_FILE_UPDATE_CONFLICT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>_kso_SaveToFileAllFile</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10725,6 +11263,46 @@ Jenis Garis: %3</translation>
         <source>WordArt: Deflate-Inflate</source>
         <translation>WordArt: Kembang-Kempis</translation>
     </message>
+    <message>
+        <source>Delete Background</source>
+        <comment>DRAWING2_DELETE_BACKGROUND</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The datasource file is not available.</source>
+        <comment>DRAWING2_WEBSHAPE_DataSourceFileUnavailable_Err</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A datasource in &quot;%s&quot; is opened by WPS Spreadsheets. To edit the data for this you need to close it first.</source>
+        <comment>DRAWING2_WEBSHAPE_EditDataSource_Err</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image Set Background</source>
+        <comment>DRAWING2_IMAGE_SETBACKGROUND</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add Text Box</source>
+        <comment>ADD_Text_Box</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Background</source>
+        <comment>DRAWING2_CHANGE_BACKGROUND</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert relationship map</source>
+        <comment>INSERT_RELATIONSHIP_MAP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group</source>
+        <comment>DRAWINGSTR_GROUPNAME</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QPrintDialog</name>
@@ -11066,6 +11644,14 @@ Pilih nama file lain.</translation>
         <source>B7 (88 x 125 mm)</source>
         <translation>B7 (88 x 125 mm)</translation>
     </message>
+    <message>
+        <source>Print current page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxScannerDlg</name>
@@ -11098,20 +11684,8 @@ Pilih nama file lain.</translation>
         <translation>Lainnya...</translation>
     </message>
     <message>
-        <source>Scan Color:</source>
-        <translation>Warna Pindai:</translation>
-    </message>
-    <message>
         <source>Image Size:</source>
         <translation>Ukuran Gambar:</translation>
-    </message>
-    <message>
-        <source>The Scanner Automatically Adapt</source>
-        <translation>Pemindai Adaptif</translation>
-    </message>
-    <message>
-        <source>Scan Dpi:</source>
-        <translation>Dpi Pindai:</translation>
     </message>
     <message>
         <source>Scanner:</source>
@@ -11126,12 +11700,24 @@ Pilih nama file lain.</translation>
         <translation>Mencari...</translation>
     </message>
     <message>
-        <source>Searched</source>
-        <translation>Pencarian lengkap.</translation>
-    </message>
-    <message>
         <source>Scanner Setup</source>
         <translation>Penyiapan Pemindai</translation>
+    </message>
+    <message>
+        <source>Scan Color:</source>
+        <translation>Warna Pindai:</translation>
+    </message>
+    <message>
+        <source>The Scanner Automatically Adapt</source>
+        <translation>Pemindai Adaptif</translation>
+    </message>
+    <message>
+        <source>Scan Dpi:</source>
+        <translation>Dpi Pindai:</translation>
+    </message>
+    <message>
+        <source>Searched</source>
+        <translation>Pencarian lengkap.</translation>
     </message>
 </context>
 <context>
@@ -11181,13 +11767,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     </message>
 </context>
 <context>
-    <name>KWpsAddonAuthDlg</name>
-    <message>
-        <source>NO</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>CheckInDlg</name>
     <message>
         <source>OK</source>
@@ -11220,6 +11799,22 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>Tambah</translation>
     </message>
     <message>
+        <source>type of encryption:</source>
+        <translation>jenis enkripsi:</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>Dialog</translation>
+    </message>
+    <message>
+        <source>issue number:</source>
+        <translation>nomor terbit:</translation>
+    </message>
+    <message>
         <source>Label as classified</source>
         <translation>Tandai Rahasia</translation>
     </message>
@@ -11244,24 +11839,8 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>nama dokumen:</translation>
     </message>
     <message>
-        <source>type of encryption:</source>
-        <translation>jenis enkripsi:</translation>
-    </message>
-    <message>
         <source>issue copy number:</source>
         <translation>Salinan yang Diterbitkan:</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>issue number:</source>
-        <translation>nomor terbit:</translation>
     </message>
     <message>
         <source>classification setup based on:</source>
@@ -11335,10 +11914,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>Buka</translation>
     </message>
     <message>
-        <source>Cannot open this object.</source>
-        <translation>Tidak menemukan aplikasi yang mendukung pembukaan objek saat ini.</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
@@ -11353,6 +11928,10 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     <message>
         <source>Warning</source>
         <translation>Peringatan</translation>
+    </message>
+    <message>
+        <source>Cannot open this object.</source>
+        <translation>Tidak menemukan aplikasi yang mendukung pembukaan objek saat ini.</translation>
     </message>
     <message>
         <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
@@ -11621,10 +12200,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>Tentang Spreadsheet WPS</translation>
     </message>
     <message>
-        <source>Probation period %1 days - Due time %2 </source>
-        <translation>Masa Uji Coba: %1 Hari - Tanggal Berakhir: %2</translation>
-    </message>
-    <message>
         <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
         <translation>Tentang WPS Presentation (Kingsoft Kylin WPS)</translation>
     </message>
@@ -11639,10 +12214,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     <message>
         <source>Part of %1 activation version</source>
         <translation>Bagian dari %1 versi aktivasi</translation>
-    </message>
-    <message>
-        <source>%1-%2year%3month%4day Expired</source>
-        <translation>Berakhir pada %1-%2-%3-%4</translation>
     </message>
     <message>
         <source>Part of %1</source>
@@ -11667,10 +12238,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     <message>
         <source>About WPS Writer(Kingsoft Kylin WPS)</source>
         <translation>Tentang WPS Writer (Kingsoft Kylin WPS)</translation>
-    </message>
-    <message>
-        <source>Due time %1</source>
-        <translation>Tanggal Berakhir: %1</translation>
     </message>
     <message>
         <source>License information should be based on authorized documents issued by kingsoft office or authorized information displayed in WPS + enterprise management.</source>
@@ -11701,10 +12268,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>Perjanjian lisensi</translation>
     </message>
     <message>
-        <source>trial unlimited</source>
-        <translation>Mode Uji Coba</translation>
-    </message>
-    <message>
         <source>Technical Support</source>
         <translation>Dukungan Teknis</translation>
     </message>
@@ -11715,6 +12278,22 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     <message>
         <source>About WPS Office(Kingsoft Kylin WPS)</source>
         <translation>Tentang WPS Office (Kingsoft Kylin WPS)</translation>
+    </message>
+    <message>
+        <source>Probation period %1 days - Due time %2 </source>
+        <translation>Masa Uji Coba: %1 Hari - Tanggal Berakhir: %2</translation>
+    </message>
+    <message>
+        <source>%1-%2year%3month%4day Expired</source>
+        <translation>Berakhir pada %1-%2-%3-%4</translation>
+    </message>
+    <message>
+        <source>Due time %1</source>
+        <translation>Tanggal Berakhir: %1</translation>
+    </message>
+    <message>
+        <source>trial unlimited</source>
+        <translation>Mode Uji Coba</translation>
     </message>
 </context>
 <context>
@@ -11787,10 +12366,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>OK</translation>
     </message>
     <message>
-        <source>Label as classified</source>
-        <translation>Tandai Rahasia</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
@@ -11802,9 +12377,40 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <source>Rejected</source>
         <translation>Ditolak</translation>
     </message>
+    <message>
+        <source>Label as classified</source>
+        <translation>Tandai Rahasia</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialogClass</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Current Chart Name</source>
+        <translation>Nama Bagan Saat Ini</translation>
+    </message>
+    <message>
+        <source>TextLabelForGroupChart</source>
+        <translation>Label Teks untuk Bagan Grup</translation>
+    </message>
+    <message>
+        <source>&amp;Manage Templates...</source>
+        <translation>Atur Templat...</translation>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation>Hapus, pindahkan, atau ganti nama templat Anda.</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeDialogClass_xa</name>
     <message>
         <source>OK</source>
         <translation>OK</translation>
@@ -11899,20 +12505,20 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>Dialog</translation>
     </message>
     <message>
-        <source>Watermark protection, the watermark is composed of the name of the enterprise, the outsider and the production time</source>
-        <translation>Perlindungan dengan tanda air. Tanda air tersusun dari nama perusahaan, pengirim dokumen keluar, dan waktu produksi.</translation>
-    </message>
-    <message>
-        <source>Make Ourward Document</source>
-        <translation>Buat Dokumen Ke Luar</translation>
-    </message>
-    <message>
         <source>Document password:</source>
         <translation>Kata sandi dokumen:</translation>
     </message>
     <message>
         <source>Comfirm password:</source>
         <translation>Konfirmasi kata sandi:</translation>
+    </message>
+    <message>
+        <source>Watermark protection, the watermark is composed of the name of the enterprise, the outsider and the production time</source>
+        <translation>Perlindungan dengan tanda air. Tanda air tersusun dari nama perusahaan, pengirim dokumen keluar, dan waktu produksi.</translation>
+    </message>
+    <message>
+        <source>Make Ourward Document</source>
+        <translation>Buat Dokumen Ke Luar</translation>
     </message>
 </context>
 <context>
@@ -12235,10 +12841,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>OK</translation>
     </message>
     <message>
-        <source>The network connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation>Ada pengecualian saat menyambung ke jaringan dan kata sandi offline tidak dapat diubah. Cek jaringan dan coba lagi nanti.</translation>
-    </message>
-    <message>
         <source>Import succeeded.</source>
         <translation>Impor berhasil.</translation>
     </message>
@@ -12263,22 +12865,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>ubah kata sandi</translation>
     </message>
     <message>
-        <source>Please click broswer button to import</source>
-        <translation>Klik tombol browser untuk impor</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation>Gagal mengimpor kunci offline karena Anda tidak memiliki izin offline untuk dokumen.</translation>
-    </message>
-    <message>
-        <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation>Ada kesalahan saat menyambung ke server. Anda tidak dapat menjalankan operasi %1 pada kata sandi offline. Coba lagi nanti.</translation>
-    </message>
-    <message>
-        <source>modified</source>
-        <translation>diubah</translation>
-    </message>
-    <message>
         <source>You have enter two different passwords.</source>
         <translation>Anda telah memasukkan dua kata sandi berbeda.</translation>
     </message>
@@ -12287,24 +12873,8 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
         <translation>Impor gagal</translation>
     </message>
     <message>
-        <source>setted</source>
-        <translation>Pengaturan</translation>
-    </message>
-    <message>
-        <source>Please enter a new password again</source>
-        <translation>Masukkan lagi kata sandi baru</translation>
-    </message>
-    <message>
         <source>Please enter current offline password</source>
         <translation>Masukkan kata sandi offline saat ini</translation>
-    </message>
-    <message>
-        <source>Modify password successfully</source>
-        <translation>Kata sandi berhasil diubah.</translation>
-    </message>
-    <message>
-        <source>Offline secret key has been successfully cached to your local computer.</source>
-        <translation>Kunci offline telah berhasil disimpan ke komputer lokal.</translation>
     </message>
     <message>
         <source>Failed to modify password</source>
@@ -12325,14 +12895,6 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     <message>
         <source>Current password can&apos;t be empty.</source>
         <translation>Kata sandi saat ini tidak boleh kosong.</translation>
-    </message>
-    <message>
-        <source>When there is no network, the encrypted document can be opened by verifying the offline password of the current account.</source>
-        <translation>Ketika tidak ada jaringan, dokumen terenkripsi dapat dibuka dengan memverifikasi kata sandi offiline akun saat ini.</translation>
-    </message>
-    <message>
-        <source>The original offline password input wrong</source>
-        <translation>Kata sandi offline asli yang diisikan salah.</translation>
     </message>
     <message>
         <source>Invalid import path, please readjust the file path.</source>
@@ -12369,6 +12931,50 @@ Klik dua kali atau gunakan menu cuat untuk membuka file. Ini akan menghapus pemi
     <message>
         <source>Please enter a new password with more than 8 digits</source>
         <translation>Masukkan kata sandi baru dengan lebih dari 8 digit</translation>
+    </message>
+    <message>
+        <source>The network connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
+        <translation>Ada pengecualian saat menyambung ke jaringan dan kata sandi offline tidak dapat diubah. Cek jaringan dan coba lagi nanti.</translation>
+    </message>
+    <message>
+        <source>Please click broswer button to import</source>
+        <translation>Klik tombol browser untuk impor</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
+        <translation>Gagal mengimpor kunci offline karena Anda tidak memiliki izin offline untuk dokumen.</translation>
+    </message>
+    <message>
+        <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
+        <translation>Ada kesalahan saat menyambung ke server. Anda tidak dapat menjalankan operasi %1 pada kata sandi offline. Coba lagi nanti.</translation>
+    </message>
+    <message>
+        <source>modified</source>
+        <translation>diubah</translation>
+    </message>
+    <message>
+        <source>setted</source>
+        <translation>Pengaturan</translation>
+    </message>
+    <message>
+        <source>Please enter a new password again</source>
+        <translation>Masukkan lagi kata sandi baru</translation>
+    </message>
+    <message>
+        <source>Modify password successfully</source>
+        <translation>Kata sandi berhasil diubah.</translation>
+    </message>
+    <message>
+        <source>Offline secret key has been successfully cached to your local computer.</source>
+        <translation>Kunci offline telah berhasil disimpan ke komputer lokal.</translation>
+    </message>
+    <message>
+        <source>When there is no network, the encrypted document can be opened by verifying the offline password of the current account.</source>
+        <translation>Ketika tidak ada jaringan, dokumen terenkripsi dapat dibuka dengan memverifikasi kata sandi offiline akun saat ini.</translation>
+    </message>
+    <message>
+        <source>The original offline password input wrong</source>
+        <translation>Kata sandi offline asli yang diisikan salah.</translation>
     </message>
     <message>
         <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
@@ -12681,18 +13287,6 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
         <translation>Cetak</translation>
     </message>
     <message>
-        <source>distribute unit</source>
-        <translation>Penerbit</translation>
-    </message>
-    <message>
-        <source>people info</source>
-        <translation>Info Personil</translation>
-    </message>
-    <message>
-        <source>strictly confidential</source>
-        <translation>Sangat Rahasia</translation>
-    </message>
-    <message>
         <source>Browse</source>
         <translation>Telusuri</translation>
     </message>
@@ -12707,10 +13301,6 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     <message>
         <source>cancel</source>
         <translation>Batal</translation>
-    </message>
-    <message>
-        <source>File level</source>
-        <translation>Tingkat Kerahasiaan File:</translation>
     </message>
     <message>
         <source>public</source>
@@ -12729,16 +13319,32 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
         <translation>file pdf</translation>
     </message>
     <message>
+        <source>ofd file</source>
+        <translation>file ofd</translation>
+    </message>
+    <message>
+        <source>distribute unit</source>
+        <translation>Penerbit</translation>
+    </message>
+    <message>
+        <source>people info</source>
+        <translation>Info Personil</translation>
+    </message>
+    <message>
+        <source>strictly confidential</source>
+        <translation>Sangat Rahasia</translation>
+    </message>
+    <message>
+        <source>File level</source>
+        <translation>Tingkat Kerahasiaan File:</translation>
+    </message>
+    <message>
         <source>recieve unit</source>
         <translation>Unit Penerima</translation>
     </message>
     <message>
         <source>confidential</source>
         <translation>Rahasia</translation>
-    </message>
-    <message>
-        <source>ofd file</source>
-        <translation>file ofd</translation>
     </message>
     <message>
         <source>distribution settings</source>
@@ -12873,10 +13479,6 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
         <translation>Pulihkan Default</translation>
     </message>
     <message>
-        <source>Open in read-only</source>
-        <translation>Buka sebagai Hanya Baca</translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>Tutup (&amp;u)</translation>
     </message>
@@ -12916,6 +13518,10 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
         <source>Don&apos;t Save</source>
         <translation>Jangan Simpan</translation>
     </message>
+    <message>
+        <source>Open in read-only</source>
+        <translation>Buka sebagai Hanya Baca</translation>
+    </message>
 </context>
 <context>
     <name>QMessageBox</name>
@@ -12942,6 +13548,22 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
     <message>
         <source>Hide Details...</source>
         <translation>Sembunyikan Detail...</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13115,16 +13737,8 @@ Setelah berakhir, beberapa fitur tidak akan berfungsi dengan benar. Silakan perp
         <translation>Autocadang</translation>
     </message>
     <message>
-        <source>printing left %1 copies, the current setting exceeds the limit, please input again</source>
-        <translation>%1 salinan lagi untuk pencetakan. Pengaturan saat ini melebihi limit. Harap masukkan lagi.</translation>
-    </message>
-    <message>
         <source>Recent Fonts</source>
         <translation>Font Terbaru</translation>
-    </message>
-    <message>
-        <source>local font, click available</source>
-        <translation>Klik untuk menggunakan font lokal yang tersedia</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13395,10 +14009,6 @@ Selalu ambil tindakan ini.</translation>
         <translation>Biru Muda</translation>
     </message>
     <message>
-        <source>do not has current document&apos;s printing right</source>
-        <translation>Anda tidak memiliki izin pencetakan untuk file saat ini.</translation>
-    </message>
-    <message>
         <source>Share as a link for comments</source>
         <translation>Bagikan sebagai tautan untuk komentar</translation>
     </message>
@@ -13593,12 +14203,160 @@ Selalu ambil tindakan ini.</translation>
         <translation>Penulisan kesalahan tulis untuk %1: %2</translation>
     </message>
     <message>
+        <source>Manage Duplicates</source>
+        <translation>Kelola Duplikat</translation>
+    </message>
+    <message>
+        <source>printing left %1 copies, the current setting exceeds the limit, please input again</source>
+        <translation>%1 salinan lagi untuk pencetakan. Pengaturan saat ini melebihi limit. Harap masukkan lagi.</translation>
+    </message>
+    <message>
+        <source>local font, click available</source>
+        <translation>Klik untuk menggunakan font lokal yang tersedia</translation>
+    </message>
+    <message>
+        <source>do not has current document&apos;s printing right</source>
+        <translation>Anda tidak memiliki izin pencetakan untuk file saat ini.</translation>
+    </message>
+    <message>
         <source>must be 6-16 chars(case-sensitive)</source>
         <translation>Harus terdiri dari 6 hingga 16 karakter (peka huruf besar/kecil).</translation>
     </message>
     <message>
-        <source>Manage Duplicates</source>
-        <translation>Kelola Duplikat</translation>
+        <source>Reading layout, eye protection mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Small, fast, and feature-rich PDF App. View, edit and annotate PDF files in a better way</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add text comments, comment view mode, and print with all comments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Freehand-writing and drawing with graffiti tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Organize page order, delete, insert, replace, clip or rotate pages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share your doc as a copy or an editable link, scan QRCode to send files to mobile</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fast and stable for view PDF files, unlimited multi-tab mode, eye protection mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Highlight, underline and strikeout text in PDF file, highlight area </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share as an editable link for collaborate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fully compatible with Microsoft Word</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Print and print with the watermark or all comments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Merge Split Tables</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit text &amp; image in PDF files. Rotate, flip and compress images in PDF files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert text to fill and create signatures to sign PDFs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert line, arrow and more shapes, insert custom watermark</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unique document creation and management home page, start all your work in one place</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text to Spreadsheets columns</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Screengrab or convert pictures to text(OCR)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Word, Picture to Text(OCR), Picture to PDF, Backup Center and more easy-to-use tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlimited multi-tab mode, Night theme, reading view, and eye protection mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Combine multiple PDF documents into a new PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>View side by side makes comparing easier</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Store and sync files across all platforms and devices, including Windows, Mac, Android, iOS, Linux and Web</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export spreadsheets to Picture </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All premium features are also available for Mobile, Mac and Web WPS Office</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Organize team content within the Team Space, local edit and online real-time collaboration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert or batch convert PDF to Microsoft Word, Excel, Powerpoint or TXT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Share PDF file as a link for comments to mail or WhatsApp</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Export document to Picture or long picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SlideShow mode enables to present your PDF file as PowerPoint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reading view  and eye protection mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;%1&quot; duplicates a previous role name and will be disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PulseAudio Sound Server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>invalid query: &quot;%1&quot;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14350,10 +15108,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Video</source>
-        <translation>Video</translation>
-    </message>
-    <message>
         <source>Edit Text</source>
         <translation>Edit Teks</translation>
     </message>
@@ -14463,14 +15217,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <translation>File Film QuickTime (*.mov)</translation>
     </message>
     <message>
-        <source>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert JdeControl</source>
-        <translation>Sisipkan Kontrol JDE</translation>
-    </message>
-    <message>
         <source>Insert Freeform</source>
         <translation>Sisipkan Bentuk Bebas</translation>
     </message>
@@ -14542,10 +15288,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <translation>Kontras Lebih</translation>
     </message>
     <message>
-        <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
-        <translation>Gagal membaca dan menulis video. Periksa izin akses disk.</translation>
-    </message>
-    <message>
         <source>MP4 Audio (*.m4a)</source>
         <translation>Audio MP4 (*.m4a)</translation>
     </message>
@@ -14574,10 +15316,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
         <translation>Sisipkan Kotak Teks</translation>
-    </message>
-    <message>
-        <source>Unidentifiable sound format.</source>
-        <translation>Format audio yang tidak dapat diidentifikasi.</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -14644,10 +15382,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <translation>Graphics Interchange Format(*.gif)|*.gif</translation>
-    </message>
-    <message>
-        <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
-        <translation>WPS Office telah memblokir akses ke objek tertanam ini agar Anda tetap aman.</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -14767,10 +15501,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
         <translation>Senggol Objek</translation>
     </message>
     <message>
-        <source>Save Failed</source>
-        <translation>Gagal disimpan</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>Kustom</translation>
     </message>
@@ -14852,10 +15582,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     <message>
         <source>Normal</source>
         <translation>Normal</translation>
-    </message>
-    <message>
-        <source>WPS Office Security Notice</source>
-        <translation>Pemberitahuan Keamanan WPS Office</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -15072,10 +15798,6 @@ Untuk memilih nama dari Buku alamat, klik tombol Baca atau Ubah.</translation>
     <message>
         <source>Coloring By Fan Color</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert AutoShape</source>
-        <translation>Sisipkan Autobentuk</translation>
     </message>
     <message>
         <source>Convert To Smartart Graphic</source>
@@ -15300,11 +16022,6 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>Distribusikan Horizontal</translation>
     </message>
     <message>
-        <source>Insert AutoShape</source>
-        <comment>DgUil_InsertShape</comment>
-        <translation>Sisipkan Autobentuk</translation>
-    </message>
-    <message>
         <source>Insert Movie</source>
         <comment>DgDesc_InsertMovie</comment>
         <translation>Sisipkan Film</translation>
@@ -15403,10 +16120,6 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Highlight Color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Cannot find the specified file, please verify that the path and file name are correct.</source>
         <translation>Tidak dapat menemukan file yang ditentukan. Pastikan jalur dan nama file sudah benar.</translation>
     </message>
@@ -15452,10 +16165,6 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>Uraikan</translation>
     </message>
     <message>
-        <source>Reset Crop</source>
-        <translation>Setel Ulang Bentuk dan Ukuran</translation>
-    </message>
-    <message>
         <source>Change Series</source>
         <translation type="unfinished"/>
     </message>
@@ -15481,16 +16190,8 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>Bawa ke Depan Teks</translation>
     </message>
     <message>
-        <source>Unidentifiable movie format.</source>
-        <translation>Format video yang tidak dapat diidentifikasi.</translation>
-    </message>
-    <message>
         <source>Insert Clip Art</source>
         <translation>Sisipkan Klip Seni</translation>
-    </message>
-    <message>
-        <source>Save as Video</source>
-        <translation>Simpan sebagai Video</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -15537,10 +16238,6 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>3D</translation>
     </message>
     <message>
-        <source>Failed to save the file as video!Please check whether your video exists.</source>
-        <translation>Gagal memuat video. Periksa apakah video tersebut ada atau sudah rusak.</translation>
-    </message>
-    <message>
         <source>Letter Justify</source>
         <translation>Rata Spasi Huruf</translation>
     </message>
@@ -15563,11 +16260,6 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     <message>
         <source>Insert Control</source>
         <translation>Sisipkan Kontrol</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
-        <translation>Kesalahan</translation>
     </message>
     <message>
         <source>DVD Video File(*.vob)</source>
@@ -15756,12 +16448,253 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>Perataan</translation>
     </message>
     <message>
+        <source>Smooth Point</source>
+        <translation>Titik Halus</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation>Video</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert JdeControl</source>
+        <translation>Sisipkan Kontrol JDE</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
+        <translation>Gagal membaca dan menulis video. Periksa izin akses disk.</translation>
+    </message>
+    <message>
+        <source>Unidentifiable sound format.</source>
+        <translation>Format audio yang tidak dapat diidentifikasi.</translation>
+    </message>
+    <message>
+        <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
+        <translation>WPS Office telah memblokir akses ke objek tertanam ini agar Anda tetap aman.</translation>
+    </message>
+    <message>
+        <source>Save Failed</source>
+        <translation>Gagal disimpan</translation>
+    </message>
+    <message>
+        <source>WPS Office Security Notice</source>
+        <translation>Pemberitahuan Keamanan WPS Office</translation>
+    </message>
+    <message>
+        <source>Insert AutoShape</source>
+        <translation>Sisipkan Autobentuk</translation>
+    </message>
+    <message>
+        <source>Insert AutoShape</source>
+        <comment>DgUil_InsertShape</comment>
+        <translation>Sisipkan Autobentuk</translation>
+    </message>
+    <message>
+        <source>Highlight Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reset Crop</source>
+        <translation>Setel Ulang Bentuk dan Ukuran</translation>
+    </message>
+    <message>
+        <source>Unidentifiable movie format.</source>
+        <translation>Format video yang tidak dapat diidentifikasi.</translation>
+    </message>
+    <message>
+        <source>Save as Video</source>
+        <translation>Simpan sebagai Video</translation>
+    </message>
+    <message>
+        <source>Failed to save the file as video!Please check whether your video exists.</source>
+        <translation>Gagal memuat video. Periksa apakah video tersebut ada atau sudah rusak.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
+        <translation>Kesalahan</translation>
+    </message>
+    <message>
         <source>Failed to save the file as video!Please retry.</source>
         <translation>Gagal menyimpan. Silakan coba lagi.</translation>
     </message>
     <message>
-        <source>Smooth Point</source>
-        <translation>Titik Halus</translation>
+        <source>Fragment Shapes</source>
+        <comment>DgUil_KSO_Cmd_FragmentShapes</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reset Picture Color</source>
+        <comment>DgUil_ResetPictureColor</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Text Box</source>
+        <comment>DgUil_FormatTextBox</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sharpen/Soften</source>
+        <comment>DgUil_SharpenSoften</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Combine Shapes</source>
+        <comment>DgUil_KSO_Cmd_HollowShapes</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert AutoShape</source>
+        <comment>DgUil_InsertAutoShape</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smart Compression</source>
+        <comment>DgUil_SmartCompressPicture</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Drawing Order</source>
+        <comment>DgUil_DrawingOrder</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>DgUil_DoNotCompressPicture</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Lock Aspect Ratio</source>
+        <comment>DgUil_LockAspectRatio</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete Shape</source>
+        <comment>DgUil_DeleteShape</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Picture Frame</source>
+        <comment>DgUil_KSO_Cmd_ClearPictureFrame</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit WordArt</source>
+        <comment>DgUil_EditWordArt</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Series</source>
+        <comment>DgUil_KSO_Cmd_ChangeSeries </comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture Reset</source>
+        <comment>DgUil_PictureReset</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paragraph Style</source>
+        <comment>DgUil_ParagraphStyle</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color Saturation Effect</source>
+        <comment>DgUil_ColorSaturationEffect</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create Content Control</source>
+        <comment>DgUil_CreateContentControl</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Shape Name</source>
+        <comment>DgUil_ChangeShapeName</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coloring By Fan Color</source>
+        <comment>DgUil_KSO_Cmd_ColoringByFanColor </comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color Tone Effect</source>
+        <comment>DgUil_ColorToneEffect</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Subtract Shapes</source>
+        <comment>DgUil_KSO_Cmd_SubtractShapes</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intersect Shapes </source>
+        <comment>DgUil_KSO_Cmd_IntersectShapes</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Chart Area</source>
+        <comment>DgUil_ChangeChartArea</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Brightness/Contrast</source>
+        <comment>DgUil_BrightnessContrast</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Union Shapes</source>
+        <comment>DgUil_KSO_Cmd_UniteShapes</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common Compression</source>
+        <comment>Dguil_CommonCompressPicture</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Relative to Original</source>
+        <comment>DgUil_RelativeToOriginal</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Text Box</source>
+        <comment>DgUil_KSO_Cmd_AddTextbox</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <comment>DgUil_DlgChangePictureTitle</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Crop</source>
+        <comment>DgUil_KSO_Cmd_CropPicture</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <comment>DgUil_KSO_Cmd_ArrowStylePalette</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>3-D</source>
+        <comment>DgUil_KSO_Cmd_3DDepthInfinity</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nudge Shadow</source>
+        <comment>DgUil_KSO_Cmd_NudgeShadowDown</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nudge Object</source>
+        <comment>DgUil_KSO_Cmd_NudgeDown</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16802,14 +17735,6 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <translation>Persempit bidang pandang</translation>
     </message>
     <message>
-        <source>Right Angle Ae&amp;xs</source>
-        <translation>Sumbu Sudut Kanan (X)</translation>
-    </message>
-    <message>
-        <source>Auto&amp;scale</source>
-        <translation>Skala Otomatis (S)</translation>
-    </message>
-    <message>
         <source>&amp;Reset</source>
         <translation>Reset (&amp;R)</translation>
     </message>
@@ -16876,6 +17801,14 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     <message>
         <source>Turn Up</source>
         <translation>Belok Ke Atas</translation>
+    </message>
+    <message>
+        <source>Right Angle Ae&amp;xs</source>
+        <translation>Sumbu Sudut Kanan (X)</translation>
+    </message>
+    <message>
+        <source>Auto&amp;scale</source>
+        <translation>Skala Otomatis (S)</translation>
     </message>
 </context>
 <context>
@@ -17188,6 +18121,14 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
         <source>Duplex Printing</source>
         <translation>Pencetakan Dupleks</translation>
     </message>
+    <message>
+        <source>Current Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Color mode</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
@@ -17321,6 +18262,10 @@ Ingat, mengompres gambar dapat mengurangi kualitas gambar Anda. Anda ingin mengo
     <message>
         <source>Export to PostScript</source>
         <translation>Ekspor ke Catatan Tambahan</translation>
+    </message>
+    <message>
+        <source>Print Setup</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17917,6 +18862,26 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Detail View</source>
         <translation>Tampilan Detail</translation>
+    </message>
+    <message>
+        <source>System link to special</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>System link to file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>System link to directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>System link</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19309,6 +20274,58 @@ Cek jalur dan nama file.</translation>
         <source>Multidirectional Cycle</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Table List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vertical Block List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vertical Picture List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Trapezoid List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vertical Bullet List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right to Left</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KNativeFileDialogEx</name>
@@ -19494,6 +20511,10 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Gurmukhi</source>
         <translation>Gurmukhi</translation>
+    </message>
+    <message>
+        <source>N&apos;Ko</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19885,10 +20906,6 @@ Cek jalur dan nama file.</translation>
         <translation>Bar Bertumpuk 100%</translation>
     </message>
     <message>
-        <source>Pie of 3d</source>
-        <translation>Diagram Lingkaran 3D</translation>
-    </message>
-    <message>
         <source>Volume-Open-High-Low-Close</source>
         <translation>Volume-Pembukaan-Tinggi-Rendah-Penutupan</translation>
     </message>
@@ -19983,6 +21000,10 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Stacked Column</source>
         <translation>Kolom Bertumpuk</translation>
+    </message>
+    <message>
+        <source>Pie of 3d</source>
+        <translation>Diagram Lingkaran 3D</translation>
     </message>
     <message>
         <source>DsOnlineChart</source>
@@ -20132,10 +21153,6 @@ Cek jalur dan nama file.</translation>
         <translation>Bar Bertumpuk 100%</translation>
     </message>
     <message>
-        <source>Pie of 3d</source>
-        <translation>Diagram Lingkaran 3D</translation>
-    </message>
-    <message>
         <source>Volume-Open-High-Low-Close</source>
         <translation>Volume-Pembukaan-Tinggi-Rendah-Penutupan</translation>
     </message>
@@ -20231,6 +21248,10 @@ Cek jalur dan nama file.</translation>
         <source>Stacked Column</source>
         <translation>Kolom Bertumpuk</translation>
     </message>
+    <message>
+        <source>Pie of 3d</source>
+        <translation>Diagram Lingkaran 3D</translation>
+    </message>
 </context>
 <context>
     <name>kso_omath</name>
@@ -20245,11 +21266,6 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Plus</source>
         <translation>Tambah</translation>
-    </message>
-    <message>
-        <source>Letter-Like Symbols</source>
-        <comment>OMATH_SYMBOL_CLLS_LETTER_LIKE_SYMBOL</comment>
-        <translation>Simbol Seperti Huruf</translation>
     </message>
     <message>
         <source>Check</source>
@@ -20280,16 +21296,6 @@ Cek jalur dan nama file.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Geometry</source>
-        <comment>OMATH_SYMBOL_CG_GEOMETRY</comment>
-        <translation>Geometri</translation>
-    </message>
-    <message>
-        <source>Negated Relations</source>
-        <comment>OMATH_SYMBOL_CNR_NEGATED_RELATIONS</comment>
-        <translation>Hubungan Negasi</translation>
-    </message>
-    <message>
         <source>Maximum</source>
         <translation>Maksimum</translation>
     </message>
@@ -20314,11 +21320,6 @@ Cek jalur dan nama file.</translation>
         <translation>Integral</translation>
     </message>
     <message>
-        <source>Basic Math</source>
-        <comment>OMATH_SYMBOL_CBM_BASIC_MATH</comment>
-        <translation>Matematika Dasar</translation>
-    </message>
-    <message>
         <source>Operator</source>
         <translation>Operator</translation>
     </message>
@@ -20333,10 +21334,6 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Product</source>
         <translation>Hasil</translation>
-    </message>
-    <message>
-        <source>Negated Relations</source>
-        <translation>Hubungan Negasi</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -20361,10 +21358,6 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Subscript</source>
         <translation>Subskrip</translation>
-    </message>
-    <message>
-        <source>Scripts</source>
-        <translation>Skrip</translation>
     </message>
     <message>
         <source>Superscript</source>
@@ -20393,16 +21386,48 @@ Cek jalur dan nama file.</translation>
         <translation>Kurung Siku</translation>
     </message>
     <message>
+        <source>Remove Enclosing Characters</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Subscripts and Superscripts</source>
+        <translation>Subskrip dan Superskrip</translation>
+    </message>
+    <message>
+        <source>Letter-Like Symbols</source>
+        <comment>OMATH_SYMBOL_CLLS_LETTER_LIKE_SYMBOL</comment>
+        <translation>Simbol Seperti Huruf</translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <comment>OMATH_SYMBOL_CG_GEOMETRY</comment>
+        <translation>Geometri</translation>
+    </message>
+    <message>
+        <source>Negated Relations</source>
+        <comment>OMATH_SYMBOL_CNR_NEGATED_RELATIONS</comment>
+        <translation>Hubungan Negasi</translation>
+    </message>
+    <message>
+        <source>Basic Math</source>
+        <comment>OMATH_SYMBOL_CBM_BASIC_MATH</comment>
+        <translation>Matematika Dasar</translation>
+    </message>
+    <message>
+        <source>Negated Relations</source>
+        <translation>Hubungan Negasi</translation>
+    </message>
+    <message>
+        <source>Scripts</source>
+        <translation>Skrip</translation>
+    </message>
+    <message>
         <source>Greek Letters</source>
         <translation>Huruf Yunani</translation>
     </message>
     <message>
         <source>Geometry</source>
         <translation>Geometri</translation>
-    </message>
-    <message>
-        <source>Remove Enclosing Characters</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align at =</source>
@@ -20413,12 +21438,44 @@ Cek jalur dan nama file.</translation>
         <translation>Simbol Seperti Huruf</translation>
     </message>
     <message>
-        <source>Subscripts and Superscripts</source>
-        <translation>Subskrip dan Superskrip</translation>
-    </message>
-    <message>
         <source>Basic Math</source>
         <translation>Matematika Dasar</translation>
+    </message>
+    <message>
+        <source>Fourier Series</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pythagorean Theorem</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Taylor Expansion</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expansion of a Sum</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quadratic Formula</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Trig Identity 1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Trig Identity 2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Area of Circle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Binomial Theorem</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20873,6 +21930,248 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Select to the next line</source>
         <translation>Pilih ke baris berikutnya</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <comment>Ignore Grammar context menu item</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Movie time scrubber thumb</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Indefinite time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute audio tracks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Status Display</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pause Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Slider Thumb</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 minutes %2 seconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left to Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right to Left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rewind movie</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Movie time scrubber</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Play movie in full-screen mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Seek quickly back</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Element</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Play Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Indent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return streaming movie to real-time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The script on this page appears to have a problem. Do you want to stop the script?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Slider</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Live Broadcast</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste and Match Style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Outdent</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Bulleted List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>JavaScript Problem - %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remaining movie time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Redirection limit reached</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remaining Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Video Element</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Seek quickly forward</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Begin playback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 days %2 hours %3 minutes %4 seconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 seconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Seek Back Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pause playback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Numbered List</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio element playback controls and status display</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Seek Forward Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Current movie status</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rewind Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 hours %2 minutes %3 seconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute audio tracks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fullscreen Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Missing Plug-in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return to Real-time Button</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Current movie time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Video element playback controls and status display</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove formatting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Elapsed Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+            </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22323,10 +23622,6 @@ Cek jalur dan nama file.</translation>
         <translation>Label Data</translation>
     </message>
     <message>
-        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.</source>
-        <translation>Templat ini tidak dapat diterapkan. Mungkin rusak atau tidak mau berfungsi untuk bagan yang dipilih.</translation>
-    </message>
-    <message>
         <source>Delete Value Axis</source>
         <translation type="unfinished"/>
     </message>
@@ -22805,6 +24100,120 @@ Cek jalur dan nama file.</translation>
         <source>Gridlines</source>
         <translation>Garis kisi</translation>
     </message>
+    <message>
+        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.</source>
+        <translation>Templat ini tidak dapat diterapkan. Mungkin rusak atau tidak mau berfungsi untuk bagan yang dipilih.</translation>
+    </message>
+    <message>
+        <source>Delete Value Axis</source>
+        <comment>CHART_DELETE_AXIS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Chart Color</source>
+        <comment>CHART_ChartColor</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Marker</source>
+        <comment>CHART_Marker</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Series</source>
+        <comment>CHART_ChangeSeries</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Formatting</source>
+        <comment>CHART_ChangeFormatting</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reset To Match Style</source>
+        <comment>CHART_ResetToMatchStyle</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Drawing Area Size</source>
+        <comment>CHART_CHANGE_DRAWING_AREA_SIZE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Category Axis Title</source>
+        <comment>CHART_AxisTitles</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Character Style</source>
+        <comment>CHART_CharacterStyle</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Data Label Size</source>
+        <comment>CHART_CHANGE_DATA_LABEL_SIZE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Chart Element</source>
+        <comment>CHART_DELETE_CHART_ELEMENT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add/Remove Chart Sub Elements</source>
+        <comment>CHART_AddRemoveChartSubElements</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Data Table</source>
+        <comment>CHART_DELETE_DATA_TABLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add/Remove Chart Elements</source>
+        <comment>CHART_AddRemoveChartElements</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Chart Element</source>
+        <comment>CHART_DELETE_DATA_LABEL</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PieChart</source>
+        <comment>CHART_PieChart</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Chart Layout</source>
+        <comment>CHART_ChartLayout</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Apply Quick Layout</source>
+        <comment>CHART_QuickLayout</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add Formatting</source>
+        <comment>CHART_AddFormatting</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Chart Style</source>
+        <comment>CHART_ChartStyle</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Gridlines</source>
+        <comment>CHART_DELETE_GRIDLINES</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change Chart Number Format</source>
+        <comment>CHART_ChartNumberFormat</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KPremiumGuidePage</name>
@@ -22839,6 +24248,22 @@ Cek jalur dan nama file.</translation>
     <message>
         <source>Spreadsheets</source>
         <translation>Spreadsheet</translation>
+    </message>
+    <message>
+        <source>WPS Premium include %1 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Key Feature</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Try WPS Premium features</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All-in-One office pack with PDF editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23052,10 +24477,6 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
         <translation>Area Bertumpuk - Kolom Bergugus</translation>
     </message>
     <message>
-        <source>3DPie</source>
-        <translation>Diagram Lingkaran 3D</translation>
-    </message>
-    <message>
         <source>Combo</source>
         <translation>Kombo</translation>
     </message>
@@ -23066,14 +24487,6 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     <message>
         <source>Stock</source>
         <translation>Saham</translation>
-    </message>
-    <message>
-        <source>2-D Area</source>
-        <translation>Area 2D</translation>
-    </message>
-    <message>
-        <source>2-D Line</source>
-        <translation>Garis 2D</translation>
     </message>
     <message>
         <source>Open-High-Low-Close</source>
@@ -23124,18 +24537,6 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
         <translation>Gelembung</translation>
     </message>
     <message>
-        <source>2-D Column</source>
-        <translation>Kolom 2D</translation>
-    </message>
-    <message>
-        <source>2-D Bar</source>
-        <translation>Bar 2D</translation>
-    </message>
-    <message>
-        <source>2-D Pie</source>
-        <translation>Pie 2D</translation>
-    </message>
-    <message>
         <source>Bar Of Pie</source>
         <translation>Batang dari Pai</translation>
     </message>
@@ -23146,10 +24547,6 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     <message>
         <source>Volume-High-Low-Close</source>
         <translation>Volume-Tinggi-Rendah-Penutupan</translation>
-    </message>
-    <message>
-        <source>3-D Pie</source>
-        <translation>Pie 2D {3-?}</translation>
     </message>
     <message>
         <source>Doughnut</source>
@@ -23218,6 +24615,34 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     <message>
         <source>Stacked Column</source>
         <translation>Kolom Bertumpuk</translation>
+    </message>
+    <message>
+        <source>3DPie</source>
+        <translation>Diagram Lingkaran 3D</translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation>Area 2D</translation>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation>Garis 2D</translation>
+    </message>
+    <message>
+        <source>2-D Column</source>
+        <translation>Kolom 2D</translation>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation>Bar 2D</translation>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation>Pie 2D</translation>
+    </message>
+    <message>
+        <source>3-D Pie</source>
+        <translation>Pie 2D {3-?}</translation>
     </message>
 </context>
 <context>
@@ -24031,6 +25456,14 @@ Konten</translation>
         <source>Mac OS X input method</source>
         <translation>Metode input Mac OS X</translation>
     </message>
+    <message>
+        <source>FEP</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>S60 FEP input method</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -24127,10 +25560,6 @@ Alasan yang mungkin:
     <message>
         <source>WPS Office Outward Document</source>
         <translation>Dokumen Outward WPS Office</translation>
-    </message>
-    <message>
-        <source>WPS Writer Official Template</source>
-        <translation>Templat WPS Official Document</translation>
     </message>
     <message>
         <source>%1 outward document  applicant : %2  approver : %3</source>
@@ -24276,10 +25705,6 @@ Masukkan nama lain.</translation>
         <translation>Dokumen Microsoft Word</translation>
     </message>
     <message>
-        <source>WPS Writer Official Document</source>
-        <translation>WPS Official Document</translation>
-    </message>
-    <message>
         <source>XML Files</source>
         <translation>File XML</translation>
     </message>
@@ -24306,6 +25731,14 @@ Masukkan nama lain.</translation>
     <message>
         <source>XML File Templates</source>
         <translation>Templat File XML</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Template</source>
+        <translation>Templat WPS Official Document</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Document</source>
+        <translation>WPS Official Document</translation>
     </message>
 </context>
 <context>
@@ -24361,13 +25794,6 @@ Masukkan nama lain.</translation>
     <message>
         <source>Privacy Agreement</source>
         <translation>Kebijakan Privasi</translation>
-    </message>
-</context>
-<context>
-    <name>KxImageToPDFOneCommand</name>
-    <message>
-        <source>pic</source>
-        <translation>Versi hanya gambar</translation>
     </message>
 </context>
 <context>
@@ -24493,6 +25919,10 @@ Masukkan nama lain.</translation>
     <message>
         <source>Cannot open for output</source>
         <translation>Tidak dapat dibuka untuk output</translation>
+    </message>
+    <message>
+        <source>Will not rename sequential file using block copy</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -25110,6 +26540,46 @@ Please verify the correct file name was given.</source>
 File tidak ditemukan.
 Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     </message>
+    <message>
+        <source>Alias</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File Folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Create a New Folder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go forward</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go to the parent directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go back</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change to detail view mode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shortcut</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change to list view mode</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgPermissionApplyDetail</name>
@@ -25264,10 +26734,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Buka</translation>
     </message>
     <message>
-        <source>If WPS client is already running, you need to restart it to take effect.</source>
-        <translation>Jika klien WPS sudah terbuka, Anda harus memulai ulang WPS untuk diterapkan.</translation>
-    </message>
-    <message>
         <source>Allow</source>
         <translation>Izinkan(&amp;A)</translation>
     </message>
@@ -25282,14 +26748,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <message>
         <source>Uninstall</source>
         <translation>Hapus instalan</translation>
-    </message>
-    <message>
-        <source>Confirm that the add-on &quot;%1&quot; is allowed to run in the WPS client?</source>
-        <translation>Konfirmasi mengizinkan add-in &quot;%1&quot; berjalan di klien WPS?</translation>
-    </message>
-    <message>
-        <source>Confirm that &quot;%1&quot; delete WPS Addon &quot;%2&quot; is allowed?</source>
-        <translation>Konfirmasi mengizinkan &quot;%1&quot; menghapus add-in WPS &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>Unknown Origin</source>
@@ -25316,20 +26774,32 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Konfirmasi untuk mengizinkan &quot;%1&quot; mengakses Addon WPS &quot;%2&quot;?</translation>
     </message>
     <message>
-        <source>F4Repeat</source>
-        <translation>Ulangi</translation>
-    </message>
-    <message>
         <source>Save as</source>
         <translation>Simpan Sebagai</translation>
     </message>
     <message>
-        <source>Please make sure that the site is trusted, it has the right to display its web page information in WPS and access your document contentand computer resources.</source>
-        <translation>Pastikan situs tersebut tepercaya dan memiliki hak untuk menampilkan informasi halaman webnya di WPS dan mengakses konten dokumen dan sumber komputer Anda.</translation>
-    </message>
-    <message>
         <source>Allowed this time</source>
         <translation>Izinkan kali ini</translation>
+    </message>
+    <message>
+        <source>If WPS client is already running, you need to restart it to take effect.</source>
+        <translation>Jika klien WPS sudah terbuka, Anda harus memulai ulang WPS untuk diterapkan.</translation>
+    </message>
+    <message>
+        <source>Confirm that the add-on &quot;%1&quot; is allowed to run in the WPS client?</source>
+        <translation>Konfirmasi mengizinkan add-in &quot;%1&quot; berjalan di klien WPS?</translation>
+    </message>
+    <message>
+        <source>Confirm that &quot;%1&quot; delete WPS Addon &quot;%2&quot; is allowed?</source>
+        <translation>Konfirmasi mengizinkan &quot;%1&quot; menghapus add-in WPS &quot;%2&quot;?</translation>
+    </message>
+    <message>
+        <source>F4Repeat</source>
+        <translation>Ulangi</translation>
+    </message>
+    <message>
+        <source>Please make sure that the site is trusted, it has the right to display its web page information in WPS and access your document contentand computer resources.</source>
+        <translation>Pastikan situs tersebut tepercaya dan memiliki hak untuk menampilkan informasi halaman webnya di WPS dan mengakses konten dokumen dan sumber komputer Anda.</translation>
     </message>
     <message>
         <source>Confirm to add WPS Addon &quot;%1&quot;?</source>
@@ -25418,10 +26888,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Komentar:</translation>
     </message>
     <message>
-        <source>&amp;Fast Print</source>
-        <translation>Cetak Cepat</translation>
-    </message>
-    <message>
         <source>Printer</source>
         <translation>Printer</translation>
     </message>
@@ -25448,6 +26914,10 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <message>
         <source>&amp;Properties...</source>
         <translation>Properti...</translation>
+    </message>
+    <message>
+        <source>&amp;Fast Print</source>
+        <translation>Cetak Cepat</translation>
     </message>
 </context>
 <context>
@@ -25881,6 +27351,26 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Kiat</translation>
     </message>
     <message>
+        <source>Cannot issue</source>
+        <translation>Tidak dapat menerbitkan</translation>
+    </message>
+    <message>
+        <source>can not operate</source>
+        <translation>tidak dapat dioperasikan</translation>
+    </message>
+    <message>
+        <source>Cannot lift classification</source>
+        <translation>Tidak dapat menaikkan klasifikasi</translation>
+    </message>
+    <message>
+        <source>Cannot change classification level</source>
+        <translation>Tidak dapat mengubah tingkat klasifikasi</translation>
+    </message>
+    <message>
+        <source>You cannot withdraw issue because you are not the issuer.</source>
+        <translation>Anda tidak dapat menarik penerbitan karena Anda bukan penerbit.</translation>
+    </message>
+    <message>
         <source>You cannot issue this document because you are not the issuer. Contact your administrator to solve the problem.</source>
         <translation>Anda tidak dapat menerbitkan dokumen ini karena Anda bukan penerbit. Hubungi administrator untuk menerbitkan dokumen.</translation>
     </message>
@@ -25891,10 +27381,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <message>
         <source>confirm lift classification success!</source>
         <translation>Berhasil ditinjau. Dokumen dikecualikan dari kerahasiaan.</translation>
-    </message>
-    <message>
-        <source>Cannot issue</source>
-        <translation>Tidak dapat menerbitkan</translation>
     </message>
     <message>
         <source>withdraw issued doc success!</source>
@@ -25921,16 +27407,8 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
         <translation>Anda tidak dapat mengubah tingkat kerahasiaan untuk dokumen ini karena Anda bukan drafter atau orang yang bertanggung jawab. Hubungi administrator untuk mengubah tingkat kerahasiaan.</translation>
     </message>
     <message>
-        <source>can not operate</source>
-        <translation>tidak dapat dioperasikan</translation>
-    </message>
-    <message>
         <source>label classification success!</source>
         <translation>Dokumen telah ditandai rahasia. Kirim dokumen ke petugas terkait untuk peninjauan konfirmasi kerahasiaan.</translation>
-    </message>
-    <message>
-        <source>Cannot lift classification</source>
-        <translation>Tidak dapat menaikkan klasifikasi</translation>
     </message>
     <message>
         <source>You cannot setup the classification level for this document because you are not the person responsible. You can contact your administrator for setting.</source>
@@ -25967,14 +27445,6 @@ Silakan verifikasi apakah sudah memberikan nama file yang benar.</translation>
     <message>
         <source>submit lift classification success!</source>
         <translation>Dikirim ke petugas terkait untuk peninjauan pengecualian kerahasiaan.</translation>
-    </message>
-    <message>
-        <source>Cannot change classification level</source>
-        <translation>Tidak dapat mengubah tingkat klasifikasi</translation>
-    </message>
-    <message>
-        <source>You cannot withdraw issue because you are not the issuer.</source>
-        <translation>Anda tidak dapat menarik penerbitan karena Anda bukan penerbit.</translation>
     </message>
     <message>
         <source>confirm change classification success!</source>
@@ -27149,6 +28619,22 @@ Pemindahan</translation>
         <source>Height:</source>
         <translation>Tinggi:</translation>
     </message>
+    <message>
+        <source>Bottom margin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right margin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top margin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left margin</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QPrintPropertiesWidget</name>
@@ -27443,10 +28929,6 @@ Pemindahan</translation>
         <translation>Komputer</translation>
     </message>
     <message>
-        <source>Open Local Document</source>
-        <translation>Buka Dokumen Lokal</translation>
-    </message>
-    <message>
         <source>CloudDisk</source>
         <translation>CloudDisk</translation>
     </message>
@@ -27566,6 +29048,10 @@ Pemindahan</translation>
         <source>Search Title</source>
         <translation>Hasil Pencarian di &quot;Komputer&quot;</translation>
     </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation>Buka Dokumen Lokal</translation>
+    </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
@@ -27627,6 +29113,10 @@ Pemindahan</translation>
         <source>Date Modified</source>
         <translation>Tanggal dimodifikasi</translation>
     </message>
+    <message>
+        <source>Date is modified</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
@@ -27685,6 +29175,14 @@ Pemindahan</translation>
     <message>
         <source>Date Modified</source>
         <translation>Tanggal dimodifikasi</translation>
+    </message>
+    <message>
+        <source>%1 byte(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date is modified</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27749,65 +29247,10 @@ Pemindahan</translation>
     </message>
 </context>
 <context>
-    <name>KxOutwardDocTableModelV2</name>
-    <message>
-        <source>Made</source>
-        <translation>Dibuat</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation>Waktu</translation>
-    </message>
-    <message>
-        <source>nothing</source>
-        <translation>Tidak ada</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Status</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation>kata sandi</translation>
-    </message>
-    <message>
-        <source>ToBeReviewed</source>
-        <translation>Menunggu Peninjauan</translation>
-    </message>
-    <message>
-        <source>Watermark</source>
-        <translation>Cap Air</translation>
-    </message>
-    <message>
-        <source>Rejected</source>
-        <translation>Ditolak</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation>Tidak dikenal</translation>
-    </message>
-    <message>
-        <source>Reviewed</source>
-        <translation>Ditinjau</translation>
-    </message>
-    <message>
-        <source>Expired</source>
-        <translation>Berakhir</translation>
-    </message>
-    <message>
-        <source>Protect Type</source>
-        <translation>Jenis Proteksi</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgChooseOutwardDocV2</name>
     <message>
         <source>Make</source>
         <translation>Buat</translation>
-    </message>
-    <message>
-        <source>=+new</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dialog</source>
@@ -27816,6 +29259,10 @@ Pemindahan</translation>
     <message>
         <source>Make outward document</source>
         <translation>Buat dokumen ke luar</translation>
+    </message>
+    <message>
+        <source>=+new</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -28282,16 +29729,16 @@ Pemindahan</translation>
         <translation>Grup Saya</translation>
     </message>
     <message>
-        <source>Open Local Document</source>
-        <translation>Buka Dokumen Lokal</translation>
-    </message>
-    <message>
         <source>My Cloud Document</source>
         <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Save as</source>
         <translation>Simpan Sebagai</translation>
+    </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation>Buka Dokumen Lokal</translation>
     </message>
 </context>
 <context>
@@ -28728,14 +30175,6 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>Waktu</translation>
     </message>
     <message>
-        <source>Level of classification</source>
-        <translation>Tingkat Kerahasiaan</translation>
-    </message>
-    <message>
-        <source>People</source>
-        <translation>Petugas</translation>
-    </message>
-    <message>
         <source>Status</source>
         <translation>Status</translation>
     </message>
@@ -28746,6 +30185,65 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <message>
         <source>Operation</source>
         <translation>Operasi</translation>
+    </message>
+    <message>
+        <source>Level of classification</source>
+        <translation>Tingkat Kerahasiaan</translation>
+    </message>
+    <message>
+        <source>People</source>
+        <translation>Petugas</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardDocTableModelV2</name>
+    <message>
+        <source>Time</source>
+        <translation>Waktu</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Status</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>kata sandi</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation>Cap Air</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>Ditolak</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation>Tidak dikenal</translation>
+    </message>
+    <message>
+        <source>Expired</source>
+        <translation>Berakhir</translation>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation>Jenis Proteksi</translation>
+    </message>
+    <message>
+        <source>Made</source>
+        <translation>Dibuat</translation>
+    </message>
+    <message>
+        <source>nothing</source>
+        <translation>Tidak ada</translation>
+    </message>
+    <message>
+        <source>ToBeReviewed</source>
+        <translation>Menunggu Peninjauan</translation>
+    </message>
+    <message>
+        <source>Reviewed</source>
+        <translation>Ditinjau</translation>
     </message>
 </context>
 <context>
@@ -28895,10 +30393,6 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>edit</translation>
     </message>
     <message>
-        <source>This file has been opened as read-only. Enable edit?</source>
-        <translation>File ini dalam mode hanya baca untuk saat ini. Aktifkan edit?</translation>
-    </message>
-    <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
         <translation>%1 Tidak dapat menemukan file yang Anda inginkan? Coba %2 %3 Master Pemulihan Data Kingsoft %4</translation>
     </message>
@@ -28915,16 +30409,8 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>Dokumen yang terakhir kali tidak disimpan, sekarang telah dipulihkan</translation>
     </message>
     <message>
-        <source>check key word</source>
-        <translation>Lihat Detail</translation>
-    </message>
-    <message>
         <source>WPS Diagnositic</source>
         <translation>Alat Diagnostik WPS</translation>
-    </message>
-    <message>
-        <source>You can only edit under read-only mode since other users are editing this file.</source>
-        <translation>Anda hanya dapat mengedit dalam mode hanya baca karena pengguna lain sedang mengedit dokumen ini.</translation>
     </message>
     <message>
         <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.</source>
@@ -28971,10 +30457,6 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>Perbaiki Sekarang</translation>
     </message>
     <message>
-        <source>Sign in</source>
-        <translation>Akses Masuk</translation>
-    </message>
-    <message>
         <source>recover from backup</source>
         <translation>pulihkan dari cadangan</translation>
     </message>
@@ -29011,20 +30493,8 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>Perpustakaan VBA belum diinstal. Jika Anda ingin mengaktifkan fungsi makro,</translation>
     </message>
     <message>
-        <source>This document is read-only. Sign in to create, edit, and share documents.</source>
-        <translation>Dokumen ini hanya baca. Masuk untuk membuat, mengedit, dan membagikan dokumen.</translation>
-    </message>
-    <message>
-        <source>find some keywords</source>
-        <translation>File telah dicek tingkat kerahasiaannya. Hasil: total</translation>
-    </message>
-    <message>
         <source>There was an error in the backup replay process, and some backup content may have been lost.</source>
         <translation>Ada kesalahan saat melanjutkan pencadangan. Sebagian konten cadangan mungkin hilang.</translation>
-    </message>
-    <message>
-        <source>To change this file from server, please check out first.</source>
-        <translation>Untuk mengubah dokumen server ini, Anda harus mengeceknya.</translation>
     </message>
     <message>
         <source>checkout</source>
@@ -29037,6 +30507,34 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <message>
         <source>view more backup</source>
         <translation>Lihat cadangan lainnya</translation>
+    </message>
+    <message>
+        <source>This file has been opened as read-only. Enable edit?</source>
+        <translation>File ini dalam mode hanya baca untuk saat ini. Aktifkan edit?</translation>
+    </message>
+    <message>
+        <source>check key word</source>
+        <translation>Lihat Detail</translation>
+    </message>
+    <message>
+        <source>You can only edit under read-only mode since other users are editing this file.</source>
+        <translation>Anda hanya dapat mengedit dalam mode hanya baca karena pengguna lain sedang mengedit dokumen ini.</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Akses Masuk</translation>
+    </message>
+    <message>
+        <source>This document is read-only. Sign in to create, edit, and share documents.</source>
+        <translation>Dokumen ini hanya baca. Masuk untuk membuat, mengedit, dan membagikan dokumen.</translation>
+    </message>
+    <message>
+        <source>find some keywords</source>
+        <translation>File telah dicek tingkat kerahasiaannya. Hasil: total</translation>
+    </message>
+    <message>
+        <source>To change this file from server, please check out first.</source>
+        <translation>Untuk mengubah dokumen server ini, Anda harus mengeceknya.</translation>
     </message>
 </context>
 <context>
@@ -29216,12 +30714,12 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>Kiat</translation>
     </message>
     <message>
-        <source>Are you sure to withdraw issue?</source>
-        <translation>Setelah dokumen yang diterbitkan ditarik kembali, dokumen akan dipublikasikan ke status kerahasiaan terkonfirmasi. Anda yakin ingin menarik kembali dokumen yang diterbitkan?</translation>
-    </message>
-    <message>
         <source>can not operate</source>
         <translation>tidak dapat dioperasikan</translation>
+    </message>
+    <message>
+        <source>Are you sure to withdraw issue?</source>
+        <translation>Setelah dokumen yang diterbitkan ditarik kembali, dokumen akan dipublikasikan ke status kerahasiaan terkonfirmasi. Anda yakin ingin menarik kembali dokumen yang diterbitkan?</translation>
     </message>
     <message>
         <source>this document has applying %1, can not withdraw issue.</source>
@@ -29355,6 +30853,110 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <source>Error loading private key, %1</source>
         <translation>Kesalahan memuatkan kunci pribadi, %1</translation>
     </message>
+    <message>
+        <source>The certificate&apos;s notAfter field contains an invalid time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The basicConstraints path length parameter has been exceeded</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The certificate has expired</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The certificate is self-signed, and untrusted</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The peer did not present any certificate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The root CA certificate is marked to reject the specified purpose</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No certificates could be verified</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The root CA certificate is not trusted for this purpose</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The host name did not match any of the valid hosts for this certificate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The root certificate of the certificate chain is self-signed, and untrusted</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The certificate signature could not be decrypted</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The supplied certificate is unsuitable for this purpose</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Private key does not certify public key, %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The issuer certificate could not be found</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The certificate&apos;s notBefore field contains an invalid time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The certificate is not yet valid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The public key in the certificate could not be read</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>One of the CA certificates is invalid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The signature of the certificate is invalid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The issuer certificate of a locally looked up certificate could not be found</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to decrypt data: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The peer certificate is blacklisted</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxOutwardDocTableModel</name>
@@ -29363,28 +30965,8 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>Proteksi Kata Sandi</translation>
     </message>
     <message>
-        <source>SupportType_Office</source>
-        <translation>Didukung Office Software</translation>
-    </message>
-    <message>
-        <source>not support yet</source>
-        <translation>Tidak didukung</translation>
-    </message>
-    <message>
         <source>OutwardType_WaterMark</source>
         <translation>Proteksi Cap Air</translation>
-    </message>
-    <message>
-        <source>OutwardType_PasswordAndWatermark</source>
-        <translation>Proteksi Kata Sandi &amp; Tanda Air</translation>
-    </message>
-    <message>
-        <source>SupportType_Wps</source>
-        <translation>Hanya Didukung WPS Versi Keamanan</translation>
-    </message>
-    <message>
-        <source>NoProtect</source>
-        <translation>Tidak ada</translation>
     </message>
     <message>
         <source>description</source>
@@ -29399,20 +30981,40 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
         <translation>kata sandi pembuka:</translation>
     </message>
     <message>
-        <source>watermark:</source>
-        <translation>Tampilkan Tanda Air:</translation>
-    </message>
-    <message>
-        <source>Support Type</source>
-        <translation>Tipe yang Didukung</translation>
-    </message>
-    <message>
         <source>Authorize Id</source>
         <translation>Id Otorisasi</translation>
     </message>
     <message>
         <source>Protect Type</source>
         <translation>Jenis Proteksi</translation>
+    </message>
+    <message>
+        <source>SupportType_Office</source>
+        <translation>Didukung Office Software</translation>
+    </message>
+    <message>
+        <source>not support yet</source>
+        <translation>Tidak didukung</translation>
+    </message>
+    <message>
+        <source>OutwardType_PasswordAndWatermark</source>
+        <translation>Proteksi Kata Sandi &amp; Tanda Air</translation>
+    </message>
+    <message>
+        <source>SupportType_Wps</source>
+        <translation>Hanya Didukung WPS Versi Keamanan</translation>
+    </message>
+    <message>
+        <source>NoProtect</source>
+        <translation>Tidak ada</translation>
+    </message>
+    <message>
+        <source>watermark:</source>
+        <translation>Tampilkan Tanda Air:</translation>
+    </message>
+    <message>
+        <source>Support Type</source>
+        <translation>Tipe yang Didukung</translation>
     </message>
 </context>
 <context>
@@ -29460,60 +31062,6 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <message>
         <source>%1: Remote closed</source>
         <translation>%1: Remot ditutup</translation>
-    </message>
-</context>
-<context>
-    <name>KxGalleryFontComboBox</name>
-    <message>
-        <source>Hide theme fonts</source>
-        <translation>Klik untuk menyembunyikan font tema</translation>
-    </message>
-    <message>
-        <source> (Body)</source>
-        <translation> (Isi)</translation>
-    </message>
-    <message>
-        <source> (Headings)</source>
-        <translation> (Kepala)</translation>
-    </message>
-    <message>
-        <source>Show theme fonts</source>
-        <translation>Klik untuk menampilkan font tema</translation>
-    </message>
-    <message>
-        <source>Show theme Fonts</source>
-        <translation>Tampilkan Font tema</translation>
-    </message>
-</context>
-<context>
-    <name>KXBlackTipWidget</name>
-    <message>
-        <source>%1Not again for this file%2</source>
-        <translation>%1Jangan ingatkan saya lagi di dokumen ini%2</translation>
-    </message>
-    <message>
-        <source>Takes too long to open? Slim the file to clear invalid data.</source>
-        <translation>File memerlukan waktu yang sangat lama untuk terbuka? Kami menyarankan Anda merampingkan file, yang tidak akan memengaruhi data atau rumus.</translation>
-    </message>
-    <message>
-        <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
-        <translation>Operasi lambat? Lambat dalam menyimpan file? Kami menyarankan Anda merampingkan file, yang tidak akan memengaruhi data atau rumus.</translation>
-    </message>
-    <message>
-        <source>The file has too much data excess. Auto-slimming it down:</source>
-        <translation>Untuk pengalaman yang lebih baik, kami mengoptimalkan dan mengompresi file besar Anda... xx%</translation>
-    </message>
-    <message>
-        <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
-        <translation>Jangan ingatkan saya lagi di dokumen ini. Untuk menggunakan Perampingan File, temukan di Fitur Khusus.</translation>
-    </message>
-    <message>
-        <source>Not again for this file</source>
-        <translation>Jangan ingatkan saya lagi di dokumen ini</translation>
-    </message>
-    <message>
-        <source>Slim list</source>
-        <translation>Daftar perampingan</translation>
     </message>
 </context>
 <context>
@@ -30337,6 +31885,1135 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     <message>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
         <translation>Langkah terakhir di jalur harus berisi simpul atau nilai atomik. Tidak boleh gabungan antara keduanya.</translation>
+    </message>
+    <message>
+        <source>%1 is not allowed to have a member type with the same name as itself.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&apos;%1&apos; attribute contains invalid QName content: %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A variable with name %1 has already been declared.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notation %1 already defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 is not allowed to have any facets.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Declaration for element %1 does not exist.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Specifying use=&apos;prohibited&apos; inside an attribute group has no effect.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute group %1 contains attribute %2 twice.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type of derived attribute %1 cannot be validly derived from type of base attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived element %1 has weaker value constraint than base particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived particle allows content that is not allowed in the base particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>String content does not match the length facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element is not allowed in this scope</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 must have the same simple type as its base class %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Union content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 exists twice with different types.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element cannot have %2 attribute with value other than %3 or %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>List content does not match length facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W3C XML Schema identity constraint selector</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 is not allowed to derive from %2 by restriction as the latter defines it as final.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base type %1 of simple type %2 must have variety of union.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A construct was encountered which is disallowed in the current language(%1).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type %1 cannot derive from %2 as the latter defines restriction as final.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Child element is missing in that scope, possible child elements are: %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 in derived complex type must have the same %2 value constraint like in base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data of type %1 are not allowed to be empty.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet contains invalid regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 cannot have complex base type that has a %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>An attribute with name %1 has already appeared on this element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is not allowed to have a value constraint if its base type is complex.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element contains content although it is nillable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Content model of complex type %1 is not a valid extension of content model of %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attributes of complex type %1 are not a valid extension of the attributes of base type %2: %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type of derived attribute %1 differs from type of base attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsigned integer content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>String content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element must not have %2 and %3 attribute together.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element requires either %2 or %3 attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Content of attribute %1 does not match its type definition: %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 or %2 attribute of reference %3 does not match with the attribute declaration %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Content model of complex type %1 contains %2 element so it cannot be derived by extension from a non-empty type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duration content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Loaded schema file is invalid.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet and %2 facet cannot appear together.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Target namespace %1 of included schema is different from the target namespace %2 as defined by the including schema.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived attribute %1 does not match the wildcard in the base definition.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element must have either %2 or %3 attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid QName content: %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decimal content does not match in the fractionDigits facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Variety of member types of %1 must be atomic.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Circular group reference for %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 has a different number of fields from the identity constraint %2 that it references.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must be less than or equal to %2 facet of base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Member type of simple type %1 cannot be a complex type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 does not match namespace constraint of wildcard in base particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fixed value constraint not allowed if element is nillable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duplicated facets in simple type %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Content of attribute %1 does not match defined value constraint.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 does not match the attribute wildcard.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No referenced value found for key reference %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Value constraint of attribute %1 is not of attributes type: %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 contains attribute %2 twice.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A template with name %1 has already been declared.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Particle contains non-deterministic wildcards.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute group %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must be less than %2 facet of base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 has value constraint but has type derived from %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute wildcard of %1 is not a valid restriction of attribute wildcard of base type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Member type %1 cannot be derived from member type %2 of %3&apos;s base type %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Namespace prefix of qualified name %1 is not defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is not nillable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is missing child element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 cannot contain other elements, as it has a fixed content.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 contains invalid data: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>W3C XML Schema identity constraint field</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Item type %1 of %2 element cannot be resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 already defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 contains %2 facet with invalid data: %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Binary content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 cannot be derived from base type %2%3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 from base type is missing in derived type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element must contain %3, %4 or a list of URIs.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unknown notation %1 used in %2 facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No value is available for the external variable with name %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 is not allowed to be abstract.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type %1 cannot have direct base type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base type %1 of simple type %2 is not allowed to have restriction in %3 attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Specified type %1 is not validly substitutable with element type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Content of element %1 does not match defined value constraint.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base attribute %1 is required but derived attribute is not.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block constraints of derived element %1 must not be more weaker than in the base element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Non-unique value found for constraint %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The value of attribute %1 must be of type %2, which %3 isn&apos;t.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date time content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type %1 can only have simple atomic type as base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 has duplicated element %2 in its content model.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>String content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element has neither %2 attribute nor %3 child element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duplicated element names %1 in %2 element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element cannot have %2 attribute with value other than %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element contains invalid content: {%3}.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date time content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 in derived complex type must have %2 value constraint.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No variable with name %1 exists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsigned integer content does not match the minInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsigned integer content does not match the minExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signed integer content does not match the minInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signed integer content does not match the minExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Component with ID %1 has been defined previously.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 contains two attributes of type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsigned integer content does not match the maxInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsigned integer content does not match the maxExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signed integer content does not match the maxInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signed integer content does not match the maxExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element must be %3 or %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1, %2, %3, %4, %5 and %6 facets are not allowed when derived by list.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base type of simple type %1 cannot be complex type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type %1 is not allowed to have base type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 is not allowed to derive from %2 by union as the latter defines it as final.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 contains not allowed text content.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute in derived complex type must be %2 like in base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element without %2 attribute is not allowed inside schema without target namespace.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The prefix %1 cannot be bound. By default, it is already bound to the namespace %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Double content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Substitution group %1 has circular definition.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No definition for element %1 available.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 is not allowed to derive from %2 by list as the latter defines it as final.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 already defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Double content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Boolean content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived wildcard is not a subset of the base wildcard.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element must have the value %3 because the %4 attribute is set.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fixed value constraint of element %1 differs from value constraint in base particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is not allowed in this scope, possible elements are: %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element has larger value than %3 attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 is not allowed to derive from %2 by extension as the latter defines it as final.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 has non-deterministic content.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Double content does not match the maxInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Double content does not match the maxExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Specified type %1 is not known to the schema.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base type %1 of complex type cannot be resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>String content does not match the minLength facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>String content does not match the maxLength facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QName content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Declaration for attribute %1 does not exist.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Double content does not match the minInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Double content does not match the minExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Circular inheritance of union %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, %2 is invalid.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No function with name %1 is available.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must be greater than or equal to %2 facet of base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attributes of complex type %1 are not a valid restriction from the attributes of base type %2: %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enumeration facet contains invalid content: {%1} is not a value of type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duration content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet contains invalid value %2: %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived definition contains an %1 element that does not exists in the base definition</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 contains invalid data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>List content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute group %1 contains two different attributes that both have types derived from %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 in derived complex type must have %2 value constraint like in base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element %2 is not a valid restriction of the %3 element it redefines: %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type %1 is only allowed to have %2 facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Binary content does not match the maxLength facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Binary content does not match the minLength facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Can not process unknown element %1, expected elements are: %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsigned integer content does not match in the totalDigits facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element is not allowed in this context.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute group %1 has circular reference.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived attribute %1 does not exist in the base definition.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 has attribute wildcard but its base type %2 has not.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Wildcard in derived particle is not a valid subset of wildcard in base particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element contains invalid content: {%3} is not a value of type %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type of derived element %1 cannot be validly derived from base element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element is not allowed to have the same %2 attribute value as the target namespace %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decimal content does not match in the totalDigits facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type of element %1 cannot be derived from type of substitution group affiliation.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element must have either %2 attribute or %3 or %4 as child element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute group %1 already defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signed integer content does not match in the totalDigits facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must be less than or equal to %2 facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derivation method of %1 must be extension because the base type %2 is a simple type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identity constraint %1 already defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Only %1 and %2 facets are allowed when derived by union.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element must either contain %3 or the other values.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must have the same value as %2 facet of base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element group %1 already defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Target namespace %1 of imported schema is different from the target namespace %2 as defined by the importing schema.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attribute %1 contains invalid content.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 contains not allowed attributes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>processContent of wildcard in derived particle is weaker than wildcard in base particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must be equal or greater than %2 facet of base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute in %2 must have %3 use like in base type %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duration content does not match the maxExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duration content does not match the maxInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duration content does not match the minExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duration content does not match the minInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>processContent of base wildcard must be weaker than derived wildcard.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 must have simple content.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived element %1 cannot be nillable as base element is not nillable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 is not valid according to %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must be less than %2 facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Value constraint of element %1 is not of elements type: %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element with %2 child element must not have a %3 attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 contains not allowed child element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document is not a XML schema.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element must have a value of %3 or %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is one IDREF value with no corresponding ID: %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>List content does not match maxLength facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>List content does not match minLength facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type %1 of %2 element cannot be resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Field %1 has no simple type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 with simple content cannot be derived from complex base type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Empty particle cannot be derived from non-empty particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Key constraint %1 contains absent fields.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base type %1 of %2 element cannot be resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet cannot be %2 or %3 if %4 facet of base type is %5.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ID value &apos;%1&apos; is not unique.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Substitution group %1 of %2 element cannot be resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notation content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is not allowed to have a value constraint if its type is derived from %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>xsi:schemaLocation namespace %1 has already appeared earlier in the instance document.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base definition contains an %1 element that is missing in the derived definition</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is not allowed to have substitution group affiliation as it is no global element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type of %1 element must be a simple type, %2 is not.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base attribute %1 is required but missing in derived definition.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Item type of simple type %1 cannot be a complex type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element must have a value of %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Content of element %1 does not match its type definition: %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>QName content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet collides with %2 facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 contains unknown attribute %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base type of simple type %1 must have variety of type list.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is missing required attribute %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text or entity references not allowed inside %1 element</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 references identity constraint %2 that is no %3 or %4 element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 contains invalid content.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type %1 already defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Value constraint of derived attribute %1 does not match value constraint of base attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is missing in derived particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 contains not allowed child content.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Union content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>An argument with name %1 has already been declared. Every argument name must be unique.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is not defined in this scope.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Key constraint %1 contains references nillable element %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet must be greater than %2 facet of base type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 of derived wildcard is not a valid restriction of %2 of base wildcard</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Content of %1 attribute of %2 element must not be from namespace %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Base type of simple type %1 has defined derivation by restriction as final.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 references unknown %2 or %3 element %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date time content does not match the maxInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date time content does not match the maxExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type contains not allowed facet %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>xsi:noNamespaceSchemaLocation cannot appear after the first no-namespace element or attribute.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Variety of item type of %1 must be either atomic or union.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 cannot be derived by extension from %2 as the latter contains %3 element in its content model.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More than one value found for field %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Item type of base type does not match item type of %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 facet cannot be %2 if %3 facet of base type is %4.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date time content does not match the minInclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date time content does not match the minExclusive facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complex type %1 contains two different attributes that both have types derived from %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unsigned integer content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signed integer content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 attribute of %2 element must not be %3.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived element %1 is missing value constraint as defined in base particle.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Prefix of qualified name %1 is not defined.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No schema defined for validation.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Derived particle is missing element %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Member type %1 of %2 element cannot be resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 has inheritance loop in its base type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element %1 is declared as abstract.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reference %1 of %2 element cannot be resolved.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Binary content does not match the length facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 element is not allowed inside %2 element if %3 attribute is present.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Circular inheritance of base type %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type of derived element %1 cannot be validly derived from base element.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signed integer content does not match pattern facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Union of attribute wildcard of type %1 and attribute wildcard of its base type %2 is not expressible.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Simple type %1 contains not allowed facet type %2.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>List content is not listed in the enumeration facet.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+            </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -31478,16 +34155,16 @@ KERANGKA TEKS</translation>
         <translation>Caps Lock aktif.</translation>
     </message>
     <message>
-        <source>Having Caps Lock on may cause you to enter your password incorrectly. </source>
-        <translation>Mengaktifkan Caps Lock dapat membuat pengetikan kata sandi Anda salah.</translation>
-    </message>
-    <message>
         <source>You cannot copy from the password.</source>
         <translation>Anda tidak dapat menyalin dari kata sandi.</translation>
     </message>
     <message>
         <source>Not Allowed.</source>
         <translation>Tidak Diizinkan.</translation>
+    </message>
+    <message>
+        <source>Having Caps Lock on may cause you to enter your password incorrectly. </source>
+        <translation>Mengaktifkan Caps Lock dapat membuat pengetikan kata sandi Anda salah.</translation>
     </message>
 </context>
 <context>
@@ -31648,6 +34325,18 @@ KERANGKA TEKS</translation>
     <message>
         <source>%1: unable to lock</source>
         <translation>%1: tidak dapat mengunci</translation>
+    </message>
+    <message>
+        <source>%1: UNIX key file doesn&apos;t exist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1: doesn&apos;t exist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1: create size is less than 0</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -32284,6 +34973,14 @@ KERANGKA TEKS</translation>
         <source>NDATA in parameter entity declaration.</source>
         <translation>NDATA dalam deklarasi entitas parameter.</translation>
     </message>
+    <message>
+        <source>Entity &apos;%1&apos; is not declared.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>XML declaration is not at start of document.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KCloudTreeCtrlWidget</name>
@@ -32304,377 +35001,12 @@ KERANGKA TEKS</translation>
         <translation>WPS Cloud</translation>
     </message>
     <message>
-        <source>Open Local Document</source>
-        <translation>Buka Dokumen Lokal</translation>
-    </message>
-    <message>
         <source>My Cloud Document</source>
         <translation>WPS Cloud</translation>
     </message>
-</context>
-<context>
-    <name>KxChartTypeItem</name>
     <message>
-        <source>Use this chart type to:
-• Show values relative to a center point.
-
-Use it when:
-• Categories are not directly comparable.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan nilai yang relatif terhadap titik tengah.
-
-Gunakan saat:
-• Kategori tidak dapat dibandingkan secara langsung.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the relationship of parts to a whole over time or categories.
-• Highlight the magnitude of change over time.
-• Draw attention to the total value across a trend.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan relasi bagian terhadap keseluruhan dari waktu ke waktu atau kategori.
-• Menyoroti besarnya perubahan dari waktu ke waktu.
-• Menarik perhatian ke nilai total di seluruh tren.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of values: Volume, High, Low, Close.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan tren performa saham dari waktu ke waktu.
-
-Gunakan saat:
-• Anda memiliki empat rangkaian nilai: Volume, Tinggi, Rendah, Penutupan.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The order of categories is not important.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Bandingkan nilai di beberapa kategori.
-
-Gunakan saat:
-• Urutan kategori tidak penting.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show how parts of a whole change over time.
-
-Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Tampilkan bagaimana bagian dari satu keseluruhan berubah dari waktu ke waktu.
-
-Pertimbangkan menggunakan bagan area bertumpuk daripada bagan garis bertumpuk yang bisa sulit dibaca.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan proporsi keseluruhan.
-• Ambil beberapa nilai dari pie pertama dan gabungkan di bar bertumpuk untuk membuat persentase kecil yang lebih mudah dibaca atau soroti nilai di bar bertumpuk.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare the percentages that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan persentase kontribusi setiap nilai terhadap total.
-• Menampilkan bagaimana persentase kontribusi setiap nilai berubah dari waktu ke waktu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• Category order is important.
-• To highlight the magnitude of change over time.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori.
-
-Gunakan saat:
-• Urutan kategori sangat penting.
-• Untuk menyoroti besarnya perubahan dari waktu ke waktu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of price values: Open, High, Low, Close.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan tren performa saham dari waktu ke waktu.
-
-Gunakan saat:
-• Anda memiliki empat rangkaian nilai harga: Pembukaan, Tinggi, Rendah, Penutupan.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan proporsi keseluruhan.
-
-Gunakan sebagai ganti bagan pie bila ada beberapa rangkaian yang berelasi dengan jumlah yang lebih besar.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents a set of x,y pairs based on a formula.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan minimal dua rangkaian nilai atau pasangan data.
-
-Gunakan saat:
-• Ada banyak titik data.
-• Data mewakili rangkaian pasangan x, y berdasarkan formula.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it when:
-• Numbers equal 100%.
-• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan proporsi keseluruhan.
-
-Gunakan saat:
-• Jumlah sama dengan 100%.
-• Bagan hanya berisi beberapa irisan pie (banyak irisan yang membentuk sudut yang sulit diperkirakan).</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• The range of values in the chart varies widely.
-• You have mixed types of data.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menyoroti jenis informasi berbeda.
-
-Gunakan saat:
-• Rentang nilai dalam bagan sangat bervariasi.
-• Anda memiliki jenis data campuran.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• The data represents separate measurements.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan minimal dua rangkaian nilai atau pasangan data.
-• Menampilkan relasi antar rangkaian nilai
-
-Gunakan saat:
-• Data mewakili pengukuran terpisah.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least three sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• You have a third value that can be used to determine the relative size of the bubble.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan minimal tiga rangkaian nilai atau pasangan data.
-• Menampilkan relasi antar rangkaian nilai
-
-Gunakan saat:
-• Anda memiliki nilai ketiga yang dapat digunakan untuk menentukan ukuran relatif gelembung.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole across categories.
-• Show how parts of a whole change over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan bagian dari satu keseluruhan di seluruh kategori.
-• Tampilkan bagaimana bagian dari satu keseluruhan berubah dari waktu ke waktu.
-
-Gunakan saat:
-• Teks kategori panjang.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents separate measurements.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan minimal dua rangkaian nilai atau pasangan data.
-
-Gunakan saat:
-• Ada beberapa titik data.
-• Data mewakili pengukuran terpisah.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan persentase kontribusi terhadap keseluruhan dari waktu ke waktu atau kategori.
-• Menyoroti besarnya perubahan pada persentase kontribusi setiap nilai dari waktu ke waktu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• You have mixed types of data.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menyoroti jenis informasi berbeda.
-
-Gunakan saat:
-• Anda memiliki jenis data campuran.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan proporsi keseluruhan.
-• Ambil beberapa nilai dari pie pertama dan gabungkan di pie kedua untuk membuat persentase kecil yang lebih mudah dibaca atau sorot nilai di pie kedua.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare the percentage that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan persentase kontribusi setiap nilai terhadap total.
-• Menampilkan bagaimana persentase kontribusi setiap nilai berubah dari waktu ke waktu.
-
-Gunakan saat:
-• Teks kategori panjang.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are few data points.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori.
-
-Gunakan saat:
-• Urutan kategori sangat penting.
-• Ada beberapa titik data.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Show the change to the percentage that each value contributes over time.
-
-Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan persentase kontribusi terhadap keseluruhan dari waktu ke waktu atau kategori.
-• Menampilkan perubahan pada persentase kontribusi setiap nilai dari waktu ke waktu.
-
-Pertimbangkan menggunakan bagan area bertumpuk 100% karena bagan garis bertumpuk bisa sulit dibaca.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are many data points.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori.
-
-Gunakan saat:
-• Urutan kategori sangat penting.
-• Ada banyak titik data.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have three series of price values: High, Low, Close.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan tren performa saham dari waktu ke waktu.
-
-Gunakan saat:
-• Anda memiliki tiga rangkaian nilai harga: Tinggi, Rendah, Penutupan.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The chart shows duration.
-• The category text is long.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Bandingkan nilai di beberapa kategori.
-
-Gunakan saat:
-• Bagan menampilkan durasi.
-• Teks kategori panjang.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole.
-• Show how parts of a whole change over time.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Bandingkan bagian dari keseluruhan.
-• Tampilkan bagaimana bagian dari satu keseluruhan berubah dari waktu ke waktu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have five series of values: Volume, Open, High, Low, Close.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Menampilkan tren performa saham dari waktu ke waktu.
-
-Gunakan saat:
-• Anda memiliki lima rangkaian nilai: Volume, Pembukaan, Tinggi, Rendah, Penutupan.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents separate measurements.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan minimal dua rangkaian nilai atau pasangan data.
-
-Gunakan saat:
-• Ada banyak titik data.
-• Data mewakili pengukuran terpisah.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents a set of x,y pairs based on a formula.</source>
-        <translation>Gunakan jenis bagan ini untuk:
-• Membandingkan minimal dua rangkaian nilai atau pasangan data.
-
-Gunakan saat:
-• Ada beberapa titik data.
-• Data mewakili rangkaian pasangan x, y berdasarkan formula.</translation>
+        <source>Open Local Document</source>
+        <translation>Buka Dokumen Lokal</translation>
     </message>
 </context>
 <context>
@@ -32714,6 +35046,10 @@ Gunakan saat:
     <message>
         <source>Process crashed</source>
         <translation>Proses mengalami kesalahan</translation>
+    </message>
+    <message>
+        <source>Process failed to start: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33211,6 +35547,10 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <message>
         <source>Restore down</source>
         <translation>Memulihkan balik</translation>
+    </message>
+    <message>
+        <source>Puts a minimized window back to normal</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33858,16 +36198,16 @@ hingga
         <translation>Coba lagi</translation>
     </message>
     <message>
-        <source>loaded failed</source>
-        <translation>Gagal memuat. Klik untuk coba lagi.</translation>
-    </message>
-    <message>
         <source>Online resource deployment failed</source>
         <translation>Gagal menggelar sumber online.</translation>
     </message>
     <message>
         <source>Deploying online resources%1%</source>
         <translation>Menggelar sumber online %1%</translation>
+    </message>
+    <message>
+        <source>loaded failed</source>
+        <translation>Gagal memuat. Klik untuk coba lagi.</translation>
     </message>
 </context>
 <context>
@@ -33962,16 +36302,8 @@ hingga
         <translation>instal</translation>
     </message>
     <message>
-        <source>server not %1, please try later</source>
-        <translation>Layanan tidak %1. Coba lagi nanti.</translation>
-    </message>
-    <message>
         <source>cert not valid yet</source>
         <translation>sertf belum berlaku</translation>
-    </message>
-    <message>
-        <source>insert USB Key success</source>
-        <translation>Drive USB berhasil dimasukkan.</translation>
     </message>
     <message>
         <source>USB Key will be locked when the remaining count is zero.</source>
@@ -33982,32 +36314,12 @@ hingga
         <translation>masukkan USB untuk memverifikasi</translation>
     </message>
     <message>
-        <source>validate cert Fail</source>
-        <translation>Validasi sertifikat gagal.</translation>
-    </message>
-    <message>
-        <source>cert holded</source>
-        <translation>Sertifikat telah dibekukan. Hubungi administrator.</translation>
-    </message>
-    <message>
         <source>unknow error, please make sure install correctly and try later</source>
         <translation>kesalahan tidak dikenal, pastikan instal dengan benar dan coba nanti</translation>
     </message>
     <message>
         <source>startup</source>
         <translation>memulai</translation>
-    </message>
-    <message>
-        <source>USB Key has been locked, need deblocking, please contact the manager</source>
-        <translation>Drive USB dikunci dan perlu dibuka kuncinya sebelum dapat digunakan. Silakan hubungi administrator.</translation>
-    </message>
-    <message>
-        <source>cert not trust</source>
-        <translation>Sertifikat tidak dipercaya.</translation>
-    </message>
-    <message>
-        <source>your PC is linking more than one USB Key</source>
-        <translation>PC Anda terhubung dengan beberapa drive USB.</translation>
     </message>
     <message>
         <source>please insert the USB Key</source>
@@ -34020,6 +36332,34 @@ hingga
     <message>
         <source>Invalid password, please retry. remaining count:[%1]</source>
         <translation>Kata sandi tidak valid, silakan coba lagi. kesempatan yang tersisa:[%1]</translation>
+    </message>
+    <message>
+        <source>server not %1, please try later</source>
+        <translation>Layanan tidak %1. Coba lagi nanti.</translation>
+    </message>
+    <message>
+        <source>insert USB Key success</source>
+        <translation>Drive USB berhasil dimasukkan.</translation>
+    </message>
+    <message>
+        <source>validate cert Fail</source>
+        <translation>Validasi sertifikat gagal.</translation>
+    </message>
+    <message>
+        <source>cert holded</source>
+        <translation>Sertifikat telah dibekukan. Hubungi administrator.</translation>
+    </message>
+    <message>
+        <source>USB Key has been locked, need deblocking, please contact the manager</source>
+        <translation>Drive USB dikunci dan perlu dibuka kuncinya sebelum dapat digunakan. Silakan hubungi administrator.</translation>
+    </message>
+    <message>
+        <source>cert not trust</source>
+        <translation>Sertifikat tidak dipercaya.</translation>
+    </message>
+    <message>
+        <source>your PC is linking more than one USB Key</source>
+        <translation>PC Anda terhubung dengan beberapa drive USB.</translation>
     </message>
     <message>
         <source>cert has expired, please contact the manager to update the cert</source>
@@ -34165,44 +36505,6 @@ hingga
     <message>
         <source>Welcome to WPS Office</source>
         <translation>Selamat Datang di WPS Office</translation>
-    </message>
-</context>
-<context>
-    <name>KxPermissionLoginTipDlg</name>
-    <message>
-        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation>Jika Anda telah mengatur kata sandi offline, Anda dapat lanjut mengoperasikan dokumen setelah verifikasi offline.</translation>
-    </message>
-    <message>
-        <source>Offline verification</source>
-        <translation>Verifikasi offline</translation>
-    </message>
-    <message>
-        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation>Ada kesalahan saat menyambung ke jaringan dan dokumen terenkripsi tidak dapat dioperasikan. Cek jaringan dan coba lagi nanti.</translation>
-    </message>
-    <message>
-        <source>Abnormal network connection</source>
-        <translation>Koneksi jaringan abnormal</translation>
-    </message>
-</context>
-<context>
-    <name>KxServerDownTipDlg</name>
-    <message>
-        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation>Jika Anda telah mengatur kata sandi offline, Anda dapat lanjut mengoperasikan dokumen setelah verifikasi offline.</translation>
-    </message>
-    <message>
-        <source>Offline verification</source>
-        <translation>Verifikasi offline</translation>
-    </message>
-    <message>
-        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation>Ada kesalahan saat menyambung ke jaringan dan dokumen terenkripsi tidak dapat dioperasikan. Cek jaringan dan coba lagi nanti.</translation>
-    </message>
-    <message>
-        <source>Abnormal network connection</source>
-        <translation>Koneksi jaringan abnormal</translation>
     </message>
 </context>
 <context>
@@ -34357,53 +36659,6 @@ Jika masih bermasalah, Anda dapat mencetak halaman tes melalui Properti Printer 
     </message>
 </context>
 <context>
-    <name>KStartupGuidePaneAdvertise</name>
-    <message>
-        <source>Repair Damaged Files</source>
-        <translation>Perbaiki File yang Rusak</translation>
-    </message>
-    <message>
-        <source>SPlit/Merge/Compress PDF Files</source>
-        <translation>Pecah/Gabung/Kompres File PDF</translation>
-    </message>
-    <message>
-        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
-        <translation>OCR (Gambar ke Word/Excel/PPT/TXT)</translation>
-    </message>
-    <message>
-        <source>Edit Text/Images in PDF Files</source>
-        <translation>Edit Teks/Gambar di File PDF</translation>
-    </message>
-    <message>
-        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
-        <translation>Buka 51 fitur canggih untuk WPS PDF, Writer, Spreadsheet, dan Presentation.</translation>
-    </message>
-    <message>
-        <source>Get Your Free Trial</source>
-        <translation>Dapatkan Uji Coba Gratis Anda</translation>
-    </message>
-    <message>
-        <source>PDF to Word/Excel/PPT</source>
-        <translation>PDF ke Word/Excel/PPT</translation>
-    </message>
-    <message>
-        <source>Buy Now</source>
-        <translation>Beli Sekarang</translation>
-    </message>
-    <message>
-        <source>Start Your free 7-day trail of WPS Premium</source>
-        <translation>Mulai Uji Coba WPS Premium 7 Hari</translation>
-    </message>
-    <message>
-        <source>View more</source>
-        <translation>Lihat selengkapnya</translation>
-    </message>
-    <message>
-        <source>PDF Protect/Sign</source>
-        <translation>Lindungi/Tanda Tangan File PDF</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgPrintProgress</name>
     <message>
         <source>Printing file:</source>
@@ -34472,45 +36727,6 @@ Jika masih bermasalah, Anda dapat mencetak halaman tes melalui Properti Printer 
     <message>
         <source>close</source>
         <translation>Tutup</translation>
-    </message>
-</context>
-<context>
-    <name>KxGetVbaRightsDialog</name>
-    <message>
-        <source>upgrated, refresh</source>
-        <translation>Berhasil ditingkatkan. Segarkan</translation>
-    </message>
-    <message>
-        <source>Get VBA Permission</source>
-        <translation>Ambil Izin VBA</translation>
-    </message>
-    <message>
-        <source>Dialog</source>
-        <translation>Dialog</translation>
-    </message>
-    <message>
-        <source>How to Get</source>
-        <translation>Cara Mengaktifkan Makro</translation>
-    </message>
-    <message>
-        <source>upgrade package</source>
-        <translation>tingkatkan paket</translation>
-    </message>
-    <message>
-        <source>The current package %1 does not support macro. After upgrading the package (to Commercial / Advanced Commercial), you can obtain the installation permission of VBA.</source>
-        <translation>Paket %1 saat ini tidak mendukung pengaktifan makro. Setelah meningkatkan paket (ke Komersial/Komersial Lanjutan), Anda dapat memperoleh izin instalasi perpustakaan dukungan VBA.</translation>
-    </message>
-    <message>
-        <source>PushButton</source>
-        <translation>Tombol Jejal</translation>
-    </message>
-    <message>
-        <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
-        <translation>Paket %1 saat ini tidak mendukung pengaktifan makro. Hubungi super administrator perusahaan %2 untuk meningkatkan paket dan memperoleh izin penginstalan perpustakaan dukungan VBA.</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
     </message>
 </context>
 <context>
@@ -34915,6 +37131,10 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
         <source>The protocol `%1&apos; does not support creating new directories</source>
         <translation>Protokol `%1&apos; tidak mendukung pembuatan direktori baru</translation>
     </message>
+    <message>
+        <source>(Unknown)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KAvailableCharSetInfoMap</name>
@@ -35220,10 +37440,6 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
         <translation>Pengaturan Offline</translation>
     </message>
     <message>
-        <source>Import Cache offline key in this computer</source>
-        <translation>Impor file kunci offline ke komputer ini</translation>
-    </message>
-    <message>
         <source>&amp;Password</source>
         <translation>Atur Kata Sandi Offline (&amp;O)</translation>
     </message>
@@ -35250,6 +37466,10 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     <message>
         <source>Create or modify password</source>
         <translation>Buat atau modifikasi kata sandi</translation>
+    </message>
+    <message>
+        <source>Import Cache offline key in this computer</source>
+        <translation>Impor file kunci offline ke komputer ini</translation>
     </message>
 </context>
 <context>
@@ -35486,14 +37706,6 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
         <translation>Dokumen Kosong</translation>
     </message>
     <message>
-        <source>Excel Template Macro Enabled</source>
-        <translation>Templat Excel dengan Macro Diaktifkan (*.xltm)</translation>
-    </message>
-    <message>
-        <source>PowerPoint Template Macro Enabled</source>
-        <translation>Templat PowerPoint dengan Makro Diaktifkan (*.potm)</translation>
-    </message>
-    <message>
         <source>PowerPoint Template</source>
         <translation>Templat PowerPoint</translation>
     </message>
@@ -35508,6 +37720,14 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     <message>
         <source>Kingsoft Presentation Template</source>
         <translation>Templat WPS Presentation (*.dpt)</translation>
+    </message>
+    <message>
+        <source>Excel Template Macro Enabled</source>
+        <translation>Templat Excel dengan Macro Diaktifkan (*.xltm)</translation>
+    </message>
+    <message>
+        <source>PowerPoint Template Macro Enabled</source>
+        <translation>Templat PowerPoint dengan Makro Diaktifkan (*.potm)</translation>
     </message>
 </context>
 <context>
@@ -35697,6 +37917,10 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
         <source>Unable to begin transaction</source>
         <translation>Tidak dapat memulai transaksi</translation>
     </message>
+    <message>
+        <source>Unable to open database</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QOCIDriver</name>
@@ -35747,6 +37971,10 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
         <source>Unable to rollback transaction</source>
         <translation>Tidak dapat melakukan transaksi gulung balik</translation>
     </message>
+    <message>
+        <source>Unable to connect - Driver doesn&apos;t support all functionality required</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QSQLite2Driver</name>
@@ -35765,6 +37993,14 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     <message>
         <source>Unable to begin transaction</source>
         <translation>Tidak dapat memulai transaksi</translation>
+    </message>
+    <message>
+        <source>Error opening database</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to rollback transaction</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -35853,6 +38089,14 @@ Periksa pengaturan sistem Anda dan pastikan bahwa direktori sementara pengguna s
     <message>
         <source>Unknown error</source>
         <translation>Kesalahan tidak dikenal</translation>
+    </message>
+    <message>
+        <source>No host name given</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid hostname</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -35982,6 +38226,21 @@ telah menginstal libgstreamer-plugins-base.</translation>
     <message>
         <source>Could not locate media source.</source>
         <translation>Tidak dapat menemukan sumber media.</translation>
+    </message>
+    <message>
+        <source>Missing codec helper script assistant.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot start playback. 
+
+Check your GStreamer installation and make sure you 
+have libgstreamer-plugins-base installed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Plugin codec installation failed for codec: %0</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36488,25 +38747,6 @@ Silakan instal ulang WPS Office!</translation>
     </message>
 </context>
 <context>
-    <name>KxChartTemplateStackedWidget_xa</name>
-    <message>
-        <source>No local chart template</source>
-        <translation>Templat bagan lokal tidak tersedia.</translation>
-    </message>
-    <message>
-        <source>Manage Templates</source>
-        <translation>Atur Templat</translation>
-    </message>
-    <message>
-        <source>Local chart templates</source>
-        <translation>Templat Bagan Lokal</translation>
-    </message>
-    <message>
-        <source>Tips: By saving the chart template to the folder in the &quot;Manage Templates&quot; button, you can use the local chart template.</source>
-        <translation>Tip: Anda dapat dengan cepat menggunakan bagan yang disimpan sebagai templat atau mengeklik &quot;Kelola Templat&quot; untuk mengelola file templat bagan.</translation>
-    </message>
-</context>
-<context>
     <name>KxPasswordListModel</name>
     <message>
         <source>Approved date:</source>
@@ -36542,25 +38782,6 @@ Silakan instal ulang WPS Office!</translation>
     <message>
         <source>Find functions or document content</source>
         <translation>Cari konten fungsi atau dokumen</translation>
-    </message>
-</context>
-<context>
-    <name>KxAuthorizedExpirationCommand</name>
-    <message>
-        <source>Authorized Expiration</source>
-        <translation>Menunggu Aktivasi</translation>
-    </message>
-    <message>
-        <source>%1-day used</source>
-        <translation>Tersisa %1 hari</translation>
-    </message>
-    <message>
-        <source>%1-day trial</source>
-        <translation>Sisa hari uji coba: %1</translation>
-    </message>
-    <message>
-        <source>trial unlimited</source>
-        <translation>Mode Uji Coba</translation>
     </message>
 </context>
 <context>
@@ -36690,6 +38911,98 @@ Silakan instal ulang WPS Office!</translation>
     <message>
         <source>error occurred while parsing document type definition</source>
         <translation>Ada kesalahan saat menguraikan definisi tipe dokumen</translation>
+    </message>
+    <message>
+        <source>No error occurred</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>External parsed general entity reference not allowed in DTD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encoding declaration or standalone declaration expected while reading the XML declaration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Wrong value for standalone declaration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unparsed entity reference in wrong context</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error occurred while parsing reference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Standalone declaration expected while reading the XML declaration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tag mismatch</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid name for processing instruction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error triggered by consumer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error occurred while parsing content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error occurred while parsing comment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unexpected character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recursive entities</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error occurred while parsing element</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Internal general entity reference not allowed in DTD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More than one document type definition</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Version expected while reading the XML declaration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unexpected end of file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>External parsed general entity reference not allowed in attribute value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Letter is expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error in the text declaration of an external entity</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error occurred while parsing document type definition</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37042,17 +39355,6 @@ Pengaturan akan berdampak setelah memulai kembali WPS Office.</translation>
     <message>
         <source>No Style</source>
         <translation>Tanpa Gaya</translation>
-    </message>
-</context>
-<context>
-    <name>KxPluginPathDlg</name>
-    <message>
-        <source>If you cancel this download, to protect data, the file will not open. Sure to cancel?</source>
-        <translation>Jika Anda membatalkan pengunduhan ini untuk melindungi data, file tidak akan terbuka. Anda yakin ingin membatalkan pengunduhan?</translation>
-    </message>
-    <message>
-        <source>Download Moji plugin failed. The file will be closed to prent data loss. Please check your network and retry download.</source>
-        <translation>Gagal mengunduh plugin tinta. File akan ditutup untuk mencegah kehilangan data. Cek jaringan Anda dan coba unduh lagi.</translation>
     </message>
 </context>
 <context>
@@ -37421,6 +39723,10 @@ Cek koneksi jaringan Anda.</translation>
         <source>Cannot show mimetype</source>
         <translation>Tidak dapat menampilkan tipe mime</translation>
     </message>
+    <message>
+        <source>Frame load interrupted by policy change</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxTaskTabbar</name>
@@ -37521,16 +39827,49 @@ Cek koneksi jaringan Anda.</translation>
         <source>unexpected end</source>
         <translation>Akhir yang tidak diharapkan</translation>
     </message>
-</context>
-<context>
-    <name>KPPDOptionsEditor</name>
     <message>
-        <source>There are conflicting options.The changes can only be applied after the conflict has been resolved.</source>
-        <translation>Ada konflik opsi. Semua konflik harus diselesaikan sebelum perubahan Anda dapat diterapkan.</translation>
+        <source>invalid category</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Property</source>
-        <translation>Properti</translation>
+        <source>invalid interval</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No error occurred</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bad lookahead syntax</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Missing left delim</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disabled feature used</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid octal value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bad repetition syntax</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bad character class syntax</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unexpected end</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Met internal limit</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -37695,17 +40034,6 @@ Cek koneksi jaringan Anda.</translation>
     </message>
 </context>
 <context>
-    <name>KxHistoryDisplayDlg</name>
-    <message>
-        <source>View classification</source>
-        <translation>Lihat Kerahasiaan</translation>
-    </message>
-    <message>
-        <source>Document Name:</source>
-        <translation>Nama Dokumen:</translation>
-    </message>
-</context>
-<context>
     <name>QHttpSocketEngine</name>
     <message>
         <source>Proxy connection refused</source>
@@ -37808,6 +40136,10 @@ Cek koneksi jaringan Anda.</translation>
         <source>Unable to bind value</source>
         <translation>Tidak dapat mengikat nilai</translation>
     </message>
+    <message>
+        <source>Unable to get statement type</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxOfflineManagementDlg</name>
@@ -37822,10 +40154,6 @@ Cek koneksi jaringan Anda.</translation>
     <message>
         <source>User name:</source>
         <translation>Nama pengguna:</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation>Gagal mengimpor kunci offline karena Anda tidak memiliki izin offline untuk dokumen.</translation>
     </message>
     <message>
         <source>User account:</source>
@@ -37868,6 +40196,10 @@ Cek koneksi jaringan Anda.</translation>
         <translation>Departemen pengguna:</translation>
     </message>
     <message>
+        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
+        <translation>Gagal mengimpor kunci offline karena Anda tidak memiliki izin offline untuk dokumen.</translation>
+    </message>
+    <message>
         <source>Import offline data successfully.</source>
         <translation>Kunci offline berhasil diimpor.</translation>
     </message>
@@ -37908,6 +40240,14 @@ Cek koneksi jaringan Anda.</translation>
     <message>
         <source>Protocol &quot;%1&quot; is unknown</source>
         <translation>Protokol &quot;%1&quot; tidak dikenal</translation>
+    </message>
+    <message>
+        <source>Network session error.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Temporary network failure.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38253,41 +40593,6 @@ Proteksi kata sandi dan izin dokumen akan menjadi tidak valid.</translation>
     </message>
 </context>
 <context>
-    <name>KVipTipButton</name>
-    <message>
-        <source>Buy separately on demand</source>
-        <translation>Beli Terpisah sesuai Permintaan</translation>
-    </message>
-    <message>
-        <source>TimeLimited</source>
-        <translation>Gratis untuk Waktu Terbatas</translation>
-    </message>
-    <message>
-        <source>Free for a limited time for WPS members</source>
-        <translation>Gratis untuk waktu terbatas untuk WPS Premium</translation>
-    </message>
-    <message>
-        <source>DocerVip</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WpsVip</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Free for Docer members</source>
-        <translation>Gratis untuk Templat Premium dan Super Premium</translation>
-    </message>
-    <message>
-        <source>PaySeparately</source>
-        <translation>Bayar Terpisah</translation>
-    </message>
-    <message>
-        <source>Free for WPS members</source>
-        <translation>Gratis untuk WPS Premium dan Super Premium</translation>
-    </message>
-</context>
-<context>
     <name>KxHardwareEncryptionInfoWidget</name>
     <message>
         <source> days.</source>
@@ -38482,6 +40787,26 @@ File ini mungkin diganti namanya, dihapus atau dipindahkan.</translation>
     <message>
         <source>%1: ftok failed</source>
         <translation>%1: ftok gagal</translation>
+    </message>
+    <message>
+        <source>%1: does not exist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1: already exists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1: unknown error %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1: out of resources</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1: permission denied</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38728,33 +41053,6 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxOfflineManagement</name>
-    <message>
-        <source>The offline account %1 is inconsistent with the login account %2, please use the login account to verify</source>
-        <translation>Akun offline %1 tidak sama dengan akun tercatat masuk %2. Gunakan akun tercatat masuk untuk verifikasi.</translation>
-    </message>
-    <message>
-        <source>Please close all security document before log out.</source>
-        <translation>Tutup semua dokumen keamanan sebelum mengakses keluar.</translation>
-    </message>
-    <message>
-        <source>Verification Exception Hint</source>
-        <translation>Peringatan Pengecualian Verifikasi</translation>
-    </message>
-    <message>
-        <source>Offline verfication</source>
-        <translation>Verifikasi offline</translation>
-    </message>
-    <message>
-        <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
-        <translation>Akun tercatat masuk %1 tidak sama dengan akun offline %2. Gunakan akun offline untuk verifikasi.</translation>
-    </message>
-    <message>
-        <source>Login Exception Hint</source>
-        <translation>Peringatan Pengecualian Masuk</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgTrustedLocation</name>
     <message>
         <source>&amp;Path:</source>
@@ -38981,32 +41279,6 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
 </context>
 <context>
-    <name>KxEtCollectionFormWidget</name>
-    <message>
-        <source>Immediate experience</source>
-        <translation>Coba sekarang</translation>
-    </message>
-    <message>
-        <source>Support multi-person filling, mobile submission, automatic data aggregation</source>
-        <translation>Mendukung pengisian banyak orang, pengiriman melalui ponsel, dan agregasi data otomatis</translation>
-    </message>
-    <message>
-        <source>View brief</source>
-        <translation>Lihat Pengenalan</translation>
-    </message>
-    <message>
-        <source>%1Not remind%2</source>
-        <translation>%1Jangan ingatkan saya lagi%2</translation>
-    </message>
-</context>
-<context>
-    <name>KxQrCodeWidget</name>
-    <message>
-        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation>Jika ada pertanyaan, silakan hubungi %1 Layanan Pelanggan WPS, atau pindai kode QR Layanan Pelanggan di sisi kiri.</translation>
-    </message>
-</context>
-<context>
     <name>QUndoModel</name>
     <message>
         <source>&lt;empty&gt;</source>
@@ -39018,6 +41290,29 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <message>
         <source>Error opening %1</source>
         <translation>Kesalahan membuka %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontComboBox</name>
+    <message>
+        <source> (Body)</source>
+        <translation> (Isi)</translation>
+    </message>
+    <message>
+        <source> (Headings)</source>
+        <translation> (Kepala)</translation>
+    </message>
+    <message>
+        <source>Hide theme fonts</source>
+        <translation>Klik untuk menyembunyikan font tema</translation>
+    </message>
+    <message>
+        <source>Show theme fonts</source>
+        <translation>Klik untuk menampilkan font tema</translation>
+    </message>
+    <message>
+        <source>Show theme Fonts</source>
+        <translation>Tampilkan Font tema</translation>
     </message>
 </context>
 <context>
@@ -39088,6 +41383,45 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <message>
         <source>&amp;Preview</source>
         <translation>Pratampil (&amp;P)</translation>
+    </message>
+</context>
+<context>
+    <name>KxGetVbaRightsDialog</name>
+    <message>
+        <source>Get VBA Permission</source>
+        <translation>Ambil Izin VBA</translation>
+    </message>
+    <message>
+        <source>Dialog</source>
+        <translation>Dialog</translation>
+    </message>
+    <message>
+        <source>upgrade package</source>
+        <translation>tingkatkan paket</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation>Tombol Jejal</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Label Teks</translation>
+    </message>
+    <message>
+        <source>upgrated, refresh</source>
+        <translation>Berhasil ditingkatkan. Segarkan</translation>
+    </message>
+    <message>
+        <source>How to Get</source>
+        <translation>Cara Mengaktifkan Makro</translation>
+    </message>
+    <message>
+        <source>The current package %1 does not support macro. After upgrading the package (to Commercial / Advanced Commercial), you can obtain the installation permission of VBA.</source>
+        <translation>Paket %1 saat ini tidak mendukung pengaktifan makro. Setelah meningkatkan paket (ke Komersial/Komersial Lanjutan), Anda dapat memperoleh izin instalasi perpustakaan dukungan VBA.</translation>
+    </message>
+    <message>
+        <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
+        <translation>Paket %1 saat ini tidak mendukung pengaktifan makro. Hubungi super administrator perusahaan %2 untuk meningkatkan paket dan memperoleh izin penginstalan perpustakaan dukungan VBA.</translation>
     </message>
 </context>
 <context>
@@ -39279,6 +41613,10 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
         <source>Customize...</source>
         <translation>Kustom...</translation>
     </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KShortcutSettingDlg</name>
@@ -39407,17 +41745,6 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     </message>
 </context>
 <context>
-    <name>KxMakeOutwardDocEntranceCommand</name>
-    <message>
-        <source>You don&apos;t have outgoing permissions for this document(docid: %1). Please contact the administrator.</source>
-        <translation>Anda tidak memiliki izin untuk menerbitkan dokumen keluar (ID dokumen): %1). Hubungi administrator.</translation>
-    </message>
-    <message>
-        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
-        <translation>Anda tidak memiliki aplikasi file keluar dengan proteksi cap air, atau aplikasi terakhir Anda telah berakhir.</translation>
-    </message>
-</context>
-<context>
     <name>KxMakeOutwardDocCommand</name>
     <message>
         <source>Current document has unsaved changes, please make outward document after saving changes.</source>
@@ -39432,12 +41759,12 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
         <translation>Dokumen berhasil dibuat</translation>
     </message>
     <message>
-        <source>This document can not make outward document</source>
-        <translation>Dokumen ini tidak dapat digunakan untuk membuat dokumen keluar.</translation>
-    </message>
-    <message>
         <source>Open file</source>
         <translation>Buka File</translation>
+    </message>
+    <message>
+        <source>This document can not make outward document</source>
+        <translation>Dokumen ini tidak dapat digunakan untuk membuat dokumen keluar.</translation>
     </message>
     <message>
         <source>Can not make outward document</source>
@@ -39503,33 +41830,6 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <message>
         <source>CHART OPTIONS</source>
         <translation>PILIHAN BAGAN</translation>
-    </message>
-</context>
-<context>
-    <name>KxPermissionLoginTipDlgV2</name>
-    <message>
-        <source>This document has private document protection turned on, log in to the document owner account or authorized account to open the document.</source>
-        <translation>Dokumen ini telah mengaktifkan proteksi dokumen privat. Masuk dengan akun pemilik dokumen atau akun resmi untuk membuka dokumen.</translation>
-    </message>
-    <message>
-        <source>Login Account</source>
-        <translation>Akun Masuk</translation>
-    </message>
-    <message>
-        <source>This document is protected by account access</source>
-        <translation>Dokumen ini diproteksi akses akun</translation>
-    </message>
-    <message>
-        <source>turned on private document protection.</source>
-        <translation>diaktifkan dengan proteksi dokumen privat.</translation>
-    </message>
-    <message>
-        <source>The document was</source>
-        <translation>Dokumen telah</translation>
-    </message>
-    <message>
-        <source>Log in the authorized account to open the document.</source>
-        <translation>Masuk dengan akun ini atau akun resmi untuk membuka dokumen.</translation>
     </message>
 </context>
 <context>
@@ -39624,6 +41924,10 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
         <source>Use this slider to adjust the volume. The leftmost position is 0%, the rightmost is %1%</source>
         <translation>Gunakan slider ini untuk menyesuaikan volume. Posisi paling kiri adalah 0%, paling kanan adalah %1%</translation>
     </message>
+    <message>
+        <source>Muted</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KAxServer</name>
@@ -39687,6 +41991,17 @@ Silakan beralih ke VIP agar dapat menggunakan fitur ini tanpa batas.</translatio
     <message>
         <source>sheet %1</source>
         <translation>lembar %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxHistoryDisplayDlg</name>
+    <message>
+        <source>Document Name:</source>
+        <translation>Nama Dokumen:</translation>
+    </message>
+    <message>
+        <source>View classification</source>
+        <translation>Lihat Kerahasiaan</translation>
     </message>
 </context>
 <context>
@@ -39784,6 +42099,33 @@ menggunakan ambil layar WPS dan OCR</translation>
     <message>
         <source>Username:</source>
         <translation>Nama pengguna:</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagement</name>
+    <message>
+        <source>Please close all security document before log out.</source>
+        <translation>Tutup semua dokumen keamanan sebelum mengakses keluar.</translation>
+    </message>
+    <message>
+        <source>Offline verfication</source>
+        <translation>Verifikasi offline</translation>
+    </message>
+    <message>
+        <source>The offline account %1 is inconsistent with the login account %2, please use the login account to verify</source>
+        <translation>Akun offline %1 tidak sama dengan akun tercatat masuk %2. Gunakan akun tercatat masuk untuk verifikasi.</translation>
+    </message>
+    <message>
+        <source>Verification Exception Hint</source>
+        <translation>Peringatan Pengecualian Verifikasi</translation>
+    </message>
+    <message>
+        <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
+        <translation>Akun tercatat masuk %1 tidak sama dengan akun offline %2. Gunakan akun offline untuk verifikasi.</translation>
+    </message>
+    <message>
+        <source>Login Exception Hint</source>
+        <translation>Peringatan Pengecualian Masuk</translation>
     </message>
 </context>
 <context>
@@ -39962,17 +42304,48 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxPermissionLoginTipDlg</name>
+    <message>
+        <source>Offline verification</source>
+        <translation>Verifikasi offline</translation>
+    </message>
+    <message>
+        <source>Abnormal network connection</source>
+        <translation>Koneksi jaringan abnormal</translation>
+    </message>
+    <message>
+        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
+        <translation>Jika Anda telah mengatur kata sandi offline, Anda dapat lanjut mengoperasikan dokumen setelah verifikasi offline.</translation>
+    </message>
+    <message>
+        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
+        <translation>Ada kesalahan saat menyambung ke jaringan dan dokumen terenkripsi tidak dapat dioperasikan. Cek jaringan dan coba lagi nanti.</translation>
+    </message>
+</context>
+<context>
+    <name>KxServerDownTipDlg</name>
+    <message>
+        <source>Offline verification</source>
+        <translation>Verifikasi offline</translation>
+    </message>
+    <message>
+        <source>Abnormal network connection</source>
+        <translation>Koneksi jaringan abnormal</translation>
+    </message>
+    <message>
+        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
+        <translation>Jika Anda telah mengatur kata sandi offline, Anda dapat lanjut mengoperasikan dokumen setelah verifikasi offline.</translation>
+    </message>
+    <message>
+        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
+        <translation>Ada kesalahan saat menyambung ke jaringan dan dokumen terenkripsi tidak dapat dioperasikan. Cek jaringan dan coba lagi nanti.</translation>
+    </message>
+</context>
+<context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Change Theme Color</source>
         <translation>Ubah Warna Tema</translation>
-    </message>
-</context>
-<context>
-    <name>KxDevelopLanguageTipWidget</name>
-    <message>
-        <source>Set JS as default. You can change it to VB. When opening VB-only files, the environment is still VB.</source>
-        <translation>Atur JS sebagai default. Anda dapat mengalihkannya ke VB. Saat membuka file khusus VB, lingkungan VB digunakan secara default.</translation>
     </message>
 </context>
 <context>
@@ -40189,25 +42562,30 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>KxChartToolsHelper</name>
+    <name>KxPermissionLoginTipDlgV2</name>
     <message>
-        <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
-        <translation>Jenis bagan saat ini tidak dapat digabungkan dengan jenis bagan lainnya. Anda dapat mengubah jenis bagan dari semua seri data, atau Anda dapat menyimpan bagan ini.</translation>
+        <source>Login Account</source>
+        <translation>Akun Masuk</translation>
     </message>
     <message>
-        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
-        <translation>Gagal mengubah jenis bagan. Data yang dipilih tidak dapat diubah ke jenis bagan ini.</translation>
-    </message>
-</context>
-<context>
-    <name>KxMBRejectDlg</name>
-    <message>
-        <source>You sure reject the application? Please brief the reason.</source>
-        <translation>Anda yakin ingin menolak peninjauan? Jelaskan alasan penolakan.</translation>
+        <source>This document is protected by account access</source>
+        <translation>Dokumen ini diproteksi akses akun</translation>
     </message>
     <message>
-        <source>Rejected</source>
-        <translation>Ditolak</translation>
+        <source>turned on private document protection.</source>
+        <translation>diaktifkan dengan proteksi dokumen privat.</translation>
+    </message>
+    <message>
+        <source>The document was</source>
+        <translation>Dokumen telah</translation>
+    </message>
+    <message>
+        <source>This document has private document protection turned on, log in to the document owner account or authorized account to open the document.</source>
+        <translation>Dokumen ini telah mengaktifkan proteksi dokumen privat. Masuk dengan akun pemilik dokumen atau akun resmi untuk membuka dokumen.</translation>
+    </message>
+    <message>
+        <source>Log in the authorized account to open the document.</source>
+        <translation>Masuk dengan akun ini atau akun resmi untuk membuka dokumen.</translation>
     </message>
 </context>
 <context>
@@ -40219,17 +42597,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Find Commands</source>
         <translation>Cari Perintah</translation>
-    </message>
-</context>
-<context>
-    <name>KxSetMBCommand</name>
-    <message>
-        <source>Your document is in the form of attachment, unable to set mb.</source>
-        <translation>Dokumen Anda dalam format lampiran dan tidak dapat ditandai rahasia.</translation>
-    </message>
-    <message>
-        <source>This document can not set MB</source>
-        <translation>Dokumen ini tidak dapat ditandai rahasia.</translation>
     </message>
 </context>
 <context>
@@ -40498,6 +42865,41 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Parallel</source>
         <translation>Paralel</translation>
+    </message>
+</context>
+<context>
+    <name>KVipTipButton</name>
+    <message>
+        <source>DocerVip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WpsVip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Buy separately on demand</source>
+        <translation>Beli Terpisah sesuai Permintaan</translation>
+    </message>
+    <message>
+        <source>TimeLimited</source>
+        <translation>Gratis untuk Waktu Terbatas</translation>
+    </message>
+    <message>
+        <source>Free for a limited time for WPS members</source>
+        <translation>Gratis untuk waktu terbatas untuk WPS Premium</translation>
+    </message>
+    <message>
+        <source>Free for Docer members</source>
+        <translation>Gratis untuk Templat Premium dan Super Premium</translation>
+    </message>
+    <message>
+        <source>PaySeparately</source>
+        <translation>Bayar Terpisah</translation>
+    </message>
+    <message>
+        <source>Free for WPS members</source>
+        <translation>Gratis untuk WPS Premium dan Super Premium</translation>
     </message>
 </context>
 <context>
@@ -40937,16 +43339,16 @@ untuk membuat dokumen luar</translation>
         <translation>Masukkan kata sandi, atau buka dalam mode hanya baca:</translation>
     </message>
     <message>
-        <source>Document is setted edit password</source>
-        <translation>Kata sandi pengeditan diatur untuk dokumen.</translation>
-    </message>
-    <message>
         <source>(Recommended)</source>
         <translation>(Disarankan)</translation>
     </message>
     <message>
         <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
         <translation>Gunakan akun WPS untuk mengenkripsi dokumen.Diperlukan verifikasi akun saat membuka dokumen yang dienkripsi</translation>
+    </message>
+    <message>
+        <source>Document is setted edit password</source>
+        <translation>Kata sandi pengeditan diatur untuk dokumen.</translation>
     </message>
 </context>
 <context>
@@ -41321,52 +43723,6 @@ untuk membuat dokumen luar</translation>
     </message>
 </context>
 <context>
-    <name>KxChartTypeDialogClass_xa</name>
-    <message>
-        <source>Current Chart Name</source>
-        <translation>Nama Bagan Saat Ini</translation>
-    </message>
-    <message>
-        <source>TextLabelForGroupChart</source>
-        <translation>Label Teks untuk Bagan Grup</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>&amp;Manage Templates...</source>
-        <translation>Atur Templat...</translation>
-    </message>
-    <message>
-        <source>Delete, move, or rename your templates.</source>
-        <translation>Hapus, pindahkan, atau ganti nama templat Anda.</translation>
-    </message>
-</context>
-<context>
-    <name>KXaOverseasAuthManager</name>
-    <message>
-        <source>Read-Only Mode</source>
-        <translation>Mode Hanya Baca</translation>
-    </message>
-    <message>
-        <source>Continue in Read-only Mode</source>
-        <translation>Lanjutkan</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Masuk</translation>
-    </message>
-    <message>
-        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
-        <translation>Anda hanya dapat melihat dokumen ini dalam mode hanya baca. Silakan masuk dan nikmati lebih banyak fitur, termasuk pengeditan, penyimpanan, dan pembuatan dokumen. Sekaligus dokumen Anda akan dilindungi dengan lebih baik setelah Anda masuk.</translation>
-    </message>
-</context>
-<context>
     <name>KMDIRestoreCommand</name>
     <message>
         <source>Restore</source>
@@ -41378,6 +43734,37 @@ untuk membuat dokumen luar</translation>
     <message>
         <source>Maximize</source>
         <translation>Maksimalkan</translation>
+    </message>
+</context>
+<context>
+    <name>KXBlackTipWidget</name>
+    <message>
+        <source>The file has too much data excess. Auto-slimming it down:</source>
+        <translation>Untuk pengalaman yang lebih baik, kami mengoptimalkan dan mengompresi file besar Anda... xx%</translation>
+    </message>
+    <message>
+        <source>Slim list</source>
+        <translation>Daftar perampingan</translation>
+    </message>
+    <message>
+        <source>%1Not again for this file%2</source>
+        <translation>%1Jangan ingatkan saya lagi di dokumen ini%2</translation>
+    </message>
+    <message>
+        <source>Takes too long to open? Slim the file to clear invalid data.</source>
+        <translation>File memerlukan waktu yang sangat lama untuk terbuka? Kami menyarankan Anda merampingkan file, yang tidak akan memengaruhi data atau rumus.</translation>
+    </message>
+    <message>
+        <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
+        <translation>Operasi lambat? Lambat dalam menyimpan file? Kami menyarankan Anda merampingkan file, yang tidak akan memengaruhi data atau rumus.</translation>
+    </message>
+    <message>
+        <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
+        <translation>Jangan ingatkan saya lagi di dokumen ini. Untuk menggunakan Perampingan File, temukan di Fitur Khusus.</translation>
+    </message>
+    <message>
+        <source>Not again for this file</source>
+        <translation>Jangan ingatkan saya lagi di dokumen ini</translation>
     </message>
 </context>
 <context>
@@ -41409,6 +43796,17 @@ untuk membuat dokumen luar</translation>
     </message>
 </context>
 <context>
+    <name>KPPDOptionsEditor</name>
+    <message>
+        <source>Property</source>
+        <translation>Properti</translation>
+    </message>
+    <message>
+        <source>There are conflicting options.The changes can only be applied after the conflict has been resolved.</source>
+        <translation>Ada konflik opsi. Semua konflik harus diselesaikan sebelum perubahan Anda dapat diterapkan.</translation>
+    </message>
+</context>
+<context>
     <name>KxHardwareEncryptionAlert</name>
     <message>
         <source>Information</source>
@@ -41427,24 +43825,6 @@ untuk membuat dokumen luar</translation>
     </message>
 </context>
 <context>
-    <name>KxColorSnapperWidget</name>
-    <message>
-        <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
-        <translation>Gagal menginisialisasi pengambil warna karena fitur ini tidak didukung oleh sistem saat ini.</translation>
-    </message>
-</context>
-<context>
-    <name>JdeListWidgetItemData</name>
-    <message>
-        <source>Project is unviewable</source>
-        <translation>Proyek tidak dapat dilihat</translation>
-    </message>
-    <message>
-        <source>Project Locked</source>
-        <translation>Proyek Dikunci</translation>
-    </message>
-</context>
-<context>
     <name>KxWordArtInsertCommand</name>
     <message>
         <source>Your text here</source>
@@ -41456,13 +43836,6 @@ untuk membuat dokumen luar</translation>
     <message>
         <source>Button </source>
         <translation>Tombol </translation>
-    </message>
-</context>
-<context>
-    <name>KxVbaQuestionButton</name>
-    <message>
-        <source>how to enable</source>
-        <translation>Cara Mengaktifkan Makro</translation>
     </message>
 </context>
 <context>
@@ -41505,17 +43878,14 @@ untuk membuat dokumen luar</translation>
     </message>
 </context>
 <context>
-    <name>QCalendarEdit</name>
-    <message>
-        <source>please select date</source>
-        <translation>Pilih tanggal</translation>
-    </message>
-</context>
-<context>
     <name>Q3NetworkProtocol</name>
     <message>
         <source>Operation stopped by the user</source>
         <translation>Operasi dihentikan pengguna</translation>
+    </message>
+    <message>
+        <source>Operation is stopped by user</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41703,6 +44073,17 @@ Properti</translation>
     </message>
 </context>
 <context>
+    <name>KxMBRejectDlg</name>
+    <message>
+        <source>Rejected</source>
+        <translation>Ditolak</translation>
+    </message>
+    <message>
+        <source>You sure reject the application? Please brief the reason.</source>
+        <translation>Anda yakin ingin menolak peninjauan? Jelaskan alasan penolakan.</translation>
+    </message>
+</context>
+<context>
     <name>SelPictureWidgetBase</name>
     <message>
         <source>Current locale cannot apply this skin.</source>
@@ -41714,6 +44095,10 @@ Properti</translation>
     <message>
         <source>Unknown error</source>
         <translation>Kesalahan tidak dikenal</translation>
+    </message>
+    <message>
+        <source>No host name given</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41732,6 +44117,17 @@ Properti</translation>
     <message>
         <source>Recently Shapes</source>
         <translation>Bentuk yang Terakhir Digunakan</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeOutwardDocEntranceCommand</name>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation>Anda tidak memiliki aplikasi file keluar dengan proteksi cap air, atau aplikasi terakhir Anda telah berakhir.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have outgoing permissions for this document(docid: %1). Please contact the administrator.</source>
+        <translation>Anda tidak memiliki izin untuk menerbitkan dokumen keluar (ID dokumen): %1). Hubungi administrator.</translation>
     </message>
 </context>
 <context>
@@ -41894,6 +44290,594 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
 </context>
 <context>
+    <name>KxChooseOutwardDocTitleWidget</name>
+    <message>
+        <source>make outward doc</source>
+        <translation>Buat Dokumen Ke Luar</translation>
+    </message>
+</context>
+<context>
+    <name>KWpsAddonAuthDlg</name>
+    <message>
+        <source>NO</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxImageToPDFOneCommand</name>
+    <message>
+        <source>pic</source>
+        <translation>Versi hanya gambar</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan nilai yang relatif terhadap titik tengah.
+
+Gunakan saat:
+• Kategori tidak dapat dibandingkan secara langsung.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan relasi bagian terhadap keseluruhan dari waktu ke waktu atau kategori.
+• Menyoroti besarnya perubahan dari waktu ke waktu.
+• Menarik perhatian ke nilai total di seluruh tren.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan tren performa saham dari waktu ke waktu.
+
+Gunakan saat:
+• Anda memiliki empat rangkaian nilai: Volume, Tinggi, Rendah, Penutupan.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Bandingkan nilai di beberapa kategori.
+
+Gunakan saat:
+• Urutan kategori tidak penting.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Tampilkan bagaimana bagian dari satu keseluruhan berubah dari waktu ke waktu.
+
+Pertimbangkan menggunakan bagan area bertumpuk daripada bagan garis bertumpuk yang bisa sulit dibaca.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan proporsi keseluruhan.
+• Ambil beberapa nilai dari pie pertama dan gabungkan di bar bertumpuk untuk membuat persentase kecil yang lebih mudah dibaca atau soroti nilai di bar bertumpuk.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan persentase kontribusi setiap nilai terhadap total.
+• Menampilkan bagaimana persentase kontribusi setiap nilai berubah dari waktu ke waktu.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori.
+
+Gunakan saat:
+• Urutan kategori sangat penting.
+• Untuk menyoroti besarnya perubahan dari waktu ke waktu.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan tren performa saham dari waktu ke waktu.
+
+Gunakan saat:
+• Anda memiliki empat rangkaian nilai harga: Pembukaan, Tinggi, Rendah, Penutupan.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan proporsi keseluruhan.
+
+Gunakan sebagai ganti bagan pie bila ada beberapa rangkaian yang berelasi dengan jumlah yang lebih besar.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan minimal dua rangkaian nilai atau pasangan data.
+
+Gunakan saat:
+• Ada banyak titik data.
+• Data mewakili rangkaian pasangan x, y berdasarkan formula.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan proporsi keseluruhan.
+
+Gunakan saat:
+• Jumlah sama dengan 100%.
+• Bagan hanya berisi beberapa irisan pie (banyak irisan yang membentuk sudut yang sulit diperkirakan).</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menyoroti jenis informasi berbeda.
+
+Gunakan saat:
+• Rentang nilai dalam bagan sangat bervariasi.
+• Anda memiliki jenis data campuran.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan minimal dua rangkaian nilai atau pasangan data.
+• Menampilkan relasi antar rangkaian nilai
+
+Gunakan saat:
+• Data mewakili pengukuran terpisah.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan minimal tiga rangkaian nilai atau pasangan data.
+• Menampilkan relasi antar rangkaian nilai
+
+Gunakan saat:
+• Anda memiliki nilai ketiga yang dapat digunakan untuk menentukan ukuran relatif gelembung.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan bagian dari satu keseluruhan di seluruh kategori.
+• Tampilkan bagaimana bagian dari satu keseluruhan berubah dari waktu ke waktu.
+
+Gunakan saat:
+• Teks kategori panjang.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan minimal dua rangkaian nilai atau pasangan data.
+
+Gunakan saat:
+• Ada beberapa titik data.
+• Data mewakili pengukuran terpisah.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan persentase kontribusi terhadap keseluruhan dari waktu ke waktu atau kategori.
+• Menyoroti besarnya perubahan pada persentase kontribusi setiap nilai dari waktu ke waktu.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menyoroti jenis informasi berbeda.
+
+Gunakan saat:
+• Anda memiliki jenis data campuran.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan proporsi keseluruhan.
+• Ambil beberapa nilai dari pie pertama dan gabungkan di pie kedua untuk membuat persentase kecil yang lebih mudah dibaca atau sorot nilai di pie kedua.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan persentase kontribusi setiap nilai terhadap total.
+• Menampilkan bagaimana persentase kontribusi setiap nilai berubah dari waktu ke waktu.
+
+Gunakan saat:
+• Teks kategori panjang.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori.
+
+Gunakan saat:
+• Urutan kategori sangat penting.
+• Ada beberapa titik data.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan persentase kontribusi terhadap keseluruhan dari waktu ke waktu atau kategori.
+• Menampilkan perubahan pada persentase kontribusi setiap nilai dari waktu ke waktu.
+
+Pertimbangkan menggunakan bagan area bertumpuk 100% karena bagan garis bertumpuk bisa sulit dibaca.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan tren dari waktu ke waktu (tahun, bulan, dan hari) atau kategori.
+
+Gunakan saat:
+• Urutan kategori sangat penting.
+• Ada banyak titik data.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan tren performa saham dari waktu ke waktu.
+
+Gunakan saat:
+• Anda memiliki tiga rangkaian nilai harga: Tinggi, Rendah, Penutupan.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Bandingkan nilai di beberapa kategori.
+
+Gunakan saat:
+• Bagan menampilkan durasi.
+• Teks kategori panjang.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Bandingkan bagian dari keseluruhan.
+• Tampilkan bagaimana bagian dari satu keseluruhan berubah dari waktu ke waktu.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock's performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Menampilkan tren performa saham dari waktu ke waktu.
+
+Gunakan saat:
+• Anda memiliki lima rangkaian nilai: Volume, Pembukaan, Tinggi, Rendah, Penutupan.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan minimal dua rangkaian nilai atau pasangan data.
+
+Gunakan saat:
+• Ada banyak titik data.
+• Data mewakili pengukuran terpisah.</translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation>Gunakan jenis bagan ini untuk:
+• Membandingkan minimal dua rangkaian nilai atau pasangan data.
+
+Gunakan saat:
+• Ada beberapa titik data.
+• Data mewakili rangkaian pasangan x, y berdasarkan formula.</translation>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePaneAdvertise</name>
+    <message>
+        <source>Repair Damaged Files</source>
+        <translation>Perbaiki File yang Rusak</translation>
+    </message>
+    <message>
+        <source>SPlit/Merge/Compress PDF Files</source>
+        <translation>Pecah/Gabung/Kompres File PDF</translation>
+    </message>
+    <message>
+        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
+        <translation>OCR (Gambar ke Word/Excel/PPT/TXT)</translation>
+    </message>
+    <message>
+        <source>Edit Text/Images in PDF Files</source>
+        <translation>Edit Teks/Gambar di File PDF</translation>
+    </message>
+    <message>
+        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
+        <translation>Buka 51 fitur canggih untuk WPS PDF, Writer, Spreadsheet, dan Presentation.</translation>
+    </message>
+    <message>
+        <source>Get Your Free Trial</source>
+        <translation>Dapatkan Uji Coba Gratis Anda</translation>
+    </message>
+    <message>
+        <source>PDF to Word/Excel/PPT</source>
+        <translation>PDF ke Word/Excel/PPT</translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation>Beli Sekarang</translation>
+    </message>
+    <message>
+        <source>Start Your free 7-day trail of WPS Premium</source>
+        <translation>Mulai Uji Coba WPS Premium 7 Hari</translation>
+    </message>
+    <message>
+        <source>View more</source>
+        <translation>Lihat selengkapnya</translation>
+    </message>
+    <message>
+        <source>PDF Protect/Sign</source>
+        <translation>Lindungi/Tanda Tangan File PDF</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTemplateStackedWidget_xa</name>
+    <message>
+        <source>No local chart template</source>
+        <translation>Templat bagan lokal tidak tersedia.</translation>
+    </message>
+    <message>
+        <source>Manage Templates</source>
+        <translation>Atur Templat</translation>
+    </message>
+    <message>
+        <source>Local chart templates</source>
+        <translation>Templat Bagan Lokal</translation>
+    </message>
+    <message>
+        <source>Tips: By saving the chart template to the folder in the &quot;Manage Templates&quot; button, you can use the local chart template.</source>
+        <translation>Tip: Anda dapat dengan cepat menggunakan bagan yang disimpan sebagai templat atau mengeklik &quot;Kelola Templat&quot; untuk mengelola file templat bagan.</translation>
+    </message>
+</context>
+<context>
+    <name>KxAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation>Menunggu Aktivasi</translation>
+    </message>
+    <message>
+        <source>%1-day used</source>
+        <translation>Tersisa %1 hari</translation>
+    </message>
+    <message>
+        <source>%1-day trial</source>
+        <translation>Sisa hari uji coba: %1</translation>
+    </message>
+    <message>
+        <source>trial unlimited</source>
+        <translation>Mode Uji Coba</translation>
+    </message>
+</context>
+<context>
+    <name>KxPluginPathDlg</name>
+    <message>
+        <source>If you cancel this download, to protect data, the file will not open. Sure to cancel?</source>
+        <translation>Jika Anda membatalkan pengunduhan ini untuk melindungi data, file tidak akan terbuka. Anda yakin ingin membatalkan pengunduhan?</translation>
+    </message>
+    <message>
+        <source>Download Moji plugin failed. The file will be closed to prent data loss. Please check your network and retry download.</source>
+        <translation>Gagal mengunduh plugin tinta. File akan ditutup untuk mencegah kehilangan data. Cek jaringan Anda dan coba unduh lagi.</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtCollectionFormWidget</name>
+    <message>
+        <source>Immediate experience</source>
+        <translation>Coba sekarang</translation>
+    </message>
+    <message>
+        <source>Support multi-person filling, mobile submission, automatic data aggregation</source>
+        <translation>Mendukung pengisian banyak orang, pengiriman melalui ponsel, dan agregasi data otomatis</translation>
+    </message>
+    <message>
+        <source>View brief</source>
+        <translation>Lihat Pengenalan</translation>
+    </message>
+    <message>
+        <source>%1Not remind%2</source>
+        <translation>%1Jangan ingatkan saya lagi%2</translation>
+    </message>
+</context>
+<context>
+    <name>KxQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
+        <translation>Jika ada pertanyaan, silakan hubungi %1 Layanan Pelanggan WPS, atau pindai kode QR Layanan Pelanggan di sisi kiri.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDevelopLanguageTipWidget</name>
+    <message>
+        <source>Set JS as default. You can change it to VB. When opening VB-only files, the environment is still VB.</source>
+        <translation>Atur JS sebagai default. Anda dapat mengalihkannya ke VB. Saat membuka file khusus VB, lingkungan VB digunakan secara default.</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartToolsHelper</name>
+    <message>
+        <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
+        <translation>Jenis bagan saat ini tidak dapat digabungkan dengan jenis bagan lainnya. Anda dapat mengubah jenis bagan dari semua seri data, atau Anda dapat menyimpan bagan ini.</translation>
+    </message>
+    <message>
+        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
+        <translation>Gagal mengubah jenis bagan. Data yang dipilih tidak dapat diubah ke jenis bagan ini.</translation>
+    </message>
+</context>
+<context>
+    <name>KxSetMBCommand</name>
+    <message>
+        <source>Your document is in the form of attachment, unable to set mb.</source>
+        <translation>Dokumen Anda dalam format lampiran dan tidak dapat ditandai rahasia.</translation>
+    </message>
+    <message>
+        <source>This document can not set MB</source>
+        <translation>Dokumen ini tidak dapat ditandai rahasia.</translation>
+    </message>
+</context>
+<context>
+    <name>KXaOverseasAuthManager</name>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation>Mode Hanya Baca</translation>
+    </message>
+    <message>
+        <source>Continue in Read-only Mode</source>
+        <translation>Lanjutkan</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Masuk</translation>
+    </message>
+    <message>
+        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
+        <translation>Anda hanya dapat melihat dokumen ini dalam mode hanya baca. Silakan masuk dan nikmati lebih banyak fitur, termasuk pengeditan, penyimpanan, dan pembuatan dokumen. Sekaligus dokumen Anda akan dilindungi dengan lebih baik setelah Anda masuk.</translation>
+    </message>
+</context>
+<context>
+    <name>KxColorSnapperWidget</name>
+    <message>
+        <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
+        <translation>Gagal menginisialisasi pengambil warna karena fitur ini tidak didukung oleh sistem saat ini.</translation>
+    </message>
+</context>
+<context>
+    <name>JdeListWidgetItemData</name>
+    <message>
+        <source>Project is unviewable</source>
+        <translation>Proyek tidak dapat dilihat</translation>
+    </message>
+    <message>
+        <source>Project Locked</source>
+        <translation>Proyek Dikunci</translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaQuestionButton</name>
+    <message>
+        <source>how to enable</source>
+        <translation>Cara Mengaktifkan Makro</translation>
+    </message>
+</context>
+<context>
+    <name>QCalendarEdit</name>
+    <message>
+        <source>please select date</source>
+        <translation>Pilih tanggal</translation>
+    </message>
+</context>
+<context>
     <name>KxDocSecurityLoadingWidget</name>
     <message>
         <source>Loading. Please wait...</source>
@@ -41901,10 +44885,1749 @@ Rekam tidak valid. File ini mungkin sudah diganti namanya, dihapus, atau dipinda
     </message>
 </context>
 <context>
-    <name>KxChooseOutwardDocTitleWidget</name>
+    <name>QScriptDebugger</name>
     <message>
-        <source>make outward doc</source>
-        <translation>Buat Dokumen Ke Luar</translation>
+        <source>F3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>F5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>F9</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>F10</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>F11</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Line:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ctrl+F</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ctrl+G</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Error Log</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear Debug Output</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Toggle Breakpoint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Find &amp;Next</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Find &amp;Previous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Step Out</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Interrupt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Go to Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ctrl+F10</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Step Into</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Step Over</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Find in Script...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run to Cursor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run to New Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shift+F3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shift+F5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Shift+F11</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptBreakpointsModel</name>
+    <message>
+        <source>ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Single-shot</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Condition</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ignore-count</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hit-count</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QSoftKeyManager</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptBreakpointsWidget</name>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptDebuggerLocalsModel</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptDebuggerStackModel</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptDebuggerCodeFinderWidget</name>
+    <message>
+        <source>Next</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Whole words</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Case Sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptEngineDebugger</name>
+    <message>
+        <source>View</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stack</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Debug Output</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Breakpoints</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Qt Script Debugger</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locals</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error Log</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Loaded Scripts</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeCompiler</name>
+    <message>
+        <source>Attached properties cannot be used here</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: rect expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid attached object assignment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Component elements may not contain properties other than id</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid grouped property access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot override FINAL property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: size expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign object to list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: string expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign a value to a signal (expecting a script to be run)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: unknown enumeration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: unsupported type &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: datetime expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: 3D vector expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign multiple values to a script property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: date expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: time expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property assignment expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot create empty component specification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;%1&quot; cannot operate on &quot;%2&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid use of id property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Method names cannot begin with an upper case letter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Empty signal assignment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duplicate property name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not an attached property name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Component objects cannot declare new functions.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Incorrectly specified signal assignment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Element is not creatable.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Component objects cannot declare new properties.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: color expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duplicate method name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: boolean expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign to non-existent default property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid alias reference. An alias reference must be specified as &lt;id&gt; or &lt;id&gt;.&lt;property&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Non-existent attached object</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IDs cannot start with an uppercase letter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: point expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Can only assign one binding to lists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duplicate default property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Duplicate signal name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: unsigned int expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>id is not unique</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property nesting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property names cannot begin with an upper case letter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid alias reference. Unable to find id &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: &quot;%1&quot; is a read-only property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property value set multiple times</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal signal name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign primitives to lists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign object to property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property has already been assigned a value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal method name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property use</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: number expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign a value directly to a grouped property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IDs must start with a letter or underscore</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid empty ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unexpected object assignment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ID illegally masks global JavaScript property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid component body specification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Component objects cannot declare new signals.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IDs must contain only letters, numbers, and underscores</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid use of namespace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: int expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid component id specification</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal property name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Single property assignment expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Empty property assignment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signal names cannot begin with an upper case letter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: url expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property assignment: script expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign multiple values to a singular property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Alias property exceeds alias bounds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid alias reference. An alias reference must be specified as &lt;id&gt;, &lt;id&gt;.&lt;property&gt; or &lt;id&gt;.&lt;value property&gt;.&lt;property&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No property alias location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;%1.%2&quot; is not available due to component versioning.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid alias location</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeAnchors</name>
+    <message>
+        <source>Cannot anchor item to self.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Possible anchor loop detected on horizontal anchor.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot anchor to a null item.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot specify top, bottom, and vcenter anchors.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Possible anchor loop detected on centerIn.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Baseline anchor cannot be used in conjunction with top, bottom, or vcenter anchors.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot specify left, right, and hcenter anchors.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Possible anchor loop detected on vertical anchor.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot anchor a horizontal edge to a vertical edge.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot anchor a vertical edge to a horizontal edge.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot anchor to an item that isn&apos;t a parent or sibling.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Possible anchor loop detected on fill.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeCompositeTypeManager</name>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resource %1 unavailable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type %1 unavailable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Namespace %1 cannot be used as a type</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::AudioEqualizer</name>
+    <message>
+        <source>%1 Hz</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QNetworkSessionPrivateImpl</name>
+    <message>
+        <source>Roaming error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The session was aborted by the user or system.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The requested operation is not supported by the system.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session aborted by user or system</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unidentified Error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Roaming was aborted or is not possible.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The specified configuration cannot be used.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unknown session error.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptNewBreakpointWidget</name>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QAccessibleButton</name>
+    <message>
+        <source>Press</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF</name>
+    <message>
+        <source>Could not connect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Access denied</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid protocol</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Output</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disconnected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Server alert</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Out of memory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not supported</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid URL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Video output error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>In use</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insufficient bandwidth</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already exists</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio output error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Multicast error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proxy server not supported</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Permission denied</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not found</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not ready</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proxy server error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The audio output device</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Streaming not supported</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio or video components could not be played</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Underflow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network communication error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Overflow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Network unavailable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Path not found</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decoder error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DRM error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unknown error (%1)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeTextInput</name>
+    <message>
+        <source>Could not instantiate cursor delegate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not load cursor delegate</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeListModel</name>
+    <message>
+        <source>set: value is not an object</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ListElement: cannot use script for property value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ListModel: undefined property &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ListElement: cannot contain nested elements</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>insert: value is not an object</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>remove: index %1 out of range</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>set: index %1 out of range</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>append: value is not an object</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>move: out of range</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>insert: index %1 out of range</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ListElement: cannot use reserved &quot;id&quot; property</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeEngine</name>
+    <message>
+        <source>Version mismatch: expected %1, found %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>executeSql called outside transaction()</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Read-only Transaction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SQL transaction failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>transaction: missing callback</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SQL: database version mismatch</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::EnvironmentalReverb</name>
+    <message>
+        <source>Reverb delay (ms)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Density (%)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Room HF level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverb level (mB)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Diffusion (%)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decay HF ratio (%)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decay time (ms)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reflections level (mB)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Room level (mB)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reflections delay (ms)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeVME</name>
+    <message>
+        <source>Cannot assign object to list</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign object type %1 with no default method</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot connect mismatched signal/slot %1 %vs. %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign value %1 to property %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot set properties on %1 as it is null</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign an object to signal property %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to create object of type %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign object to interface property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to create attached object</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeImportDatabase</name>
+    <message>
+        <source>is ambiguous. Found in %1 and in %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>local directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>import &quot;%1&quot; has no qmldir and no namespace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>- %1 is not a namespace</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>module &quot;%1&quot; definition &quot;%2&quot; not readable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>module &quot;%1&quot; plugin &quot;%2&quot; not found</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is not a type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>module &quot;%1&quot; is not installed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>module &quot;%1&quot; version %2.%3 is not installed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>- nested namespaces not allowed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>plugin cannot be loaded for module &quot;%1&quot;: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is instantiated recursively</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is ambiguous. Found in %1 in version %2.%3 and %4.%5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&quot;%1&quot;: no such directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>cannot load module &quot;%1&quot;: File name case mismatch for &quot;%2&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File name case mismatch for &quot;%2&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::MediaObject</name>
+    <message>
+        <source>Error opening source: resource is compressed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error opening source: media type could not be determined</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error opening source: resource not valid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error opening source: type not supported</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to set requested IAP</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativePixmap</name>
+    <message>
+        <source>Error decoding: %1: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot open: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to get image from provider: %1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeBinding</name>
+    <message>
+        <source>Binding loop detected for property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeBindings</name>
+    <message>
+        <source>Binding loop detected for property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QXmlPatternistCLI</name>
+    <message>
+        <source>Error %1 in %2, at line %3, column %4: %5</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Warning in %1: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error %1 in %2: %3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Warning in %1, at line %2, column %3: %4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unknown location</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QNetworkAccessManager</name>
+    <message>
+        <source>Network access is disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeXmlRoleList</name>
+    <message>
+        <source>An XmlListModel query must start with &apos;/&apos; or &quot;//&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>FakeReply</name>
+    <message>
+        <source>Invalid URL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fake error !</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeParser</name>
+    <message>
+        <source>Script import qualifiers must be unique.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unterminated regular expression class</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Library import requires a version</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid regular expression flag &apos;%0&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>JavaScript declaration outside Script element</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unclosed comment at end of file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unclosed string at end of line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expected property type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expected type name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal escape sequence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Readonly not yet supported</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unterminated regular expression literal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property value set multiple times</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unterminated regular expression backslash sequence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identifier cannot start with numeric literal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Script import requires a qualifier</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal syntax for exponential number</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid property type modifier</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reserved name &quot;Qt&quot; cannot be used as an qualifier</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expected token `%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unexpected token `%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expected parameter type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal unicode escape sequence</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unexpected property type modifier</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid import qualifier ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Syntax error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal escape squence</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QScriptEdit</name>
+    <message>
+        <source>Disable Breakpoint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Breakpoint Condition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Toggle Breakpoint</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable Breakpoint</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::AudioOutput</name>
+    <message>
+        <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which has higher preference or is specifically configured for this stream.&lt;/html&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Revert back to device &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which just became available and has higher preference.&lt;/html&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativePropertyChanges</name>
+    <message>
+        <source>Cannot assign to read-only property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PropertyChanges does not support creating state-specific objects.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::AbstractVideoPlayer</name>
+    <message>
+        <source>Pause failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Seek failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Opening clip failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Getting position failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::AbstractMediaPlayer</name>
+    <message>
+        <source>Not ready to play</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error opening file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error opening source: resource not opened</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error opening URL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Loading clip failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Setting volume failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error opening resource</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Playback complete</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Download error</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeAbstractAnimation</name>
+    <message>
+        <source>Animation is an abstract class</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot animate non-existent property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot animate read-only property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeFlipable</name>
+    <message>
+        <source>front is a write-once property</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>back is a write-once property</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeParentAnimation</name>
+    <message>
+        <source>Unable to preserve appearance under non-uniform scale</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to preserve appearance under complex transform</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to preserve appearance under scale of 0</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeParentChange</name>
+    <message>
+        <source>Unable to preserve appearance under non-uniform scale</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to preserve appearance under complex transform</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to preserve appearance under scale of 0</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QGstreamerPlayerSession</name>
+    <message>
+        <source>Unable to play %1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeComponent</name>
+    <message>
+        <source>Invalid empty URL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>createObject: value is not an object</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeVisualDataModel</name>
+    <message>
+        <source>Delegate component must be Item type.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QMediaPlaylist</name>
+    <message>
+        <source>The file could not be accessed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Could not add items to read only playlist.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Playlist format is not supported</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeConnections</name>
+    <message>
+        <source>Connections: script expected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Connections: nested objects not allowed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Connections: syntax error</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QNetworkSession</name>
+    <message>
+        <source>Invalid configuration.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QNetworkAccessDataBackend</name>
+    <message>
+        <source>Invalid URI: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Operation not supported on %1</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeAnimatedImage</name>
+    <message>
+        <source>Qt was built without support for QMovie</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeKeysAttached</name>
+    <message>
+        <source>Keys is only available via attached properties</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QMenuBar</name>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QMediaPlayer</name>
+    <message>
+        <source>The QMediaPlayer object does not have a valid service</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QNetworkAccessDebugPipeBackend</name>
+    <message>
+        <source>Socket error on %1: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remote host closed the connection prematurely on %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Write error writing to %1: %2</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeLoader</name>
+    <message>
+        <source>Loader does not support loading non-visual elements.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QStateMachine</name>
+    <message>
+        <source>Missing default state in history state &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Missing initial state in compound state &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No common ancestor for targets and source of transition from state &apos;%1&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeXmlListModelRole</name>
+    <message>
+        <source>An XmlRole query must not start with &apos;/&apos;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeBehavior</name>
+    <message>
+        <source>Cannot change the animation assigned to a Behavior.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::EffectFactory</name>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::DsaVideoPlayer</name>
+    <message>
+        <source>Video display error</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::SurfaceVideoPlayer</name>
+    <message>
+        <source>Video display error</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::StereoWidening</name>
+    <message>
+        <source>Level (%)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Phonon::MMF::AudioPlayer</name>
+    <message>
+        <source>Getting position failed</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeKeyNavigationAttached</name>
+    <message>
+        <source>KeyNavigation is only available via attached properties</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeAnchorAnimation</name>
+    <message>
+        <source>Cannot set a duration of &lt; 0</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativePauseAnimation</name>
+    <message>
+        <source>Cannot set a duration of &lt; 0</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativePropertyAnimation</name>
+    <message>
+        <source>Cannot set a duration of &lt; 0</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeXmlListModel</name>
+    <message>
+        <source>Qt was built without support for xmlpatterns</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeLayoutMirroringAttached</name>
+    <message>
+        <source>LayoutMirroring is only available via attached properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>LayoutDirection attached property only works with Items</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeTypeLoader</name>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Type %1 unavailable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Namespace %1 cannot be used as a type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Script %1 unavailable</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeCompiledBindings</name>
+    <message>
+        <source>Binding loop detected for property &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>QDeclarativeApplication</name>
+    <message>
+        <source>Application is an abstract class</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
