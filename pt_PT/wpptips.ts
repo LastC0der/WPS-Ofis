@@ -2747,5 +2747,21 @@ Clique na seta para selecionar uma cor de realce diferente.</translation>
         <source>TableFontEffects.content</source>
         <translation>Adicionar um efeito visual, tal como uma sombra, um brilho ou um reflexo ao texto.</translation>
     </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
