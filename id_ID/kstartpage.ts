@@ -924,6 +924,14 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Detail View</source>
         <translation>Tampilan Detail</translation>
     </message>
+    <message>
+        <source>Activity</source>
+        <translation>Aktivitas</translation>
+    </message>
+    <message>
+        <source>Team files</source>
+        <translation>File Team</translation>
+    </message>
 </context>
 <context>
     <name>KLocationListContentWidget</name>
@@ -1158,6 +1166,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Downloads</source>
         <translation>Unduhan</translation>
+    </message>
+    <message>
+        <source>Search local files</source>
+        <translation>Cari file lokal</translation>
     </message>
 </context>
 <context>
@@ -1583,16 +1595,16 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <translation>Buka</translation>
     </message>
     <message>
-        <source>Team</source>
-        <translation>Team</translation>
-    </message>	
-    <message>
         <source>New Document</source>
         <translation>Baru</translation>
     </message>
     <message>
         <source>Documents</source>
         <translation>Dokumen</translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation>Team</translation>
     </message>
 </context>
 <context>
@@ -1638,6 +1650,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Cross devices document synchronization</source>
         <translation>Sinkronkan antara perangkat</translation>
+    </message>
+    <message>
+        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
+        <translation>Masuk ke WPS, amankan file Anda dan dapatkan 1 GB Ruang Cloud</translation>
     </message>
 </context>
 <context>
@@ -1922,6 +1938,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Bagikan dokumen Anda sebagai tatutan, lalu Anda akan dapat melihatnya di sini.</translation>
     </message>
+    <message>
+        <source>You can drag and drop files to share with members.</source>
+        <translation>Anda dapat menyeret dan menaruh file untuk dibagikan dengan anggota.</translation>
+    </message>
 </context>
 <context>
     <name>KMultistageMenu</name>
@@ -2054,6 +2074,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>upgrade</source>
         <translation>Go Premium</translation>
     </message>
+    <message>
+        <source>Get for Free</source>
+        <translation>Dapatkan Gratis</translation>
+    </message>
 </context>
 <context>
     <name>KWeatherNormalBottomWidget</name>
@@ -2153,6 +2177,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>Create Team</source>
         <translation>Buat Team</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>Team adalah tempat untuk menghubungkan team Anda untuk kolaborasi dan produktivitas. Gunakan untuk berbagi dokumen, komentar, dan mengumpulkan informasi</translation>
     </message>
 </context>
 <context>
@@ -2305,6 +2333,14 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Invite members</source>
         <translation>Undang anggota</translation>
     </message>
+    <message>
+        <source>Working together, start from Team</source>
+        <translation>Bekerja sama, dimulai dari Team</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>Team adalah tempat untuk menghubungkan team Anda untuk kolaborasi dan produktivitas. Gunakan untuk berbagi dokumen, komentar, dan mengumpulkan informasi</translation>
+    </message>
 </context>
 <context>
     <name>KFileOpenProxy</name>
@@ -2456,6 +2492,10 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
         <source>&apos;s Team</source>
         <translation>&apos;s Team</translation>
     </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation>Duplikat nama team</translation>
+    </message>
 </context>
 <context>
     <name>KTeamListContentWidget</name>
@@ -2530,6 +2570,10 @@ file ini telah dibuka, tidak dapat menulis data. Silakan tutup file dan coba lag
     <message>
         <source>Clear all team files</source>
         <translation>Hapus File Tim</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation>Duplikat nama team</translation>
     </message>
 </context>
 <context>
@@ -2821,6 +2865,10 @@ File</translation>
     <message>
         <source>No Fear to lose data</source>
         <translation>Tidak Ada Ketakutan kehilangan data</translation>
+    </message>
+    <message>
+        <source>WPS Team, A place for teamwork</source>
+        <translation>WPS Team, Sebuah tempat untuk bekerja dalam tim</translation>
     </message>
 </context>
 <context>
@@ -4040,6 +4088,42 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
         <source>Finance</source>
         <translation>Keuangan</translation>
     </message>
+    <message>
+        <source>Inspire your design inspiration</source>
+        <translation>Wujudkan inspirasi desain Anda</translation>
+    </message>
+    <message>
+        <source>Optimize warehouse management</source>
+        <translation>Optimalkan manajemen gudang</translation>
+    </message>
+    <message>
+        <source>We&apos;ll recommend suitable templates for you</source>
+        <translation>Kami akan menyarankan templat yang sesuai untuk Anda</translation>
+    </message>
+    <message>
+        <source>HR &amp; Administrative</source>
+        <translation>HR &amp; Administratif</translation>
+    </message>
+    <message>
+        <source>For sales, legal and service industries</source>
+        <translation>Untuk industri bidang penjualan, hukum, dan jasa</translation>
+    </message>
+    <message>
+        <source>Select your interest field</source>
+        <translation>Pilih bidang yang Anda minati</translation>
+    </message>
+    <message>
+        <source>Reduce the workload</source>
+        <translation>Kurangi beban kerja</translation>
+    </message>
+    <message>
+        <source>Save time with standardized templates</source>
+        <translation>Hemat waktu dengan templat yang terstandardisasi</translation>
+    </message>
+    <message>
+        <source>SCM/Supply Chain</source>
+        <translation>SCM/Rantai pasok</translation>
+    </message>
 </context>
 <context>
     <name>KFileTransferButton</name>
@@ -4234,6 +4318,10 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>No more show</source>
         <translation>Tidak ada lagi tampilan</translation>
+    </message>
+    <message>
+        <source>Always open PDFs in WPS Office</source>
+        <translation>Selalu buka PDF dalam WPS Office</translation>
     </message>
 </context>
 <context>
@@ -4618,6 +4706,13 @@ File mungkin telah diganti nama, dihapus, atau dipindah.</translation>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
         <translation>Kesalahan server, tidak dapat mencari.</translation>
+    </message>
+</context>
+<context>
+    <name>KCreationAreaEntry</name>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
