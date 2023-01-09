@@ -4314,7 +4314,7 @@ Check path and filename.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&View On Website</source>
+        <source>&amp;View On Website</source>
         <translation type="unfinished"></translation>
     </message>	
     <message>
