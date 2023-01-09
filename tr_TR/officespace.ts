@@ -3957,7 +3957,7 @@ parola:%1</translation>
     <name>KSaveFileExceedPanelOld</name>
     <message>
         <source>Show file transmission details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntıları Görüntüle</translation>
     </message>
     <message>
         <source>Share Folder</source>
