@@ -91,6 +91,10 @@
         <source>Please describe your problems or advices in detail</source>
         <translation>Please describe your problems or advices in detail.</translation>
     </message>
+    <message>
+        <source>Top Questions</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KRatingWidget</name>
