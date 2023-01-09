@@ -4316,6 +4316,10 @@ Cek jalur dan nama file.</translation>
         <translation>Sudah diperbarui ke versi baru, silakan tutup file yang sekarang dan buka lagi.</translation>
     </message>
     <message>
+        <source>&amp;View On Website</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation>Tingkatkan WPS Office Cloud untuk menikmati versi terbaru.</translation>
     </message>
