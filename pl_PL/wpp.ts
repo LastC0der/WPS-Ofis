@@ -49,6 +49,10 @@
         <source>&amp;Substituted font:</source>
         <translation>Podstawiona czcionka (&amp;S):</translation>
     </message>
+    <message>
+        <source>more online fonts</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
@@ -510,10 +514,6 @@ Na przykład, 1,3,5-9.</translation>
         <translation>Położenie miniatury i konspektu</translation>
     </message>
     <message>
-        <source>Keep cache for</source>
-        <translation>Przechowuj tylko najnowsze pozycje</translation>
-    </message>
-    <message>
         <source>Cloud backup</source>
         <translation>Kopia zapasowa w chmurze</translation>
     </message>
@@ -730,10 +730,6 @@ Na przykład, 1,3,5-9.</translation>
         <translation>Tryb kopii zapasowej:</translation>
     </message>
     <message>
-        <source>Keep files cache</source>
-        <translation>Okres przechowywania</translation>
-    </message>
-    <message>
         <source>Create &amp;backup file at the first save</source>
         <translation>Utwórz &amp;plik kopii zapasowej przy pierwszym zapisie</translation>
     </message>
@@ -784,10 +780,6 @@ Na przykład, 1,3,5-9.</translation>
     <message>
         <source>Apply Auto&amp;Layout to new objects.</source>
         <translation>Zastosuj auto&amp;układ do nowych obiektów.</translation>
-    </message>
-    <message>
-        <source>Fix &amp;interval</source>
-        <translation>Interwał zaplanowanych kopii zapasowych (&amp;I)</translation>
     </message>
     <message>
         <source>days (Range 7-120)</source>
@@ -874,10 +866,6 @@ Na przykład, 1,3,5-9.</translation>
         <translation>&amp;Zaawansowane</translation>
     </message>
     <message>
-        <source>Default &amp;insert images of original size</source>
-        <translation>Domyślnie wstawiaj obrazy w oryginalnym rozmiarze</translation>
-    </message>
-    <message>
         <source>Enable &amp;timing backup</source>
         <translation>Włącz &amp;harmonogram tworzenia kopii zapasowych</translation>
     </message>
@@ -896,10 +884,6 @@ Na przykład, 1,3,5-9.</translation>
     <message>
         <source>Max U&amp;ndo/Redo:</source>
         <translation>Kroki cofania/ponawiania:</translation>
-    </message>
-    <message>
-        <source>&amp;entries</source>
-        <translation>&amp;wpisy</translation>
     </message>
     <message>
         <source>&amp;Open backup file</source>
@@ -926,10 +910,6 @@ Na przykład, 1,3,5-9.</translation>
         <translation>Pokaż &amp;okna na pasku zadań</translation>
     </message>
     <message>
-        <source>Not Read Compa&amp;tibility Data</source>
-        <translation>Nie odczytuj danych kompatybilności</translation>
-    </message>
-    <message>
         <source>Backup Center</source>
         <translation>Centrum kopii zapasowych</translation>
     </message>
@@ -940,10 +920,6 @@ Na przykład, 1,3,5-9.</translation>
     <message>
         <source>Enable &amp;hardware graphics acceleration, effecitve after restart WPS</source>
         <translation>Włącz sprzętową akcelerację grafiki. Aby z niej korzystać, konieczne jest ponowne uruchomienie WPS Office.</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation>Lokalizacja kopii zapasowej:</translation>
     </message>
     <message>
         <source>Pure black and white</source>
@@ -1056,6 +1032,34 @@ Na przykład, 1,3,5-9.</translation>
     <message>
         <source>Le&amp;ft of slide</source>
         <translation>Na le&amp;wo od slajdu</translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Przechowuj tylko najnowsze pozycje</translation>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation>Okres przechowywania</translation>
+    </message>
+    <message>
+        <source>Fix &amp;interval</source>
+        <translation>Interwał zaplanowanych kopii zapasowych (&amp;I)</translation>
+    </message>
+    <message>
+        <source>Default &amp;insert images of original size</source>
+        <translation>Domyślnie wstawiaj obrazy w oryginalnym rozmiarze</translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation>&amp;wpisy</translation>
+    </message>
+    <message>
+        <source>Not Read Compa&amp;tibility Data</source>
+        <translation>Nie odczytuj danych kompatybilności</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Lokalizacja kopii zapasowej:</translation>
     </message>
     <message>
         <source>Disable &amp;hardware graphics acceleration, effecitve after restart</source>
@@ -1701,12 +1705,12 @@ Na przykład, 1,3,5-9.</translation>
         <translation>&amp;Slajdy:</translation>
     </message>
     <message>
-        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
-        <translation>Po dokonaniu ustawień uzyskać można dokument PDF bezpieczeństwa online. Otwórz go wraz z wersją PDF Security.</translation>
-    </message>
-    <message>
         <source>Export PDF File</source>
         <translation>Eksportuj plik PDF</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation>Po dokonaniu ustawień uzyskać można dokument PDF bezpieczeństwa online. Otwórz go wraz z wersją PDF Security.</translation>
     </message>
 </context>
 <context>
@@ -1866,10 +1870,6 @@ Na przykład, 1,3,5-9.</translation>
         <translation>Linijka</translation>
     </message>
     <message>
-        <source>Draw outter borders</source>
-        <translation>Narysuj zewnętrzną granicę</translation>
-    </message>
-    <message>
         <source>Microsoft PowerPoint Presentation Templates(*.potx; *.potm)</source>
         <translation>Szablony prezentacji programu Microsoft PowerPoint(*.potx; *.potm)</translation>
     </message>
@@ -1982,10 +1982,6 @@ Na przykład, 1,3,5-9.</translation>
         <translation>Usuń inteligentną animację</translation>
     </message>
     <message>
-        <source>Cannot get outline from this file. There might be error in its data.</source>
-        <translation>Nie udało się uzyskać konturu z tego pliku, ponieważ plik może być uszkodzony lub jego format może być nieprawidłowy.</translation>
-    </message>
-    <message>
         <source>Notes Layout</source>
         <translation>Układ notatek</translation>
     </message>
@@ -2063,10 +2059,6 @@ Na przykład, 1,3,5-9.</translation>
     <message>
         <source>Insert Media</source>
         <translation>Wstaw multimedia</translation>
-    </message>
-    <message>
-        <source>Insert Outline</source>
-        <translation>Wstaw kontur</translation>
     </message>
     <message>
         <source>Insert Movie</source>
@@ -2382,10 +2374,6 @@ Check</source>
         <translation>Format PNG(*.png)</translation>
     </message>
     <message>
-        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</source>
-        <translation>Presentation/format PowerPoint (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</translation>
-    </message>
-    <message>
         <source>Copy of </source>
         <translation>Kopia </translation>
     </message>
@@ -2397,10 +2385,6 @@ Check</source>
         <source>Delete Comment</source>
         <translation>Usuń 
 komentarz</translation>
-    </message>
-    <message>
-        <source>Paste Animation</source>
-        <translation>Wklej animację</translation>
     </message>
     <message>
         <source>Master Layout...</source>
@@ -2435,10 +2419,6 @@ komentarz</translation>
         <translation>Obraz</translation>
     </message>
     <message>
-        <source>/WPS Capture/WPS Capture</source>
-        <translation>/WPS Speech Recording/WPS Speech Recording</translation>
-    </message>
-    <message>
         <source>Table Style</source>
         <translation>Styl tabeli</translation>
     </message>
@@ -2457,10 +2437,6 @@ komentarz</translation>
     <message>
         <source>Set Multipicture Rotation</source>
         <translation>Ustaw rotację wielu obrazów</translation>
-    </message>
-    <message>
-        <source>Erase Table</source>
-        <translation>Zmaż Spreadsheet</translation>
     </message>
     <message>
         <source>Pause Audio</source>
@@ -2521,12 +2497,6 @@ akcji</translation>
     <message>
         <source>Distribute Rows Evenly</source>
         <translation>Rozłóż wiersze równomiernie</translation>
-    </message>
-    <message>
-        <source>When saved as a text file, only the text content in the slide will be retained, and other content will be lost.
-Are you sure you want to save it in this format ?</source>
-        <translation>Podczas zapisywania w formie pliku tekstowego zachowany zostanie tylko tekst na slajdach, pozostała zawartość zostanie utracona.
-Czy na pewno chcesz to zapisać w tym formacie?</translation>
     </message>
     <message>
         <source>Media Files(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
@@ -2667,10 +2637,6 @@ slajd</translation>
         <translation>Indeks dolny</translation>
     </message>
     <message>
-        <source>All Outline(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</source>
-        <translation>Wszystkie kontury (*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</translation>
-    </message>
-    <message>
         <source>Insert New Title Master</source>
         <translation>Wstaw nowy wzorzec tytułów</translation>
     </message>
@@ -2767,10 +2733,6 @@ slajd</translation>
     <message>
         <source>Save as Picture</source>
         <translation>Zapisz jako obraz</translation>
-    </message>
-    <message>
-        <source>Text content(*.txt)|*.txt</source>
-        <translation>Plik tekstowy (*.txt)|*.txt</translation>
     </message>
     <message>
         <source>Open Web Media Video(*.webm)|*.webm</source>
@@ -2894,10 +2856,6 @@ prelegenta</translation>
         <source>Set Up Show</source>
         <translation>Przygotuj 
 pokaz slajdów</translation>
-    </message>
-    <message>
-        <source>WuKuang Core Encrypted Presentation Files(*.hppt)|*.hppt</source>
-        <translation>Podstawowy szyfrowany plik, format (*.hppt)|*.hppt</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.
@@ -3024,10 +2982,6 @@ pokaz slajdów</translation>
         <translation>Pojedyncze pliki strony internetowej(*.mht; *.mhtml)</translation>
     </message>
     <message>
-        <source>WuKuang Normal Encrypted Presentation Files(*.pppt)|*.pppt</source>
-        <translation>Normalny szyfrowany plik, format (*.pppt)|*.pppt</translation>
-    </message>
-    <message>
         <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
         <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
     </message>
@@ -3144,10 +3098,6 @@ komentarz</translation>
         <translation>Ten plik korzysta z makra %s. Czy chcesz przełączyć się na środowisko %s?</translation>
     </message>
     <message>
-        <source>Microsoft PowerPoint XML Presentation(*.xml)</source>
-        <translation>Microsoft PowerPoint XML Presentation (*.xml)</translation>
-    </message>
-    <message>
         <source>New Blank Presentation</source>
         <comment>WP_NewBlankFileHint</comment>
         <translation>Nowa pusta prezentacja</translation>
@@ -3200,6 +3150,137 @@ komentarz</translation>
         <source>Delete Master</source>
         <translation>Usuń wzorzec</translation>
     </message>
+    <message>
+        <source>Draw outter borders</source>
+        <translation>Narysuj zewnętrzną granicę</translation>
+    </message>
+    <message>
+        <source>Cannot get outline from this file. There might be error in its data.</source>
+        <translation>Nie udało się uzyskać konturu z tego pliku, ponieważ plik może być uszkodzony lub jego format może być nieprawidłowy.</translation>
+    </message>
+    <message>
+        <source>Insert Outline</source>
+        <translation>Wstaw kontur</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</source>
+        <translation>Presentation/format PowerPoint (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</translation>
+    </message>
+    <message>
+        <source>Paste Animation</source>
+        <translation>Wklej animację</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <translation>/WPS Speech Recording/WPS Speech Recording</translation>
+    </message>
+    <message>
+        <source>Erase Table</source>
+        <translation>Zmaż Spreadsheet</translation>
+    </message>
+    <message>
+        <source>When saved as a text file, only the text content in the slide will be retained, and other content will be lost.
+Are you sure you want to save it in this format ?</source>
+        <translation>Podczas zapisywania w formie pliku tekstowego zachowany zostanie tylko tekst na slajdach, pozostała zawartość zostanie utracona.
+Czy na pewno chcesz to zapisać w tym formacie?</translation>
+    </message>
+    <message>
+        <source>All Outline(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</source>
+        <translation>Wszystkie kontury (*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</translation>
+    </message>
+    <message>
+        <source>Text content(*.txt)|*.txt</source>
+        <translation>Plik tekstowy (*.txt)|*.txt</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Presentation Files(*.hppt)|*.hppt</source>
+        <translation>Podstawowy szyfrowany plik, format (*.hppt)|*.hppt</translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Presentation Files(*.pppt)|*.pppt</source>
+        <translation>Normalny szyfrowany plik, format (*.pppt)|*.pppt</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint XML Presentation(*.xml)</source>
+        <translation>Microsoft PowerPoint XML Presentation (*.xml)</translation>
+    </message>
+    <message>
+        <source>4 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1 Slide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2 Slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>3 Slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>9 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>6 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Smartart Graphic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>9 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>4 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Full Slide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>6 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Beautify Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Drag-and-Drop</source>
+        <comment>WpDRAGDESIGN</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notes Master Layout</source>
+        <comment>WpNOTESMASTERLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>DgDesc_ClearTextBox</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Handout Master Layout</source>
+        <comment>WpHANDOUTMASTERLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notes Layout</source>
+        <comment>WpNOTESLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgEquationOptions</name>
@@ -3220,24 +3301,12 @@ komentarz</translation>
         <translation>Duplikacja operatorów do odejmowania jako:</translation>
     </message>
     <message>
-        <source>Copy MathML to the clipboard as &amp;plain text</source>
-        <translation>Skopiuj MathML do schowka jako prosty tekst (&amp;P)</translation>
-    </message>
-    <message>
-        <source>Default &amp;font for math regions:</source>
-        <translation>Domyślna &amp;czcionka dla wzorów matematycznych:</translation>
-    </message>
-    <message>
         <source>Before</source>
         <translation>Przed</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
-    </message>
-    <message>
-        <source>B&amp;reak lines with binary and relational operators:</source>
-        <translation>Linie p&amp;odziału z operatorami binarnymi i relacyjnymi:</translation>
     </message>
     <message>
         <source>When copying an equation,</source>
@@ -3248,16 +3317,8 @@ komentarz</translation>
         <translation>Duplikuj</translation>
     </message>
     <message>
-        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
-        <translation>Skopiuj format liniowy do schowka jako prosty tekst (&amp;N)</translation>
-    </message>
-    <message>
         <source>Automatically convert expressions to professional format</source>
         <translation>Automatycznie konwertuj wyrażenia na profesjonalny format</translation>
-    </message>
-    <message>
-        <source>Reduce si&amp;ze of nested fractions in display equations</source>
-        <translation>&amp;Zmniejsz zagnieżdżone ułamki w wyświetlanych równaniach</translation>
     </message>
     <message>
         <source>General</source>
@@ -3266,6 +3327,26 @@ komentarz</translation>
     <message>
         <source>Equation Options</source>
         <translation>Opcje równania</translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation>Skopiuj MathML do schowka jako prosty tekst (&amp;P)</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>Domyślna &amp;czcionka dla wzorów matematycznych:</translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>Linie p&amp;odziału z operatorami binarnymi i relacyjnymi:</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation>Skopiuj format liniowy do schowka jako prosty tekst (&amp;N)</translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation>&amp;Zmniejsz zagnieżdżone ułamki w wyświetlanych równaniach</translation>
     </message>
 </context>
 <context>
@@ -3836,10 +3917,6 @@ komentarz</translation>
     <message>
         <source>Follow Background Scheme Color</source>
         <translation>Zastosuj schemat kolorów tła</translation>
-    </message>
-    <message>
-        <source>%d seconds(Extremely Slow)</source>
-        <translation>%d sekund (Ekstremalnie wolno)</translation>
     </message>
     <message>
         <source>Pinwheel</source>
@@ -5426,10 +5503,6 @@ slajdu</translation>
         <translation>Spiralnie w prawo</translation>
     </message>
     <message>
-        <source>Extremely Slow</source>
-        <translation>Ekstremalnie wolno</translation>
-    </message>
-    <message>
         <source>Float</source>
         <comment>wpp_sAnimExitEffectTextFloat</comment>
         <translation>Unoszenie</translation>
@@ -5923,6 +5996,14 @@ slajdu</translation>
         <source>From Bottom-R&amp;ight</source>
         <translation>Od dołu z-p&amp;rawej</translation>
     </message>
+    <message>
+        <source>%d seconds(Extremely Slow)</source>
+        <translation>%d sekund (Ekstremalnie wolno)</translation>
+    </message>
+    <message>
+        <source>Extremely Slow</source>
+        <translation>Ekstremalnie wolno</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSlideShowHelp</name>
@@ -6100,10 +6181,6 @@ slajdu</translation>
     <message>
         <source>Body: Ascend</source>
         <translation>Tekst podstawowy: Wznoszenie</translation>
-    </message>
-    <message>
-        <source>Frame From Up</source>
-        <translation>Wejście od góry</translation>
     </message>
     <message>
         <source>*.dpt</source>
@@ -6420,20 +6497,6 @@ Tekst podstawowy: Wkraczanie</translation>
         <translation>Tylko tytuł</translation>
     </message>
     <message>
-        <source>The following features cannot be saved in macro-free workbooks:
- · VB project
- · JS project
-To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
-To continue saving as a macro-free workbook, click Yes.
-</source>
-        <translation>Następujących elementów nie można zapisać w dokumencie bez makr:
- · Projekt VB
- · Projekt JS
-Aby zapisać plik z tymi funkcjami, kliknij „Nie”, aby powrócić do okienka podręcznego „Zapisz jako”, a następnie wybierz typ pliku z obsługą makr na liście rozwijanej typu pliku.
-Czy kontynuować zapisywanie jako dokument bez makr?
-</translation>
-    </message>
-    <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE_TIP</comment>
         <translation>Bez animacji</translation>
@@ -6630,22 +6693,12 @@ For this to work, keep the capitalization the same.</source>
         <translation>Uproszczony chiński na tradycyjny chiński, konwertowanie...</translation>
     </message>
     <message>
-        <source>
- Do you continue to save it as HTML format?</source>
-        <translation>
-Czy kontynuować zapisywanie w formacie HTML?</translation>
-    </message>
-    <message>
         <source>Comb Horizontal</source>
         <translation>Zazębianie poziome</translation>
     </message>
     <message>
         <source>The contents you pasted contains tabs. Do you want to paste tabs as a table?</source>
         <translation>Wklejana zawartość zawiera karty. Czy chcesz wkleić karty jako tabelę?</translation>
-    </message>
-    <message>
-        <source>Plane Left</source>
-        <translation>Wylot, lewa strona</translation>
     </message>
     <message>
         <source>WPS Presentation Slide Show - </source>
@@ -6923,10 +6976,6 @@ Tekst podstawowy: Wątek</translation>
         <translation>Bez użycia slajdu</translation>
     </message>
     <message>
-        <source>Formulas will become uneditable pictures in this version of WPS Presentation (slide %1)</source>
-        <translation>Wzory staną się nieedytowalnymi obrazami w tej wersji WPS Presentation. (Slajd %1)</translation>
-    </message>
-    <message>
         <source>Title: Brush On Underline</source>
         <translation>Tytuł: Malowanie podkreślenia</translation>
     </message>
@@ -7046,20 +7095,12 @@ Tekst podstawowy: Opadanie</translation>
         <translation>Slajd tytułowy</translation>
     </message>
     <message>
-        <source>Plane Right</source>
-        <translation>Wylot, prawa strona</translation>
-    </message>
-    <message>
         <source>Content Layouts</source>
         <translation>Układy zawartości</translation>
     </message>
     <message>
         <source>Text Layouts</source>
         <translation>Układy tekstu</translation>
-    </message>
-    <message>
-        <source>Cube From Right</source>
-        <translation>Wejście od prawej strony</translation>
     </message>
     <message>
         <source>Explosion</source>
@@ -7294,10 +7335,6 @@ Piąty poziom</translation>
     <message>
         <source>Print: Page %d of %d</source>
         <translation>Drukowanie: strona %d z %d</translation>
-    </message>
-    <message>
-        <source>Cube From Up</source>
-        <translation>Wejście od góry</translation>
     </message>
     <message>
         <source>Convert to Shapes</source>
@@ -7685,14 +7722,6 @@ Tekst podstawowy: Rozpraszanie wewnątrz</translation>
         <translation>Tytuł i zawartość nad tekstem</translation>
     </message>
     <message>
-        <source>The following features of your presentation are not going to be saved in HTML format:
-
-</source>
-        <translation>Następujące funkcje z prezentacji nie zostaną zapisane w formacie HTML:
-
-</translation>
-    </message>
-    <message>
         <source>Title: Zoom
 Body: Zoom</source>
         <translation>Tytuł: Powiększenie
@@ -7763,10 +7792,6 @@ Tekst podstawowy: Powiększenie</translation>
     <message>
         <source>Used in This Presentation</source>
         <translation>Używany w tej prezentacji</translation>
-    </message>
-    <message>
-        <source>Frame From Right</source>
-        <translation>Wejście od prawej strony</translation>
     </message>
     <message>
         <source>Blinds Horizontal</source>
@@ -7971,12 +7996,6 @@ notatek</translation>
         <translation>Prążki do lewej w dół</translation>
     </message>
     <message>
-        <source>WPS Presentation cannot open this file, because the password is not correct.
-</source>
-        <translation>Hasło jest nieprawidłowe. WPS Presentation nie może otworzyć tego pliku.
-</translation>
-    </message>
-    <message>
         <source>pleasant garden</source>
         <translation>Przyjemny ogród</translation>
     </message>
@@ -8036,14 +8055,6 @@ Tekst podstawowy: Przylot</translation>
         <translation>Symbol zastępczy tekstu</translation>
     </message>
     <message>
-        <source>Frame From Down</source>
-        <translation>Wejście od dołu</translation>
-    </message>
-    <message>
-        <source>Frame From Left</source>
-        <translation>Wejście od lewej strony</translation>
-    </message>
-    <message>
         <source>Chart Placeholder</source>
         <translation>Symbol zastępczy wykresu</translation>
     </message>
@@ -8096,10 +8107,6 @@ Tekst podstawowy: Pokrętło</translation>
         <translation>Styl ciemny 2</translation>
     </message>
     <message>
-        <source>Modify Theme</source>
-        <translation>Zmień motyw</translation>
-    </message>
-    <message>
         <source>Fade In And Dim</source>
         <translation>Zanikanie i przygaszanie</translation>
     </message>
@@ -8123,14 +8130,6 @@ prelegenta</translation>
     <message>
         <source>Custom Design</source>
         <translation>Projekt niestandardowy</translation>
-    </message>
-    <message>
-        <source>Cube From Down</source>
-        <translation>Wejście od dołu</translation>
-    </message>
-    <message>
-        <source>Cube From Left</source>
-        <translation>Wejście od lewej strony</translation>
     </message>
     <message>
         <source>Click to edit Master subtitle style</source>
@@ -8301,6 +8300,151 @@ slajdu</translation>
     <message>
         <source> The Slide Master: </source>
         <translation> Wzorzec slajdów: </translation>
+    </message>
+    <message>
+        <source>Frame From Up</source>
+        <translation>Wejście od góry</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+ · JS project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <translation>Następujących elementów nie można zapisać w dokumencie bez makr:
+ · Projekt VB
+ · Projekt JS
+Aby zapisać plik z tymi funkcjami, kliknij „Nie”, aby powrócić do okienka podręcznego „Zapisz jako”, a następnie wybierz typ pliku z obsługą makr na liście rozwijanej typu pliku.
+Czy kontynuować zapisywanie jako dokument bez makr?
+</translation>
+    </message>
+    <message>
+        <source>
+ Do you continue to save it as HTML format?</source>
+        <translation>
+Czy kontynuować zapisywanie w formacie HTML?</translation>
+    </message>
+    <message>
+        <source>Plane Left</source>
+        <translation>Wylot, lewa strona</translation>
+    </message>
+    <message>
+        <source>Formulas will become uneditable pictures in this version of WPS Presentation (slide %1)</source>
+        <translation>Wzory staną się nieedytowalnymi obrazami w tej wersji WPS Presentation. (Slajd %1)</translation>
+    </message>
+    <message>
+        <source>Plane Right</source>
+        <translation>Wylot, prawa strona</translation>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation>Wejście od prawej strony</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation>Wejście od góry</translation>
+    </message>
+    <message>
+        <source>The following features of your presentation are not going to be saved in HTML format:
+
+</source>
+        <translation>Następujące funkcje z prezentacji nie zostaną zapisane w formacie HTML:
+
+</translation>
+    </message>
+    <message>
+        <source>Frame From Right</source>
+        <translation>Wejście od prawej strony</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the password is not correct.
+</source>
+        <translation>Hasło jest nieprawidłowe. WPS Presentation nie może otworzyć tego pliku.
+</translation>
+    </message>
+    <message>
+        <source>Frame From Down</source>
+        <translation>Wejście od dołu</translation>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation>Wejście od lewej strony</translation>
+    </message>
+    <message>
+        <source>Modify Theme</source>
+        <translation>Zmień motyw</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation>Wejście od dołu</translation>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation>Wejście od lewej strony</translation>
+    </message>
+    <message>
+        <source>Video Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move objects and individual words.
+
+For this to work, keep the capitalization the same.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Downloading required %1 . You can close this dialog box without affecting the download.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move objects and individual letters.
+
+For this work, keep the capitalization the same.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some transitions in this version of WPS Presentation will be lost (slide %1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move entire objects(like pictures and shape).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Animation</source>
+        <comment>WP_ANIMATIONTYPE_NONE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Title: Fade
+Body: Fade</source>
+        <comment>WP_ANIMATIONTYPE_FADEDWIPE_TIP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Body: Appear</source>
+        <comment>WP_ANIMATIONTYPE_APPEARANDDIM_TIP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to edit Master title style</source>
+        <comment>WP_TEXT_OF_CENTERTITLE_IN_MASTER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cut</source>
+        <comment>WP_CUTSLIDE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <comment>WP_TP_ANIMATIONSCHEMECATEGORY1</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9194,10 +9338,6 @@ formatów</translation>
         <translation>Cień</translation>
     </message>
     <message>
-        <source>docer vip area</source>
-        <translation>Obszar docer vip</translation>
-    </message>
-    <message>
         <source>Rotate Left 90°</source>
         <translation>Obróć w lewo o 90°</translation>
     </message>
@@ -9414,6 +9554,10 @@ tekstowe</translation>
     <message>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
+    </message>
+    <message>
+        <source>docer vip area</source>
+        <translation>Obszar docer vip</translation>
     </message>
 </context>
 <context>
@@ -10370,10 +10514,6 @@ prowadnice</translation>
         <translation>Użyj ponownie slajdów</translation>
     </message>
     <message>
-        <source>Docer Bullet</source>
-        <translation>Punktory szablonu</translation>
-    </message>
-    <message>
         <source>Align</source>
         <translation>Wyrównaj</translation>
     </message>
@@ -10538,10 +10678,6 @@ Slide</source>
     <message>
         <source>More Font Colors</source>
         <translation>Więcej kolorów czcionki</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Kierunek pionowy</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -11008,6 +11144,14 @@ tekstowe</translation>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Punktory szablonu</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Kierunek pionowy</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_texttool</name>
@@ -11074,10 +11218,6 @@ tekstowe</translation>
     <message>
         <source>Quick Styles</source>
         <translation>Szybkie style</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Punktory szablonu</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -11154,10 +11294,6 @@ tekstowe</translation>
     <message>
         <source>Thai Distributed</source>
         <translation>Tajski rozłożony</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Kierunek pionowy</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -11409,6 +11545,14 @@ tekstowe</translation>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Punktory szablonu</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Kierunek pionowy</translation>
+    </message>
 </context>
 <context>
     <name>classics.formatting</name>
@@ -11483,10 +11627,6 @@ tekstowe</translation>
     <message>
         <source>More Font Colors</source>
         <translation>Więcej kolorów czcionki</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Kierunek pionowy</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -11572,6 +11712,10 @@ slajd</translation>
     <message>
         <source>Rotate all text 270°</source>
         <translation>Obróć cały tekst o 270°</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Kierunek pionowy</translation>
     </message>
 </context>
 <context>
@@ -11870,10 +12014,6 @@ slajdów</translation>
         <translation>Dostęp nieograniczony</translation>
     </message>
     <message>
-        <source>Picture background and mask</source>
-        <translation>Obraz tła szablonu</translation>
-    </message>
-    <message>
         <source>Format Painter</source>
         <translation>Malarz formatów</translation>
     </message>
@@ -12154,10 +12294,6 @@ slajdów</translation>
     <message>
         <source>Edit Sound Object</source>
         <translation>Edytuj obiekt dźwiękowy</translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation>Wyodrębnij tekst z obrazu</translation>
     </message>
     <message>
         <source>AlignCenter</source>
@@ -12491,14 +12627,6 @@ Add-Ins</source>
     <message>
         <source>Normal</source>
         <translation>Normalny</translation>
-    </message>
-    <message>
-        <source>Increase Argument Size</source>
-        <translation>Zwiększ rozmiar argumentu</translation>
-    </message>
-    <message>
-        <source>Decrease Argument Size</source>
-        <translation>Zmniejsz rozmiar argumentu</translation>
     </message>
     <message>
         <source>Object</source>
@@ -13101,10 +13229,6 @@ okno</translation>
         <translation>Filmy i dźwięki</translation>
     </message>
     <message>
-        <source>Centered as group</source>
-        <translation>Centrowanie jako grupa</translation>
-    </message>
-    <message>
         <source>Sound from File</source>
         <translation>Dźwięk z pliku</translation>
     </message>
@@ -13129,10 +13253,6 @@ powiązany</translation>
     <message>
         <source>Format DataLabel</source>
         <translation>Formatuj etykietę danych</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Export</source>
-        <translation>Eksportuj</translation>
     </message>
     <message>
         <source>Offline Secret Key</source>
@@ -13276,16 +13396,8 @@ komentarz</translation>
         <translation>Tabulator środkowy</translation>
     </message>
     <message>
-        <source>LaserPen and SpotLight</source>
-        <translation>PresentationW centrum uwagi</translation>
-    </message>
-    <message>
         <source>Underline</source>
         <translation>Podkreślenie</translation>
-    </message>
-    <message>
-        <source>Stretch N-ary character</source>
-        <translation>Znak rozciąg. n-argument</translation>
     </message>
     <message>
         <source>Format Category Label</source>
@@ -13312,20 +13424,12 @@ komentarz</translation>
         <translation>Dodaj pomocniczą linię siatki</translation>
     </message>
     <message>
-        <source>Right Format Painter Popup</source>
-        <translation>Ciągły malarz formatów</translation>
-    </message>
-    <message>
         <source>View Historical Backup</source>
         <translation>Wyświetl historię tworzenia kopii zapasowej</translation>
     </message>
     <message>
         <source>AutoPoint</source>
         <translation>Autopunkt</translation>
-    </message>
-    <message>
-        <source>Remove Superscript</source>
-        <translation>Usuń indeks górny</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
@@ -13621,14 +13725,6 @@ pokaz slajdów</translation>
         <translation>Konwertuj...</translation>
     </message>
     <message>
-        <source>Save as Video</source>
-        <translation>Zapisz jako film</translation>
-    </message>
-    <message>
-        <source>Webshape Flush</source>
-        <translation>Odśwież</translation>
-    </message>
-    <message>
         <source>Remove Section And Slides</source>
         <translation>Usuń sekcję i slajdy</translation>
     </message>
@@ -13682,10 +13778,6 @@ tekstowe</translation>
         <translation>Wypełnienie obrazem</translation>
     </message>
     <message>
-        <source>Picture Mask</source>
-        <translation>Obraz tła</translation>
-    </message>
-    <message>
         <source>Two Period Moving Average</source>
         <translation>Średnia ruchoma dwóch okresów</translation>
     </message>
@@ -13712,10 +13804,6 @@ tekstowe</translation>
     <message>
         <source>Ink Color</source>
         <translation>Kolor pisma odręcznego</translation>
-    </message>
-    <message>
-        <source>Keep Picture Only</source>
-        <translation>Wklej jako obraz</translation>
     </message>
     <message>
         <source>Left Hang</source>
@@ -13755,28 +13843,8 @@ tekstowe</translation>
         <translation>Do lewej</translation>
     </message>
     <message>
-        <source>Ds Webshape Set</source>
-        <translation>Ustawienia</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Del</source>
-        <translation>Usuń</translation>
-    </message>
-    <message>
-        <source>Webshape Del</source>
-        <translation>Usuń</translation>
-    </message>
-    <message>
         <source>View File Safe</source>
         <translation>Wyświetl Plik bezpieczeństwa</translation>
-    </message>
-    <message>
-        <source>Webshape Min</source>
-        <translation>Przywróć</translation>
-    </message>
-    <message>
-        <source>Webshape Max</source>
-        <translation>Maksymalizuj</translation>
     </message>
     <message>
         <source>Insert Row Before</source>
@@ -13937,10 +14005,6 @@ prelegenta</translation>
         <translation>Moja subskrypcja</translation>
     </message>
     <message>
-        <source>One-click combing of content to make writing more organized</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Object Menu List</source>
         <translation>Lista menu obiektu</translation>
     </message>
@@ -13988,10 +14052,6 @@ komentarz</translation>
     <message>
         <source>Line Spacing</source>
         <translation>Interlinia</translation>
-    </message>
-    <message>
-        <source>Remove Subscript</source>
-        <translation>Usuń indeks dolny</translation>
     </message>
     <message>
         <source>Trim Sound</source>
@@ -14087,6 +14147,90 @@ slajdu</translation>
         <source>Delete Master</source>
         <translation>Usuń wzorzec</translation>
     </message>
+    <message>
+        <source>Picture background and mask</source>
+        <translation>Obraz tła szablonu</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation>Wyodrębnij tekst z obrazu</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation>Zwiększ rozmiar argumentu</translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation>Zmniejsz rozmiar argumentu</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>Centrowanie jako grupa</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation>Eksportuj</translation>
+    </message>
+    <message>
+        <source>LaserPen and SpotLight</source>
+        <translation>PresentationW centrum uwagi</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation>Znak rozciąg. n-argument</translation>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation>Ciągły malarz formatów</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation>Usuń indeks górny</translation>
+    </message>
+    <message>
+        <source>Save as Video</source>
+        <translation>Zapisz jako film</translation>
+    </message>
+    <message>
+        <source>Webshape Flush</source>
+        <translation>Odśwież</translation>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation>Obraz tła</translation>
+    </message>
+    <message>
+        <source>Keep Picture Only</source>
+        <translation>Wklej jako obraz</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation>Usuń</translation>
+    </message>
+    <message>
+        <source>Webshape Del</source>
+        <translation>Usuń</translation>
+    </message>
+    <message>
+        <source>Webshape Min</source>
+        <translation>Przywróć</translation>
+    </message>
+    <message>
+        <source>Webshape Max</source>
+        <translation>Maksymalizuj</translation>
+    </message>
+    <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation>Usuń indeks dolny</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -14125,10 +14269,6 @@ slajdu</translation>
     <message>
         <source>Wipe</source>
         <translation>Ścieranie</translation>
-    </message>
-    <message>
-        <source>Frame From Up</source>
-        <translation>Wejście od góry</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -14219,10 +14359,6 @@ slajdu</translation>
         <translation>Zakrywanie z prawej</translation>
     </message>
     <message>
-        <source>Plane Left</source>
-        <translation>Wylot, lewa strona</translation>
-    </message>
-    <message>
         <source>Blinds</source>
         <translation>Żaluzje</translation>
     </message>
@@ -14291,14 +14427,6 @@ slajdu</translation>
         <translation>Zakrywanie w górę</translation>
     </message>
     <message>
-        <source>Plane Right</source>
-        <translation>Wylot, prawa strona</translation>
-    </message>
-    <message>
-        <source>Cube From Right</source>
-        <translation>Wejście od prawej strony</translation>
-    </message>
-    <message>
         <source>Wipe Right</source>
         <translation>Ścieranie w prawo</translation>
     </message>
@@ -14337,10 +14465,6 @@ slajdu</translation>
     <message>
         <source>CheckerBoard</source>
         <translation>Szachownica</translation>
-    </message>
-    <message>
-        <source>Cube From Up</source>
-        <translation>Wejście od góry</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
@@ -14479,10 +14603,6 @@ slajdu</translation>
         <translation>Cienki kontur</translation>
     </message>
     <message>
-        <source>Frame From Right</source>
-        <translation>Wejście od prawej strony</translation>
-    </message>
-    <message>
         <source>Cover Down</source>
         <translation>Zakrywanie w dół</translation>
     </message>
@@ -14501,14 +14621,6 @@ slajdu</translation>
     <message>
         <source>Primary Colors</source>
         <translation>Kolory podstawowe</translation>
-    </message>
-    <message>
-        <source>Frame From Down</source>
-        <translation>Wejście od dołu</translation>
-    </message>
-    <message>
-        <source>Frame From Left</source>
-        <translation>Wejście od lewej strony</translation>
     </message>
     <message>
         <source>Wheel 1</source>
@@ -14535,20 +14647,52 @@ slajdu</translation>
         <translation>Ścieranie w górę</translation>
     </message>
     <message>
-        <source>Cube From Down</source>
-        <translation>Wejście od dołu</translation>
-    </message>
-    <message>
-        <source>Cube From Left</source>
-        <translation>Wejście od lewej strony</translation>
-    </message>
-    <message>
         <source>Square Shaows</source>
         <translation>Kwadratowe cienie</translation>
     </message>
     <message>
         <source>Bookend Fills</source>
         <translation>Wypełnienia podpórek na książki</translation>
+    </message>
+    <message>
+        <source>Frame From Up</source>
+        <translation>Wejście od góry</translation>
+    </message>
+    <message>
+        <source>Plane Left</source>
+        <translation>Wylot, lewa strona</translation>
+    </message>
+    <message>
+        <source>Plane Right</source>
+        <translation>Wylot, prawa strona</translation>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation>Wejście od prawej strony</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation>Wejście od góry</translation>
+    </message>
+    <message>
+        <source>Frame From Right</source>
+        <translation>Wejście od prawej strony</translation>
+    </message>
+    <message>
+        <source>Frame From Down</source>
+        <translation>Wejście od dołu</translation>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation>Wejście od lewej strony</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation>Wejście od dołu</translation>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation>Wejście od lewej strony</translation>
     </message>
 </context>
 <context>
@@ -14702,10 +14846,6 @@ slajdu</translation>
         <translation>Styl</translation>
     </message>
     <message>
-        <source>Opening animation video</source>
-        <translation>Otwieranie filmu z animacjami</translation>
-    </message>
-    <message>
         <source>Tools</source>
         <translation>Narzędzia</translation>
     </message>
@@ -14716,14 +14856,6 @@ slajdu</translation>
     <message>
         <source>Shortcut Setting</source>
         <translation>Ustawienia skrótów</translation>
-    </message>
-    <message>
-        <source>JdeControl Popup Menu</source>
-        <translation>Menu sterowania Jde</translation>
-    </message>
-    <message>
-        <source>SplitMerge</source>
-        <translation>Dzielenie i scalanie dokumentów</translation>
     </message>
     <message>
         <source>NewChart Legend</source>
@@ -14799,10 +14931,6 @@ slajdu</translation>
         <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
-        <source>Equation Accent Popup Menu</source>
-        <translation>Funkcja akcentu</translation>
-    </message>
-    <message>
         <source>Justify</source>
         <translation>Wyjustuj</translation>
     </message>
@@ -14872,10 +15000,6 @@ Slide</source>
         <translation>Ochrona jest włączona</translation>
     </message>
     <message>
-        <source>Equation Delimiter Popup Menu</source>
-        <translation>Funkcja nawiasów</translation>
-    </message>
-    <message>
         <source>Inside Vertical Border</source>
         <translation>Wewnętrzna krawędź pionowa</translation>
     </message>
@@ -14904,10 +15028,6 @@ Slide</source>
         <translation>Eksportuj do obrazu</translation>
     </message>
     <message>
-        <source>Equation Normal Popup Menu</source>
-        <translation>Równanie matematyczne</translation>
-    </message>
-    <message>
         <source>New Blank Document</source>
         <translation>Nowy pusty dokument</translation>
     </message>
@@ -14926,10 +15046,6 @@ Slide</source>
     <message>
         <source>Clip Art</source>
         <translation>ClipArt</translation>
-    </message>
-    <message>
-        <source>Phonetic OneKey</source>
-        <translation>Szybki ekstrakt fonetyczny</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
@@ -14968,10 +15084,6 @@ Slide</source>
         <translation>Formatowanie</translation>
     </message>
     <message>
-        <source>Equation Script Popup Menu</source>
-        <translation>Funkcja indeksu</translation>
-    </message>
-    <message>
         <source>Set Language</source>
         <translation>Ustaw język</translation>
     </message>
@@ -14986,10 +15098,6 @@ Slide</source>
     <message>
         <source>Complete symbol</source>
         <translation>Symbole</translation>
-    </message>
-    <message>
-        <source>Phonetic Symbol</source>
-        <translation>Przewodnik fonetyczny</translation>
     </message>
     <message>
         <source>Note</source>
@@ -15094,10 +15202,6 @@ kolorów</translation>
         <translation>Do środka</translation>
     </message>
     <message>
-        <source>Equation Operator Popup Menu</source>
-        <translation>Funkcja operatora</translation>
-    </message>
-    <message>
         <source>New from Other Templates</source>
         <translation>Nowy z innych szablonów</translation>
     </message>
@@ -15179,10 +15283,6 @@ niestandardowa</translation>
         <translation>Okno zadań</translation>
     </message>
     <message>
-        <source>Equation Matrix Popup Menu</source>
-        <translation>Funkcja macierzy</translation>
-    </message>
-    <message>
         <source>Rename</source>
         <translation>Zmień nazwę</translation>
     </message>
@@ -15215,10 +15315,6 @@ niestandardowa</translation>
         <translation>Krawędź ukośna w dół</translation>
     </message>
     <message>
-        <source>Equation Radical Popup Menu</source>
-        <translation>Funkcja pierwiastka</translation>
-    </message>
-    <message>
         <source>Draw Shapes</source>
         <translation>Rysuj kształty</translation>
     </message>
@@ -15247,20 +15343,12 @@ niestandardowa</translation>
         <translation>Linia siatki wykresu</translation>
     </message>
     <message>
-        <source>Equation Large Operator Popup Menu</source>
-        <translation>Funkcja dużego operatora</translation>
-    </message>
-    <message>
         <source>Switch to previous window</source>
         <translation>Przełącz do poprzedniego okna</translation>
     </message>
     <message>
         <source>Motion Path</source>
         <translation>Ścieżka ruchu</translation>
-    </message>
-    <message>
-        <source>HelpDocSearch</source>
-        <translation>Wyszukaj</translation>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -15319,20 +15407,12 @@ niestandardowa</translation>
         <translation>Nowe menu plików</translation>
     </message>
     <message>
-        <source>Equation BorderBox Popup Menu</source>
-        <translation>Funkcja krawędzi</translation>
-    </message>
-    <message>
         <source>Hyperlink</source>
         <translation>Hiperłącze</translation>
     </message>
     <message>
         <source>Properties</source>
         <translation>Właściwości</translation>
-    </message>
-    <message>
-        <source>Equation Limit Popup Menu</source>
-        <translation>Funkcja limitu</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -15601,10 +15681,6 @@ strony</translation>
         <translation>Tryb obrotu</translation>
     </message>
     <message>
-        <source>Audio library</source>
-        <translation>Szablon Audio</translation>
-    </message>
-    <message>
         <source>Delete Note In Current Slide</source>
         <translation>Usuń notatkę z bieżącego slajdu</translation>
     </message>
@@ -15625,10 +15701,6 @@ strony</translation>
         <translation>Zapisz jako obraz</translation>
     </message>
     <message>
-        <source>Equation Group Popup Menu</source>
-        <translation>Funkcja grupy</translation>
-    </message>
-    <message>
         <source>Change Background Image</source>
         <translation>Zmień obraz tła</translation>
     </message>
@@ -15639,10 +15711,6 @@ strony</translation>
     <message>
         <source>Underline</source>
         <translation>Podkreślenie</translation>
-    </message>
-    <message>
-        <source>PCLaTeXEquation</source>
-        <translation>LaTeX</translation>
     </message>
     <message>
         <source>DocerWordArt</source>
@@ -15656,10 +15724,6 @@ strony</translation>
         <source>From Current
 Slide</source>
         <translation>Od bieżącego slajdu</translation>
-    </message>
-    <message>
-        <source>setting MB</source>
-        <translation>Oznacz jako poufne</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -15736,10 +15800,6 @@ Slide</source>
     <message>
         <source>Select All</source>
         <translation>Zaznacz wszystko</translation>
-    </message>
-    <message>
-        <source>EduTools</source>
-        <translation>Narzędzia instruktażowe</translation>
     </message>
     <message>
         <source>Security</source>
@@ -15858,14 +15918,6 @@ Slide</source>
         <translation>Wyodrębnianie partii</translation>
     </message>
     <message>
-        <source>Equation Function Popup Menu</source>
-        <translation>Funkcje</translation>
-    </message>
-    <message>
-        <source>Equation Fraction Popup Menu</source>
-        <translation>Funkcja ułamka</translation>
-    </message>
-    <message>
         <source>New 
 Comment</source>
         <translation>Nowy 
@@ -15949,10 +16001,6 @@ do wideo</translation>
         <translation>Edycja tekstu</translation>
     </message>
     <message>
-        <source>Equation Array Popup Menu</source>
-        <translation>Funkcja strzałki</translation>
-    </message>
-    <message>
         <source>Recent File List</source>
         <translation>Niedawno używane pliki</translation>
     </message>
@@ -16009,17 +16057,8 @@ do wideo</translation>
         <translation>Zwiększ wcięcie</translation>
     </message>
     <message>
-        <source>Equation Bar Popup Menu</source>
-        <translation>Funkcja linii</translation>
-    </message>
-    <message>
         <source>Image Preview Float</source>
         <translation>Ruchomy podgląd obrazu</translation>
-    </message>
-    <message>
-        <source>Export graph ppt</source>
-        <translation>Przekonwertuj na PPT
-w formie obrazów</translation>
     </message>
     <message>
         <source>New from More Templates</source>
@@ -16053,6 +16092,111 @@ slajdu</translation>
     <message>
         <source>Online Textbox</source>
         <translation>Szablon pola tekstowego</translation>
+    </message>
+    <message>
+        <source>Opening animation video</source>
+        <translation>Otwieranie filmu z animacjami</translation>
+    </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation>Menu sterowania Jde</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Dzielenie i scalanie dokumentów</translation>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Funkcja akcentu</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Funkcja nawiasów</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Równanie matematyczne</translation>
+    </message>
+    <message>
+        <source>Phonetic OneKey</source>
+        <translation>Szybki ekstrakt fonetyczny</translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Funkcja indeksu</translation>
+    </message>
+    <message>
+        <source>Phonetic Symbol</source>
+        <translation>Przewodnik fonetyczny</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>Funkcja operatora</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Funkcja macierzy</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Funkcja pierwiastka</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Funkcja dużego operatora</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Funkcja krawędzi</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Funkcja limitu</translation>
+    </message>
+    <message>
+        <source>Audio library</source>
+        <translation>Szablon Audio</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Funkcja grupy</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation>LaTeX</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Oznacz jako poufne</translation>
+    </message>
+    <message>
+        <source>EduTools</source>
+        <translation>Narzędzia instruktażowe</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>Funkcje</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Funkcja ułamka</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Funkcja strzałki</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Funkcja linii</translation>
+    </message>
+    <message>
+        <source>Export graph ppt</source>
+        <translation>Przekonwertuj na PPT
+w formie obrazów</translation>
     </message>
 </context>
 <context>
@@ -17233,10 +17377,6 @@ On/Off</source>
         <translation>Udostępnij na stronie internetowej mikrobloga</translation>
     </message>
     <message>
-        <source>Insert LaTeX Equation</source>
-        <translation>Używaj LaTeX, aby szybko tworzyć i wstawiać wzory.</translation>
-    </message>
-    <message>
         <source>Enter the access code</source>
         <translation>Wprowadź kod dostępu</translation>
     </message>
@@ -17273,10 +17413,6 @@ On/Off</source>
         <translation>Inteligentna animacja</translation>
     </message>
     <message>
-        <source>PDFTOCad</source>
-        <translation>PDF do CAD</translation>
-    </message>
-    <message>
         <source>Share to Microblog</source>
         <translation>Udostępnij na mikroblogu</translation>
     </message>
@@ -17305,10 +17441,6 @@ On/Off</source>
         <translation>Wykres</translation>
     </message>
     <message>
-        <source>Ds Webshape Export</source>
-        <translation>Eksportuj</translation>
-    </message>
-    <message>
         <source>ShortWordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -17323,10 +17455,6 @@ On/Off</source>
     <message>
         <source>Presentation Tool</source>
         <translation>Narzędzie prezentacji</translation>
-    </message>
-    <message>
-        <source>PCLatexEquation</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
@@ -17383,10 +17511,6 @@ On/Off</source>
     <message>
         <source>Feedback</source>
         <translation>Informacja zwrotna</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Edit</source>
-        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -17461,14 +17585,6 @@ On/Off</source>
         <translation>Zachowaj motyw źródłowy</translation>
     </message>
     <message>
-        <source>Ds Webshape Set</source>
-        <translation>Ustawienia</translation>
-    </message>
-    <message>
-        <source>Ds Webshape Del</source>
-        <translation>Usuń</translation>
-    </message>
-    <message>
         <source>Check Mine Permission</source>
         <translation>Sprawdź moje uprawnienia</translation>
     </message>
@@ -17494,10 +17610,6 @@ On/Off</source>
 telefon</translation>
     </message>
     <message>
-        <source>One-click combing of content to make writing more organized</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>New from More Templates</source>
         <translation>Nowy z obszaru Więcej szablonów</translation>
     </message>
@@ -17516,6 +17628,42 @@ telefon</translation>
     <message>
         <source>Online Textbox</source>
         <translation>Szablon pola tekstowego</translation>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation>Używaj LaTeX, aby szybko tworzyć i wstawiać wzory.</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>PDF do CAD</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation>Eksportuj</translation>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
+        <translation>Edytuj</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation>Usuń</translation>
+    </message>
+    <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19006,10 +19154,6 @@ slajdów</translation>
         <translation>Narzędzia tabel</translation>
     </message>
     <message>
-        <source>Special Feature</source>
-        <translation>Funkcja specjalna</translation>
-    </message>
-    <message>
         <source>Quick Retrieve</source>
         <translation>Szybkie odzyskiwanie</translation>
     </message>
@@ -19064,10 +19208,6 @@ slajdów</translation>
     <message>
         <source>Stick the Toolbar</source>
         <translation>Przypnij pasek narzędzi</translation>
-    </message>
-    <message>
-        <source>PDFTOCad</source>
-        <translation>PDF do CAD</translation>
     </message>
     <message>
         <source>Quick Access Toolbar</source>
@@ -19269,6 +19409,14 @@ slajdów</translation>
     <message>
         <source>Sign Out</source>
         <translation>Wyloguj się</translation>
+    </message>
+    <message>
+        <source>Special Feature</source>
+        <translation>Funkcja specjalna</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>PDF do CAD</translation>
     </message>
 </context>
 <context>
@@ -19478,10 +19626,6 @@ slajdów</translation>
         <translation>&amp;Slajdy:</translation>
     </message>
     <message>
-        <source>set sy info(&amp;S)</source>
-        <translation>Ustaw informacje o źródle</translation>
-    </message>
-    <message>
         <source>Copies</source>
         <translation>Kopie</translation>
     </message>
@@ -19560,6 +19704,10 @@ slajdów</translation>
     <message>
         <source>Hori&amp;zontal</source>
         <translation>Po&amp;ziomo</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation>Ustaw informacje o źródle</translation>
     </message>
 </context>
 <context>
@@ -20062,10 +20210,6 @@ styl tabeli</translation>
         <translation>2,25 pkt</translation>
     </message>
     <message>
-        <source>Convert Text in Picture</source>
-        <translation>Skonwertuj teksty na obrazie na format tekstowy</translation>
-    </message>
-    <message>
         <source>Rotate Right 90°</source>
         <translation>Obróć w prawo o 90°</translation>
     </message>
@@ -20149,10 +20293,6 @@ styl tabeli</translation>
     <message>
         <source>Equal Size</source>
         <translation>Jednakowa wielkość</translation>
-    </message>
-    <message>
-        <source>Text Translation in Image</source>
-        <translation>Przetłumacz teksty na obrazie na język angielski/chiński lub z niego</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
@@ -20280,10 +20420,6 @@ prowadnice</translation>
         <translation>Kontur obrazu</translation>
     </message>
     <message>
-        <source>Picture Batch to PDF</source>
-        <translation>Zbiorcza konwersja obrazów do PDF</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Ustawienia</translation>
     </message>
@@ -20348,6 +20484,18 @@ obrazu</translation>
     <message>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
+    </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Skonwertuj teksty na obrazie na format tekstowy</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Przetłumacz teksty na obrazie na język angielski/chiński lub z niego</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Zbiorcza konwersja obrazów do PDF</translation>
     </message>
 </context>
 <context>
@@ -20538,10 +20686,6 @@ obrazu</translation>
         <translation>Kontrola telefonu komórkowego</translation>
     </message>
     <message>
-        <source>Use Presenter View</source>
-        <translation>Użyj widoku prezentera</translation>
-    </message>
-    <message>
         <source>Rehearse 
 Timings</source>
         <translation>Próba 
@@ -20579,10 +20723,6 @@ początku</translation>
         <translation>Przygotuj</translation>
     </message>
     <message>
-        <source>Slide Show Location</source>
-        <translation>Pokaż Presentation na</translation>
-    </message>
-    <message>
         <source>Hide Slide</source>
         <translation>Ukryj
  slajd</translation>
@@ -20592,10 +20732,6 @@ początku</translation>
 Notes</source>
         <translation>Notatki 
 prelegenta</translation>
-    </message>
-    <message>
-        <source>Multi Monitor</source>
-        <translation>Więcej wyświetleń</translation>
     </message>
     <message>
         <source>Slide Show Mode</source>
@@ -20625,13 +20761,30 @@ Slide Shows</source>
         <translation>Ustawienia pokazu slajdów</translation>
     </message>
     <message>
+        <source>Slide Transition</source>
+        <translation>Przejście 
+slajdu</translation>
+    </message>
+    <message>
+        <source>Use Presenter View</source>
+        <translation>Użyj widoku prezentera</translation>
+    </message>
+    <message>
+        <source>Slide Show Location</source>
+        <translation>Pokaż Presentation na</translation>
+    </message>
+    <message>
+        <source>Multi Monitor</source>
+        <translation>Więcej wyświetleń</translation>
+    </message>
+    <message>
         <source>Show On:</source>
         <translation>Pokaż na:</translation>
     </message>
     <message>
-        <source>Slide Transition</source>
-        <translation>Przejście 
-slajdu</translation>
+        <source>Slide
+Transition</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20651,10 +20804,6 @@ slajdu</translation>
     <message>
         <source>Select Folder:</source>
         <translation>Wybierz folder:</translation>
-    </message>
-    <message>
-        <source>Keep backup cache file days must be between %1 and %2!</source>
-        <translation>Okres przechowywania plików kopii zapasowej musi wynosić pomiędzy %1 oraz %2.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -20721,16 +20870,20 @@ slajdu</translation>
         <translation>Dostosuj wstążkę</translation>
     </message>
     <message>
-        <source>This will delete all backup files in your computer. Sure to delete ?</source>
-        <translation>Czy na pewno chcesz usunąć wszystkie lokalne pliki kopii zapasowej?</translation>
-    </message>
-    <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Cykliczna kopia zapasowa</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation>Okres przechowywania plików kopii zapasowej musi wynosić pomiędzy %1 oraz %2.</translation>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation>Czy na pewno chcesz usunąć wszystkie lokalne pliki kopii zapasowej?</translation>
     </message>
 </context>
 <context>
@@ -20789,10 +20942,6 @@ slajdu</translation>
     <message>
         <source>Font</source>
         <translation>Czcionka</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Punktory szablonu</translation>
     </message>
     <message>
         <source>Close</source>
@@ -20916,6 +21065,10 @@ widok wzorca</translation>
         <source>Delete Master</source>
         <translation>Usuń wzorzec</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Punktory szablonu</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_tabletool</name>
@@ -21006,10 +21159,6 @@ widok wzorca</translation>
     <message>
         <source>More Font Colors</source>
         <translation>Więcej kolorów czcionki</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Kierunek pionowy</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -21227,6 +21376,10 @@ prowadnice</translation>
     <message>
         <source>Alignment</source>
         <translation>Wyrównanie</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Kierunek pionowy</translation>
     </message>
 </context>
 <context>
@@ -22222,10 +22375,6 @@ zaznaczenia</translation>
         <translation>Obraz na PDF</translation>
     </message>
     <message>
-        <source>Export to graph ppt</source>
-        <translation>Przekonwertuj na prezentację w formie obrazów.</translation>
-    </message>
-    <message>
         <source>Screen Recorder</source>
         <translation>Rejestrator ekranu</translation>
     </message>
@@ -22411,16 +22560,8 @@ zaznaczenia</translation>
         <translation>Wyświetl Plik bezpieczeństwa</translation>
     </message>
     <message>
-        <source>BatchRename</source>
-        <translation>Wsadowa zmiana nazwy plików</translation>
-    </message>
-    <message>
         <source>Model Essay</source>
         <translation>Model eseju</translation>
-    </message>
-    <message>
-        <source>After conversion, you will get an image-like presentation file, each slide of which will be a non-searchable and non-editable image. And all formatting and contents, such as texts and graphs in the original file, will be retained.</source>
-        <translation>Po konwersji otrzymasz plik prezentacji w formie obrazów, a każdy slajd będzie obrazem bez możliwości wyszukania i edytowania. Cała zawartość i formaty, np. teksty i wykresy w oryginalnym pliku, zostaną zachowane.</translation>
     </message>
     <message>
         <source>File Collect</source>
@@ -22432,13 +22573,29 @@ zaznaczenia</translation>
 telefon</translation>
     </message>
     <message>
+        <source>Document security</source>
+        <translation>Zabezpieczenia dokumentów</translation>
+    </message>
+    <message>
+        <source>Export to graph ppt</source>
+        <translation>Przekonwertuj na prezentację w formie obrazów.</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Wsadowa zmiana nazwy plików</translation>
+    </message>
+    <message>
+        <source>After conversion, you will get an image-like presentation file, each slide of which will be a non-searchable and non-editable image. And all formatting and contents, such as texts and graphs in the original file, will be retained.</source>
+        <translation>Po konwersji otrzymasz plik prezentacji w formie obrazów, a każdy slajd będzie obrazem bez możliwości wyszukania i edytowania. Cała zawartość i formaty, np. teksty i wykresy w oryginalnym pliku, zostaną zachowane.</translation>
+    </message>
+    <message>
         <source>Export graph ppt</source>
         <translation>Przekonwertuj na PPT
 w formie obrazów</translation>
     </message>
     <message>
-        <source>Document security</source>
-        <translation>Zabezpieczenia dokumentów</translation>
+        <source>Picture to PDF</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22904,10 +23061,6 @@ slajdów</translation>
 czytania</translation>
     </message>
     <message>
-        <source>Slide Show from Current(Shift+F5)</source>
-        <translation>Pokaz slajdów od bieżącego slajdu (Shift+F5)</translation>
-    </message>
-    <message>
         <source>Screen Recorder</source>
         <translation>Rejestrator ekranu</translation>
     </message>
@@ -22934,6 +23087,10 @@ czytania</translation>
     <message>
         <source>Slide Show Settings</source>
         <translation>Ustawienia pokazu slajdów</translation>
+    </message>
+    <message>
+        <source>Slide Show from Current(Shift+F5)</source>
+        <translation>Pokaz slajdów od bieżącego slajdu (Shift+F5)</translation>
     </message>
 </context>
 <context>
@@ -22989,10 +23146,6 @@ czytania</translation>
         <translation>Slajd %1 z %2</translation>
     </message>
     <message>
-        <source>Resume timer</source>
-        <translation>Wznów timer</translation>
-    </message>
-    <message>
         <source>Slide %1</source>
         <translation>Slajd %1</translation>
     </message>
@@ -23037,12 +23190,16 @@ czytania</translation>
         <translation>Ekran z wyskakującymi komentarzami</translation>
     </message>
     <message>
-        <source>Screen camera</source>
-        <translation>Rejestracja ekranu</translation>
-    </message>
-    <message>
         <source>End of Slide Show</source>
         <translation>Koniec prezentacji</translation>
+    </message>
+    <message>
+        <source>Resume timer</source>
+        <translation>Wznów timer</translation>
+    </message>
+    <message>
+        <source>Screen camera</source>
+        <translation>Rejestracja ekranu</translation>
     </message>
 </context>
 <context>
@@ -23242,16 +23399,16 @@ komentarz</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Run %1 &amp;macro</source>
-        <translation>Uruchom %1 makro (&amp;M)</translation>
-    </message>
-    <message>
         <source>All Presentations</source>
         <translation>Wszystkie prezentacje</translation>
     </message>
     <message>
         <source>All Files</source>
         <translation>Wszystkie pliki</translation>
+    </message>
+    <message>
+        <source>Run %1 &amp;macro</source>
+        <translation>Uruchom %1 makro (&amp;M)</translation>
     </message>
 </context>
 <context>
@@ -23435,10 +23592,6 @@ bezpośrednio</translation>
         <translation>Poziomo</translation>
     </message>
     <message>
-        <source>Print Ways</source>
-        <translation>Wydrukowane przez</translation>
-    </message>
-    <message>
         <source>Print What</source>
         <translation>Drukuj treść</translation>
     </message>
@@ -23505,6 +23658,10 @@ strona</translation>
     <message>
         <source>Print Copies:</source>
         <translation>Drukowane kopie:</translation>
+    </message>
+    <message>
+        <source>Print Ways</source>
+        <translation>Wydrukowane przez</translation>
     </message>
 </context>
 <context>
@@ -24594,10 +24751,6 @@ do PDF</translation>
         <translation>Więcej kolorów wypełnienia</translation>
     </message>
     <message>
-        <source>Vertical direction</source>
-        <translation>Kierunek pionowy</translation>
-    </message>
-    <message>
         <source>Text Direction</source>
         <translation>Kierunek tekstu</translation>
     </message>
@@ -24696,6 +24849,10 @@ do PDF</translation>
     <message>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Kierunek pionowy</translation>
     </message>
 </context>
 <context>
@@ -25284,14 +25441,6 @@ slajdów</translation>
         <translation>Usuń animację</translation>
     </message>
     <message>
-        <source>Delete All Animations from Selected Object</source>
-        <translation>Usuń wszystkie animacje z wybranych obiektów</translation>
-    </message>
-    <message>
-        <source>Delete All Animations from Selected Slide</source>
-        <translation>Usuń wszystkie animacje z wybranych slajdów</translation>
-    </message>
-    <message>
         <source>Custom
 Animation</source>
         <translation>Animacja 
@@ -25308,14 +25457,6 @@ niestandardowa</translation>
     <message>
         <source>Sound:</source>
         <translation>Dźwięk:</translation>
-    </message>
-    <message>
-        <source>AnimationPainter</source>
-        <translation>Malarz animacji</translation>
-    </message>
-    <message>
-        <source>Delete All Animations from Presentation</source>
-        <translation>Usuń wszystkie animacje z Presentation</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -25372,6 +25513,22 @@ niestandardowa</translation>
     <message>
         <source>Animation Painter</source>
         <translation>Malarz animacji</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Selected Object</source>
+        <translation>Usuń wszystkie animacje z wybranych obiektów</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Selected Slide</source>
+        <translation>Usuń wszystkie animacje z wybranych slajdów</translation>
+    </message>
+    <message>
+        <source>AnimationPainter</source>
+        <translation>Malarz animacji</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Presentation</source>
+        <translation>Usuń wszystkie animacje z Presentation</translation>
     </message>
 </context>
 <context>
@@ -25544,10 +25701,6 @@ niestandardowa</translation>
         <translation>Magiczny</translation>
     </message>
     <message>
-        <source>Picture background and mask</source>
-        <translation>Obraz tła szablonu</translation>
-    </message>
-    <message>
         <source>Background</source>
         <translation>Tło</translation>
     </message>
@@ -25645,12 +25798,16 @@ Slide Master</source>
  slajdów</translation>
     </message>
     <message>
-        <source>Picture Mask</source>
-        <translation>Obraz tła</translation>
-    </message>
-    <message>
         <source>Stand Screen(4:3)</source>
         <translation>Standardowy (4:3)</translation>
+    </message>
+    <message>
+        <source>Picture background and mask</source>
+        <translation>Obraz tła szablonu</translation>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation>Obraz tła</translation>
     </message>
 </context>
 <context>
@@ -26318,10 +26475,6 @@ slajdu</translation>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
-        <translation>Obecnie wystąpił wyjątek związany z połączeniem z serwerem i nie można generować zabezpieczonych plików PDF online. Spróbuj ponownie później.</translation>
-    </message>
-    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Przygotowywanie do eksportowania pliku PDF...</translation>
     </message>
@@ -26344,10 +26497,6 @@ slajdu</translation>
     <message>
         <source> Page...</source>
         <translation> Strona...</translation>
-    </message>
-    <message>
-        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
-        <translation>Obecnie nie ma połączenia z siecią i nie można generować zabezpieczonych plików PDF online. Użyj funkcji w normalnych warunkach połączenia sieciowego.</translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to PDF!</source>
@@ -26376,6 +26525,14 @@ slajdu</translation>
     <message>
         <source>User canceled operation.</source>
         <translation>Użytkownik anulował operację.</translation>
+    </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation>Obecnie wystąpił wyjątek związany z połączeniem z serwerem i nie można generować zabezpieczonych plików PDF online. Spróbuj ponownie później.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation>Obecnie nie ma połączenia z siecią i nie można generować zabezpieczonych plików PDF online. Użyj funkcji w normalnych warunkach połączenia sieciowego.</translation>
     </message>
 </context>
 <context>
@@ -27242,14 +27399,6 @@ tekstowe</translation>
         <translation>Materiały dla uczestników</translation>
     </message>
     <message>
-        <source>The file opening password is inconsistent with the previously entered password.</source>
-        <translation>Hasło otwierania pliku różni się w stosunku do poprzednio wprowadzonego hasła.</translation>
-    </message>
-    <message>
-        <source>The permission setting password is inconsistent with the previously entered password.</source>
-        <translation>Hasło do ustawienia uprawnień różni się w stosunku do poprzednio wprowadzonego hasła.</translation>
-    </message>
-    <message>
         <source>Permission password and document open password must be different.</source>
         <translation>Hasło uprawnień i hasło otwierania dokumentu muszą się różnić.</translation>
     </message>
@@ -27276,6 +27425,14 @@ tekstowe</translation>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
         <translation>Slajd wybrany do eksportu nie istnieje. Wybierz inny.</translation>
+    </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation>Hasło otwierania pliku różni się w stosunku do poprzednio wprowadzonego hasła.</translation>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation>Hasło do ustawienia uprawnień różni się w stosunku do poprzednio wprowadzonego hasła.</translation>
     </message>
 </context>
 <context>
@@ -28090,10 +28247,6 @@ Esc					Zakończ bieżący pokaz slajdów</translation>
         <translation>Szyfrowanie</translation>
     </message>
     <message>
-        <source>setting MB</source>
-        <translation>Oznacz jako poufne</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Do przodu</translation>
     </message>
@@ -28112,6 +28265,10 @@ Esc					Zakończ bieżący pokaz slajdów</translation>
     <message>
         <source>Normal Encryption</source>
         <translation>Normalne zaszyfrowanie</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Oznacz jako poufne</translation>
     </message>
 </context>
 <context>
@@ -28257,17 +28414,6 @@ prelegenta</translation>
     <message>
         <source>No Color</source>
         <translation>Brak koloru</translation>
-    </message>
-</context>
-<context>
-    <name>KxWppBulletScreenCtrl</name>
-    <message>
-        <source>Preparing for BulletScreen</source>
-        <translation>Ładowanie ekranu z wyskakującymi komentarzami</translation>
-    </message>
-    <message>
-        <source>BulletScreen Load Failed</source>
-        <translation>Nie udało się załadować ekranu z wyskakującymi komentarzami.</translation>
     </message>
 </context>
 <context>
@@ -28487,25 +28633,6 @@ prelegenta</translation>
     </message>
 </context>
 <context>
-    <name>KxWppReuseSlidesListView</name>
-    <message>
-        <source>Apply theme to selected slides</source>
-        <translation>Zastosuj motyw do wybranych slajdów</translation>
-    </message>
-    <message>
-        <source>Insert slide</source>
-        <translation>Wstaw slajd</translation>
-    </message>
-    <message>
-        <source>Apply theme to all slides</source>
-        <translation>Zastosuj motyw do wszystkich slajdów</translation>
-    </message>
-    <message>
-        <source>Insert all slides</source>
-        <translation>Wstaw wszystkie slajdy</translation>
-    </message>
-</context>
-<context>
     <name>KxWppFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
@@ -28577,25 +28704,6 @@ prelegenta</translation>
     <message>
         <source>Fail to open the file!</source>
         <translation>Nie udało się otworzyć pliku.</translation>
-    </message>
-</context>
-<context>
-    <name>KxBackupSettingTipWidgetBase</name>
-    <message>
-        <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>Włącz roaming dokumentów. Pliki lokalne, które został otwarte, będą automatycznie zapisywane w usłudze Cloud.</translation>
-    </message>
-    <message>
-        <source>What is Auto Roaming</source>
-        <translation>Czym jest automatyczny roaming</translation>
-    </message>
-    <message>
-        <source>we update your modification on time</source>
-        <translation>W międzyczasie system automatycznie synchronizuje modyfikacje w plikach lokalnych z plikami w usłudze Cloud.</translation>
-    </message>
-    <message>
-        <source>you also reference this document when login on another deviec</source>
-        <translation>Możesz również wyświetlić i edytować ten dokument po zalogowaniu się przy użyciu innego urządzenia.</translation>
     </message>
 </context>
 <context>
@@ -28780,10 +28888,6 @@ folderu, aby odtworzyć ten plik na innym komputerze.</translation>
         <translation>Symbole równania</translation>
     </message>
     <message>
-        <source>Accent</source>
-        <translation>Akcent</translation>
-    </message>
-    <message>
         <source>Linear</source>
         <translation>Liniowa</translation>
     </message>
@@ -28854,6 +28958,10 @@ folderu, aby odtworzyć ten plik na innym komputerze.</translation>
     <message>
         <source>Professional</source>
         <translation>Professional</translation>
+    </message>
+    <message>
+        <source>Accent</source>
+        <translation>Akcent</translation>
     </message>
 </context>
 <context>
@@ -29248,6 +29356,25 @@ slajdów</translation>
     <message>
         <source>Slides in &amp;presentation:</source>
         <translation>Slajdy w pr&amp;ezentacji:</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupSettingTipWidgetBase</name>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation>Czym jest automatyczny roaming</translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>Włącz roaming dokumentów. Pliki lokalne, które został otwarte, będą automatycznie zapisywane w usłudze Cloud.</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>W międzyczasie system automatycznie synchronizuje modyfikacje w plikach lokalnych z plikami w usłudze Cloud.</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>Możesz również wyświetlić i edytować ten dokument po zalogowaniu się przy użyciu innego urządzenia.</translation>
     </message>
 </context>
 <context>
@@ -30221,17 +30348,47 @@ Czy na pewno zamknąć?</translation>
     </message>
 </context>
 <context>
-    <name>ReuseSlidesTitle</name>
-    <message>
-        <source>In this pane, you can select one or more slides of other presentations and import them into the current presentation without opening other documents directly</source>
-        <translation>W tym panelu można wybrać jeden lub więcej slajdów z innych prezentacji i wstawić je bezpośrednio do bieżącej prezentacji.</translation>
-    </message>
-</context>
-<context>
     <name>KxWppEquationOptionsDlg</name>
     <message>
         <source>Equation Options</source>
         <translation>Opcje równania</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBulletScreenCtrl</name>
+    <message>
+        <source>Preparing for BulletScreen</source>
+        <translation>Ładowanie ekranu z wyskakującymi komentarzami</translation>
+    </message>
+    <message>
+        <source>BulletScreen Load Failed</source>
+        <translation>Nie udało się załadować ekranu z wyskakującymi komentarzami.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppReuseSlidesListView</name>
+    <message>
+        <source>Apply theme to selected slides</source>
+        <translation>Zastosuj motyw do wybranych slajdów</translation>
+    </message>
+    <message>
+        <source>Insert slide</source>
+        <translation>Wstaw slajd</translation>
+    </message>
+    <message>
+        <source>Apply theme to all slides</source>
+        <translation>Zastosuj motyw do wszystkich slajdów</translation>
+    </message>
+    <message>
+        <source>Insert all slides</source>
+        <translation>Wstaw wszystkie slajdy</translation>
+    </message>
+</context>
+<context>
+    <name>ReuseSlidesTitle</name>
+    <message>
+        <source>In this pane, you can select one or more slides of other presentations and import them into the current presentation without opening other documents directly</source>
+        <translation>W tym panelu można wybrać jeden lub więcej slajdów z innych prezentacji i wstawić je bezpośrednio do bieżącej prezentacji.</translation>
     </message>
 </context>
 <context>
