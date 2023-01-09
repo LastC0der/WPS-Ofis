@@ -4312,6 +4312,10 @@ Direction</translation>
         <translation>Already updated to the new version, please close the current file and open it again.</translation>
     </message>
     <message>
+        <source>&amp;View On Website</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation>Upgrade WPS Office Cloud to experience the latest version.</translation>
     </message>
