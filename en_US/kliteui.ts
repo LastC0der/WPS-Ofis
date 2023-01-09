@@ -29,24 +29,12 @@
         <translation>WPS</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>success</source>
-        <translation>Converted successfully.</translation>
-    </message>
-    <message>
-        <source>waiting</source>
-        <translation>Please wait.</translation>
-    </message>
-    <message>
-        <source>warning</source>
-        <translation>Warning</translation>
-    </message>
-    <message>
         <source>Null</source>
         <translation>None</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Waiting</source>
@@ -55,6 +43,18 @@
     <message>
         <source>Warning</source>
         <translation>Warning</translation>
+    </message>
+    <message>
+        <source>warning</source>
+        <translation>Warning</translation>
+    </message>
+    <message>
+        <source>success</source>
+        <translation>Converted successfully.</translation>
+    </message>
+    <message>
+        <source>waiting</source>
+        <translation>Please wait.</translation>
     </message>
 </context>
 <context>
@@ -212,12 +212,12 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <translation>Google</translation>
     </message>
     <message>
-        <source>The company&apos;s files can only be saved to that company</source>
-        <translation>The enterprise&apos;s files can only be saved to that enterprise.</translation>
-    </message>
-    <message>
         <source>Dropbox</source>
         <translation>Dropbox</translation>
+    </message>
+    <message>
+        <source>The company&apos;s files can only be saved to that company</source>
+        <translation>The enterprise&apos;s files can only be saved to that enterprise.</translation>
     </message>
 </context>
 <context>
@@ -335,10 +335,6 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <translation>Computer</translation>
     </message>
     <message>
-        <source>Shares received of cloud disk</source>
-        <translation>Received Sharing</translation>
-    </message>
-    <message>
         <source>There is an extension of the data in the document</source>
         <translation>Extended data exists in the file. It is recommended to save the file as %1, otherwise changing the extended data again will not be supported.</translation>
     </message>
@@ -367,16 +363,8 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <translation>Save to</translation>
     </message>
     <message>
-        <source>ShareFolder</source>
-        <translation>Shared Folder</translation>
-    </message>
-    <message>
         <source>Folder is not exist</source>
         <translation>Folder is not exist</translation>
-    </message>
-    <message>
-        <source>Group Space of cloud disk</source>
-        <translation>My Teams</translation>
     </message>
     <message>
         <source>My Company</source>
@@ -454,6 +442,18 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <source>Search Title</source>
         <translation>Search Results in &quot;Computer&quot;</translation>
     </message>
+    <message>
+        <source>Shares received of cloud disk</source>
+        <translation>Received Sharing</translation>
+    </message>
+    <message>
+        <source>ShareFolder</source>
+        <translation>Shared Folder</translation>
+    </message>
+    <message>
+        <source>Group Space of cloud disk</source>
+        <translation>My Teams</translation>
+    </message>
 </context>
 <context>
     <name>KSearchEngine</name>
@@ -506,11 +506,162 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
 </context>
 <context>
-    <name>KThirdCloudFileListPage</name>
+    <name>KDrawBrowserWnd</name>
     <message>
-        <source>Open</source>
-        <translation>&amp;Open</translation>
+        <source>Browse for folder</source>
+        <translation>Browse for folder</translation>
     </message>
+    <message>
+        <source>Close</source>
+        <translation>Close</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchCtrl</name>
+    <message>
+        <source>Clear</source>
+        <translation>Clear</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>&amp;Search</translation>
+    </message>
+</context>
+<context>
+    <name>KCefLoadingProgressDlgBase</name>
+    <message>
+        <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
+        <translation>Please wait a few minutes until the loading is complete.</translation>
+    </message>
+    <message>
+        <source>Loading core support library......</source>
+        <translation>Loading the core support library...</translation>
+    </message>
+    <message>
+        <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
+        <translation>Failed to download the core support library. Please check the network connectivity and load the library again.</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation>Reload</translation>
+    </message>
+    <message>
+        <source>Core support library failed to load</source>
+        <translation>Loading Error</translation>
+    </message>
+    <message>
+        <source>This feature requires core support library,</source>
+        <translation>This feature requires the core support library.</translation>
+    </message>
+    <message>
+        <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
+        <translation>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMsgBox</name>
+    <message>
+        <source>Instant Recovery</source>
+        <translation>Instant Recovery</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudDiskGuideDlg</name>
+    <message>
+        <source>Place the %1 into desktop</source>
+        <translation>Place the %1 into desktop</translation>
+    </message>
+    <message>
+        <source>go and see</source>
+        <translation>go and see</translation>
+    </message>
+    <message>
+        <source>Create shortcut of WPS CloudFile failed!</source>
+        <translation>Create shortcut of WPS CloudFile failed!</translation>
+    </message>
+    <message>
+        <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
+        <translation>Shortcut of WPS CloudFile has been created, you can find it on desktop</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudErrorPage</name>
+    <message>
+        <source>Authorized sign-in is invalid.</source>
+        <translation>Authorized sign-in is invalid.</translation>
+    </message>
+    <message>
+        <source>Failed to load the file list.</source>
+        <translation>Failed to load the file list.</translation>
+    </message>
+    <message>
+        <source>Try again</source>
+        <translation>Try again</translation>
+    </message>
+    <message>
+        <source>Authorize again</source>
+        <translation>Authorize again</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudLoadingPage</name>
+    <message>
+        <source>Loading the file list for you...</source>
+        <translation>Loading the file list for you...</translation>
+    </message>
+</context>
+<context>
+    <name>KAppLoadingWidget</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
+    <message>
+        <source>Loading %1, please wait</source>
+        <translation>Loading %1. Please wait.</translation>
+    </message>
+    <message>
+        <source>Backgroundg</source>
+        <translation>Backgroundg</translation>
+    </message>
+</context>
+<context>
+    <name>KImagePlayDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KThirdCloudFileListPage</name>
     <message>
         <source>Cancel</source>
         <translation>Cancel</translation>
@@ -531,21 +682,222 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <source>File Type(T):</source>
         <translation>File Type(T):</translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation>&amp;Open</translation>
+    </message>
 </context>
 <context>
-    <name>KDrawBrowserWnd</name>
+    <name>KLinkMessageBox</name>
     <message>
-        <source>Browse for folder</source>
-        <translation>Browse for folder</translation>
+        <source>Open Folder</source>
+        <translation>Open Folder</translation>
+    </message>
+</context>
+<context>
+    <name>KLoadingTipsLiteUI</name>
+    <message>
+        <source>Network Error,Load Failed!</source>
+        <translation>Network Error,failed to downLoad!</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation>Close</translation>
+        <source>Loading the Data Recovery Master.Please wait...</source>
+        <translation>Loading Data Recovery Master.Please wait...</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawRecentListCtrl</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Default Font</source>
         <translation>Arial</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file has not been uploaded to Cloud.Please upload it in mobile phone.</source>
+        <translation>Unable to open &quot;%1&quot;.
+This file is not on the Cloud. Please upload it to the Cloud from your phone.</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KCustomCtrl</name>
+    <message>
+        <source>Rename</source>
+        <translation>Rename</translation>
+    </message>
+    <message>
+        <source>Delete Control</source>
+        <translation>Delete Control</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawSearchListCtrl</name>
+    <message>
+        <source>UAC Fail Message</source>
+        <translation>Search failed. You have denied permission of search tools initiation. \r\n Click Yes to finish the search when prompt dialog appears during your next search.</translation>
+    </message>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this file</source>
+        <translation>Cannot open this file.</translation>
+    </message>
+    <message>
+        <source>No Result Message</source>
+        <translation>Sorry, the search has found no matches of &quot;%s&quot;. \r\nPlease try other keywords.</translation>
+    </message>
+</context>
+<context>
+    <name>KUploadFileGuideDlg</name>
+    <message>
+        <source>Account had been logouted, uploading has been canceled</source>
+        <translation>Account had been logouted, uploading has been canceled</translation>
+    </message>
+    <message>
+        <source>selected files have been in cloud</source>
+        <translation>selected files have been in cloud</translation>
+    </message>
+    <message>
+        <source>Account had been logouted</source>
+        <translation>Account had been logouted</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteTrialReminderDlg</name>
+    <message>
+        <source>Preview</source>
+        <translation>Preview</translation>
+    </message>
+    <message>
+        <source>confirm</source>
+        <translation>Confirm</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawButton</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawCheckBox</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawComboBox</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawMenu</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KDrawTreeCtrl</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchButton</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KTooltipCtrl</name>
+    <message>
+        <source>Default Font</source>
+        <translation>Arial</translation>
+    </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation>Recommended saving as %1 format</translation>
+    </message>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeIconThemeMgr</name>
+    <message>
+        <source>2019default</source>
+        <translation>2019 Beauty</translation>
+    </message>
+</context>
+<context>
+    <name>KCreateCompanyView</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KFileDlgAssitantTool</name>
+    <message>
+        <source>Microsoft Yahei</source>
+        <translation>Microsoft Yahei</translation>
+    </message>
+</context>
+<context>
+    <name>KFolderSelCombo</name>
     <message>
         <source>Microsoft Yahei</source>
         <translation>Microsoft Yahei</translation>
@@ -684,6 +1036,34 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <source>Payment failed</source>
         <translation>Payment failed</translation>
     </message>
+    <message>
+        <source>.</source>
+        <translation>.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation>Retry</translation>
+    </message>
+    <message>
+        <source>Customer Service</source>
+        <translation>Customer Service</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
+    <message>
+        <source>Resume</source>
+        <translation>Resume</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Confirm</translation>
+    </message>
 </context>
 <context>
     <name>KVipUpgradeDialog</name>
@@ -759,6 +1139,34 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <source>Congratulations to join WPS VIP family!</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>.</source>
+        <translation>.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation>Retry</translation>
+    </message>
+    <message>
+        <source>Customer Service</source>
+        <translation>Customer Service</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
+    <message>
+        <source>Network Error</source>
+        <translation>Network Error</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation>Confirm</translation>
+    </message>
 </context>
 <context>
     <name>KVUHelper</name>
@@ -806,47 +1214,9 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <source>WPS VIP</source>
         <translation>WPS VIP</translation>
     </message>
-</context>
-<context>
-    <name>KSearchCtrl</name>
     <message>
-        <source>Clear</source>
-        <translation>Clear</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation>&amp;Search</translation>
-    </message>
-</context>
-<context>
-    <name>KCefLoadingProgressDlgBase</name>
-    <message>
-        <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
-        <translation>Please wait a few minutes until the loading is complete.</translation>
-    </message>
-    <message>
-        <source>Loading core support library......</source>
-        <translation>Loading the core support library...</translation>
-    </message>
-    <message>
-        <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
-        <translation>Failed to download the core support library. Please check the network connectivity and load the library again.</translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation>Reload</translation>
-    </message>
-    <message>
-        <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
-        <translation>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</translation>
-    </message>
-    <message>
-        <source>Core support library failed to load</source>
-        <translation>Loading Error</translation>
-    </message>
-    <message>
-        <source>This feature requires core support library,</source>
-        <translation>This feature requires the core support library.</translation>
+        <source>Free</source>
+        <translation>Free</translation>
     </message>
 </context>
 <context>
@@ -867,6 +1237,18 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <source>Resume now</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>More</source>
+        <translation>More</translation>
+    </message>
+    <message>
+        <source>Customer Service</source>
+        <translation>Customer Service</translation>
+    </message>
+    <message>
+        <source>Terms of service</source>
+        <translation>Terms of service</translation>
+    </message>
 </context>
 <context>
     <name>KUserInfoRequester</name>
@@ -884,25 +1266,6 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
 </context>
 <context>
-    <name>KDrawMsgBox</name>
-    <message>
-        <source>Instant Recovery</source>
-        <translation>Instant Recovery</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
@@ -911,25 +1274,6 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <message>
         <source>Authorize</source>
         <translation>Authorize</translation>
-    </message>
-</context>
-<context>
-    <name>KCloudDiskGuideDlg</name>
-    <message>
-        <source>Place the %1 into desktop</source>
-        <translation>Place the %1 into desktop</translation>
-    </message>
-    <message>
-        <source>go and see</source>
-        <translation>go and see</translation>
-    </message>
-    <message>
-        <source>Create shortcut of WPS CloudFile failed!</source>
-        <translation>Create shortcut of WPS CloudFile failed!</translation>
-    </message>
-    <message>
-        <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
-        <translation>Shortcut of WPS CloudFile has been created, you can find it on desktop</translation>
     </message>
 </context>
 <context>
@@ -954,6 +1298,14 @@ Save the data and restart the WPS software to enable this feature.</translation>
         <source>Please clean up files in time</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Got it</source>
+        <translation>Got it.</translation>
+    </message>
+    <message>
+        <source>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</source>
+        <translation>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</translation>
+    </message>
 </context>
 <context>
     <name>K7DaysRetainWidget</name>
@@ -971,25 +1323,6 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
 </context>
 <context>
-    <name>KThirdCloudErrorPage</name>
-    <message>
-        <source>Authorized sign-in is invalid.</source>
-        <translation>Authorized sign-in is invalid.</translation>
-    </message>
-    <message>
-        <source>Failed to load the file list.</source>
-        <translation>Failed to load the file list.</translation>
-    </message>
-    <message>
-        <source>Try again</source>
-        <translation>Try again</translation>
-    </message>
-    <message>
-        <source>Authorize again</source>
-        <translation>Authorize again</translation>
-    </message>
-</context>
-<context>
     <name>KLiteQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
@@ -1001,13 +1334,6 @@ Save the data and restart the WPS software to enable this feature.</translation>
     <message>
         <source>Network exception, %1 failed to load</source>
         <translation>Network error. Failed to load %1.</translation>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudLoadingPage</name>
-    <message>
-        <source>Loading the file list for you...</source>
-        <translation>Loading the file list for you...</translation>
     </message>
 </context>
 <context>
@@ -1029,6 +1355,10 @@ please wait</source>
         <source>Processing...</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
 </context>
 <context>
     <name>KWhatIsNewWidgetStartPage</name>
@@ -1036,93 +1366,9 @@ please wait</source>
         <source>Welcome to WPS Office for Mac</source>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>KAppLoadingWidget</name>
     <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Loading %1, please wait</source>
-        <translation>Loading %1. Please wait.</translation>
-    </message>
-    <message>
-        <source>Backgroundg</source>
-        <translation>Backgroundg</translation>
-    </message>
-</context>
-<context>
-    <name>KImagePlayDlg</name>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancel</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KLinkMessageBox</name>
-    <message>
-        <source>Open Folder</source>
-        <translation>Open Folder</translation>
-    </message>
-</context>
-<context>
-    <name>KLoadingTipsLiteUI</name>
-    <message>
-        <source>Network Error,Load Failed!</source>
-        <translation>Network Error,failed to downLoad!</translation>
-    </message>
-    <message>
-        <source>Loading the Data Recovery Master.Please wait...</source>
-        <translation>Loading Data Recovery Master.Please wait...</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawRecentListCtrl</name>
-    <message>
-        <source>WPS Office</source>
-        <translation>WPS Office</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Unable to open &quot;%1&quot;.
-This file has not been uploaded to Cloud.Please upload it in mobile phone.</source>
-        <translation>Unable to open &quot;%1&quot;.
-This file is not on the Cloud. Please upload it to the Cloud from your phone.</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KCustomCtrl</name>
-    <message>
-        <source>Rename</source>
-        <translation>Rename</translation>
-    </message>
-    <message>
-        <source>Delete Control</source>
-        <translation>Delete Control</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
+        <source>Start</source>
+        <translation>Start</translation>
     </message>
 </context>
 <context>
@@ -1130,6 +1376,10 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <message>
         <source>Dont remind me</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>close</source>
+        <translation>Close</translation>
     </message>
 </context>
 <context>
@@ -1148,6 +1398,14 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <message>
         <source>Loading %1, please wait</source>
         <translation>Loading %1. Please wait.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Background</translation>
     </message>
 </context>
 <context>
@@ -1173,147 +1431,26 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
 </context>
 <context>
-    <name>KDrawSearchListCtrl</name>
-    <message>
-        <source>UAC Fail Message</source>
-        <translation>Search failed. You have denied permission of search tools initiation. \r\n Click Yes to finish the search when prompt dialog appears during your next search.</translation>
-    </message>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-    <message>
-        <source>Can&apos;t open this file</source>
-        <translation>Cannot open this file.</translation>
-    </message>
-    <message>
-        <source>No Result Message</source>
-        <translation>Sorry, the search has found no matches of &quot;%s&quot;. \r\nPlease try other keywords.</translation>
-    </message>
-</context>
-<context>
-    <name>KUploadFileGuideDlg</name>
-    <message>
-        <source>Account had been logouted, uploading has been canceled</source>
-        <translation>Account had been logouted, uploading has been canceled</translation>
-    </message>
-    <message>
-        <source>selected files have been in cloud</source>
-        <translation>selected files have been in cloud</translation>
-    </message>
-    <message>
-        <source>Account had been logouted</source>
-        <translation>Account had been logouted</translation>
-    </message>
-</context>
-<context>
-    <name>KLiteTrialReminderDlg</name>
-    <message>
-        <source>Preview</source>
-        <translation>Preview</translation>
-    </message>
-    <message>
-        <source>confirm</source>
-        <translation>Confirm</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawButton</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawCheckBox</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawComboBox</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawMenu</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KDrawTreeCtrl</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KSwitchButton</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KTooltipCtrl</name>
-    <message>
-        <source>Default Font</source>
-        <translation>Arial</translation>
-    </message>
-    <message>
-        <source>Recommended save as specify format</source>
-        <translation>Recommended saving as %1 format</translation>
-    </message>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>Remind me tomorrow</source>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>KPromeIconThemeMgr</name>
     <message>
-        <source>2019default</source>
-        <translation>2019 Beauty</translation>
+        <source>More</source>
+        <translation>More</translation>
+    </message>
+    <message>
+        <source>Install</source>
+        <translation>Install</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Ignore</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Restart</translation>
     </message>
 </context>
 <context>
@@ -1324,31 +1461,38 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
 </context>
 <context>
-    <name>KCreateCompanyView</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KFileDlgAssitantTool</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
-    <name>KFolderSelCombo</name>
-    <message>
-        <source>Microsoft Yahei</source>
-        <translation>Microsoft Yahei</translation>
-    </message>
-</context>
-<context>
     <name>KSevenDaysFreeWidget</name>
     <message>
         <source>Free trial for 7 days</source>
         <translation>7 gün boyunca ücretsiz deneme</translation>
+    </message>
+</context>
+<context>
+    <name>KVipUpgradeLeftWidget</name>
+    <message>
+        <source>More</source>
+        <translation>More</translation>
+    </message>
+</context>
+<context>
+    <name>K7DFreeVipPrivilegeTableWidget</name>
+    <message>
+        <source>Privilege</source>
+        <translation>Privilege</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteUpdateMessageDlgWhenExpire</name>
+    <message>
+        <source>Download</source>
+        <translation>Download</translation>
+    </message>
+</context>
+<context>
+    <name>KUnionVipWidget</name>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation>Don&apos;t show again</translation>
     </message>
 </context>
 </TS>
