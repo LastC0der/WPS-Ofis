@@ -91,6 +91,10 @@
         <source>Please describe your problems or advices in detail</source>
         <translation>Szczegółowo opisz swoje problemy lub porady.</translation>
     </message>
+    <message>
+        <source>Top Questions</source>
+        <translation>Najważniejsze pytania</translation>
+    </message>
 </context>
 <context>
     <name>KRatingWidget</name>
