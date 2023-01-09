@@ -4034,7 +4034,7 @@ Check path and filename.</source>
         <source>%n file(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-			<numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -4313,6 +4313,10 @@ Check path and filename.</source>
         <source> have been updated, close the opennig document, and open again.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&View On Website</source>
+        <translation type="unfinished"></translation>
+    </message>	
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation type="unfinished"></translation>
@@ -6087,7 +6091,7 @@ Please verify the correct file name was given.</source>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-			<numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -6162,7 +6166,7 @@ Please verify the correct file name was given.</source>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-			<numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
