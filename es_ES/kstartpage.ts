@@ -924,6 +924,14 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <source>Detail View</source>
         <translation>Vista detallada</translation>
     </message>
+    <message>
+        <source>Activity</source>
+        <translation>Actividad</translation>
+    </message>
+    <message>
+        <source>Team files</source>
+        <translation>Archivos del team</translation>
+    </message>
 </context>
 <context>
     <name>KLocationListContentWidget</name>
@@ -1158,6 +1166,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Downloads</source>
         <translation>Descargas</translation>
+    </message>
+    <message>
+        <source>Search local files</source>
+        <translation>Buscar archivos locales</translation>
     </message>
 </context>
 <context>
@@ -1583,16 +1595,16 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <translation>Abrir</translation>
     </message>
     <message>
-        <source>Team</source>
-        <translation>Team</translation>
-    </message>	
-    <message>
         <source>New Document</source>
         <translation>Nuevo</translation>
     </message>
     <message>
         <source>Documents</source>
         <translation>Documentos</translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation>Team</translation>
     </message>
 </context>
 <context>
@@ -1638,6 +1650,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Cross devices document synchronization</source>
         <translation>Sincronizar entre dispositivos</translation>
+    </message>
+    <message>
+        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
+        <translation>Inicie sesión en WPS, proteja su archivo y consiga 1 GB de espacio en Cloud</translation>
     </message>
 </context>
 <context>
@@ -1922,6 +1938,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Comparta sus documentos como un vínculo y luego podrá verlos aquí.</translation>
     </message>
+    <message>
+        <source>You can drag and drop files to share with members.</source>
+        <translation>Puede arrastrar y soltar archivos para compartir con los miembros.</translation>
+    </message>
 </context>
 <context>
     <name>KMultistageMenu</name>
@@ -2054,6 +2074,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <source>upgrade</source>
         <translation>Go Premium</translation>
     </message>
+    <message>
+        <source>Get for Free</source>
+        <translation>Obtener gratis</translation>
+    </message>
 </context>
 <context>
     <name>KWeatherNormalBottomWidget</name>
@@ -2153,6 +2177,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>Create Team</source>
         <translation>Crear team</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>En Team puede conectar su team para colaboración y productividad. Utilícelo para compartir documentos, comentarios y recopilar información</translation>
     </message>
 </context>
 <context>
@@ -2305,6 +2333,14 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <source>Invite members</source>
         <translation>Invitar miembros</translation>
     </message>
+    <message>
+        <source>Working together, start from Team</source>
+        <translation>Trabaje junto con otros, comience en Team</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>En Team puede conectar su team para colaboración y productividad. Utilícelo para compartir documentos, comentarios y recopilar información</translation>
+    </message>
 </context>
 <context>
     <name>KFileOpenProxy</name>
@@ -2456,6 +2492,10 @@ este archivo se ha abierto y no se pueden escribir datos en él. Cierre el archi
         <source>&apos;s Team</source>
         <translation>Team de</translation>
     </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation>Nombres de team duplicados</translation>
+    </message>
 </context>
 <context>
     <name>KTeamListContentWidget</name>
@@ -2530,6 +2570,10 @@ este archivo se ha abierto y no se pueden escribir datos en él. Cierre el archi
     <message>
         <source>Clear all team files</source>
         <translation>Borrar archivos de equipo</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation>Nombres de team duplicados</translation>
     </message>
 </context>
 <context>
@@ -2820,6 +2864,10 @@ este archivo se ha abierto y no se pueden escribir datos en él. Cierre el archi
     <message>
         <source>No Fear to lose data</source>
         <translation>No tema perder los datos</translation>
+    </message>
+    <message>
+        <source>WPS Team, A place for teamwork</source>
+        <translation>WPS Team, un lugar para el trabajo en equipo</translation>
     </message>
 </context>
 <context>
@@ -4039,6 +4087,42 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
         <source>Finance</source>
         <translation>Finanzas</translation>
     </message>
+    <message>
+        <source>Inspire your design inspiration</source>
+        <translation>Inspire sus diseños</translation>
+    </message>
+    <message>
+        <source>Optimize warehouse management</source>
+        <translation>Optimice la administración del almacén</translation>
+    </message>
+    <message>
+        <source>We&apos;ll recommend suitable templates for you</source>
+        <translation>Le recomendaremos plantillas especiales para usted</translation>
+    </message>
+    <message>
+        <source>HR &amp; Administrative</source>
+        <translation>HR y administración</translation>
+    </message>
+    <message>
+        <source>For sales, legal and service industries</source>
+        <translation>Para ventas, legales e industrias de servicios</translation>
+    </message>
+    <message>
+        <source>Select your interest field</source>
+        <translation>Seleccione el campo de interés</translation>
+    </message>
+    <message>
+        <source>Reduce the workload</source>
+        <translation>Reduzca la carga de trabajo</translation>
+    </message>
+    <message>
+        <source>Save time with standardized templates</source>
+        <translation>Ahorre tiempo con las plantillas estandarizadas</translation>
+    </message>
+    <message>
+        <source>SCM/Supply Chain</source>
+        <translation>SCM/Cadena de suministro</translation>
+    </message>
 </context>
 <context>
     <name>KFileTransferButton</name>
@@ -4233,6 +4317,10 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>No more show</source>
         <translation>No se muestran más</translation>
+    </message>
+    <message>
+        <source>Always open PDFs in WPS Office</source>
+        <translation>Siempre abrir archivos PDF en WPS Office</translation>
     </message>
 </context>
 <context>
@@ -4617,6 +4705,13 @@ Puede que el archivo se haya renombrado, eliminado o movido.</translation>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
         <translation>Error del servidor. No se puede buscar.</translation>
+    </message>
+</context>
+<context>
+    <name>KCreationAreaEntry</name>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
