@@ -569,19 +569,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Guest</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>personal logo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot use Cloud services</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -621,24 +613,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Read-Only Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create, edit, and share documents as you like</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
 makes documents beautiful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign In</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot create or edit documents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -650,19 +630,11 @@ makes documents beautiful</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sign in User</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Free 7-day trial</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>I am vip/commercial user</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Only support opening and viewing local documents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -679,16 +651,68 @@ we will make continuous improvements</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Premium User</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>TextLabel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login and use, synchronize data between computer and mobile,
 Easy mobile office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Guest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use Cloud services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create, edit, and share documents as you like</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create or edit documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only support opening and viewing local documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in to sync data between PC and phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get all benefits of services on both PC and phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High quality of Cloud services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Massive templates make amazing documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1G Cloud space</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -711,15 +735,15 @@ Easy mobile office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Checking payment...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>How to activate?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking payment...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -916,237 +940,97 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KLoginMainWindow</name>
+    <name>KNetworkErrDlg</name>
     <message>
-        <source>here</source>
+        <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Email</source>
+        <source>Retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Forget password</source>
+        <source>Page load timeout,check you network and retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Continue with Facebook</source>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Don&apos;t have an account?</source>
+        <source>Network error,check you network and retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Frequent requests. Please wait a minute and try again.</source>
+        <source>Account information has timed out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid argument</source>
+        <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lots resources</source>
+        <source>An error occurred,check you network and retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Docs security</source>
+        <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>QR Code Login</source>
+        <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online pictures, templates, shapes</source>
+        <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please enter a valid email address</source>
+        <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wrong password</source>
+        <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Server error</source>
+        <source>DNS Setting Document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Skip login</source>
+        <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear record</source>
+        <source>Sync login info failed,check you network and retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Wechat qrcode loading...</source>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There is no account for the email you entered</source>
+        <source>Second verify fail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remember Me</source>
+        <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unknown error!</source>
+        <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Continue with Google</source>
+        <source>Page load failed,check you network and retry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User name can&apos;t be pure whitespace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid character. Please retry.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in with other accounts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check docs on phone and iPad</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password can&apos;t be pure whitespace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknow error happened!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Synchronize docs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue with Twitter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More safety with an account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue with Dropbox</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User not active</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User not exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please enter a valid email address.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Waiting...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue with Email</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue with Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Share docs with others</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password should be 8-16 characters. Please retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in with Google</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Forgot?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User is limited</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User suspend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User is banned</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Register now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I agree to the %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login too frequently, please retry after %1 seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login with third account</source>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1261,6 +1145,249 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KLoginMainWindow</name>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forget password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid argument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lots resources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docs security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR Code Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online pictures, templates, shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wechat qrcode loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember Me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue with Google</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User name can&apos;t be pure whitespace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with other accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check docs on phone and iPad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password can&apos;t be pure whitespace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknow error happened!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Synchronize docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More safety with an account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User not active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User not exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share docs with others</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with Google</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forgot?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User is limited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User suspend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User is banned</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login too frequently, please retry after %1 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login with third account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frequent requests. Please wait a minute and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid character. Please retry.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password should be 8-16 characters. Please retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go back to sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue with Huawei</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>StackedWidget</name>
     <message>
         <source>Login</source>
@@ -1335,101 +1462,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KNetworkErrDlg</name>
-    <message>
-        <source>Retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Account information has timed out</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Second verify fail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DNS Setting Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
@@ -1437,53 +1469,6 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>School</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KPayStateDlg</name>
-    <message>
-        <source>Please wait a few minutes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can download unlimted templates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment timeout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get your personal customization now.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can use PDF conversion unlimited.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment successful!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fill in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have become WPS Premium user.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>How to activate?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking payment...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1522,6 +1507,73 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Ctrl+F5</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>The service is timeout. Please try again directly or refer to the </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1925,15 +1977,15 @@ Easy mobile office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>request failed, please retry later.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Select user failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>verify failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>request failed, please retry later.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2069,92 +2121,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KNetworkDnsErrDlg</name>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Skip login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Service timeout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Diagnosing tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> or refer to the </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DNS Settings document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KFeedbackPopupWidget</name>
-    <message>
-        <source>Forgot the password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign-in failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other questions or feedback</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select your question type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>HomepageBottomRightWidget</name>
     <message>
         <source>Skip login</source>
@@ -2177,21 +2143,6 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>Input activation code</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KNetworkOtherErrDlg</name>
-    <message>
-        <source>Skip login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Login failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2240,21 +2191,6 @@ Easy mobile office.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KGuidePaneForTopcActivity</name>
-    <message>
-        <source>Sign in with WPS account to get gifts.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Gifts for New Users on PC</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2390,6 +2326,102 @@ Easy mobile office.</source>
     <name>SelectAccountPane</name>
     <message>
         <source>Select other account</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkOtherErrDlg</name>
+    <message>
+        <source>Skip login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KGuidePaneForTopcActivity</name>
+    <message>
+        <source>Sign in with WPS account to get gifts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gifts for New Users on PC</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

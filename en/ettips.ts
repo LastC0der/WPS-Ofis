@@ -3067,5 +3067,37 @@
         <source>DataSort.title</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>QuickOrientation.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QuickOrientation.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StrikeThroughHome.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StrikeThroughHome.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
