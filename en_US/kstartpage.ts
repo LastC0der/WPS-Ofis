@@ -924,6 +924,14 @@ The file may have been renamed, deleted or moved.</translation>
         <source>Detail View</source>
         <translation>Detail View</translation>
     </message>
+    <message>
+        <source>Activity</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Team files</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KLocationListContentWidget</name>
@@ -1158,6 +1166,10 @@ The file may have been renamed, deleted or moved.</translation>
     <message>
         <source>Downloads</source>
         <translation>Downloads</translation>
+    </message>
+    <message>
+        <source>Search local files</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1583,16 +1595,16 @@ The file may have been renamed, deleted or moved.</translation>
         <translation>Open</translation>
     </message>
     <message>
-        <source>Team</source>
-        <translation type="unfinished"/>
-    </message>	
-    <message>
         <source>New Document</source>
         <translation>New</translation>
     </message>
     <message>
         <source>Documents</source>
         <translation>Documents</translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1638,6 +1650,10 @@ The file may have been renamed, deleted or moved.</translation>
     <message>
         <source>Cross devices document synchronization</source>
         <translation>Sync between devices</translation>
+    </message>
+    <message>
+        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1922,6 +1938,10 @@ The file may have been renamed, deleted or moved.</translation>
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Share your documents as a link, then you can view them here.</translation>
     </message>
+    <message>
+        <source>You can drag and drop files to share with members.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KMultistageMenu</name>
@@ -2054,6 +2074,10 @@ The file may have been renamed, deleted or moved.</translation>
         <source>upgrade</source>
         <translation>Go Premium</translation>
     </message>
+    <message>
+        <source>Get for Free</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KWeatherNormalBottomWidget</name>
@@ -2152,6 +2176,10 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Create Team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2305,6 +2333,14 @@ The file may have been renamed, deleted or moved.</translation>
         <source>Invite members</source>
         <translation>Invite members</translation>
     </message>
+    <message>
+        <source>Working together, start from Team</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KFileOpenProxy</name>
@@ -2456,6 +2492,10 @@ this file has been opened, can not write data.please close file and retry.</tran
         <source>&apos;s Team</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KTeamListContentWidget</name>
@@ -2530,6 +2570,10 @@ this file has been opened, can not write data.please close file and retry.</tran
     <message>
         <source>Clear all team files</source>
         <translation>Clear Team Files</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2820,6 +2864,10 @@ this file has been opened, can not write data.please close file and retry.</tran
     <message>
         <source>No Fear to lose data</source>
         <translation>No fear of overwriting data when filling statistics</translation>
+    </message>
+    <message>
+        <source>WPS Team, A place for teamwork</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4039,6 +4087,42 @@ The file may have been renamed, deleted or moved.</translation>
         <source>Finance</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Inspire your design inspiration</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Optimize warehouse management</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We&apos;ll recommend suitable templates for you</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HR &amp; Administrative</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>For sales, legal and service industries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select your interest field</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reduce the workload</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save time with standardized templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SCM/Supply Chain</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KFileTransferButton</name>
@@ -4233,6 +4317,10 @@ The file may have been renamed, deleted or moved.</translation>
     <message>
         <source>No more show</source>
         <translation>Never show</translation>
+    </message>
+    <message>
+        <source>Always open PDFs in WPS Office</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4617,6 +4705,13 @@ The file may have been renamed, deleted or moved.</translation>
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
         <translation>Server error,unable to search.</translation>
+    </message>
+</context>
+<context>
+    <name>KCreationAreaEntry</name>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
