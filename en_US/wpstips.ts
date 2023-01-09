@@ -3878,5 +3878,21 @@ Click the arrow to select a different highlight color.</translation>
         <source>ShowTocNavigationPane.content</source>
         <translation>Show or hide navigation in the pane.</translation>
     </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
