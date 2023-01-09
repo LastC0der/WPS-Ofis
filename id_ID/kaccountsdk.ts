@@ -575,20 +575,12 @@ p, li { white-space: pre-wrap; }
         <translation>teks</translation>
     </message>
     <message>
-        <source>Guest</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Login</source>
         <translation>Akses masuk</translation>
     </message>
     <message>
         <source>personal logo</source>
         <translation>logo pribadi</translation>
-    </message>
-    <message>
-        <source>Cannot use Cloud services</source>
-        <translation>Tidak dapat menggunakan layanan Cloud</translation>
     </message>
     <message>
         <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
@@ -627,14 +619,6 @@ p, li { white-space: pre-wrap; }
         <translation>Tip Premium</translation>
     </message>
     <message>
-        <source>Read-Only Mode</source>
-        <translation>Mode Hanya Baca</translation>
-    </message>
-    <message>
-        <source>Create, edit, and share documents as you like</source>
-        <translation>Membuat, mengedit, dan membagikan dokumen sesuka Anda</translation>
-    </message>
-    <message>
         <source>Large mount of templates, fonts, pictures resource for choice,
 makes documents beautiful</source>
         <translation>Templat masif akan membentuk dokumen yang menakjubkan</translation>
@@ -642,10 +626,6 @@ makes documents beautiful</source>
     <message>
         <source>Sign In</source>
         <translation>Akses Masuk</translation>
-    </message>
-    <message>
-        <source>Cannot create or edit documents</source>
-        <translation>Tidak dapat membuat atau mengedit dokumen</translation>
     </message>
     <message>
         <source>Legal Commercial License.</source>
@@ -656,20 +636,12 @@ makes documents beautiful</source>
         <translation>Akses Premium?</translation>
     </message>
     <message>
-        <source>Sign in User</source>
-        <translation>Pengguna Masuk</translation>
-    </message>
-    <message>
         <source>Free 7-day trial</source>
         <translation>Gratis uji coba 7 hari</translation>
     </message>
     <message>
         <source>I am vip/commercial user</source>
         <translation>Premium</translation>
-    </message>
-    <message>
-        <source>Only support opening and viewing local documents</source>
-        <translation>Hanya dapat membuka dan menampilkan dokumen lokal</translation>
     </message>
     <message>
         <source>Use redeem code</source>
@@ -686,10 +658,6 @@ we will make continuous improvements</source>
 kami akan terus melakukan perbaikan</translation>
     </message>
     <message>
-        <source>Premium User</source>
-        <translation>Pengguna Premium</translation>
-    </message>
-    <message>
         <source>TextLabel</source>
         <translation>Label Teks</translation>
     </message>
@@ -697,6 +665,62 @@ kami akan terus melakukan perbaikan</translation>
         <source>Login and use, synchronize data between computer and mobile,
 Easy mobile office.</source>
         <translation>Masuk untuk menyinkronkan data antara PC dan telepon</translation>
+    </message>
+    <message>
+        <source>Guest</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot use Cloud services</source>
+        <translation>Tidak dapat menggunakan layanan Cloud</translation>
+    </message>
+    <message>
+        <source>Read-Only Mode</source>
+        <translation>Mode Hanya Baca</translation>
+    </message>
+    <message>
+        <source>Create, edit, and share documents as you like</source>
+        <translation>Membuat, mengedit, dan membagikan dokumen sesuka Anda</translation>
+    </message>
+    <message>
+        <source>Cannot create or edit documents</source>
+        <translation>Tidak dapat membuat atau mengedit dokumen</translation>
+    </message>
+    <message>
+        <source>Sign in User</source>
+        <translation>Pengguna Masuk</translation>
+    </message>
+    <message>
+        <source>Only support opening and viewing local documents</source>
+        <translation>Hanya dapat membuka dan menampilkan dokumen lokal</translation>
+    </message>
+    <message>
+        <source>Premium User</source>
+        <translation>Pengguna Premium</translation>
+    </message>
+    <message>
+        <source>Sign in to sync data between PC and phone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Get all benefits of services on both PC and phone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>High quality of Cloud services</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Massive templates make amazing documents</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1G Cloud space</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -718,16 +742,16 @@ Easy mobile office.</source>
         <translation>Coba lagi</translation>
     </message>
     <message>
+        <source>Checking payment...</source>
+        <translation>Memeriksa pembayaran…</translation>
+    </message>
+    <message>
         <source>Check order</source>
         <translation>Riwayat Pemesanan</translation>
     </message>
     <message>
         <source>How to activate?</source>
         <translation>Bagaimana cara mengaktivasi?</translation>
-    </message>
-    <message>
-        <source>Checking payment...</source>
-        <translation>Memeriksa pembayaran…</translation>
     </message>
 </context>
 <context>
@@ -923,238 +947,98 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KLoginMainWindow</name>
+    <name>KNetworkErrDlg</name>
     <message>
-        <source>here</source>
-        <translation>di sini</translation>
+        <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Pemuatan halaman gagal,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Email</source>
-        <translation>Email</translation>
+        <source>Retry</source>
+        <translation>Coba lagi</translation>
     </message>
     <message>
-        <source>Forget password</source>
-        <translation>Lupa kata sandi</translation>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
-        <source>Continue with Facebook</source>
-        <translation>Lanjutkan dengan Facebook</translation>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Tidak dapat mengakses server Akun WPS! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Don&apos;t have an account?</source>
-        <translation>Tidak punya akun?</translation>
+        <source>Network error,check you network and retry</source>
+        <translation>Kesalahan jaringan, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
-        <source>Frequent requests. Please wait a minute and try again.</source>
-        <translation>Permintaan berulang. Tunggu sebentar dan coba lagi.</translation>
+        <source>Account information has timed out</source>
+        <translation>Waktu informasi akun habis</translation>
     </message>
     <message>
-        <source>Invalid argument</source>
-        <translation>Argumen tidak valid</translation>
+        <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Penyinkronan info akses masuk gagal,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Lots resources</source>
-        <translation>Banyak sumber</translation>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Ada kesalahan, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
-        <source>Docs security</source>
-        <translation>Keamanan dokumen</translation>
+        <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Waktu pemuatan halaman habis! Cek Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>QR Code Login</source>
-        <translation>Masuk dengan Kode QR</translation>
+        <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Pemuatan halaman gagal! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Online pictures, templates, shapes</source>
-        <translation>Gambar, templat, bentuk online</translation>
+        <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Ada kesalahan! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Please enter a valid email address</source>
-        <translation>Alamat email tidak valid. Coba lagi.</translation>
+        <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Ada kesalahan,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Wrong password</source>
-        <translation>Kata sandi salah. Periksa dan coba lagi. Atau atur ulang kata sandi.</translation>
+        <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Penyinkronan akses masuk gagal!Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Server error</source>
-        <translation>Kesalahan server</translation>
+        <source>DNS Setting Document</source>
+        <translation>Dokumen Pengaturan DNS</translation>
     </message>
     <message>
-        <source>Skip login</source>
-        <translation>Lompati Akses Masuk</translation>
+        <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Penyinkronan info akses masuk gagal! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Clear record</source>
-        <translation>Hapus rekaman</translation>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Penyinkronan info akses masuk gagal, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
-        <source>Wechat qrcode loading...</source>
-        <translation>Wechat qrcode memuatkan...</translation>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Tidak dapat mengakses server Akun WPS, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
-        <source>There is no account for the email you entered</source>
-        <translation>Tidak ada akun dengan alamat email tersebut. Periksa dan coba lagi.</translation>
+        <source>Second verify fail</source>
+        <translation>Verifikasi kedua gagal</translation>
     </message>
     <message>
-        <source>Remember Me</source>
-        <translation>Ingat Saya</translation>
+        <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Kesalahan jaringan,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Unknown error!</source>
-        <translation>Kesalahan tidak dikenal!</translation>
+        <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Waktu pemuatan halaman habis,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
-        <translation>Kami telah membuka tab browser baru agar Anda bisa masuk. Anda harus menyelesaikan autentikasi di browser. Setelah melakukannya, Anda akan otomatis melanjutkan di sini. </translation>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Tidak dapat mengakses server Akun WPS,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan&lt;/a&gt; Anda dan coba lagi&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Continue with Google</source>
-        <translation>Lanjutkan dengan Google</translation>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Pemuatan halaman gagal, cek jaringan Anda dan coba lagi</translation>
     </message>
     <message>
-        <source>User name can&apos;t be pure whitespace</source>
-        <translation>Nama pengguna tidak dapat berupa spasi murni</translation>
-    </message>
-    <message>
-        <source>Invalid character. Please retry.</source>
-        <translation>Karakter tidak valid. Coba lagi.</translation>
-    </message>
-    <message>
-        <source>Sign in with other accounts</source>
-        <translation>Masuk dengan akun lain</translation>
-    </message>
-    <message>
-        <source>Check docs on phone and iPad</source>
-        <translation>Cek dokumen di ponsel dan iPad</translation>
-    </message>
-    <message>
-        <source>Password can&apos;t be pure whitespace</source>
-        <translation>Kata sandi tidak dapat berupa spasi murni</translation>
-    </message>
-    <message>
-        <source>Share docs</source>
-        <translation>Bagi dokumen</translation>
-    </message>
-    <message>
-        <source>password</source>
-        <translation>kata sandi</translation>
-    </message>
-    <message>
-        <source>No password</source>
-        <translation>Tidak ada kata sandi</translation>
-    </message>
-    <message>
-        <source>Unknow error happened!</source>
-        <translation>Ada kesalahan tak dikenal!</translation>
-    </message>
-    <message>
-        <source>Synchronize docs</source>
-        <translation>Sinkronkan dokumen</translation>
-    </message>
-    <message>
-        <source>No username</source>
-        <translation>Tidak ada nama pengguna</translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation>Perjanjian Pengguna Layanan Online</translation>
-    </message>
-    <message>
-        <source>Continue with Twitter</source>
-        <translation>Lanjutkan dengan Twitter</translation>
-    </message>
-    <message>
-        <source>More safety with an account</source>
-        <translation>Lebih aman dengan akun</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Akses Masuk</translation>
-    </message>
-    <message>
-        <source>Continue with Dropbox</source>
-        <translation>Lanjutkan dengan Dropbox</translation>
-    </message>
-    <message>
-        <source>User not active</source>
-        <translation>Pengguna tidak aktif</translation>
-    </message>
-    <message>
-        <source>User not exists</source>
-        <translation>Pengguna tidak ada</translation>
-    </message>
-    <message>
-        <source>Please enter a valid email address.</source>
-        <translation>Masukkan alamat email yang valid.</translation>
-    </message>
-    <message>
-        <source>Waiting...</source>
-        <translation>Tunggu...</translation>
-    </message>
-    <message>
-        <source>Invalid account</source>
-        <translation>Akun tidak valid</translation>
-    </message>
-    <message>
-        <source>Continue with Email</source>
-        <translation>Lanjutkan dengan Email</translation>
-    </message>
-    <message>
-        <source>Continue with Line</source>
-        <translation>Lanjutkan dengan Line</translation>
-    </message>
-    <message>
-        <source>Share docs with others</source>
-        <translation>Bagi dokumen dengan yang lain</translation>
-    </message>
-    <message>
-        <source>Password should be 8-16 characters. Please retry</source>
-        <translation>Kata sandi harus berisi 8-16 karakter. Coba lagi.</translation>
-    </message>
-    <message>
-        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation>Kami tidak berhasil mengusahakan agar Anda bisa masuk. Kembali untuk masuk dan coba lagi.</translation>
-    </message>
-    <message>
-        <source>Sign in with Google</source>
-        <translation>Masuk dengan Google</translation>
-    </message>
-    <message>
-        <source>Forgot?</source>
-        <translation>Lupa?</translation>
-    </message>
-    <message>
-        <source>User is limited</source>
-        <translation>Pengguna dibatasi</translation>
-    </message>
-    <message>
-        <source>User suspend</source>
-        <translation>Pengguna ditangguhkan</translation>
-    </message>
-    <message>
-        <source>Create account</source>
-        <translation>Buat akun</translation>
-    </message>
-    <message>
-        <source>User is banned</source>
-        <translation>Pengguna dilarang</translation>
-    </message>
-    <message>
-        <source>Register now</source>
-        <translation>Daftar sekarang</translation>
-    </message>
-    <message>
-        <source>I agree to the %1</source>
-        <translation>Saya menyetujui %1</translation>
-    </message>
-    <message>
-        <source>Login too frequently, please retry after %1 seconds</source>
-        <translation>Terlalu sering akses masuk, silakan coba lagi setelah %1 detik</translation>
-    </message>
-    <message>
-        <source>Login with third account</source>
-        <translation>Akses masuk dengan akun ketiga</translation>
+        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Gagal mengakses server Akun WPS. Pastikan Anda memiliki konektivitas jaringan yang baik dan coba lagi.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1268,6 +1152,249 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
+    <name>KLoginMainWindow</name>
+    <message>
+        <source>Email</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <source>Forget password</source>
+        <translation>Lupa kata sandi</translation>
+    </message>
+    <message>
+        <source>Continue with Facebook</source>
+        <translation>Lanjutkan dengan Facebook</translation>
+    </message>
+    <message>
+        <source>Don&apos;t have an account?</source>
+        <translation>Tidak punya akun?</translation>
+    </message>
+    <message>
+        <source>Invalid argument</source>
+        <translation>Argumen tidak valid</translation>
+    </message>
+    <message>
+        <source>Lots resources</source>
+        <translation>Banyak sumber</translation>
+    </message>
+    <message>
+        <source>Docs security</source>
+        <translation>Keamanan dokumen</translation>
+    </message>
+    <message>
+        <source>QR Code Login</source>
+        <translation>Masuk dengan Kode QR</translation>
+    </message>
+    <message>
+        <source>Online pictures, templates, shapes</source>
+        <translation>Gambar, templat, bentuk online</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address</source>
+        <translation>Alamat email tidak valid. Coba lagi.</translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation>Kata sandi salah. Periksa dan coba lagi. Atau atur ulang kata sandi.</translation>
+    </message>
+    <message>
+        <source>Server error</source>
+        <translation>Kesalahan server</translation>
+    </message>
+    <message>
+        <source>Clear record</source>
+        <translation>Hapus rekaman</translation>
+    </message>
+    <message>
+        <source>Wechat qrcode loading...</source>
+        <translation>Wechat qrcode memuatkan...</translation>
+    </message>
+    <message>
+        <source>There is no account for the email you entered</source>
+        <translation>Tidak ada akun dengan alamat email tersebut. Periksa dan coba lagi.</translation>
+    </message>
+    <message>
+        <source>Remember Me</source>
+        <translation>Ingat Saya</translation>
+    </message>
+    <message>
+        <source>Unknown error!</source>
+        <translation>Kesalahan tidak dikenal!</translation>
+    </message>
+    <message>
+        <source>We&apos;ve opened a new browser tab for you to sign in.You should finish the authentication in the browser. Once you do this, you will automatically continue here. </source>
+        <translation>Kami telah membuka tab browser baru agar Anda bisa masuk. Anda harus menyelesaikan autentikasi di browser. Setelah melakukannya, Anda akan otomatis melanjutkan di sini. </translation>
+    </message>
+    <message>
+        <source>Continue with Google</source>
+        <translation>Lanjutkan dengan Google</translation>
+    </message>
+    <message>
+        <source>User name can&apos;t be pure whitespace</source>
+        <translation>Nama pengguna tidak dapat berupa spasi murni</translation>
+    </message>
+    <message>
+        <source>Sign in with other accounts</source>
+        <translation>Masuk dengan akun lain</translation>
+    </message>
+    <message>
+        <source>Check docs on phone and iPad</source>
+        <translation>Cek dokumen di ponsel dan iPad</translation>
+    </message>
+    <message>
+        <source>Password can&apos;t be pure whitespace</source>
+        <translation>Kata sandi tidak dapat berupa spasi murni</translation>
+    </message>
+    <message>
+        <source>Share docs</source>
+        <translation>Bagi dokumen</translation>
+    </message>
+    <message>
+        <source>password</source>
+        <translation>kata sandi</translation>
+    </message>
+    <message>
+        <source>No password</source>
+        <translation>Tidak ada kata sandi</translation>
+    </message>
+    <message>
+        <source>Unknow error happened!</source>
+        <translation>Ada kesalahan tak dikenal!</translation>
+    </message>
+    <message>
+        <source>Synchronize docs</source>
+        <translation>Sinkronkan dokumen</translation>
+    </message>
+    <message>
+        <source>No username</source>
+        <translation>Tidak ada nama pengguna</translation>
+    </message>
+    <message>
+        <source>Continue with Twitter</source>
+        <translation>Lanjutkan dengan Twitter</translation>
+    </message>
+    <message>
+        <source>More safety with an account</source>
+        <translation>Lebih aman dengan akun</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Continue with Dropbox</source>
+        <translation>Lanjutkan dengan Dropbox</translation>
+    </message>
+    <message>
+        <source>User not active</source>
+        <translation>Pengguna tidak aktif</translation>
+    </message>
+    <message>
+        <source>User not exists</source>
+        <translation>Pengguna tidak ada</translation>
+    </message>
+    <message>
+        <source>Waiting...</source>
+        <translation>Tunggu...</translation>
+    </message>
+    <message>
+        <source>Invalid account</source>
+        <translation>Akun tidak valid</translation>
+    </message>
+    <message>
+        <source>Continue with Email</source>
+        <translation>Lanjutkan dengan Email</translation>
+    </message>
+    <message>
+        <source>Continue with Line</source>
+        <translation>Lanjutkan dengan Line</translation>
+    </message>
+    <message>
+        <source>Share docs with others</source>
+        <translation>Bagi dokumen dengan yang lain</translation>
+    </message>
+    <message>
+        <source>Sign in with Google</source>
+        <translation>Masuk dengan Google</translation>
+    </message>
+    <message>
+        <source>Forgot?</source>
+        <translation>Lupa?</translation>
+    </message>
+    <message>
+        <source>User is limited</source>
+        <translation>Pengguna dibatasi</translation>
+    </message>
+    <message>
+        <source>User suspend</source>
+        <translation>Pengguna ditangguhkan</translation>
+    </message>
+    <message>
+        <source>Create account</source>
+        <translation>Buat akun</translation>
+    </message>
+    <message>
+        <source>User is banned</source>
+        <translation>Pengguna dilarang</translation>
+    </message>
+    <message>
+        <source>Register now</source>
+        <translation>Daftar sekarang</translation>
+    </message>
+    <message>
+        <source>Login too frequently, please retry after %1 seconds</source>
+        <translation>Terlalu sering akses masuk, silakan coba lagi setelah %1 detik</translation>
+    </message>
+    <message>
+        <source>Login with third account</source>
+        <translation>Akses masuk dengan akun ketiga</translation>
+    </message>
+    <message>
+        <source>here</source>
+        <translation>di sini</translation>
+    </message>
+    <message>
+        <source>Frequent requests. Please wait a minute and try again.</source>
+        <translation>Permintaan berulang. Tunggu sebentar dan coba lagi.</translation>
+    </message>
+    <message>
+        <source>Skip login</source>
+        <translation>Lompati Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Invalid character. Please retry.</source>
+        <translation>Karakter tidak valid. Coba lagi.</translation>
+    </message>
+    <message>
+        <source>Online Service User Agreement</source>
+        <translation>Perjanjian Pengguna Layanan Online</translation>
+    </message>
+    <message>
+        <source>Please enter a valid email address.</source>
+        <translation>Masukkan alamat email yang valid.</translation>
+    </message>
+    <message>
+        <source>Password should be 8-16 characters. Please retry</source>
+        <translation>Kata sandi harus berisi 8-16 karakter. Coba lagi.</translation>
+    </message>
+    <message>
+        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
+        <translation>Kami tidak berhasil mengusahakan agar Anda bisa masuk. Kembali untuk masuk dan coba lagi.</translation>
+    </message>
+    <message>
+        <source>I agree to the %1</source>
+        <translation>Saya menyetujui %1</translation>
+    </message>
+    <message>
+        <source>Go back to sign in</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue with Huawei</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>StackedWidget</name>
     <message>
         <source>Login</source>
@@ -1342,101 +1469,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KNetworkErrDlg</name>
-    <message>
-        <source>Retry</source>
-        <translation>Coba lagi</translation>
-    </message>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Gagal mengakses server Akun WPS. Pastikan Anda memiliki konektivitas jaringan yang baik dan coba lagi.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Tidak dapat mengakses server Akun WPS! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation>Kesalahan jaringan, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>Account information has timed out</source>
-        <translation>Waktu informasi akun habis</translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation>Ada kesalahan, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load timeout!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Waktu pemuatan halaman habis! Cek Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Pemuatan halaman gagal! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;An error occurred!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Ada kesalahan! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Synchronize login info fail!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Penyinkronan akses masuk gagal!Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Sync login info failed!Please check your network and retry.&lt;br&gt;If the network is fine, please check &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;the reasons&lt;/a&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Penyinkronan info akses masuk gagal! Cek jaringan Anda dan coba lagi.&lt;br&gt;Jika tidak ada masalah pada jaringan, cek &lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;alasannya&lt;/a&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation>Penyinkronan info akses masuk gagal, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation>Tidak dapat mengakses server Akun WPS, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>Second verify fail</source>
-        <translation>Verifikasi kedua gagal</translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
-        <translation>Pemuatan halaman gagal, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Pemuatan halaman gagal,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Sync login info failed,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Penyinkronan info akses masuk gagal,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;An error occurred,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Ada kesalahan,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>DNS Setting Document</source>
-        <translation>Dokumen Pengaturan DNS</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Network error,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Kesalahan jaringan,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Page load timeout,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Waktu pemuatan halaman habis,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan Anda&lt;/a&gt; dan coba lagi&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;check you network&lt;/a&gt; and retry&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Tidak dapat mengakses server Akun WPS,&lt;a style=&apos;color:#2766da&apos; href=&quot;about:blank&quot;&gt;cek jaringan&lt;/a&gt; Anda dan coba lagi&lt;/p&gt;</translation>
-    </message>
-</context>
-<context>
     <name>KOtherLoginBtnHoverPane</name>
     <message>
         <source>Third</source>
@@ -1445,53 +1477,6 @@ Easy mobile office.</source>
     <message>
         <source>School</source>
         <translation>Sekolah</translation>
-    </message>
-</context>
-<context>
-    <name>KPayStateDlg</name>
-    <message>
-        <source>Please wait a few minutes</source>
-        <translation>Harap tunggu beberapa menit</translation>
-    </message>
-    <message>
-        <source>You can download unlimted templates.</source>
-        <translation>Anda dapat mengunduh templat tak terbatas.</translation>
-    </message>
-    <message>
-        <source>Payment timeout</source>
-        <translation>Sesi pembayaran habis</translation>
-    </message>
-    <message>
-        <source>Get your personal customization now.</source>
-        <translation>Dapatkan penyesuaian pribadi Anda sekarang.</translation>
-    </message>
-    <message>
-        <source>You can use PDF conversion unlimited.</source>
-        <translation>Anda dapat menggunakan konversi PDF tak terbatas.</translation>
-    </message>
-    <message>
-        <source>Payment successful!</source>
-        <translation>Pembayaran berhasil!</translation>
-    </message>
-    <message>
-        <source>Fill in</source>
-        <translation>Isi</translation>
-    </message>
-    <message>
-        <source>You have become WPS Premium user.</source>
-        <translation>Akun Anda sekarang WPS Premium.</translation>
-    </message>
-    <message>
-        <source>How to activate?</source>
-        <translation>Bagaimana cara mengaktivasi?</translation>
-    </message>
-    <message>
-        <source>Checking payment...</source>
-        <translation>Memeriksa pembayaran…</translation>
-    </message>
-    <message>
-        <source>Payment failed</source>
-        <translation>Pembayaran gagal</translation>
     </message>
 </context>
 <context>
@@ -1530,6 +1515,73 @@ Easy mobile office.</source>
     <message>
         <source>Ctrl+F5</source>
         <translation>Ctrl+F5</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkDnsErrDlg</name>
+    <message>
+        <source>The service is timeout. Please try again directly or refer to the </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page load timeout,check you network and retry</source>
+        <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Service timeout</source>
+        <translation>Sesi layanan sudah habis.</translation>
+    </message>
+    <message>
+        <source>Network error,check you network and retry</source>
+        <translation>Kesalahan jaringan, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
+        <translation>Waktu permintaan habis. Silakan coba lagi dengan mengklik tombol segarkan sebelum memeriksa pengaturan DNS Anda.</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>An error occurred,check you network and retry</source>
+        <translation>Ada kesalahan, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Segarkan</translation>
+    </message>
+    <message>
+        <source>Sync login info failed,check you network and retry</source>
+        <translation>Penyinkronan info akses masuk gagal, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Can&apos;t access WPS Account server,check you network and retry</source>
+        <translation>Tidak dapat mengakses server Akun WPS, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>DNS Settings document</source>
+        <translation>Instruksi konfigurasi DNS</translation>
+    </message>
+    <message>
+        <source>Page load failed,check you network and retry</source>
+        <translation>Pemuatan halaman gagal, cek jaringan Anda dan coba lagi</translation>
+    </message>
+    <message>
+        <source>Skip login</source>
+        <translation>Lompati Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Diagnosing tool</source>
+        <translation>Periksa jaringan</translation>
+    </message>
+    <message>
+        <source> or refer to the </source>
+        <translation> atau baca </translation>
+    </message>
+    <message>
+        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
+        <translation>Waktu permintaan habis. Klik Segarkan dan coba lagi.</translation>
     </message>
 </context>
 <context>
@@ -1932,16 +1984,16 @@ Easy mobile office.</source>
         <translation>Pengambilan pengguna gagal</translation>
     </message>
     <message>
-        <source>request failed, please retry later.</source>
-        <translation>Gagal mendapatkan informasi dari server. Coba lagi nanti.</translation>
-    </message>
-    <message>
         <source>Select user failed</source>
         <translation>Pemilihan pengguna gagal</translation>
     </message>
     <message>
         <source>verify failed</source>
         <translation>verifikasi gagal</translation>
+    </message>
+    <message>
+        <source>request failed, please retry later.</source>
+        <translation>Gagal mendapatkan informasi dari server. Coba lagi nanti.</translation>
     </message>
 </context>
 <context>
@@ -2076,92 +2128,6 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KNetworkDnsErrDlg</name>
-    <message>
-        <source>Page load timeout,check you network and retry</source>
-        <translation>Waktu pemuatan halaman habis, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>Skip login</source>
-        <translation>Lompati Akses Masuk</translation>
-    </message>
-    <message>
-        <source>Service timeout</source>
-        <translation>Sesi layanan sudah habis.</translation>
-    </message>
-    <message>
-        <source>Diagnosing tool</source>
-        <translation>Periksa jaringan</translation>
-    </message>
-    <message>
-        <source> or refer to the </source>
-        <translation> atau baca </translation>
-    </message>
-    <message>
-        <source>Network error,check you network and retry</source>
-        <translation>Kesalahan jaringan, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>Your request has timed out. Please retry the request by clicking the refresh button prior to check your DNS settings.</source>
-        <translation>Waktu permintaan habis. Silakan coba lagi dengan mengklik tombol segarkan sebelum memeriksa pengaturan DNS Anda.</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>An error occurred,check you network and retry</source>
-        <translation>Ada kesalahan, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation>Waktu permintaan habis. Klik Segarkan dan coba lagi.</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Segarkan</translation>
-    </message>
-    <message>
-        <source>Sync login info failed,check you network and retry</source>
-        <translation>Penyinkronan info akses masuk gagal, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>Can&apos;t access WPS Account server,check you network and retry</source>
-        <translation>Tidak dapat mengakses server Akun WPS, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>DNS Settings document</source>
-        <translation>Instruksi konfigurasi DNS</translation>
-    </message>
-    <message>
-        <source>Page load failed,check you network and retry</source>
-        <translation>Pemuatan halaman gagal, cek jaringan Anda dan coba lagi</translation>
-    </message>
-    <message>
-        <source>The service is timeout. Please try again directly or refer to the </source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KFeedbackPopupWidget</name>
-    <message>
-        <source>Forgot the password</source>
-        <translation>Lupa kata sandi</translation>
-    </message>
-    <message>
-        <source>Sign-in failed</source>
-        <translation>Proses masuk gagal</translation>
-    </message>
-    <message>
-        <source>Other questions or feedback</source>
-        <translation>Masalah atau Usulan Lain</translation>
-    </message>
-    <message>
-        <source>Select your question type:</source>
-        <translation>Pilih jenis pertanyaan Anda:</translation>
-    </message>
-</context>
-<context>
     <name>HomepageBottomRightWidget</name>
     <message>
         <source>Skip login</source>
@@ -2185,21 +2151,6 @@ Easy mobile office.</source>
     <message>
         <source>Input activation code</source>
         <translation>Masukkan Kode Aktivasi</translation>
-    </message>
-</context>
-<context>
-    <name>KNetworkOtherErrDlg</name>
-    <message>
-        <source>Skip login</source>
-        <translation>Lompati Akses Masuk</translation>
-    </message>
-    <message>
-        <source>Login failed</source>
-        <translation>Gagal masuk</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Segarkan</translation>
     </message>
 </context>
 <context>
@@ -2248,21 +2199,6 @@ Easy mobile office.</source>
     <message>
         <source>TextLabel</source>
         <translation>Label Teks</translation>
-    </message>
-</context>
-<context>
-    <name>KGuidePaneForTopcActivity</name>
-    <message>
-        <source>Sign in with WPS account to get gifts.</source>
-        <translation>Masuk dengan akun WPS untuk mendapatkan hadiah.</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Akses Masuk</translation>
-    </message>
-    <message>
-        <source>Gifts for New Users on PC</source>
-        <translation>Hadiah untuk Pengguna Baru di PC</translation>
     </message>
 </context>
 <context>
@@ -2398,6 +2334,102 @@ Easy mobile office.</source>
     <message>
         <source>Select other account</source>
         <translation>Pilih akun lainnya</translation>
+    </message>
+</context>
+<context>
+    <name>KPayStateDlg</name>
+    <message>
+        <source>Please wait a few minutes</source>
+        <translation>Harap tunggu beberapa menit</translation>
+    </message>
+    <message>
+        <source>You can download unlimted templates.</source>
+        <translation>Anda dapat mengunduh templat tak terbatas.</translation>
+    </message>
+    <message>
+        <source>Payment timeout</source>
+        <translation>Sesi pembayaran habis</translation>
+    </message>
+    <message>
+        <source>Get your personal customization now.</source>
+        <translation>Dapatkan penyesuaian pribadi Anda sekarang.</translation>
+    </message>
+    <message>
+        <source>You can use PDF conversion unlimited.</source>
+        <translation>Anda dapat menggunakan konversi PDF tak terbatas.</translation>
+    </message>
+    <message>
+        <source>Payment successful!</source>
+        <translation>Pembayaran berhasil!</translation>
+    </message>
+    <message>
+        <source>Fill in</source>
+        <translation>Isi</translation>
+    </message>
+    <message>
+        <source>You have become WPS Premium user.</source>
+        <translation>Akun Anda sekarang WPS Premium.</translation>
+    </message>
+    <message>
+        <source>How to activate?</source>
+        <translation>Bagaimana cara mengaktivasi?</translation>
+    </message>
+    <message>
+        <source>Checking payment...</source>
+        <translation>Memeriksa pembayaran…</translation>
+    </message>
+    <message>
+        <source>Payment failed</source>
+        <translation>Pembayaran gagal</translation>
+    </message>
+</context>
+<context>
+    <name>KFeedbackPopupWidget</name>
+    <message>
+        <source>Forgot the password</source>
+        <translation>Lupa kata sandi</translation>
+    </message>
+    <message>
+        <source>Sign-in failed</source>
+        <translation>Proses masuk gagal</translation>
+    </message>
+    <message>
+        <source>Other questions or feedback</source>
+        <translation>Masalah atau Usulan Lain</translation>
+    </message>
+    <message>
+        <source>Select your question type:</source>
+        <translation>Pilih jenis pertanyaan Anda:</translation>
+    </message>
+</context>
+<context>
+    <name>KNetworkOtherErrDlg</name>
+    <message>
+        <source>Skip login</source>
+        <translation>Lompati Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Login failed</source>
+        <translation>Gagal masuk</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Segarkan</translation>
+    </message>
+</context>
+<context>
+    <name>KGuidePaneForTopcActivity</name>
+    <message>
+        <source>Sign in with WPS account to get gifts.</source>
+        <translation>Masuk dengan akun WPS untuk mendapatkan hadiah.</translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation>Akses Masuk</translation>
+    </message>
+    <message>
+        <source>Gifts for New Users on PC</source>
+        <translation>Hadiah untuk Pengguna Baru di PC</translation>
     </message>
 </context>
 </TS>
