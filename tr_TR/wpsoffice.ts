@@ -6216,23 +6216,23 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>%1: invalid size</source>
-        <translation type="unfinished"/>
+        <translation>%1: geçersiz boyut</translation>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation type="unfinished"/>
+        <translation>%1: anahtar yapılamıyor</translation>
     </message>
     <message>
         <source>%1: unable to set key on lock</source>
-        <translation type="unfinished"/>
+        <translation>%1: anahtar kilide ayarlanamıyor</translation>
     </message>
     <message>
         <source>%1: unable to unlock</source>
-        <translation type="unfinished"/>
+        <translation>%1: kilit açılamıyor</translation>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
@@ -8973,7 +8973,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1: unable to make key</source>
-        <translation type="unfinished"/>
+        <translation>%1: anahtar yapılamıyor</translation>
     </message>
     <message>
         <source>%1: ftok failed</source>
