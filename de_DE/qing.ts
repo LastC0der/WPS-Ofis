@@ -4316,6 +4316,10 @@ Datei nicht gefunden.
         <translation>Es wurde bereits auf die neue Version aktualisiert. Schließen Sie die aktuelle Datei und öffnen Sie sie erneut.</translation>
     </message>
     <message>
+        <source>&amp;View On Website</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation>Holen Sie sich die Funktionen der neuesten Version und führen Sie ein Upgrade von WPS Office Cloud aus.</translation>
     </message>
