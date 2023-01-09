@@ -924,6 +924,14 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
         <source>Detail View</source>
         <translation>Vista Detalhada</translation>
     </message>
+    <message>
+        <source>Activity</source>
+        <translation>Atividade</translation>
+    </message>
+    <message>
+        <source>Team files</source>
+        <translation>Ficheiros da Team</translation>
+    </message>
 </context>
 <context>
     <name>KLocationListContentWidget</name>
@@ -1158,6 +1166,10 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
     <message>
         <source>Downloads</source>
         <translation>Transferências</translation>
+    </message>
+    <message>
+        <source>Search local files</source>
+        <translation>Pesquisar ficheiros locais</translation>
     </message>
 </context>
 <context>
@@ -1583,16 +1595,16 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
         <translation>Abrir</translation>
     </message>
     <message>
-        <source>Team</source>
-        <translation>Team</translation>
-    </message>	
-    <message>
         <source>New Document</source>
         <translation>Novo</translation>
     </message>
     <message>
         <source>Documents</source>
         <translation>Documentos</translation>
+    </message>
+    <message>
+        <source>Team</source>
+        <translation>Team</translation>
     </message>
 </context>
 <context>
@@ -1638,6 +1650,10 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
     <message>
         <source>Cross devices document synchronization</source>
         <translation>Sincronizar entre dispositivos</translation>
+    </message>
+    <message>
+        <source>Log-in to WPS, secure your file and get 1GB Cloud Space</source>
+        <translation>Inicie sessão no WPS, proteja o seu ficheiro e obtenha 1 GB de Espaço na Cloud</translation>
     </message>
 </context>
 <context>
@@ -1922,6 +1938,10 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
         <source>Share your documents as a link, then you can view them here.</source>
         <translation>Partilhe os seus documentos como uma ligação e depois poderá vê-los aqui.</translation>
     </message>
+    <message>
+        <source>You can drag and drop files to share with members.</source>
+        <translation>Pode arrastar e largar ficheiros a partilhar com membros.</translation>
+    </message>
 </context>
 <context>
     <name>KMultistageMenu</name>
@@ -2054,6 +2074,10 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
         <source>upgrade</source>
         <translation>Vá Premium</translation>
     </message>
+    <message>
+        <source>Get for Free</source>
+        <translation>Obter Versão Gratuita</translation>
+    </message>
 </context>
 <context>
     <name>KWeatherNormalBottomWidget</name>
@@ -2153,6 +2177,10 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
     <message>
         <source>Create Team</source>
         <translation>Criar Team</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>O Team é um local onde pode ligar a sua team para colaboração e produtividade. Utilize-a para partilhar documentos, comentários e recolher informações</translation>
     </message>
 </context>
 <context>
@@ -2305,6 +2333,14 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
         <source>Invite members</source>
         <translation>Convidar membros</translation>
     </message>
+    <message>
+        <source>Working together, start from Team</source>
+        <translation>Trabalhe em conjunto e comece com Team</translation>
+    </message>
+    <message>
+        <source>Team is a place to connect your team for collaboration and productivity. Use it to share docs, comments and collect information</source>
+        <translation>O Team é um local onde pode ligar a sua team para colaboração e produtividade. Utilize-a para partilhar documentos, comentários e recolher informações</translation>
+    </message>
 </context>
 <context>
     <name>KFileOpenProxy</name>
@@ -2456,6 +2492,10 @@ este ficheiro foi aberto; não pode escrever dados. Feche o ficheiro e volte a t
         <source>&apos;s Team</source>
         <translation>de Team</translation>
     </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation>Nomes de team duplicados</translation>
+    </message>
 </context>
 <context>
     <name>KTeamListContentWidget</name>
@@ -2530,6 +2570,10 @@ este ficheiro foi aberto; não pode escrever dados. Feche o ficheiro e volte a t
     <message>
         <source>Clear all team files</source>
         <translation>Limpar ficheiros da equipa</translation>
+    </message>
+    <message>
+        <source>Duplicate team names</source>
+        <translation>Nomes de team duplicados</translation>
     </message>
 </context>
 <context>
@@ -2821,6 +2865,10 @@ Arquivos</translation>
     <message>
         <source>No Fear to lose data</source>
         <translation>Sem medo de perder dados</translation>
+    </message>
+    <message>
+        <source>WPS Team, A place for teamwork</source>
+        <translation>WPS Team, Um local para o trabalho de equipa</translation>
     </message>
 </context>
 <context>
@@ -4040,6 +4088,42 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
         <source>Finance</source>
         <translation>Finanças</translation>
     </message>
+    <message>
+        <source>Inspire your design inspiration</source>
+        <translation>Estimule a sua inspiração de design</translation>
+    </message>
+    <message>
+        <source>Optimize warehouse management</source>
+        <translation>Otimize a gestão de armazéns</translation>
+    </message>
+    <message>
+        <source>We&apos;ll recommend suitable templates for you</source>
+        <translation>Vamos recomendar modelos adequados às suas necessidades</translation>
+    </message>
+    <message>
+        <source>HR &amp; Administrative</source>
+        <translation>HR e Administração</translation>
+    </message>
+    <message>
+        <source>For sales, legal and service industries</source>
+        <translation>Para setores de vendas, jurídico e serviços</translation>
+    </message>
+    <message>
+        <source>Select your interest field</source>
+        <translation>Selecione a sua área de interesse</translation>
+    </message>
+    <message>
+        <source>Reduce the workload</source>
+        <translation>Reduza a carga de trabalho</translation>
+    </message>
+    <message>
+        <source>Save time with standardized templates</source>
+        <translation>Poupe tempo com modelos padronizados</translation>
+    </message>
+    <message>
+        <source>SCM/Supply Chain</source>
+        <translation>SCM/Cadeia de fornecimento</translation>
+    </message>
 </context>
 <context>
     <name>KFileTransferButton</name>
@@ -4234,6 +4318,10 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
     <message>
         <source>No more show</source>
         <translation>Não mostrar mais</translation>
+    </message>
+    <message>
+        <source>Always open PDFs in WPS Office</source>
+        <translation>Sempre abrir PDFs no WPS Office</translation>
     </message>
 </context>
 <context>
@@ -4618,6 +4706,13 @@ O nome do ficheiro poderá ter sido mudado ou o ficheiro poderá ter sido elimin
     <message>
         <source>The cloud document server is abnormal and can not search for cloud documents.</source>
         <translation>Erro de servidor. Não é possível procurar.</translation>
+    </message>
+</context>
+<context>
+    <name>KCreationAreaEntry</name>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
