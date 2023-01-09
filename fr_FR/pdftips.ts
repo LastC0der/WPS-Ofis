@@ -414,10 +414,6 @@
         <translation>Augmenter la police</translation>
     </message>
     <message>
-        <source>AlignJustify.content</source>
-        <translation>Répartissez votre texte de manière régulière entre les marges.</translation>
-    </message>
-    <message>
         <source>InsertPagesFromDoc.content</source>
         <translation>Insérer les pages sélectionnées du document à l&apos;emplacement spécifié.</translation>
     </message>
@@ -2160,10 +2156,6 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
         <translation>Extraire l&apos;image</translation>
     </message>
     <message>
-        <source>AlignJustify.title</source>
-        <translation>Justifier</translation>
-    </message>
-    <message>
         <source>FloatZoomOut.content</source>
         <translation>Effectuer un zoom avant sur la page.</translation>
     </message>
@@ -2278,6 +2270,54 @@ Cliquez sur la flèche pour sélectionner la couleur.</translation>
     <message>
         <source>RotateToTheRight.content</source>
         <translation>Pivoter de 90 degrés vers la droite</translation>
+    </message>
+    <message>
+        <source>OcrArea.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AlignJustify.content</source>
+        <translation>Répartissez votre texte de manière régulière entre les marges.</translation>
+    </message>
+    <message>
+        <source>NewPDFBatchPrint.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PdfPictureToText.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OcrArea.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CustomRotateDegree.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CustomRotateDegree.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PdfPictureToText.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NewPDFBatchPrint.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Justifier</translation>
     </message>
 </context>
 </TS>
