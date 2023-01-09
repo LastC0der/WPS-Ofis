@@ -65,6 +65,10 @@
         <source>Encl&amp;osure:</source>
         <translation>О&amp;каймление:</translation>
     </message>
+    <message>
+        <source>印</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
@@ -214,373 +218,6 @@
     </message>
 </context>
 <context>
-    <name>KxCustomShortCutDlg</name>
-    <message>
-        <source>&quot;</source>
-        <translation>&quot;</translation>
-    </message>
-    <message>
-        <source>&quot;Tab</source>
-        <translation>&quot;Вкладка</translation>
-    </message>
-    <message>
-        <source>Distribute the selected drawing objects horizontally</source>
-        <translation>Распределить выбранные объекты рисования горизонтально</translation>
-    </message>
-    <message>
-        <source>Sends the selected drawing objects to the back</source>
-        <translation>Разместить выделенные объекты рисования внизу</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects horizontally to the center</source>
-        <translation>Выровнять выделенные объекты рисования горизонтально по центру</translation>
-    </message>
-    <message>
-        <source>Scales the current view to 100%</source>
-        <translation>Установить для текущего представления масштаб 100%</translation>
-    </message>
-    <message>
-        <source>&amp;Categories:</source>
-        <translation>Категории:</translation>
-    </message>
-    <message>
-        <source>Auto-Fit Table to the contents</source>
-        <translation>Автоматически изменять таблицу на основе содержимого</translation>
-    </message>
-    <message>
-        <source>Fill Color Picker</source>
-        <translation>Выбор цвета заливки</translation>
-    </message>
-    <message>
-        <source>Distribute the selected drawing objects vertically</source>
-        <translation>Распределить выбранные объекты рисования вертикально</translation>
-    </message>
-    <message>
-        <source>Deletes the selected cells from the table</source>
-        <translation>Удалить выбранные ячейки из таблицы</translation>
-    </message>
-    <message>
-        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Изменить внутренние границы выбранных параграфов, ячеек таблицы и изображений</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
-        <translation>Подтвердить сброс назначений клавиш? Это действие удалит все клавиши, которые сейчас назначены макросам и стилям в %1.</translation>
-    </message>
-    <message>
-        <source>Press &amp;new shortcut key:</source>
-        <translation>Нажать «Создать сочетание клавиш»:</translation>
-    </message>
-    <message>
-        <source>File menu</source>
-        <translation>Меню &quot;Файл&quot;</translation>
-    </message>
-    <message>
-        <source>Quits WPS and prompts to save the documents</source>
-        <translation>Закрыть WPS и предложить сохранить документ</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects vertically to the center</source>
-        <translation>Выровнять выделенные объекты рисования вертикально по центру</translation>
-    </message>
-    <message>
-        <source>Saves the active document or template</source>
-        <translation>Сохранение активного документа или шаблона</translation>
-    </message>
-    <message>
-        <source>C&amp;ommands:</source>
-        <translation>Команды:</translation>
-    </message>
-    <message>
-        <source>Customize keyboard</source>
-        <translation>Настройка клавиатуры</translation>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation>Макросы</translation>
-    </message>
-    <message>
-        <source>Opens an existing document or template</source>
-        <translation>Открыть существующий документ или шаблон</translation>
-    </message>
-    <message>
-        <source>Displays a document&apos;s outline</source>
-        <translation>Просмотр документа в виде структуры и отображение инструментов, используемых при работе в режиме структуры.</translation>
-    </message>
-    <message>
-        <source>Accepts all changes that are highlighted in the current filter settings</source>
-        <translation>Принять все изменения, выделенные для текущих параметров фильтра</translation>
-    </message>
-    <message>
-        <source>Save file as DOCX document</source>
-        <translation>Сохранить файл как документ DOCX</translation>
-    </message>
-    <message>
-        <source>Selects the current cell in a table</source>
-        <translation>Выделить текущую ячейку в таблице</translation>
-    </message>
-    <message>
-        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Изменить внешние границы выбранных параграфов, ячеек таблицы и изображений</translation>
-    </message>
-    <message>
-        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Изменить нижнюю границу выбранных параграфов, ячеек таблицы и изображений</translation>
-    </message>
-    <message>
-        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
-        <translation>Вставить пустое текстовое поле или поместить выделенный диапазон в текстовое поле</translation>
-    </message>
-    <message>
-        <source>Sends the active document through electronic mail</source>
-        <translation>Отправить активный документ по электронной почте</translation>
-    </message>
-    <message>
-        <source>Selects the entire document</source>
-        <translation>Выделить весь документ</translation>
-    </message>
-    <message>
-        <source>Opens a data source for mail merge of insert database</source>
-        <translation>Открыть источник данных для объединения почты или вставки базы данных</translation>
-    </message>
-    <message>
-        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
-        <translation>Показать/скрыть область сводной информации для просмотра и редактирования версий документа (горизонтальная)</translation>
-    </message>
-    <message>
-        <source>Selects the current column in a table</source>
-        <translation>Выделить текущий столбец в таблице</translation>
-    </message>
-    <message>
-        <source>Deletes the selected columns from the table</source>
-        <translation>Удалить выбранные столбцы из таблицы</translation>
-    </message>
-    <message>
-        <source>Changes the height and width of the rows and columns in a table</source>
-        <translation>Изменить высоту строк и ширину столбцов в таблице</translation>
-    </message>
-    <message>
-        <source>Saves a copy of the document in a separate file</source>
-        <translation>Сохранение копии документа в отдельном файле</translation>
-    </message>
-    <message>
-        <source>Macr&amp;os:</source>
-        <translation>Макрос:</translation>
-    </message>
-    <message>
-        <source>Deletes the selected table</source>
-        <translation>Удалить выбранную таблицу</translation>
-    </message>
-    <message>
-        <source>Specify a command</source>
-        <translation>Указать команду</translation>
-    </message>
-    <message>
-        <source>Evenly distributes selected columns</source>
-        <translation>Равномерно распределить выделенные столбцы</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the right</source>
-        <translation>Выровнять выделенные объекты рисования по правому краю</translation>
-    </message>
-    <message>
-        <source>Specify keyboard sequence</source>
-        <translation>Указать последовательность клавиш</translation>
-    </message>
-    <message>
-        <source>Cuts the selection and puts in on the Clipboard</source>
-        <translation>Вырезание выделенного диапазона и помещение его в системный буфер обмена.</translation>
-    </message>
-    <message>
-        <source>Selects the current row in a table</source>
-        <translation>Выделить текущую строку в таблице</translation>
-    </message>
-    <message>
-        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Изменить левую границу выбранных параграфов, ячеек таблицы и изображений</translation>
-    </message>
-    <message>
-        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
-        <translation>Удалить границы выбранных параграфов, ячеек таблицы и изображений</translation>
-    </message>
-    <message>
-        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
-        <translation>Отображение всех версий в документе в виде списка в области.</translation>
-    </message>
-    <message>
-        <source>Changes all the borders of the selected table cells</source>
-        <translation>Изменить все границы выбранных ячеек</translation>
-    </message>
-    <message>
-        <source>Save file as Word 97-2003 Document</source>
-        <translation>Сохранить файл как документ Word 97-2003</translation>
-    </message>
-    <message>
-        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
-        <translation>Вставка содержимого из буфера обмена в качестве связанного объекта, встроенного объекта или другой формы</translation>
-    </message>
-    <message>
-        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Изменить верхние границы выбранных параграфов, ячеек таблицы и изображений</translation>
-    </message>
-    <message>
-        <source>Show or hide comment balloons</source>
-        <translation>Показать или скрыть поле комментариев</translation>
-    </message>
-    <message>
-        <source>Rejects all changes in document, ignoring filter settings</source>
-        <translation>Отклонить все изменения в документе, игнорируя параметры фильтра</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Описание</translation>
-    </message>
-    <message>
-        <source>Always use balloons</source>
-        <translation>Всегда использовать поле комментариев</translation>
-    </message>
-    <message>
-        <source>Show or hide markup balloons</source>
-        <translation>Показать или скрыть поле исправления</translation>
-    </message>
-    <message>
-        <source>Accepts all changes in document, ignoring filter settings</source>
-        <translation>Принять все изменения в документе, игнорируя параметры фильтра</translation>
-    </message>
-    <message>
-        <source>Changes the page setup of the selected sections</source>
-        <translation>Изменить параметры страницы для выделенного раздела</translation>
-    </message>
-    <message>
-        <source>&amp;Assign</source>
-        <translation>Назначить</translation>
-    </message>
-    <message>
-        <source>Scales the editing view to see the two pages in page layout view</source>
-        <translation>Изменение масштаба документа для просмотра нескольких страниц в окне.</translation>
-    </message>
-    <message>
-        <source>Changes various categories of WPS options</source>
-        <translation>Изменить различные параметры WPS</translation>
-    </message>
-    <message>
-        <source>Marks the text you want to include in the index</source>
-        <translation>Добавление выделенного текста в индекс документа.</translation>
-    </message>
-    <message>
-        <source>Sa&amp;ve changes in:</source>
-        <translation>Сохранить изменения в:</translation>
-    </message>
-    <message>
-        <source>Selects an entire table</source>
-        <translation>Выделить всю таблицу</translation>
-    </message>
-    <message>
-        <source>Insert ink comment</source>
-        <translation>Вставить комментарий</translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation>У&amp;далить</translation>
-    </message>
-    <message>
-        <source>Deletes all comments in document, ignoring filter settings</source>
-        <translation>Удалить все комментарии в документе, игнорируя параметры фильтра</translation>
-    </message>
-    <message>
-        <source>C&amp;urrent keys:</source>
-        <translation>Текущие клавиши:</translation>
-    </message>
-    <message>
-        <source>Re&amp;set All...</source>
-        <translation>Сбросить все...</translation>
-    </message>
-    <message>
-        <source>Jumps to a specified place in the active document</source>
-        <translation>Перейти в указанное место активного документа</translation>
-    </message>
-    <message>
-        <source>Deletes the selected rows from the table</source>
-        <translation>Удалить выбранные строки из таблицы</translation>
-    </message>
-    <message>
-        <source>Evenly distributes selected rows</source>
-        <translation>Равномерно распределить выделенные строки</translation>
-    </message>
-    <message>
-        <source>Rejects all changes that are highlighted in the current filter settings</source>
-        <translation>Отклонить все изменения, выделенные для текущих параметров фильтра</translation>
-    </message>
-    <message>
-        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Изменить правую границу выбранных параграфов, ячеек таблицы и изображений</translation>
-    </message>
-    <message>
-        <source>[Underline]</source>
-        <translation>[Подчеркивание]</translation>
-    </message>
-    <message>
-        <source>Toggles table gridlines on and off in Ribbon</source>
-        <translation>Включение и выключение линий сетки таблицы на ленте</translation>
-    </message>
-    <message>
-        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
-        <translation>Вставить пустое вертикальное текстовое поле или поместить выделенный диапазон в вертикальное текстовое поле</translation>
-    </message>
-    <message>
-        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
-        <translation>Показать/скрыть область сводной информации для просмотра и редактирования версий документа (вертикальная)</translation>
-    </message>
-    <message>
-        <source>Creates a Quick Style style out of the currently selected text</source>
-        <translation>Создать &quot;экспресс-стиль&quot; из выбранного текста</translation>
-    </message>
-    <message>
-        <source>Opens New Document taskpane</source>
-        <translation>Открыть область задач &quot;Новый документ&quot;</translation>
-    </message>
-    <message>
-        <source>Creates a new AutoText Building Block from the current selection</source>
-        <translation>Создать новый стандартный блок автотекста на основе текущего выделенного диапазона</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the left</source>
-        <translation>Выровнять выделенные объекты рисования по левому краю</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the bottom</source>
-        <translation>Выровнять выделенные объекты рисования по нижнему краю</translation>
-    </message>
-    <message>
-        <source>Removes Table of Contents building block from the document</source>
-        <translation>Удалить стандартный блок оглавления из документа</translation>
-    </message>
-    <message>
-        <source>Changes the font of the selection</source>
-        <translation>Изменить шрифт выделенного диапазона</translation>
-    </message>
-    <message>
-        <source>Copies the selection and puts it on the Clipboard</source>
-        <translation>Копирование выделенного диапазона и помещение его в системный буфер обмена.</translation>
-    </message>
-    <message>
-        <source>Sends the selected drawing objects backward</source>
-        <translation>Разместить выделенные объекты рисования позади</translation>
-    </message>
-    <message>
-        <source>Currently assigned to: </source>
-        <translation>Назначенный для: </translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the top</source>
-        <translation>Выровнять выделенные объекты рисования по верхнему краю</translation>
-    </message>
-</context>
-<context>
     <name>KxFontSubstitutionDlg</name>
     <message>
         <source>&quot;</source>
@@ -629,6 +266,10 @@
     <message>
         <source>&amp;Substituted font:</source>
         <translation>Заменить шрифт(&amp;S):</translation>
+    </message>
+    <message>
+        <source>more online fonts</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1061,10 +702,6 @@
         <translation>Отражение</translation>
     </message>
     <message>
-        <source>The top/bottom margins are too large for the page height in some sections.</source>
-        <translation>В некоторых разделах верхнее/нижнее поле превышает допустимое значение.</translation>
-    </message>
-    <message>
         <source>Cannot Load this Add-In.</source>
         <translation>Не удается загрузить надстройку.</translation>
     </message>
@@ -1125,10 +762,6 @@
     <message>
         <source>Recorded %d too few data fields.</source>
         <translation>Запись %d содержит слишком мало полей данных.</translation>
-    </message>
-    <message>
-        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
-        <translation>Переключение столбца или строки приведет к следующим изменениям на листе. Продолжить операцию?</translation>
     </message>
     <message>
         <source>Condensed by </source>
@@ -1472,10 +1105,6 @@
     <message>
         <source>(Complex)</source>
         <translation>(сложный)</translation>
-    </message>
-    <message>
-        <source>Need Help?</source>
-        <translation>Требуется помощь?</translation>
     </message>
     <message>
         <source>Selects the current cell in a table</source>
@@ -2076,10 +1705,6 @@
         <translation>Текущий</translation>
     </message>
     <message>
-        <source>Custom </source>
-        <translation>Интервал между строками</translation>
-    </message>
-    <message>
         <source>Numbering Style</source>
         <translation>Стиль нумерации</translation>
     </message>
@@ -2335,12 +1960,6 @@ Do you want to replace it?</source>
     <message>
         <source> Ln: %d   Col: %d</source>
         <translation> Лин: %d   Кол: %d</translation>
-    </message>
-    <message>
-        <source>
-· Delete all %s</source>
-        <translation>
-· Удалить %s</translation>
     </message>
     <message>
         <source>Rejects all changes that are highlighted in the current filter settings</source>
@@ -2646,6 +2265,73 @@ Do you want to replace it?</source>
         <source>No line between</source>
         <translation>Без линии между</translation>
     </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections.</source>
+        <translation>В некоторых разделах верхнее/нижнее поле превышает допустимое значение.</translation>
+    </message>
+    <message>
+        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
+        <translation>Переключение столбца или строки приведет к следующим изменениям на листе. Продолжить операцию?</translation>
+    </message>
+    <message>
+        <source>Need Help?</source>
+        <translation>Требуется помощь?</translation>
+    </message>
+    <message>
+        <source>Custom </source>
+        <translation>Интервал между строками</translation>
+    </message>
+    <message>
+        <source>
+· Delete all %s</source>
+        <translation>
+· Удалить %s</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the text box.</source>
+        <comment>_TxFind_ReachBeginningOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>_TxNothing</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>TxRevision_Pap_Top</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Pap_Bottom</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxRevision_Pap_Auto</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_Left</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>TxRevision_Pap_Center</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reached the end of the text box.</source>
+        <comment>_TxFind_ReachEndOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_Right</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgOptions</name>
@@ -2726,10 +2412,6 @@ Do you want to replace it?</source>
         <translation>По правому краю</translation>
     </message>
     <message>
-        <source>Spell</source>
-        <translation>Орфография</translation>
-    </message>
-    <message>
         <source>Millimeters</source>
         <translation>Миллиметры</translation>
     </message>
@@ -2806,10 +2488,6 @@ Do you want to replace it?</source>
         <translation>Выбранная &amp;ширина:</translation>
     </message>
     <message>
-        <source>Spelling and Grammar</source>
-        <translation>Орфография и грамматика</translation>
-    </message>
-    <message>
         <source>Smart Backup</source>
         <translation>Интеллектуальное резервное копирование</translation>
     </message>
@@ -2854,10 +2532,6 @@ Do you want to replace it?</source>
         <translation>&amp;Не использовать выступы как позиции табуляции для маркированных и нумерованных списков</translation>
     </message>
     <message>
-        <source>Keep cache for</source>
-        <translation>Хранить только самые последние элементы</translation>
-    </message>
-    <message>
         <source>Cloud backup</source>
         <translation>Облачная резервная копия</translation>
     </message>
@@ -2884,10 +2558,6 @@ Do you want to replace it?</source>
     <message>
         <source>Track Changes</source>
         <translation>Исправления</translation>
-    </message>
-    <message>
-        <source>Check forms:</source>
-        <translation>Режим службы:</translation>
     </message>
     <message>
         <source>Hide &amp;blank</source>
@@ -3012,10 +2682,6 @@ Do you want to replace it?</source>
     <message>
         <source>Display &quot;autoco&amp;mplete&quot; tips</source>
         <translation>Показывать подсказки об автозаполнении</translation>
-    </message>
-    <message>
-        <source>English modes:</source>
-        <translation>Режим проверки для английского языка:</translation>
     </message>
     <message>
         <source>Double underline</source>
@@ -3178,10 +2844,6 @@ Do you want to replace it?</source>
         <translation>220 пикселей на дюйм</translation>
     </message>
     <message>
-        <source>Online</source>
-        <translation>Проверка в сети</translation>
-    </message>
-    <message>
         <source>Correct accidental usage of Caps &amp;Lock key</source>
         <translation>Устранять пос&amp;ледствия случайного нажатия CAPS LOCK</translation>
     </message>
@@ -3208,10 +2870,6 @@ Do you want to replace it?</source>
     <message>
         <source>&amp;Autofit the tab width</source>
         <translation>&amp;Автоподбор ширины вкладки</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation>Проверка в автономном режиме</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
@@ -3338,10 +2996,6 @@ Do you want to replace it?</source>
         <translation>Режим резервного копирования:</translation>
     </message>
     <message>
-        <source>Keep files cache</source>
-        <translation>Период хранения</translation>
-    </message>
-    <message>
         <source>Match di/&amp;zi, du/zu</source>
         <translation>Учитывать di/&amp;zi, du/zu</translation>
     </message>
@@ -3442,10 +3096,6 @@ Do you want to replace it?</source>
         <translation>Показать панель вкладок в &amp;верхней части документа</translation>
     </message>
     <message>
-        <source>Document fields(&amp;Z):</source>
-        <translation>Отметка домена официального документа (&amp;Я):</translation>
-    </message>
-    <message>
         <source>Taskb&amp;ar</source>
         <translation>Панель зада&amp;ч</translation>
     </message>
@@ -3542,10 +3192,6 @@ Do you want to replace it?</source>
         <translation>Параметры ленты</translation>
     </message>
     <message>
-        <source>Show Document Fields Without Background</source>
-        <translation>Показать домен официального документа (без затенения)</translation>
-    </message>
-    <message>
         <source>Co&amp;lor:</source>
         <translation>Цв&amp;ет:</translation>
     </message>
@@ -3640,10 +3286,6 @@ Do you want to replace it?</source>
     <message>
         <source>&amp;Option...</source>
         <translation>&amp;Параметр...</translation>
-    </message>
-    <message>
-        <source>P&amp;rinting permission</source>
-        <translation>Разрешение на печать (&amp;R)</translation>
     </message>
     <message>
         <source>Show c&amp;rop marks</source>
@@ -3778,10 +3420,6 @@ Do you want to replace it?</source>
         <translation>&amp;Отображать скрытую разметку при открытии и сохранении</translation>
     </message>
     <message>
-        <source>&amp;entries</source>
-        <translation>&amp;записей</translation>
-    </message>
-    <message>
         <source>&amp;Open backup file</source>
         <translation>Открыть ре&amp;зервную копию файла</translation>
     </message>
@@ -3804,10 +3442,6 @@ Do you want to replace it?</source>
     <message>
         <source>Match cho-on &amp;used for vowels</source>
         <translation>тё-он для &amp;гласных</translation>
-    </message>
-    <message>
-        <source>Permit to add co&amp;mments</source>
-        <translation>Разрешение добавлять комментарии (&amp;M)</translation>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
@@ -3848,10 +3482,6 @@ Do you want to replace it?</source>
     <message>
         <source>Print under&amp;line of hidden text</source>
         <translation>Печатать подчеркивание скрытого текста</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation>Расположение резервной копии:</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
@@ -3918,10 +3548,6 @@ Do you want to replace it?</source>
         <translation>Текст без форматирования</translation>
     </message>
     <message>
-        <source>Formatted text</source>
-        <translation>Форматированный текст</translation>
-    </message>
-    <message>
         <source>Login Now</source>
         <translation>Войти сейчас</translation>
     </message>
@@ -3956,10 +3582,6 @@ Do you want to replace it?</source>
     <message>
         <source>Document Permission</source>
         <translation>Разрешение для документа</translation>
-    </message>
-    <message>
-        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
-        <translation>Для перехода по гиперссыл&amp;ке нажмите CTRL и щелкните ее</translation>
     </message>
     <message>
         <source>Print hidden text</source>
@@ -4088,6 +3710,74 @@ Do you want to replace it?</source>
     <message>
         <source>WhenSelected</source>
         <translation>Когда выбрано</translation>
+    </message>
+    <message>
+        <source>Spell</source>
+        <translation>Орфография</translation>
+    </message>
+    <message>
+        <source>Spelling and Grammar</source>
+        <translation>Орфография и грамматика</translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Хранить только самые последние элементы</translation>
+    </message>
+    <message>
+        <source>Check forms:</source>
+        <translation>Режим службы:</translation>
+    </message>
+    <message>
+        <source>English modes:</source>
+        <translation>Режим проверки для английского языка:</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation>Проверка в сети</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>Проверка в автономном режиме</translation>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation>Период хранения</translation>
+    </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation>Отметка домена официального документа (&amp;Я):</translation>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation>Показать домен официального документа (без затенения)</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission</source>
+        <translation>Разрешение на печать (&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation>&amp;записей</translation>
+    </message>
+    <message>
+        <source>Permit to add co&amp;mments</source>
+        <translation>Разрешение добавлять комментарии (&amp;M)</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Расположение резервной копии:</translation>
+    </message>
+    <message>
+        <source>Formatted text</source>
+        <translation>Форматированный текст</translation>
+    </message>
+    <message>
+        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
+        <translation>Для перехода по гиперссыл&amp;ке нажмите CTRL и щелкните ее</translation>
+    </message>
+    <message>
+        <source>Balance &amp;SBCS characters and DBCS characters</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4243,24 +3933,8 @@ Do you want to replace it?</source>
         <translation>Порядок</translation>
     </message>
     <message>
-        <source>Secret &amp;Level:</source>
-        <translation>Уровень конфиденциальности (&amp;П):</translation>
-    </message>
-    <message>
         <source>&amp;Telegram:</source>
         <translation>&amp;Телеграмма</translation>
-    </message>
-    <message>
-        <source>Post &amp;Unit:</source>
-        <translation>Издатель (&amp;З):</translation>
-    </message>
-    <message>
-        <source>Public Release</source>
-        <translation>Сделать общедоступным</translation>
-    </message>
-    <message>
-        <source>Publication &amp;levels:</source>
-        <translation>Опубликовать иерархию (&amp;Л):</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4269,14 +3943,6 @@ Do you want to replace it?</source>
     <message>
         <source>Informed</source>
         <translation>Информирован</translation>
-    </message>
-    <message>
-        <source>UrgencyPlus</source>
-        <translation>Срочная</translation>
-    </message>
-    <message>
-        <source>Inform</source>
-        <translation>Уведомление</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -4295,20 +3961,8 @@ Do you want to replace it?</source>
         <translation>Секрет</translation>
     </message>
     <message>
-        <source>TopSecret</source>
-        <translation>Строго конфиденциально</translation>
-    </message>
-    <message>
         <source>GB0626-2005</source>
         <translation>GB0626-2005</translation>
-    </message>
-    <message>
-        <source>Resolution</source>
-        <translation>Решение</translation>
-    </message>
-    <message>
-        <source>Custom &amp;Fields:</source>
-        <translation>Настраиваемое поле (&amp;Х):</translation>
     </message>
     <message>
         <source>Barcode Production &amp;Unit:</source>
@@ -4317,6 +3971,78 @@ Do you want to replace it?</source>
     <message>
         <source>Barcode Production &amp;Date:</source>
         <translation>Д&amp;ата создания штрих-кода:</translation>
+    </message>
+    <message>
+        <source>AgencyNumber</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation>Уведомление</translation>
+    </message>
+    <message>
+        <source>Decision</source>
+        <translation>Решение</translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation>&amp;Заголовок:</translation>
+    </message>
+    <message>
+        <source>yyyy-MM-dd</source>
+        <translation>гггг-ММ-дд</translation>
+    </message>
+    <message>
+        <source>Please input letters and numbers</source>
+        <translation>Введите буквы и цифры</translation>
+    </message>
+    <message>
+        <source>Specified Range</source>
+        <translation>Указанный диапазон</translation>
+    </message>
+    <message>
+        <source>Confidential</source>
+        <translation>Конфиденциально</translation>
+    </message>
+    <message>
+        <source>Document &amp;Id:</source>
+        <translation>&amp;Идентификатор документа:</translation>
+    </message>
+    <message>
+        <source>Secret &amp;Level:</source>
+        <translation>Уровень конфиденциальности (&amp;П):</translation>
+    </message>
+    <message>
+        <source>Post &amp;Unit:</source>
+        <translation>Издатель (&amp;З):</translation>
+    </message>
+    <message>
+        <source>Public Release</source>
+        <translation>Сделать общедоступным</translation>
+    </message>
+    <message>
+        <source>Publication &amp;levels:</source>
+        <translation>Опубликовать иерархию (&amp;Л):</translation>
+    </message>
+    <message>
+        <source>UrgencyPlus</source>
+        <translation>Срочная</translation>
+    </message>
+    <message>
+        <source>Inform</source>
+        <translation>Уведомление</translation>
+    </message>
+    <message>
+        <source>TopSecret</source>
+        <translation>Строго конфиденциально</translation>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation>Решение</translation>
+    </message>
+    <message>
+        <source>Custom &amp;Fields:</source>
+        <translation>Настраиваемое поле (&amp;Х):</translation>
     </message>
     <message>
         <source>Request Instruction</source>
@@ -4331,10 +4057,6 @@ Do you want to replace it?</source>
         <translation>Идентификатор версии QR-кода (&amp;В):</translation>
     </message>
     <message>
-        <source>AgencyNumber</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Minutes Of Meeting</source>
         <translation>Протокол собрания</translation>
     </message>
@@ -4343,32 +4065,16 @@ Do you want to replace it?</source>
         <translation>Официальный документ (&amp;О):</translation>
     </message>
     <message>
-        <source>Notification</source>
-        <translation>Уведомление</translation>
-    </message>
-    <message>
         <source>Offical Reply</source>
         <translation>Ответ</translation>
-    </message>
-    <message>
-        <source>Decision</source>
-        <translation>Решение</translation>
     </message>
     <message>
         <source>Written &amp;Date:</source>
         <translation>Дата создания документа (&amp;К):</translation>
     </message>
     <message>
-        <source>&amp;Title:</source>
-        <translation>&amp;Заголовок:</translation>
-    </message>
-    <message>
         <source>SubmitTo &amp;Unit:</source>
         <translation>Основной получатель (&amp;С):</translation>
-    </message>
-    <message>
-        <source>yyyy-MM-dd</source>
-        <translation>гггг-ММ-дд</translation>
     </message>
     <message>
         <source>Urgency</source>
@@ -4391,28 +4097,12 @@ Do you want to replace it?</source>
         <translation>Очень срочно</translation>
     </message>
     <message>
-        <source>Please input letters and numbers</source>
-        <translation>Введите буквы и цифры</translation>
-    </message>
-    <message>
         <source>&amp;SecrecyPeriod:</source>
         <translation>Период конфиденциальности (&amp;Е):</translation>
     </message>
     <message>
-        <source>Specified Range</source>
-        <translation>Указанный диапазон</translation>
-    </message>
-    <message>
         <source>Urgency Level:</source>
         <translation>Уровень срочности:</translation>
-    </message>
-    <message>
-        <source>Confidential</source>
-        <translation>Конфиденциально</translation>
-    </message>
-    <message>
-        <source>Document &amp;Id:</source>
-        <translation>&amp;Идентификатор документа:</translation>
     </message>
     <message>
         <source>Barcode &amp;Id:</source>
@@ -6514,6 +6204,21 @@ Cancel:	Return to the dialog.</source>
         <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
         <translation>Показать уровень 1, Показать уровень 2, Показать уровень 3, Показать уровень 4, Показать уровень 5, Показать уровень 6, Показать уровень 7, Показать уровень 8, Показать уровень 9, Показать все уровни</translation>
     </message>
+    <message>
+        <source>Selected text</source>
+        <comment>wps_sSelectedText</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected sections</source>
+        <comment>wps_sSelectedSections</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>wps_sTable</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgCombineCharacters</name>
@@ -7239,28 +6944,8 @@ Cancel:	Return to the dialog.</source>
         <translation>Справа</translation>
     </message>
     <message>
-        <source>Place integral limits to the &amp;side</source>
-        <translation>разместить пределы интегрирования &amp;сбоку</translation>
-    </message>
-    <message>
-        <source>Rig&amp;ht align wrapped lines</source>
-        <translation>Выравнив&amp;ать строки по правому краю</translation>
-    </message>
-    <message>
         <source>Duplicate operators for subtraction as:</source>
         <translation>Дублировать операторы для вычитания как:</translation>
-    </message>
-    <message>
-        <source>Place n-ary limi&amp;ts to the side</source>
-        <translation>разместить n-арные предел&amp;ы сбоку</translation>
-    </message>
-    <message>
-        <source>Copy MathML to the clipboard as &amp;plain text</source>
-        <translation>Копировать MathML в буфер обмена как обычный текст (&amp;П)</translation>
-    </message>
-    <message>
-        <source>Default &amp;font for math regions:</source>
-        <translation>Шрифт по у&amp;молчанию для областей формул:</translation>
     </message>
     <message>
         <source>Before</source>
@@ -7275,18 +6960,6 @@ Cancel:	Return to the dialog.</source>
         <translation>По центру</translation>
     </message>
     <message>
-        <source>&amp;Justification:</source>
-        <translation>&amp;Выравнивание:</translation>
-    </message>
-    <message>
-        <source>Math margins are added to paragraph margins.</source>
-        <translation>Поля области формул добавляются к полям абзаца.</translation>
-    </message>
-    <message>
-        <source>B&amp;reak lines with binary and relational operators:</source>
-        <translation>Р&amp;азрывать строки бинарными операторами и операторами отношений:</translation>
-    </message>
-    <message>
         <source>When copying an equation,</source>
         <translation>При копировании уравнения,</translation>
     </message>
@@ -7299,16 +6972,8 @@ Cancel:	Return to the dialog.</source>
         <translation>Пр&amp;авое поле:</translation>
     </message>
     <message>
-        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
-        <translation>Копировать линейный формат в буфер обмена как обычный текст (&amp;Н)</translation>
-    </message>
-    <message>
         <source>&amp;Left Margin:</source>
         <translation>&amp;Левое поле:</translation>
-    </message>
-    <message>
-        <source>&amp;Use the following settings for math on its own line.</source>
-        <translation>Е&amp;сли формула занимает отдельную строку, используйте следующие параметры.</translation>
     </message>
     <message>
         <source>When building up integrals,</source>
@@ -7319,12 +6984,64 @@ Cancel:	Return to the dialog.</source>
         <translation>Автоматическое преобразование выражений в профессиональный формат</translation>
     </message>
     <message>
-        <source>Centered as group</source>
-        <translation>По центру как группу</translation>
-    </message>
-    <message>
         <source>&amp;Defauls ...</source>
         <translation>По умолчанию...</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Общие</translation>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation>Параметры формул</translation>
+    </message>
+    <message>
+        <source>When building up other n-ary operators,</source>
+        <translation>При построении других n-арных операторов</translation>
+    </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation>разместить пределы интегрирования &amp;сбоку</translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation>Выравнив&amp;ать строки по правому краю</translation>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation>разместить n-арные предел&amp;ы сбоку</translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation>Копировать MathML в буфер обмена как обычный текст (&amp;П)</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>Шрифт по у&amp;молчанию для областей формул:</translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation>&amp;Выравнивание:</translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation>Поля области формул добавляются к полям абзаца.</translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>Р&amp;азрывать строки бинарными операторами и операторами отношений:</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation>Копировать линейный формат в буфер обмена как обычный текст (&amp;Н)</translation>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation>Е&amp;сли формула занимает отдельную строку, используйте следующие параметры.</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>По центру как группу</translation>
     </message>
     <message>
         <source>Display Math</source>
@@ -7339,16 +7056,8 @@ Cancel:	Return to the dialog.</source>
         <translation>Если формула занимает несколько строк:</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation>Общие</translation>
-    </message>
-    <message>
         <source>Place n-ary limits directly abo&amp;ve and below</source>
         <translation>разместить n-арные пределы свер&amp;ху и снизу</translation>
-    </message>
-    <message>
-        <source>Equation Options</source>
-        <translation>Параметры формул</translation>
     </message>
     <message>
         <source>&amp;Indent wrapped lines by:</source>
@@ -7357,10 +7066,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Place integral limits centered above and belo&amp;w</source>
         <translation>разместить пределы интегрирования по центру сверху и с&amp;низу</translation>
-    </message>
-    <message>
-        <source>When building up other n-ary operators,</source>
-        <translation>При построении других n-арных операторов</translation>
     </message>
 </context>
 <context>
@@ -8408,12 +8113,12 @@ use buttons to apply borders</source>
         <translation>Диалог</translation>
     </message>
     <message>
-        <source>Add Unit</source>
-        <translation>Добавить единицу измерения</translation>
-    </message>
-    <message>
         <source>Select All</source>
         <translation>Выделить все</translation>
+    </message>
+    <message>
+        <source>Add Unit</source>
+        <translation>Добавить единицу измерения</translation>
     </message>
 </context>
 <context>
@@ -8423,12 +8128,12 @@ use buttons to apply borders</source>
         <translation>ОК</translation>
     </message>
     <message>
-        <source>Do you want to delete the selected units?</source>
-        <translation>Действительно удалить выбранные единицы измерения?</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected units?</source>
+        <translation>Действительно удалить выбранные единицы измерения?</translation>
     </message>
     <message>
         <source>Error Tips</source>
@@ -8529,10 +8234,6 @@ use buttons to apply borders</source>
         <translation>пт, 2, 0, 1584, 6</translation>
     </message>
     <message>
-        <source>%1 Alignment and Spacing</source>
-        <translation>Выравнивание и интервалы: %1</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
@@ -8547,14 +8248,6 @@ use buttons to apply borders</source>
     <message>
         <source>1.5 Lines</source>
         <translation>1,5 строки</translation>
-    </message>
-    <message>
-        <source>Alignment of %1</source>
-        <translation>Выравнивание: %1</translation>
-    </message>
-    <message>
-        <source>&amp;Minimum distance between baselines:</source>
-        <translation>Минимальное расстояние между базовыми линиями (&amp;М):</translation>
     </message>
     <message>
         <source>Row Spacing</source>
@@ -8591,6 +8284,18 @@ use buttons to apply borders</source>
     <message>
         <source>Minimum distan&amp;nce between column edges:</source>
         <translation>Минимальное рассто&amp;яние между краями столбцов:</translation>
+    </message>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation>Выравнивание и интервалы: %1</translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation>Выравнивание: %1</translation>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation>Минимальное расстояние между базовыми линиями (&amp;М):</translation>
     </message>
 </context>
 <context>
@@ -8962,16 +8667,8 @@ use buttons to apply borders</source>
         <translation>Правка</translation>
     </message>
     <message>
-        <source>This deletion cannot be undone.</source>
-        <translation>Удаление нельзя отменить.</translation>
-    </message>
-    <message>
         <source>Sure to delete this template?</source>
         <translation>Удалить этот шаблон?</translation>
-    </message>
-    <message>
-        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
-        <translation>Не удалось переименовать, удалить или изменить этот шаблон. Возможно, вы открывали его в другом приложении или вкладке.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8998,28 +8695,36 @@ use buttons to apply borders</source>
         <translation>Хорошо</translation>
     </message>
     <message>
-        <source>New Name:</source>
-        <translation>Имя шаблона:</translation>
-    </message>
-    <message>
         <source>My Official Template</source>
         <translation>Мой официальный шаблон</translation>
-    </message>
-    <message>
-        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
-        <translation>Нарушена целостность этого шаблона, его нельзя изменить в режиме разработки. Мы рекомендуем удалить его и создать повторно.</translation>
     </message>
     <message>
         <source>Template Occupied</source>
         <translation>Шаблон занят</translation>
     </message>
     <message>
-        <source>Import Template</source>
-        <translation>Импорт шаблона</translation>
-    </message>
-    <message>
         <source>New Template</source>
         <translation>Новый шаблон разрешения</translation>
+    </message>
+    <message>
+        <source>This deletion cannot be undone.</source>
+        <translation>Удаление нельзя отменить.</translation>
+    </message>
+    <message>
+        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
+        <translation>Не удалось переименовать, удалить или изменить этот шаблон. Возможно, вы открывали его в другом приложении или вкладке.</translation>
+    </message>
+    <message>
+        <source>New Name:</source>
+        <translation>Имя шаблона:</translation>
+    </message>
+    <message>
+        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
+        <translation>Нарушена целостность этого шаблона, его нельзя изменить в режиме разработки. Мы рекомендуем удалить его и создать повторно.</translation>
+    </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Импорт шаблона</translation>
     </message>
     <message>
         <source>Template Corrupt</source>
@@ -9151,13 +8856,13 @@ use buttons to apply borders</source>
         <translation>Разметка официального документа</translation>
     </message>
     <message>
+        <source>Don&apos;t ask again</source>
+        <translation>Больше не спрашивать</translation>
+    </message>
+    <message>
         <source>This is a WPS Official document. It will be opened in 
  &quot;Official Doc Layout&quot; mode to keep its original layout.</source>
         <translation>Это документ WPS Official Document. Он открыт с применением разметки официального документа, чтобы сохранить исходную разметку.</translation>
-    </message>
-    <message>
-        <source>Don&apos;t ask again</source>
-        <translation>Больше не спрашивать</translation>
     </message>
 </context>
 <context>
@@ -11154,6 +10859,18 @@ This change will affect all new documents based on the %1 template.</source>
         <translation>Показать</translation>
     </message>
     <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>FontSize:</source>
+        <translation>Размер шрифта:</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation>Просмотр:</translation>
+    </message>
+    <message>
         <source>TemplateName:</source>
         <translation>Имя:</translation>
     </message>
@@ -11166,20 +10883,8 @@ This change will affect all new documents based on the %1 template.</source>
         <translation>Вставить номера страниц в этот документ во время создания</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>FontSize:</source>
-        <translation>Размер шрифта:</translation>
-    </message>
-    <message>
         <source>ShowFirstPage:</source>
         <translation>Номер первой страницы:</translation>
-    </message>
-    <message>
-        <source>Preview:</source>
-        <translation>Просмотр:</translation>
     </message>
     <message>
         <source>WhiteSpaceSize:</source>
@@ -11588,10 +11293,6 @@ if you want to replace selected result, please click the replace button</source>
         <translation>Укажите порт сервера SMTP</translation>
     </message>
     <message>
-        <source>Mail Config</source>
-        <translation>Конфигурация электронной почты</translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
         <translation>О&amp;тмена</translation>
     </message>
@@ -11606,6 +11307,10 @@ if you want to replace selected result, please click the replace button</source>
     <message>
         <source>%1(Disabled)</source>
         <translation>%1 (отключено)</translation>
+    </message>
+    <message>
+        <source>Mail Config</source>
+        <translation>Конфигурация электронной почты</translation>
     </message>
     <message>
         <source>Send mail b&amp;y</source>
@@ -11680,10 +11385,6 @@ Note that some files may contain macro viruses and possibly perform other harmfu
 (%s)</translation>
     </message>
     <message>
-        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
-        <translation>Текст/формат Word (*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
-    </message>
-    <message>
         <source>The following features cannot be saved in macro-free workbooks:
  · VB project
 To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
@@ -11755,10 +11456,6 @@ Possible reasons:
         <translation>шаблоны</translation>
     </message>
     <message>
-        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
-        <translation>Основной формат файла с шифрованием (*.hdoc)|*.hdoc</translation>
-    </message>
-    <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <translation> Файл &quot;%s&quot; имеет ограничения прав доступа. Файлы с ограничением прав доступа не могут быть вставлены ​​в этот документ.</translation>
     </message>
@@ -11767,10 +11464,6 @@ Possible reasons:
 • Extended orientation</source>
         <translation>
 • Расширенная ориентация</translation>
-    </message>
-    <message>
-        <source>Pasting page breaks in math will be lost.</source>
-        <translation>Разрывы страниц, вставленные в формулы, будут потерны.</translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -11825,10 +11518,6 @@ Please try one of the following.
 (%s)</source>
         <translation>WPS Writer не может открыть этот файл из-за неправильного пароля.
 (%s)</translation>
-    </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
-        <translation>Текст/формат Word (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
     </message>
     <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
@@ -11886,14 +11575,6 @@ Do you want to continue?</source>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <translation>Формат OFD (*.ofd)|*.ofd</translation>
-    </message>
-    <message>
-        <source>Normal Template Damaged</source>
-        <translation>Файл шаблона поврежден.</translation>
-    </message>
-    <message>
-        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
-        <translation>Обычный формат файла с шифрованием (*.pdoc)|*.pdoc</translation>
     </message>
     <message>
         <source>Opening this document will execute the SQL command below:
@@ -11982,10 +11663,6 @@ If you are trying to open the file from your recently used file list on the File
         <translation>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</translation>
     </message>
     <message>
-        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
-        <translation>Знаки абзаца или символы разрыва, вставленные в математические объекты, будут потеряны.</translation>
-    </message>
-    <message>
         <source>
 •Make sure this file is recognizable format.
 (%s)</source>
@@ -12000,10 +11677,6 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <translation>Внесённые изменения повлияют на общий шаблон %s. Сохранить изменения?</translation>
-    </message>
-    <message>
-        <source>Pasting drawn objects in math will be lost.</source>
-        <translation>Нарисованные объекты, вставленные в формулы, будут потеряны.</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -12030,6 +11703,38 @@ Please try one of the following.
 Попробуйте одно из следующих действий. 
 • Поменяйте учетную запись пользователя. 
 • Попросите создателя файлов изменить права доступа для файла.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Текст/формат Word (*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
+        <translation>Основной формат файла с шифрованием (*.hdoc)|*.hdoc</translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <translation>Разрывы страниц, вставленные в формулы, будут потерны.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Текст/формат Word (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>Normal Template Damaged</source>
+        <translation>Файл шаблона поврежден.</translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
+        <translation>Обычный формат файла с шифрованием (*.pdoc)|*.pdoc</translation>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <translation>Знаки абзаца или символы разрыва, вставленные в математические объекты, будут потеряны.</translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <translation>Нарисованные объекты, вставленные в формулы, будут потеряны.</translation>
     </message>
 </context>
 <context>
@@ -13868,10 +13573,6 @@ On/Off</source>
         <translation>Выровнять по правому краю</translation>
     </message>
     <message>
-        <source>Docer Bullet</source>
-        <translation>Шаблон маркированных списков</translation>
-    </message>
-    <message>
         <source>Bold Square-Hollow Bullets</source>
         <translation>Полужирные пустые квадратные маркеры</translation>
     </message>
@@ -14034,10 +13735,6 @@ On/Off</source>
     <message>
         <source>Official Settings</source>
         <translation>Официальные настройки</translation>
-    </message>
-    <message>
-        <source>HVFont Size</source>
-        <translation>Размер шрифта в альбомной/книжной ориентации</translation>
     </message>
     <message>
         <source>online wps style</source>
@@ -14288,12 +13985,24 @@ Replace</source>
 замена</translation>
     </message>
     <message>
-        <source>Search Computer</source>
-        <translation>Локальный поиск</translation>
-    </message>
-    <message>
         <source>Text Identification</source>
         <translation>Идентификация текста</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>Интервал</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
+    </message>
+    <message>
+        <source>HVFont Size</source>
+        <translation>Размер шрифта в альбомной/книжной ориентации</translation>
+    </message>
+    <message>
+        <source>Search Computer</source>
+        <translation>Локальный поиск</translation>
     </message>
     <message>
         <source>Smart Official</source>
@@ -14302,10 +14011,6 @@ Replace</source>
     <message>
         <source>Official Font Name</source>
         <translation>Шрифт</translation>
-    </message>
-    <message>
-        <source>Line Spacing</source>
-        <translation>Интервал</translation>
     </message>
 </context>
 <context>
@@ -14489,10 +14194,6 @@ Replace</source>
     <message>
         <source>More Font Colors</source>
         <translation>Другие цвета шрифта</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>вертикальный</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -14779,6 +14480,10 @@ Replace</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>вертикальный</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_texttool</name>
@@ -14861,10 +14566,6 @@ Replace</source>
     <message>
         <source>Quick Styles</source>
         <translation>Быстрые стили</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Шаблон маркированных списков</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -15259,6 +14960,10 @@ Replace</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu</name>
@@ -15449,10 +15154,6 @@ Replace</source>
     <message>
         <source>Equal Height</source>
         <translation>Равной высоты</translation>
-    </message>
-    <message>
-        <source>Search Material</source>
-        <translation>Поиск материала</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -15682,10 +15383,6 @@ Painter</source>
     <message>
         <source>Right Border</source>
         <translation>Правая граница</translation>
-    </message>
-    <message>
-        <source>Accept Formatting Changes</source>
-        <translation>Принять изменения форматирования</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -15937,10 +15634,6 @@ Painter</source>
         <translation>Вставить фигуру перед</translation>
     </message>
     <message>
-        <source>Reject Formating Changes</source>
-        <translation>Отклонить изменения форматирования</translation>
-    </message>
-    <message>
         <source>Format Frame</source>
         <translation>Формат рамки</translation>
     </message>
@@ -15967,10 +15660,6 @@ Painter</source>
     <message>
         <source>Top and Bottom</source>
         <translation>Сверху вниз</translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation>Извлечь текст из изображения</translation>
     </message>
     <message>
         <source>Official Line Interval: </source>
@@ -16148,10 +15837,6 @@ Add-Ins</source>
     <message>
         <source>Relative to Page</source>
         <translation>Относительно страницы</translation>
-    </message>
-    <message>
-        <source>Column Alignment</source>
-        <translation>Выравнивание столбцов</translation>
     </message>
     <message>
         <source>AppStore Evaluation</source>
@@ -16510,14 +16195,6 @@ Diagonal Line in Cell</source>
         <translation>Повернуть вправо на 90°</translation>
     </message>
     <message>
-        <source>Increase Argument Size</source>
-        <translation>Увеличить размер аргумента</translation>
-    </message>
-    <message>
-        <source>Decrease Argument Size</source>
-        <translation>Уменьшить размер аргумента</translation>
-    </message>
-    <message>
         <source>Object</source>
         <translation>Объект</translation>
     </message>
@@ -16528,14 +16205,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Axis Title</source>
         <translation>Название оси</translation>
-    </message>
-    <message>
-        <source>VFont Size</source>
-        <translation>Размер шрифта в книжной ориентации</translation>
-    </message>
-    <message>
-        <source>HFont Size</source>
-        <translation>Размер шрифта в альбомной ориентации</translation>
     </message>
     <message>
         <source>Secondary Major Horizontal</source>
@@ -16581,10 +16250,6 @@ Diagonal Line in Cell</source>
         <source>Bottom</source>
         <comment>OMathMatOrEqArr</comment>
         <translation>По нижнему краю</translation>
-    </message>
-    <message>
-        <source>Line Spacing:</source>
-        <translation>Междустрочный интервал:</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -17215,10 +16880,6 @@ Diagonal Line in Cell</source>
         <translation>Стрелки</translation>
     </message>
     <message>
-        <source>Matrix Spacing...</source>
-        <translation>Интервалы матрицы...</translation>
-    </message>
-    <message>
         <source>Restrict Permission by People</source>
         <translation>Ограничить разрешения пользователей</translation>
     </message>
@@ -17487,10 +17148,6 @@ Diagonal Line in Cell</source>
         <translation>Центральная метка табуляции</translation>
     </message>
     <message>
-        <source>Border Properties</source>
-        <translation>Свойства границы</translation>
-    </message>
-    <message>
         <source>Watermark</source>
         <translation>Подложка</translation>
     </message>
@@ -17509,10 +17166,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>More Layout Options</source>
         <translation>Параметры разметки</translation>
-    </message>
-    <message>
-        <source>Stretch N-ary character</source>
-        <translation>Растяжение N-арного знака</translation>
     </message>
     <message>
         <source>Format Category Label</source>
@@ -17539,24 +17192,12 @@ Diagonal Line in Cell</source>
         <translation>Непрерывно</translation>
     </message>
     <message>
-        <source>Right Format Painter Popup</source>
-        <translation>Постоянное форматирование по образцу</translation>
-    </message>
-    <message>
         <source>View Historical Backup</source>
         <translation>Просмотр журнала архивации</translation>
     </message>
     <message>
-        <source>Expand to Object Width</source>
-        <translation>Увеличить по ширине объекта</translation>
-    </message>
-    <message>
         <source>AutoPoint</source>
         <translation>Автоточка</translation>
-    </message>
-    <message>
-        <source>Remove Superscript</source>
-        <translation>Удалить надстрочный знак</translation>
     </message>
     <message>
         <source>Format Major Gridlines</source>
@@ -17656,10 +17297,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Left Tab</source>
         <translation>Левая метка табуляции</translation>
-    </message>
-    <message>
-        <source>Equation Array Spacing...</source>
-        <translation>Интервалы массива уравнений...</translation>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
@@ -18054,10 +17691,6 @@ Diagonal Line in Cell</source>
         <translation>Выровнять по левому краю</translation>
     </message>
     <message>
-        <source>Align at =</source>
-        <translation>Выровнять по</translation>
-    </message>
-    <message>
         <source>Character Shading</source>
         <translation>Заливка знака</translation>
     </message>
@@ -18204,10 +17837,6 @@ Diagonal Line in Cell</source>
         <translation>Интервал</translation>
     </message>
     <message>
-        <source>Remove Subscript</source>
-        <translation>Удалить подстрочный знак</translation>
-    </message>
-    <message>
         <source>Delete Series</source>
         <translation>Удалить серию</translation>
     </message>
@@ -18299,6 +17928,82 @@ Diagonal Line in Cell</source>
     <message>
         <source>Smooth Point</source>
         <translation>Гладкий узел</translation>
+    </message>
+    <message>
+        <source>Search Material</source>
+        <translation>Поиск материала</translation>
+    </message>
+    <message>
+        <source>Accept Formatting Changes</source>
+        <translation>Принять изменения форматирования</translation>
+    </message>
+    <message>
+        <source>Reject Formating Changes</source>
+        <translation>Отклонить изменения форматирования</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation>Извлечь текст из изображения</translation>
+    </message>
+    <message>
+        <source>Column Alignment</source>
+        <translation>Выравнивание столбцов</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation>Увеличить размер аргумента</translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation>Уменьшить размер аргумента</translation>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Размер шрифта в книжной ориентации</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Размер шрифта в альбомной ориентации</translation>
+    </message>
+    <message>
+        <source>Line Spacing:</source>
+        <translation>Междустрочный интервал:</translation>
+    </message>
+    <message>
+        <source>Matrix Spacing...</source>
+        <translation>Интервалы матрицы...</translation>
+    </message>
+    <message>
+        <source>Border Properties</source>
+        <translation>Свойства границы</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation>Растяжение N-арного знака</translation>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation>Постоянное форматирование по образцу</translation>
+    </message>
+    <message>
+        <source>Expand to Object Width</source>
+        <translation>Увеличить по ширине объекта</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation>Удалить надстрочный знак</translation>
+    </message>
+    <message>
+        <source>Equation Array Spacing...</source>
+        <translation>Интервалы массива уравнений...</translation>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation>Выровнять по</translation>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation>Удалить подстрочный знак</translation>
     </message>
 </context>
 <context>
@@ -18436,10 +18141,6 @@ Diagonal Line in Cell</source>
         <translation>Вставить</translation>
     </message>
     <message>
-        <source>Ofd Print Preview</source>
-        <translation>Предварительный просмотр эффекта OFD</translation>
-    </message>
-    <message>
         <source>Print</source>
         <translation>Печать</translation>
     </message>
@@ -18480,10 +18181,6 @@ Diagonal Line in Cell</source>
         <translation>Вписать текст</translation>
     </message>
     <message>
-        <source>JdeControl Popup Menu</source>
-        <translation>Меню управление Jde</translation>
-    </message>
-    <message>
         <source>Split Window</source>
         <translation>Разделить окно</translation>
     </message>
@@ -18494,10 +18191,6 @@ Diagonal Line in Cell</source>
     <message>
         <source>Browse by Section</source>
         <translation>Просмотр по разделу</translation>
-    </message>
-    <message>
-        <source>SplitMerge</source>
-        <translation>Разделение/объединение документов</translation>
     </message>
     <message>
         <source>Document Collaboration</source>
@@ -18548,10 +18241,6 @@ Break</source>
     <message>
         <source>Browse by Page</source>
         <translation>Просмотр по странице</translation>
-    </message>
-    <message>
-        <source>Center Algin</source>
-        <translation>Выравнивание по центру</translation>
     </message>
     <message>
         <source>Print 
@@ -18650,10 +18339,6 @@ Directly</source>
 в текст</translation>
     </message>
     <message>
-        <source>Equation Accent Popup Menu</source>
-        <translation>Функция выделения</translation>
-    </message>
-    <message>
         <source>Justify</source>
         <translation>Выровнять по ширине</translation>
     </message>
@@ -18723,10 +18408,6 @@ Directly</source>
         <translation>Защита включена</translation>
     </message>
     <message>
-        <source>Equation Delimiter Popup Menu</source>
-        <translation>Функция круглых скобок</translation>
-    </message>
-    <message>
         <source>ReadingView Text Context Menu</source>
         <translation>Контекстное меню режима чтения</translation>
     </message>
@@ -18759,10 +18440,6 @@ Directly</source>
         <translation>Предварительный просмотр ссылок</translation>
     </message>
     <message>
-        <source>Equation Normal Popup Menu</source>
-        <translation>Математическое уравнение</translation>
-    </message>
-    <message>
         <source>New Blank Document</source>
         <translation>Новый документ</translation>
     </message>
@@ -18773,10 +18450,6 @@ Directly</source>
     <message>
         <source>Editing is limited</source>
         <translation>Редактирование ограничено</translation>
-    </message>
-    <message>
-        <source>Document Barcode Properties</source>
-        <translation>Свойства QR-кода</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -18801,10 +18474,6 @@ Directly</source>
     <message>
         <source>0.8 pt</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Equation Multi Equations Popup Menu</source>
-        <translation>Математическое уравнение</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
@@ -18863,10 +18532,6 @@ Directly</source>
         <translation>Форматирование</translation>
     </message>
     <message>
-        <source>Equation Script Popup Menu</source>
-        <translation>Функция сценария</translation>
-    </message>
-    <message>
         <source>Inline Picture</source>
         <translation>Встроенные рисунки</translation>
     </message>
@@ -18910,10 +18575,6 @@ Directly</source>
     <message>
         <source>PDF to Excel</source>
         <translation>PDF в Excel</translation>
-    </message>
-    <message>
-        <source>WPS Writer Official Template</source>
-        <translation>Шаблон WPS Official Document</translation>
     </message>
     <message>
         <source>Online Icon</source>
@@ -19008,10 +18669,6 @@ Directly</source>
         <translation>Выровнять по центру</translation>
     </message>
     <message>
-        <source>Equation Operator Popup Menu</source>
-        <translation>Функция оператора</translation>
-    </message>
-    <message>
         <source>Demote</source>
         <translation>Понизить</translation>
     </message>
@@ -19026,10 +18683,6 @@ Directly</source>
     <message>
         <source>New from Other Templates</source>
         <translation>Создание на другом шаблоне</translation>
-    </message>
-    <message>
-        <source>Document Barcode</source>
-        <translation>QR-код официального документа</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -19140,14 +18793,6 @@ Directly</source>
         <translation>Окно задач</translation>
     </message>
     <message>
-        <source>TpConfidentialityLevelKeyWord</source>
-        <translation>Проверить ключевые слова конфиденциального уровня</translation>
-    </message>
-    <message>
-        <source>Equation Matrix Popup Menu</source>
-        <translation>Функция матрицы</translation>
-    </message>
-    <message>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
@@ -19184,10 +18829,6 @@ Directly</source>
         <translation>Символ</translation>
     </message>
     <message>
-        <source>Equation Radical Popup Menu</source>
-        <translation>Функция корня</translation>
-    </message>
-    <message>
         <source>Full Screen</source>
         <translation>Режим 
 чтения</translation>
@@ -19221,20 +18862,12 @@ Directly</source>
         <translation>Настройка печати</translation>
     </message>
     <message>
-        <source>Right Algin</source>
-        <translation>Выравнивание по правому краю</translation>
-    </message>
-    <message>
         <source>Drop Caps</source>
         <translation>Буквицы</translation>
     </message>
     <message>
         <source>NewChart Gridline</source>
         <translation>Линии сетки</translation>
-    </message>
-    <message>
-        <source>Equation Large Operator Popup Menu</source>
-        <translation>Функция крупного оператора</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -19249,16 +18882,8 @@ Directly</source>
         <translation>Переключить на предыдущее окно</translation>
     </message>
     <message>
-        <source>Left Algin</source>
-        <translation>Выравнивание по левому краю</translation>
-    </message>
-    <message>
         <source>Word Count</source>
         <translation>Статистика</translation>
-    </message>
-    <message>
-        <source>HelpDocSearch</source>
-        <translation>Поиск</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -19341,10 +18966,6 @@ Directly</source>
         <translation>Понизить до основного текста</translation>
     </message>
     <message>
-        <source>Equation BorderBox Popup Menu</source>
-        <translation>Функция границы</translation>
-    </message>
-    <message>
         <source>Hyperlink</source>
         <translation>Гиперссылка</translation>
     </message>
@@ -19355,10 +18976,6 @@ Directly</source>
     <message>
         <source>Properties</source>
         <translation>Свойства</translation>
-    </message>
-    <message>
-        <source>Equation Limit Popup Menu</source>
-        <translation>Функция ограничения</translation>
     </message>
     <message>
         <source>Dropdown Form Field Context Menu</source>
@@ -19760,10 +19377,6 @@ Directly</source>
         <translation>Новая подпись</translation>
     </message>
     <message>
-        <source>Equation Group Popup Menu</source>
-        <translation>Функция группирования</translation>
-    </message>
-    <message>
         <source>Split Vertically</source>
         <translation>Разделить по вертикали</translation>
     </message>
@@ -19785,10 +19398,6 @@ Layout</source>
         <translation>Подчеркнутый</translation>
     </message>
     <message>
-        <source>PCLaTeXEquation</source>
-        <translation>LaTeX</translation>
-    </message>
-    <message>
         <source>DocerWordArt</source>
         <translation type="unfinished"/>
     </message>
@@ -19804,10 +19413,6 @@ Navigation</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Разрыв обтекания текстом</translation>
-    </message>
-    <message>
-        <source>setting MB</source>
-        <translation>Отметить как конфиденциальный</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -19881,10 +19486,6 @@ Screen</source>
     <message>
         <source>Text Context Menu</source>
         <translation>Контекстное меню текста</translation>
-    </message>
-    <message>
-        <source>page number recommend style</source>
-        <translation>Номер страницы шаблона</translation>
     </message>
     <message>
         <source>Drag Context Menu</source>
@@ -20027,14 +19628,6 @@ Screen</source>
         <translation>Пакетное извлечение</translation>
     </message>
     <message>
-        <source>Equation Function Popup Menu</source>
-        <translation>Функции</translation>
-    </message>
-    <message>
-        <source>Equation Fraction Popup Menu</source>
-        <translation>Функция дробей</translation>
-    </message>
-    <message>
         <source>Footnotes Hyperlink Context Menu</source>
         <translation>Контекстное меню гиперссылки сносок</translation>
     </message>
@@ -20153,14 +19746,6 @@ Screen</source>
         <translation>Щелкните для разрешения или отмены фунций рецензирования</translation>
     </message>
     <message>
-        <source>Equation Array Popup Menu</source>
-        <translation>Функция массива</translation>
-    </message>
-    <message>
-        <source>Align Adjustify</source>
-        <translation>Выравнивание</translation>
-    </message>
-    <message>
         <source>Hide the Toolbar</source>
         <translation>Скрыть панель инструментов</translation>
     </message>
@@ -20197,20 +19782,12 @@ Screen</source>
         <translation>Увеличить отступ</translation>
     </message>
     <message>
-        <source>Equation Bar Popup Menu</source>
-        <translation>Функция строки</translation>
-    </message>
-    <message>
         <source>DocumentField</source>
         <translation>Поле документа</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Документ Microsoft Word 97-2003 (*.doc)</translation>
-    </message>
-    <message>
-        <source>Global Center Algin</source>
-        <translation>Глобальное выравнивание по центру</translation>
     </message>
     <message>
         <source>Done Comment</source>
@@ -20259,6 +19836,138 @@ Screen</source>
     <message>
         <source>Online Textbox</source>
         <translation>Текстовое поле шаблона</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Предварительный просмотр эффекта OFD</translation>
+    </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation>Меню управление Jde</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Разделение/объединение документов</translation>
+    </message>
+    <message>
+        <source>Center Algin</source>
+        <translation>Выравнивание по центру</translation>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Функция выделения</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Функция круглых скобок</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Математическое уравнение</translation>
+    </message>
+    <message>
+        <source>Document Barcode Properties</source>
+        <translation>Свойства QR-кода</translation>
+    </message>
+    <message>
+        <source>Equation Multi Equations Popup Menu</source>
+        <translation>Математическое уравнение</translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Функция сценария</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Template</source>
+        <translation>Шаблон WPS Official Document</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>Функция оператора</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>QR-код официального документа</translation>
+    </message>
+    <message>
+        <source>TpConfidentialityLevelKeyWord</source>
+        <translation>Проверить ключевые слова конфиденциального уровня</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Функция матрицы</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Функция корня</translation>
+    </message>
+    <message>
+        <source>Right Algin</source>
+        <translation>Выравнивание по правому краю</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Функция крупного оператора</translation>
+    </message>
+    <message>
+        <source>Left Algin</source>
+        <translation>Выравнивание по левому краю</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Поиск</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Функция границы</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Функция ограничения</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Функция группирования</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation>LaTeX</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Отметить как конфиденциальный</translation>
+    </message>
+    <message>
+        <source>page number recommend style</source>
+        <translation>Номер страницы шаблона</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>Функции</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Функция дробей</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Функция массива</translation>
+    </message>
+    <message>
+        <source>Align Adjustify</source>
+        <translation>Выравнивание</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Функция строки</translation>
+    </message>
+    <message>
+        <source>Global Center Algin</source>
+        <translation>Глобальное выравнивание по центру</translation>
+    </message>
+    <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20351,10 +20060,6 @@ Screen</source>
         <translation>200%</translation>
     </message>
     <message>
-        <source>Proofread Wrong</source>
-        <translation>Коррекция неправильных слов</translation>
-    </message>
-    <message>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -20401,10 +20106,6 @@ Screen</source>
     <message>
         <source>Shape Compatibility Mode</source>
         <translation>Режим совместимости фигур</translation>
-    </message>
-    <message>
-        <source>Ofd Print Preview</source>
-        <translation>Предварительный просмотр эффекта OFD</translation>
     </message>
     <message>
         <source>Print</source>
@@ -20515,10 +20216,6 @@ Changes</source>
         <translation>Автоматически показать/скрыть ленту</translation>
     </message>
     <message>
-        <source>Proofread Leader</source>
-        <translation>Коррекция линии выноски</translation>
-    </message>
-    <message>
         <source>Cloud File Management</source>
         <translation>Управление файлами в Cloud </translation>
     </message>
@@ -20591,20 +20288,8 @@ Changes</source>
         <translation>Вставка</translation>
     </message>
     <message>
-        <source>Proofread Repeate</source>
-        <translation>Коррекция повторяющихся слов</translation>
-    </message>
-    <message>
         <source>Service Expired</source>
         <translation>Срок действия службы истек</translation>
-    </message>
-    <message>
-        <source>VFont Size</source>
-        <translation>Размер шрифта в книжной ориентации</translation>
-    </message>
-    <message>
-        <source>HFont Size</source>
-        <translation>Размер шрифта в альбомной ориентации</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -20781,10 +20466,6 @@ Changes</source>
     <message>
         <source>Combine Characters</source>
         <translation>Комбинированные символы</translation>
-    </message>
-    <message>
-        <source>PDFTOCad</source>
-        <translation>Из PDF в CAD</translation>
     </message>
     <message>
         <source>FormatProof</source>
@@ -21014,14 +20695,6 @@ Comment</source>
         <translation>Выделить</translation>
     </message>
     <message>
-        <source>Proofread Sens</source>
-        <translation>Коррекция неприемлемых слов</translation>
-    </message>
-    <message>
-        <source>Proofread Punc</source>
-        <translation>Коррекция пунктуации</translation>
-    </message>
-    <message>
         <source>Hide the Toolbar</source>
         <translation>Скрыть панель инструментов</translation>
     </message>
@@ -21076,6 +20749,42 @@ Painter</source>
     <message>
         <source>Sign Out</source>
         <translation>Выйти</translation>
+    </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation>Коррекция неправильных слов</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Предварительный просмотр эффекта OFD</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation>Коррекция линии выноски</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation>Коррекция повторяющихся слов</translation>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Размер шрифта в книжной ориентации</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Размер шрифта в альбомной ориентации</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation>Коррекция неприемлемых слов</translation>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation>Коррекция пунктуации</translation>
     </message>
 </context>
 <context>
@@ -21140,16 +20849,16 @@ Painter</source>
         <translation>Нет предложений правописания</translation>
     </message>
     <message>
-        <source>Use the new version features</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Spelling check is complete.</source>
         <translation>Проверка правописания завершена.</translation>
     </message>
     <message>
         <source>Text in %1 is not being checked. Do you want to add it as a proofreading language?</source>
         <translation>Текст на %1 языке не проверяется. Добавить его как язык корректуры?</translation>
+    </message>
+    <message>
+        <source>Use the new version features</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21509,16 +21218,16 @@ Painter</source>
         <translation>Разрешение для документа</translation>
     </message>
     <message>
-        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
-        <translation>После настройки результатом будет защищенный PDF-документ в Интернете. Откройте его с помощью версии PDF Security.</translation>
-    </message>
-    <message>
         <source>Convert other &amp;styles to bookmarks</source>
         <translation>Преобразовать другие &amp;стили в закладки</translation>
     </message>
     <message>
         <source>Export PDF File</source>
         <translation>Преобразовать в файл PDF</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation>После настройки результатом будет защищенный PDF-документ в Интернете. Откройте его с помощью версии PDF Security.</translation>
     </message>
 </context>
 <context>
@@ -22290,10 +21999,6 @@ Changes</source>
         <translation>&apos; отсутствует в вашей системе. Всё равно хотите его использовать?</translation>
     </message>
     <message>
-        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
-        <translation>Все документы WPS Writer (*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</translation>
-    </message>
-    <message>
         <source>Add Horizontal Border</source>
         <translation>Добавить горизонтальную границу</translation>
     </message>
@@ -22567,10 +22272,6 @@ Check</source>
         <translation>Один щелчок редактирования верхнего колонтитула</translation>
     </message>
     <message>
-        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
-        <translation>Не удалось преобразовать пустой документ. Укажите содержимое или откройте другой документ и повторите попытку.</translation>
-    </message>
-    <message>
         <source>Insert AutoText</source>
         <translation>Вставить автотекст</translation>
     </message>
@@ -22597,10 +22298,6 @@ Check</source>
         <translation>Форматированный</translation>
     </message>
     <message>
-        <source>Ofd Print Preview Fit Page</source>
-        <translation>По размеру страницы</translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>Поиск</translation>
     </message>
@@ -22619,10 +22316,6 @@ Check</source>
     <message>
         <source>Format line number</source>
         <translation>Формат номера строки</translation>
-    </message>
-    <message>
-        <source>FontName And FontSize</source>
-        <translation>Шрифт и его размер</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -22651,10 +22344,6 @@ Check</source>
     <message>
         <source>Insert Table Element</source>
         <translation>Вставить элемент таблицы</translation>
-    </message>
-    <message>
-        <source>Put Custom Line Spacing</source>
-        <translation>Интервал между строками</translation>
     </message>
     <message>
         <source>Set Xml Mapping</source>
@@ -22715,10 +22404,6 @@ Check</source>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
         <translation>&quot;Две страницы&quot;,-4</translation>
-    </message>
-    <message>
-        <source>Custom Page Size</source>
-        <translation>Нестандартный размер</translation>
     </message>
     <message>
         <source>Increase Indentation</source>
@@ -23290,10 +22975,6 @@ Protection</source>
         <translation>Печать напрямую</translation>
     </message>
     <message>
-        <source>Ofd Print Preview Fit Width</source>
-        <translation>По ширине</translation>
-    </message>
-    <message>
         <source>Subscript</source>
         <translation>Подстрочный шрифт</translation>
     </message>
@@ -23308,10 +22989,6 @@ Protection</source>
     <message>
         <source>Bullets</source>
         <translation>Маркеры</translation>
-    </message>
-    <message>
-        <source>Insert Official Glossary</source>
-        <translation>Вставить элементы официального документа</translation>
     </message>
     <message>
         <source>Table Simple 1</source>
@@ -23621,10 +23298,6 @@ Protection</source>
         <translation>Скрыть пробел</translation>
     </message>
     <message>
-        <source>Insert Document Barcode</source>
-        <translation>Вставить QR-код официального документа</translation>
-    </message>
-    <message>
         <source>Change List Level</source>
         <translation>Изменить уровень списка</translation>
     </message>
@@ -23732,10 +23405,6 @@ Protection</source>
     <message>
         <source>Light Shading Accent 6</source>
         <translation>Светлая заливка — Акцент 6</translation>
-    </message>
-    <message>
-        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
-        <translation>Все документы WPS Writer (*.wps; *.wpt)</translation>
     </message>
     <message>
         <source>Open Xml Map</source>
@@ -23954,10 +23623,6 @@ Protection</source>
         <translation>Обновить указатель полей</translation>
     </message>
     <message>
-        <source>OfficialToNormal</source>
-        <translation>Официальный документ в обычный документ</translation>
-    </message>
-    <message>
         <source>Paste Source Formatting</source>
         <translation>Вставить исходное форматирование</translation>
     </message>
@@ -24124,12 +23789,6 @@ Protection</source>
         <translation>Двойной щелчок для редактирования нижнего колонтитула</translation>
     </message>
     <message>
-        <source>Your file is under protection. Please do the following to unprotect it and retry:
-Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
-        <translation>Ваш документ защищен. Выполните следующие действия, чтобы отменить защиту и повторить попытку:
-Перейдите в раздел &quot;Проверка&quot; — &quot;Панель задач&quot; — &quot;Ограничения редактирования&quot; и нажмите &quot;Выключить защиту&quot;.</translation>
-    </message>
-    <message>
         <source>Translate to Traditional Chinese</source>
         <translation>Перевод на традиционный китайский</translation>
     </message>
@@ -24144,10 +23803,6 @@ Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quo
     <message>
         <source>Edit Comment</source>
         <translation>Редактировать примечание</translation>
-    </message>
-    <message>
-        <source>Transpose Table</source>
-        <translation>Переключение строки/столбца</translation>
     </message>
     <message>
         <source>Clear Line Space</source>
@@ -24176,10 +23831,6 @@ Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quo
     <message>
         <source>After Spacing: %.2f Lines</source>
         <translation>После интервала: %.2f строки</translation>
-    </message>
-    <message>
-        <source>Modify Document Barcode</source>
-        <translation>Изменить QR-код официального документа</translation>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
@@ -24280,6 +23931,97 @@ Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quo
     <message>
         <source>Show/Hide Formatting Marks</source>
         <translation>Показать / cкрыть знаки форматирования</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
+        <translation>Все документы WPS Writer (*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</translation>
+    </message>
+    <message>
+        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
+        <translation>Не удалось преобразовать пустой документ. Укажите содержимое или откройте другой документ и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Page</source>
+        <translation>По размеру страницы</translation>
+    </message>
+    <message>
+        <source>FontName And FontSize</source>
+        <translation>Шрифт и его размер</translation>
+    </message>
+    <message>
+        <source>Put Custom Line Spacing</source>
+        <translation>Интервал между строками</translation>
+    </message>
+    <message>
+        <source>Custom Page Size</source>
+        <translation>Нестандартный размер</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Width</source>
+        <translation>По ширине</translation>
+    </message>
+    <message>
+        <source>Insert Official Glossary</source>
+        <translation>Вставить элементы официального документа</translation>
+    </message>
+    <message>
+        <source>Insert Document Barcode</source>
+        <translation>Вставить QR-код официального документа</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
+        <translation>Все документы WPS Writer (*.wps; *.wpt)</translation>
+    </message>
+    <message>
+        <source>OfficialToNormal</source>
+        <translation>Официальный документ в обычный документ</translation>
+    </message>
+    <message>
+        <source>Your file is under protection. Please do the following to unprotect it and retry:
+Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
+        <translation>Ваш документ защищен. Выполните следующие действия, чтобы отменить защиту и повторить попытку:
+Перейдите в раздел &quot;Проверка&quot; — &quot;Панель задач&quot; — &quot;Ограничения редактирования&quot; и нажмите &quot;Выключить защиту&quot;.</translation>
+    </message>
+    <message>
+        <source>Transpose Table</source>
+        <translation>Переключение строки/столбца</translation>
+    </message>
+    <message>
+        <source>Modify Document Barcode</source>
+        <translation>Изменить QR-код официального документа</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add rows and columns</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxVersion_Paste</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>TxVersion_InsertPageNumber</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <comment>TxVersion_InsertTable</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Apply Table Style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Typing</source>
+        <comment>TxVersion_Key_Type</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -25827,10 +25569,6 @@ Cells</source>
         <translation>Отзывы и информация о продукции</translation>
     </message>
     <message>
-        <source>New Wps Document</source>
-        <translation>Новый текст</translation>
-    </message>
-    <message>
         <source>Print</source>
         <translation>Печать</translation>
     </message>
@@ -25983,10 +25721,6 @@ Cells</source>
         <translation>О программе WPS Writer</translation>
     </message>
     <message>
-        <source>ExportToPpt</source>
-        <translation>Вывести в формате PPTX</translation>
-    </message>
-    <message>
         <source>View Permissions</source>
         <translation>Просмотр разрешений</translation>
     </message>
@@ -26025,6 +25759,14 @@ Cells</source>
     <message>
         <source>Create Online Document</source>
         <translation>Создать онлайн-документ</translation>
+    </message>
+    <message>
+        <source>New Wps Document</source>
+        <translation>Новый текст</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation>Вывести в формате PPTX</translation>
     </message>
 </context>
 <context>
@@ -27221,10 +26963,6 @@ Number</source>
         <translation>П&amp;еред:</translation>
     </message>
     <message>
-        <source>Official Line Interval</source>
-        <translation>Интервал между строками</translation>
-    </message>
-    <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
         <translation>зн, 2, 0, 316,8, 0.5</translation>
     </message>
@@ -27371,6 +27109,10 @@ Number</source>
     <message>
         <source>Right-to-le&amp;ft</source>
         <translation>С&amp;права налево</translation>
+    </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Интервал между строками</translation>
     </message>
 </context>
 <context>
@@ -29359,10 +29101,6 @@ WordArt</translation>
         <translation>Слияние с другим новым документом</translation>
     </message>
     <message>
-        <source>Open fol&amp;der after merge</source>
-        <translation>Открыть каталог с новым документом после объединения (&amp;Г)</translation>
-    </message>
-    <message>
         <source>&amp;Modify...</source>
         <translation>&amp;Изменить...</translation>
     </message>
@@ -29385,6 +29123,10 @@ WordArt</translation>
     <message>
         <source>Save as ty&amp;pe:</source>
         <translation>Сохранить &amp;как:</translation>
+    </message>
+    <message>
+        <source>Open fol&amp;der after merge</source>
+        <translation>Открыть каталог с новым документом после объединения (&amp;Г)</translation>
     </message>
 </context>
 <context>
@@ -29540,10 +29282,6 @@ WordArt</translation>
         <translation>Вы&amp;деление</translation>
     </message>
     <message>
-        <source>set sy info(&amp;S)</source>
-        <translation>Задать сведения об источнике</translation>
-    </message>
-    <message>
         <source>All pages in range</source>
         <translation>Все страницы диапазона</translation>
     </message>
@@ -29638,6 +29376,10 @@ WordArt</translation>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12.</source>
         <translation>Введите номера страниц и/или диапазон страниц, разделяя их запятыми. Например, 1,3,5-12.</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation>Задать сведения об источнике</translation>
     </message>
 </context>
 <context>
@@ -30755,10 +30497,6 @@ WordArt</translation>
         <translation>2,25 пт</translation>
     </message>
     <message>
-        <source>Convert Text in Picture</source>
-        <translation>Преобразовывайте тексты в изображении в текстовый формат</translation>
-    </message>
-    <message>
         <source>Rotate Right 90°</source>
         <translation>Повернуть вправо на 90°</translation>
     </message>
@@ -30845,10 +30583,6 @@ WordArt</translation>
     <message>
         <source>Atristic Clip</source>
         <translation>Картинка</translation>
-    </message>
-    <message>
-        <source>Text Translation in Image</source>
-        <translation>Переводите тексты в изображении с английского/китайского языков и обратно</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -30986,10 +30720,6 @@ On/Off</source>
         <translation>Контур изображения</translation>
     </message>
     <message>
-        <source>Picture Batch to PDF</source>
-        <translation>Пакетное преобразование изображения в PDF</translation>
-    </message>
-    <message>
         <source>Bring in Front of Text</source>
         <translation>Поместить перед текстом</translation>
     </message>
@@ -31062,6 +30792,18 @@ Size</source>
     <message>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
+    </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Преобразовывайте тексты в изображении в текстовый формат</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Переводите тексты в изображении с английского/китайского языков и обратно</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Пакетное преобразование изображения в PDF</translation>
     </message>
 </context>
 <context>
@@ -31288,10 +31030,6 @@ Size</source>
         <translation>2,25 пт</translation>
     </message>
     <message>
-        <source>Convert Text in Picture</source>
-        <translation>Преобразовывайте тексты в изображении в текстовый формат</translation>
-    </message>
-    <message>
         <source>Rotate Right 90°</source>
         <translation>Повернуть вправо на 90°</translation>
     </message>
@@ -31358,10 +31096,6 @@ Size</source>
     <message>
         <source>Equal Size</source>
         <translation>Равного размера</translation>
-    </message>
-    <message>
-        <source>Text Translation in Image</source>
-        <translation>Переводите тексты в изображении с английского/китайского языков и обратно</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -31542,10 +31276,6 @@ Size</source>
         <translation>Контур изображения</translation>
     </message>
     <message>
-        <source>Picture Batch to PDF</source>
-        <translation>Пакетное преобразование изображения в PDF</translation>
-    </message>
-    <message>
         <source>Bring in Front of Text</source>
         <translation>Поместить перед текстом</translation>
     </message>
@@ -31633,6 +31363,18 @@ Size</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Преобразовывайте тексты в изображении в текстовый формат</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Переводите тексты в изображении с английского/китайского языков и обратно</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Пакетное преобразование изображения в PDF</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -31688,10 +31430,6 @@ Size</source>
     <message>
         <source>Place on Left</source>
         <translation>Разместить слева</translation>
-    </message>
-    <message>
-        <source>ComposeAssist</source>
-        <translation>Помощник письма</translation>
     </message>
     <message>
         <source>Document Views</source>
@@ -31832,577 +31570,9 @@ Screen</source>
 Window</source>
         <translation>Новое окно</translation>
     </message>
-</context>
-<context>
-    <name>ongmani.proxycommands</name>
     <message>
-        <source>Proofread Wrong</source>
-        <translation>Коррекция неправильных слов</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Справка</translation>
-    </message>
-    <message>
-        <source>News</source>
-        <translation>Новости</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Сохранить</translation>
-    </message>
-    <message>
-        <source>Batch Delete</source>
-        <translation>Пакетное удаление</translation>
-    </message>
-    <message>
-        <source>HeaderFooterGroup</source>
-        <translation>Группа верхних и нижних колонтитулов</translation>
-    </message>
-    <message>
-        <source>Quick</source>
-        <translation>Быстрый</translation>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation>Поделиться</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <translation>Таблицу</translation>
-    </message>
-    <message>
-        <source>Insert Pictures From Phone</source>
-        <translation>Вставить изображения с телефона</translation>
-    </message>
-    <message>
-        <source>Shortcut Setting</source>
-        <translation>Параметр ярлыка</translation>
-    </message>
-    <message>
-        <source>Auto Save File</source>
-        <translation>Автосохранение файла</translation>
-    </message>
-    <message>
-        <source>Screen Grab Ocr</source>
-        <translation>Захват экрана и OCR</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <comment>Menu</comment>
-        <translation>Снимок экрана</translation>
-    </message>
-    <message>
-        <source>document authentication</source>
-        <translation>Проверка подлинности документа</translation>
-    </message>
-    <message>
-        <source>Show Toolbar</source>
-        <translation>Показать панель инструментов</translation>
-    </message>
-    <message>
-        <source>Document Fix</source>
-        <translation>Восстановление файлов</translation>
-    </message>
-    <message>
-        <source>Hardware Encryption</source>
-        <translation>Аппаратное шифрование</translation>
-    </message>
-    <message>
-        <source>Setting Link</source>
-        <translation>Настройка ссылки</translation>
-    </message>
-    <message>
-        <source>Feedback and Advice</source>
-        <translation>Отзывы и предложения</translation>
-    </message>
-    <message>
-        <source>Picture Style</source>
-        <translation>Стиль рисунка</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Вставить рисунок из Интернета</translation>
-    </message>
-    <message>
-        <source>Add Picture Frame</source>
-        <translation>Добавить рамку рисунка</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation>Экспорт в рисунок</translation>
-    </message>
-    <message>
-        <source>Online Fonts</source>
-        <translation>Шрифты из Интернета</translation>
-    </message>
-    <message>
-        <source>Online Chart</source>
-        <translation>Онлайн-диаграмма</translation>
-    </message>
-    <message>
-        <source>Core Encryption</source>
-        <translation>Основное шифрование</translation>
-    </message>
-    <message>
-        <source>File Send</source>
-        <translation>Отправить на мобильное устройство</translation>
-    </message>
-    <message>
-        <source>IconLibrary</source>
-        <translation>Библиотека значков</translation>
-    </message>
-    <message>
-        <source>Link Preview</source>
-        <translation>Предварительный просмотр ссылок</translation>
-    </message>
-    <message>
-        <source>All Comments</source>
-        <translation>Все комментарии</translation>
-    </message>
-    <message>
-        <source>Proofread Leader</source>
-        <translation>Коррекция линии выноски</translation>
-    </message>
-    <message>
-        <source>Sentence Translation</source>
-        <translation>Перевод предложения</translation>
-    </message>
-    <message>
-        <source>Output Voice</source>
-        <translation>Речевой вывод</translation>
-    </message>
-    <message>
-        <source>Screen Recorder</source>
-        <translation>Средство записи экрана</translation>
-    </message>
-    <message>
-        <source>Ornamentation</source>
-        <translation>Украшение</translation>
-    </message>
-    <message>
-        <source>Document History</source>
-        <translation>История документа</translation>
-    </message>
-    <message>
-        <source>New Doc Recommend</source>
-        <translation>Может быть интересно</translation>
-    </message>
-    <message>
-        <source>Split or Merge</source>
-        <translation>разделение или слияние</translation>
-    </message>
-    <message>
-        <source>SmartArt</source>
-        <translation>WPSArt</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation>Рисунок из Интернета</translation>
-    </message>
-    <message>
-        <source>Set Language</source>
-        <translation>Установить язык</translation>
-    </message>
-    <message>
-        <source>PDF To Excel</source>
-        <translation>PDF в Excel</translation>
-    </message>
-    <message>
-        <source>Cover Pages</source>
-        <translation>Титульные страницы</translation>
-    </message>
-    <message>
-        <source>Send E-mail</source>
-        <translation>Отправить сообщение электронной почты</translation>
-    </message>
-    <message>
-        <source>Share documents.</source>
-        <translation>Предоставить общий доступ к документам другим пользователям</translation>
-    </message>
-    <message>
-        <source>New Doc Gallery</source>
-        <translation>Галерея</translation>
-    </message>
-    <message>
-        <source>Help And QA</source>
-        <translation>Справка и часто задаваемые вопросы</translation>
-    </message>
-    <message>
-        <source>Ever Sheet</source>
-        <translation>Лист Ever</translation>
-    </message>
-    <message>
-        <source>AutoShapes</source>
-        <translation>Автофигуры</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Передать</translation>
-    </message>
-    <message>
-        <source>More Color Schemes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Footer</source>
-        <translation>Нижний колонтитул</translation>
-    </message>
-    <message>
-        <source>Header</source>
-        <translation>Верхний колонтитул</translation>
-    </message>
-    <message>
-        <source>ShortThemeColor</source>
-        <translation>Цвет темы</translation>
-    </message>
-    <message>
-        <source>Proofread Repeate</source>
-        <translation>Коррекция повторяющихся слов</translation>
-    </message>
-    <message>
-        <source>ShortBatchDelete</source>
-        <translation>Удалить</translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation>Переименовать</translation>
-    </message>
-    <message>
-        <source>CADTOPdf</source>
-        <translation>Из CAD в PDF</translation>
-    </message>
-    <message>
-        <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Скрывать текущее окно при снимке экрана</translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <translation>Фигуры</translation>
-    </message>
-    <message>
-        <source>PDF To PPT</source>
-        <translation>PDF в PPT</translation>
-    </message>
-    <message>
-        <source>Xie De</source>
-        <translation>Xie De</translation>
-    </message>
-    <message>
-        <source>Insert Symbol</source>
-        <translation>Вставить символ</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation>Текст в речь</translation>
-    </message>
-    <message>
-        <source>PDFCompress</source>
-        <translation>Сжатие PDF</translation>
-    </message>
-    <message>
-        <source>Proofread</source>
-        <translation>Проверка правописания</translation>
-    </message>
-    <message>
-        <source>Send pictures</source>
-        <translation>Отправить изображения</translation>
-    </message>
-    <message>
-        <source>Online TableStyle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PaperFormat</source>
-        <translation>Макет страницы</translation>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation>Преобразовать в файл PDF</translation>
-    </message>
-    <message>
-        <source>My Picture</source>
-        <translation>Мое изображение</translation>
-    </message>
-    <message>
-        <source>Share To QQ</source>
-        <translation>Передать в QQ</translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation>Общий доступ к файлам</translation>
-    </message>
-    <message>
-        <source>AutoFindContents</source>
-        <translation>Автоматическая идентификация содержимого</translation>
-    </message>
-    <message>
-        <source>Online Picture Gallery</source>
-        <translation>Галерея</translation>
-    </message>
-    <message>
-        <source>Web Preview</source>
-        <translation>Создать ссылку и передать</translation>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Разместить в веб-странице микроблога</translation>
-    </message>
-    <message>
-        <source>Insert LaTeX Equation</source>
-        <translation>Используйте LaTeX для быстрого редактирования и вставки формул.</translation>
-    </message>
-    <message>
-        <source>DocerFeature</source>
-        <translation>Интеллектуальный помощник</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation>Вставить рисунок из Интернета</translation>
-    </message>
-    <message>
-        <source>Document Encryption</source>
-        <translation>Шифрование документа</translation>
-    </message>
-    <message>
-        <source>Send By E-mail</source>
-        <translation>Отправить по электронной почте</translation>
-    </message>
-    <message>
-        <source>Open from Cloud Docs</source>
-        <translation>Открыть из Cloud Docs</translation>
-    </message>
-    <message>
-        <source>PDF Merge</source>
-        <translation>Объединение PDF</translation>
-    </message>
-    <message>
-        <source>PDF Split</source>
-        <translation>Разделение PDF</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation>Перевести</translation>
-    </message>
-    <message>
-        <source>Translate selected text</source>
-        <translation>Перевод выделенного текста</translation>
-    </message>
-    <message>
-        <source>PDFTOCad</source>
-        <translation>Из PDF в CAD</translation>
-    </message>
-    <message>
-        <source>Document Translate</source>
-        <translation>Перевод документа</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>Разместить в микроблоге</translation>
-    </message>
-    <message>
-        <source>FormatProof</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Password Encryption</source>
-        <translation>Шифрование пароля</translation>
-    </message>
-    <message>
-        <source>Check Users Permissions</source>
-        <translation>Проверка разрешений 
-пользователя</translation>
-    </message>
-    <message>
-        <source>Account Encryption</source>
-        <translation>Шифрование учетной записи</translation>
-    </message>
-    <message>
-        <source>ShortChart</source>
-        <translation>Диаграмма</translation>
-    </message>
-    <message>
-        <source>ExportToPpt</source>
-        <translation>Вывести в формате PPTX</translation>
-    </message>
-    <message>
-        <source>ShortWordArt</source>
-        <translation>Фигурный текст</translation>
-    </message>
-    <message>
-        <source>Decryption</source>
-        <translation>Расшифровка</translation>
-    </message>
-    <message>
-        <source>Encryption</source>
-        <translation>Шифрование</translation>
-    </message>
-    <message>
-        <source>Xie De Menu</source>
-        <translation>Меню Xie De</translation>
-    </message>
-    <message>
-        <source>PCLatexEquation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide current window when taking screenshots</source>
-        <translation>Скрывать текущее окно при создании снимков экрана</translation>
-    </message>
-    <message>
-        <source>DocerThemeColor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Comment</source>
-        <translation>Примечание</translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation>Перевод</translation>
-    </message>
-    <message>
-        <source>Full-Text Speech</source>
-        <translation>Полный текст в речь</translation>
-    </message>
-    <message>
-        <source>Materials</source>
-        <translation>Материалы</translation>
-    </message>
-    <message>
-        <source>DocerWordArt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation>Структура микроблога WPS</translation>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation>PDF в 
-Word</translation>
-    </message>
-    <message>
-        <source>DocerTableStyle</source>
-        <translation>Стиль таблицы</translation>
-    </message>
-    <message>
-        <source>Global Search</source>
-        <translation>Глобальный поиск</translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation>Отзывы</translation>
-    </message>
-    <message>
-        <source>Save to Cloud Docs</source>
-        <translation>Сохранить в Cloud Docs</translation>
-    </message>
-    <message>
-        <source>WpsPackagePlugin</source>
-        <translation>Подключаемый модуль пакета WPS</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>Снимок экрана</translation>
-    </message>
-    <message>
-        <source>PaperCheck</source>
-        <translation>Проверка бумаги</translation>
-    </message>
-    <message>
-        <source>DocerChart</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DocumentContentStudioHint</source>
-        <translation>Извлечь</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertAll</source>
-        <translation>Преобразовать все изображения в документе</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertOne</source>
-        <translation>Преобразовать выбранное изображение</translation>
-    </message>
-    <message>
-        <source>OnlineDiagram</source>
-        <translation>Онлайн-схема</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Рисунки из Интернета</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Автоматическое резервное копирование</translation>
-    </message>
-    <message>
-        <source>Collaboration</source>
-        <translation>Совместная работа</translation>
-    </message>
-    <message>
-        <source>DocumentContentStudio</source>
-        <translation>Пакетное извлечение</translation>
-    </message>
-    <message>
-        <source>Share To Wechat</source>
-        <translation>Передать в WeChat</translation>
-    </message>
-    <message>
-        <source>GroupSending</source>
-        <translation>Отправить в группу</translation>
-    </message>
-    <message>
-        <source>ProcessOnEntry</source>
-        <translation>Обрабатывать на входе</translation>
-    </message>
-    <message>
-        <source>Add or view comments in your document.</source>
-        <translation>Добавляйте комментарии в документ или просматривайте уже добавленные комментарии.</translation>
-    </message>
-    <message>
-        <source>Insert Comment</source>
-        <translation>Вставить примечание</translation>
-    </message>
-    <message>
-        <source>Check Mine Permission</source>
-        <translation>Проверка моего
-разрешения</translation>
-    </message>
-    <message>
-        <source>Proofread Sens</source>
-        <translation>Коррекция неприемлемых слов</translation>
-    </message>
-    <message>
-        <source>Proofread Punc</source>
-        <translation>Коррекция пунктуации</translation>
-    </message>
-    <message>
-        <source>Selection Speech</source>
-        <translation>Выбранный текст в речь</translation>
-    </message>
-    <message>
-        <source>Document Permission</source>
-        <translation>Разрешение для документа</translation>
-    </message>
-    <message>
-        <source>Scan to Mobile</source>
-        <translation>Отсканировать на
-мобильное устройство</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation>С телефона</translation>
-    </message>
-    <message>
-        <source>Normal Encryption</source>
-        <translation>Нормальное шифрование</translation>
-    </message>
-    <message>
-        <source>Online Textbox</source>
-        <translation>Текстовое поле шаблона</translation>
+        <source>ComposeAssist</source>
+        <translation>Помощник письма</translation>
     </message>
 </context>
 <context>
@@ -32449,10 +31619,6 @@ Word</translation>
     <message>
         <source>Select Folder:</source>
         <translation>Выбрать каталог:</translation>
-    </message>
-    <message>
-        <source>Keep backup cache file days must be between %1 and %2!</source>
-        <translation>Период хранения резервных копий файлов должен быть в диапазоне от %1 до %2.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -32547,16 +31713,20 @@ Word</translation>
         <translation>Настроить ленту</translation>
     </message>
     <message>
-        <source>This will delete all backup files in your computer. Sure to delete ?</source>
-        <translation>Действительно удалить все локальные резервные копии файлов?</translation>
-    </message>
-    <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>У вас нет разрешения на сохранение файлов резервной копии в &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Расписание резервного копирования</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation>Период хранения резервных копий файлов должен быть в диапазоне от %1 до %2.</translation>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation>Действительно удалить все локальные резервные копии файлов?</translation>
     </message>
 </context>
 <context>
@@ -32704,10 +31874,6 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Align Right</source>
         <translation>Выровнять по левому краю</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Шаблон маркированных списков</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
@@ -32909,6 +32075,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Gridlines</source>
         <translation>Линии сетки</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
     </message>
 </context>
 <context>
@@ -33597,6 +32767,22 @@ This change will affect all new documents based on the %1 template.</source>
         <translation>Готово</translation>
     </message>
     <message>
+        <source>templates</source>
+        <translation>шаблоны</translation>
+    </message>
+    <message>
+        <source>importing:</source>
+        <translation>импорт:</translation>
+    </message>
+    <message>
+        <source>Template aleady exits</source>
+        <translation>Шаблон уже существует</translation>
+    </message>
+    <message>
+        <source>Failed to copy file</source>
+        <translation>Не удалось скопировать файл</translation>
+    </message>
+    <message>
         <source>Document had been protected</source>
         <translation>В этом документе есть ограничения на редактирование. Отключите ограничения на редактирование на боковой панели справа и повторите импорт.</translation>
     </message>
@@ -33617,20 +32803,8 @@ This change will affect all new documents based on the %1 template.</source>
         <translation>Список ошибок импорта_</translation>
     </message>
     <message>
-        <source>templates</source>
-        <translation>шаблоны</translation>
-    </message>
-    <message>
         <source>No read and write permissions, please turn it on in &quot;Properties&quot; - &quot;Permissions&quot;, or use another system user account and try again</source>
         <translation>Нет разрешений на чтение/запись. Включите разрешения в разделе &quot;Свойства&quot; — &quot;Разрешения&quot; или смените системную учетную запись и повторите попытку.</translation>
-    </message>
-    <message>
-        <source>importing:</source>
-        <translation>импорт:</translation>
-    </message>
-    <message>
-        <source>Template aleady exits</source>
-        <translation>Шаблон уже существует</translation>
     </message>
     <message>
         <source>succeeded</source>
@@ -33639,10 +32813,6 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>template(s) failed import</source>
         <translation> шабл. не удалось импортировать.</translation>
-    </message>
-    <message>
-        <source>Failed to copy file</source>
-        <translation>Не удалось скопировать файл</translation>
     </message>
     <message>
         <source>GotoNew</source>
@@ -33852,10 +33022,6 @@ Break</source>
         <translation>Галерея диаграмм</translation>
     </message>
     <message>
-        <source>Document Barcode</source>
-        <translation>QR-код официального документа</translation>
-    </message>
-    <message>
         <source>Fields</source>
         <translation>Поля</translation>
     </message>
@@ -33891,6 +33057,10 @@ Break</source>
     <message>
         <source>Shapes</source>
         <translation>Фигуры</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation>таблицы</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -34117,8 +33287,8 @@ Number</source>
         <translation>Всего Y страниц</translation>
     </message>
     <message>
-        <source>Tables</source>
-        <translation>таблицы</translation>
+        <source>Document Barcode</source>
+        <translation>QR-код официального документа</translation>
     </message>
 </context>
 <context>
@@ -34192,12 +33362,12 @@ to a Word XML document.</source>
         <translation>Недопустимое число.</translation>
     </message>
     <message>
-        <source>Email application is not available. Please choose anther email application</source>
-        <translation>Недопустимый почтовый клиент. Повторите выбор.</translation>
-    </message>
-    <message>
         <source>WPS Writer</source>
         <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Email application is not available. Please choose anther email application</source>
+        <translation>Недопустимый почтовый клиент. Повторите выбор.</translation>
     </message>
     <message>
         <source>Email account is not available. Please reconfigure another account</source>
@@ -34235,6 +33405,14 @@ to a Word XML document.</source>
         <translation>&lt; Назад</translation>
     </message>
     <message>
+        <source>PushButton</source>
+        <translation>Нажать кнопку</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Текстовая подпись</translation>
+    </message>
+    <message>
         <source>Searching, Has Searched %1Content</source>
         <translation>Поиск... Найдено элементов: %1.</translation>
     </message>
@@ -34253,16 +33431,8 @@ Support title, content</source>
 Поддержка поиска в заголовках и основном тексте</translation>
     </message>
     <message>
-        <source>PushButton</source>
-        <translation>Нажать кнопку</translation>
-    </message>
-    <message>
         <source>TypeFilter:</source>
         <translation>Тип файла:</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Текстовая подпись</translation>
     </message>
     <message>
         <source>Search Path:</source>
@@ -34428,10 +33598,6 @@ Break</source>
         <translation>Удалить оглавление</translation>
     </message>
     <message>
-        <source>Bottom Line Script(Multi Angency)</source>
-        <translation>Статья по убыванию (несколько учреждений)</translation>
-    </message>
-    <message>
         <source>Separating Line</source>
         <translation>Разделение строк</translation>
     </message>
@@ -34452,18 +33618,6 @@ Break</source>
         <translation>WPSArt</translation>
     </message>
     <message>
-        <source>Document Parts</source>
-        <translation>Части официального документа</translation>
-    </message>
-    <message>
-        <source>Top Line Script(Multi Angency)</source>
-        <translation>Статья по возрастанию (несколько учреждений)</translation>
-    </message>
-    <message>
-        <source>2 Rows Editions</source>
-        <translation>Двухстрочный знак редактирования</translation>
-    </message>
-    <message>
         <source>Breaks</source>
         <translation>Разрывы</translation>
     </message>
@@ -34474,10 +33628,6 @@ Break</source>
     <message>
         <source>Letter</source>
         <translation>Письмо</translation>
-    </message>
-    <message>
-        <source>Insert Vertical</source>
-        <translation>Вставить страницу с книжной ориентацией</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -34494,10 +33644,6 @@ Break</source>
     <message>
         <source>From File</source>
         <translation>Из файла</translation>
-    </message>
-    <message>
-        <source>Top Line</source>
-        <translation>Верхний разделитель</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
@@ -34536,10 +33682,6 @@ Break</source>
         <translation>Удалить все номера страниц</translation>
     </message>
     <message>
-        <source>Normal Line</source>
-        <translation>Стандартный разделитель</translation>
-    </message>
-    <message>
         <source>Multi-line Text</source>
         <translation>Многострочный текст</translation>
     </message>
@@ -34570,14 +33712,6 @@ Break</source>
     <message>
         <source>Draw Table</source>
         <translation>Нарисовать таблицу</translation>
-    </message>
-    <message>
-        <source>Single Row Edition</source>
-        <translation>Однострочный знак редактирования</translation>
-    </message>
-    <message>
-        <source>Insert Horizontal</source>
-        <translation>Вставить страницу с альбомной ориентацией</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -34644,10 +33778,6 @@ Break</source>
         <translation>Одна организация</translation>
     </message>
     <message>
-        <source>5 points Star Line</source>
-        <translation>Разделитель в виде 5-конечной звезды</translation>
-    </message>
-    <message>
         <source>DocumentField</source>
         <translation>Поле документа</translation>
     </message>
@@ -34658,20 +33788,60 @@ Number</source>
 страницы</translation>
     </message>
     <message>
-        <source>Top Line Script(Single Angency)</source>
-        <translation>Статья по возрастанию (одно учреждение)</translation>
-    </message>
-    <message>
-        <source>Bottom Line Script(Single Angency)</source>
-        <translation>Статья по убыванию (одно учреждение)</translation>
-    </message>
-    <message>
         <source>From Phone</source>
         <translation>С телефона</translation>
     </message>
     <message>
         <source>More Symbols</source>
         <translation>Другие символы</translation>
+    </message>
+    <message>
+        <source>Bottom Line Script(Multi Angency)</source>
+        <translation>Статья по убыванию (несколько учреждений)</translation>
+    </message>
+    <message>
+        <source>Document Parts</source>
+        <translation>Части официального документа</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Multi Angency)</source>
+        <translation>Статья по возрастанию (несколько учреждений)</translation>
+    </message>
+    <message>
+        <source>2 Rows Editions</source>
+        <translation>Двухстрочный знак редактирования</translation>
+    </message>
+    <message>
+        <source>Insert Vertical</source>
+        <translation>Вставить страницу с книжной ориентацией</translation>
+    </message>
+    <message>
+        <source>Top Line</source>
+        <translation>Верхний разделитель</translation>
+    </message>
+    <message>
+        <source>Normal Line</source>
+        <translation>Стандартный разделитель</translation>
+    </message>
+    <message>
+        <source>Single Row Edition</source>
+        <translation>Однострочный знак редактирования</translation>
+    </message>
+    <message>
+        <source>Insert Horizontal</source>
+        <translation>Вставить страницу с альбомной ориентацией</translation>
+    </message>
+    <message>
+        <source>5 points Star Line</source>
+        <translation>Разделитель в виде 5-конечной звезды</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Single Angency)</source>
+        <translation>Статья по возрастанию (одно учреждение)</translation>
+    </message>
+    <message>
+        <source>Bottom Line Script(Single Angency)</source>
+        <translation>Статья по убыванию (одно учреждение)</translation>
     </message>
 </context>
 <context>
@@ -34917,10 +34087,6 @@ Cloud Docs</translation>
         <translation>Просмотр хранилища файлов</translation>
     </message>
     <message>
-        <source>BatchRename</source>
-        <translation>Переименовать файлы партиями</translation>
-    </message>
-    <message>
         <source>Paper Typeset</source>
         <translation>Набор бумаги</translation>
     </message>
@@ -34936,6 +34102,590 @@ Cloud Docs</translation>
     <message>
         <source>Document security</source>
         <translation>Безопасность документа</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Переименовать файлы партиями</translation>
+    </message>
+    <message>
+        <source>Picture to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Help</source>
+        <translation>Справка</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>Новости</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Сохранить</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Пакетное удаление</translation>
+    </message>
+    <message>
+        <source>HeaderFooterGroup</source>
+        <translation>Группа верхних и нижних колонтитулов</translation>
+    </message>
+    <message>
+        <source>Quick</source>
+        <translation>Быстрый</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Поделиться</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>Таблицу</translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>Вставить изображения с телефона</translation>
+    </message>
+    <message>
+        <source>Shortcut Setting</source>
+        <translation>Параметр ярлыка</translation>
+    </message>
+    <message>
+        <source>Auto Save File</source>
+        <translation>Автосохранение файла</translation>
+    </message>
+    <message>
+        <source>Screen Grab Ocr</source>
+        <translation>Захват экрана и OCR</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <comment>Menu</comment>
+        <translation>Снимок экрана</translation>
+    </message>
+    <message>
+        <source>document authentication</source>
+        <translation>Проверка подлинности документа</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Показать панель инструментов</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Восстановление файлов</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation>Аппаратное шифрование</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation>Настройка ссылки</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation>Отзывы и предложения</translation>
+    </message>
+    <message>
+        <source>Picture Style</source>
+        <translation>Стиль рисунка</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Вставить рисунок из Интернета</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation>Добавить рамку рисунка</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Экспорт в рисунок</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation>Шрифты из Интернета</translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation>Онлайн-диаграмма</translation>
+    </message>
+    <message>
+        <source>Core Encryption</source>
+        <translation>Основное шифрование</translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation>Отправить на мобильное устройство</translation>
+    </message>
+    <message>
+        <source>IconLibrary</source>
+        <translation>Библиотека значков</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>Предварительный просмотр ссылок</translation>
+    </message>
+    <message>
+        <source>All Comments</source>
+        <translation>Все комментарии</translation>
+    </message>
+    <message>
+        <source>Sentence Translation</source>
+        <translation>Перевод предложения</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>Речевой вывод</translation>
+    </message>
+    <message>
+        <source>Screen Recorder</source>
+        <translation>Средство записи экрана</translation>
+    </message>
+    <message>
+        <source>Ornamentation</source>
+        <translation>Украшение</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>История документа</translation>
+    </message>
+    <message>
+        <source>New Doc Recommend</source>
+        <translation>Может быть интересно</translation>
+    </message>
+    <message>
+        <source>Split or Merge</source>
+        <translation>разделение или слияние</translation>
+    </message>
+    <message>
+        <source>SmartArt</source>
+        <translation>WPSArt</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Рисунок из Интернета</translation>
+    </message>
+    <message>
+        <source>Set Language</source>
+        <translation>Установить язык</translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation>PDF в Excel</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <translation>Титульные страницы</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>Отправить сообщение электронной почты</translation>
+    </message>
+    <message>
+        <source>Share documents.</source>
+        <translation>Предоставить общий доступ к документам другим пользователям</translation>
+    </message>
+    <message>
+        <source>New Doc Gallery</source>
+        <translation>Галерея</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>Справка и часто задаваемые вопросы</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation>Лист Ever</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation>Автофигуры</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Передать</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation>Нижний колонтитул</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation>Верхний колонтитул</translation>
+    </message>
+    <message>
+        <source>ShortThemeColor</source>
+        <translation>Цвет темы</translation>
+    </message>
+    <message>
+        <source>ShortBatchDelete</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Переименовать</translation>
+    </message>
+    <message>
+        <source>CADTOPdf</source>
+        <translation>Из CAD в PDF</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Скрывать текущее окно при снимке экрана</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>Фигуры</translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation>PDF в PPT</translation>
+    </message>
+    <message>
+        <source>Xie De</source>
+        <translation>Xie De</translation>
+    </message>
+    <message>
+        <source>Insert Symbol</source>
+        <translation>Вставить символ</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Текст в речь</translation>
+    </message>
+    <message>
+        <source>PDFCompress</source>
+        <translation>Сжатие PDF</translation>
+    </message>
+    <message>
+        <source>Proofread</source>
+        <translation>Проверка правописания</translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>Отправить изображения</translation>
+    </message>
+    <message>
+        <source>Online TableStyle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PaperFormat</source>
+        <translation>Макет страницы</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Преобразовать в файл PDF</translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation>Мое изображение</translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation>Передать в QQ</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>Общий доступ к файлам</translation>
+    </message>
+    <message>
+        <source>AutoFindContents</source>
+        <translation>Автоматическая идентификация содержимого</translation>
+    </message>
+    <message>
+        <source>Online Picture Gallery</source>
+        <translation>Галерея</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>Создать ссылку и передать</translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation>Разместить в веб-странице микроблога</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>Вставить рисунок из Интернета</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>Шифрование документа</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation>Отправить по электронной почте</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation>Открыть из Cloud Docs</translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation>Объединение PDF</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation>Разделение PDF</translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation>Перевести</translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation>Перевод выделенного текста</translation>
+    </message>
+    <message>
+        <source>Document Translate</source>
+        <translation>Перевод документа</translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation>Разместить в микроблоге</translation>
+    </message>
+    <message>
+        <source>FormatProof</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation>Шифрование пароля</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Проверка разрешений 
+пользователя</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation>Шифрование учетной записи</translation>
+    </message>
+    <message>
+        <source>ShortChart</source>
+        <translation>Диаграмма</translation>
+    </message>
+    <message>
+        <source>ShortWordArt</source>
+        <translation>Фигурный текст</translation>
+    </message>
+    <message>
+        <source>Decryption</source>
+        <translation>Расшифровка</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Шифрование</translation>
+    </message>
+    <message>
+        <source>Xie De Menu</source>
+        <translation>Меню Xie De</translation>
+    </message>
+    <message>
+        <source>Hide current window when taking screenshots</source>
+        <translation>Скрывать текущее окно при создании снимков экрана</translation>
+    </message>
+    <message>
+        <source>DocerThemeColor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Примечание</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Перевод</translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>Полный текст в речь</translation>
+    </message>
+    <message>
+        <source>Materials</source>
+        <translation>Материалы</translation>
+    </message>
+    <message>
+        <source>DocerWordArt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation>Структура микроблога WPS</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF в 
+Word</translation>
+    </message>
+    <message>
+        <source>DocerTableStyle</source>
+        <translation>Стиль таблицы</translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>Глобальный поиск</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Отзывы</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>Сохранить в Cloud Docs</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Подключаемый модуль пакета WPS</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Снимок экрана</translation>
+    </message>
+    <message>
+        <source>PaperCheck</source>
+        <translation>Проверка бумаги</translation>
+    </message>
+    <message>
+        <source>DocerChart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocumentContentStudioHint</source>
+        <translation>Извлечь</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>Преобразовать все изображения в документе</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>Преобразовать выбранное изображение</translation>
+    </message>
+    <message>
+        <source>OnlineDiagram</source>
+        <translation>Онлайн-схема</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Рисунки из Интернета</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation>Совместная работа</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudio</source>
+        <translation>Пакетное извлечение</translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation>Передать в WeChat</translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation>Отправить в группу</translation>
+    </message>
+    <message>
+        <source>ProcessOnEntry</source>
+        <translation>Обрабатывать на входе</translation>
+    </message>
+    <message>
+        <source>Add or view comments in your document.</source>
+        <translation>Добавляйте комментарии в документ или просматривайте уже добавленные комментарии.</translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <translation>Вставить примечание</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Проверка моего
+разрешения</translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>Выбранный текст в речь</translation>
+    </message>
+    <message>
+        <source>Document Permission</source>
+        <translation>Разрешение для документа</translation>
+    </message>
+    <message>
+        <source>Scan to Mobile</source>
+        <translation>Отсканировать на
+мобильное устройство</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>С телефона</translation>
+    </message>
+    <message>
+        <source>Normal Encryption</source>
+        <translation>Нормальное шифрование</translation>
+    </message>
+    <message>
+        <source>Online Textbox</source>
+        <translation>Текстовое поле шаблона</translation>
+    </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation>Коррекция неправильных слов</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation>Коррекция линии выноски</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation>Коррекция повторяющихся слов</translation>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation>Используйте LaTeX для быстрого редактирования и вставки формул.</translation>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation>Интеллектуальный помощник</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation>Вывести в формате PPTX</translation>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation>Коррекция неприемлемых слов</translation>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation>Коррекция пунктуации</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36897,10 +36647,6 @@ Cancel:	Return to the dialog.</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <source>File Size(Low)</source>
-        <translation>Размер файла (от наибольшего к наименьшему)</translation>
-    </message>
-    <message>
         <source>The search key string cannot be empty</source>
         <translation>Укажите строку ключа поиска</translation>
     </message>
@@ -36913,12 +36659,28 @@ Cancel:	Return to the dialog.</source>
         <translation>Время ожидания поиска истекло</translation>
     </message>
     <message>
-        <source>Open file by local</source>
-        <translation>Открыть исходный файл на локальном устройстве</translation>
-    </message>
-    <message>
         <source>All Type</source>
         <translation>Все типы</translation>
+    </message>
+    <message>
+        <source>Click to select folder</source>
+        <translation>Нажмите, чтобы выбрать папку</translation>
+    </message>
+    <message>
+        <source>Sort Type</source>
+        <translation>Тип сортировки</translation>
+    </message>
+    <message>
+        <source>The search path is not valid</source>
+        <translation>Недопустимый путь поиска</translation>
+    </message>
+    <message>
+        <source>File Size(Low)</source>
+        <translation>Размер файла (от наибольшего к наименьшему)</translation>
+    </message>
+    <message>
+        <source>Open file by local</source>
+        <translation>Открыть исходный файл на локальном устройстве</translation>
     </message>
     <message>
         <source>Searching, Has Searched %1Content</source>
@@ -36949,20 +36711,8 @@ Cancel:	Return to the dialog.</source>
         <translation>Найдено элементов: %1.</translation>
     </message>
     <message>
-        <source>Click to select folder</source>
-        <translation>Нажмите, чтобы выбрать папку</translation>
-    </message>
-    <message>
         <source>Start Time</source>
         <translation>Время начала</translation>
-    </message>
-    <message>
-        <source>Sort Type</source>
-        <translation>Тип сортировки</translation>
-    </message>
-    <message>
-        <source>The search path is not valid</source>
-        <translation>Недопустимый путь поиска</translation>
     </message>
     <message>
         <source>Update Time(Low)</source>
@@ -37788,16 +37538,16 @@ Cancel:	Return to the dialog.</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
-        <translation>Сохранить оформление в разделе &quot;Формат&quot; &gt; &quot;Мои шаблоны&quot;</translation>
-    </message>
-    <message>
         <source>Element Configure</source>
         <translation>Настройка элемента</translation>
     </message>
     <message>
         <source>Add and delete elements in this official document.</source>
         <translation>Добавление и удаление элементов в этом официальном документе.</translation>
+    </message>
+    <message>
+        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
+        <translation>Сохранить оформление в разделе &quot;Формат&quot; &gt; &quot;Мои шаблоны&quot;</translation>
     </message>
 </context>
 <context>
@@ -37854,14 +37604,6 @@ Cancel:	Return to the dialog.</source>
         <translation>Последняя страница</translation>
     </message>
     <message>
-        <source>OfdPrintPreviewSettings</source>
-        <translation>Параметры</translation>
-    </message>
-    <message>
-        <source>PrevPage</source>
-        <translation>Предыдущая страница</translation>
-    </message>
-    <message>
         <source>Export To OFD</source>
         <translation>Экспорт в OFD</translation>
     </message>
@@ -37880,6 +37622,14 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Zoom Ratio</source>
         <translation>Масштаб</translation>
+    </message>
+    <message>
+        <source>OfdPrintPreviewSettings</source>
+        <translation>Параметры</translation>
+    </message>
+    <message>
+        <source>PrevPage</source>
+        <translation>Предыдущая страница</translation>
     </message>
 </context>
 <context>
@@ -37903,10 +37653,6 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Print</source>
         <translation>Печать</translation>
-    </message>
-    <message>
-        <source>PrintMode</source>
-        <translation>Режим</translation>
     </message>
     <message>
         <source>Print Order:</source>
@@ -37971,6 +37717,10 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Custom Margins</source>
         <translation>Настраиваемые поля</translation>
+    </message>
+    <message>
+        <source>PrintMode</source>
+        <translation>Режим</translation>
     </message>
 </context>
 <context>
@@ -38460,10 +38210,6 @@ Pages</source>
         <translation>Галерея диаграмм</translation>
     </message>
     <message>
-        <source>Document Barcode</source>
-        <translation>QR-код официального документа</translation>
-    </message>
-    <message>
         <source>Fields</source>
         <translation>Поля</translation>
     </message>
@@ -38734,6 +38480,10 @@ Number</source>
     <message>
         <source>Total of Y Page</source>
         <translation>Всего Y страниц</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>QR-код официального документа</translation>
     </message>
 </context>
 <context>
@@ -39025,36 +38775,6 @@ Number</source>
     </message>
 </context>
 <context>
-    <name>KxDlgCheckingTips</name>
-    <message>
-        <source>stop</source>
-        <translation>остановить</translation>
-    </message>
-    <message>
-        <source>checking now,plz wait...</source>
-        <translation>выполняется проверка, подождите...</translation>
-    </message>
-    <message>
-        <source>clkw checking tips</source>
-        <translation>Проверить ключевые слова конфиденциального уровня</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgCheckingTips2</name>
-    <message>
-        <source>stop</source>
-        <translation>остановить</translation>
-    </message>
-    <message>
-        <source>checking now,plz wait...</source>
-        <translation>выполняется проверка, подождите...</translation>
-    </message>
-    <message>
-        <source>clkw checking tips</source>
-        <translation>Проверить ключевые слова конфиденциального уровня</translation>
-    </message>
-</context>
-<context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>true</source>
@@ -39084,6 +38804,11 @@ Number</source>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
         <translation>Интерфейс коммутатора</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39327,10 +39052,6 @@ Table Style</source>
         <translation>Интеллектуальное упорядочивание абзацев</translation>
     </message>
     <message>
-        <source>Batch Delete</source>
-        <translation>Пакетное удаление</translation>
-    </message>
-    <message>
         <source>Convert Paragraph Indent to Space</source>
         <translation>Преобразовать отступ абзаца в пробел</translation>
     </message>
@@ -39373,6 +39094,10 @@ Table Style</source>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
         <translation>Переключить в режим разделения пустого абзаца</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Пакетное удаление</translation>
     </message>
 </context>
 <context>
@@ -39642,10 +39367,6 @@ Table Style</source>
         <translation>Формы</translation>
     </message>
     <message>
-        <source>Ofd Print Preview</source>
-        <translation>Предварительный просмотр эффекта OFD</translation>
-    </message>
-    <message>
         <source>Document Fix</source>
         <translation>Восстановление файлов</translation>
     </message>
@@ -39738,6 +39459,10 @@ Table Style</source>
     <message>
         <source>3-D Settings</source>
         <translation>Параметры 3-D</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Предварительный просмотр эффекта OFD</translation>
     </message>
 </context>
 <context>
@@ -40105,57 +39830,6 @@ Table Style</source>
     <message>
         <source>Current &amp;page</source>
         <translation>Текущая страница (&amp;p)</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsMailSenderTestDlg</name>
-    <message>
-        <source>&amp;Done</source>
-        <translation>Готово (&amp;Г)</translation>
-    </message>
-    <message>
-        <source>WPS Mail Merge Test Mail</source>
-        <translation>Объединение почтовых адресов WPS — тестовое письмо</translation>
-    </message>
-    <message>
-        <source>Send test Email</source>
-        <translation>Отправить тестовое электронное письмо</translation>
-    </message>
-    <message>
-        <source>Login to SMTP server</source>
-        <translation>Вход на почтовый сервер</translation>
-    </message>
-    <message>
-        <source>Mail Config</source>
-        <translation>Конфигурация электронной почты</translation>
-    </message>
-    <message>
-        <source>Account setup successful</source>
-        <translation>Тест настройки учетной записи завершен.</translation>
-    </message>
-    <message>
-        <source>.Please trying using independent password</source>
-        <translation>. Используйте код авторизации, чтобы войти в почтовую учетную запись.</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>О&amp;тмена</translation>
-    </message>
-    <message>
-        <source>Receiving this mail means your configuration is successful. </source>
-        <translation>Если вы получите это письмо, значит конфигурация правильная. </translation>
-    </message>
-    <message>
-        <source>Test failed.Please check the information.</source>
-        <translation>Сбой теста. Изучите сведения.</translation>
-    </message>
-    <message>
-        <source>You are all set for the group mail feature.</source>
-        <translation>Вы настроили все, что необходимо для функции групповой отправки писем.</translation>
-    </message>
-    <message>
-        <source>You are sending testing mail through WPS mail merge feature. </source>
-        <translation>Вы отправляете тестовое письмо с помощью функции объединения почтовых адресов WPS.</translation>
     </message>
 </context>
 <context>
@@ -40786,57 +40460,6 @@ Table Style</source>
     </message>
 </context>
 <context>
-    <name>classics.ofd_print_preview</name>
-    <message>
-        <source>NextPage(Ctrl+PageDown)</source>
-        <translation>Следующая страница</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>Close Ofd Preview</source>
-        <translation>Закрыть предварительный просмотр OFD</translation>
-    </message>
-    <message>
-        <source>Zoom Out(Ctrl+-)</source>
-        <translation>Уменьшить</translation>
-    </message>
-    <message>
-        <source>PrevPage(Ctrl+PageUp)</source>
-        <translation>Предыдущая страница</translation>
-    </message>
-    <message>
-        <source>Fit Width(Ctrl+8)</source>
-        <translation>По ширине</translation>
-    </message>
-    <message>
-        <source>LastPage</source>
-        <translation>Последняя страница</translation>
-    </message>
-    <message>
-        <source>Actual Size(Ctrl+0)</source>
-        <translation>Фактический размер</translation>
-    </message>
-    <message>
-        <source>FirstPage</source>
-        <translation>Первая страница</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Экспорт в OFD</translation>
-    </message>
-    <message>
-        <source>Zoom In(Ctrl++)</source>
-        <translation>Увеличить</translation>
-    </message>
-    <message>
-        <source>Fit Page(Ctrl+9)</source>
-        <translation>По размеру страницы</translation>
-    </message>
-</context>
-<context>
     <name>KxSmartPageNumDeleteCommand</name>
     <message>
         <source>Current section</source>
@@ -40857,25 +40480,6 @@ Table Style</source>
     <message>
         <source>Entire document</source>
         <translation>Весь документ</translation>
-    </message>
-</context>
-<context>
-    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
-    <message>
-        <source>total result</source>
-        <translation>Результаты</translation>
-    </message>
-    <message>
-        <source>check</source>
-        <translation>Перепроверить</translation>
-    </message>
-    <message>
-        <source>No data</source>
-        <translation>Нет данных</translation>
-    </message>
-    <message>
-        <source>operate keywords</source>
-        <translation>Управление ключевыми словами</translation>
     </message>
 </context>
 <context>
@@ -40951,10 +40555,6 @@ Table Style</source>
         <translation>Ключевое слово уровня конфиденциальности</translation>
     </message>
     <message>
-        <source>setting MB</source>
-        <translation>Отметить как конфиденциальный</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Вперёд</translation>
     </message>
@@ -40974,6 +40574,10 @@ Table Style</source>
     <message>
         <source>Normal Encryption</source>
         <translation>Нормальное шифрование</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Отметить как конфиденциальный</translation>
     </message>
 </context>
 <context>
@@ -41205,63 +40809,6 @@ Table Style</source>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_official_print</name>
-    <message>
-        <source>Finalize</source>
-        <translation>Оформить</translation>
-    </message>
-    <message>
-        <source>Merge</source>
-        <translation>Объединить</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Печать</translation>
-    </message>
-    <message>
-        <source>Split</source>
-        <translation>Разделить</translation>
-    </message>
-    <message>
-        <source>SplitMerge</source>
-        <translation>Разделение/объединение документов</translation>
-    </message>
-    <message>
-        <source>PDF Compress</source>
-        <translation>Сжатие PDF</translation>
-    </message>
-    <message>
-        <source>Document Barcode</source>
-        <translation>QR-код официального документа</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation>Экспорт</translation>
-    </message>
-    <message>
-        <source>Split and Merge</source>
-        <translation>Разделение и объединение</translation>
-    </message>
-    <message>
-        <source>Official to Ordinary</source>
-        <translation>Официальный документ в обычный документ
-</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Экспорт в OFD</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>Экспорт в PDF</translation>
-    </message>
-    <message>
-        <source>Mail Merge</source>
-        <translation>Слияние 
-электронной почты</translation>
-    </message>
-</context>
-<context>
     <name>KxEquationAlignmentAndSpacingDlg</name>
     <message>
         <source>Array</source>
@@ -41353,10 +40900,6 @@ Table Style</source>
         <translation>Очистить</translation>
     </message>
     <message>
-        <source>Insert Ink Shape</source>
-        <translation>Вставить рукописный комментарий</translation>
-    </message>
-    <message>
         <source>Insert WordArt</source>
         <translation>Вставить фигурный текст</translation>
     </message>
@@ -41367,6 +40910,10 @@ Table Style</source>
     <message>
         <source>Delete Object</source>
         <translation>Удалить объект</translation>
+    </message>
+    <message>
+        <source>Insert Ink Shape</source>
+        <translation>Вставить рукописный комментарий</translation>
     </message>
 </context>
 <context>
@@ -41495,10 +41042,6 @@ Table Style</source>
         <translation>Закрыть</translation>
     </message>
     <message>
-        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
-        <translation>К текущему подключению к серверу применяется исключение, поэтому выведение интернет-файлов безопасности PDF невозможно. Повторите попытку позже.</translation>
-    </message>
-    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Подготовка для экспорта в файл PDF...</translation>
     </message>
@@ -41517,10 +41060,6 @@ Table Style</source>
     <message>
         <source>Exporting summary information...</source>
         <translation>Экспорт основной информации...</translation>
-    </message>
-    <message>
-        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
-        <translation>В настоящее время отсутствует сеть, поэтому выведение интернет-файлов безопасности PDF невозможно. Обеспечьте нормальные условия сети.</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -41554,6 +41093,14 @@ Table Style</source>
         <source>receiver%1.pdf</source>
         <translation>receiver%1.pdf</translation>
     </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation>К текущему подключению к серверу применяется исключение, поэтому выведение интернет-файлов безопасности PDF невозможно. Повторите попытку позже.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation>В настоящее время отсутствует сеть, поэтому выведение интернет-файлов безопасности PDF невозможно. Обеспечьте нормальные условия сети.</translation>
+    </message>
 </context>
 <context>
     <name>KxPrintDlg</name>
@@ -41584,18 +41131,6 @@ Table Style</source>
     <message>
         <source>Cancel</source>
         <translation>Отмена</translation>
-    </message>
-    <message>
-        <source>Save about 23% on paper</source>
-        <translation>Экономьте около 23% на бумаге</translation>
-    </message>
-    <message>
-        <source>Save about 12% on paper</source>
-        <translation>Экономьте около 12% на бумаге</translation>
-    </message>
-    <message>
-        <source>Save about 18% on paper</source>
-        <translation>Экономьте около 18% на бумаге</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
@@ -41640,6 +41175,18 @@ Table Style</source>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>Входное значение должно быть между %1 и %2.</translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation>Экономьте около 23% на бумаге</translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation>Экономьте около 12% на бумаге</translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation>Экономьте около 18% на бумаге</translation>
     </message>
 </context>
 <context>
@@ -41766,6 +41313,57 @@ Table Style</source>
     </message>
 </context>
 <context>
+    <name>classics.ofd_print_preview</name>
+    <message>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Zoom Out(Ctrl+-)</source>
+        <translation>Уменьшить</translation>
+    </message>
+    <message>
+        <source>Fit Width(Ctrl+8)</source>
+        <translation>По ширине</translation>
+    </message>
+    <message>
+        <source>LastPage</source>
+        <translation>Последняя страница</translation>
+    </message>
+    <message>
+        <source>Actual Size(Ctrl+0)</source>
+        <translation>Фактический размер</translation>
+    </message>
+    <message>
+        <source>FirstPage</source>
+        <translation>Первая страница</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Экспорт в OFD</translation>
+    </message>
+    <message>
+        <source>Zoom In(Ctrl++)</source>
+        <translation>Увеличить</translation>
+    </message>
+    <message>
+        <source>Fit Page(Ctrl+9)</source>
+        <translation>По размеру страницы</translation>
+    </message>
+    <message>
+        <source>NextPage(Ctrl+PageDown)</source>
+        <translation>Следующая страница</translation>
+    </message>
+    <message>
+        <source>Close Ofd Preview</source>
+        <translation>Закрыть предварительный просмотр OFD</translation>
+    </message>
+    <message>
+        <source>PrevPage(Ctrl+PageUp)</source>
+        <translation>Предыдущая страница</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_headerfooter</name>
     <message>
         <source>Close</source>
@@ -41774,14 +41372,6 @@ Table Style</source>
     <message>
         <source>HeaderFooterGroup</source>
         <translation>Группа верхних и нижних колонтитулов</translation>
-    </message>
-    <message>
-        <source>Docer Header</source>
-        <translation>Верхний/нижний колонтитул шаблона</translation>
-    </message>
-    <message>
-        <source>Docer Footer</source>
-        <translation>Верхний/нижний колонтитул шаблона</translation>
     </message>
     <message>
         <source>Switch between
@@ -41810,10 +41400,6 @@ Header</source>
     <message>
         <source>Insert Picture</source>
         <translation>Вставить рисунок</translation>
-    </message>
-    <message>
-        <source>Docer HeaderFooterGroup</source>
-        <translation>Набор шаблонов</translation>
     </message>
     <message>
         <source>Edit Footer</source>
@@ -41985,20 +41571,24 @@ Number</source>
         <source>Navigation</source>
         <translation>Навигация</translation>
     </message>
+    <message>
+        <source>Docer Header</source>
+        <translation>Верхний/нижний колонтитул шаблона</translation>
+    </message>
+    <message>
+        <source>Docer Footer</source>
+        <translation>Верхний/нижний колонтитул шаблона</translation>
+    </message>
+    <message>
+        <source>Docer HeaderFooterGroup</source>
+        <translation>Набор шаблонов</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_mailings</name>
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>Email Config</source>
-        <translation>Конфигурация электронной почты</translation>
-    </message>
-    <message>
-        <source>MailConfig</source>
-        <translation>Конфигурация электронной почты</translation>
     </message>
     <message>
         <source>First Record</source>
@@ -42086,6 +41676,14 @@ Number</source>
         <source>Merge to Email</source>
         <translation>Слияние 
 с электронной почтой</translation>
+    </message>
+    <message>
+        <source>Email Config</source>
+        <translation>Конфигурация электронной почты</translation>
+    </message>
+    <message>
+        <source>MailConfig</source>
+        <translation>Конфигурация электронной почты</translation>
     </message>
 </context>
 <context>
@@ -42425,6 +42023,63 @@ If unnecessary, please click Cancel.</source>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_official_print</name>
+    <message>
+        <source>Merge</source>
+        <translation>Объединить</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Печать</translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation>Разделить</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>Split and Merge</source>
+        <translation>Разделение и объединение</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Экспорт в OFD</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Экспорт в PDF</translation>
+    </message>
+    <message>
+        <source>Mail Merge</source>
+        <translation>Слияние 
+электронной почты</translation>
+    </message>
+    <message>
+        <source>Finalize</source>
+        <translation>Оформить</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Разделение/объединение документов</translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation>Сжатие PDF</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>QR-код официального документа</translation>
+    </message>
+    <message>
+        <source>Official to Ordinary</source>
+        <translation>Официальный документ в обычный документ
+</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsDDEServer</name>
     <message>
         <source>Paste</source>
@@ -42597,14 +42252,6 @@ If unnecessary, please click Cancel.</source>
         <translation>Порт:</translation>
     </message>
     <message>
-        <source>S&amp;MTP Server</source>
-        <translation>Сервер SMTP (&amp;М)</translation>
-    </message>
-    <message>
-        <source>Sender &amp;Name</source>
-        <translation>Адрес эл. почты (&amp;Н)</translation>
-    </message>
-    <message>
         <source>dialog</source>
         <translation>диалог</translation>
     </message>
@@ -42615,6 +42262,14 @@ If unnecessary, please click Cancel.</source>
     <message>
         <source>SendMail</source>
         <translation>Отправить письмо</translation>
+    </message>
+    <message>
+        <source>S&amp;MTP Server</source>
+        <translation>Сервер SMTP (&amp;М)</translation>
+    </message>
+    <message>
+        <source>Sender &amp;Name</source>
+        <translation>Адрес эл. почты (&amp;Н)</translation>
     </message>
 </context>
 <context>
@@ -42809,10 +42464,6 @@ If unnecessary, please click Cancel.</source>
         <translation>секретный уровень</translation>
     </message>
     <message>
-        <source>WPS Writer Official Document (*.uot)</source>
-        <translation>WPS Official Document (*.uot)</translation>
-    </message>
-    <message>
         <source>Official Fonts</source>
         <translation>Официальные шрифты</translation>
     </message>
@@ -42891,6 +42542,10 @@ If unnecessary, please click Cancel.</source>
     <message>
         <source>The number input must be between 1 and 63.</source>
         <translation>Число должно быть в диапазоне от 1 до 63.</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Document (*.uot)</source>
+        <translation>WPS Official Document (*.uot)</translation>
     </message>
 </context>
 <context>
@@ -43331,6 +42986,26 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation>заголовок</translation>
     </message>
     <message>
+        <source>%1 cannot exceed %2 words.</source>
+        <translation>Максимальное количество слов в %1: %2.</translation>
+    </message>
+    <message>
+        <source>barcode Id</source>
+        <translation>идентификатор штрих-кода</translation>
+    </message>
+    <message>
+        <source>post unit</source>
+        <translation>публикация единицы измерения</translation>
+    </message>
+    <message>
+        <source>written date</source>
+        <translation>рукописная дата</translation>
+    </message>
+    <message>
+        <source>secret period</source>
+        <translation>secret period</translation>
+    </message>
+    <message>
         <source>%1 cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
         <translation>В %1 не должно быть символов ^ и |, которые используются как разделители.</translation>
     </message>
@@ -43351,20 +43026,8 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation>Основной получатель</translation>
     </message>
     <message>
-        <source>%1 cannot exceed %2 words.</source>
-        <translation>Максимальное количество слов в %1: %2.</translation>
-    </message>
-    <message>
         <source>custom field</source>
         <translation>Настраиваемое поле</translation>
-    </message>
-    <message>
-        <source>barcode Id</source>
-        <translation>идентификатор штрих-кода</translation>
-    </message>
-    <message>
-        <source>post unit</source>
-        <translation>публикация единицы измерения</translation>
     </message>
     <message>
         <source>barcode date</source>
@@ -43377,14 +43040,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>publish level</source>
         <translation>Опубликовать иерархию</translation>
-    </message>
-    <message>
-        <source>written date</source>
-        <translation>рукописная дата</translation>
-    </message>
-    <message>
-        <source>secret period</source>
-        <translation>secret period</translation>
     </message>
     <message>
         <source>The length of %1 has to between %2 and %3</source>
@@ -43433,6 +43088,14 @@ Select parts of the document and choose users who are allowed to freely edit the
         <translation>Максимальное количество слов для каждой единицы измерения: %1.</translation>
     </message>
     <message>
+        <source>The length of each unit has to between %1 and %2</source>
+        <translation>Длина каждой единицы измерения: от %1 до %2</translation>
+    </message>
+    <message>
+        <source>post unit</source>
+        <translation>публикация единицы измерения</translation>
+    </message>
+    <message>
         <source>Support multiple unit name entered at the same time, seperated by comma.</source>
         <translation>Можно ввести несколько единиц измерения, разделенных запятыми (,).</translation>
     </message>
@@ -43451,14 +43114,6 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>submit to</source>
         <translation>Основной получатель</translation>
-    </message>
-    <message>
-        <source>The length of each unit has to between %1 and %2</source>
-        <translation>Длина каждой единицы измерения: от %1 до %2</translation>
-    </message>
-    <message>
-        <source>post unit</source>
-        <translation>публикация единицы измерения</translation>
     </message>
     <message>
         <source>The length of unit names cannot exceed 256 bytes.</source>
@@ -43548,10 +43203,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Метод или свойство защиты невозможны из-за защищенного документа.</translation>
     </message>
     <message>
-        <source>Scanner No Paper.</source>
-        <translation>В сканере закончилась бумага.</translation>
-    </message>
-    <message>
         <source>Unprotect method or property is invalid due to the unprotected document.</source>
         <translation>Отмена метода или свойства защиты невозможна из-за незащищенного документа.</translation>
     </message>
@@ -43562,10 +43213,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
         <translation>Не удается установить или получить интервал между столбцами в конце текста.</translation>
-    </message>
-    <message>
-        <source>Scanner Document Feeder Jammed.</source>
-        <translation>Бумага замялась в загрузочном устройстве сканера.</translation>
     </message>
     <message>
         <source>The Based On style name does not exist or is of an incorrect type.</source>
@@ -43582,14 +43229,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
         <translation>WPS Writer не может отключить режим конструктора, так как замещающий текст в элементе управления содержимым содержит недопустимые элементы.  Замещающий текст не может содержать такие элементы, как перемещаемые объекты, метки исправления и элементы управления содержимым.  Удалите эти элементы из замещающего текста и повторите попытку.</translation>
-    </message>
-    <message>
-        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
-        <translation>Недопустимые данные о сканере (превышена максимальная толщина или наложение нескольких листов).</translation>
-    </message>
-    <message>
-        <source>No SANE library.</source>
-        <translation>Во время загрузки системной библиотеки SANE произошла ошибка.</translation>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
@@ -43628,12 +43267,28 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Выключен режим предварительного просмотра.</translation>
     </message>
     <message>
-        <source>%1 Pages Scanned.</source>
-        <translation>Отсканировано страниц: %1. Вставить сейчас?</translation>
-    </message>
-    <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <translation>Попытка вставить одну или несколько таблиц в вертикальное текстовое поле или рамку. Текстовый блок или рамка с вертикальным направлением текста не может содержать таблицу. Хотите продолжить?</translation>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <translation>В сканере закончилась бумага.</translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <translation>Бумага замялась в загрузочном устройстве сканера.</translation>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <translation>Недопустимые данные о сканере (превышена максимальная толщина или наложение нескольких листов).</translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <translation>Во время загрузки системной библиотеки SANE произошла ошибка.</translation>
+    </message>
+    <message>
+        <source>%1 Pages Scanned.</source>
+        <translation>Отсканировано страниц: %1. Вставить сейчас?</translation>
     </message>
 </context>
 <context>
@@ -43891,15 +43546,26 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
 </context>
 <context>
+    <name>KxDlgUpdateTableOfContents</name>
+    <message>
+        <source>Update &amp;page numbers only</source>
+        <translation>Обновить только &amp;номера страниц</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <translation>Для обновления оглавления,выберите:</translation>
+    </message>
+    <message>
+        <source>Update Table of Contents</source>
+        <translation>Обновление оглавления</translation>
+    </message>
+    <message>
+        <source>Update &amp;entire table</source>
+        <translation>&amp;Обновить целиком</translation>
+    </message>
+</context>
+<context>
     <name>MailSendErrorConvert</name>
-    <message>
-        <source>Identified as junk mail,rejected by server</source>
-        <translation>Это письмо отнесено к категории нежелательных и отклонено сервером.</translation>
-    </message>
-    <message>
-        <source>MAIL_TEXT_TOO_LARGE</source>
-        <translation>Длина основного текста письма превышает ограничение.</translation>
-    </message>
     <message>
         <source>Host not found</source>
         <translation>Узел не найден</translation>
@@ -43913,10 +43579,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Файл не найден: %1</translation>
     </message>
     <message>
-        <source>MAIL_TOO_MANY_RECIPIENTS</source>
-        <translation>Количество получателей превышает ограничение.</translation>
-    </message>
-    <message>
         <source>MAIL_ACCESS_DENIED</source>
         <translation type="unfinished"/>
     </message>
@@ -43927,6 +43589,62 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Login failed</source>
         <translation>Сбой входа</translation>
+    </message>
+    <message>
+        <source>DNS error</source>
+        <translation>Ошибка DNS</translation>
+    </message>
+    <message>
+        <source>authentication failed</source>
+        <translation>сбой проверки подлинности</translation>
+    </message>
+    <message>
+        <source>MAIL_NETWORK_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_INSUFFICIENT_MEMORY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_USER_ABORT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_LOGON_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_NOT_FOUND</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_NOT_SUPPORTED</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_SUCCESS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_INVALID_MESSAGE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identified as junk mail,rejected by server</source>
+        <translation>Это письмо отнесено к категории нежелательных и отклонено сервером.</translation>
+    </message>
+    <message>
+        <source>MAIL_TEXT_TOO_LARGE</source>
+        <translation>Длина основного текста письма превышает ограничение.</translation>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_RECIPIENTS</source>
+        <translation>Количество получателей превышает ограничение.</translation>
     </message>
     <message>
         <source>Invalid smtp server port</source>
@@ -43953,10 +43671,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Сервер SMTP требует, чтобы в качестве отправителя указывались только локальные пользователи.</translation>
     </message>
     <message>
-        <source>DNS error</source>
-        <translation>Ошибка DNS</translation>
-    </message>
-    <message>
         <source>550 RP:TRC</source>
         <translation>Общее количество получателей превысило ограничение. Письма от этого отправителя сегодня больше не принимаются.</translation>
     </message>
@@ -43969,24 +43683,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Вложение этого типа запрещено.</translation>
     </message>
     <message>
-        <source>authentication failed</source>
-        <translation>сбой проверки подлинности</translation>
-    </message>
-    <message>
         <source>Mail client load failed</source>
         <translation>Не удалось загрузить почтовый клиент.</translation>
     </message>
     <message>
         <source>MAIL_ATTACHMENT_WRITE_FAILURE</source>
         <translation>Не удалось записать вложение.</translation>
-    </message>
-    <message>
-        <source>MAIL_NETWORK_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_INSUFFICIENT_MEMORY</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAIL_NO_MESSAGES</source>
@@ -43997,10 +43699,6 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Подключение временно запрещено из-за слишком большого количества неудачных проверок IP-адреса.</translation>
     </message>
     <message>
-        <source>MAIL_USER_ABORT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Invalid User</source>
         <translation>Запрошенный пользователь не существует.</translation>
     </message>
@@ -44009,55 +43707,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Не удалось открыть вложение.</translation>
     </message>
     <message>
-        <source>MAIL_LOGON_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_ATTACHMENT_NOT_FOUND</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_NOT_SUPPORTED</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_SUCCESS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>MAIL_TOO_MANY_FILES</source>
         <translation>Количество вложений превышает ограничение.</translation>
     </message>
     <message>
-        <source>MAIL_INVALID_MESSAGE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>User not found</source>
         <translation>Недопустимый адрес получателя.</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgUpdateTableOfContents</name>
-    <message>
-        <source>Update &amp;page numbers only</source>
-        <translation>Обновить только &amp;номера страниц</translation>
-    </message>
-    <message>
-        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation>Для обновления оглавления,выберите:</translation>
-    </message>
-    <message>
-        <source>Update Table of Contents</source>
-        <translation>Обновление оглавления</translation>
-    </message>
-    <message>
-        <source>Update &amp;entire table</source>
-        <translation>&amp;Обновить целиком</translation>
     </message>
 </context>
 <context>
@@ -44071,12 +43726,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <translation>Имя файла не может содержать более 5 символов (китайских)</translation>
     </message>
     <message>
-        <source>OfficialPageNum</source>
-        <translation>Номер страницы официального документа</translation>
-    </message>
-    <message>
         <source>Please enter a Chinese font size or a number between 1% and 2%</source>
         <translation>Введите размер шрифта для китайского языка или число от 1% до 2%</translation>
+    </message>
+    <message>
+        <source>OfficialPageNum</source>
+        <translation>Номер страницы официального документа</translation>
     </message>
     <message>
         <source>There is a page number template with the same name, please modify the name</source>
@@ -44531,21 +44186,6 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KxOfficialTemplateBeginerDialog</name>
-    <message>
-        <source>Start Design</source>
-        <translation>Начать оформление</translation>
-    </message>
-    <message>
-        <source>Use the toolbar on the right to design your own official document template.</source>
-        <translation>Каждый элемент можно оформить на панели инструментов справа, в том числе добавить, удалить или изменить его содержимое.</translation>
-    </message>
-    <message>
-        <source>Beginner Guide</source>
-        <translation>Руководство для новичка</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgBookmarkSelection</name>
     <message>
         <source>Select Place in Document</source>
@@ -44603,25 +44243,6 @@ Try one or more of the following:
     <message>
         <source>Vertical</source>
         <translation>Вертикальная</translation>
-    </message>
-</context>
-<context>
-    <name>KxPageElementsWidgetSignature</name>
-    <message>
-        <source>PersonalSeal</source>
-        <translation>Личная печать</translation>
-    </message>
-    <message>
-        <source>NoSeal</source>
-        <translation>Без печати</translation>
-    </message>
-    <message>
-        <source>Seal Width:</source>
-        <translation>Ширина печати:</translation>
-    </message>
-    <message>
-        <source>RoundSeal</source>
-        <translation>Официальная печать</translation>
     </message>
 </context>
 <context>
@@ -44840,21 +44461,6 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialAddPageNumWarningDlg</name>
-    <message>
-        <source>The same attribute page number template %1 already exists and cannot be created</source>
-        <translation>Шаблон номеров страниц %1 с таким же атрибутом уже существует. Ошибка при создании.</translation>
-    </message>
-    <message>
-        <source>Cannot create page number template</source>
-        <translation>Не удалось создать шаблон номеров страниц.</translation>
-    </message>
-    <message>
-        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
-        <translation>Можно сохранить не более 99 шаблонов номеров страниц официальных документов. Удалите некоторые страницы и повторите попытку.</translation>
-    </message>
-</context>
-<context>
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>Invalid Input.</source>
@@ -44867,21 +44473,6 @@ Try one or more of the following:
     <message>
         <source>Do you want to overwrite the shortcut of [%1]? </source>
         <translation>Вы хотите перезаписать сочетание клавиш [%1]?</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsOfficialImportWaringDlg</name>
-    <message>
-        <source>Aleady selected</source>
-        <translation>Вы выбрали</translation>
-    </message>
-    <message>
-        <source>more can be imported</source>
-        <translation> шабл.</translation>
-    </message>
-    <message>
-        <source>templates, up to</source>
-        <translation> шабл. Можно импортировать еще</translation>
     </message>
 </context>
 <context>
@@ -45656,25 +45247,6 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KxBackupSettingTipWidgetBase</name>
-    <message>
-        <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>Включите &quot;Роуминг документов&quot;, чтобы открытые локальные файлы автоматически сохранялись в Cloud.</translation>
-    </message>
-    <message>
-        <source>What is Auto Roaming</source>
-        <translation>Что такое автоматический роуминг</translation>
-    </message>
-    <message>
-        <source>we update your modification on time</source>
-        <translation>Система автоматически синхронизирует изменения, внесенные в локальные файлы, с файлами в Cloud.</translation>
-    </message>
-    <message>
-        <source>you also reference this document when login on another deviec</source>
-        <translation>Также возможен просмотр и редактирование этого документа при выполнении входа на другом устройстве.</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgTextDirection</name>
     <message>
         <source>&amp;Orientation </source>
@@ -45742,6 +45314,26 @@ Try one or more of the following:
         <translation>удалить всех добавленных получателей?</translation>
     </message>
     <message>
+        <source>please input key word to search info of receivers:</source>
+        <translation>введите ключевое слово для поиска информации о получателях:</translation>
+    </message>
+    <message>
+        <source>search</source>
+        <translation>поиск</translation>
+    </message>
+    <message>
+        <source>receivers:</source>
+        <translation>получатели:</translation>
+    </message>
+    <message>
+        <source>add receiver</source>
+        <translation>добавить получателя</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Текстовая подпись</translation>
+    </message>
+    <message>
         <source>input chinese sy info tips part1</source>
         <translation>Можно использовать цифры и буквы. Можно ввести не более</translation>
     </message>
@@ -45752,14 +45344,6 @@ Try one or more of the following:
     <message>
         <source>sy_normal</source>
         <translation>Указать водяной знак</translation>
-    </message>
-    <message>
-        <source>please input key word to search info of receivers:</source>
-        <translation>введите ключевое слово для поиска информации о получателях:</translation>
-    </message>
-    <message>
-        <source>search</source>
-        <translation>поиск</translation>
     </message>
     <message>
         <source>sytype</source>
@@ -45778,24 +45362,12 @@ Try one or more of the following:
         <translation>Сведения о китайском водяном знаке</translation>
     </message>
     <message>
-        <source>receivers:</source>
-        <translation>получатели:</translation>
-    </message>
-    <message>
         <source>normal_sy_info</source>
         <translation>Сведения о водяном знаке, отличном от китайского</translation>
     </message>
     <message>
         <source>self_sy_info</source>
         <translation>Сведения о водяном знаке:</translation>
-    </message>
-    <message>
-        <source>add receiver</source>
-        <translation>добавить получателя</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Текстовая подпись</translation>
     </message>
 </context>
 <context>
@@ -45934,13 +45506,6 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialDelCustomPageNumDlg</name>
-    <message>
-        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
-        <translation>Шаблон номеров страниц %1 будет удален, а существующие номера страниц в документе удалены не будут.</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsStatusZoomOptionGalleryModel</name>
     <message>
         <source>&amp;Whole Page</source>
@@ -45994,10 +45559,6 @@ Try one or more of the following:
     <message>
         <source>Equation Symbols</source>
         <translation>Символы для уравнений</translation>
-    </message>
-    <message>
-        <source>Accent</source>
-        <translation>Акцент</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -46070,6 +45631,10 @@ Try one or more of the following:
     <message>
         <source>Professional</source>
         <translation>Профессиональная</translation>
+    </message>
+    <message>
+        <source>Accent</source>
+        <translation>Акцент</translation>
     </message>
 </context>
 <context>
@@ -46310,16 +45875,16 @@ Try one or more of the following:
         <translation>диалог</translation>
     </message>
     <message>
+        <source>SendMail</source>
+        <translation>Отправить письмо</translation>
+    </message>
+    <message>
         <source>Send Completed</source>
         <translation>Отправка выполнена</translation>
     </message>
     <message>
         <source>All &amp;ReSend</source>
         <translation>Переотправить все (&amp;П)</translation>
-    </message>
-    <message>
-        <source>SendMail</source>
-        <translation>Отправить письмо</translation>
     </message>
 </context>
 <context>
@@ -46456,45 +46021,6 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KxComposeParaFormatCommand</name>
-    <message>
-        <source>Format Alignment Center</source>
-        <translation>Выровнять по центру</translation>
-    </message>
-    <message>
-        <source>Heading 1</source>
-        <translation>Заголовок 1</translation>
-    </message>
-    <message>
-        <source>Heading 2</source>
-        <translation>Заголовок 2</translation>
-    </message>
-    <message>
-        <source>Heading 3</source>
-        <translation>Заголовок 3</translation>
-    </message>
-    <message>
-        <source>Heading 4</source>
-        <translation>Заголовок 4</translation>
-    </message>
-    <message>
-        <source>Heading 5</source>
-        <translation>Заголовок 5</translation>
-    </message>
-    <message>
-        <source>Heading 6</source>
-        <translation>Заголовок 6</translation>
-    </message>
-    <message>
-        <source>Format Alignment Right</source>
-        <translation>Выровнять по правому краю</translation>
-    </message>
-    <message>
-        <source>Format Alignment Left</source>
-        <translation>Выровнять по левому краю</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsXMLSchemaLibraryDlg</name>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
@@ -46524,16 +46050,16 @@ Try one or more of the following:
         <translation>Шрифт %1 недоступен в вашей системе. Для отображения текста будет использован другой шрифт. Использовать его все равно?</translation>
     </message>
     <message>
+        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
+        <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
         <source>%1 is invalid font size.</source>
         <translation>%1 — недопустимый размер шрифта.</translation>
     </message>
     <message>
         <source>When the smart number setting is turned on, the official document master will change the format when you write the corresponding number and press Enter.</source>
         <translation>Если параметр интеллектуального нумерования включен, функция записи официального документа изменит формат, когда вы впишете нужный номер и нажмете клавишу Ввод.</translation>
-    </message>
-    <message>
-        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
 </context>
 <context>
@@ -46543,12 +46069,12 @@ Try one or more of the following:
         <translation>Шрифт %1 недоступен в вашей системе. Для отображения текста будет использован другой шрифт. Использовать его все равно?</translation>
     </message>
     <message>
-        <source>%1 is invalid font size.</source>
-        <translation>%1 — недопустимый размер шрифта.</translation>
-    </message>
-    <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation>%1 — недопустимый размер шрифта.</translation>
     </message>
 </context>
 <context>
@@ -46756,20 +46282,12 @@ Try one or more of the following:
         <translation>Пароль для разрешений и пароль на открытие документов должны отличаться.</translation>
     </message>
     <message>
-        <source>The file opening password is inconsistent with the previously entered password.</source>
-        <translation>Пароль для открытия файла не соответствует ранее введенному паролю.</translation>
-    </message>
-    <message>
         <source>Please input the password of permission setting!</source>
         <translation>Введите пароль для настройки разрешения!</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
         <translation>Укажите имя файла.</translation>
-    </message>
-    <message>
-        <source>The permission setting password is inconsistent with the previously entered password.</source>
-        <translation>Пароль для установки разрешений не соответствует ранее введенному паролю.</translation>
     </message>
     <message>
         <source>Save OFD File As</source>
@@ -46782,6 +46300,14 @@ Try one or more of the following:
     <message>
         <source>The file name is the same as an existing directory.</source>
         <translation>Имя файла совпадает с именем существующего каталога.</translation>
+    </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation>Пароль для открытия файла не соответствует ранее введенному паролю.</translation>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation>Пароль для установки разрешений не соответствует ранее введенному паролю.</translation>
     </message>
 </context>
 <context>
@@ -46803,14 +46329,22 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KSearchFileItemDelegate</name>
+    <name>KxBackupSettingTipWidgetBase</name>
     <message>
-        <source>OpenByLocalApp</source>
-        <translation>Открыть с локального устройства</translation>
+        <source>What is Auto Roaming</source>
+        <translation>Что такое автоматический роуминг</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation>Просмотр</translation>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>Включите &quot;Роуминг документов&quot;, чтобы открытые локальные файлы автоматически сохранялись в Cloud.</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>Система автоматически синхронизирует изменения, внесенные в локальные файлы, с файлами в Cloud.</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>Также возможен просмотр и редактирование этого документа при выполнении входа на другом устройстве.</translation>
     </message>
 </context>
 <context>
@@ -46993,33 +46527,6 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KxOfficialLaunchingWidget</name>
-    <message>
-        <source>OfficialTools</source>
-        <translation>Средства официального документа</translation>
-    </message>
-    <message>
-        <source>New Official Document</source>
-        <translation>Новый официальный документ</translation>
-    </message>
-    <message>
-        <source>Official Master is Launching!</source>
-        <translation>Запуск официального мастера!</translation>
-    </message>
-    <message>
-        <source>OfficialCorrect</source>
-        <translation>Коррекция официального документа</translation>
-    </message>
-    <message>
-        <source>OfficialMaterial</source>
-        <translation>Материал официального документа</translation>
-    </message>
-    <message>
-        <source>OfficialRender</source>
-        <translation>Стандартная государственная разметка</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgWpsRecordMacro</name>
     <message>
         <source>Record Macro</source>
@@ -47114,10 +46621,6 @@ Try one or more of the following:
         <translation>Недоступное местоположение файла</translation>
     </message>
     <message>
-        <source>Failed to save file</source>
-        <translation>Не удалось сохранить файл.</translation>
-    </message>
-    <message>
         <source>The number must not be nil</source>
         <translation>Число не должно быть нулем</translation>
     </message>
@@ -47161,6 +46664,10 @@ Try one or more of the following:
  
  
 Число должно быть между %1 и %2.</translation>
+    </message>
+    <message>
+        <source>Failed to save file</source>
+        <translation>Не удалось сохранить файл.</translation>
     </message>
 </context>
 <context>
@@ -47586,23 +47093,6 @@ Try one or more of the following:
     </message>
 </context>
 <context>
-    <name>KxWpsApplication</name>
-    <message>
-        <source>WPS Writer cannot save Normal.dotm.
-Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
-        <translation>Текст WPS нельзя сохранить как Normal.dotm.
-Нажмите &quot;ОК&quot;, чтобы удалить несохраненное содержимое и закрыть процесс. Если хотите продолжить, нажмите &quot;Отмена&quot;.</translation>
-    </message>
-    <message>
-        <source>Official Document</source>
-        <translation>Официальный документ</translation>
-    </message>
-    <message>
-        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation>Вставленный рисунок отображается не полностью. Скорректировать междустрочный интервал автоматически в соответствии с размером рисунка?</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsODTLineSpacingWidget</name>
     <message>
         <source>Double</source>
@@ -47621,16 +47111,16 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
         <translation>1,5 строки</translation>
     </message>
     <message>
-        <source>Official Line Interval</source>
-        <translation>Интервал между строками</translation>
-    </message>
-    <message>
         <source>Multiple</source>
         <translation>Множитель</translation>
     </message>
     <message>
         <source>Exactly</source>
         <translation>Точно</translation>
+    </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Интервал между строками</translation>
     </message>
 </context>
 <context>
@@ -47727,6 +47217,33 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     </message>
 </context>
 <context>
+    <name>KxOfficialLaunchingWidget</name>
+    <message>
+        <source>New Official Document</source>
+        <translation>Новый официальный документ</translation>
+    </message>
+    <message>
+        <source>Official Master is Launching!</source>
+        <translation>Запуск официального мастера!</translation>
+    </message>
+    <message>
+        <source>OfficialTools</source>
+        <translation>Средства официального документа</translation>
+    </message>
+    <message>
+        <source>OfficialCorrect</source>
+        <translation>Коррекция официального документа</translation>
+    </message>
+    <message>
+        <source>OfficialMaterial</source>
+        <translation>Материал официального документа</translation>
+    </message>
+    <message>
+        <source>OfficialRender</source>
+        <translation>Стандартная государственная разметка</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsLineColorModel</name>
     <message>
         <source>No Line</source>
@@ -47745,37 +47262,26 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialNumberingModel</name>
-    <message>
-        <source>GalleryOfficalOutlineNumbering</source>
-        <translation>Многоуровневый номер официального документа</translation>
-    </message>
-    <message>
-        <source>GalleryOfficialNumbering</source>
-        <translation>Номер официального документа</translation>
-    </message>
-</context>
-<context>
     <name>KxTpWpsConfidentialityLevelKeyWordWidget</name>
     <message>
         <source>No data</source>
         <translation>Нет данных</translation>
     </message>
     <message>
-        <source>&amp;expandAll</source>
-        <translation>Развернуть все (&amp;Е)</translation>
-    </message>
-    <message>
         <source>This document has no confidential keywords</source>
         <translation>У этого документа нет конфиденциальных ключевых слов</translation>
     </message>
     <message>
-        <source>,But did not complete the full text check</source>
-        <translation>, но проверка всего текста не завершена</translation>
-    </message>
-    <message>
         <source>total check result:</source>
         <translation>общие результаты проверки:</translation>
+    </message>
+    <message>
+        <source>&amp;expandAll</source>
+        <translation>Развернуть все (&amp;Е)</translation>
+    </message>
+    <message>
+        <source>,But did not complete the full text check</source>
+        <translation>, но проверка всего текста не завершена</translation>
     </message>
     <message>
         <source>&amp;collapseAll</source>
@@ -47784,6 +47290,25 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     <message>
         <source>date already deleted!</source>
         <translation>Дата уже удалена.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
+    <message>
+        <source>No data</source>
+        <translation>Нет данных</translation>
+    </message>
+    <message>
+        <source>total result</source>
+        <translation>Результаты</translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation>Перепроверить</translation>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation>Управление ключевыми словами</translation>
     </message>
 </context>
 <context>
@@ -47866,6 +47391,25 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     <message>
         <source>dialogstest</source>
         <translation>dialogstest</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetSignature</name>
+    <message>
+        <source>Seal Width:</source>
+        <translation>Ширина печати:</translation>
+    </message>
+    <message>
+        <source>PersonalSeal</source>
+        <translation>Личная печать</translation>
+    </message>
+    <message>
+        <source>NoSeal</source>
+        <translation>Без печати</translation>
+    </message>
+    <message>
+        <source>RoundSeal</source>
+        <translation>Официальная печать</translation>
     </message>
 </context>
 <context>
@@ -48179,20 +47723,6 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
 </context>
 <context>
-    <name>KxPageElementTextEditValidator</name>
-    <message>
-        <source>No more than %1 characters</source>
-        <translation>Не более %1 симв.</translation>
-    </message>
-</context>
-<context>
-    <name>KxPageElementsWidgetPlaintTextEdit</name>
-    <message>
-        <source>No more than %1 characters</source>
-        <translation>Не более %1 симв.</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsReadingDivisionListCommand</name>
     <message>
         <source>One column</source>
@@ -48225,12 +47755,12 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <translation>диалог</translation>
     </message>
     <message>
-        <source>Sending Mail With WPS</source>
-        <translation>Отправка электронного письма с WPS</translation>
-    </message>
-    <message>
         <source>SendMail</source>
         <translation>Отправить письмо</translation>
+    </message>
+    <message>
+        <source>Sending Mail With WPS</source>
+        <translation>Отправка электронного письма с WPS</translation>
     </message>
     <message>
         <source>&amp;Stop sendemail</source>
@@ -48244,12 +47774,12 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <translation>диалог</translation>
     </message>
     <message>
-        <source>&amp;Account</source>
-        <translation>Используйте следующую учетную запись для отправки писем (&amp;А)</translation>
-    </message>
-    <message>
         <source>SendMail</source>
         <translation>Отправить письмо</translation>
+    </message>
+    <message>
+        <source>&amp;Account</source>
+        <translation>Используйте следующую учетную запись для отправки писем (&amp;А)</translation>
     </message>
 </context>
 <context>
@@ -48257,49 +47787,6 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>(No entry)</source>
         <translation>(нет записи)</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWpsMaintainCmptPrompt</name>
-    <message>
-        <source>You are saving an old-format document as a new format.
-
-While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
-        <translation>Вы собираетесь сохранить документ со старым форматом в новом формате.
-
-Это может повлиять на графические элементы и абзацы, но после сохранения в новом формате можно использовать дополнительные функции.</translation>
-    </message>
-    <message>
-        <source>Save as a new format</source>
-        <translation> Сохранить как новый формат</translation>
-    </message>
-    <message>
-        <source>Save new format</source>
-        <translation>Сохранить новый формат</translation>
-    </message>
-    <message>
-        <source>MaintainCompatibilityPrompt</source>
-        <translation>Поддержать запрос совместимости</translation>
-    </message>
-    <message>
-        <source>Do not remind me again.</source>
-        <translation>Больше не напоминать.</translation>
-    </message>
-    <message>
-        <source>Your document will be upgraded to the newest file format.
-
-While you'll get to use all the new features in Word, some minor layout
-changes are possible. If you prefer not to upgrade, press cancel an
-check the maintain compatibility checkbox.</source>
-        <translation>Документ будет заменен преобразованной версией.
-
-&apos;Хотя вы сможете использовать все новые возможности Word, это может привести к незначительным
-изменениям в структуре. Если вы предпочитаете не выполнять обновление, нажмите кнопку «Отмена» и 
-установите флажок обеспечения совместимости.</translation>
-    </message>
-    <message>
-        <source>Do not ask me again.</source>
-        <translation>Больше не задавать этот вопрос.</translation>
     </message>
 </context>
 <context>
@@ -48434,6 +47921,14 @@ check the maintain compatibility checkbox.</source>
         <translation>Поиск ключевых слов в документе недоступен. Этот документ не является конфиденциальным.</translation>
     </message>
     <message>
+        <source>select all</source>
+        <translation>выделить все</translation>
+    </message>
+    <message>
+        <source>delete keywords</source>
+        <translation>удалить ключевые слова</translation>
+    </message>
+    <message>
         <source>The thesaurus is empty, please add keywords</source>
         <translation>Тезаурус пустой. Сначала добавьте ключевые слова.</translation>
     </message>
@@ -48446,16 +47941,8 @@ check the maintain compatibility checkbox.</source>
         <translation>Инвертировать выделение</translation>
     </message>
     <message>
-        <source>select all</source>
-        <translation>выделить все</translation>
-    </message>
-    <message>
         <source>Management keyword</source>
         <translation>Управление ключевыми словами</translation>
-    </message>
-    <message>
-        <source>delete keywords</source>
-        <translation>удалить ключевые слова</translation>
     </message>
 </context>
 <context>
@@ -48463,6 +47950,17 @@ check the maintain compatibility checkbox.</source>
     <message>
         <source>Attachment: 1.xxxxxxxxxx</source>
         <translation>Вложение: 1,xxxxxxxxxx</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchFileItemDelegate</name>
+    <message>
+        <source>Preview</source>
+        <translation>Просмотр</translation>
+    </message>
+    <message>
+        <source>OpenByLocalApp</source>
+        <translation>Открыть с локального устройства</translation>
     </message>
 </context>
 <context>
@@ -48491,18 +47989,42 @@ check the maintain compatibility checkbox.</source>
     </message>
 </context>
 <context>
-    <name>KxWpsEquationOptionsDlg</name>
+    <name>KxComposeParaFormatCommand</name>
     <message>
-        <source>This change will affect all new documents based on the NORMAL template.</source>
-        <translation>Это изменение повлияет на все новые документы, основанные на шаблоне &quot;ОБЫЧНЫЙ&quot;.</translation>
+        <source>Heading 1</source>
+        <translation>Заголовок 1</translation>
     </message>
     <message>
-        <source>Save failed.</source>
-        <translation>Произошла ошибка. Не удалось внести изменение.</translation>
+        <source>Heading 2</source>
+        <translation>Заголовок 2</translation>
     </message>
     <message>
-        <source>Template is missing.</source>
-        <translation>Шаблон отсутствует.</translation>
+        <source>Heading 3</source>
+        <translation>Заголовок 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <translation>Заголовок 4</translation>
+    </message>
+    <message>
+        <source>Heading 5</source>
+        <translation>Заголовок 5</translation>
+    </message>
+    <message>
+        <source>Heading 6</source>
+        <translation>Заголовок 6</translation>
+    </message>
+    <message>
+        <source>Format Alignment Center</source>
+        <translation>Выровнять по центру</translation>
+    </message>
+    <message>
+        <source>Format Alignment Right</source>
+        <translation>Выровнять по правому краю</translation>
+    </message>
+    <message>
+        <source>Format Alignment Left</source>
+        <translation>Выровнять по левому краю</translation>
     </message>
 </context>
 <context>
@@ -48655,13 +48177,6 @@ check the maintain compatibility checkbox.</source>
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialNewDocumentDlg</name>
-    <message>
-        <source>New Empty</source>
-        <translation>Новый пустой официальный документ</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgNewLabel</name>
     <message>
         <source>New Label</source>
@@ -48751,6 +48266,36 @@ check the maintain compatibility checkbox.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgCheckingTips</name>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation>выполняется проверка, подождите...</translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation>остановить</translation>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>Проверить ключевые слова конфиденциального уровня</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips2</name>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation>выполняется проверка, подождите...</translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation>остановить</translation>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>Проверить ключевые слова конфиденциального уровня</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsSectNavViewItemSeperator</name>
     <message>
         <source>Add Section Break</source>
@@ -48811,6 +48356,57 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
 </context>
 <context>
+    <name>KxWpsMailSenderTestDlg</name>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>О&amp;тмена</translation>
+    </message>
+    <message>
+        <source>Receiving this mail means your configuration is successful. </source>
+        <translation>Если вы получите это письмо, значит конфигурация правильная. </translation>
+    </message>
+    <message>
+        <source>Test failed.Please check the information.</source>
+        <translation>Сбой теста. Изучите сведения.</translation>
+    </message>
+    <message>
+        <source>&amp;Done</source>
+        <translation>Готово (&amp;Г)</translation>
+    </message>
+    <message>
+        <source>WPS Mail Merge Test Mail</source>
+        <translation>Объединение почтовых адресов WPS — тестовое письмо</translation>
+    </message>
+    <message>
+        <source>Send test Email</source>
+        <translation>Отправить тестовое электронное письмо</translation>
+    </message>
+    <message>
+        <source>Login to SMTP server</source>
+        <translation>Вход на почтовый сервер</translation>
+    </message>
+    <message>
+        <source>Mail Config</source>
+        <translation>Конфигурация электронной почты</translation>
+    </message>
+    <message>
+        <source>Account setup successful</source>
+        <translation>Тест настройки учетной записи завершен.</translation>
+    </message>
+    <message>
+        <source>.Please trying using independent password</source>
+        <translation>. Используйте код авторизации, чтобы войти в почтовую учетную запись.</translation>
+    </message>
+    <message>
+        <source>You are all set for the group mail feature.</source>
+        <translation>Вы настроили все, что необходимо для функции групповой отправки писем.</translation>
+    </message>
+    <message>
+        <source>You are sending testing mail through WPS mail merge feature. </source>
+        <translation>Вы отправляете тестовое письмо с помощью функции объединения почтовых адресов WPS.</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgUnProtectDocument</name>
     <message>
         <source>&amp;Password:</source>
@@ -48858,21 +48454,6 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
 </context>
 <context>
-    <name>KxDocElementsWidget</name>
-    <message>
-        <source>Edition:</source>
-        <translation>Элементы версии:</translation>
-    </message>
-    <message>
-        <source>IU_unit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Header:</source>
-        <translation>Верхний колонтитул:</translation>
-    </message>
-</context>
-<context>
     <name>wps_field_parser_autotext</name>
     <message>
         <source>Error! No autotext entry supplied</source>
@@ -48907,13 +48488,6 @@ Converting allows you to use all the new features of Word and reduces the size o
     <message>
         <source>The number must be between %1 and %2.</source>
         <translation>Число должно быть между %1 и %2.</translation>
-    </message>
-</context>
-<context>
-    <name>KxCreateContentsToolTip</name>
-    <message>
-        <source>click &quot;Create Navigation&quot;, show document structure.</source>
-        <translation>Нажмите &quot;Создать навигацию каталога&quot;, чтобы показать структуру документа.</translation>
     </message>
 </context>
 <context>
@@ -48952,6 +48526,21 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
 </context>
 <context>
+    <name>KxWpsEquationOptionsDlg</name>
+    <message>
+        <source>Template is missing.</source>
+        <translation>Шаблон отсутствует.</translation>
+    </message>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation>Это изменение повлияет на все новые документы, основанные на шаблоне &quot;ОБЫЧНЫЙ&quot;.</translation>
+    </message>
+    <message>
+        <source>Save failed.</source>
+        <translation>Произошла ошибка. Не удалось внести изменение.</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
@@ -48963,6 +48552,66 @@ Converting allows you to use all the new features of Word and reduces the size o
     <message>
         <source>The measurement must be between %1 and %2.</source>
         <translation>Измерения должны быть между %1 и %2.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation>Поддержать запрос совместимости</translation>
+    </message>
+    <message>
+        <source>Do not remind me again.</source>
+        <translation>Больше не напоминать.</translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you'll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation>Документ будет заменен преобразованной версией.
+
+&apos;Хотя вы сможете использовать все новые возможности Word, это может привести к незначительным
+изменениям в структуре. Если вы предпочитаете не выполнять обновление, нажмите кнопку «Отмена» и 
+установите флажок обеспечения совместимости.</translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
+        <translation>Больше не задавать этот вопрос.</translation>
+    </message>
+    <message>
+        <source>You are saving an old-format document as a new format.
+
+While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
+        <translation>Вы собираетесь сохранить документ со старым форматом в новом формате.
+
+Это может повлиять на графические элементы и абзацы, но после сохранения в новом формате можно использовать дополнительные функции.</translation>
+    </message>
+    <message>
+        <source>Save as a new format</source>
+        <translation> Сохранить как новый формат</translation>
+    </message>
+    <message>
+        <source>Save new format</source>
+        <translation>Сохранить новый формат</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsApplication</name>
+    <message>
+        <source>Official Document</source>
+        <translation>Официальный документ</translation>
+    </message>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation>Вставленный рисунок отображается не полностью. Скорректировать междустрочный интервал автоматически в соответствии с размером рисунка?</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation>Текст WPS нельзя сохранить как Normal.dotm.
+Нажмите &quot;ОК&quot;, чтобы удалить несохраненное содержимое и закрыть процесс. Если хотите продолжить, нажмите &quot;Отмена&quot;.</translation>
     </message>
 </context>
 <context>
@@ -48998,13 +48647,6 @@ Converting allows you to use all the new features of Word and reduces the size o
     <message>
         <source>Advanced find</source>
         <translation>Расширенный поиск</translation>
-    </message>
-</context>
-<context>
-    <name>KeyWordCheckEntryButton</name>
-    <message>
-        <source>Classified check</source>
-        <translation>Проверить конфиденциальный уровень</translation>
     </message>
 </context>
 <context>
@@ -49073,6 +48715,21 @@ represent the recipient&apos;s information content</source>
     </message>
 </context>
 <context>
+    <name>KxDocElementsWidget</name>
+    <message>
+        <source>Header:</source>
+        <translation>Верхний колонтитул:</translation>
+    </message>
+    <message>
+        <source>Edition:</source>
+        <translation>Элементы версии:</translation>
+    </message>
+    <message>
+        <source>IU_unit</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsDuplexPrintCombobox</name>
     <message>
         <source>Duplex Print:</source>
@@ -49084,13 +48741,6 @@ represent the recipient&apos;s information content</source>
     <message>
         <source>The field delimiter cannot be the same as the record delimiter.</source>
         <translation>Разделитель полей и разделитель записей должны отличаться.</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsSmartOfficialCommand</name>
-    <message>
-        <source>Smart Official</source>
-        <translation>Интеллектуальное преобразование официальных документов</translation>
     </message>
 </context>
 <context>
@@ -49112,6 +48762,478 @@ represent the recipient&apos;s information content</source>
     <message>
         <source>Click here to insert pictures.</source>
         <translation>Щелкните, чтобы вставить рисунок.</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfficialTemplateBeginerDialog</name>
+    <message>
+        <source>Beginner Guide</source>
+        <translation>Руководство для новичка</translation>
+    </message>
+    <message>
+        <source>Start Design</source>
+        <translation>Начать оформление</translation>
+    </message>
+    <message>
+        <source>Use the toolbar on the right to design your own official document template.</source>
+        <translation>Каждый элемент можно оформить на панели инструментов справа, в том числе добавить, удалить или изменить его содержимое.</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomShortCutDlg</name>
+    <message>
+        <source>&quot;</source>
+        <translation>&quot;</translation>
+    </message>
+    <message>
+        <source>&quot;Tab</source>
+        <translation>&quot;Вкладка</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects horizontally</source>
+        <translation>Распределить выбранные объекты рисования горизонтально</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects to the back</source>
+        <translation>Разместить выделенные объекты рисования внизу</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects horizontally to the center</source>
+        <translation>Выровнять выделенные объекты рисования горизонтально по центру</translation>
+    </message>
+    <message>
+        <source>Scales the current view to 100%</source>
+        <translation>Установить для текущего представления масштаб 100%</translation>
+    </message>
+    <message>
+        <source>&amp;Categories:</source>
+        <translation>Категории:</translation>
+    </message>
+    <message>
+        <source>Auto-Fit Table to the contents</source>
+        <translation>Автоматически изменять таблицу на основе содержимого</translation>
+    </message>
+    <message>
+        <source>Fill Color Picker</source>
+        <translation>Выбор цвета заливки</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects vertically</source>
+        <translation>Распределить выбранные объекты рисования вертикально</translation>
+    </message>
+    <message>
+        <source>Deletes the selected cells from the table</source>
+        <translation>Удалить выбранные ячейки из таблицы</translation>
+    </message>
+    <message>
+        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Изменить внутренние границы выбранных параграфов, ячеек таблицы и изображений</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
+        <translation>Подтвердить сброс назначений клавиш? Это действие удалит все клавиши, которые сейчас назначены макросам и стилям в %1.</translation>
+    </message>
+    <message>
+        <source>Press &amp;new shortcut key:</source>
+        <translation>Нажать «Создать сочетание клавиш»:</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>Меню &quot;Файл&quot;</translation>
+    </message>
+    <message>
+        <source>Quits WPS and prompts to save the documents</source>
+        <translation>Закрыть WPS и предложить сохранить документ</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects vertically to the center</source>
+        <translation>Выровнять выделенные объекты рисования вертикально по центру</translation>
+    </message>
+    <message>
+        <source>Saves the active document or template</source>
+        <translation>Сохранение активного документа или шаблона</translation>
+    </message>
+    <message>
+        <source>C&amp;ommands:</source>
+        <translation>Команды:</translation>
+    </message>
+    <message>
+        <source>Customize keyboard</source>
+        <translation>Настройка клавиатуры</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Макросы</translation>
+    </message>
+    <message>
+        <source>Opens an existing document or template</source>
+        <translation>Открыть существующий документ или шаблон</translation>
+    </message>
+    <message>
+        <source>Displays a document&apos;s outline</source>
+        <translation>Просмотр документа в виде структуры и отображение инструментов, используемых при работе в режиме структуры.</translation>
+    </message>
+    <message>
+        <source>Accepts all changes that are highlighted in the current filter settings</source>
+        <translation>Принять все изменения, выделенные для текущих параметров фильтра</translation>
+    </message>
+    <message>
+        <source>Save file as DOCX document</source>
+        <translation>Сохранить файл как документ DOCX</translation>
+    </message>
+    <message>
+        <source>Selects the current cell in a table</source>
+        <translation>Выделить текущую ячейку в таблице</translation>
+    </message>
+    <message>
+        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Изменить внешние границы выбранных параграфов, ячеек таблицы и изображений</translation>
+    </message>
+    <message>
+        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Изменить нижнюю границу выбранных параграфов, ячеек таблицы и изображений</translation>
+    </message>
+    <message>
+        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
+        <translation>Вставить пустое текстовое поле или поместить выделенный диапазон в текстовое поле</translation>
+    </message>
+    <message>
+        <source>Sends the active document through electronic mail</source>
+        <translation>Отправить активный документ по электронной почте</translation>
+    </message>
+    <message>
+        <source>Selects the entire document</source>
+        <translation>Выделить весь документ</translation>
+    </message>
+    <message>
+        <source>Opens a data source for mail merge of insert database</source>
+        <translation>Открыть источник данных для объединения почты или вставки базы данных</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
+        <translation>Показать/скрыть область сводной информации для просмотра и редактирования версий документа (горизонтальная)</translation>
+    </message>
+    <message>
+        <source>Selects the current column in a table</source>
+        <translation>Выделить текущий столбец в таблице</translation>
+    </message>
+    <message>
+        <source>Deletes the selected columns from the table</source>
+        <translation>Удалить выбранные столбцы из таблицы</translation>
+    </message>
+    <message>
+        <source>Changes the height and width of the rows and columns in a table</source>
+        <translation>Изменить высоту строк и ширину столбцов в таблице</translation>
+    </message>
+    <message>
+        <source>Saves a copy of the document in a separate file</source>
+        <translation>Сохранение копии документа в отдельном файле</translation>
+    </message>
+    <message>
+        <source>Macr&amp;os:</source>
+        <translation>Макрос:</translation>
+    </message>
+    <message>
+        <source>Deletes the selected table</source>
+        <translation>Удалить выбранную таблицу</translation>
+    </message>
+    <message>
+        <source>Specify a command</source>
+        <translation>Указать команду</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected columns</source>
+        <translation>Равномерно распределить выделенные столбцы</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the right</source>
+        <translation>Выровнять выделенные объекты рисования по правому краю</translation>
+    </message>
+    <message>
+        <source>Specify keyboard sequence</source>
+        <translation>Указать последовательность клавиш</translation>
+    </message>
+    <message>
+        <source>Cuts the selection and puts in on the Clipboard</source>
+        <translation>Вырезание выделенного диапазона и помещение его в системный буфер обмена.</translation>
+    </message>
+    <message>
+        <source>Selects the current row in a table</source>
+        <translation>Выделить текущую строку в таблице</translation>
+    </message>
+    <message>
+        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Изменить левую границу выбранных параграфов, ячеек таблицы и изображений</translation>
+    </message>
+    <message>
+        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
+        <translation>Удалить границы выбранных параграфов, ячеек таблицы и изображений</translation>
+    </message>
+    <message>
+        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
+        <translation>Отображение всех версий в документе в виде списка в области.</translation>
+    </message>
+    <message>
+        <source>Changes all the borders of the selected table cells</source>
+        <translation>Изменить все границы выбранных ячеек</translation>
+    </message>
+    <message>
+        <source>Save file as Word 97-2003 Document</source>
+        <translation>Сохранить файл как документ Word 97-2003</translation>
+    </message>
+    <message>
+        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
+        <translation>Вставка содержимого из буфера обмена в качестве связанного объекта, встроенного объекта или другой формы</translation>
+    </message>
+    <message>
+        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Изменить верхние границы выбранных параграфов, ячеек таблицы и изображений</translation>
+    </message>
+    <message>
+        <source>Show or hide comment balloons</source>
+        <translation>Показать или скрыть поле комментариев</translation>
+    </message>
+    <message>
+        <source>Rejects all changes in document, ignoring filter settings</source>
+        <translation>Отклонить все изменения в документе, игнорируя параметры фильтра</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Описание</translation>
+    </message>
+    <message>
+        <source>Always use balloons</source>
+        <translation>Всегда использовать поле комментариев</translation>
+    </message>
+    <message>
+        <source>Show or hide markup balloons</source>
+        <translation>Показать или скрыть поле исправления</translation>
+    </message>
+    <message>
+        <source>Accepts all changes in document, ignoring filter settings</source>
+        <translation>Принять все изменения в документе, игнорируя параметры фильтра</translation>
+    </message>
+    <message>
+        <source>Changes the page setup of the selected sections</source>
+        <translation>Изменить параметры страницы для выделенного раздела</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>Назначить</translation>
+    </message>
+    <message>
+        <source>Scales the editing view to see the two pages in page layout view</source>
+        <translation>Изменение масштаба документа для просмотра нескольких страниц в окне.</translation>
+    </message>
+    <message>
+        <source>Changes various categories of WPS options</source>
+        <translation>Изменить различные параметры WPS</translation>
+    </message>
+    <message>
+        <source>Marks the text you want to include in the index</source>
+        <translation>Добавление выделенного текста в индекс документа.</translation>
+    </message>
+    <message>
+        <source>Sa&amp;ve changes in:</source>
+        <translation>Сохранить изменения в:</translation>
+    </message>
+    <message>
+        <source>Selects an entire table</source>
+        <translation>Выделить всю таблицу</translation>
+    </message>
+    <message>
+        <source>Insert ink comment</source>
+        <translation>Вставить комментарий</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>У&amp;далить</translation>
+    </message>
+    <message>
+        <source>Deletes all comments in document, ignoring filter settings</source>
+        <translation>Удалить все комментарии в документе, игнорируя параметры фильтра</translation>
+    </message>
+    <message>
+        <source>C&amp;urrent keys:</source>
+        <translation>Текущие клавиши:</translation>
+    </message>
+    <message>
+        <source>Re&amp;set All...</source>
+        <translation>Сбросить все...</translation>
+    </message>
+    <message>
+        <source>Jumps to a specified place in the active document</source>
+        <translation>Перейти в указанное место активного документа</translation>
+    </message>
+    <message>
+        <source>Deletes the selected rows from the table</source>
+        <translation>Удалить выбранные строки из таблицы</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected rows</source>
+        <translation>Равномерно распределить выделенные строки</translation>
+    </message>
+    <message>
+        <source>Rejects all changes that are highlighted in the current filter settings</source>
+        <translation>Отклонить все изменения, выделенные для текущих параметров фильтра</translation>
+    </message>
+    <message>
+        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Изменить правую границу выбранных параграфов, ячеек таблицы и изображений</translation>
+    </message>
+    <message>
+        <source>[Underline]</source>
+        <translation>[Подчеркивание]</translation>
+    </message>
+    <message>
+        <source>Toggles table gridlines on and off in Ribbon</source>
+        <translation>Включение и выключение линий сетки таблицы на ленте</translation>
+    </message>
+    <message>
+        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
+        <translation>Вставить пустое вертикальное текстовое поле или поместить выделенный диапазон в вертикальное текстовое поле</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
+        <translation>Показать/скрыть область сводной информации для просмотра и редактирования версий документа (вертикальная)</translation>
+    </message>
+    <message>
+        <source>Creates a Quick Style style out of the currently selected text</source>
+        <translation>Создать &quot;экспресс-стиль&quot; из выбранного текста</translation>
+    </message>
+    <message>
+        <source>Opens New Document taskpane</source>
+        <translation>Открыть область задач &quot;Новый документ&quot;</translation>
+    </message>
+    <message>
+        <source>Creates a new AutoText Building Block from the current selection</source>
+        <translation>Создать новый стандартный блок автотекста на основе текущего выделенного диапазона</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the left</source>
+        <translation>Выровнять выделенные объекты рисования по левому краю</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the bottom</source>
+        <translation>Выровнять выделенные объекты рисования по нижнему краю</translation>
+    </message>
+    <message>
+        <source>Removes Table of Contents building block from the document</source>
+        <translation>Удалить стандартный блок оглавления из документа</translation>
+    </message>
+    <message>
+        <source>Changes the font of the selection</source>
+        <translation>Изменить шрифт выделенного диапазона</translation>
+    </message>
+    <message>
+        <source>Copies the selection and puts it on the Clipboard</source>
+        <translation>Копирование выделенного диапазона и помещение его в системный буфер обмена.</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects backward</source>
+        <translation>Разместить выделенные объекты рисования позади</translation>
+    </message>
+    <message>
+        <source>Currently assigned to: </source>
+        <translation>Назначенный для: </translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the top</source>
+        <translation>Выровнять выделенные объекты рисования по верхнему краю</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialAddPageNumWarningDlg</name>
+    <message>
+        <source>The same attribute page number template %1 already exists and cannot be created</source>
+        <translation>Шаблон номеров страниц %1 с таким же атрибутом уже существует. Ошибка при создании.</translation>
+    </message>
+    <message>
+        <source>Cannot create page number template</source>
+        <translation>Не удалось создать шаблон номеров страниц.</translation>
+    </message>
+    <message>
+        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
+        <translation>Можно сохранить не более 99 шаблонов номеров страниц официальных документов. Удалите некоторые страницы и повторите попытку.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialImportWaringDlg</name>
+    <message>
+        <source>Aleady selected</source>
+        <translation>Вы выбрали</translation>
+    </message>
+    <message>
+        <source>more can be imported</source>
+        <translation> шабл.</translation>
+    </message>
+    <message>
+        <source>templates, up to</source>
+        <translation> шабл. Можно импортировать еще</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialDelCustomPageNumDlg</name>
+    <message>
+        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
+        <translation>Шаблон номеров страниц %1 будет удален, а существующие номера страниц в документе удалены не будут.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNumberingModel</name>
+    <message>
+        <source>GalleryOfficalOutlineNumbering</source>
+        <translation>Многоуровневый номер официального документа</translation>
+    </message>
+    <message>
+        <source>GalleryOfficialNumbering</source>
+        <translation>Номер официального документа</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementTextEditValidator</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation>Не более %1 симв.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetPlaintTextEdit</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation>Не более %1 симв.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNewDocumentDlg</name>
+    <message>
+        <source>New Empty</source>
+        <translation>Новый пустой официальный документ</translation>
+    </message>
+</context>
+<context>
+    <name>KxCreateContentsToolTip</name>
+    <message>
+        <source>click &quot;Create Navigation&quot;, show document structure.</source>
+        <translation>Нажмите &quot;Создать навигацию каталога&quot;, чтобы показать структуру документа.</translation>
+    </message>
+</context>
+<context>
+    <name>KeyWordCheckEntryButton</name>
+    <message>
+        <source>Classified check</source>
+        <translation>Проверить конфиденциальный уровень</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartOfficialCommand</name>
+    <message>
+        <source>Smart Official</source>
+        <translation>Интеллектуальное преобразование официальных документов</translation>
     </message>
 </context>
 </TS>
