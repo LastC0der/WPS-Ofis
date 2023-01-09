@@ -4316,6 +4316,10 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <translation>Już zaktualizowano do nowej wersji. Zamknij bieżący plik i otwórz go ponownie.</translation>
     </message>
     <message>
+        <source>&amp;View On Website</source>
+        <translation type="unfinished"/>
+    </message>	
+    <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation>Uaktualnij WPS Office Cloud, aby doświadczyć najnowszej wersji.</translation>
     </message>
