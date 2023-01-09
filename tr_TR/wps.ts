@@ -30258,7 +30258,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Gözden Geçirenler</translation>
     </message>
     <message>
         <source>2.25 pt</source>
@@ -36108,7 +36108,7 @@ Changes</source>
     </message>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Gözden Geçirenler</translation>
     </message>
     <message>
         <source>Show Author</source>
@@ -43180,11 +43180,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>All Reviewers(&amp;A)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Gözden Geçirenler</translation>
     </message>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Gözden Geçirenler</translation>
     </message>
     <message>
         <source>Select This</source>
@@ -43211,7 +43211,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Print only on one side of the paper</source>
-        <translation type="unfinished"/>
+        <translation>Kağıdın yalnızca bir yüzüne yazdırın</translation>
     </message>
     <message>
         <source>Print one sided</source>
@@ -43219,7 +43219,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Reload paper when prompted to print the second side</source>
-        <translation type="unfinished"/>
+        <translation>İkinci tarafı yazdırmanız istendiğinde kağıdı yeniden yükleyin</translation>
     </message>
     <message>
         <source>Flip on short edge</source>
@@ -43238,7 +43238,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>button</source>
-        <translation type="unfinished"/>
+        <translation>düğme</translation>
     </message>
     <message>
         <source>dialog</source>
@@ -47540,14 +47540,14 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     <name>KxWpsReviewersComboBox</name>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Gözden Geçirenler</translation>
     </message>
 </context>
 <context>
     <name>KxWpsReviewersWithSelectThisComboBox</name>
     <message>
         <source>All Reviewers</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Gözden Geçirenler</translation>
     </message>
 </context>
 <context>
