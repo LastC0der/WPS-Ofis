@@ -2747,5 +2747,21 @@ Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translati
         <source>TableFontEffects.content</source>
         <translation>Ajoutez à votre texte un effet visuel tel que l&apos;ombre ou la réflexion.</translation>
     </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 </TS>
