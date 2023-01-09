@@ -91,6 +91,10 @@
         <source>Please describe your problems or advices in detail</source>
         <translation>Silakan jelaskan masalah atau saran Anda secara detail.</translation>
     </message>
+    <message>
+        <source>Top Questions</source>
+        <translation>Pertanyaan Terbaik</translation>
+    </message>
 </context>
 <context>
     <name>KRatingWidget</name>
