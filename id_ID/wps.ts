@@ -65,6 +65,10 @@
         <source>Encl&amp;osure:</source>
         <translation>Lampiran: (&amp;m)</translation>
     </message>
+    <message>
+        <source>印</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
@@ -214,373 +218,6 @@
     </message>
 </context>
 <context>
-    <name>KxCustomShortCutDlg</name>
-    <message>
-        <source>&quot;</source>
-        <translation>&quot;</translation>
-    </message>
-    <message>
-        <source>&quot;Tab</source>
-        <translation>&quot;Tab</translation>
-    </message>
-    <message>
-        <source>Distribute the selected drawing objects horizontally</source>
-        <translation>Distribusikan objek gambar yang dipilih secara horizontal</translation>
-    </message>
-    <message>
-        <source>Sends the selected drawing objects to the back</source>
-        <translation>Kirimkan objek gambar yang dipilih ke bawah</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Tutup</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects horizontally to the center</source>
-        <translation>Ratakan objek gambar yang dipilih secara horizontal ke tengah</translation>
-    </message>
-    <message>
-        <source>Scales the current view to 100%</source>
-        <translation>Skalakan tampilan saat ini ke 100%</translation>
-    </message>
-    <message>
-        <source>&amp;Categories:</source>
-        <translation>Kategori:</translation>
-    </message>
-    <message>
-        <source>Auto-Fit Table to the contents</source>
-        <translation>Secara otomatis sesuaikan tabel berdasarkan konten</translation>
-    </message>
-    <message>
-        <source>Fill Color Picker</source>
-        <translation>Pemilih Warna Isian</translation>
-    </message>
-    <message>
-        <source>Distribute the selected drawing objects vertically</source>
-        <translation>Distribusikan objek gambar yang dipilih secara vertikal</translation>
-    </message>
-    <message>
-        <source>Deletes the selected cells from the table</source>
-        <translation>Hapus sel yang dipilih dari tabel</translation>
-    </message>
-    <message>
-        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Ubah batas dalam paragraf, sel tabel, dan gambar yang dipilih</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
-        <translation>Konfirmasi untuk mengatur ulang penetapan tombol? Tindakan ini akan menghapus semua tombol yang saat ini ditetapkan untuk makro dan gaya di %1.</translation>
-    </message>
-    <message>
-        <source>Press &amp;new shortcut key:</source>
-        <translation>Tekan tombol pintasan baru:</translation>
-    </message>
-    <message>
-        <source>File menu</source>
-        <translation>Menu &quot;File&quot;</translation>
-    </message>
-    <message>
-        <source>Quits WPS and prompts to save the documents</source>
-        <translation>Keluar dari WPS dan minta untuk menyimpan dokumen</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects vertically to the center</source>
-        <translation>Ratakan objek gambar yang dipilih secara vertikal ke tengah</translation>
-    </message>
-    <message>
-        <source>Saves the active document or template</source>
-        <translation>Simpan dokumen atau tempatle yang aktif</translation>
-    </message>
-    <message>
-        <source>C&amp;ommands:</source>
-        <translation>Perintah:</translation>
-    </message>
-    <message>
-        <source>Customize keyboard</source>
-        <translation>Sesuaikan keyboard</translation>
-    </message>
-    <message>
-        <source>Macros</source>
-        <translation>Makro</translation>
-    </message>
-    <message>
-        <source>Opens an existing document or template</source>
-        <translation>Buka dokumen atau template yang ada</translation>
-    </message>
-    <message>
-        <source>Displays a document&apos;s outline</source>
-        <translation>Lihat dokumen sebagai garis besar.</translation>
-    </message>
-    <message>
-        <source>Accepts all changes that are highlighted in the current filter settings</source>
-        <translation>Terima semua perubahan yang disoroti dalam pengaturan filter saat ini</translation>
-    </message>
-    <message>
-        <source>Save file as DOCX document</source>
-        <translation>Simpan file sebagai dokumen DOCX</translation>
-    </message>
-    <message>
-        <source>Selects the current cell in a table</source>
-        <translation>Pilih sel saat ini dalam tabel</translation>
-    </message>
-    <message>
-        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Ubah batas luar paragraf, sel tabel, dan gambar yang dipilih</translation>
-    </message>
-    <message>
-        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Ubah batas bawah paragraf, sel tabel, dan gambar yang dipilih</translation>
-    </message>
-    <message>
-        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
-        <translation>Sisipkan kotak teks kosong atau tempatkan pilihan dalam kotak teks</translation>
-    </message>
-    <message>
-        <source>Sends the active document through electronic mail</source>
-        <translation>Kirimkan dokumen aktif melalui Email</translation>
-    </message>
-    <message>
-        <source>Selects the entire document</source>
-        <translation>Pilih seluruh dokumen</translation>
-    </message>
-    <message>
-        <source>Opens a data source for mail merge of insert database</source>
-        <translation>Buka sumber data untuk gabungan surat atau menyisipkan database</translation>
-    </message>
-    <message>
-        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
-        <translation>Tampilkan/sembunyikan panel ringkasan untuk melihat dan mengedit revisi dokumen (horizontal)</translation>
-    </message>
-    <message>
-        <source>Selects the current column in a table</source>
-        <translation>Pilih kolom saat ini dalam tabel</translation>
-    </message>
-    <message>
-        <source>Deletes the selected columns from the table</source>
-        <translation>Hapus kolom yang dipilih dari tabel</translation>
-    </message>
-    <message>
-        <source>Changes the height and width of the rows and columns in a table</source>
-        <translation>Ubah tinggi baris dan lebar kolom dalam tabel</translation>
-    </message>
-    <message>
-        <source>Saves a copy of the document in a separate file</source>
-        <translation>Simpan salinan dokumen dalam file terpisah</translation>
-    </message>
-    <message>
-        <source>Macr&amp;os:</source>
-        <translation>Makro:</translation>
-    </message>
-    <message>
-        <source>Deletes the selected table</source>
-        <translation>Hapus tabel yang dipilih</translation>
-    </message>
-    <message>
-        <source>Specify a command</source>
-        <translation>Tentukan perintah</translation>
-    </message>
-    <message>
-        <source>Evenly distributes selected columns</source>
-        <translation>Distribusikan kolom yang dipilih secara merata</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the right</source>
-        <translation>Ratakan objek gambar yang dipilih ke kanan</translation>
-    </message>
-    <message>
-        <source>Specify keyboard sequence</source>
-        <translation>Tentukan urutan keyboard</translation>
-    </message>
-    <message>
-        <source>Cuts the selection and puts in on the Clipboard</source>
-        <translation>Potong pilihan dan tempatkan dalam clipboard sistem.</translation>
-    </message>
-    <message>
-        <source>Selects the current row in a table</source>
-        <translation>Pilih baris saat ini dalam tabel</translation>
-    </message>
-    <message>
-        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Ubah batas kiri paragraf, sel tabel, dan gambar yang dipilih</translation>
-    </message>
-    <message>
-        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
-        <translation>Hapus batas dari paragraf, sel tabel, dan gambar yang dipilih</translation>
-    </message>
-    <message>
-        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
-        <translation>Tampilkan semua revisi dalam dokumen sebagai daftar di panel.</translation>
-    </message>
-    <message>
-        <source>Changes all the borders of the selected table cells</source>
-        <translation>Ubah semua batas sel yang dipilih</translation>
-    </message>
-    <message>
-        <source>Save file as Word 97-2003 Document</source>
-        <translation>Simpan file sebagai Documen Word 97-2003</translation>
-    </message>
-    <message>
-        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
-        <translation>Menyisipkan konten dari clipboard sebagai objek yang ditautkan, objek yang disematkan, atau bentuk lainnya</translation>
-    </message>
-    <message>
-        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
-        <translation>Ubah batas atas paragraf, sel tabel, dan gambar yang dipilih</translation>
-    </message>
-    <message>
-        <source>Show or hide comment balloons</source>
-        <translation>Tampilkan atau sembunyikan kotak komentar</translation>
-    </message>
-    <message>
-        <source>Rejects all changes in document, ignoring filter settings</source>
-        <translation>Tolak semua perubahan dalam dokumen, abaikan pengaturan filter</translation>
-    </message>
-    <message>
-        <source>Description</source>
-        <translation>Deskripsi</translation>
-    </message>
-    <message>
-        <source>Always use balloons</source>
-        <translation>Selalu gunakan kotak komentar</translation>
-    </message>
-    <message>
-        <source>Show or hide markup balloons</source>
-        <translation>Tampilkan atau sembunyikan kotak markup</translation>
-    </message>
-    <message>
-        <source>Accepts all changes in document, ignoring filter settings</source>
-        <translation>Terima semua perubahan dalam dokumen, abaikan pengaturan filter</translation>
-    </message>
-    <message>
-        <source>Changes the page setup of the selected sections</source>
-        <translation>Ubah pengaturan halaman untuk bagian yang dipilih</translation>
-    </message>
-    <message>
-        <source>&amp;Assign</source>
-        <translation>Tetapkan</translation>
-    </message>
-    <message>
-        <source>Scales the editing view to see the two pages in page layout view</source>
-        <translation>Ubah skala dokumen untuk melihat beberapa halaman di jendela.</translation>
-    </message>
-    <message>
-        <source>Changes various categories of WPS options</source>
-        <translation>Ubah berbagai opsi WPS</translation>
-    </message>
-    <message>
-        <source>Marks the text you want to include in the index</source>
-        <translation>Tandai teks yang dipilih pada indeks dokumen.</translation>
-    </message>
-    <message>
-        <source>Sa&amp;ve changes in:</source>
-        <translation>Simpan perubahan di:</translation>
-    </message>
-    <message>
-        <source>Selects an entire table</source>
-        <translation>Pilih seluruh tabel</translation>
-    </message>
-    <message>
-        <source>Insert ink comment</source>
-        <translation>Sisipkan komentar</translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation>Hapus</translation>
-    </message>
-    <message>
-        <source>Deletes all comments in document, ignoring filter settings</source>
-        <translation>Hapus semua komentar dalam dokumen, abaikan pengaturan filter</translation>
-    </message>
-    <message>
-        <source>C&amp;urrent keys:</source>
-        <translation>Tombol saat ini:</translation>
-    </message>
-    <message>
-        <source>Re&amp;set All...</source>
-        <translation>Atur Ulang Semua...</translation>
-    </message>
-    <message>
-        <source>Jumps to a specified place in the active document</source>
-        <translation>Lompat ke tempat yang ditentukan dalam dokumen aktif</translation>
-    </message>
-    <message>
-        <source>Deletes the selected rows from the table</source>
-        <translation>Hapus baris yang dipilih dari tabel</translation>
-    </message>
-    <message>
-        <source>Evenly distributes selected rows</source>
-        <translation>Distribusikan baris yang dipilih secara merata</translation>
-    </message>
-    <message>
-        <source>Rejects all changes that are highlighted in the current filter settings</source>
-        <translation>Tolak semua perubahan yang disoroti dalam pengaturan filter saat ini</translation>
-    </message>
-    <message>
-        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
-        <translation>Ubah batas kanan paragraf, sel tabel, dan gambar yang dipilih</translation>
-    </message>
-    <message>
-        <source>[Underline]</source>
-        <translation>[Garis bawah]</translation>
-    </message>
-    <message>
-        <source>Toggles table gridlines on and off in Ribbon</source>
-        <translation>Aktifkan dan nonaktifkan garis kisi di Pita</translation>
-    </message>
-    <message>
-        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
-        <translation>Sisipkan kotak teks vertikal kosong atau tempatkan pilihan dalam kotak teks vertikal</translation>
-    </message>
-    <message>
-        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
-        <translation>Tampilkan/sembunyikan panel ringkasan untuk melihat dan mengedit revisi dokumen (vertikal)</translation>
-    </message>
-    <message>
-        <source>Creates a Quick Style style out of the currently selected text</source>
-        <translation>Buat &quot;Gaya Cepat&quot; dari teks yang saat ini dipilih</translation>
-    </message>
-    <message>
-        <source>Opens New Document taskpane</source>
-        <translation>Buka panel tugas&quot; Dokumen Baru&quot;</translation>
-    </message>
-    <message>
-        <source>Creates a new AutoText Building Block from the current selection</source>
-        <translation>Buat dasar pembuatan AutoText yang baru berdasarkan pilihan saat ini</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the left</source>
-        <translation>Ratakan objek gambar yang dipilih ke kiri</translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the bottom</source>
-        <translation>Ratakan objek gambar yang dipilih ke bawah</translation>
-    </message>
-    <message>
-        <source>Removes Table of Contents building block from the document</source>
-        <translation>Hapus Daftar Isi dasar pembuatan dari dokumen</translation>
-    </message>
-    <message>
-        <source>Changes the font of the selection</source>
-        <translation>Ubah font pilihan</translation>
-    </message>
-    <message>
-        <source>Copies the selection and puts it on the Clipboard</source>
-        <translation>Salin pilihan dan tempatkan dalam clipboard sistem.</translation>
-    </message>
-    <message>
-        <source>Sends the selected drawing objects backward</source>
-        <translation>Kirimkan objek gambar yang dipilih ke belakang</translation>
-    </message>
-    <message>
-        <source>Currently assigned to: </source>
-        <translation>Ditetapkan untuk: </translation>
-    </message>
-    <message>
-        <source>Aligns the selected drawing objects to the top</source>
-        <translation>Ratakan objek gambar yang dipilih ke atas</translation>
-    </message>
-</context>
-<context>
     <name>KxFontSubstitutionDlg</name>
     <message>
         <source>&quot;</source>
@@ -629,6 +266,10 @@
     <message>
         <source>&amp;Substituted font:</source>
         <translation>Ganti font(&amp;S):</translation>
+    </message>
+    <message>
+        <source>more online fonts</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1061,10 +702,6 @@
         <translation>Pantulan</translation>
     </message>
     <message>
-        <source>The top/bottom margins are too large for the page height in some sections.</source>
-        <translation>Margin atas/bawah terlalu besar untuk ketinggian halaman di beberapa bagian.</translation>
-    </message>
-    <message>
         <source>Cannot Load this Add-In.</source>
         <translation>Tidak dapat Memuatkan Add-In ini.</translation>
     </message>
@@ -1126,10 +763,6 @@ Isi</translation>
     <message>
         <source>Recorded %d too few data fields.</source>
         <translation>Rekam %d berisi terlalu sedikit ruas data.</translation>
-    </message>
-    <message>
-        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
-        <translation>Kolom/baris pengalihan akan menghasilkan perubahan berikut dalam spreadsheet. Lanjutkan dengan operasi ini?</translation>
     </message>
     <message>
         <source>Condensed by </source>
@@ -1473,10 +1106,6 @@ Sampul</translation>
     <message>
         <source>(Complex)</source>
         <translation>(Kompleks)</translation>
-    </message>
-    <message>
-        <source>Need Help?</source>
-        <translation>Butuh Bantuan?</translation>
     </message>
     <message>
         <source>Selects the current cell in a table</source>
@@ -2077,10 +1706,6 @@ Sampul</translation>
         <translation>Saat ini</translation>
     </message>
     <message>
-        <source>Custom </source>
-        <translation>Jarak Baris</translation>
-    </message>
-    <message>
         <source>Numbering Style</source>
         <translation>Gaya Penomoran</translation>
     </message>
@@ -2336,12 +1961,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source> Ln: %d   Col: %d</source>
         <translation> Baris: %d   Kol: %d</translation>
-    </message>
-    <message>
-        <source>
-· Delete all %s</source>
-        <translation>
-· Hapus %s</translation>
     </message>
     <message>
         <source>Rejects all changes that are highlighted in the current filter settings</source>
@@ -2647,6 +2266,73 @@ Anda ingin menimpanya?</translation>
         <source>No line between</source>
         <translation>Tidak ada garis antara</translation>
     </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections.</source>
+        <translation>Margin atas/bawah terlalu besar untuk ketinggian halaman di beberapa bagian.</translation>
+    </message>
+    <message>
+        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
+        <translation>Kolom/baris pengalihan akan menghasilkan perubahan berikut dalam spreadsheet. Lanjutkan dengan operasi ini?</translation>
+    </message>
+    <message>
+        <source>Need Help?</source>
+        <translation>Butuh Bantuan?</translation>
+    </message>
+    <message>
+        <source>Custom </source>
+        <translation>Jarak Baris</translation>
+    </message>
+    <message>
+        <source>
+· Delete all %s</source>
+        <translation>
+· Hapus %s</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the text box.</source>
+        <comment>_TxFind_ReachBeginningOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>_TxNothing</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>TxRevision_Pap_Top</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Pap_Bottom</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxRevision_Pap_Auto</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_Left</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>TxRevision_Pap_Center</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reached the end of the text box.</source>
+        <comment>_TxFind_ReachEndOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_Right</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgOptions</name>
@@ -2727,10 +2413,6 @@ Anda ingin menimpanya?</translation>
         <translation>Kanan</translation>
     </message>
     <message>
-        <source>Spell</source>
-        <translation>Ejaan</translation>
-    </message>
-    <message>
         <source>Millimeters</source>
         <translation>Milimeter</translation>
     </message>
@@ -2807,10 +2489,6 @@ Anda ingin menimpanya?</translation>
         <translation>Lebar yang dipilih:</translation>
     </message>
     <message>
-        <source>Spelling and Grammar</source>
-        <translation>Ejaan dan Tata Bahasa</translation>
-    </message>
-    <message>
         <source>Smart Backup</source>
         <translation>Pencadangan Cerdas</translation>
     </message>
@@ -2855,10 +2533,6 @@ Anda ingin menimpanya?</translation>
         <translation>Jangan gunakan inden menggantung sebagai stopan tab untuk poin dan penomoran</translation>
     </message>
     <message>
-        <source>Keep cache for</source>
-        <translation>Simpan item terbaru hanya</translation>
-    </message>
-    <message>
         <source>Cloud backup</source>
         <translation>Pencadangan Awan</translation>
     </message>
@@ -2885,10 +2559,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>Track Changes</source>
         <translation>Lacak Perubahan</translation>
-    </message>
-    <message>
-        <source>Check forms:</source>
-        <translation>Mode layanan:</translation>
     </message>
     <message>
         <source>Hide &amp;blank</source>
@@ -3013,10 +2683,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>Display &quot;autoco&amp;mplete&quot; tips</source>
         <translation>Tampilkan tips &quot;autokomplet&quot;</translation>
-    </message>
-    <message>
-        <source>English modes:</source>
-        <translation>Mode periksa bahasa Inggris:</translation>
     </message>
     <message>
         <source>Double underline</source>
@@ -3179,10 +2845,6 @@ Anda ingin menimpanya?</translation>
         <translation>220 ppi</translation>
     </message>
     <message>
-        <source>Online</source>
-        <translation>Periksa daring</translation>
-    </message>
-    <message>
         <source>Correct accidental usage of Caps &amp;Lock key</source>
         <translation>Perbaiki penggunaan tak sengaja tombol CapsLock</translation>
     </message>
@@ -3209,10 +2871,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>&amp;Autofit the tab width</source>
         <translation>Autopas lebar tab</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation>Periksa luring</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
@@ -3339,10 +2997,6 @@ Anda ingin menimpanya?</translation>
         <translation>Mode pencadangan:</translation>
     </message>
     <message>
-        <source>Keep files cache</source>
-        <translation>Periode Penyimpanan</translation>
-    </message>
-    <message>
         <source>Match di/&amp;zi, du/zu</source>
         <translation>Cocokkan di/zi, du/zu</translation>
     </message>
@@ -3443,10 +3097,6 @@ Anda ingin menimpanya?</translation>
         <translation>Tampilkan bar tab di bagian atas dokumen</translation>
     </message>
     <message>
-        <source>Document fields(&amp;Z):</source>
-        <translation>Tanda Domain Dokumen Resmi:</translation>
-    </message>
-    <message>
         <source>Taskb&amp;ar</source>
         <translation>Bar tugas</translation>
     </message>
@@ -3543,10 +3193,6 @@ Anda ingin menimpanya?</translation>
         <translation>Pilihan pita</translation>
     </message>
     <message>
-        <source>Show Document Fields Without Background</source>
-        <translation>Tampilkan Domain Dokumen Resmi (Tanpa Bayangan)</translation>
-    </message>
-    <message>
         <source>Co&amp;lor:</source>
         <translation>Warna:</translation>
     </message>
@@ -3641,10 +3287,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>&amp;Option...</source>
         <translation>Pilihan...</translation>
-    </message>
-    <message>
-        <source>P&amp;rinting permission</source>
-        <translation>Izin Pencetakan</translation>
     </message>
     <message>
         <source>Show c&amp;rop marks</source>
@@ -3779,10 +3421,6 @@ Anda ingin menimpanya?</translation>
         <translation>Buat markah tersembunyi terlihat saat membuka atau menyimpan</translation>
     </message>
     <message>
-        <source>&amp;entries</source>
-        <translation>entri</translation>
-    </message>
-    <message>
         <source>&amp;Open backup file</source>
         <translation>Buka file cadangan </translation>
     </message>
@@ -3805,10 +3443,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>Match cho-on &amp;used for vowels</source>
         <translation>Cocokkan cho-on yang digunakan untuk huruf vokal</translation>
-    </message>
-    <message>
-        <source>Permit to add co&amp;mments</source>
-        <translation>Izinkan Penambahan Komentar</translation>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
@@ -3849,10 +3483,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>Print under&amp;line of hidden text</source>
         <translation>Cetak garis bawah teks tersembunyi</translation>
-    </message>
-    <message>
-        <source>Folder:</source>
-        <translation>Lokasi Pencadangan:</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
@@ -3919,10 +3549,6 @@ Anda ingin menimpanya?</translation>
         <translation>Teks Tak Berformat</translation>
     </message>
     <message>
-        <source>Formatted text</source>
-        <translation>Teks Berformat</translation>
-    </message>
-    <message>
         <source>Login Now</source>
         <translation>Akses masuk</translation>
     </message>
@@ -3957,10 +3583,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>Document Permission</source>
         <translation>Izin Dokumen</translation>
-    </message>
-    <message>
-        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
-        <translation>Gunakan CTRL + Klik un&amp;tuk mengikuti hyperlink</translation>
     </message>
     <message>
         <source>Print hidden text</source>
@@ -4089,6 +3711,74 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>WhenSelected</source>
         <translation>Bila dipilih</translation>
+    </message>
+    <message>
+        <source>Spell</source>
+        <translation>Ejaan</translation>
+    </message>
+    <message>
+        <source>Spelling and Grammar</source>
+        <translation>Ejaan dan Tata Bahasa</translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Simpan item terbaru hanya</translation>
+    </message>
+    <message>
+        <source>Check forms:</source>
+        <translation>Mode layanan:</translation>
+    </message>
+    <message>
+        <source>English modes:</source>
+        <translation>Mode periksa bahasa Inggris:</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation>Periksa daring</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>Periksa luring</translation>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation>Periode Penyimpanan</translation>
+    </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation>Tanda Domain Dokumen Resmi:</translation>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation>Tampilkan Domain Dokumen Resmi (Tanpa Bayangan)</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission</source>
+        <translation>Izin Pencetakan</translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation>entri</translation>
+    </message>
+    <message>
+        <source>Permit to add co&amp;mments</source>
+        <translation>Izinkan Penambahan Komentar</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Lokasi Pencadangan:</translation>
+    </message>
+    <message>
+        <source>Formatted text</source>
+        <translation>Teks Berformat</translation>
+    </message>
+    <message>
+        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
+        <translation>Gunakan CTRL + Klik un&amp;tuk mengikuti hyperlink</translation>
+    </message>
+    <message>
+        <source>Balance &amp;SBCS characters and DBCS characters</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4244,24 +3934,8 @@ Anda ingin menimpanya?</translation>
         <translation>Urutan</translation>
     </message>
     <message>
-        <source>Secret &amp;Level:</source>
-        <translation>Tingkat Kerahasiaan (&amp;P):</translation>
-    </message>
-    <message>
         <source>&amp;Telegram:</source>
         <translation>&amp;Telegram:</translation>
-    </message>
-    <message>
-        <source>Post &amp;Unit:</source>
-        <translation>Penerbit (&amp;D):</translation>
-    </message>
-    <message>
-        <source>Public Release</source>
-        <translation>Jadikan Publik</translation>
-    </message>
-    <message>
-        <source>Publication &amp;levels:</source>
-        <translation>Publikasikan Hierarki (&amp;L):</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4270,14 +3944,6 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>Informed</source>
         <translation>Diberitahu</translation>
-    </message>
-    <message>
-        <source>UrgencyPlus</source>
-        <translation>Mendesak</translation>
-    </message>
-    <message>
-        <source>Inform</source>
-        <translation>Notifikasi</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -4296,20 +3962,8 @@ Anda ingin menimpanya?</translation>
         <translation>Rahasia</translation>
     </message>
     <message>
-        <source>TopSecret</source>
-        <translation>Sangat Rahasia</translation>
-    </message>
-    <message>
         <source>GB0626-2005</source>
         <translation>GB0626-2005</translation>
-    </message>
-    <message>
-        <source>Resolution</source>
-        <translation>Keputusan</translation>
-    </message>
-    <message>
-        <source>Custom &amp;Fields:</source>
-        <translation>Bidang Kustom (&amp;U):</translation>
     </message>
     <message>
         <source>Barcode Production &amp;Unit:</source>
@@ -4318,6 +3972,78 @@ Anda ingin menimpanya?</translation>
     <message>
         <source>Barcode Production &amp;Date:</source>
         <translation>&amp;Tanggal Produksi Kode Batang:</translation>
+    </message>
+    <message>
+        <source>AgencyNumber</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation>Notifikasi</translation>
+    </message>
+    <message>
+        <source>Decision</source>
+        <translation>Keputusan</translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation>Judul: (&amp;J)</translation>
+    </message>
+    <message>
+        <source>yyyy-MM-dd</source>
+        <translation>tttt-BB-hh</translation>
+    </message>
+    <message>
+        <source>Please input letters and numbers</source>
+        <translation>Masukkan huruf dan angka</translation>
+    </message>
+    <message>
+        <source>Specified Range</source>
+        <translation>Rentang yang Ditentukan</translation>
+    </message>
+    <message>
+        <source>Confidential</source>
+        <translation>Rahasia</translation>
+    </message>
+    <message>
+        <source>Document &amp;Id:</source>
+        <translation>&amp;Id Dokumen:</translation>
+    </message>
+    <message>
+        <source>Secret &amp;Level:</source>
+        <translation>Tingkat Kerahasiaan (&amp;P):</translation>
+    </message>
+    <message>
+        <source>Post &amp;Unit:</source>
+        <translation>Penerbit (&amp;D):</translation>
+    </message>
+    <message>
+        <source>Public Release</source>
+        <translation>Jadikan Publik</translation>
+    </message>
+    <message>
+        <source>Publication &amp;levels:</source>
+        <translation>Publikasikan Hierarki (&amp;L):</translation>
+    </message>
+    <message>
+        <source>UrgencyPlus</source>
+        <translation>Mendesak</translation>
+    </message>
+    <message>
+        <source>Inform</source>
+        <translation>Notifikasi</translation>
+    </message>
+    <message>
+        <source>TopSecret</source>
+        <translation>Sangat Rahasia</translation>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation>Keputusan</translation>
+    </message>
+    <message>
+        <source>Custom &amp;Fields:</source>
+        <translation>Bidang Kustom (&amp;U):</translation>
     </message>
     <message>
         <source>Request Instruction</source>
@@ -4332,10 +4058,6 @@ Anda ingin menimpanya?</translation>
         <translation>Pengidentifikasi Versi Kode QR (&amp;V):</translation>
     </message>
     <message>
-        <source>AgencyNumber</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Minutes Of Meeting</source>
         <translation>Notulen</translation>
     </message>
@@ -4344,32 +4066,16 @@ Anda ingin menimpanya?</translation>
         <translation>Dokumen Resmi (&amp;F):</translation>
     </message>
     <message>
-        <source>Notification</source>
-        <translation>Notifikasi</translation>
-    </message>
-    <message>
         <source>Offical Reply</source>
         <translation>Respons</translation>
-    </message>
-    <message>
-        <source>Decision</source>
-        <translation>Keputusan</translation>
     </message>
     <message>
         <source>Written &amp;Date:</source>
         <translation>Tanggal Pembuatan Dokumen (&amp;C):</translation>
     </message>
     <message>
-        <source>&amp;Title:</source>
-        <translation>Judul: (&amp;J)</translation>
-    </message>
-    <message>
         <source>SubmitTo &amp;Unit:</source>
         <translation>Penerima Prinsip (&amp;S):</translation>
-    </message>
-    <message>
-        <source>yyyy-MM-dd</source>
-        <translation>tttt-BB-hh</translation>
     </message>
     <message>
         <source>Urgency</source>
@@ -4392,28 +4098,12 @@ Anda ingin menimpanya?</translation>
         <translation>Sangat Mendesak</translation>
     </message>
     <message>
-        <source>Please input letters and numbers</source>
-        <translation>Masukkan huruf dan angka</translation>
-    </message>
-    <message>
         <source>&amp;SecrecyPeriod:</source>
         <translation>Periode kerahasiaan (&amp;E):</translation>
     </message>
     <message>
-        <source>Specified Range</source>
-        <translation>Rentang yang Ditentukan</translation>
-    </message>
-    <message>
         <source>Urgency Level:</source>
         <translation>Tingkat Urgensi:</translation>
-    </message>
-    <message>
-        <source>Confidential</source>
-        <translation>Rahasia</translation>
-    </message>
-    <message>
-        <source>Document &amp;Id:</source>
-        <translation>&amp;Id Dokumen:</translation>
     </message>
     <message>
         <source>Barcode &amp;Id:</source>
@@ -6515,6 +6205,21 @@ Batal:	Kembali ke dialog.</translation>
         <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
         <translation>Tampilkan Level 1, Tampilkan Level 2, Tampilkan Level 3, Tampilkan Level 4, Tampilkan Level 5, Tampilkan Level 6, Tampilkan Level 7, Tampilkan Level 8, Tampilkan Level 9, Tampilkan Semua Level</translation>
     </message>
+    <message>
+        <source>Selected text</source>
+        <comment>wps_sSelectedText</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected sections</source>
+        <comment>wps_sSelectedSections</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>wps_sTable</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgCombineCharacters</name>
@@ -7240,28 +6945,8 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Kanan</translation>
     </message>
     <message>
-        <source>Place integral limits to the &amp;side</source>
-        <translation>Letakkan limit integral ke bagian &amp;sisi</translation>
-    </message>
-    <message>
-        <source>Rig&amp;ht align wrapped lines</source>
-        <translation>Baris yang disatukan rata ka&amp;nan</translation>
-    </message>
-    <message>
         <source>Duplicate operators for subtraction as:</source>
         <translation>Duplikasi operator untuk pengurangan sebagai:</translation>
-    </message>
-    <message>
-        <source>Place n-ary limi&amp;ts to the side</source>
-        <translation>Letakkan lim&amp;it n-ary ke bagian sisi</translation>
-    </message>
-    <message>
-        <source>Copy MathML to the clipboard as &amp;plain text</source>
-        <translation>Salin MathML ke papan klip sebagai teks polos (&amp;P)</translation>
-    </message>
-    <message>
-        <source>Default &amp;font for math regions:</source>
-        <translation>&amp;Font default untuk wilayah matematika:</translation>
     </message>
     <message>
         <source>Before</source>
@@ -7276,18 +6961,6 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Tengah</translation>
     </message>
     <message>
-        <source>&amp;Justification:</source>
-        <translation>&amp;Justifikasi:</translation>
-    </message>
-    <message>
-        <source>Math margins are added to paragraph margins.</source>
-        <translation>Margin matematika akan ditambahkan ke margin paragraf.</translation>
-    </message>
-    <message>
-        <source>B&amp;reak lines with binary and relational operators:</source>
-        <translation>P&amp;isahkan baris dengan operator biner dan relasional:</translation>
-    </message>
-    <message>
         <source>When copying an equation,</source>
         <translation>Saat menyalin persamaan,</translation>
     </message>
@@ -7300,16 +6973,8 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Margin Ka&amp;nan:</translation>
     </message>
     <message>
-        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
-        <translation>Salin Format Linier ke papan klip sebagai teks polos (&amp;N)</translation>
-    </message>
-    <message>
         <source>&amp;Left Margin:</source>
         <translation>&amp;Margin Kiri:</translation>
-    </message>
-    <message>
-        <source>&amp;Use the following settings for math on its own line.</source>
-        <translation>&amp;Gunakan pengaturan berikut untuk matematika di deretannya.</translation>
     </message>
     <message>
         <source>When building up integrals,</source>
@@ -7320,12 +6985,64 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Secara otomatis akan mengonversi ekspresi ke format profesional</translation>
     </message>
     <message>
-        <source>Centered as group</source>
-        <translation>Rata tengah sebagai grup</translation>
-    </message>
-    <message>
         <source>&amp;Defauls ...</source>
         <translation>Default ...</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Umum</translation>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation>Opsi Persamaan</translation>
+    </message>
+    <message>
+        <source>When building up other n-ary operators,</source>
+        <translation>Saat membangun operator n-ary lainnya,</translation>
+    </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation>Letakkan limit integral ke bagian &amp;sisi</translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation>Baris yang disatukan rata ka&amp;nan</translation>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation>Letakkan lim&amp;it n-ary ke bagian sisi</translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation>Salin MathML ke papan klip sebagai teks polos (&amp;P)</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>&amp;Font default untuk wilayah matematika:</translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation>&amp;Justifikasi:</translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation>Margin matematika akan ditambahkan ke margin paragraf.</translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>P&amp;isahkan baris dengan operator biner dan relasional:</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation>Salin Format Linier ke papan klip sebagai teks polos (&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation>&amp;Gunakan pengaturan berikut untuk matematika di deretannya.</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>Rata tengah sebagai grup</translation>
     </message>
     <message>
         <source>Display Math</source>
@@ -7340,16 +7057,8 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Untuk matematika yang membungkus ke baris baru:</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation>Umum</translation>
-    </message>
-    <message>
         <source>Place n-ary limits directly abo&amp;ve and below</source>
         <translation>Letakkan limit n-ary langsung di a&amp;tas dan di bawah</translation>
-    </message>
-    <message>
-        <source>Equation Options</source>
-        <translation>Opsi Persamaan</translation>
     </message>
     <message>
         <source>&amp;Indent wrapped lines by:</source>
@@ -7358,10 +7067,6 @@ Batal:	Kembali ke dialog.</translation>
     <message>
         <source>Place integral limits centered above and belo&amp;w</source>
         <translation>Letakkan limit integral yang rata tengah di atas dan di ba&amp;wah</translation>
-    </message>
-    <message>
-        <source>When building up other n-ary operators,</source>
-        <translation>Saat membangun operator n-ary lainnya,</translation>
     </message>
 </context>
 <context>
@@ -8410,12 +8115,12 @@ gunakan tombol untuk menerapkan batas</translation>
         <translation>Dialog</translation>
     </message>
     <message>
-        <source>Add Unit</source>
-        <translation>Tambah Unit</translation>
-    </message>
-    <message>
         <source>Select All</source>
         <translation>Pilih Semua</translation>
+    </message>
+    <message>
+        <source>Add Unit</source>
+        <translation>Tambah Unit</translation>
     </message>
 </context>
 <context>
@@ -8425,12 +8130,12 @@ gunakan tombol untuk menerapkan batas</translation>
         <translation>OK</translation>
     </message>
     <message>
-        <source>Do you want to delete the selected units?</source>
-        <translation>Anda yakin ingin menghapus unit-unit yang dipilih?</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Batal</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected units?</source>
+        <translation>Anda yakin ingin menghapus unit-unit yang dipilih?</translation>
     </message>
     <message>
         <source>Error Tips</source>
@@ -8531,10 +8236,6 @@ gunakan tombol untuk menerapkan batas</translation>
         <translation>pt, 2, 0, 1584, 6</translation>
     </message>
     <message>
-        <source>%1 Alignment and Spacing</source>
-        <translation>Rata dan Jarak %1</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Batal</translation>
     </message>
@@ -8549,14 +8250,6 @@ gunakan tombol untuk menerapkan batas</translation>
     <message>
         <source>1.5 Lines</source>
         <translation>1,5 Baris</translation>
-    </message>
-    <message>
-        <source>Alignment of %1</source>
-        <translation>Rata %1</translation>
-    </message>
-    <message>
-        <source>&amp;Minimum distance between baselines:</source>
-        <translation>Jarak Minimum Antar Garis Dasar (&amp;M):</translation>
     </message>
     <message>
         <source>Row Spacing</source>
@@ -8593,6 +8286,18 @@ gunakan tombol untuk menerapkan batas</translation>
     <message>
         <source>Minimum distan&amp;nce between column edges:</source>
         <translation>Ja&amp;rak minimum antartepi kolom:</translation>
+    </message>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation>Rata dan Jarak %1</translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation>Rata %1</translation>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation>Jarak Minimum Antar Garis Dasar (&amp;M):</translation>
     </message>
 </context>
 <context>
@@ -8964,16 +8669,8 @@ gunakan tombol untuk menerapkan batas</translation>
         <translation>Edit</translation>
     </message>
     <message>
-        <source>This deletion cannot be undone.</source>
-        <translation>Penghapusan ini tidak dapat dibatalkan.</translation>
-    </message>
-    <message>
         <source>Sure to delete this template?</source>
         <translation>Yakin ingin menghapus templat ini?</translation>
-    </message>
-    <message>
-        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
-        <translation>Gagal mengganti nama, menghapus, atau mengedit templat ini. Anda mungkin telah membukanya dalam aplikasi lain atau halaman tab.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9000,28 +8697,36 @@ gunakan tombol untuk menerapkan batas</translation>
         <translation>Baiklah</translation>
     </message>
     <message>
-        <source>New Name:</source>
-        <translation>Name Templat:</translation>
-    </message>
-    <message>
         <source>My Official Template</source>
         <translation>Templat Resmi Saya</translation>
-    </message>
-    <message>
-        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
-        <translation>Templat ini sudah dirusak dan tidak dapat diedit dalam mode desain. Anda disarankan menghapusnya dan mendesain ulang.</translation>
     </message>
     <message>
         <source>Template Occupied</source>
         <translation>Templat Ditempati</translation>
     </message>
     <message>
-        <source>Import Template</source>
-        <translation>Impor Templat</translation>
-    </message>
-    <message>
         <source>New Template</source>
         <translation>Templat Izin Baru</translation>
+    </message>
+    <message>
+        <source>This deletion cannot be undone.</source>
+        <translation>Penghapusan ini tidak dapat dibatalkan.</translation>
+    </message>
+    <message>
+        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
+        <translation>Gagal mengganti nama, menghapus, atau mengedit templat ini. Anda mungkin telah membukanya dalam aplikasi lain atau halaman tab.</translation>
+    </message>
+    <message>
+        <source>New Name:</source>
+        <translation>Name Templat:</translation>
+    </message>
+    <message>
+        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
+        <translation>Templat ini sudah dirusak dan tidak dapat diedit dalam mode desain. Anda disarankan menghapusnya dan mendesain ulang.</translation>
+    </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Impor Templat</translation>
     </message>
     <message>
         <source>Template Corrupt</source>
@@ -9153,13 +8858,13 @@ gunakan tombol untuk menerapkan batas</translation>
         <translation>Tata Letak Dokumen Resmi</translation>
     </message>
     <message>
+        <source>Don&apos;t ask again</source>
+        <translation>Jangan tanyakan lagi</translation>
+    </message>
+    <message>
         <source>This is a WPS Official document. It will be opened in 
  &quot;Official Doc Layout&quot; mode to keep its original layout.</source>
         <translation>Ini adalah WPS official document. Dibuka dalam Tata Letak Dokumen Resmi untuk mempertahankan tata letak aslinya.</translation>
-    </message>
-    <message>
-        <source>Don&apos;t ask again</source>
-        <translation>Jangan tanyakan lagi</translation>
     </message>
 </context>
 <context>
@@ -11157,6 +10862,18 @@ Perubahan ini akan mempengaruhi semua dokumen baru berdasarkan %1 templat.</tran
         <translation>Tampilkan</translation>
     </message>
     <message>
+        <source>Cancel</source>
+        <translation>Batal</translation>
+    </message>
+    <message>
+        <source>FontSize:</source>
+        <translation>Ukuran Font:</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation>Pratampil:</translation>
+    </message>
+    <message>
         <source>TemplateName:</source>
         <translation>Nama:</translation>
     </message>
@@ -11169,20 +10886,8 @@ Perubahan ini akan mempengaruhi semua dokumen baru berdasarkan %1 templat.</tran
         <translation>Sisipkan nomor halaman ke dokumen ini saat membuat dokumen</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation>Batal</translation>
-    </message>
-    <message>
-        <source>FontSize:</source>
-        <translation>Ukuran Font:</translation>
-    </message>
-    <message>
         <source>ShowFirstPage:</source>
         <translation>No Halaman Baru:</translation>
-    </message>
-    <message>
-        <source>Preview:</source>
-        <translation>Pratampil:</translation>
     </message>
     <message>
         <source>WhiteSpaceSize:</source>
@@ -11591,10 +11296,6 @@ Jika Anda ingin mengganti rekam yang dipilih saja, silakan klik Ganti di jendela
         <translation>Port server SMTP tidak boleh kosong</translation>
     </message>
     <message>
-        <source>Mail Config</source>
-        <translation>Konfigurasi Email</translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
         <translation>Batal (&amp;B)</translation>
     </message>
@@ -11609,6 +11310,10 @@ Jika Anda ingin mengganti rekam yang dipilih saja, silakan klik Ganti di jendela
     <message>
         <source>%1(Disabled)</source>
         <translation>%1(Dinonaktifkan)</translation>
+    </message>
+    <message>
+        <source>Mail Config</source>
+        <translation>Konfigurasi Email</translation>
     </message>
     <message>
         <source>Send mail b&amp;y</source>
@@ -11683,10 +11388,6 @@ Perhatikan bahwa beberapa file bisa mengandung virus makro dan mungkin melakukan
 (%s)</translation>
     </message>
     <message>
-        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
-        <translation>Format Teks/Word (*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
-    </message>
-    <message>
         <source>The following features cannot be saved in macro-free workbooks:
  · VB project
 To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
@@ -11759,10 +11460,6 @@ Alasan yang mungkin:
         <translation>Templat</translation>
     </message>
     <message>
-        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
-        <translation>Format File Terenkripsi Inti(*.hdoc)|*.hdoc</translation>
-    </message>
-    <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <translation>Izin untuk &quot;%s&quot; saat ini dibatasi. File dengan izin terbatas tidak dapat disisipkan ke dokumen ini.</translation>
     </message>
@@ -11771,10 +11468,6 @@ Alasan yang mungkin:
 • Extended orientation</source>
         <translation>
 • Orientasi yang diperluas</translation>
-    </message>
-    <message>
-        <source>Pasting page breaks in math will be lost.</source>
-        <translation>Karakter pindah halaman yang ditempelkan dalam rumus akan hilang.</translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -11829,10 +11522,6 @@ Coba salah satu dari yang berikut.
 (%s)</source>
         <translation>WPS Writer tidak dapat membuka file ini, karena kata sandi tidak benar.
 (%s)</translation>
-    </message>
-    <message>
-        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
-        <translation>Format Teks/Word (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
     </message>
     <message>
         <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
@@ -11891,14 +11580,6 @@ Lanjutkan?</translation>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <translation>Format OFD(*.ofd)|*.ofd</translation>
-    </message>
-    <message>
-        <source>Normal Template Damaged</source>
-        <translation>File templat rusak.</translation>
-    </message>
-    <message>
-        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
-        <translation>Format File Terenkripsi Normal(*.pdoc)|*.pdoc</translation>
     </message>
     <message>
         <source>Opening this document will execute the SQL command below:
@@ -11987,10 +11668,6 @@ Jika Anda mencoba membuka file dari daftar file yang baru-baru ini digunakan pad
         <translation>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</translation>
     </message>
     <message>
-        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
-        <translation>Tanda paragraf atau karakter pindah yang ditempelkan dalam objek matematika akan hilang.</translation>
-    </message>
-    <message>
         <source>
 •Make sure this file is recognizable format.
 (%s)</source>
@@ -12005,10 +11682,6 @@ Jika Anda mencoba membuka file dari daftar file yang baru-baru ini digunakan pad
     <message>
         <source>These changes you made will affect the common template %s. Do you want to save them?</source>
         <translation>Perubahan yang Anda buat ini akan mempengaruhi templat umum %s. Anda ingin menyimpannya?</translation>
-    </message>
-    <message>
-        <source>Pasting drawn objects in math will be lost.</source>
-        <translation>Objek gambar yang ditempelkan dalam rumus juga akan hilang.</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -12035,6 +11708,38 @@ Please try one of the following.
 Coba salah satu dari yang berikut.
 •Alihkan ke akun pengguna lain.
 •Mintalah pembuatnya untuk mengubah level kontrol izin file ini.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Format Teks/Word (*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
+        <translation>Format File Terenkripsi Inti(*.hdoc)|*.hdoc</translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <translation>Karakter pindah halaman yang ditempelkan dalam rumus akan hilang.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Format Teks/Word (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>Normal Template Damaged</source>
+        <translation>File templat rusak.</translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
+        <translation>Format File Terenkripsi Normal(*.pdoc)|*.pdoc</translation>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <translation>Tanda paragraf atau karakter pindah yang ditempelkan dalam objek matematika akan hilang.</translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <translation>Objek gambar yang ditempelkan dalam rumus juga akan hilang.</translation>
     </message>
 </context>
 <context>
@@ -13872,10 +13577,6 @@ Pilihan</translation>
         <translation>Rata Kanan</translation>
     </message>
     <message>
-        <source>Docer Bullet</source>
-        <translation>Bullet Templat</translation>
-    </message>
-    <message>
         <source>Bold Square-Hollow Bullets</source>
         <translation>Poin Kotak Tebal Berongga</translation>
     </message>
@@ -14038,10 +13739,6 @@ Pilihan</translation>
     <message>
         <source>Official Settings</source>
         <translation>Pengaturan Resmi</translation>
-    </message>
-    <message>
-        <source>HVFont Size</source>
-        <translation>Ukuran Font Lanskap/Potret</translation>
     </message>
     <message>
         <source>online wps style</source>
@@ -14291,12 +13988,24 @@ Replace</source>
 Ganti</translation>
     </message>
     <message>
-        <source>Search Computer</source>
-        <translation>Pencarian Lokal</translation>
-    </message>
-    <message>
         <source>Text Identification</source>
         <translation>Identifikasi Teks</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation>Penspasian Baris</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Bullet Templat</translation>
+    </message>
+    <message>
+        <source>HVFont Size</source>
+        <translation>Ukuran Font Lanskap/Potret</translation>
+    </message>
+    <message>
+        <source>Search Computer</source>
+        <translation>Pencarian Lokal</translation>
     </message>
     <message>
         <source>Smart Official</source>
@@ -14305,10 +14014,6 @@ Ganti</translation>
     <message>
         <source>Official Font Name</source>
         <translation>Font</translation>
-    </message>
-    <message>
-        <source>Line Spacing</source>
-        <translation>Penspasian Baris</translation>
     </message>
 </context>
 <context>
@@ -14492,10 +14197,6 @@ Ganti</translation>
     <message>
         <source>More Font Colors</source>
         <translation>Warna Font Lainnya</translation>
-    </message>
-    <message>
-        <source>Vertical direction</source>
-        <translation>Arah Vertikal</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -14782,6 +14483,10 @@ Teks</translation>
         <source>Align Top</source>
         <translation>Rata Atas</translation>
     </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Arah Vertikal</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_texttool</name>
@@ -14864,10 +14569,6 @@ Teks</translation>
     <message>
         <source>Quick Styles</source>
         <translation>Gaya Cepat</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Bullet Templat</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -15262,6 +14963,10 @@ Teks</translation>
         <source>Align Top</source>
         <translation>Rata Atas</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Bullet Templat</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu</name>
@@ -15452,10 +15157,6 @@ Teks</translation>
     <message>
         <source>Equal Height</source>
         <translation>Sama Tinggi</translation>
-    </message>
-    <message>
-        <source>Search Material</source>
-        <translation>Cari Material</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -15685,10 +15386,6 @@ Painter</source>
     <message>
         <source>Right Border</source>
         <translation>Batas Kanan</translation>
-    </message>
-    <message>
-        <source>Accept Formatting Changes</source>
-        <translation>Terima Perubahan Pemformatan</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -15940,10 +15637,6 @@ Cetak</translation>
         <translation>Sisipkan bentuk sebelum</translation>
     </message>
     <message>
-        <source>Reject Formating Changes</source>
-        <translation>Tolak Perubahan Pemformatan</translation>
-    </message>
-    <message>
         <source>Format Frame</source>
         <translation>Bingkai Format</translation>
     </message>
@@ -15970,10 +15663,6 @@ Cetak</translation>
     <message>
         <source>Top and Bottom</source>
         <translation>Atas dan Bawah</translation>
-    </message>
-    <message>
-        <source>Identify Text in Picture</source>
-        <translation>Ekstrak Teks dari Gambar</translation>
     </message>
     <message>
         <source>Official Line Interval: </source>
@@ -16152,10 +15841,6 @@ Add-Ins</source>
     <message>
         <source>Relative to Page</source>
         <translation>Relatif ke Halaman</translation>
-    </message>
-    <message>
-        <source>Column Alignment</source>
-        <translation>Rata Kolom</translation>
     </message>
     <message>
         <source>AppStore Evaluation</source>
@@ -16514,14 +16199,6 @@ Halaman</translation>
         <translation>Putar ke Kanan 90°</translation>
     </message>
     <message>
-        <source>Increase Argument Size</source>
-        <translation>Tambah Ukuran Argumen</translation>
-    </message>
-    <message>
-        <source>Decrease Argument Size</source>
-        <translation>Kurangi Ukuran Argumen</translation>
-    </message>
-    <message>
         <source>Object</source>
         <translation>Objek</translation>
     </message>
@@ -16532,14 +16209,6 @@ Halaman</translation>
     <message>
         <source>Axis Title</source>
         <translation>Judul Sumbu</translation>
-    </message>
-    <message>
-        <source>VFont Size</source>
-        <translation>Ukuran Font Potret</translation>
-    </message>
-    <message>
-        <source>HFont Size</source>
-        <translation>Ukuran Font Lanskap</translation>
     </message>
     <message>
         <source>Secondary Major Horizontal</source>
@@ -16585,10 +16254,6 @@ Halaman</translation>
         <source>Bottom</source>
         <comment>OMathMatOrEqArr</comment>
         <translation>Bawah</translation>
-    </message>
-    <message>
-        <source>Line Spacing:</source>
-        <translation>Jarak Spasi Garis:</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -17221,10 +16886,6 @@ Footer</translation>
         <translation>Gaya Panah</translation>
     </message>
     <message>
-        <source>Matrix Spacing...</source>
-        <translation>Jarak Spasi Matriks...</translation>
-    </message>
-    <message>
         <source>Restrict Permission by People</source>
         <translation>Batasi Izin menurut Orang</translation>
     </message>
@@ -17493,10 +17154,6 @@ Footer</translation>
         <translation>Tab Tengah</translation>
     </message>
     <message>
-        <source>Border Properties</source>
-        <translation>Properti Batas Tepi</translation>
-    </message>
-    <message>
         <source>Watermark</source>
         <translation>Cap 
 Air</translation>
@@ -17516,10 +17173,6 @@ Air</translation>
     <message>
         <source>More Layout Options</source>
         <translation>Pilihan Tata Letak Lainnya</translation>
-    </message>
-    <message>
-        <source>Stretch N-ary character</source>
-        <translation>Regangkan Karakter N-ary</translation>
     </message>
     <message>
         <source>Format Category Label</source>
@@ -17546,24 +17199,12 @@ Air</translation>
         <translation>Terus-menerus</translation>
     </message>
     <message>
-        <source>Right Format Painter Popup</source>
-        <translation>Pelukis Format Berkelanjutan</translation>
-    </message>
-    <message>
         <source>View Historical Backup</source>
         <translation>Lihat Riwayat Cadangan</translation>
     </message>
     <message>
-        <source>Expand to Object Width</source>
-        <translation>Perluas ke Lebar Objek</translation>
-    </message>
-    <message>
         <source>AutoPoint</source>
         <translation>Autopoin</translation>
-    </message>
-    <message>
-        <source>Remove Superscript</source>
-        <translation>Hapus Superskrip</translation>
     </message>
     <message>
         <source>Format Major Gridlines</source>
@@ -17663,10 +17304,6 @@ Air</translation>
     <message>
         <source>Left Tab</source>
         <translation>Tab Kiri</translation>
-    </message>
-    <message>
-        <source>Equation Array Spacing...</source>
-        <translation>Jarak Spasi Larik Persamaan...</translation>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
@@ -18061,10 +17698,6 @@ Air</translation>
         <translation>Rata Kiri</translation>
     </message>
     <message>
-        <source>Align at =</source>
-        <translation>Rata pada</translation>
-    </message>
-    <message>
         <source>Character Shading</source>
         <translation>Bayangan Karakter</translation>
     </message>
@@ -18210,10 +17843,6 @@ Ejaan</translation>
         <translation>Penspasian Baris</translation>
     </message>
     <message>
-        <source>Remove Subscript</source>
-        <translation>Hapus Subskrip</translation>
-    </message>
-    <message>
         <source>Delete Series</source>
         <translation>Hapus Seri</translation>
     </message>
@@ -18305,6 +17934,82 @@ Ejaan</translation>
     <message>
         <source>Smooth Point</source>
         <translation>Titik Halus</translation>
+    </message>
+    <message>
+        <source>Search Material</source>
+        <translation>Cari Material</translation>
+    </message>
+    <message>
+        <source>Accept Formatting Changes</source>
+        <translation>Terima Perubahan Pemformatan</translation>
+    </message>
+    <message>
+        <source>Reject Formating Changes</source>
+        <translation>Tolak Perubahan Pemformatan</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation>Ekstrak Teks dari Gambar</translation>
+    </message>
+    <message>
+        <source>Column Alignment</source>
+        <translation>Rata Kolom</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation>Tambah Ukuran Argumen</translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation>Kurangi Ukuran Argumen</translation>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Ukuran Font Potret</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Ukuran Font Lanskap</translation>
+    </message>
+    <message>
+        <source>Line Spacing:</source>
+        <translation>Jarak Spasi Garis:</translation>
+    </message>
+    <message>
+        <source>Matrix Spacing...</source>
+        <translation>Jarak Spasi Matriks...</translation>
+    </message>
+    <message>
+        <source>Border Properties</source>
+        <translation>Properti Batas Tepi</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation>Regangkan Karakter N-ary</translation>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation>Pelukis Format Berkelanjutan</translation>
+    </message>
+    <message>
+        <source>Expand to Object Width</source>
+        <translation>Perluas ke Lebar Objek</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation>Hapus Superskrip</translation>
+    </message>
+    <message>
+        <source>Equation Array Spacing...</source>
+        <translation>Jarak Spasi Larik Persamaan...</translation>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation>Rata pada</translation>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation>Hapus Subskrip</translation>
     </message>
 </context>
 <context>
@@ -18442,10 +18147,6 @@ Ejaan</translation>
         <translation>Tempel</translation>
     </message>
     <message>
-        <source>Ofd Print Preview</source>
-        <translation>Pratinjau Efek OFD</translation>
-    </message>
-    <message>
         <source>Print</source>
         <translation>Cetak</translation>
     </message>
@@ -18486,10 +18187,6 @@ Ejaan</translation>
         <translation>Paskan Teks</translation>
     </message>
     <message>
-        <source>JdeControl Popup Menu</source>
-        <translation>Menu Kontrol Jde</translation>
-    </message>
-    <message>
         <source>Split Window</source>
         <translation>Bagi Jendela</translation>
     </message>
@@ -18500,10 +18197,6 @@ Ejaan</translation>
     <message>
         <source>Browse by Section</source>
         <translation>Telusuri berdasarkan Bagian</translation>
-    </message>
-    <message>
-        <source>SplitMerge</source>
-        <translation>Pisah/Gabung Dokumen</translation>
     </message>
     <message>
         <source>Document Collaboration</source>
@@ -18554,10 +18247,6 @@ Break</source>
     <message>
         <source>Browse by Page</source>
         <translation>Telusuri berdasarkan Halaman</translation>
-    </message>
-    <message>
-        <source>Center Algin</source>
-        <translation>Rata Tengah</translation>
     </message>
     <message>
         <source>Print 
@@ -18656,10 +18345,6 @@ Baca</translation>
 ke Teks</translation>
     </message>
     <message>
-        <source>Equation Accent Popup Menu</source>
-        <translation>Fungsi Aksen</translation>
-    </message>
-    <message>
         <source>Justify</source>
         <translation>Rata Kanan Kiri</translation>
     </message>
@@ -18730,10 +18415,6 @@ Perubahan</translation>
         <translation>Perlindungan diaktifkan</translation>
     </message>
     <message>
-        <source>Equation Delimiter Popup Menu</source>
-        <translation>Fungsi Tanda Kurung</translation>
-    </message>
-    <message>
         <source>ReadingView Text Context Menu</source>
         <translation>Menu Konteks tampilan membaca</translation>
     </message>
@@ -18766,10 +18447,6 @@ Perubahan</translation>
         <translation>Buat Tautan Berbagi</translation>
     </message>
     <message>
-        <source>Equation Normal Popup Menu</source>
-        <translation>Persamaan Matematika</translation>
-    </message>
-    <message>
         <source>New Blank Document</source>
         <translation>Dokumen Kosong Baru</translation>
     </message>
@@ -18780,10 +18457,6 @@ Perubahan</translation>
     <message>
         <source>Editing is limited</source>
         <translation>Pengeditan dibatasi</translation>
-    </message>
-    <message>
-        <source>Document Barcode Properties</source>
-        <translation>Properti Kode QR</translation>
     </message>
     <message>
         <source>Clip Art</source>
@@ -18808,10 +18481,6 @@ Perubahan</translation>
     <message>
         <source>0.8 pt</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Equation Multi Equations Popup Menu</source>
-        <translation>Persamaan Matematika</translation>
     </message>
     <message>
         <source>Screen Recorder</source>
@@ -18870,10 +18539,6 @@ Perubahan</translation>
         <translation>Pemformatan</translation>
     </message>
     <message>
-        <source>Equation Script Popup Menu</source>
-        <translation>Fungsi Skrip</translation>
-    </message>
-    <message>
         <source>Inline Picture</source>
         <translation>Gambar Sebaris</translation>
     </message>
@@ -18917,10 +18582,6 @@ Perubahan</translation>
     <message>
         <source>PDF to Excel</source>
         <translation>PDF ke Excel</translation>
-    </message>
-    <message>
-        <source>WPS Writer Official Template</source>
-        <translation>Templat WPS Official Document</translation>
     </message>
     <message>
         <source>Online Icon</source>
@@ -19015,10 +18676,6 @@ Perubahan</translation>
         <translation>Tengah</translation>
     </message>
     <message>
-        <source>Equation Operator Popup Menu</source>
-        <translation>Fungsi Operator</translation>
-    </message>
-    <message>
         <source>Demote</source>
         <translation>Turunkan</translation>
     </message>
@@ -19033,10 +18690,6 @@ Perubahan</translation>
     <message>
         <source>New from Other Templates</source>
         <translation>Baru dari Templat Lainnya</translation>
-    </message>
-    <message>
-        <source>Document Barcode</source>
-        <translation>Kode QR Dokumen Resmi</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -19147,14 +18800,6 @@ Perubahan</translation>
         <translation>Jendela Tugas</translation>
     </message>
     <message>
-        <source>TpConfidentialityLevelKeyWord</source>
-        <translation>Cek Kata Kunci Tingkat Kerahasiaan</translation>
-    </message>
-    <message>
-        <source>Equation Matrix Popup Menu</source>
-        <translation>Fungsi Matriks</translation>
-    </message>
-    <message>
         <source>Rename</source>
         <translation>Ganti nama</translation>
     </message>
@@ -19191,10 +18836,6 @@ Perubahan</translation>
         <translation>Simbol</translation>
     </message>
     <message>
-        <source>Equation Radical Popup Menu</source>
-        <translation>Fungsi Akar</translation>
-    </message>
-    <message>
         <source>Full Screen</source>
         <translation>Layar 
 Penuh</translation>
@@ -19228,20 +18869,12 @@ Penuh</translation>
         <translation>Penyetelan Cetak</translation>
     </message>
     <message>
-        <source>Right Algin</source>
-        <translation>Rata Kanan</translation>
-    </message>
-    <message>
         <source>Drop Caps</source>
         <translation>Taruh Batasan</translation>
     </message>
     <message>
         <source>NewChart Gridline</source>
         <translation>Garis kisi</translation>
-    </message>
-    <message>
-        <source>Equation Large Operator Popup Menu</source>
-        <translation>Fungsi Operator Besar</translation>
     </message>
     <message>
         <source>Collapse</source>
@@ -19256,17 +18889,9 @@ Penuh</translation>
         <translation>Beralih ke jendela sebelumnya</translation>
     </message>
     <message>
-        <source>Left Algin</source>
-        <translation>Rata Kiri</translation>
-    </message>
-    <message>
         <source>Word Count</source>
         <translation>Jumlah 
 Kata</translation>
-    </message>
-    <message>
-        <source>HelpDocSearch</source>
-        <translation>Cari</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -19349,10 +18974,6 @@ Kata</translation>
         <translation>Demosikan ke Teks Isi</translation>
     </message>
     <message>
-        <source>Equation BorderBox Popup Menu</source>
-        <translation>Fungsi Batas</translation>
-    </message>
-    <message>
         <source>Hyperlink</source>
         <translation>Hyperlink</translation>
     </message>
@@ -19363,10 +18984,6 @@ Kata</translation>
     <message>
         <source>Properties</source>
         <translation>Properti</translation>
-    </message>
-    <message>
-        <source>Equation Limit Popup Menu</source>
-        <translation>Fungsi Limit</translation>
     </message>
     <message>
         <source>Dropdown Form Field Context Menu</source>
@@ -19767,10 +19384,6 @@ Daftar Isi</translation>
         <translation>Tanda Tangan Baru</translation>
     </message>
     <message>
-        <source>Equation Group Popup Menu</source>
-        <translation>Fungsi Grup</translation>
-    </message>
-    <message>
         <source>Split Vertically</source>
         <translation>Bagi Secara Vertikal</translation>
     </message>
@@ -19792,10 +19405,6 @@ Layout</source>
         <translation>Garis bawah</translation>
     </message>
     <message>
-        <source>PCLaTeXEquation</source>
-        <translation>LaTeX</translation>
-    </message>
-    <message>
         <source>DocerWordArt</source>
         <translation type="unfinished"/>
     </message>
@@ -19811,10 +19420,6 @@ Navigation</source>
     <message>
         <source>Text Wrapping Break</source>
         <translation>Jeda Bungkus Teks</translation>
-    </message>
-    <message>
-        <source>setting MB</source>
-        <translation>Tandai Rahasia</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -19889,10 +19494,6 @@ Screen</source>
     <message>
         <source>Text Context Menu</source>
         <translation>Menu Konteks Teks</translation>
-    </message>
-    <message>
-        <source>page number recommend style</source>
-        <translation>No. Halaman Templat</translation>
     </message>
     <message>
         <source>Drag Context Menu</source>
@@ -20035,14 +19636,6 @@ Screen</source>
         <translation>Ekstrasi Batch</translation>
     </message>
     <message>
-        <source>Equation Function Popup Menu</source>
-        <translation>Fungsi</translation>
-    </message>
-    <message>
-        <source>Equation Fraction Popup Menu</source>
-        <translation>Fungsi Pecahan</translation>
-    </message>
-    <message>
         <source>Footnotes Hyperlink Context Menu</source>
         <translation>Menu Konteks Hyperlink Catatan Kaki</translation>
     </message>
@@ -20161,14 +19754,6 @@ Ejaan</translation>
         <translation>Klik untuk menyalakan/mematikan fungsi Peninjauan</translation>
     </message>
     <message>
-        <source>Equation Array Popup Menu</source>
-        <translation>Fungsi Larik</translation>
-    </message>
-    <message>
-        <source>Align Adjustify</source>
-        <translation>Penyesuaian Perataan</translation>
-    </message>
-    <message>
         <source>Hide the Toolbar</source>
         <translation>Sembunyikan Batang Alat</translation>
     </message>
@@ -20205,20 +19790,12 @@ Ejaan</translation>
         <translation>Tambah Indent</translation>
     </message>
     <message>
-        <source>Equation Bar Popup Menu</source>
-        <translation>Fungsi Garis</translation>
-    </message>
-    <message>
         <source>DocumentField</source>
         <translation>Ruas Dokumen</translation>
     </message>
     <message>
         <source>Microsoft Word 97-2003 Document</source>
         <translation>Dokumen Microsoft Word 97-2003 (*.doc)</translation>
-    </message>
-    <message>
-        <source>Global Center Algin</source>
-        <translation>Rata Tengah Global</translation>
     </message>
     <message>
         <source>Done Comment</source>
@@ -20267,6 +19844,138 @@ Ejaan</translation>
     <message>
         <source>Online Textbox</source>
         <translation>Kotak Teks Templat</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Pratinjau Efek OFD</translation>
+    </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation>Menu Kontrol Jde</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Pisah/Gabung Dokumen</translation>
+    </message>
+    <message>
+        <source>Center Algin</source>
+        <translation>Rata Tengah</translation>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Fungsi Aksen</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Fungsi Tanda Kurung</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Persamaan Matematika</translation>
+    </message>
+    <message>
+        <source>Document Barcode Properties</source>
+        <translation>Properti Kode QR</translation>
+    </message>
+    <message>
+        <source>Equation Multi Equations Popup Menu</source>
+        <translation>Persamaan Matematika</translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Fungsi Skrip</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Template</source>
+        <translation>Templat WPS Official Document</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>Fungsi Operator</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Kode QR Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>TpConfidentialityLevelKeyWord</source>
+        <translation>Cek Kata Kunci Tingkat Kerahasiaan</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Fungsi Matriks</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Fungsi Akar</translation>
+    </message>
+    <message>
+        <source>Right Algin</source>
+        <translation>Rata Kanan</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Fungsi Operator Besar</translation>
+    </message>
+    <message>
+        <source>Left Algin</source>
+        <translation>Rata Kiri</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Cari</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Fungsi Batas</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Fungsi Limit</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Fungsi Grup</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation>LaTeX</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Tandai Rahasia</translation>
+    </message>
+    <message>
+        <source>page number recommend style</source>
+        <translation>No. Halaman Templat</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>Fungsi</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Fungsi Pecahan</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Fungsi Larik</translation>
+    </message>
+    <message>
+        <source>Align Adjustify</source>
+        <translation>Penyesuaian Perataan</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Fungsi Garis</translation>
+    </message>
+    <message>
+        <source>Global Center Algin</source>
+        <translation>Rata Tengah Global</translation>
+    </message>
+    <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20359,10 +20068,6 @@ Ejaan</translation>
         <translation>200%</translation>
     </message>
     <message>
-        <source>Proofread Wrong</source>
-        <translation>Koreksi Kata Salah</translation>
-    </message>
-    <message>
         <source>Back</source>
         <translation>Kembali</translation>
     </message>
@@ -20409,10 +20114,6 @@ Ejaan</translation>
     <message>
         <source>Shape Compatibility Mode</source>
         <translation>Mode Kompatibilitas Bentuk</translation>
-    </message>
-    <message>
-        <source>Ofd Print Preview</source>
-        <translation>Pratinjau Efek OFD</translation>
     </message>
     <message>
         <source>Print</source>
@@ -20523,10 +20224,6 @@ Changes</source>
         <translation>Tampilkan/Sembunyikan Pita Otomatis</translation>
     </message>
     <message>
-        <source>Proofread Leader</source>
-        <translation>Koreksi Lead</translation>
-    </message>
-    <message>
         <source>Cloud File Management</source>
         <translation>Pengelolaan File Cloud </translation>
     </message>
@@ -20599,20 +20296,8 @@ Changes</source>
         <translation>Sisipkan</translation>
     </message>
     <message>
-        <source>Proofread Repeate</source>
-        <translation>Koreksi Kata Reduplikatif</translation>
-    </message>
-    <message>
         <source>Service Expired</source>
         <translation>Layanan Berakhir</translation>
-    </message>
-    <message>
-        <source>VFont Size</source>
-        <translation>Ukuran Font Potret</translation>
-    </message>
-    <message>
-        <source>HFont Size</source>
-        <translation>Ukuran Font Lanskap</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -20789,10 +20474,6 @@ Changes</source>
     <message>
         <source>Combine Characters</source>
         <translation>Gabungkan Karakter</translation>
-    </message>
-    <message>
-        <source>PDFTOCad</source>
-        <translation>PDF ke CAD</translation>
     </message>
     <message>
         <source>FormatProof</source>
@@ -21023,14 +20704,6 @@ Baru</translation>
         <translation>Sorotan</translation>
     </message>
     <message>
-        <source>Proofread Sens</source>
-        <translation>Koreksi Kata Sensitif</translation>
-    </message>
-    <message>
-        <source>Proofread Punc</source>
-        <translation>Koreksi Tanda Baca</translation>
-    </message>
-    <message>
         <source>Hide the Toolbar</source>
         <translation>Sembunyikan Batang Alat</translation>
     </message>
@@ -21084,6 +20757,42 @@ Format</translation>
     <message>
         <source>Sign Out</source>
         <translation>Akses Keluar</translation>
+    </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation>Koreksi Kata Salah</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Pratinjau Efek OFD</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation>Koreksi Lead</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation>Koreksi Kata Reduplikatif</translation>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Ukuran Font Potret</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Ukuran Font Lanskap</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>PDF ke CAD</translation>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation>Koreksi Kata Sensitif</translation>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation>Koreksi Tanda Baca</translation>
     </message>
 </context>
 <context>
@@ -21148,16 +20857,16 @@ Format</translation>
         <translation>Tidak Ada Saran Ejaan</translation>
     </message>
     <message>
-        <source>Use the new version features</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Spelling check is complete.</source>
         <translation>Pemeriksaan ejaan selesai.</translation>
     </message>
     <message>
         <source>Text in %1 is not being checked. Do you want to add it as a proofreading language?</source>
         <translation>Teks dalam %1 tidak akan dicek. Apakah Anda mau menambahkannya sebagai bahasa proofreading?</translation>
+    </message>
+    <message>
+        <source>Use the new version features</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21517,16 +21226,16 @@ Format</translation>
         <translation>Izin Dokumen</translation>
     </message>
     <message>
-        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
-        <translation>Setelah pengaturan, outputnya adalah dokumen PDF keamanan online. Buka dengan versi PDF Security.</translation>
-    </message>
-    <message>
         <source>Convert other &amp;styles to bookmarks</source>
         <translation>Konversi gaya lainnya ke bookmark (&amp;g)</translation>
     </message>
     <message>
         <source>Export PDF File</source>
         <translation>Ekspor File PDF</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation>Setelah pengaturan, outputnya adalah dokumen PDF keamanan online. Buka dengan versi PDF Security.</translation>
     </message>
 </context>
 <context>
@@ -22298,10 +22007,6 @@ Changes</source>
         <translation>&apos; tidak tersedia di sistem Anda. Anda ingin tetap menggunakan font ini?</translation>
     </message>
     <message>
-        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
-        <translation>Semua Dokumen WPS Writer (*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</translation>
-    </message>
-    <message>
         <source>Add Horizontal Border</source>
         <translation>Tambahkan Batas Horizontal</translation>
     </message>
@@ -22575,10 +22280,6 @@ Check</source>
         <translation>Klik untuk mengedit kepala</translation>
     </message>
     <message>
-        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
-        <translation>Gagal mengonversi dokumen kosong. Isikan konten atau buka dokumen lain dan coba lagi.</translation>
-    </message>
-    <message>
         <source>Insert AutoText</source>
         <translation>Sisipkan AutoTeks</translation>
     </message>
@@ -22605,10 +22306,6 @@ Check</source>
         <translation>Diformat</translation>
     </message>
     <message>
-        <source>Ofd Print Preview Fit Page</source>
-        <translation>Sesuaikan dengan Halaman</translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>Cari</translation>
     </message>
@@ -22627,10 +22324,6 @@ Check</source>
     <message>
         <source>Format line number</source>
         <translation>Format nomor baris</translation>
-    </message>
-    <message>
-        <source>FontName And FontSize</source>
-        <translation>Font Dan Ukuran Font</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -22659,10 +22352,6 @@ Check</source>
     <message>
         <source>Insert Table Element</source>
         <translation>Sisipkan Elemen Tabel</translation>
-    </message>
-    <message>
-        <source>Put Custom Line Spacing</source>
-        <translation>Jarak Baris</translation>
     </message>
     <message>
         <source>Set Xml Mapping</source>
@@ -22723,10 +22412,6 @@ Check</source>
     <message>
         <source>&quot;Two Pages&quot;,-4</source>
         <translation>&quot;Dua Halaman&quot;,-4</translation>
-    </message>
-    <message>
-        <source>Custom Page Size</source>
-        <translation>Ukuran Kustom</translation>
     </message>
     <message>
         <source>Increase Indentation</source>
@@ -23298,10 +22983,6 @@ Baru</translation>
         <translation>Cetak langsung</translation>
     </message>
     <message>
-        <source>Ofd Print Preview Fit Width</source>
-        <translation>Sesuaikan Lebar</translation>
-    </message>
-    <message>
         <source>Subscript</source>
         <translation>Subskrip</translation>
     </message>
@@ -23316,10 +22997,6 @@ Baru</translation>
     <message>
         <source>Bullets</source>
         <translation>Poin</translation>
-    </message>
-    <message>
-        <source>Insert Official Glossary</source>
-        <translation>Sisipkan Elemen Dokumen Resmi</translation>
     </message>
     <message>
         <source>Table Simple 1</source>
@@ -23629,10 +23306,6 @@ Baru</translation>
         <translation>Klik Ganda untuk Menyembunyikan Area Kosong</translation>
     </message>
     <message>
-        <source>Insert Document Barcode</source>
-        <translation>Sisipkan Kode QR Dokumen Resmi</translation>
-    </message>
-    <message>
         <source>Change List Level</source>
         <translation>Ubah Level Daftar</translation>
     </message>
@@ -23740,10 +23413,6 @@ Baru</translation>
     <message>
         <source>Light Shading Accent 6</source>
         <translation>Aksen Bayangan Terang 6</translation>
-    </message>
-    <message>
-        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
-        <translation>Semua Dokumen WPS Writer (*.wps; *.wpt)</translation>
     </message>
     <message>
         <source>Open Xml Map</source>
@@ -23962,10 +23631,6 @@ Baru</translation>
         <translation>Perbarui Indeks Bidang</translation>
     </message>
     <message>
-        <source>OfficialToNormal</source>
-        <translation>Dokumen Resmi ke Dokumen Biasa</translation>
-    </message>
-    <message>
         <source>Paste Source Formatting</source>
         <translation>Tempelkan Format Sumber</translation>
     </message>
@@ -24132,12 +23797,6 @@ Baru</translation>
         <translation>Klik dua kali untuk mengedit footer</translation>
     </message>
     <message>
-        <source>Your file is under protection. Please do the following to unprotect it and retry:
-Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
-        <translation>Dokumen Anda dalam proteksi. Selesaikan langkah-langkah berikut untuk membatalkan proteksi dan coba lagi:
-Masuk ke Tinjau - Panel Tugas - Batasan Pengeditan, lalu klik &quot;Hentikan Proteksi&quot;.</translation>
-    </message>
-    <message>
         <source>Translate to Traditional Chinese</source>
         <translation>Terjemahkan ke Cina Tradisional</translation>
     </message>
@@ -24152,10 +23811,6 @@ Masuk ke Tinjau - Panel Tugas - Batasan Pengeditan, lalu klik &quot;Hentikan Pro
     <message>
         <source>Edit Comment</source>
         <translation>Edit Komentar</translation>
-    </message>
-    <message>
-        <source>Transpose Table</source>
-        <translation>Alihkan Baris/Kolom</translation>
     </message>
     <message>
         <source>Clear Line Space</source>
@@ -24184,10 +23839,6 @@ Masuk ke Tinjau - Panel Tugas - Batasan Pengeditan, lalu klik &quot;Hentikan Pro
     <message>
         <source>After Spacing: %.2f Lines</source>
         <translation>Setelah Spasi: %.2f Garis</translation>
-    </message>
-    <message>
-        <source>Modify Document Barcode</source>
-        <translation>Ubah Kode QR Dokumen Resmi</translation>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
@@ -24288,6 +23939,97 @@ Masuk ke Tinjau - Panel Tugas - Batasan Pengeditan, lalu klik &quot;Hentikan Pro
     <message>
         <source>Show/Hide Formatting Marks</source>
         <translation>Tampilkan/Sembunyikan Tanda Pemformatan</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
+        <translation>Semua Dokumen WPS Writer (*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</translation>
+    </message>
+    <message>
+        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
+        <translation>Gagal mengonversi dokumen kosong. Isikan konten atau buka dokumen lain dan coba lagi.</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Page</source>
+        <translation>Sesuaikan dengan Halaman</translation>
+    </message>
+    <message>
+        <source>FontName And FontSize</source>
+        <translation>Font Dan Ukuran Font</translation>
+    </message>
+    <message>
+        <source>Put Custom Line Spacing</source>
+        <translation>Jarak Baris</translation>
+    </message>
+    <message>
+        <source>Custom Page Size</source>
+        <translation>Ukuran Kustom</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Width</source>
+        <translation>Sesuaikan Lebar</translation>
+    </message>
+    <message>
+        <source>Insert Official Glossary</source>
+        <translation>Sisipkan Elemen Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>Insert Document Barcode</source>
+        <translation>Sisipkan Kode QR Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
+        <translation>Semua Dokumen WPS Writer (*.wps; *.wpt)</translation>
+    </message>
+    <message>
+        <source>OfficialToNormal</source>
+        <translation>Dokumen Resmi ke Dokumen Biasa</translation>
+    </message>
+    <message>
+        <source>Your file is under protection. Please do the following to unprotect it and retry:
+Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
+        <translation>Dokumen Anda dalam proteksi. Selesaikan langkah-langkah berikut untuk membatalkan proteksi dan coba lagi:
+Masuk ke Tinjau - Panel Tugas - Batasan Pengeditan, lalu klik &quot;Hentikan Proteksi&quot;.</translation>
+    </message>
+    <message>
+        <source>Transpose Table</source>
+        <translation>Alihkan Baris/Kolom</translation>
+    </message>
+    <message>
+        <source>Modify Document Barcode</source>
+        <translation>Ubah Kode QR Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add rows and columns</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxVersion_Paste</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>TxVersion_InsertPageNumber</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <comment>TxVersion_InsertTable</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Apply Table Style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Typing</source>
+        <comment>TxVersion_Key_Type</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -25842,10 +25584,6 @@ Tabel</translation>
         <translation>Masukan dan Informasi Produk</translation>
     </message>
     <message>
-        <source>New Wps Document</source>
-        <translation>Teks Baru</translation>
-    </message>
-    <message>
         <source>Print</source>
         <translation>Cetak</translation>
     </message>
@@ -25998,10 +25736,6 @@ Tabel</translation>
         <translation>Tentang WPS Writer</translation>
     </message>
     <message>
-        <source>ExportToPpt</source>
-        <translation>Output sebagai PPTX</translation>
-    </message>
-    <message>
         <source>View Permissions</source>
         <translation>Lihat Izin</translation>
     </message>
@@ -26040,6 +25774,14 @@ Tabel</translation>
     <message>
         <source>Create Online Document</source>
         <translation>Buat Dokumen Online</translation>
+    </message>
+    <message>
+        <source>New Wps Document</source>
+        <translation>Teks Baru</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation>Output sebagai PPTX</translation>
     </message>
 </context>
 <context>
@@ -27239,10 +26981,6 @@ Halaman</translation>
         <translation>Sebelum: (&amp;S)</translation>
     </message>
     <message>
-        <source>Official Line Interval</source>
-        <translation>Jarak Baris</translation>
-    </message>
-    <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
         <translation>ch, 2, 0, 316,8, 0,5</translation>
     </message>
@@ -27389,6 +27127,10 @@ Halaman</translation>
     <message>
         <source>Right-to-le&amp;ft</source>
         <translation>Kanan ke kiri (&amp;r)</translation>
+    </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Jarak Baris</translation>
     </message>
 </context>
 <context>
@@ -29386,10 +29128,6 @@ Pilihan</translation>
         <translation>Gabungkan ke Dokumen Baru Berbeda</translation>
     </message>
     <message>
-        <source>Open fol&amp;der after merge</source>
-        <translation>Buka direktori dokumen baru setelah penggabungan (&amp;D)</translation>
-    </message>
-    <message>
         <source>&amp;Modify...</source>
         <translation>Ubah... (&amp;U)</translation>
     </message>
@@ -29412,6 +29150,10 @@ Pilihan</translation>
     <message>
         <source>Save as ty&amp;pe:</source>
         <translation>Simpan sebagai tipe: (&amp;p)</translation>
+    </message>
+    <message>
+        <source>Open fol&amp;der after merge</source>
+        <translation>Buka direktori dokumen baru setelah penggabungan (&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -29567,10 +29309,6 @@ Pilihan</translation>
         <translation>Pilihan </translation>
     </message>
     <message>
-        <source>set sy info(&amp;S)</source>
-        <translation>Tetapkan Info Sumber</translation>
-    </message>
-    <message>
         <source>All pages in range</source>
         <translation>Semua halaman dalam rentang</translation>
     </message>
@@ -29665,6 +29403,10 @@ Pilihan</translation>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12.</source>
         <translation>Masukkan nomor halaman dan/atau rentang halaman yang dipisahkan dengan koma. Misalnya, 1,3,5-12.</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation>Tetapkan Info Sumber</translation>
     </message>
 </context>
 <context>
@@ -30784,10 +30526,6 @@ Pembungkusan</translation>
         <translation>2,25 pt</translation>
     </message>
     <message>
-        <source>Convert Text in Picture</source>
-        <translation>Konversi teks di gambar ke format teks</translation>
-    </message>
-    <message>
         <source>Rotate Right 90°</source>
         <translation>Putar ke Kanan 90°</translation>
     </message>
@@ -30875,10 +30613,6 @@ Gambar</translation>
     <message>
         <source>Atristic Clip</source>
         <translation>Klip Seni</translation>
-    </message>
-    <message>
-        <source>Text Translation in Image</source>
-        <translation>Terjemahkan teks dalam gambar ke/dari Bahasa Inggris/Tionghoa</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -31016,10 +30750,6 @@ Pilihan</translation>
         <translation>Kerangka Gambar</translation>
     </message>
     <message>
-        <source>Picture Batch to PDF</source>
-        <translation>Konversi Kumpulan Gambar ke PDF</translation>
-    </message>
-    <message>
         <source>Bring in Front of Text</source>
         <translation>Bawa ke Depan Teks</translation>
     </message>
@@ -31092,6 +30822,18 @@ Gambar</translation>
     <message>
         <source>Align Top</source>
         <translation>Rata Atas</translation>
+    </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Konversi teks di gambar ke format teks</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Terjemahkan teks dalam gambar ke/dari Bahasa Inggris/Tionghoa</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Konversi Kumpulan Gambar ke PDF</translation>
     </message>
 </context>
 <context>
@@ -31319,10 +31061,6 @@ Gambar</translation>
         <translation>2,25 pt</translation>
     </message>
     <message>
-        <source>Convert Text in Picture</source>
-        <translation>Konversi teks di gambar ke format teks</translation>
-    </message>
-    <message>
         <source>Rotate Right 90°</source>
         <translation>Putar ke Kanan 90°</translation>
     </message>
@@ -31390,10 +31128,6 @@ Gambar</translation>
     <message>
         <source>Equal Size</source>
         <translation>Sama Besar</translation>
-    </message>
-    <message>
-        <source>Text Translation in Image</source>
-        <translation>Terjemahkan teks dalam gambar ke/dari Bahasa Inggris/Tionghoa</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -31574,10 +31308,6 @@ Pilihan</translation>
         <translation>Kerangka Gambar</translation>
     </message>
     <message>
-        <source>Picture Batch to PDF</source>
-        <translation>Konversi Kumpulan Gambar ke PDF</translation>
-    </message>
-    <message>
         <source>Bring in Front of Text</source>
         <translation>Bawa ke Depan Teks</translation>
     </message>
@@ -31665,6 +31395,18 @@ Pilihan</translation>
         <source>Align Top</source>
         <translation>Rata Atas</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Konversi teks di gambar ke format teks</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Terjemahkan teks dalam gambar ke/dari Bahasa Inggris/Tionghoa</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Konversi Kumpulan Gambar ke PDF</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -31720,10 +31462,6 @@ Baca</translation>
     <message>
         <source>Place on Left</source>
         <translation>Letakkan di Kiri</translation>
-    </message>
-    <message>
-        <source>ComposeAssist</source>
-        <translation>Asisten penulisan</translation>
     </message>
     <message>
         <source>Document Views</source>
@@ -31867,577 +31605,9 @@ Penuh</translation>
 Window</source>
         <translation>Jendela Baru</translation>
     </message>
-</context>
-<context>
-    <name>ongmani.proxycommands</name>
     <message>
-        <source>Proofread Wrong</source>
-        <translation>Koreksi Kata Salah</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation>Bantuan</translation>
-    </message>
-    <message>
-        <source>News</source>
-        <translation>Berita</translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation>Simpan</translation>
-    </message>
-    <message>
-        <source>Batch Delete</source>
-        <translation>Penghapusan Berkelompok</translation>
-    </message>
-    <message>
-        <source>HeaderFooterGroup</source>
-        <translation>Grup Header dan Footer</translation>
-    </message>
-    <message>
-        <source>Quick</source>
-        <translation>Cepat</translation>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>Table</source>
-        <translation>Tabel</translation>
-    </message>
-    <message>
-        <source>Insert Pictures From Phone</source>
-        <translation>Sisipkan Gambar dari Ponsel</translation>
-    </message>
-    <message>
-        <source>Shortcut Setting</source>
-        <translation>Pengaturan Pintasan</translation>
-    </message>
-    <message>
-        <source>Auto Save File</source>
-        <translation>Simpan Otomatis File</translation>
-    </message>
-    <message>
-        <source>Screen Grab Ocr</source>
-        <translation>Ambil Layar dan OCR</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <comment>Menu</comment>
-        <translation>Ambil Layar</translation>
-    </message>
-    <message>
-        <source>document authentication</source>
-        <translation>Autentikasi dokumen</translation>
-    </message>
-    <message>
-        <source>Show Toolbar</source>
-        <translation>Tampilkan Bar Alat</translation>
-    </message>
-    <message>
-        <source>Document Fix</source>
-        <translation>Perbaikan File</translation>
-    </message>
-    <message>
-        <source>Hardware Encryption</source>
-        <translation>Enkripsi perangkat keras</translation>
-    </message>
-    <message>
-        <source>Setting Link</source>
-        <translation>Tautan Pengaturan</translation>
-    </message>
-    <message>
-        <source>Feedback and Advice</source>
-        <translation>Masukan dan Saran</translation>
-    </message>
-    <message>
-        <source>Picture Style</source>
-        <translation>Gaya Gambar</translation>
-    </message>
-    <message>
-        <source>Insert Online Pictures</source>
-        <translation>Sisipkan Gambar Online</translation>
-    </message>
-    <message>
-        <source>Add Picture Frame</source>
-        <translation>Tambahkan Bingkai Gambar</translation>
-    </message>
-    <message>
-        <source>Export as Image</source>
-        <translation>Ekspor ke Gambar</translation>
-    </message>
-    <message>
-        <source>Online Fonts</source>
-        <translation>Font Awan</translation>
-    </message>
-    <message>
-        <source>Online Chart</source>
-        <translation>Bagan Online</translation>
-    </message>
-    <message>
-        <source>Core Encryption</source>
-        <translation>Enkripsi Inti</translation>
-    </message>
-    <message>
-        <source>File Send</source>
-        <translation>Kirim ke seluler</translation>
-    </message>
-    <message>
-        <source>IconLibrary</source>
-        <translation>Pustaka Ikon</translation>
-    </message>
-    <message>
-        <source>Link Preview</source>
-        <translation>Bagi File</translation>
-    </message>
-    <message>
-        <source>All Comments</source>
-        <translation>Semua Komentar</translation>
-    </message>
-    <message>
-        <source>Proofread Leader</source>
-        <translation>Koreksi Lead</translation>
-    </message>
-    <message>
-        <source>Sentence Translation</source>
-        <translation>Terjemahan Kalimat</translation>
-    </message>
-    <message>
-        <source>Output Voice</source>
-        <translation>Suara Output</translation>
-    </message>
-    <message>
-        <source>Screen Recorder</source>
-        <translation>Perekam Layar</translation>
-    </message>
-    <message>
-        <source>Ornamentation</source>
-        <translation>Ornamentasi</translation>
-    </message>
-    <message>
-        <source>Document History</source>
-        <translation>Riwayat Dokumen</translation>
-    </message>
-    <message>
-        <source>New Doc Recommend</source>
-        <translation>Anda mungkin menyukai</translation>
-    </message>
-    <message>
-        <source>Split or Merge</source>
-        <translation>split atau gabungan</translation>
-    </message>
-    <message>
-        <source>SmartArt</source>
-        <translation>WPSArt</translation>
-    </message>
-    <message>
-        <source>Online Picture</source>
-        <translation>Gambar Online</translation>
-    </message>
-    <message>
-        <source>Set Language</source>
-        <translation>Set Bahasa</translation>
-    </message>
-    <message>
-        <source>PDF To Excel</source>
-        <translation>PDF ke Excel</translation>
-    </message>
-    <message>
-        <source>Cover Pages</source>
-        <translation>Halaman Sampul</translation>
-    </message>
-    <message>
-        <source>Send E-mail</source>
-        <translation>Kirim Email</translation>
-    </message>
-    <message>
-        <source>Share documents.</source>
-        <translation>Bagikan Document ke Orang Lain</translation>
-    </message>
-    <message>
-        <source>New Doc Gallery</source>
-        <translation>Galeri</translation>
-    </message>
-    <message>
-        <source>Help And QA</source>
-        <translation>Bantuan dan TJ</translation>
-    </message>
-    <message>
-        <source>Ever Sheet</source>
-        <translation>Lembar Ever</translation>
-    </message>
-    <message>
-        <source>AutoShapes</source>
-        <translation>Autobentuk</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Donasikan</translation>
-    </message>
-    <message>
-        <source>More Color Schemes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Footer</source>
-        <translation>Footer</translation>
-    </message>
-    <message>
-        <source>Header</source>
-        <translation>Kepala</translation>
-    </message>
-    <message>
-        <source>ShortThemeColor</source>
-        <translation>Warna Tema</translation>
-    </message>
-    <message>
-        <source>Proofread Repeate</source>
-        <translation>Koreksi Kata Reduplikatif</translation>
-    </message>
-    <message>
-        <source>ShortBatchDelete</source>
-        <translation>Hapus</translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation>Ganti nama</translation>
-    </message>
-    <message>
-        <source>CADTOPdf</source>
-        <translation>CAD ke PDF</translation>
-    </message>
-    <message>
-        <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
-    </message>
-    <message>
-        <source>Shapes</source>
-        <translation>Bentuk</translation>
-    </message>
-    <message>
-        <source>PDF To PPT</source>
-        <translation>PDF ke PPT</translation>
-    </message>
-    <message>
-        <source>Xie De</source>
-        <translation>Xie De</translation>
-    </message>
-    <message>
-        <source>Insert Symbol</source>
-        <translation>Sisipkan Simbol</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation>Ucapan Teks</translation>
-    </message>
-    <message>
-        <source>PDFCompress</source>
-        <translation>Kompresi PDF</translation>
-    </message>
-    <message>
-        <source>Proofread</source>
-        <translation>Pemeriksaan</translation>
-    </message>
-    <message>
-        <source>Send pictures</source>
-        <translation>Kirim Gambar</translation>
-    </message>
-    <message>
-        <source>Online TableStyle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PaperFormat</source>
-        <translation>Tata letak kertas</translation>
-    </message>
-    <message>
-        <source>Photo2Pdf</source>
-        <translation>Konversi ke file PDF</translation>
-    </message>
-    <message>
-        <source>My Picture</source>
-        <translation>Gambar Saya</translation>
-    </message>
-    <message>
-        <source>Share To QQ</source>
-        <translation>Bagi ke QQ</translation>
-    </message>
-    <message>
-        <source>File Share</source>
-        <translation>Bagi File</translation>
-    </message>
-    <message>
-        <source>AutoFindContents</source>
-        <translation>Identifikasi Konten Otomatis</translation>
-    </message>
-    <message>
-        <source>Online Picture Gallery</source>
-        <translation>Galeri</translation>
-    </message>
-    <message>
-        <source>Web Preview</source>
-        <translation>Create Link and Share</translation>
-    </message>
-    <message>
-        <source>Share to Microblog Webpage</source>
-        <translation>Bagi ke Halaman web Mikroblog</translation>
-    </message>
-    <message>
-        <source>Insert LaTeX Equation</source>
-        <translation>Gunakan LaTeX untuk mengedit dan menyisipkan rumus dengan cepat.</translation>
-    </message>
-    <message>
-        <source>DocerFeature</source>
-        <translation>Asisten Cerdas</translation>
-    </message>
-    <message>
-        <source>Insert online Picture</source>
-        <translation>Sisipkan Gambar Online</translation>
-    </message>
-    <message>
-        <source>Document Encryption</source>
-        <translation>Enkripsi Dokumen</translation>
-    </message>
-    <message>
-        <source>Send By E-mail</source>
-        <translation>Kirim Lewat Email</translation>
-    </message>
-    <message>
-        <source>Open from Cloud Docs</source>
-        <translation>Buka dari Cloud Docs</translation>
-    </message>
-    <message>
-        <source>PDF Merge</source>
-        <translation>Penggabungan PDF</translation>
-    </message>
-    <message>
-        <source>PDF Split</source>
-        <translation>Pemisahan PDF</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation>Terjemahkan</translation>
-    </message>
-    <message>
-        <source>Translate selected text</source>
-        <translation>Terjemahkan teks yang dipilih</translation>
-    </message>
-    <message>
-        <source>PDFTOCad</source>
-        <translation>PDF ke CAD</translation>
-    </message>
-    <message>
-        <source>Document Translate</source>
-        <translation>Terjemahkan Document</translation>
-    </message>
-    <message>
-        <source>Share to Microblog</source>
-        <translation>Bagi ke Mikroblog</translation>
-    </message>
-    <message>
-        <source>FormatProof</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Password Encryption</source>
-        <translation>Enkripsi Kata Sandi</translation>
-    </message>
-    <message>
-        <source>Check Users Permissions</source>
-        <translation>Periksa Izin 
-Pengguna</translation>
-    </message>
-    <message>
-        <source>Account Encryption</source>
-        <translation>Enkripsi Akun</translation>
-    </message>
-    <message>
-        <source>ShortChart</source>
-        <translation>Bagan</translation>
-    </message>
-    <message>
-        <source>ExportToPpt</source>
-        <translation>Output sebagai PPTX</translation>
-    </message>
-    <message>
-        <source>ShortWordArt</source>
-        <translation>WordArt</translation>
-    </message>
-    <message>
-        <source>Decryption</source>
-        <translation>Dekripsi</translation>
-    </message>
-    <message>
-        <source>Encryption</source>
-        <translation>Enkripsi</translation>
-    </message>
-    <message>
-        <source>Xie De Menu</source>
-        <translation>Menu Xie De</translation>
-    </message>
-    <message>
-        <source>PCLatexEquation</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide current window when taking screenshots</source>
-        <translation>Sembunyikan jendela aktif saat mengambil tangkapan layar</translation>
-    </message>
-    <message>
-        <source>DocerThemeColor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Comment</source>
-        <translation>Komentar</translation>
-    </message>
-    <message>
-        <source>Translation</source>
-        <translation>Terjemahan</translation>
-    </message>
-    <message>
-        <source>Full-Text Speech</source>
-        <translation>Ucapan Teks Penuh</translation>
-    </message>
-    <message>
-        <source>Materials</source>
-        <translation>Material</translation>
-    </message>
-    <message>
-        <source>DocerWordArt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Microblog Layout</source>
-        <translation>Tata Letak WPS Microblog</translation>
-    </message>
-    <message>
-        <source>PDF to Word</source>
-        <translation>PDF ke 
-Word</translation>
-    </message>
-    <message>
-        <source>DocerTableStyle</source>
-        <translation>Gaya Tabel</translation>
-    </message>
-    <message>
-        <source>Global Search</source>
-        <translation>Pencarian Global</translation>
-    </message>
-    <message>
-        <source>Feedback</source>
-        <translation>Masukan</translation>
-    </message>
-    <message>
-        <source>Save to Cloud Docs</source>
-        <translation>Simpan ke Cloud Docs</translation>
-    </message>
-    <message>
-        <source>WpsPackagePlugin</source>
-        <translation>Wps Package Plugin</translation>
-    </message>
-    <message>
-        <source>Screen Grab</source>
-        <translation>Ambil Layar</translation>
-    </message>
-    <message>
-        <source>PaperCheck</source>
-        <translation>Cek Kertas</translation>
-    </message>
-    <message>
-        <source>DocerChart</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DocumentContentStudioHint</source>
-        <translation>Ekstrak</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertAll</source>
-        <translation>Konversi Semua Gambar dalam Document</translation>
-    </message>
-    <message>
-        <source>Photo2PdfConvertOne</source>
-        <translation>Konversi Gambar yang Dipilih</translation>
-    </message>
-    <message>
-        <source>OnlineDiagram</source>
-        <translation>Bagan Org</translation>
-    </message>
-    <message>
-        <source>Online Pictures</source>
-        <translation>Gambar Online</translation>
-    </message>
-    <message>
-        <source>Backup Center</source>
-        <translation>Pencadangan Otomatis</translation>
-    </message>
-    <message>
-        <source>Collaboration</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>DocumentContentStudio</source>
-        <translation>Ekstrasi Batch</translation>
-    </message>
-    <message>
-        <source>Share To Wechat</source>
-        <translation>Bagi ke Wechat</translation>
-    </message>
-    <message>
-        <source>GroupSending</source>
-        <translation>Kirim ke grup</translation>
-    </message>
-    <message>
-        <source>ProcessOnEntry</source>
-        <translation>Proses Baru</translation>
-    </message>
-    <message>
-        <source>Add or view comments in your document.</source>
-        <translation>Tambah atau tampilkan komentar di dalam dokumen Anda.</translation>
-    </message>
-    <message>
-        <source>Insert Comment</source>
-        <translation>Sisipkan Komentar</translation>
-    </message>
-    <message>
-        <source>Check Mine Permission</source>
-        <translation>Periksa Izin 
-Saya</translation>
-    </message>
-    <message>
-        <source>Proofread Sens</source>
-        <translation>Koreksi Kata Sensitif</translation>
-    </message>
-    <message>
-        <source>Proofread Punc</source>
-        <translation>Koreksi Tanda Baca</translation>
-    </message>
-    <message>
-        <source>Selection Speech</source>
-        <translation>Ucapan Pilihan</translation>
-    </message>
-    <message>
-        <source>Document Permission</source>
-        <translation>Izin Dokumen</translation>
-    </message>
-    <message>
-        <source>Scan to Mobile</source>
-        <translation>Pindai ke 
-Ponsel</translation>
-    </message>
-    <message>
-        <source>From Phone</source>
-        <translation>Dari Ponsel</translation>
-    </message>
-    <message>
-        <source>Normal Encryption</source>
-        <translation>Enkripsi Normal</translation>
-    </message>
-    <message>
-        <source>Online Textbox</source>
-        <translation>Kotak Teks Templat</translation>
+        <source>ComposeAssist</source>
+        <translation>Asisten penulisan</translation>
     </message>
 </context>
 <context>
@@ -32484,10 +31654,6 @@ Ponsel</translation>
     <message>
         <source>Select Folder:</source>
         <translation>Pilih Folder:</translation>
-    </message>
-    <message>
-        <source>Keep backup cache file days must be between %1 and %2!</source>
-        <translation>Periode penahanan file cadangan harus antara %1 dan %2.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
@@ -32582,16 +31748,20 @@ Ponsel</translation>
         <translation>Sesuaikan Pita</translation>
     </message>
     <message>
-        <source>This will delete all backup files in your computer. Sure to delete ?</source>
-        <translation>Apakah Anda yakin ingin menghapus semua file cadangan lokal?</translation>
-    </message>
-    <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>Anda tidak memiliki izin untuk menyimpan file cadangan ke &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Pencadangan Waktu</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation>Periode penahanan file cadangan harus antara %1 dan %2.</translation>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation>Apakah Anda yakin ingin menghapus semua file cadangan lokal?</translation>
     </message>
 </context>
 <context>
@@ -32739,10 +31909,6 @@ Perubahan ini akan mempengaruhi semua dokumen baru berdasarkan %1 templat.</tran
     <message>
         <source>Align Right</source>
         <translation>Rata Kanan</translation>
-    </message>
-    <message>
-        <source>Docer Bullet</source>
-        <translation>Bullet Templat</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
@@ -32944,6 +32110,10 @@ Daftar Isi</translation>
     <message>
         <source>Gridlines</source>
         <translation>Garis kisi</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Bullet Templat</translation>
     </message>
 </context>
 <context>
@@ -33632,6 +32802,22 @@ Pilihan</translation>
         <translation>Selesai</translation>
     </message>
     <message>
+        <source>templates</source>
+        <translation>Templat</translation>
+    </message>
+    <message>
+        <source>importing:</source>
+        <translation>mengimpor:</translation>
+    </message>
+    <message>
+        <source>Template aleady exits</source>
+        <translation>Templat sudah ada</translation>
+    </message>
+    <message>
+        <source>Failed to copy file</source>
+        <translation>Gagal menyalin file</translation>
+    </message>
+    <message>
         <source>Document had been protected</source>
         <translation>Ada batasan pengeditan di dokumen ini. Nonaktifkan batasan pengeditan di bar samping kanan dan impor lagi.</translation>
     </message>
@@ -33652,20 +32838,8 @@ Pilihan</translation>
         <translation>Daftar Gagal Impor_</translation>
     </message>
     <message>
-        <source>templates</source>
-        <translation>Templat</translation>
-    </message>
-    <message>
         <source>No read and write permissions, please turn it on in &quot;Properties&quot; - &quot;Permissions&quot;, or use another system user account and try again</source>
         <translation>Tidak ada izin baca/tulis. Aktifkan izin dalam &quot;Properti&quot; - &quot;Izin&quot;, atau beralih ke akun pengguna sistem lain dan coba lagi.</translation>
-    </message>
-    <message>
-        <source>importing:</source>
-        <translation>mengimpor:</translation>
-    </message>
-    <message>
-        <source>Template aleady exits</source>
-        <translation>Templat sudah ada</translation>
     </message>
     <message>
         <source>succeeded</source>
@@ -33674,10 +32848,6 @@ Pilihan</translation>
     <message>
         <source>template(s) failed import</source>
         <translation> templat gagal diimpor.</translation>
-    </message>
-    <message>
-        <source>Failed to copy file</source>
-        <translation>Gagal menyalin file</translation>
     </message>
     <message>
         <source>GotoNew</source>
@@ -33889,10 +33059,6 @@ Gambar</translation>
         <translation>Galeri Bagan</translation>
     </message>
     <message>
-        <source>Document Barcode</source>
-        <translation>Kode QR Dokumen Resmi</translation>
-    </message>
-    <message>
         <source>Fields</source>
         <translation>Ruas</translation>
     </message>
@@ -33928,6 +33094,10 @@ Kosong</translation>
     <message>
         <source>Shapes</source>
         <translation>Bentuk</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <translation>Tabel</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -34156,8 +33326,8 @@ Halaman</translation>
         <translation>Total Halaman Y</translation>
     </message>
     <message>
-        <source>Tables</source>
-        <translation>Tabel</translation>
+        <source>Document Barcode</source>
+        <translation>Kode QR Dokumen Resmi</translation>
     </message>
 </context>
 <context>
@@ -34231,12 +33401,12 @@ ke dokumen XML Word.</translation>
         <translation>Angka tidak valid.</translation>
     </message>
     <message>
-        <source>Email application is not available. Please choose anther email application</source>
-        <translation>Klien email tidak valid. Silakan pilih lagi.</translation>
-    </message>
-    <message>
         <source>WPS Writer</source>
         <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Email application is not available. Please choose anther email application</source>
+        <translation>Klien email tidak valid. Silakan pilih lagi.</translation>
     </message>
     <message>
         <source>Email account is not available. Please reconfigure another account</source>
@@ -34274,6 +33444,14 @@ ke dokumen XML Word.</translation>
         <translation>&lt; Kembali</translation>
     </message>
     <message>
+        <source>PushButton</source>
+        <translation>Tombol Jejal</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Label Teks</translation>
+    </message>
+    <message>
         <source>Searching, Has Searched %1Content</source>
         <translation>Mencari...%1 item yang ditemukan.</translation>
     </message>
@@ -34292,16 +33470,8 @@ Support title, content</source>
 Mendukung pencarian judul dan isi</translation>
     </message>
     <message>
-        <source>PushButton</source>
-        <translation>Tombol Jejal</translation>
-    </message>
-    <message>
         <source>TypeFilter:</source>
         <translation>Jenis File:</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
     </message>
     <message>
         <source>Search Path:</source>
@@ -34467,10 +33637,6 @@ ke Teks</translation>
         <translation>Hapus Daftar Isi</translation>
     </message>
     <message>
-        <source>Bottom Line Script(Multi Angency)</source>
-        <translation>Artikel Menurun (Multi Institusi)</translation>
-    </message>
-    <message>
         <source>Separating Line</source>
         <translation>Baris Pemisah</translation>
     </message>
@@ -34491,18 +33657,6 @@ ke Teks</translation>
         <translation>WPSArt</translation>
     </message>
     <message>
-        <source>Document Parts</source>
-        <translation>Bagian-Bagian Dokumen Resmi</translation>
-    </message>
-    <message>
-        <source>Top Line Script(Multi Angency)</source>
-        <translation>Artikel Menaik (Multi Institusi)</translation>
-    </message>
-    <message>
-        <source>2 Rows Editions</source>
-        <translation>Tanda Edisi Dua Baris</translation>
-    </message>
-    <message>
         <source>Breaks</source>
         <translation>Jeda</translation>
     </message>
@@ -34513,10 +33667,6 @@ ke Teks</translation>
     <message>
         <source>Letter</source>
         <translation>Surat</translation>
-    </message>
-    <message>
-        <source>Insert Vertical</source>
-        <translation>Sisipkan Halaman Potret</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -34533,10 +33683,6 @@ ke Teks</translation>
     <message>
         <source>From File</source>
         <translation>Dari File</translation>
-    </message>
-    <message>
-        <source>Top Line</source>
-        <translation>Pembagi Teratas</translation>
     </message>
     <message>
         <source>Insert Watermark</source>
@@ -34575,10 +33721,6 @@ ke Teks</translation>
         <translation>Hapus Semua Nomor Halaman</translation>
     </message>
     <message>
-        <source>Normal Line</source>
-        <translation>Pembagi Umum</translation>
-    </message>
-    <message>
         <source>Multi-line Text</source>
         <translation>Teks Multibaris</translation>
     </message>
@@ -34609,14 +33751,6 @@ ke Teks</translation>
     <message>
         <source>Draw Table</source>
         <translation>Gambar Tabel</translation>
-    </message>
-    <message>
-        <source>Single Row Edition</source>
-        <translation>Tanda Edisi Satu Baris</translation>
-    </message>
-    <message>
-        <source>Insert Horizontal</source>
-        <translation>Sisipkan Halaman Lanskap</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -34684,10 +33818,6 @@ Air</translation>
         <translation>Satu Agensi</translation>
     </message>
     <message>
-        <source>5 points Star Line</source>
-        <translation>Pembagi Bintang 5 Poin</translation>
-    </message>
-    <message>
         <source>DocumentField</source>
         <translation>Ruas Dokumen</translation>
     </message>
@@ -34698,20 +33828,60 @@ Number</source>
 Halaman</translation>
     </message>
     <message>
-        <source>Top Line Script(Single Angency)</source>
-        <translation>Artikel Menaik (Satu Institusi)</translation>
-    </message>
-    <message>
-        <source>Bottom Line Script(Single Angency)</source>
-        <translation>Artikel Menurun (Satu Institusi)</translation>
-    </message>
-    <message>
         <source>From Phone</source>
         <translation>Dari Ponsel</translation>
     </message>
     <message>
         <source>More Symbols</source>
         <translation>Simbol Lainnya</translation>
+    </message>
+    <message>
+        <source>Bottom Line Script(Multi Angency)</source>
+        <translation>Artikel Menurun (Multi Institusi)</translation>
+    </message>
+    <message>
+        <source>Document Parts</source>
+        <translation>Bagian-Bagian Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Multi Angency)</source>
+        <translation>Artikel Menaik (Multi Institusi)</translation>
+    </message>
+    <message>
+        <source>2 Rows Editions</source>
+        <translation>Tanda Edisi Dua Baris</translation>
+    </message>
+    <message>
+        <source>Insert Vertical</source>
+        <translation>Sisipkan Halaman Potret</translation>
+    </message>
+    <message>
+        <source>Top Line</source>
+        <translation>Pembagi Teratas</translation>
+    </message>
+    <message>
+        <source>Normal Line</source>
+        <translation>Pembagi Umum</translation>
+    </message>
+    <message>
+        <source>Single Row Edition</source>
+        <translation>Tanda Edisi Satu Baris</translation>
+    </message>
+    <message>
+        <source>Insert Horizontal</source>
+        <translation>Sisipkan Halaman Lanskap</translation>
+    </message>
+    <message>
+        <source>5 points Star Line</source>
+        <translation>Pembagi Bintang 5 Poin</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Single Angency)</source>
+        <translation>Artikel Menaik (Satu Institusi)</translation>
+    </message>
+    <message>
+        <source>Bottom Line Script(Single Angency)</source>
+        <translation>Artikel Menurun (Satu Institusi)</translation>
     </message>
 </context>
 <context>
@@ -34958,10 +34128,6 @@ Cloud Docs</translation>
         <translation>Lihat File Aman</translation>
     </message>
     <message>
-        <source>BatchRename</source>
-        <translation>Ganti Nama File Per Batch</translation>
-    </message>
-    <message>
         <source>Paper Typeset</source>
         <translation>Paket Ketik Kertas</translation>
     </message>
@@ -34977,6 +34143,590 @@ Ponsel</translation>
     <message>
         <source>Document security</source>
         <translation>Keamanan dokumen</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Ganti Nama File Per Batch</translation>
+    </message>
+    <message>
+        <source>Picture to PDF</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ongmani.proxycommands</name>
+    <message>
+        <source>Help</source>
+        <translation>Bantuan</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>Berita</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Simpan</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Penghapusan Berkelompok</translation>
+    </message>
+    <message>
+        <source>HeaderFooterGroup</source>
+        <translation>Grup Header dan Footer</translation>
+    </message>
+    <message>
+        <source>Quick</source>
+        <translation>Cepat</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Bagi</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>Tabel</translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>Sisipkan Gambar dari Ponsel</translation>
+    </message>
+    <message>
+        <source>Shortcut Setting</source>
+        <translation>Pengaturan Pintasan</translation>
+    </message>
+    <message>
+        <source>Auto Save File</source>
+        <translation>Simpan Otomatis File</translation>
+    </message>
+    <message>
+        <source>Screen Grab Ocr</source>
+        <translation>Ambil Layar dan OCR</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <comment>Menu</comment>
+        <translation>Ambil Layar</translation>
+    </message>
+    <message>
+        <source>document authentication</source>
+        <translation>Autentikasi dokumen</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>Tampilkan Bar Alat</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Perbaikan File</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation>Enkripsi perangkat keras</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation>Tautan Pengaturan</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation>Masukan dan Saran</translation>
+    </message>
+    <message>
+        <source>Picture Style</source>
+        <translation>Gaya Gambar</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>Sisipkan Gambar Online</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation>Tambahkan Bingkai Gambar</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Ekspor ke Gambar</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation>Font Awan</translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation>Bagan Online</translation>
+    </message>
+    <message>
+        <source>Core Encryption</source>
+        <translation>Enkripsi Inti</translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation>Kirim ke seluler</translation>
+    </message>
+    <message>
+        <source>IconLibrary</source>
+        <translation>Pustaka Ikon</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>Bagi File</translation>
+    </message>
+    <message>
+        <source>All Comments</source>
+        <translation>Semua Komentar</translation>
+    </message>
+    <message>
+        <source>Sentence Translation</source>
+        <translation>Terjemahan Kalimat</translation>
+    </message>
+    <message>
+        <source>Output Voice</source>
+        <translation>Suara Output</translation>
+    </message>
+    <message>
+        <source>Screen Recorder</source>
+        <translation>Perekam Layar</translation>
+    </message>
+    <message>
+        <source>Ornamentation</source>
+        <translation>Ornamentasi</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>Riwayat Dokumen</translation>
+    </message>
+    <message>
+        <source>New Doc Recommend</source>
+        <translation>Anda mungkin menyukai</translation>
+    </message>
+    <message>
+        <source>Split or Merge</source>
+        <translation>split atau gabungan</translation>
+    </message>
+    <message>
+        <source>SmartArt</source>
+        <translation>WPSArt</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Gambar Online</translation>
+    </message>
+    <message>
+        <source>Set Language</source>
+        <translation>Set Bahasa</translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation>PDF ke Excel</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <translation>Halaman Sampul</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>Kirim Email</translation>
+    </message>
+    <message>
+        <source>Share documents.</source>
+        <translation>Bagikan Document ke Orang Lain</translation>
+    </message>
+    <message>
+        <source>New Doc Gallery</source>
+        <translation>Galeri</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>Bantuan dan TJ</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation>Lembar Ever</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation>Autobentuk</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>Donasikan</translation>
+    </message>
+    <message>
+        <source>More Color Schemes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Footer</source>
+        <translation>Footer</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation>Kepala</translation>
+    </message>
+    <message>
+        <source>ShortThemeColor</source>
+        <translation>Warna Tema</translation>
+    </message>
+    <message>
+        <source>ShortBatchDelete</source>
+        <translation>Hapus</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Ganti nama</translation>
+    </message>
+    <message>
+        <source>CADTOPdf</source>
+        <translation>CAD ke PDF</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Sembunyikan Jendela Aktif saat Ambil Layar</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>Bentuk</translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation>PDF ke PPT</translation>
+    </message>
+    <message>
+        <source>Xie De</source>
+        <translation>Xie De</translation>
+    </message>
+    <message>
+        <source>Insert Symbol</source>
+        <translation>Sisipkan Simbol</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Ucapan Teks</translation>
+    </message>
+    <message>
+        <source>PDFCompress</source>
+        <translation>Kompresi PDF</translation>
+    </message>
+    <message>
+        <source>Proofread</source>
+        <translation>Pemeriksaan</translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>Kirim Gambar</translation>
+    </message>
+    <message>
+        <source>Online TableStyle</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PaperFormat</source>
+        <translation>Tata letak kertas</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Konversi ke file PDF</translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation>Gambar Saya</translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation>Bagi ke QQ</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>Bagi File</translation>
+    </message>
+    <message>
+        <source>AutoFindContents</source>
+        <translation>Identifikasi Konten Otomatis</translation>
+    </message>
+    <message>
+        <source>Online Picture Gallery</source>
+        <translation>Galeri</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>Create Link and Share</translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation>Bagi ke Halaman web Mikroblog</translation>
+    </message>
+    <message>
+        <source>Insert online Picture</source>
+        <translation>Sisipkan Gambar Online</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>Enkripsi Dokumen</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation>Kirim Lewat Email</translation>
+    </message>
+    <message>
+        <source>Open from Cloud Docs</source>
+        <translation>Buka dari Cloud Docs</translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation>Penggabungan PDF</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation>Pemisahan PDF</translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation>Terjemahkan</translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation>Terjemahkan teks yang dipilih</translation>
+    </message>
+    <message>
+        <source>Document Translate</source>
+        <translation>Terjemahkan Document</translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation>Bagi ke Mikroblog</translation>
+    </message>
+    <message>
+        <source>FormatProof</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation>Enkripsi Kata Sandi</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Periksa Izin 
+Pengguna</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation>Enkripsi Akun</translation>
+    </message>
+    <message>
+        <source>ShortChart</source>
+        <translation>Bagan</translation>
+    </message>
+    <message>
+        <source>ShortWordArt</source>
+        <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>Decryption</source>
+        <translation>Dekripsi</translation>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Enkripsi</translation>
+    </message>
+    <message>
+        <source>Xie De Menu</source>
+        <translation>Menu Xie De</translation>
+    </message>
+    <message>
+        <source>Hide current window when taking screenshots</source>
+        <translation>Sembunyikan jendela aktif saat mengambil tangkapan layar</translation>
+    </message>
+    <message>
+        <source>DocerThemeColor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Komentar</translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation>Terjemahan</translation>
+    </message>
+    <message>
+        <source>Full-Text Speech</source>
+        <translation>Ucapan Teks Penuh</translation>
+    </message>
+    <message>
+        <source>Materials</source>
+        <translation>Material</translation>
+    </message>
+    <message>
+        <source>DocerWordArt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Microblog Layout</source>
+        <translation>Tata Letak WPS Microblog</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF ke 
+Word</translation>
+    </message>
+    <message>
+        <source>DocerTableStyle</source>
+        <translation>Gaya Tabel</translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>Pencarian Global</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Masukan</translation>
+    </message>
+    <message>
+        <source>Save to Cloud Docs</source>
+        <translation>Simpan ke Cloud Docs</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Wps Package Plugin</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Ambil Layar</translation>
+    </message>
+    <message>
+        <source>PaperCheck</source>
+        <translation>Cek Kertas</translation>
+    </message>
+    <message>
+        <source>DocerChart</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocumentContentStudioHint</source>
+        <translation>Ekstrak</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>Konversi Semua Gambar dalam Document</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>Konversi Gambar yang Dipilih</translation>
+    </message>
+    <message>
+        <source>OnlineDiagram</source>
+        <translation>Bagan Org</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>Gambar Online</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>Pencadangan Otomatis</translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation>Bagi</translation>
+    </message>
+    <message>
+        <source>DocumentContentStudio</source>
+        <translation>Ekstrasi Batch</translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation>Bagi ke Wechat</translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation>Kirim ke grup</translation>
+    </message>
+    <message>
+        <source>ProcessOnEntry</source>
+        <translation>Proses Baru</translation>
+    </message>
+    <message>
+        <source>Add or view comments in your document.</source>
+        <translation>Tambah atau tampilkan komentar di dalam dokumen Anda.</translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <translation>Sisipkan Komentar</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Periksa Izin 
+Saya</translation>
+    </message>
+    <message>
+        <source>Selection Speech</source>
+        <translation>Ucapan Pilihan</translation>
+    </message>
+    <message>
+        <source>Document Permission</source>
+        <translation>Izin Dokumen</translation>
+    </message>
+    <message>
+        <source>Scan to Mobile</source>
+        <translation>Pindai ke 
+Ponsel</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>Dari Ponsel</translation>
+    </message>
+    <message>
+        <source>Normal Encryption</source>
+        <translation>Enkripsi Normal</translation>
+    </message>
+    <message>
+        <source>Online Textbox</source>
+        <translation>Kotak Teks Templat</translation>
+    </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation>Koreksi Kata Salah</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation>Koreksi Lead</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation>Koreksi Kata Reduplikatif</translation>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation>Gunakan LaTeX untuk mengedit dan menyisipkan rumus dengan cepat.</translation>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation>Asisten Cerdas</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>PDF ke CAD</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation>Output sebagai PPTX</translation>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation>Koreksi Kata Sensitif</translation>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation>Koreksi Tanda Baca</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36941,10 +36691,6 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Tidak ada</translation>
     </message>
     <message>
-        <source>File Size(Low)</source>
-        <translation>Ukuran File (Terbesar hingga Terkecil)</translation>
-    </message>
-    <message>
         <source>The search key string cannot be empty</source>
         <translation>String kunci pencarian tidak boleh kosong</translation>
     </message>
@@ -36957,12 +36703,28 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Sesi pencarian habis</translation>
     </message>
     <message>
-        <source>Open file by local</source>
-        <translation>Buka File Asli di Lokal</translation>
-    </message>
-    <message>
         <source>All Type</source>
         <translation>Semua Jenis</translation>
+    </message>
+    <message>
+        <source>Click to select folder</source>
+        <translation>Klik untuk memilih folder</translation>
+    </message>
+    <message>
+        <source>Sort Type</source>
+        <translation>Jenis Sortir</translation>
+    </message>
+    <message>
+        <source>The search path is not valid</source>
+        <translation>Jalur pencarian tidak valid</translation>
+    </message>
+    <message>
+        <source>File Size(Low)</source>
+        <translation>Ukuran File (Terbesar hingga Terkecil)</translation>
+    </message>
+    <message>
+        <source>Open file by local</source>
+        <translation>Buka File Asli di Lokal</translation>
     </message>
     <message>
         <source>Searching, Has Searched %1Content</source>
@@ -36993,20 +36755,8 @@ Batal:	Kembali ke dialog.</translation>
         <translation>%1 item ditemukan.</translation>
     </message>
     <message>
-        <source>Click to select folder</source>
-        <translation>Klik untuk memilih folder</translation>
-    </message>
-    <message>
         <source>Start Time</source>
         <translation>Waktu Mulai</translation>
-    </message>
-    <message>
-        <source>Sort Type</source>
-        <translation>Jenis Sortir</translation>
-    </message>
-    <message>
-        <source>The search path is not valid</source>
-        <translation>Jalur pencarian tidak valid</translation>
     </message>
     <message>
         <source>Update Time(Low)</source>
@@ -37832,16 +37582,16 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Simpan</translation>
     </message>
     <message>
-        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
-        <translation>Simpan desain ke &quot;Templat Saya&quot; dalam &quot;Format&quot;</translation>
-    </message>
-    <message>
         <source>Element Configure</source>
         <translation>Konfigurasi Elemen</translation>
     </message>
     <message>
         <source>Add and delete elements in this official document.</source>
         <translation>Menambah dan menghapus elemen dalam dokumen resmi ini.</translation>
+    </message>
+    <message>
+        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
+        <translation>Simpan desain ke &quot;Templat Saya&quot; dalam &quot;Format&quot;</translation>
     </message>
 </context>
 <context>
@@ -37898,14 +37648,6 @@ Batal:	Kembali ke dialog.</translation>
         <translation>Halaman Terakhir</translation>
     </message>
     <message>
-        <source>OfdPrintPreviewSettings</source>
-        <translation>Pengaturan</translation>
-    </message>
-    <message>
-        <source>PrevPage</source>
-        <translation>Halaman Sebelumnya</translation>
-    </message>
-    <message>
         <source>Export To OFD</source>
         <translation>Ekspor ke OFD</translation>
     </message>
@@ -37924,6 +37666,14 @@ Batal:	Kembali ke dialog.</translation>
     <message>
         <source>Zoom Ratio</source>
         <translation>Rasio Zoom</translation>
+    </message>
+    <message>
+        <source>OfdPrintPreviewSettings</source>
+        <translation>Pengaturan</translation>
+    </message>
+    <message>
+        <source>PrevPage</source>
+        <translation>Halaman Sebelumnya</translation>
     </message>
 </context>
 <context>
@@ -37947,10 +37697,6 @@ Batal:	Kembali ke dialog.</translation>
     <message>
         <source>Print</source>
         <translation>Cetak</translation>
-    </message>
-    <message>
-        <source>PrintMode</source>
-        <translation>Mode</translation>
     </message>
     <message>
         <source>Print Order:</source>
@@ -38015,6 +37761,10 @@ Batal:	Kembali ke dialog.</translation>
     <message>
         <source>Custom Margins</source>
         <translation>Margin Kustom</translation>
+    </message>
+    <message>
+        <source>PrintMode</source>
+        <translation>Mode</translation>
     </message>
 </context>
 <context>
@@ -38505,10 +38255,6 @@ Gambar</translation>
         <translation>Galeri Bagan</translation>
     </message>
     <message>
-        <source>Document Barcode</source>
-        <translation>Kode QR Dokumen Resmi</translation>
-    </message>
-    <message>
         <source>Fields</source>
         <translation>Ruas</translation>
     </message>
@@ -38780,6 +38526,10 @@ Halaman</translation>
     <message>
         <source>Total of Y Page</source>
         <translation>Total Halaman Y</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Kode QR Dokumen Resmi</translation>
     </message>
 </context>
 <context>
@@ -39071,36 +38821,6 @@ Halaman</translation>
     </message>
 </context>
 <context>
-    <name>KxDlgCheckingTips</name>
-    <message>
-        <source>stop</source>
-        <translation>Stop</translation>
-    </message>
-    <message>
-        <source>checking now,plz wait...</source>
-        <translation>sedang mengecek, harap tunggu...</translation>
-    </message>
-    <message>
-        <source>clkw checking tips</source>
-        <translation>Cek Kata Kunci Tingkat Kerahasiaan</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgCheckingTips2</name>
-    <message>
-        <source>stop</source>
-        <translation>Stop</translation>
-    </message>
-    <message>
-        <source>checking now,plz wait...</source>
-        <translation>sedang mengecek, harap tunggu...</translation>
-    </message>
-    <message>
-        <source>clkw checking tips</source>
-        <translation>Cek Kata Kunci Tingkat Kerahasiaan</translation>
-    </message>
-</context>
-<context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
     <message>
         <source>true</source>
@@ -39130,6 +38850,11 @@ Halaman</translation>
         <source>Switch UI</source>
         <comment>Professional Version</comment>
         <translation>Alih UI</translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39372,10 +39097,6 @@ Gaya Tabel</translation>
         <translation>Penyusunan Ulang Cerdas</translation>
     </message>
     <message>
-        <source>Batch Delete</source>
-        <translation>Penghapusan Berkelompok</translation>
-    </message>
-    <message>
         <source>Convert Paragraph Indent to Space</source>
         <translation>Konversi Inden Paragraf ke Spasi</translation>
     </message>
@@ -39418,6 +39139,10 @@ Gaya Tabel</translation>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
         <translation>Ubah ke Mode Pemecahan Paragraf Kosong</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Penghapusan Berkelompok</translation>
     </message>
 </context>
 <context>
@@ -39687,10 +39412,6 @@ Gaya Tabel</translation>
         <translation>Formulir</translation>
     </message>
     <message>
-        <source>Ofd Print Preview</source>
-        <translation>Pratinjau Efek OFD</translation>
-    </message>
-    <message>
         <source>Document Fix</source>
         <translation>Perbaikan File</translation>
     </message>
@@ -39784,6 +39505,10 @@ Surat</translation>
     <message>
         <source>3-D Settings</source>
         <translation>Pengaturan 3D</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Pratinjau Efek OFD</translation>
     </message>
 </context>
 <context>
@@ -40151,57 +39876,6 @@ ke PDF</translation>
     <message>
         <source>Current &amp;page</source>
         <translation>Halaman &amp;saat ini</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsMailSenderTestDlg</name>
-    <message>
-        <source>&amp;Done</source>
-        <translation>Selesai (&amp;D)</translation>
-    </message>
-    <message>
-        <source>WPS Mail Merge Test Mail</source>
-        <translation>Penggabungan Surel-Surel Pengujian WPS</translation>
-    </message>
-    <message>
-        <source>Send test Email</source>
-        <translation>Kirim Email tes</translation>
-    </message>
-    <message>
-        <source>Login to SMTP server</source>
-        <translation>Masuk ke server surat</translation>
-    </message>
-    <message>
-        <source>Mail Config</source>
-        <translation>Konfigurasi Email</translation>
-    </message>
-    <message>
-        <source>Account setup successful</source>
-        <translation>Tes pengaturan akun telah berhasil.</translation>
-    </message>
-    <message>
-        <source>.Please trying using independent password</source>
-        <translation>. Coba gunakan kode otorisasi untuk masuk ke kotak surat.</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation>Batal (&amp;B)</translation>
-    </message>
-    <message>
-        <source>Receiving this mail means your configuration is successful. </source>
-        <translation>Menerima surat ini berarti konfigurasi Anda berhasil. </translation>
-    </message>
-    <message>
-        <source>Test failed.Please check the information.</source>
-        <translation>Pengetesan gagal. Silakan cek informasinya.</translation>
-    </message>
-    <message>
-        <source>You are all set for the group mail feature.</source>
-        <translation>Anda siap untuk fitur surat grup.</translation>
-    </message>
-    <message>
-        <source>You are sending testing mail through WPS mail merge feature. </source>
-        <translation>Anda sedang mengirim surat percobaan menggunakan Penggabungan Surel WPS.</translation>
     </message>
 </context>
 <context>
@@ -40832,57 +40506,6 @@ ke PDF</translation>
     </message>
 </context>
 <context>
-    <name>classics.ofd_print_preview</name>
-    <message>
-        <source>NextPage(Ctrl+PageDown)</source>
-        <translation>Halaman Berikutnya</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation>Tutup</translation>
-    </message>
-    <message>
-        <source>Close Ofd Preview</source>
-        <translation>Tutup Pratinjau OFD</translation>
-    </message>
-    <message>
-        <source>Zoom Out(Ctrl+-)</source>
-        <translation>Perkecil</translation>
-    </message>
-    <message>
-        <source>PrevPage(Ctrl+PageUp)</source>
-        <translation>Halaman Sebelumnya</translation>
-    </message>
-    <message>
-        <source>Fit Width(Ctrl+8)</source>
-        <translation>Sesuaikan Lebar</translation>
-    </message>
-    <message>
-        <source>LastPage</source>
-        <translation>Halaman Terakhir</translation>
-    </message>
-    <message>
-        <source>Actual Size(Ctrl+0)</source>
-        <translation>Ukuran Asli</translation>
-    </message>
-    <message>
-        <source>FirstPage</source>
-        <translation>Halaman Pertama</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Ekspor ke OFD</translation>
-    </message>
-    <message>
-        <source>Zoom In(Ctrl++)</source>
-        <translation>Perbesar</translation>
-    </message>
-    <message>
-        <source>Fit Page(Ctrl+9)</source>
-        <translation>Sesuaikan dengan Halaman</translation>
-    </message>
-</context>
-<context>
     <name>KxSmartPageNumDeleteCommand</name>
     <message>
         <source>Current section</source>
@@ -40903,25 +40526,6 @@ ke PDF</translation>
     <message>
         <source>Entire document</source>
         <translation>Seluruh dokumen</translation>
-    </message>
-</context>
-<context>
-    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
-    <message>
-        <source>total result</source>
-        <translation>Hasil</translation>
-    </message>
-    <message>
-        <source>check</source>
-        <translation>Periksa Ulang</translation>
-    </message>
-    <message>
-        <source>No data</source>
-        <translation>Tidak ada data</translation>
-    </message>
-    <message>
-        <source>operate keywords</source>
-        <translation>Kelola Kata Kunci</translation>
     </message>
 </context>
 <context>
@@ -40997,10 +40601,6 @@ Pengguna</translation>
         <translation>Kata Kunci Level Kerahasiaan</translation>
     </message>
     <message>
-        <source>setting MB</source>
-        <translation>Tandai Rahasia</translation>
-    </message>
-    <message>
         <source>Forward</source>
         <translation>Ke luar</translation>
     </message>
@@ -41020,6 +40620,10 @@ Saya</translation>
     <message>
         <source>Normal Encryption</source>
         <translation>Enkripsi Normal</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Tandai Rahasia</translation>
     </message>
 </context>
 <context>
@@ -41251,63 +40855,6 @@ Saya</translation>
     </message>
 </context>
 <context>
-    <name>ongmani.ct_official_print</name>
-    <message>
-        <source>Finalize</source>
-        <translation>Finalisasi</translation>
-    </message>
-    <message>
-        <source>Merge</source>
-        <translation>Gabung</translation>
-    </message>
-    <message>
-        <source>Print</source>
-        <translation>Cetak</translation>
-    </message>
-    <message>
-        <source>Split</source>
-        <translation>Bagi</translation>
-    </message>
-    <message>
-        <source>SplitMerge</source>
-        <translation>Pisah/Gabung Dokumen</translation>
-    </message>
-    <message>
-        <source>PDF Compress</source>
-        <translation>Kompres PDF</translation>
-    </message>
-    <message>
-        <source>Document Barcode</source>
-        <translation>Kode QR Dokumen Resmi</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation>Ekspor</translation>
-    </message>
-    <message>
-        <source>Split and Merge</source>
-        <translation>Pecah dan Gabung</translation>
-    </message>
-    <message>
-        <source>Official to Ordinary</source>
-        <translation>Dokumen Resmi ke Dokumen Biasa
-</translation>
-    </message>
-    <message>
-        <source>Export to OFD</source>
-        <translation>Ekspor ke OFD</translation>
-    </message>
-    <message>
-        <source>Export to PDF</source>
-        <translation>Ekspor ke PDF</translation>
-    </message>
-    <message>
-        <source>Mail Merge</source>
-        <translation>Penggabungan 
-Surat</translation>
-    </message>
-</context>
-<context>
     <name>KxEquationAlignmentAndSpacingDlg</name>
     <message>
         <source>Array</source>
@@ -41399,10 +40946,6 @@ Surat</translation>
         <translation>Hapus</translation>
     </message>
     <message>
-        <source>Insert Ink Shape</source>
-        <translation>Sisipkan Komentar Tulisan Tangan</translation>
-    </message>
-    <message>
         <source>Insert WordArt</source>
         <translation>Sisipkan WordArt</translation>
     </message>
@@ -41413,6 +40956,10 @@ Surat</translation>
     <message>
         <source>Delete Object</source>
         <translation>Hapus Objek</translation>
+    </message>
+    <message>
+        <source>Insert Ink Shape</source>
+        <translation>Sisipkan Komentar Tulisan Tangan</translation>
     </message>
 </context>
 <context>
@@ -41541,10 +41088,6 @@ Surat</translation>
         <translation>Tutup</translation>
     </message>
     <message>
-        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
-        <translation>Koneksi server saat ini memiliki pengecualian dan file PDF keamanan tidak dapat di-output. Coba lagi nanti.</translation>
-    </message>
-    <message>
         <source>Preparing for exporting PDF file...</source>
         <translation>Menyiapkan pengeksporan file PDF...</translation>
     </message>
@@ -41563,10 +41106,6 @@ Surat</translation>
     <message>
         <source>Exporting summary information...</source>
         <translation>Mengekspor informasi ringkasan...</translation>
-    </message>
-    <message>
-        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
-        <translation>Saat ini, tidak ada jaringan dan file PDF keamanan online tidak dapat di-output. Operasikan dalam kondisi jaringan normal.</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -41600,6 +41139,14 @@ Surat</translation>
         <source>receiver%1.pdf</source>
         <translation>receiver%1.pdf</translation>
     </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation>Koneksi server saat ini memiliki pengecualian dan file PDF keamanan tidak dapat di-output. Coba lagi nanti.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation>Saat ini, tidak ada jaringan dan file PDF keamanan online tidak dapat di-output. Operasikan dalam kondisi jaringan normal.</translation>
+    </message>
 </context>
 <context>
     <name>KxPrintDlg</name>
@@ -41630,18 +41177,6 @@ Surat</translation>
     <message>
         <source>Cancel</source>
         <translation>Batal</translation>
-    </message>
-    <message>
-        <source>Save about 23% on paper</source>
-        <translation>Hemat sekitar 23% kertas</translation>
-    </message>
-    <message>
-        <source>Save about 12% on paper</source>
-        <translation>Hemat sekitar 12% kertas</translation>
-    </message>
-    <message>
-        <source>Save about 18% on paper</source>
-        <translation>Hemat sekitar 18% kertas</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
@@ -41686,6 +41221,18 @@ Surat</translation>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>Nilai input harus antara %1 dan %2.</translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation>Hemat sekitar 23% kertas</translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation>Hemat sekitar 12% kertas</translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation>Hemat sekitar 18% kertas</translation>
     </message>
 </context>
 <context>
@@ -41812,6 +41359,57 @@ Surat</translation>
     </message>
 </context>
 <context>
+    <name>classics.ofd_print_preview</name>
+    <message>
+        <source>Close</source>
+        <translation>Tutup</translation>
+    </message>
+    <message>
+        <source>Zoom Out(Ctrl+-)</source>
+        <translation>Perkecil</translation>
+    </message>
+    <message>
+        <source>Fit Width(Ctrl+8)</source>
+        <translation>Sesuaikan Lebar</translation>
+    </message>
+    <message>
+        <source>LastPage</source>
+        <translation>Halaman Terakhir</translation>
+    </message>
+    <message>
+        <source>Actual Size(Ctrl+0)</source>
+        <translation>Ukuran Asli</translation>
+    </message>
+    <message>
+        <source>FirstPage</source>
+        <translation>Halaman Pertama</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Ekspor ke OFD</translation>
+    </message>
+    <message>
+        <source>Zoom In(Ctrl++)</source>
+        <translation>Perbesar</translation>
+    </message>
+    <message>
+        <source>Fit Page(Ctrl+9)</source>
+        <translation>Sesuaikan dengan Halaman</translation>
+    </message>
+    <message>
+        <source>NextPage(Ctrl+PageDown)</source>
+        <translation>Halaman Berikutnya</translation>
+    </message>
+    <message>
+        <source>Close Ofd Preview</source>
+        <translation>Tutup Pratinjau OFD</translation>
+    </message>
+    <message>
+        <source>PrevPage(Ctrl+PageUp)</source>
+        <translation>Halaman Sebelumnya</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_headerfooter</name>
     <message>
         <source>Close</source>
@@ -41820,14 +41418,6 @@ Surat</translation>
     <message>
         <source>HeaderFooterGroup</source>
         <translation>Grup Header dan Footer</translation>
-    </message>
-    <message>
-        <source>Docer Header</source>
-        <translation>Header/Footer Templat</translation>
-    </message>
-    <message>
-        <source>Docer Footer</source>
-        <translation>Header/Footer Templat</translation>
     </message>
     <message>
         <source>Switch between
@@ -41856,10 +41446,6 @@ Sebelumnya</translation>
     <message>
         <source>Insert Picture</source>
         <translation>Sisipkan Gambar</translation>
-    </message>
-    <message>
-        <source>Docer HeaderFooterGroup</source>
-        <translation>Atur Templat</translation>
     </message>
     <message>
         <source>Edit Footer</source>
@@ -42034,20 +41620,24 @@ Halaman</translation>
         <source>Navigation</source>
         <translation>Navigasi</translation>
     </message>
+    <message>
+        <source>Docer Header</source>
+        <translation>Header/Footer Templat</translation>
+    </message>
+    <message>
+        <source>Docer Footer</source>
+        <translation>Header/Footer Templat</translation>
+    </message>
+    <message>
+        <source>Docer HeaderFooterGroup</source>
+        <translation>Atur Templat</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_mailings</name>
     <message>
         <source>Close</source>
         <translation>Tutup</translation>
-    </message>
-    <message>
-        <source>Email Config</source>
-        <translation>Konfigurasi Email</translation>
-    </message>
-    <message>
-        <source>MailConfig</source>
-        <translation>Konfigurasi Email</translation>
     </message>
     <message>
         <source>First Record</source>
@@ -42138,6 +41728,14 @@ Sebelumnya</translation>
     <message>
         <source>Merge to Email</source>
         <translation>Gabung ke Email</translation>
+    </message>
+    <message>
+        <source>Email Config</source>
+        <translation>Konfigurasi Email</translation>
+    </message>
+    <message>
+        <source>MailConfig</source>
+        <translation>Konfigurasi Email</translation>
     </message>
 </context>
 <context>
@@ -42480,6 +42078,63 @@ Catatan Akhir</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_official_print</name>
+    <message>
+        <source>Merge</source>
+        <translation>Gabung</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Cetak</translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation>Bagi</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Ekspor</translation>
+    </message>
+    <message>
+        <source>Split and Merge</source>
+        <translation>Pecah dan Gabung</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>Ekspor ke OFD</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Ekspor ke PDF</translation>
+    </message>
+    <message>
+        <source>Mail Merge</source>
+        <translation>Penggabungan 
+Surat</translation>
+    </message>
+    <message>
+        <source>Finalize</source>
+        <translation>Finalisasi</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Pisah/Gabung Dokumen</translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation>Kompres PDF</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Kode QR Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>Official to Ordinary</source>
+        <translation>Dokumen Resmi ke Dokumen Biasa
+</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsDDEServer</name>
     <message>
         <source>Paste</source>
@@ -42652,14 +42307,6 @@ Catatan Akhir</translation>
         <translation>Port:</translation>
     </message>
     <message>
-        <source>S&amp;MTP Server</source>
-        <translation>Server SMTP (&amp;M)</translation>
-    </message>
-    <message>
-        <source>Sender &amp;Name</source>
-        <translation>Alamat Email (&amp;N)</translation>
-    </message>
-    <message>
         <source>dialog</source>
         <translation>Dialog</translation>
     </message>
@@ -42670,6 +42317,14 @@ Catatan Akhir</translation>
     <message>
         <source>SendMail</source>
         <translation>Kirim Email</translation>
+    </message>
+    <message>
+        <source>S&amp;MTP Server</source>
+        <translation>Server SMTP (&amp;M)</translation>
+    </message>
+    <message>
+        <source>Sender &amp;Name</source>
+        <translation>Alamat Email (&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -42864,10 +42519,6 @@ Catatan Akhir</translation>
         <translation>level rahasia</translation>
     </message>
     <message>
-        <source>WPS Writer Official Document (*.uot)</source>
-        <translation>WPS Official Document (*.uot)</translation>
-    </message>
-    <message>
         <source>Official Fonts</source>
         <translation>Font Resmi</translation>
     </message>
@@ -42946,6 +42597,10 @@ Catatan Akhir</translation>
     <message>
         <source>The number input must be between 1 and 63.</source>
         <translation>Input angka harus antara 1 dan 63.</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Document (*.uot)</source>
+        <translation>WPS Official Document (*.uot)</translation>
     </message>
 </context>
 <context>
@@ -43387,6 +43042,26 @@ Pilih bagian dari dokumen dan pilih pengguna yang diizinkan untuk bebas mengedit
         <translation>judul</translation>
     </message>
     <message>
+        <source>%1 cannot exceed %2 words.</source>
+        <translation>%1 tidak boleh melebihi %2 kata.</translation>
+    </message>
+    <message>
+        <source>barcode Id</source>
+        <translation>Id kode batang</translation>
+    </message>
+    <message>
+        <source>post unit</source>
+        <translation>unit pos</translation>
+    </message>
+    <message>
+        <source>written date</source>
+        <translation>tanggal tertulis</translation>
+    </message>
+    <message>
+        <source>secret period</source>
+        <translation>secret period</translation>
+    </message>
+    <message>
         <source>%1 cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
         <translation>%1 tidak boleh berisi &quot;^&quot; dan &quot;|&quot;, yang digunakan sebagai pemisah.</translation>
     </message>
@@ -43407,20 +43082,8 @@ Pilih bagian dari dokumen dan pilih pengguna yang diizinkan untuk bebas mengedit
         <translation>Penerima Utama</translation>
     </message>
     <message>
-        <source>%1 cannot exceed %2 words.</source>
-        <translation>%1 tidak boleh melebihi %2 kata.</translation>
-    </message>
-    <message>
         <source>custom field</source>
         <translation>Bidang Kustom</translation>
-    </message>
-    <message>
-        <source>barcode Id</source>
-        <translation>Id kode batang</translation>
-    </message>
-    <message>
-        <source>post unit</source>
-        <translation>unit pos</translation>
     </message>
     <message>
         <source>barcode date</source>
@@ -43433,14 +43096,6 @@ Pilih bagian dari dokumen dan pilih pengguna yang diizinkan untuk bebas mengedit
     <message>
         <source>publish level</source>
         <translation>Terbitkan Hierarki</translation>
-    </message>
-    <message>
-        <source>written date</source>
-        <translation>tanggal tertulis</translation>
-    </message>
-    <message>
-        <source>secret period</source>
-        <translation>secret period</translation>
     </message>
     <message>
         <source>The length of %1 has to between %2 and %3</source>
@@ -43489,6 +43144,14 @@ Pilih bagian dari dokumen dan pilih pengguna yang diizinkan untuk bebas mengedit
         <translation>Panjang tiap unit tidak boleh melebihi %1 kata.</translation>
     </message>
     <message>
+        <source>The length of each unit has to between %1 and %2</source>
+        <translation>Panjang tiap unit harus antara %1 dan %2</translation>
+    </message>
+    <message>
+        <source>post unit</source>
+        <translation>unit pos</translation>
+    </message>
+    <message>
         <source>Support multiple unit name entered at the same time, seperated by comma.</source>
         <translation>Mendukung pengisian beberapa nama unit dalam waktu bersamaan, dipisahkan dengan koma (,).</translation>
     </message>
@@ -43507,14 +43170,6 @@ Pilih bagian dari dokumen dan pilih pengguna yang diizinkan untuk bebas mengedit
     <message>
         <source>submit to</source>
         <translation>Penerima Utama</translation>
-    </message>
-    <message>
-        <source>The length of each unit has to between %1 and %2</source>
-        <translation>Panjang tiap unit harus antara %1 dan %2</translation>
-    </message>
-    <message>
-        <source>post unit</source>
-        <translation>unit pos</translation>
     </message>
     <message>
         <source>The length of unit names cannot exceed 256 bytes.</source>
@@ -43605,10 +43260,6 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>Memproteksi metode atau properti tidak valid karena dokumen yang diproteksi.</translation>
     </message>
     <message>
-        <source>Scanner No Paper.</source>
-        <translation>Pemindai kehabisan kertas.</translation>
-    </message>
-    <message>
         <source>Unprotect method or property is invalid due to the unprotected document.</source>
         <translation>Membuka proteksi metode atau properti tidak valid karena dokumen tidak diproteksi.</translation>
     </message>
@@ -43619,10 +43270,6 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
     <message>
         <source>Cannot set or get column spacing at the end of text.</source>
         <translation>Tidak dapat mengeset atau mendapatkan penspasian kolom di akhir teks.</translation>
-    </message>
-    <message>
-        <source>Scanner Document Feeder Jammed.</source>
-        <translation>Kertas macet di pengumpan pemindai.</translation>
     </message>
     <message>
         <source>The Based On style name does not exist or is of an incorrect type.</source>
@@ -43639,14 +43286,6 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
     <message>
         <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
         <translation>WPS Writer tidak dapat menonaktifkan mode desain karena teks placeholder dalam kontrol konten mengandung item yang tidak valid. Teks placeholder tidak boleh berisi item seperti objek mengambang, tanda revisi, atau kontrol konten. Hapus item ini dari teks placeholder dan coba lagi.</translation>
-    </message>
-    <message>
-        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
-        <translation>Data pemindai tidak valid (Kertas melebihi ketebalan maksimum atau beberapa kertas tumpang tindih).</translation>
-    </message>
-    <message>
-        <source>No SANE library.</source>
-        <translation>Ada kesalahan saat memuat perpustakaan sistem SANE.</translation>
     </message>
     <message>
         <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
@@ -43685,12 +43324,28 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>Mode Pratampil tidak diaktifkan.</translation>
     </message>
     <message>
-        <source>%1 Pages Scanned.</source>
-        <translation>%1 halaman dipindai. Sisipkan sekarang?</translation>
-    </message>
-    <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <translation>Anda mencoba menempelkan satu atau beberapa tabel ke dalam kotak atau bingkai teks vertikal. Kotak atau bingkai teks dengan arah teks vertikal tidak boleh berisi tabel. Lanjutkan?</translation>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <translation>Pemindai kehabisan kertas.</translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <translation>Kertas macet di pengumpan pemindai.</translation>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <translation>Data pemindai tidak valid (Kertas melebihi ketebalan maksimum atau beberapa kertas tumpang tindih).</translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <translation>Ada kesalahan saat memuat perpustakaan sistem SANE.</translation>
+    </message>
+    <message>
+        <source>%1 Pages Scanned.</source>
+        <translation>%1 halaman dipindai. Sisipkan sekarang?</translation>
     </message>
 </context>
 <context>
@@ -43948,15 +43603,26 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
     </message>
 </context>
 <context>
+    <name>KxDlgUpdateTableOfContents</name>
+    <message>
+        <source>Update &amp;page numbers only</source>
+        <translation>Perbarui nomor halaman saja (&amp;n)</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <translation>WPS Writer sedang memperbarui daftar isi. Pilih salah satu pilihan berikut:</translation>
+    </message>
+    <message>
+        <source>Update Table of Contents</source>
+        <translation>Perbarui Daftar Isi</translation>
+    </message>
+    <message>
+        <source>Update &amp;entire table</source>
+        <translation>Perbarui seluruh tabel (&amp;s)</translation>
+    </message>
+</context>
+<context>
     <name>MailSendErrorConvert</name>
-    <message>
-        <source>Identified as junk mail,rejected by server</source>
-        <translation>Surat ini telah diidentifikasi sebagai spam dan ditolak oleh server.</translation>
-    </message>
-    <message>
-        <source>MAIL_TEXT_TOO_LARGE</source>
-        <translation>Panjang isi surat melebihi limit.</translation>
-    </message>
     <message>
         <source>Host not found</source>
         <translation>Host tidak ditemukan</translation>
@@ -43970,10 +43636,6 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>File tidak ditemukan:%1</translation>
     </message>
     <message>
-        <source>MAIL_TOO_MANY_RECIPIENTS</source>
-        <translation>Jumlah penerima melebihi limit.</translation>
-    </message>
-    <message>
         <source>MAIL_ACCESS_DENIED</source>
         <translation type="unfinished"/>
     </message>
@@ -43984,6 +43646,62 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
     <message>
         <source>Login failed</source>
         <translation>Gagal masuk</translation>
+    </message>
+    <message>
+        <source>DNS error</source>
+        <translation>Kesalahan DNS</translation>
+    </message>
+    <message>
+        <source>authentication failed</source>
+        <translation>otentikasi gagal</translation>
+    </message>
+    <message>
+        <source>MAIL_NETWORK_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_INSUFFICIENT_MEMORY</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_USER_ABORT</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_LOGON_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_NOT_FOUND</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_NOT_SUPPORTED</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_SUCCESS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_INVALID_MESSAGE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identified as junk mail,rejected by server</source>
+        <translation>Surat ini telah diidentifikasi sebagai spam dan ditolak oleh server.</translation>
+    </message>
+    <message>
+        <source>MAIL_TEXT_TOO_LARGE</source>
+        <translation>Panjang isi surat melebihi limit.</translation>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_RECIPIENTS</source>
+        <translation>Jumlah penerima melebihi limit.</translation>
     </message>
     <message>
         <source>Invalid smtp server port</source>
@@ -44010,10 +43728,6 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>Server SMTP hanya mendukung pengguna lokal sebagai pengirim.</translation>
     </message>
     <message>
-        <source>DNS error</source>
-        <translation>Kesalahan DNS</translation>
-    </message>
-    <message>
         <source>550 RP:TRC</source>
         <translation>Jumlah penerima yang diakumulasi melebihi limit. Tidak lagi menerima surat dari pengirim hari ini.</translation>
     </message>
@@ -44026,24 +43740,12 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>Lampiran jenis ini tidak diizinkan.</translation>
     </message>
     <message>
-        <source>authentication failed</source>
-        <translation>otentikasi gagal</translation>
-    </message>
-    <message>
         <source>Mail client load failed</source>
         <translation>Gagal memuat klien surat.</translation>
     </message>
     <message>
         <source>MAIL_ATTACHMENT_WRITE_FAILURE</source>
         <translation>Gagal menulis lampiran.</translation>
-    </message>
-    <message>
-        <source>MAIL_NETWORK_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_INSUFFICIENT_MEMORY</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAIL_NO_MESSAGES</source>
@@ -44054,10 +43756,6 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>Koneksi untuk sementara dilarang karena kegagalan verifikasi IP berlebihan.</translation>
     </message>
     <message>
-        <source>MAIL_USER_ABORT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Invalid User</source>
         <translation>Pengguna yang diminta tidak ada.</translation>
     </message>
@@ -44066,55 +43764,12 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>Gagal membuka lampiran.</translation>
     </message>
     <message>
-        <source>MAIL_LOGON_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_ATTACHMENT_NOT_FOUND</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_NOT_SUPPORTED</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_SUCCESS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>MAIL_TOO_MANY_FILES</source>
         <translation>Jumlah lampiran melebihi limit.</translation>
     </message>
     <message>
-        <source>MAIL_INVALID_MESSAGE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>MAIL_FAILURE</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>User not found</source>
         <translation>Alamat penerima tidak valid.</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgUpdateTableOfContents</name>
-    <message>
-        <source>Update &amp;page numbers only</source>
-        <translation>Perbarui nomor halaman saja (&amp;n)</translation>
-    </message>
-    <message>
-        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation>WPS Writer sedang memperbarui daftar isi. Pilih salah satu pilihan berikut:</translation>
-    </message>
-    <message>
-        <source>Update Table of Contents</source>
-        <translation>Perbarui Daftar Isi</translation>
-    </message>
-    <message>
-        <source>Update &amp;entire table</source>
-        <translation>Perbarui seluruh tabel (&amp;s)</translation>
     </message>
 </context>
 <context>
@@ -44128,12 +43783,12 @@ Gunakan tombol &apos;Cari Area Berikutnya yang Dapat Saya Edit&apos; untuk menam
         <translation>Nama tidak boleh melebihi 5 karakter bahasa Mandarin</translation>
     </message>
     <message>
-        <source>OfficialPageNum</source>
-        <translation>No. Halaman Dokumen Resmi</translation>
-    </message>
-    <message>
         <source>Please enter a Chinese font size or a number between 1% and 2%</source>
         <translation>Masukkan ukuran font bahasa Mandarin atau satu angka antara 1% dan 2%</translation>
+    </message>
+    <message>
+        <source>OfficialPageNum</source>
+        <translation>No. Halaman Dokumen Resmi</translation>
     </message>
     <message>
         <source>There is a page number template with the same name, please modify the name</source>
@@ -44588,21 +44243,6 @@ Coba satu atau beberapa hal berikut:
     </message>
 </context>
 <context>
-    <name>KxOfficialTemplateBeginerDialog</name>
-    <message>
-        <source>Start Design</source>
-        <translation>Mulai Desain</translation>
-    </message>
-    <message>
-        <source>Use the toolbar on the right to design your own official document template.</source>
-        <translation>Anda dapat mendesain tiap elemen dalam toolbar di sisi kanan, termasuk penambahan, penghapusan, dan pengeditan konten.</translation>
-    </message>
-    <message>
-        <source>Beginner Guide</source>
-        <translation>Panduan Pemula</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgBookmarkSelection</name>
     <message>
         <source>Select Place in Document</source>
@@ -44660,25 +44300,6 @@ Coba satu atau beberapa hal berikut:
     <message>
         <source>Vertical</source>
         <translation>Kotak Teks Vertikal</translation>
-    </message>
-</context>
-<context>
-    <name>KxPageElementsWidgetSignature</name>
-    <message>
-        <source>PersonalSeal</source>
-        <translation>Segel Pribadi</translation>
-    </message>
-    <message>
-        <source>NoSeal</source>
-        <translation>Tidak Ada Segel</translation>
-    </message>
-    <message>
-        <source>Seal Width:</source>
-        <translation>Lebar Segel:</translation>
-    </message>
-    <message>
-        <source>RoundSeal</source>
-        <translation>Segel Resmi</translation>
     </message>
 </context>
 <context>
@@ -44897,21 +44518,6 @@ Coba satu atau beberapa hal berikut:
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialAddPageNumWarningDlg</name>
-    <message>
-        <source>The same attribute page number template %1 already exists and cannot be created</source>
-        <translation>Templat nomor halaman %1 dengan atribut yang sama sudah ada. Gagal dibuat.</translation>
-    </message>
-    <message>
-        <source>Cannot create page number template</source>
-        <translation>Gagal membuat templat nomor halaman.</translation>
-    </message>
-    <message>
-        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
-        <translation>Anda dapat menyimpan hingga 99 templat nomor halaman dokumen resmi. Hapus semua templat dan coba lagi.</translation>
-    </message>
-</context>
-<context>
     <name>KxStyleShortCutBindDlg</name>
     <message>
         <source>Invalid Input.</source>
@@ -44924,21 +44530,6 @@ Coba satu atau beberapa hal berikut:
     <message>
         <source>Do you want to overwrite the shortcut of [%1]? </source>
         <translation>Anda ingin menimpa pintasan [%1]? </translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsOfficialImportWaringDlg</name>
-    <message>
-        <source>Aleady selected</source>
-        <translation>Anda telah memilih</translation>
-    </message>
-    <message>
-        <source>more can be imported</source>
-        <translation> templat lainnya.</translation>
-    </message>
-    <message>
-        <source>templates, up to</source>
-        <translation> templat. Anda dapat mengimpor hingga</translation>
     </message>
 </context>
 <context>
@@ -45712,25 +45303,6 @@ Daftar Isi</translation>
     </message>
 </context>
 <context>
-    <name>KxBackupSettingTipWidgetBase</name>
-    <message>
-        <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>Aktifkan Penjelajahan Dokumen, dan file lokal yang telah dibuka akan disimpan secara otomatis di Cloud.</translation>
-    </message>
-    <message>
-        <source>What is Auto Roaming</source>
-        <translation>Apa itu Penjelajahan Otomatis</translation>
-    </message>
-    <message>
-        <source>we update your modification on time</source>
-        <translation>Sementara itu, sistem akan menyinkronkan secara otomatis perubahan di file lokal dengan file di Cloud.</translation>
-    </message>
-    <message>
-        <source>you also reference this document when login on another deviec</source>
-        <translation>Anda dapat juga melihat dan mengedit dokumen ini saat masuk dengan perangkat lain.</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgTextDirection</name>
     <message>
         <source>&amp;Orientation </source>
@@ -45798,6 +45370,26 @@ Daftar Isi</translation>
         <translation>Yakin akan menghapus semua penerima yang telah Anda tambahkan?</translation>
     </message>
     <message>
+        <source>please input key word to search info of receivers:</source>
+        <translation>Cari penerima berdasarkan kata kunci:</translation>
+    </message>
+    <message>
+        <source>search</source>
+        <translation>Cari</translation>
+    </message>
+    <message>
+        <source>receivers:</source>
+        <translation>Penerima:</translation>
+    </message>
+    <message>
+        <source>add receiver</source>
+        <translation>Tambah Penerima</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Label Teks</translation>
+    </message>
+    <message>
         <source>input chinese sy info tips part1</source>
         <translation>Angka dan huruf diizinkan. Anda dapat memasukkan hingga</translation>
     </message>
@@ -45808,14 +45400,6 @@ Daftar Isi</translation>
     <message>
         <source>sy_normal</source>
         <translation>Tentukan Tanda Air</translation>
-    </message>
-    <message>
-        <source>please input key word to search info of receivers:</source>
-        <translation>Cari penerima berdasarkan kata kunci:</translation>
-    </message>
-    <message>
-        <source>search</source>
-        <translation>Cari</translation>
     </message>
     <message>
         <source>sytype</source>
@@ -45834,24 +45418,12 @@ Daftar Isi</translation>
         <translation>Info Tanda Air Bahasa Mandarin</translation>
     </message>
     <message>
-        <source>receivers:</source>
-        <translation>Penerima:</translation>
-    </message>
-    <message>
         <source>normal_sy_info</source>
         <translation>Info Tanda Air Non-Bahasa Mandarin</translation>
     </message>
     <message>
         <source>self_sy_info</source>
         <translation>Info Tanda Air:</translation>
-    </message>
-    <message>
-        <source>add receiver</source>
-        <translation>Tambah Penerima</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation>Label Teks</translation>
     </message>
 </context>
 <context>
@@ -45990,13 +45562,6 @@ Daftar Isi</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialDelCustomPageNumDlg</name>
-    <message>
-        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
-        <translation>Templat nomor halaman %1 akan dihapus, dan nomor halaman yang ada dalam dokumen tidak akan dihapus.</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsStatusZoomOptionGalleryModel</name>
     <message>
         <source>&amp;Whole Page</source>
@@ -46050,10 +45615,6 @@ Daftar Isi</translation>
     <message>
         <source>Equation Symbols</source>
         <translation>Simbol Persamaan</translation>
-    </message>
-    <message>
-        <source>Accent</source>
-        <translation>Aksen</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -46126,6 +45687,10 @@ Daftar Isi</translation>
     <message>
         <source>Professional</source>
         <translation>Profesional</translation>
+    </message>
+    <message>
+        <source>Accent</source>
+        <translation>Aksen</translation>
     </message>
 </context>
 <context>
@@ -46366,16 +45931,16 @@ Daftar Isi</translation>
         <translation>Dialog</translation>
     </message>
     <message>
+        <source>SendMail</source>
+        <translation>Kirim Email</translation>
+    </message>
+    <message>
         <source>Send Completed</source>
         <translation>Kirim Selesai</translation>
     </message>
     <message>
         <source>All &amp;ReSend</source>
         <translation>Kirim Ulang Semua (&amp;R)</translation>
-    </message>
-    <message>
-        <source>SendMail</source>
-        <translation>Kirim Email</translation>
     </message>
 </context>
 <context>
@@ -46512,45 +46077,6 @@ Daftar Isi</translation>
     </message>
 </context>
 <context>
-    <name>KxComposeParaFormatCommand</name>
-    <message>
-        <source>Format Alignment Center</source>
-        <translation>Rata Tengah</translation>
-    </message>
-    <message>
-        <source>Heading 1</source>
-        <translation>Kepala 1</translation>
-    </message>
-    <message>
-        <source>Heading 2</source>
-        <translation>Kepala 2</translation>
-    </message>
-    <message>
-        <source>Heading 3</source>
-        <translation>Kepala 3</translation>
-    </message>
-    <message>
-        <source>Heading 4</source>
-        <translation>Kepala 4</translation>
-    </message>
-    <message>
-        <source>Heading 5</source>
-        <translation>Kepala 5</translation>
-    </message>
-    <message>
-        <source>Heading 6</source>
-        <translation>Kepala 6</translation>
-    </message>
-    <message>
-        <source>Format Alignment Right</source>
-        <translation>Rata Kanan</translation>
-    </message>
-    <message>
-        <source>Format Alignment Left</source>
-        <translation>Rata Kiri</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsXMLSchemaLibraryDlg</name>
     <message>
         <source>Cannot Install the xml Extend or the xml schema.</source>
@@ -46580,16 +46106,16 @@ Daftar Isi</translation>
         <translation>Font %1 tidak tersedia di sistem Anda. Teks akan ditampilkan pada font pengganti. Anda ingin tetap menggunakannya?</translation>
     </message>
     <message>
+        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
         <source>%1 is invalid font size.</source>
         <translation>%1 adalah ukuran font yang tidak valid.</translation>
     </message>
     <message>
         <source>When the smart number setting is turned on, the official document master will change the format when you write the corresponding number and press Enter.</source>
         <translation>Ketika pengaturan nomor pintar diaktifkan, fitur penulisan dokumen resmi akan mengubah formatnya saat Anda menuliskan angka yang bersesuaian lalu tekan Enter.</translation>
-    </message>
-    <message>
-        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
 </context>
 <context>
@@ -46599,12 +46125,12 @@ Daftar Isi</translation>
         <translation>Font %1 tidak tersedia di sistem Anda. Teks akan ditampilkan pada font pengganti. Anda ingin tetap menggunakannya?</translation>
     </message>
     <message>
-        <source>%1 is invalid font size.</source>
-        <translation>%1 adalah ukuran font yang tidak valid.</translation>
-    </message>
-    <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation>%1 adalah ukuran font yang tidak valid.</translation>
     </message>
 </context>
 <context>
@@ -46812,20 +46338,12 @@ Daftar Isi</translation>
         <translation>Kata sandi izin dan kata sandi pembuka dokumen harus berbeda.</translation>
     </message>
     <message>
-        <source>The file opening password is inconsistent with the previously entered password.</source>
-        <translation>Kata sandi pembuka file tidak konsisten dengan kata sandi yang dimasukkan sebelumnya.</translation>
-    </message>
-    <message>
         <source>Please input the password of permission setting!</source>
         <translation>Masukkan kata sandi pengaturan izin!</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
         <translation>Tentukan nama file.</translation>
-    </message>
-    <message>
-        <source>The permission setting password is inconsistent with the previously entered password.</source>
-        <translation>Kata sandi pengaturan izin tidak konsisten dengan kata sandi yang dimasukkan sebelumnya.</translation>
     </message>
     <message>
         <source>Save OFD File As</source>
@@ -46838,6 +46356,14 @@ Daftar Isi</translation>
     <message>
         <source>The file name is the same as an existing directory.</source>
         <translation>Nama file sama dengan direktori yang ada.</translation>
+    </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation>Kata sandi pembuka file tidak konsisten dengan kata sandi yang dimasukkan sebelumnya.</translation>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation>Kata sandi pengaturan izin tidak konsisten dengan kata sandi yang dimasukkan sebelumnya.</translation>
     </message>
 </context>
 <context>
@@ -46859,14 +46385,22 @@ Daftar Isi</translation>
     </message>
 </context>
 <context>
-    <name>KSearchFileItemDelegate</name>
+    <name>KxBackupSettingTipWidgetBase</name>
     <message>
-        <source>OpenByLocalApp</source>
-        <translation>Buka Dari Lokal</translation>
+        <source>What is Auto Roaming</source>
+        <translation>Apa itu Penjelajahan Otomatis</translation>
     </message>
     <message>
-        <source>Preview</source>
-        <translation>Pratampil</translation>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>Aktifkan Penjelajahan Dokumen, dan file lokal yang telah dibuka akan disimpan secara otomatis di Cloud.</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>Sementara itu, sistem akan menyinkronkan secara otomatis perubahan di file lokal dengan file di Cloud.</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>Anda dapat juga melihat dan mengedit dokumen ini saat masuk dengan perangkat lain.</translation>
     </message>
 </context>
 <context>
@@ -47049,33 +46583,6 @@ Daftar Isi</translation>
     </message>
 </context>
 <context>
-    <name>KxOfficialLaunchingWidget</name>
-    <message>
-        <source>OfficialTools</source>
-        <translation>Alat Dokumen Resmi</translation>
-    </message>
-    <message>
-        <source>New Official Document</source>
-        <translation>Dokumen Resmi Baru</translation>
-    </message>
-    <message>
-        <source>Official Master is Launching!</source>
-        <translation>Master Resmi Diluncurkan!</translation>
-    </message>
-    <message>
-        <source>OfficialCorrect</source>
-        <translation>Koreksi Dokumen Resmi</translation>
-    </message>
-    <message>
-        <source>OfficialMaterial</source>
-        <translation>Material Dokumen Resmi</translation>
-    </message>
-    <message>
-        <source>OfficialRender</source>
-        <translation>Tata Letak Standar Nasional</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgWpsRecordMacro</name>
     <message>
         <source>Record Macro</source>
@@ -47170,10 +46677,6 @@ Daftar Isi</translation>
         <translation>Lokasi file tidak dapat diakses</translation>
     </message>
     <message>
-        <source>Failed to save file</source>
-        <translation>Gagal menyimpan file.</translation>
-    </message>
-    <message>
         <source>The number must not be nil</source>
         <translation>Angka tidak boleh nihil</translation>
     </message>
@@ -47188,6 +46691,10 @@ Daftar Isi</translation>
     <message>
         <source>The number must be between %1 and %2.</source>
         <translation>Angka harus antara %1 dan %2.</translation>
+    </message>
+    <message>
+        <source>Failed to save file</source>
+        <translation>Gagal menyimpan file.</translation>
     </message>
 </context>
 <context>
@@ -47613,23 +47120,6 @@ Daftar Isi</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsApplication</name>
-    <message>
-        <source>WPS Writer cannot save Normal.dotm.
-Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
-        <translation>Teks WPS tidak boleh menyimpan Normal.dotm.
-Klik OK untuk membuang konten yang tidak disimpan dan menutup proses ini. Jika Anda tidak ingin menutupnya, klik Batal.</translation>
-    </message>
-    <message>
-        <source>Official Document</source>
-        <translation>Dokumen Resmi</translation>
-    </message>
-    <message>
-        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
-        <translation>Gambar yang disisipkan ditampilkan tidak lengkap. Anda ingin menyesuaikan penspasian baris secara otomatis sesuai dengan ukuran gambar?</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsODTLineSpacingWidget</name>
     <message>
         <source>Double</source>
@@ -47648,16 +47138,16 @@ Klik OK untuk membuang konten yang tidak disimpan dan menutup proses ini. Jika A
         <translation>1,5 Baris</translation>
     </message>
     <message>
-        <source>Official Line Interval</source>
-        <translation>Jarak Baris</translation>
-    </message>
-    <message>
         <source>Multiple</source>
         <translation>Beberapa</translation>
     </message>
     <message>
         <source>Exactly</source>
         <translation>Persis</translation>
+    </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Jarak Baris</translation>
     </message>
 </context>
 <context>
@@ -47754,6 +47244,33 @@ Klik OK untuk membuang konten yang tidak disimpan dan menutup proses ini. Jika A
     </message>
 </context>
 <context>
+    <name>KxOfficialLaunchingWidget</name>
+    <message>
+        <source>New Official Document</source>
+        <translation>Dokumen Resmi Baru</translation>
+    </message>
+    <message>
+        <source>Official Master is Launching!</source>
+        <translation>Master Resmi Diluncurkan!</translation>
+    </message>
+    <message>
+        <source>OfficialTools</source>
+        <translation>Alat Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>OfficialCorrect</source>
+        <translation>Koreksi Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>OfficialMaterial</source>
+        <translation>Material Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>OfficialRender</source>
+        <translation>Tata Letak Standar Nasional</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsLineColorModel</name>
     <message>
         <source>No Line</source>
@@ -47772,37 +47289,26 @@ Klik OK untuk membuang konten yang tidak disimpan dan menutup proses ini. Jika A
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialNumberingModel</name>
-    <message>
-        <source>GalleryOfficalOutlineNumbering</source>
-        <translation>No. Multilevel Dokumen Resmi</translation>
-    </message>
-    <message>
-        <source>GalleryOfficialNumbering</source>
-        <translation>No. Dokumen Resmi</translation>
-    </message>
-</context>
-<context>
     <name>KxTpWpsConfidentialityLevelKeyWordWidget</name>
     <message>
         <source>No data</source>
         <translation>Tidak ada data</translation>
     </message>
     <message>
-        <source>&amp;expandAll</source>
-        <translation>Perluas Semua (&amp;E)</translation>
-    </message>
-    <message>
         <source>This document has no confidential keywords</source>
         <translation>Dokumen ini tidak memiliki kata kunci rahasia</translation>
     </message>
     <message>
-        <source>,But did not complete the full text check</source>
-        <translation>, tapi tidak menyelesaikan pengecekan teks lengkap</translation>
-    </message>
-    <message>
         <source>total check result:</source>
         <translation>total hasil cek:</translation>
+    </message>
+    <message>
+        <source>&amp;expandAll</source>
+        <translation>Perluas Semua (&amp;E)</translation>
+    </message>
+    <message>
+        <source>,But did not complete the full text check</source>
+        <translation>, tapi tidak menyelesaikan pengecekan teks lengkap</translation>
     </message>
     <message>
         <source>&amp;collapseAll</source>
@@ -47811,6 +47317,25 @@ Klik OK untuk membuang konten yang tidak disimpan dan menutup proses ini. Jika A
     <message>
         <source>date already deleted!</source>
         <translation>Tanggal sudah dihapus.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
+    <message>
+        <source>No data</source>
+        <translation>Tidak ada data</translation>
+    </message>
+    <message>
+        <source>total result</source>
+        <translation>Hasil</translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation>Periksa Ulang</translation>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation>Kelola Kata Kunci</translation>
     </message>
 </context>
 <context>
@@ -47893,6 +47418,25 @@ Klik OK untuk membuang konten yang tidak disimpan dan menutup proses ini. Jika A
     <message>
         <source>dialogstest</source>
         <translation>tes dialog</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetSignature</name>
+    <message>
+        <source>Seal Width:</source>
+        <translation>Lebar Segel:</translation>
+    </message>
+    <message>
+        <source>PersonalSeal</source>
+        <translation>Segel Pribadi</translation>
+    </message>
+    <message>
+        <source>NoSeal</source>
+        <translation>Tidak Ada Segel</translation>
+    </message>
+    <message>
+        <source>RoundSeal</source>
+        <translation>Segel Resmi</translation>
     </message>
 </context>
 <context>
@@ -48206,20 +47750,6 @@ skema yang cocok dengan ruang nama yang sudah ditentukan, atau klik Batal, dan h
     </message>
 </context>
 <context>
-    <name>KxPageElementTextEditValidator</name>
-    <message>
-        <source>No more than %1 characters</source>
-        <translation>Tidak lebih dari %1 karakter</translation>
-    </message>
-</context>
-<context>
-    <name>KxPageElementsWidgetPlaintTextEdit</name>
-    <message>
-        <source>No more than %1 characters</source>
-        <translation>Tidak lebih dari %1 karakter</translation>
-    </message>
-</context>
-<context>
     <name>KxWpsReadingDivisionListCommand</name>
     <message>
         <source>One column</source>
@@ -48252,12 +47782,12 @@ skema yang cocok dengan ruang nama yang sudah ditentukan, atau klik Batal, dan h
         <translation>Dialog</translation>
     </message>
     <message>
-        <source>Sending Mail With WPS</source>
-        <translation>Mengirim Email dengan WPS</translation>
-    </message>
-    <message>
         <source>SendMail</source>
         <translation>Kirim Email</translation>
+    </message>
+    <message>
+        <source>Sending Mail With WPS</source>
+        <translation>Mengirim Email dengan WPS</translation>
     </message>
     <message>
         <source>&amp;Stop sendemail</source>
@@ -48271,12 +47801,12 @@ skema yang cocok dengan ruang nama yang sudah ditentukan, atau klik Batal, dan h
         <translation>Dialog</translation>
     </message>
     <message>
-        <source>&amp;Account</source>
-        <translation>Gunakan akun berikut untuk mengirim surat (&amp;A)</translation>
-    </message>
-    <message>
         <source>SendMail</source>
         <translation>Kirim Email</translation>
+    </message>
+    <message>
+        <source>&amp;Account</source>
+        <translation>Gunakan akun berikut untuk mengirim surat (&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -48284,49 +47814,6 @@ skema yang cocok dengan ruang nama yang sudah ditentukan, atau klik Batal, dan h
     <message>
         <source>(No entry)</source>
         <translation>(Tidak ada entri)</translation>
-    </message>
-</context>
-<context>
-    <name>KxDlgWpsMaintainCmptPrompt</name>
-    <message>
-        <source>You are saving an old-format document as a new format.
-
-While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
-        <translation>Anda akan menyimpan dokumen format lama sebagai format baru.
-
-Ini dapat memengaruhi dampak dari beberapa grafis dan paragraf, tapi setelah menyimpannya sebagai format baru, Anda dapat menggunakan fitur lainnya.</translation>
-    </message>
-    <message>
-        <source>Save as a new format</source>
-        <translation> Simpan Sebagai Format Baru</translation>
-    </message>
-    <message>
-        <source>Save new format</source>
-        <translation>Simpan Format Baru</translation>
-    </message>
-    <message>
-        <source>MaintainCompatibilityPrompt</source>
-        <translation>Pertahankan Permintaan Kompatibilitas</translation>
-    </message>
-    <message>
-        <source>Do not remind me again.</source>
-        <translation>Jangan ingatkan lagi.</translation>
-    </message>
-    <message>
-        <source>Your document will be upgraded to the newest file format.
-
-While you'll get to use all the new features in Word, some minor layout
-changes are possible. If you prefer not to upgrade, press cancel an
-check the maintain compatibility checkbox.</source>
-        <translation>Dokumen Anda akan ditingkatkan ke format file terbaru.
-
-Sementara Anda akan dapat menggunakan semua fitur baru di WPS Writer, beberapa perubahan kecil 
-tata letak mungkin terjadi. Jika Anda memilih untuk tidak melakukan upgrade, tekan batal dan
-centang kotak pertahankan kompatibilitas.</translation>
-    </message>
-    <message>
-        <source>Do not ask me again.</source>
-        <translation>Jangan tanya saya lagi.</translation>
     </message>
 </context>
 <context>
@@ -48461,6 +47948,14 @@ centang kotak pertahankan kompatibilitas.</translation>
         <translation>Kata kunci tidak ditemukan. Dokumen ini bukan dokumen level kerahasiaan.</translation>
     </message>
     <message>
+        <source>select all</source>
+        <translation>Pilih Semua</translation>
+    </message>
+    <message>
+        <source>delete keywords</source>
+        <translation>hapus kata kunci</translation>
+    </message>
+    <message>
         <source>The thesaurus is empty, please add keywords</source>
         <translation>Tesaurus kosong. Tambah dulu kata kunci.</translation>
     </message>
@@ -48473,16 +47968,8 @@ centang kotak pertahankan kompatibilitas.</translation>
         <translation>Balik Pemilihan</translation>
     </message>
     <message>
-        <source>select all</source>
-        <translation>Pilih Semua</translation>
-    </message>
-    <message>
         <source>Management keyword</source>
         <translation>Kelola Kata Kunci</translation>
-    </message>
-    <message>
-        <source>delete keywords</source>
-        <translation>hapus kata kunci</translation>
     </message>
 </context>
 <context>
@@ -48490,6 +47977,17 @@ centang kotak pertahankan kompatibilitas.</translation>
     <message>
         <source>Attachment: 1.xxxxxxxxxx</source>
         <translation>Lampiran: 1.xxxxxxxxxx</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchFileItemDelegate</name>
+    <message>
+        <source>Preview</source>
+        <translation>Pratampil</translation>
+    </message>
+    <message>
+        <source>OpenByLocalApp</source>
+        <translation>Buka Dari Lokal</translation>
     </message>
 </context>
 <context>
@@ -48518,18 +48016,42 @@ centang kotak pertahankan kompatibilitas.</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsEquationOptionsDlg</name>
+    <name>KxComposeParaFormatCommand</name>
     <message>
-        <source>This change will affect all new documents based on the NORMAL template.</source>
-        <translation>Perubahan ini akan mempengaruhi semua dokumen baru berdasarkan templat NORMAL.</translation>
+        <source>Heading 1</source>
+        <translation>Kepala 1</translation>
     </message>
     <message>
-        <source>Save failed.</source>
-        <translation>Terjadi kesalahan. Pengubahan gagal.</translation>
+        <source>Heading 2</source>
+        <translation>Kepala 2</translation>
     </message>
     <message>
-        <source>Template is missing.</source>
-        <translation>Templat hilang.</translation>
+        <source>Heading 3</source>
+        <translation>Kepala 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <translation>Kepala 4</translation>
+    </message>
+    <message>
+        <source>Heading 5</source>
+        <translation>Kepala 5</translation>
+    </message>
+    <message>
+        <source>Heading 6</source>
+        <translation>Kepala 6</translation>
+    </message>
+    <message>
+        <source>Format Alignment Center</source>
+        <translation>Rata Tengah</translation>
+    </message>
+    <message>
+        <source>Format Alignment Right</source>
+        <translation>Rata Kanan</translation>
+    </message>
+    <message>
+        <source>Format Alignment Left</source>
+        <translation>Rata Kiri</translation>
     </message>
 </context>
 <context>
@@ -48682,13 +48204,6 @@ centang kotak pertahankan kompatibilitas.</translation>
     </message>
 </context>
 <context>
-    <name>KxWpsOfficialNewDocumentDlg</name>
-    <message>
-        <source>New Empty</source>
-        <translation>Dokumen Resmi Kosong Baru</translation>
-    </message>
-</context>
-<context>
     <name>KxDlgNewLabel</name>
     <message>
         <source>New Label</source>
@@ -48778,6 +48293,36 @@ centang kotak pertahankan kompatibilitas.</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgCheckingTips</name>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation>sedang mengecek, harap tunggu...</translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation>Stop</translation>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>Cek Kata Kunci Tingkat Kerahasiaan</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips2</name>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation>sedang mengecek, harap tunggu...</translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation>Stop</translation>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>Cek Kata Kunci Tingkat Kerahasiaan</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsSectNavViewItemSeperator</name>
     <message>
         <source>Add Section Break</source>
@@ -48838,6 +48383,57 @@ Mengonversi memungkinkan Anda menggunakan semua fitur baru WPS Writer dan mengur
     </message>
 </context>
 <context>
+    <name>KxWpsMailSenderTestDlg</name>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>Batal (&amp;B)</translation>
+    </message>
+    <message>
+        <source>Receiving this mail means your configuration is successful. </source>
+        <translation>Menerima surat ini berarti konfigurasi Anda berhasil. </translation>
+    </message>
+    <message>
+        <source>Test failed.Please check the information.</source>
+        <translation>Pengetesan gagal. Silakan cek informasinya.</translation>
+    </message>
+    <message>
+        <source>&amp;Done</source>
+        <translation>Selesai (&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPS Mail Merge Test Mail</source>
+        <translation>Penggabungan Surel-Surel Pengujian WPS</translation>
+    </message>
+    <message>
+        <source>Send test Email</source>
+        <translation>Kirim Email tes</translation>
+    </message>
+    <message>
+        <source>Login to SMTP server</source>
+        <translation>Masuk ke server surat</translation>
+    </message>
+    <message>
+        <source>Mail Config</source>
+        <translation>Konfigurasi Email</translation>
+    </message>
+    <message>
+        <source>Account setup successful</source>
+        <translation>Tes pengaturan akun telah berhasil.</translation>
+    </message>
+    <message>
+        <source>.Please trying using independent password</source>
+        <translation>. Coba gunakan kode otorisasi untuk masuk ke kotak surat.</translation>
+    </message>
+    <message>
+        <source>You are all set for the group mail feature.</source>
+        <translation>Anda siap untuk fitur surat grup.</translation>
+    </message>
+    <message>
+        <source>You are sending testing mail through WPS mail merge feature. </source>
+        <translation>Anda sedang mengirim surat percobaan menggunakan Penggabungan Surel WPS.</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgUnProtectDocument</name>
     <message>
         <source>&amp;Password:</source>
@@ -48885,21 +48481,6 @@ Mengonversi memungkinkan Anda menggunakan semua fitur baru WPS Writer dan mengur
     </message>
 </context>
 <context>
-    <name>KxDocElementsWidget</name>
-    <message>
-        <source>Edition:</source>
-        <translation>Elemen Versi:</translation>
-    </message>
-    <message>
-        <source>IU_unit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Header:</source>
-        <translation>Header:</translation>
-    </message>
-</context>
-<context>
     <name>wps_field_parser_autotext</name>
     <message>
         <source>Error! No autotext entry supplied</source>
@@ -48938,13 +48519,6 @@ Berdampingan</translation>
     </message>
 </context>
 <context>
-    <name>KxCreateContentsToolTip</name>
-    <message>
-        <source>click &quot;Create Navigation&quot;, show document structure.</source>
-        <translation>Klik &quot;Buat Navigasi Direktori&quot; untuk menampilkan struktur dokumen.</translation>
-    </message>
-</context>
-<context>
     <name>KSpinBox</name>
     <message>
         <source>Automatic</source>
@@ -48980,6 +48554,21 @@ Berdampingan</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsEquationOptionsDlg</name>
+    <message>
+        <source>Template is missing.</source>
+        <translation>Templat hilang.</translation>
+    </message>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation>Perubahan ini akan mempengaruhi semua dokumen baru berdasarkan templat NORMAL.</translation>
+    </message>
+    <message>
+        <source>Save failed.</source>
+        <translation>Terjadi kesalahan. Pengubahan gagal.</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsRestartPageNumCommand</name>
     <message>
         <source>Restart Page Number</source>
@@ -48991,6 +48580,66 @@ Berdampingan</translation>
     <message>
         <source>The measurement must be between %1 and %2.</source>
         <translation>Pengukuran harus antara %1 dan %2.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation>Pertahankan Permintaan Kompatibilitas</translation>
+    </message>
+    <message>
+        <source>Do not remind me again.</source>
+        <translation>Jangan ingatkan lagi.</translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you'll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation>Dokumen Anda akan ditingkatkan ke format file terbaru.
+
+Sementara Anda akan dapat menggunakan semua fitur baru di WPS Writer, beberapa perubahan kecil 
+tata letak mungkin terjadi. Jika Anda memilih untuk tidak melakukan upgrade, tekan batal dan
+centang kotak pertahankan kompatibilitas.</translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
+        <translation>Jangan tanya saya lagi.</translation>
+    </message>
+    <message>
+        <source>You are saving an old-format document as a new format.
+
+While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
+        <translation>Anda akan menyimpan dokumen format lama sebagai format baru.
+
+Ini dapat memengaruhi dampak dari beberapa grafis dan paragraf, tapi setelah menyimpannya sebagai format baru, Anda dapat menggunakan fitur lainnya.</translation>
+    </message>
+    <message>
+        <source>Save as a new format</source>
+        <translation> Simpan Sebagai Format Baru</translation>
+    </message>
+    <message>
+        <source>Save new format</source>
+        <translation>Simpan Format Baru</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsApplication</name>
+    <message>
+        <source>Official Document</source>
+        <translation>Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation>Gambar yang disisipkan ditampilkan tidak lengkap. Anda ingin menyesuaikan penspasian baris secara otomatis sesuai dengan ukuran gambar?</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation>Teks WPS tidak boleh menyimpan Normal.dotm.
+Klik OK untuk membuang konten yang tidak disimpan dan menutup proses ini. Jika Anda tidak ingin menutupnya, klik Batal.</translation>
     </message>
 </context>
 <context>
@@ -49026,13 +48675,6 @@ Berdampingan</translation>
     <message>
         <source>Advanced find</source>
         <translation>Pencarian lanjutan</translation>
-    </message>
-</context>
-<context>
-    <name>KeyWordCheckEntryButton</name>
-    <message>
-        <source>Classified check</source>
-        <translation>Cek Tingkat Kerahasiaan</translation>
     </message>
 </context>
 <context>
@@ -49101,6 +48743,21 @@ mewakili penerima</translation>
     </message>
 </context>
 <context>
+    <name>KxDocElementsWidget</name>
+    <message>
+        <source>Header:</source>
+        <translation>Header:</translation>
+    </message>
+    <message>
+        <source>Edition:</source>
+        <translation>Elemen Versi:</translation>
+    </message>
+    <message>
+        <source>IU_unit</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxWpsDuplexPrintCombobox</name>
     <message>
         <source>Duplex Print:</source>
@@ -49112,13 +48769,6 @@ mewakili penerima</translation>
     <message>
         <source>The field delimiter cannot be the same as the record delimiter.</source>
         <translation>Pembatas ruas tidak boleh sama seperti pembatas rekam.</translation>
-    </message>
-</context>
-<context>
-    <name>KxWpsSmartOfficialCommand</name>
-    <message>
-        <source>Smart Official</source>
-        <translation>Konversi Smart Dokumen Resmi</translation>
     </message>
 </context>
 <context>
@@ -49140,6 +48790,478 @@ mewakili penerima</translation>
     <message>
         <source>Click here to insert pictures.</source>
         <translation>Klik di sini untuk menyisipkan gambar.</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfficialTemplateBeginerDialog</name>
+    <message>
+        <source>Beginner Guide</source>
+        <translation>Panduan Pemula</translation>
+    </message>
+    <message>
+        <source>Start Design</source>
+        <translation>Mulai Desain</translation>
+    </message>
+    <message>
+        <source>Use the toolbar on the right to design your own official document template.</source>
+        <translation>Anda dapat mendesain tiap elemen dalam toolbar di sisi kanan, termasuk penambahan, penghapusan, dan pengeditan konten.</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomShortCutDlg</name>
+    <message>
+        <source>&quot;</source>
+        <translation>&quot;</translation>
+    </message>
+    <message>
+        <source>&quot;Tab</source>
+        <translation>&quot;Tab</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects horizontally</source>
+        <translation>Distribusikan objek gambar yang dipilih secara horizontal</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects to the back</source>
+        <translation>Kirimkan objek gambar yang dipilih ke bawah</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Tutup</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects horizontally to the center</source>
+        <translation>Ratakan objek gambar yang dipilih secara horizontal ke tengah</translation>
+    </message>
+    <message>
+        <source>Scales the current view to 100%</source>
+        <translation>Skalakan tampilan saat ini ke 100%</translation>
+    </message>
+    <message>
+        <source>&amp;Categories:</source>
+        <translation>Kategori:</translation>
+    </message>
+    <message>
+        <source>Auto-Fit Table to the contents</source>
+        <translation>Secara otomatis sesuaikan tabel berdasarkan konten</translation>
+    </message>
+    <message>
+        <source>Fill Color Picker</source>
+        <translation>Pemilih Warna Isian</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects vertically</source>
+        <translation>Distribusikan objek gambar yang dipilih secara vertikal</translation>
+    </message>
+    <message>
+        <source>Deletes the selected cells from the table</source>
+        <translation>Hapus sel yang dipilih dari tabel</translation>
+    </message>
+    <message>
+        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Ubah batas dalam paragraf, sel tabel, dan gambar yang dipilih</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
+        <translation>Konfirmasi untuk mengatur ulang penetapan tombol? Tindakan ini akan menghapus semua tombol yang saat ini ditetapkan untuk makro dan gaya di %1.</translation>
+    </message>
+    <message>
+        <source>Press &amp;new shortcut key:</source>
+        <translation>Tekan tombol pintasan baru:</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>Menu &quot;File&quot;</translation>
+    </message>
+    <message>
+        <source>Quits WPS and prompts to save the documents</source>
+        <translation>Keluar dari WPS dan minta untuk menyimpan dokumen</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects vertically to the center</source>
+        <translation>Ratakan objek gambar yang dipilih secara vertikal ke tengah</translation>
+    </message>
+    <message>
+        <source>Saves the active document or template</source>
+        <translation>Simpan dokumen atau tempatle yang aktif</translation>
+    </message>
+    <message>
+        <source>C&amp;ommands:</source>
+        <translation>Perintah:</translation>
+    </message>
+    <message>
+        <source>Customize keyboard</source>
+        <translation>Sesuaikan keyboard</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Makro</translation>
+    </message>
+    <message>
+        <source>Opens an existing document or template</source>
+        <translation>Buka dokumen atau template yang ada</translation>
+    </message>
+    <message>
+        <source>Displays a document&apos;s outline</source>
+        <translation>Lihat dokumen sebagai garis besar.</translation>
+    </message>
+    <message>
+        <source>Accepts all changes that are highlighted in the current filter settings</source>
+        <translation>Terima semua perubahan yang disoroti dalam pengaturan filter saat ini</translation>
+    </message>
+    <message>
+        <source>Save file as DOCX document</source>
+        <translation>Simpan file sebagai dokumen DOCX</translation>
+    </message>
+    <message>
+        <source>Selects the current cell in a table</source>
+        <translation>Pilih sel saat ini dalam tabel</translation>
+    </message>
+    <message>
+        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Ubah batas luar paragraf, sel tabel, dan gambar yang dipilih</translation>
+    </message>
+    <message>
+        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Ubah batas bawah paragraf, sel tabel, dan gambar yang dipilih</translation>
+    </message>
+    <message>
+        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
+        <translation>Sisipkan kotak teks kosong atau tempatkan pilihan dalam kotak teks</translation>
+    </message>
+    <message>
+        <source>Sends the active document through electronic mail</source>
+        <translation>Kirimkan dokumen aktif melalui Email</translation>
+    </message>
+    <message>
+        <source>Selects the entire document</source>
+        <translation>Pilih seluruh dokumen</translation>
+    </message>
+    <message>
+        <source>Opens a data source for mail merge of insert database</source>
+        <translation>Buka sumber data untuk gabungan surat atau menyisipkan database</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
+        <translation>Tampilkan/sembunyikan panel ringkasan untuk melihat dan mengedit revisi dokumen (horizontal)</translation>
+    </message>
+    <message>
+        <source>Selects the current column in a table</source>
+        <translation>Pilih kolom saat ini dalam tabel</translation>
+    </message>
+    <message>
+        <source>Deletes the selected columns from the table</source>
+        <translation>Hapus kolom yang dipilih dari tabel</translation>
+    </message>
+    <message>
+        <source>Changes the height and width of the rows and columns in a table</source>
+        <translation>Ubah tinggi baris dan lebar kolom dalam tabel</translation>
+    </message>
+    <message>
+        <source>Saves a copy of the document in a separate file</source>
+        <translation>Simpan salinan dokumen dalam file terpisah</translation>
+    </message>
+    <message>
+        <source>Macr&amp;os:</source>
+        <translation>Makro:</translation>
+    </message>
+    <message>
+        <source>Deletes the selected table</source>
+        <translation>Hapus tabel yang dipilih</translation>
+    </message>
+    <message>
+        <source>Specify a command</source>
+        <translation>Tentukan perintah</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected columns</source>
+        <translation>Distribusikan kolom yang dipilih secara merata</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the right</source>
+        <translation>Ratakan objek gambar yang dipilih ke kanan</translation>
+    </message>
+    <message>
+        <source>Specify keyboard sequence</source>
+        <translation>Tentukan urutan keyboard</translation>
+    </message>
+    <message>
+        <source>Cuts the selection and puts in on the Clipboard</source>
+        <translation>Potong pilihan dan tempatkan dalam clipboard sistem.</translation>
+    </message>
+    <message>
+        <source>Selects the current row in a table</source>
+        <translation>Pilih baris saat ini dalam tabel</translation>
+    </message>
+    <message>
+        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Ubah batas kiri paragraf, sel tabel, dan gambar yang dipilih</translation>
+    </message>
+    <message>
+        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
+        <translation>Hapus batas dari paragraf, sel tabel, dan gambar yang dipilih</translation>
+    </message>
+    <message>
+        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
+        <translation>Tampilkan semua revisi dalam dokumen sebagai daftar di panel.</translation>
+    </message>
+    <message>
+        <source>Changes all the borders of the selected table cells</source>
+        <translation>Ubah semua batas sel yang dipilih</translation>
+    </message>
+    <message>
+        <source>Save file as Word 97-2003 Document</source>
+        <translation>Simpan file sebagai Documen Word 97-2003</translation>
+    </message>
+    <message>
+        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
+        <translation>Menyisipkan konten dari clipboard sebagai objek yang ditautkan, objek yang disematkan, atau bentuk lainnya</translation>
+    </message>
+    <message>
+        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Ubah batas atas paragraf, sel tabel, dan gambar yang dipilih</translation>
+    </message>
+    <message>
+        <source>Show or hide comment balloons</source>
+        <translation>Tampilkan atau sembunyikan kotak komentar</translation>
+    </message>
+    <message>
+        <source>Rejects all changes in document, ignoring filter settings</source>
+        <translation>Tolak semua perubahan dalam dokumen, abaikan pengaturan filter</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Deskripsi</translation>
+    </message>
+    <message>
+        <source>Always use balloons</source>
+        <translation>Selalu gunakan kotak komentar</translation>
+    </message>
+    <message>
+        <source>Show or hide markup balloons</source>
+        <translation>Tampilkan atau sembunyikan kotak markup</translation>
+    </message>
+    <message>
+        <source>Accepts all changes in document, ignoring filter settings</source>
+        <translation>Terima semua perubahan dalam dokumen, abaikan pengaturan filter</translation>
+    </message>
+    <message>
+        <source>Changes the page setup of the selected sections</source>
+        <translation>Ubah pengaturan halaman untuk bagian yang dipilih</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>Tetapkan</translation>
+    </message>
+    <message>
+        <source>Scales the editing view to see the two pages in page layout view</source>
+        <translation>Ubah skala dokumen untuk melihat beberapa halaman di jendela.</translation>
+    </message>
+    <message>
+        <source>Changes various categories of WPS options</source>
+        <translation>Ubah berbagai opsi WPS</translation>
+    </message>
+    <message>
+        <source>Marks the text you want to include in the index</source>
+        <translation>Tandai teks yang dipilih pada indeks dokumen.</translation>
+    </message>
+    <message>
+        <source>Sa&amp;ve changes in:</source>
+        <translation>Simpan perubahan di:</translation>
+    </message>
+    <message>
+        <source>Selects an entire table</source>
+        <translation>Pilih seluruh tabel</translation>
+    </message>
+    <message>
+        <source>Insert ink comment</source>
+        <translation>Sisipkan komentar</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>Hapus</translation>
+    </message>
+    <message>
+        <source>Deletes all comments in document, ignoring filter settings</source>
+        <translation>Hapus semua komentar dalam dokumen, abaikan pengaturan filter</translation>
+    </message>
+    <message>
+        <source>C&amp;urrent keys:</source>
+        <translation>Tombol saat ini:</translation>
+    </message>
+    <message>
+        <source>Re&amp;set All...</source>
+        <translation>Atur Ulang Semua...</translation>
+    </message>
+    <message>
+        <source>Jumps to a specified place in the active document</source>
+        <translation>Lompat ke tempat yang ditentukan dalam dokumen aktif</translation>
+    </message>
+    <message>
+        <source>Deletes the selected rows from the table</source>
+        <translation>Hapus baris yang dipilih dari tabel</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected rows</source>
+        <translation>Distribusikan baris yang dipilih secara merata</translation>
+    </message>
+    <message>
+        <source>Rejects all changes that are highlighted in the current filter settings</source>
+        <translation>Tolak semua perubahan yang disoroti dalam pengaturan filter saat ini</translation>
+    </message>
+    <message>
+        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Ubah batas kanan paragraf, sel tabel, dan gambar yang dipilih</translation>
+    </message>
+    <message>
+        <source>[Underline]</source>
+        <translation>[Garis bawah]</translation>
+    </message>
+    <message>
+        <source>Toggles table gridlines on and off in Ribbon</source>
+        <translation>Aktifkan dan nonaktifkan garis kisi di Pita</translation>
+    </message>
+    <message>
+        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
+        <translation>Sisipkan kotak teks vertikal kosong atau tempatkan pilihan dalam kotak teks vertikal</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
+        <translation>Tampilkan/sembunyikan panel ringkasan untuk melihat dan mengedit revisi dokumen (vertikal)</translation>
+    </message>
+    <message>
+        <source>Creates a Quick Style style out of the currently selected text</source>
+        <translation>Buat &quot;Gaya Cepat&quot; dari teks yang saat ini dipilih</translation>
+    </message>
+    <message>
+        <source>Opens New Document taskpane</source>
+        <translation>Buka panel tugas&quot; Dokumen Baru&quot;</translation>
+    </message>
+    <message>
+        <source>Creates a new AutoText Building Block from the current selection</source>
+        <translation>Buat dasar pembuatan AutoText yang baru berdasarkan pilihan saat ini</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the left</source>
+        <translation>Ratakan objek gambar yang dipilih ke kiri</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the bottom</source>
+        <translation>Ratakan objek gambar yang dipilih ke bawah</translation>
+    </message>
+    <message>
+        <source>Removes Table of Contents building block from the document</source>
+        <translation>Hapus Daftar Isi dasar pembuatan dari dokumen</translation>
+    </message>
+    <message>
+        <source>Changes the font of the selection</source>
+        <translation>Ubah font pilihan</translation>
+    </message>
+    <message>
+        <source>Copies the selection and puts it on the Clipboard</source>
+        <translation>Salin pilihan dan tempatkan dalam clipboard sistem.</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects backward</source>
+        <translation>Kirimkan objek gambar yang dipilih ke belakang</translation>
+    </message>
+    <message>
+        <source>Currently assigned to: </source>
+        <translation>Ditetapkan untuk: </translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the top</source>
+        <translation>Ratakan objek gambar yang dipilih ke atas</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialAddPageNumWarningDlg</name>
+    <message>
+        <source>The same attribute page number template %1 already exists and cannot be created</source>
+        <translation>Templat nomor halaman %1 dengan atribut yang sama sudah ada. Gagal dibuat.</translation>
+    </message>
+    <message>
+        <source>Cannot create page number template</source>
+        <translation>Gagal membuat templat nomor halaman.</translation>
+    </message>
+    <message>
+        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
+        <translation>Anda dapat menyimpan hingga 99 templat nomor halaman dokumen resmi. Hapus semua templat dan coba lagi.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialImportWaringDlg</name>
+    <message>
+        <source>Aleady selected</source>
+        <translation>Anda telah memilih</translation>
+    </message>
+    <message>
+        <source>more can be imported</source>
+        <translation> templat lainnya.</translation>
+    </message>
+    <message>
+        <source>templates, up to</source>
+        <translation> templat. Anda dapat mengimpor hingga</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialDelCustomPageNumDlg</name>
+    <message>
+        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
+        <translation>Templat nomor halaman %1 akan dihapus, dan nomor halaman yang ada dalam dokumen tidak akan dihapus.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNumberingModel</name>
+    <message>
+        <source>GalleryOfficalOutlineNumbering</source>
+        <translation>No. Multilevel Dokumen Resmi</translation>
+    </message>
+    <message>
+        <source>GalleryOfficialNumbering</source>
+        <translation>No. Dokumen Resmi</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementTextEditValidator</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation>Tidak lebih dari %1 karakter</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetPlaintTextEdit</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation>Tidak lebih dari %1 karakter</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNewDocumentDlg</name>
+    <message>
+        <source>New Empty</source>
+        <translation>Dokumen Resmi Kosong Baru</translation>
+    </message>
+</context>
+<context>
+    <name>KxCreateContentsToolTip</name>
+    <message>
+        <source>click &quot;Create Navigation&quot;, show document structure.</source>
+        <translation>Klik &quot;Buat Navigasi Direktori&quot; untuk menampilkan struktur dokumen.</translation>
+    </message>
+</context>
+<context>
+    <name>KeyWordCheckEntryButton</name>
+    <message>
+        <source>Classified check</source>
+        <translation>Cek Tingkat Kerahasiaan</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartOfficialCommand</name>
+    <message>
+        <source>Smart Official</source>
+        <translation>Konversi Smart Dokumen Resmi</translation>
     </message>
 </context>
 </TS>
