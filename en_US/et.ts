@@ -568,7 +568,7 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Sh&amp;ow Mini Toolbar on selection</translation>
+        <translation>Show Mini &amp;Toolbar on selection</translation>
     </message>
     <message>
         <source>Sheet ta&amp;bs</source>
@@ -1168,7 +1168,7 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
-        <translation>D&amp;efault HomePage:</translation>
+        <translation>&amp;Default HomePage:</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
@@ -5847,8 +5847,7 @@ Center</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Selection 
-Pane</translation>
+        <translation>Selection Pane</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -8392,7 +8391,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Add MinorGridline</source>
-        <translation>Add Minor Gridlines</translation>
+        <translation>Add Minor Gridline</translation>
     </message>
     <message>
         <source>View Historical Backup</source>
@@ -8503,7 +8502,7 @@ By Sheet</translation>
     </message>
     <message>
         <source>Add MajorGridline</source>
-        <translation>Add Major Gridlines</translation>
+        <translation>Add Major Gridline</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -16281,7 +16280,7 @@ Chart Type</translation>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation>High-Low Line</translation>
+        <translation>High-Low line</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
@@ -16297,7 +16296,7 @@ Chart Type</translation>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
-        <translation>Secondary Minor Vertical</translation>
+        <translation>Secondary Minor Vertial</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -16349,7 +16348,7 @@ Chart Type</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation>Primary Minor Vertical</translation>
+        <translation>Primary Minor Vertial</translation>
     </message>
     <message>
         <source>AddAxis</source>
@@ -18331,7 +18330,7 @@ Center</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Create Share Link</translation>
+        <translation>Share File</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -18388,7 +18387,7 @@ Analysis</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Style</translation>
+        <translation>Gallery</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18624,7 +18623,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Convert All Pictures in the Worksheet</translation>
+        <translation>Convert All Pictures in the Document</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18652,7 +18651,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation>Send to Group</translation>
+        <translation>Send to group</translation>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -18665,7 +18664,7 @@ Cloud Docs</translation>
     <message>
         <source>Check Mine Permission</source>
         <translation>Check My 
-Permissions</translation>
+Permission</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -19180,7 +19179,8 @@ Picture</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Header and 
+Footer</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -19554,7 +19554,7 @@ Comment</translation>
     <message>
         <source>Check Mine Permission</source>
         <translation>Check My 
-Permissions</translation>
+Permission</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -34940,7 +34940,7 @@ Picture</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation>An error occurred when opening OFD file.</translation>
+        <translation>Encountered an error when opening OFD file.</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -45791,7 +45791,7 @@ Layout</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation>Send to Mobile</translation>
+        <translation>Send to mobile</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -48308,8 +48308,7 @@ Layout</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Export to 
-PDF</translation>
+        <translation>Export to PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -51308,7 +51307,7 @@ Permissions</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation>Document settings</translation>
+        <translation>document settings</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
@@ -52990,7 +52989,7 @@ Error Code: %3
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Exit Full Screen</translation>
+        <translation>Close Full Screen</translation>
     </message>
 </context>
 <context>
