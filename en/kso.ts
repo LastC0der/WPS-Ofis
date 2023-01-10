@@ -21775,7 +21775,6 @@ Check path and filename.</source>
         <source>%n file(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-			<numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -31168,7 +31167,6 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-			<numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -31243,7 +31241,6 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-			<numerusform></numerusform>
         </translation>
     </message>
     <message>

@@ -4593,7 +4593,6 @@ Check path and filename.</source>
         <source>%n file(s)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>			
         </translation>
     </message>
     <message>
@@ -7065,7 +7064,6 @@ Please verify the correct file name was given.</source>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>			
         </translation>
     </message>
     <message>
@@ -7140,7 +7138,6 @@ Please verify the correct file name was given.</source>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>			
         </translation>
     </message>
     <message>
