@@ -1169,7 +1169,7 @@ Parolaların büyük küçük harf duyarlı olduğunu unutmayın. Düzenleme par
     </message>
     <message>
         <source>Default HomePage(&amp;Y):</source>
-        <translation>Varsayılan Ana Sayfa(&amp;Y):</translation>
+        <translation>&amp;Varsayılan Ana Sayfa:</translation>
     </message>
     <message>
         <source>Find content that includes the whole string</source>
@@ -6481,7 +6481,7 @@ Biçimlendirme</translation>
     </message>
     <message>
         <source>Exit Edit</source>
-        <translation>Metin Düzenlemeden Çık</translation>
+        <translation>Düzenlemeden Çık</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -16195,8 +16195,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>View Permissions</source>
-        <translation>İzinleri 
-Görüntüle</translation>
+        <translation>İzinleri Görüntüle</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -18354,7 +18353,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Paylaşım Bağlantısı Oluştur</translation>
+        <translation>Dosyayı Paylaş</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -18644,7 +18643,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Çalışma Sayfasındaki Tüm Resimleri Dönüştür</translation>
+        <translation>Belgedeki Tüm Resimleri Dönüştür</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18911,7 +18910,8 @@ Görüntüle</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Tam Ekran</translation>
+        <translation>Tam 
+Ekran</translation>
     </message>
     <message>
         <source>Security</source>
@@ -48283,8 +48283,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF&apos;ye 
-Aktar</translation>
+        <translation>PDF&apos;ye Aktar</translation>
     </message>
     <message>
         <source>Recharge</source>
