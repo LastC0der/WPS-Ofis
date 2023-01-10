@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>&amp;Minutos</translation>
+        <translation>mi&amp;nutos</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
@@ -5496,11 +5496,11 @@ hoja</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Más colores</translation>
+        <translation>Más colores de relleno</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Más colores</translation>
+        <translation>Más colores de fuente</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -5800,8 +5800,7 @@ centrar</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Panel de 
-selección</translation>
+        <translation>Panel de selección</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -6635,7 +6634,7 @@ combinados en un libro</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Cerrar ventanas</translation>
+        <translation>Cerrar ventana</translation>
     </message>
     <message>
         <source>Align Scripts</source>
@@ -6663,7 +6662,7 @@ combinados en un libro</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>Habilitar copia de seguridad automática </translation>
+        <translation>Habilitar copia de seguridad automática</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -6680,11 +6679,11 @@ hoja</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation>Barra de desplazamiento</translation>
+        <translation>Recortar según escala</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Cambiar formas</translation>
+        <translation>Recortar según forma</translation>
     </message>
     <message>
         <source>Merge workbooks</source>
@@ -6700,7 +6699,7 @@ hoja</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Insertar imágenes en línea</translation>
+        <translation>Insertar imagen en línea</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -7054,7 +7053,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Más colores</translation>
+        <translation>Más colores de fuente</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -7078,7 +7077,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>Enviar E-mail</translation>
+        <translation>Enviar correo electrónico</translation>
     </message>
     <message>
         <source>Remove Radical</source>
@@ -7349,7 +7348,7 @@ por contenido</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>Deshabilitar copia de seguridad automática </translation>
+        <translation>Deshabilitar copia de seguridad automática</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -8009,7 +8008,8 @@ libro</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Encabezado y 
+Pie de página</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -8252,7 +8252,7 @@ datos</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -8358,7 +8358,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>Ver copia de seguridad historial </translation>
+        <translation>Ver copia de seguridad histórica</translation>
     </message>
     <message>
         <source>Entire Sheet Row</source>
@@ -8601,7 +8601,7 @@ libro</translation>
     </message>
     <message>
         <source>More Option...</source>
-        <translation>Más opciones...</translation>
+        <translation>Más Opciones...</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -8790,7 +8790,7 @@ libro</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>Ver caja fuerte de archivos</translation>
+        <translation>Ver Caja fuerte de archivo</translation>
     </message>
     <message>
         <source>Insert Row Before</source>
@@ -16006,7 +16006,7 @@ formato</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>Comentarios y información de productos</translation>
+        <translation>Comentario e información del producto</translation>
     </message>
     <message>
         <source>Print</source>
@@ -16122,7 +16122,7 @@ formato</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Comentarios de usuario</translation>
+        <translation>Comentario de usuario</translation>
     </message>
     <message>
         <source>WPS Office Facebook</source>
@@ -16598,7 +16598,7 @@ formato</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Cuadro de texto horizontal</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -16823,7 +16823,7 @@ selección</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -16843,7 +16843,7 @@ selección</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation>Cuadro de texto vertical</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -17026,7 +17026,7 @@ selección</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Foto en línea</translation>
+        <translation>Imagen en línea</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -17110,8 +17110,7 @@ selección</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Compress
-Pictures</translation>
+        <translation>Comprimir imágenes</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -17135,7 +17134,7 @@ Pictures</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Insertar foto en línea</translation>
+        <translation>Insertar imagen en línea</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -17198,7 +17197,7 @@ selección</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -18120,7 +18119,7 @@ y centrar</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Más colores</translation>
+        <translation>Más colores de fuente</translation>
     </message>
     <message>
         <source>Center</source>
@@ -18255,8 +18254,7 @@ centrar</translation>
     </message>
     <message>
         <source>Document Fix</source>
-        <translation>Reparación de 
-archivos</translation>
+        <translation>Reparación de archivos</translation>
     </message>
     <message>
         <source>Hardware Encryption</source>
@@ -18369,7 +18367,7 @@ hipótesis</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Estilo</translation>
+        <translation>Galería</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18586,7 +18584,7 @@ de usuario</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Sobre de dinero</translation>
+        <translation>ComplementoPaqueteWps</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -18602,7 +18600,7 @@ de usuario</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Convertir todas las imágenes de la hoja de cálculo</translation>
+        <translation>Convertir todas las imágenes del documento</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18642,8 +18640,8 @@ de usuario</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Comprobar mis
-permisos</translation>
+        <translation>Comprobar mi
+permiso</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -18872,7 +18870,8 @@ en paralelo</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Pantalla completa</translation>
+        <translation>Pantalla 
+completa</translation>
     </message>
     <message>
         <source>Security</source>
@@ -18917,7 +18916,7 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>Nueva
+        <translation>Nueva 
 ventana</translation>
     </message>
     <message>
@@ -19166,7 +19165,8 @@ dinámica</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Encabezado y pie de página</translation>
+        <translation>Encabezado y
+pie de página</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -19479,7 +19479,7 @@ Changes</source>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Traducción al chino</translation>
+        <translation>Conversión</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -19534,8 +19534,8 @@ Workbook</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Eliminar 
-comentarios</translation>
+        <translation>Eliminar
+comentario</translation>
     </message>
     <message>
         <source>New 
@@ -19545,12 +19545,13 @@ comentario</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Comprobar mis
-permisos</translation>
+        <translation>Comprobar mi
+permiso</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Ortografía</translation>
+        <translation>Revisión 
+ortográfica</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
@@ -20908,7 +20909,7 @@ del modo Diseño</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Modo Diseño</translation>
+        <translation>Modo diseño</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -35390,7 +35391,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Más colores</translation>
+        <translation>Más colores de fuente</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35506,7 +35507,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -35582,7 +35583,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Guión punto punto</translation>
+        <translation>Guión, punto, punto</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -37441,7 +37442,8 @@ Si no marca la casilla del campo y luego hace clic en Aceptar, todos los filtros
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Crear 
+documento PDF</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -40281,7 +40283,7 @@ selección</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -41003,7 +41005,7 @@ Los segmentos no se pueden usar en esta versión. Actualice a la versión más r
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Insertar imágenes en línea</translation>
+        <translation>Insertar imagen en línea</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -41091,7 +41093,7 @@ Los segmentos no se pueden usar en esta versión. Actualice a la versión más r
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Más colores</translation>
+        <translation>Más colores de fuente</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -41292,7 +41294,7 @@ selección</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -41642,7 +41644,7 @@ selección</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Recortar a la forma</translation>
+        <translation>Recortar según forma</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -41783,7 +41785,7 @@ selección</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Graphic Fill</source>
@@ -43395,7 +43397,7 @@ selección</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guión</translation>
+        <translation>Tipo de guión</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -45785,7 +45787,7 @@ lectura</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Comentarios de usuario</translation>
+        <translation>Comentario de usuario</translation>
     </message>
     <message>
         <source>Invoice Maker</source>
@@ -45860,7 +45862,8 @@ archivo</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Exportar 
+a PDF</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -48257,7 +48260,8 @@ lectura</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar a PDF</translation>
+        <translation>Exportar 
+a PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -49871,7 +49875,7 @@ Document</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Modo Diseño</translation>
+        <translation>Modo diseño</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -51252,7 +51256,7 @@ permisos</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation>Configuración de documento</translation>
+        <translation>configuración de documento</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
@@ -52935,7 +52939,7 @@ Código de error: %3
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Cerrar pantalla completa</translation>
+        <translation>Cerrar lectura de pantalla completa</translation>
     </message>
 </context>
 <context>
