@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>minut&amp;os</translation>
+        <translation>mi&amp;nutos</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
@@ -5554,7 +5554,7 @@ Automático</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores</translation>
+        <translation>Mais Cores das Fontes</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -5853,8 +5853,7 @@ Centrar</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Painel de 
-Seleção</translation>
+        <translation>Painel de Seleção</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -6157,7 +6156,7 @@ Dinâmica</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation>Agrupamento</translation>
+        <translation>Agrupando</translation>
     </message>
     <message>
         <source>Centered as group</source>
@@ -6306,7 +6305,7 @@ Comentário</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
@@ -6502,7 +6501,7 @@ Comentário</translation>
     </message>
     <message>
         <source>Exit Edit</source>
-        <translation>Sair da Edição de Texto</translation>
+        <translation>Editar Texto</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -7108,7 +7107,7 @@ Automático</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -8064,7 +8063,8 @@ Automática</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Cabeçalho e Rodapé</translation>
+        <translation>Cabeçalho 
+e Rodapé</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -8740,7 +8740,7 @@ Livro</translation>
     </message>
     <message>
         <source>Format ErrorBars</source>
-        <translation>Formatar barras de erro</translation>
+        <translation>Formatar Barras de Erro</translation>
     </message>
     <message>
         <source>Remove Values</source>
@@ -16325,7 +16325,7 @@ Formatação</translation>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation>Sobreposição &amp;Centrada</translation>
+        <translation>Sobreposição Centrada</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
@@ -16457,7 +16457,7 @@ Formatação</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation>Esquema de Gráfico</translation>
+        <translation>Esquema de gráfico</translation>
     </message>
     <message>
         <source>AddChartElements</source>
@@ -16501,7 +16501,7 @@ Formatação</translation>
     </message>
     <message>
         <source>changeColor</source>
-        <translation>Alterar Cor</translation>
+        <translation>Alterar cor</translation>
     </message>
     <message>
         <source>AddDataTable</source>
@@ -16658,7 +16658,7 @@ Formatação</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Caixa de Texto Horizontal</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -16903,7 +16903,7 @@ Seleção</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation>Caixa de Texto Vertical</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -18179,7 +18179,7 @@ Centrar</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>Center</source>
@@ -18427,7 +18427,7 @@ Hipóteses</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Estilo</translation>
+        <translation>Galeria</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18644,7 +18644,7 @@ de Utilizador</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Prémio em Dinheiro</translation>
+        <translation>Plug-in do Pacote WPS</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -18660,7 +18660,7 @@ de Utilizador</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Converter Todas as Imagens na Folha de Cálculo</translation>
+        <translation>Converter Todas as Imagens no Documento</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18688,7 +18688,7 @@ de Utilizador</translation>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation>Enviar para Grupo</translation>
+        <translation>Enviar para grupo</translation>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -18700,8 +18700,8 @@ de Utilizador</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Verificar as Minhas 
-Permissões</translation>
+        <translation>Verificar a Minha 
+Permissão</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -18809,7 +18809,7 @@ Outra Janela</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Zoom</translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -18928,7 +18928,8 @@ Lado a Lado</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Ecrã Inteiro</translation>
+        <translation>Ecrã 
+Inteiro</translation>
     </message>
     <message>
         <source>Security</source>
@@ -18940,7 +18941,7 @@ Screen</source>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation>Repor a Posição da Janela</translation>
+        <translation>Repor Posição da Janela</translation>
     </message>
     <message>
         <source>Custom Views</source>
@@ -18973,7 +18974,7 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>Nova
+        <translation>Nova 
 Janela</translation>
     </message>
     <message>
@@ -19221,7 +19222,8 @@ Dinâmica</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Cabeçalho e Rodapé</translation>
+        <translation>Cabeçalho 
+e Rodapé</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -19509,8 +19511,7 @@ Livro</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Registar 
-Alterações</translation>
+        <translation>Registar Alterações</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -19534,7 +19535,7 @@ Alterações</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Tradução Chinêsa</translation>
+        <translation>Conversão</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -19600,8 +19601,8 @@ Comentário</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Verificar as Minhas 
-Permissões</translation>
+        <translation>Verificar a Minha 
+Permissão</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -20994,7 +20995,7 @@ do Modo de Estrutura</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Modo de Design</translation>
+        <translation>Modo de Edição</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -35488,7 +35489,7 @@ Pretende que o WPS Spreadsheets recalcule todas as fórmulas quando este livro f
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35604,7 +35605,7 @@ Pretende que o WPS Spreadsheets recalcule todas as fórmulas quando este livro f
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo do tracejado</translation>
+        <translation>Estilo do Tracejado</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -37547,7 +37548,8 @@ Automática</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar para PDF</translation>
+        <translation>Exportar 
+para PDF</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -41197,7 +41199,7 @@ As segmentações de dados não podem ser utilizadas nesta versão. Atualize par
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mais Cores</translation>
+        <translation>Mais Cores de Tipo de Letra</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -45847,7 +45849,7 @@ Leitura</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation>Enviar para Dispositivo Móvel</translation>
+        <translation>Enviar para dispositivo móvel</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -45970,7 +45972,8 @@ Ficheiros</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar para PDF</translation>
+        <translation>Exportar 
+para PDF</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -48369,7 +48372,8 @@ Leitura</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exportar para PDF</translation>
+        <translation>Exportar 
+para PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -49985,7 +49989,7 @@ Documento</translation>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Modo de Design</translation>
+        <translation>Modo de Edição</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -51368,7 +51372,7 @@ Permissões</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation>Definições do documento</translation>
+        <translation>definições do documento</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
@@ -53051,7 +53055,7 @@ Código de erro: %3
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Sair de Ecrâ Completo</translation>
+        <translation>Fechar Ecrã Inteiro</translation>
     </message>
 </context>
 <context>
