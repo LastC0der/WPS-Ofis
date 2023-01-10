@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>&amp;minut</translation>
+        <translation>mi&amp;nut</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
@@ -5847,8 +5847,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko 
-zaznaczenia</translation>
+        <translation>Okienko zaznaczenia</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -8056,7 +8055,8 @@ skoroszyt</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Nagłówek i stopka</translation>
+        <translation>Nagłówek 
+i stopka</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -17162,7 +17162,8 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Kompresuj obrazy</translation>
+        <translation>Kompresuj
+ obrazy</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -18421,7 +18422,7 @@ warunkowa</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Styl</translation>
+        <translation>Galeria</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18637,7 +18638,7 @@ warunkowa</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Szczęśliwe pieniądze</translation>
+        <translation>WpsPackagePlugin</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -18653,7 +18654,7 @@ warunkowa</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Konwertuj wszystkie obrazy na arkuszu</translation>
+        <translation>Konwertuj wszystkie obrazy w dokumencie</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18920,7 +18921,8 @@ obok siebie</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Pełny ekran</translation>
+        <translation>Pełny 
+ekran</translation>
     </message>
     <message>
         <source>Security</source>
@@ -19213,7 +19215,8 @@ przestawna</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Nagłówek i stopka</translation>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -19501,8 +19504,7 @@ skoroszytu</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Śledź 
-zmiany</translation>
+        <translation>Śledź zmiany</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -37522,7 +37524,8 @@ Jeśli to pole wyboru zostanie puste, a następnie klikniesz przycisk OK, wszyst
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do PDF</translation>
+        <translation>Eksportuj 
+do PDF</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -48344,7 +48347,8 @@ czytania</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do PDF</translation>
+        <translation>Eksportuj 
+do PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -51340,7 +51344,7 @@ przed udostępnianiem skoroszytu.</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation>Ustawienia dokumentów</translation>
+        <translation>ustawienia dokumentów</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
