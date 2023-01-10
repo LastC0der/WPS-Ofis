@@ -8233,15 +8233,15 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"/>
+        <translation>Infotip</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
@@ -8249,7 +8249,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Update Now</source>
-        <translation type="unfinished"/>
+        <translation>Update Now</translation>
     </message>
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
@@ -8583,11 +8583,12 @@ Sorry for the inconvenience.</source>
     <name>KxExpirationReminderDlg</name>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"/>
+        <translation>Restrict 
+Editing</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Print</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
@@ -8603,7 +8604,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"/>
+        <translation>Track Changes</translation>
     </message>
     <message>
         <source>Insert the Option Button, Check Box and more.</source>
@@ -8623,7 +8624,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"/>
+        <translation>Macros</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -8639,7 +8640,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Solver</source>
-        <translation type="unfinished"/>
+        <translation>Solver</translation>
     </message>
     <message>
         <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
@@ -8647,23 +8648,23 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"/>
+        <translation>Consolidate</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"/>
+        <translation>PivotTable</translation>
     </message>
     <message>
         <source>Text to Columns</source>
-        <translation type="unfinished"/>
+        <translation>Text to Columns</translation>
     </message>
     <message>
         <source>Goal Seek</source>
-        <translation type="unfinished"/>
+        <translation>Goal Seek</translation>
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation type="unfinished"/>
+        <translation>Share Workbook</translation>
     </message>
     <message>
         <source>Developer tools</source>
@@ -8671,7 +8672,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Comment</translation>
     </message>
     <message>
         <source>Insert ghosted text and picture behind the content on the page.</source>
@@ -8679,11 +8680,11 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Watermark</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Export to PDF</translation>
     </message>
     <message>
         <source>Presentation:</source>
@@ -8691,7 +8692,8 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation type="unfinished"/>
+        <translation>Mail 
+Merge</translation>
     </message>
     <message>
         <source>Writer:</source>
@@ -9049,11 +9051,11 @@ Sorry for the inconvenience.</source>
     <name>KxDlgLicense</name>
     <message>
         <source>Agree</source>
-        <translation type="unfinished"/>
+        <translation>Agree</translation>
     </message>
     <message>
         <source>Disagree</source>
-        <translation type="unfinished"/>
+        <translation>Disagree</translation>
     </message>
     <message>
         <source>License</source>
@@ -9267,7 +9269,7 @@ and you can view them in Backup center.</translation>
     </message>
     <message>
         <source>&amp;Download</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Download</translation>
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if needed. If you have installed VBA, please restart WPS Office.</source>
@@ -10126,7 +10128,7 @@ to
     <name>QAbstractSocket</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Host not found</translation>
     </message>
     <message>
         <source>Connection refused</source>
@@ -10157,7 +10159,7 @@ to
     <name>QHostInfoAgent</name>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"/>
+        <translation>Host not found</translation>
     </message>
     <message>
         <source>Unknown address type</source>
