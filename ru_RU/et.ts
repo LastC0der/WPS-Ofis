@@ -5544,11 +5544,11 @@ Columns</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Другие цвета</translation>
+        <translation>Другие цвета заливки</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Другие цвета</translation>
+        <translation>Другие цвета шрифта</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -6496,7 +6496,7 @@ Center</source>
     </message>
     <message>
         <source>Exit Edit</source>
-        <translation>Завершить изменение текста</translation>
+        <translation>Выйти из правки текста</translation>
     </message>
     <message>
         <source>Edit Text</source>
@@ -6610,7 +6610,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Горизонтально</translation>
+        <translation>Горизонтальная</translation>
     </message>
     <message>
         <source>Number Format</source>
@@ -6634,7 +6634,7 @@ merged into one workbook</source>
     </message>
     <message>
         <source>Chart Styles</source>
-        <translation>Стили диаграммы</translation>
+        <translation>Стили диаграмм</translation>
     </message>
     <message>
         <source>Insert Equation After</source>
@@ -7100,7 +7100,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Другие цвета</translation>
+        <translation>Другие цвета шрифта</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -7170,7 +7170,7 @@ into multiple worksheets</source>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation>Другие записи архивации</translation>
+        <translation>Другие записи истории</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -8043,7 +8043,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>BestFit</source>
-        <translation>BestFit</translation>
+        <translation>По ширине данных</translation>
     </message>
     <message>
         <source>AutoSum</source>
@@ -8194,7 +8194,7 @@ merged into one worksheet</source>
     </message>
     <message>
         <source>Format DataLabel</source>
-        <translation>Формат метки данных</translation>
+        <translation>Формат подписей данных</translation>
     </message>
     <message>
         <source>Merge and Center</source>
@@ -8367,7 +8367,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Format Category Label</source>
-        <translation>Формат меток категорий</translation>
+        <translation>Формат подписей категорий</translation>
     </message>
     <message>
         <source>Source Merge worksheets function</source>
@@ -8587,7 +8587,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>TrendLine</source>
-        <translation>Линия тренда</translation>
+        <translation>Линию тренда</translation>
     </message>
     <message>
         <source>Function</source>
@@ -8820,7 +8820,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Format MinorGridline</source>
-        <translation>Формат вспомогательных линий сетки</translation>
+        <translation>Формат промежуточных линий сетки</translation>
     </message>
     <message>
         <source>Left</source>
@@ -9727,7 +9727,7 @@ Center</source>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
-        <translation>Формат зашифрованного документа WPS</translation>
+        <translation>Формат защищенного в Интернете документа WPS</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum time limit was reached.</source>
@@ -16065,7 +16065,7 @@ Painter</source>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>Отзывы и информация о продукции</translation>
+        <translation>Обратная связь и информация о продукте</translation>
     </message>
     <message>
         <source>Print</source>
@@ -16304,7 +16304,7 @@ Painter</source>
     </message>
     <message>
         <source>StandardError</source>
-        <translation>стандартная погрешность</translation>
+        <translation>Стандартная ошибка</translation>
     </message>
     <message>
         <source>Online Chart</source>
@@ -16316,7 +16316,7 @@ Painter</source>
     </message>
     <message>
         <source>HighLowLines</source>
-        <translation>Параметры коридора колебания</translation>
+        <translation>Коридор колебания</translation>
     </message>
     <message>
         <source>DropLinesAndHighLowLines</source>
@@ -16324,7 +16324,7 @@ Painter</source>
     </message>
     <message>
         <source>CenteredOverlay</source>
-        <translation>Наложение по центру</translation>
+        <translation>По центру (наложение)</translation>
     </message>
     <message>
         <source>AddDataLabels</source>
@@ -16444,7 +16444,7 @@ Painter</source>
     </message>
     <message>
         <source>OutsideEnd</source>
-        <translation>У края, снаружи</translation>
+        <translation>У вершины, снаружи</translation>
     </message>
     <message>
         <source>PrimaryMinorHorizontal</source>
@@ -17169,7 +17169,7 @@ Painter</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Сжатие изображений</translation>
+        <translation>Сжать изображение</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -17255,7 +17255,7 @@ Picture</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Тип штриха</translation>
+        <translation>Штрихи</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -18176,7 +18176,7 @@ Center</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Другие цвета</translation>
+        <translation>Другие цвета шрифта</translation>
     </message>
     <message>
         <source>Center</source>
@@ -18641,7 +18641,7 @@ Center</source>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Денежный подарок</translation>
+        <translation>Подключаемый модуль пакета WPS</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -18657,7 +18657,7 @@ Center</source>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Преобразовать все изображения на листе</translation>
+        <translation>Преобразовать все изображения в документе</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18817,7 +18817,7 @@ Other Window</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Горизонтально</translation>
+        <translation>Горизонтальная</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
@@ -18923,7 +18923,8 @@ Side by Side</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Во Весь экран</translation>
+        <translation>Режим 
+чтения</translation>
     </message>
     <message>
         <source>Security</source>
@@ -18935,7 +18936,7 @@ Screen</source>
     </message>
     <message>
         <source>Reset Window Position</source>
-        <translation>Восстановить положение окна</translation>
+        <translation>Восстановить расположение окна</translation>
     </message>
     <message>
         <source>Custom Views</source>
@@ -18947,7 +18948,7 @@ Screen</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикальное</translation>
+        <translation>Вертикальная</translation>
     </message>
     <message>
         <source>Freeze First Column</source>
@@ -18968,7 +18969,8 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>Новое окно</translation>
+        <translation>Новое 
+окно</translation>
     </message>
     <message>
         <source>Show</source>
@@ -18986,7 +18988,7 @@ Window</source>
     <name>ongmani.ct_insert</name>
     <message>
         <source>Links</source>
-        <translation>Ссылки</translation>
+        <translation>Связи</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -19253,7 +19255,7 @@ Pane</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикально</translation>
+        <translation>Вертикальная</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -35391,7 +35393,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>По горизонтали</translation>
+        <translation>Горизонтально</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -35567,7 +35569,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>выбор типа штриха</translation>
+        <translation>Штрихи</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -35583,7 +35585,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Вертикальный</translation>
+        <translation>Вертикально</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -35615,7 +35617,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Text Effects</source>
-        <translation>Анимация:</translation>
+        <translation>Анимация</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -35631,7 +35633,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation>Меню добавления надписей</translation>
+        <translation>Вставить текстовое поле</translation>
     </message>
     <message>
         <source>Text Fill</source>
@@ -37330,7 +37332,8 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Формат по образцу</translation>
+        <translation>Формат по 
+образцу</translation>
     </message>
     <message>
         <source>Error Value </source>
@@ -37499,7 +37502,8 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Экспорт в PDF</translation>
+        <translation>Экспорт 
+в PDF</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -41127,8 +41131,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Восстановить
-рисунок</translation>
+        <translation>Вставить рисунок</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -41148,7 +41151,7 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Другие цвета</translation>
+        <translation>Другие цвета шрифта</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -41680,7 +41683,8 @@ Slicers can&apos;t be used in this version, please update to latest version of W
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Формат по образцу</translation>
+        <translation>Формат по 
+образцу</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -43422,7 +43426,7 @@ On/Off</source>
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Штрих-пунктирная линия</translation>
+        <translation>Штрих-пунктир</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -43454,7 +43458,7 @@ On/Off</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Тип штриха</translation>
+        <translation>Штрихи</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -45914,7 +45918,7 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>CloudLink</translation>
+        <translation>Cloud Link</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
@@ -45922,7 +45926,8 @@ Cloud Docs</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Экспорт в PDF</translation>
+        <translation>Экспорт 
+в PDF</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -45931,7 +45936,7 @@ Cloud Docs</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>Сохранить файл 
-в Cloud сервисе</translation>
+в Cloud Docs</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -47877,7 +47882,7 @@ Table Style</source>
     </message>
     <message>
         <source>WordArt Alignment</source>
-        <translation>Выравнивание фигурного текста</translation>
+        <translation>Выравнивание</translation>
     </message>
     <message>
         <source>Transform</source>
@@ -48316,11 +48321,12 @@ Table Style</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>CloudLink</translation>
+        <translation>Cloud Link</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Экспорт в PDF</translation>
+        <translation>Экспорт 
+в PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -48332,7 +48338,7 @@ Table Style</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Сохранить файл в облачном сервисе</translation>
+        <translation>Сохранить в Cloud Docs</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -49932,7 +49938,7 @@ Document</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation>Режим разработки</translation>
+        <translation>Режим моделирования</translation>
     </message>
     <message>
         <source>Toggle Button</source>
@@ -52999,7 +53005,7 @@ Error: %3
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Вернуться в обычный режим</translation>
+        <translation>Закрыть полноэкранный режим</translation>
     </message>
 </context>
 <context>
