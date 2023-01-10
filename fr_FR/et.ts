@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>&amp;minutes</translation>
+        <translation>mi&amp;nutes</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
@@ -5551,11 +5551,11 @@ automatique</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Autres couleurs</translation>
+        <translation>Autres couleurs de remplissage</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Autres couleurs</translation>
+        <translation>Autres couleurs de police</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -5854,8 +5854,7 @@ et centrer</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Volet 
-Sélection</translation>
+        <translation>Volet Sélection</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -7110,7 +7109,7 @@ automatique</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Autres couleurs</translation>
+        <translation>Autres couleurs de police</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -7130,7 +7129,7 @@ automatique</translation>
     </message>
     <message>
         <source>Online Templates</source>
-        <translation>Modèles en ligne</translation>
+        <translation>Modèles en ligne Docer</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -7180,7 +7179,7 @@ par contenu</translation>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation>Plus d&apos;enregistrements historiques</translation>
+        <translation>Plus d&apos;enregistrements historique</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -7700,7 +7699,7 @@ d&apos;impression</translation>
     </message>
     <message>
         <source>Reset To Fit Style</source>
-        <translation>Rétablir pour correspondre au style</translation>
+        <translation>Réinitialiser pour correspondre au style</translation>
     </message>
     <message>
         <source>Remove Slicers</source>
@@ -8066,7 +8065,8 @@ automatique</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>En-tête et pied de page</translation>
+        <translation>En-tête et 
+pied de page</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -8416,7 +8416,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>Afficher la sauvegarde historique</translation>
+        <translation>Afficher l&apos;historique de sauvegarde</translation>
     </message>
     <message>
         <source>Entire Sheet Row</source>
@@ -8647,7 +8647,7 @@ classeur</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Changer de formes</translation>
+        <translation>Changer de forme</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -8659,7 +8659,7 @@ classeur</translation>
     </message>
     <message>
         <source>More Option...</source>
-        <translation>Autres options...</translation>
+        <translation>Autres Options...</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -8848,7 +8848,7 @@ classeur</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>Afficher le fichier sans échec</translation>
+        <translation>Afficher le document en mode sans échec</translation>
     </message>
     <message>
         <source>Insert Row Before</source>
@@ -16069,7 +16069,7 @@ Painter</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>Commentaires et informations de produit</translation>
+        <translation>Commentaires et informations relatives au produit</translation>
     </message>
     <message>
         <source>Print</source>
@@ -16664,7 +16664,7 @@ les données</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Zone de texte horizontale</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -16905,11 +16905,11 @@ Sélection</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Changer de formes</translation>
+        <translation>Changer de forme</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation>Zone de texte verticale</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -17263,7 +17263,7 @@ Sélection</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Tirets</translation>
+        <translation>Style de tiret</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
@@ -18186,7 +18186,7 @@ centrer</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Autres couleurs</translation>
+        <translation>Autres couleurs de police</translation>
     </message>
     <message>
         <source>Center</source>
@@ -18434,7 +18434,7 @@ scénarios</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Style</translation>
+        <translation>Galerie</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18498,7 +18498,7 @@ scénarios</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation>Synthèse vocale</translation>
+        <translation>Lecture de Texte</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -18574,7 +18574,7 @@ scénarios</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Vérifier les autorisations
+        <translation>Vérifier les autorisations 
 de l&apos;utilisateur</translation>
     </message>
     <message>
@@ -18651,7 +18651,7 @@ de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Enveloppe contenant un bonus</translation>
+        <translation>PluginPackageWps</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -18667,7 +18667,7 @@ de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Convertir toutes les images de la feuille de calcul</translation>
+        <translation>Convertir toutes les images du Document</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18708,7 +18708,7 @@ de l&apos;utilisateur</translation>
     <message>
         <source>Check Mine Permission</source>
         <translation>Vérifier mes
-autorisations</translation>
+autorisation</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -18935,7 +18935,8 @@ côte à côte</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Plein écran</translation>
+        <translation>Plein 
+écran</translation>
     </message>
     <message>
         <source>Security</source>
@@ -18999,7 +19000,7 @@ fenêtre</translation>
     <name>ongmani.ct_insert</name>
     <message>
         <source>Links</source>
-        <translation>Liens</translation>
+        <translation>Liaisons</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -19227,7 +19228,8 @@ Sélection</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>En-tête et pied de page</translation>
+        <translation>En-tête et 
+pied de page</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -19483,7 +19485,7 @@ le classeur</translation>
     </message>
     <message>
         <source>Document Security</source>
-        <translation>Sécurité de
+        <translation>Sécurité de 
 document</translation>
     </message>
     <message>
@@ -19515,8 +19517,7 @@ classeur</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Suivi 
-des modifications</translation>
+        <translation>Suivi des modifications</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -19540,7 +19541,7 @@ des modifications</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Traduction Chinoise</translation>
+        <translation>Conversion</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -19548,7 +19549,7 @@ des modifications</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
-        <translation>Vérifier les autorisations
+        <translation>Vérifier les autorisations 
 de l&apos;utilisateur</translation>
     </message>
     <message>
@@ -19607,11 +19608,11 @@ commentaire</translation>
     <message>
         <source>Check Mine Permission</source>
         <translation>Vérifier mes
-autorisations</translation>
+autorisation</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Vérification de 
+        <translation>Vérifier 
 l&apos;orthographe</translation>
     </message>
     <message>
@@ -35432,7 +35433,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Zone de texte horizontale</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -35492,7 +35493,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Autres couleurs</translation>
+        <translation>Autres couleurs de police</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35608,7 +35609,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Style de ligne</translation>
+        <translation>Tirets</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -35624,7 +35625,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertical</translation>
+        <translation>Zone de texte verticale</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -35684,7 +35685,7 @@ Voulez-vous que WPS Spreadsheets recalcule toutes les formules lorsque ce classe
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Tiret-point-point</translation>
+        <translation>Tiret cadratin-point-point</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -37549,7 +37550,8 @@ automatique</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exporter au format PDF</translation>
+        <translation>Exporter au 
+format PDF</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -40391,7 +40393,7 @@ Sélection</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Style de tiret</translation>
+        <translation>Style de ligne</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -41196,11 +41198,11 @@ Les segments ne peuvent pas être utilisés dans cette version. Mettez à jour v
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Couleurs de remplissage</translation>
+        <translation>Autres couleurs de remplissage</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Autres couleurs</translation>
+        <translation>Autres couleurs de police</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -41787,7 +41789,7 @@ Sélection</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Couleurs de remplissage</translation>
+        <translation>Autres couleurs de remplissage</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -43369,7 +43371,7 @@ l&apos;image</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Couleurs de remplissage</translation>
+        <translation>Autres couleurs de remplissage</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
@@ -43529,7 +43531,7 @@ l&apos;image</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Changer de formes</translation>
+        <translation>Changer de forme</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -45923,7 +45925,7 @@ des utilisateurs</translation>
     <message>
         <source>Open from Cloud Docs</source>
         <translation>Ouvrir à partir de 
-Document Cloud</translation>
+Cloud Docs</translation>
     </message>
     <message>
         <source>IntranetVersion Docer Entrance</source>
@@ -45965,7 +45967,7 @@ Fichiers</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Lien du Cloud</translation>
+        <translation>Share Link</translation>
     </message>
     <message>
         <source>Et Toolbox</source>
@@ -45973,7 +45975,8 @@ Fichiers</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exporter au format PDF</translation>
+        <translation>Exporter au 
+format PDF</translation>
     </message>
     <message>
         <source>Global Search</source>
@@ -45982,7 +45985,7 @@ Fichiers</translation>
     <message>
         <source>Save to Cloud Docs</source>
         <translation>Enregistrer dans 
-Document Cloud</translation>
+Cloud Docs</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -47901,7 +47904,7 @@ le style de tableau</translation>
     </message>
     <message>
         <source>WordArt Vertical Text</source>
-        <translation>Texte vertical</translation>
+        <translation>Texte WordArt vertical</translation>
     </message>
     <message>
         <source>Center</source>
@@ -48367,11 +48370,11 @@ le style de tableau</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Lien du Cloud</translation>
+        <translation>Share Link</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Exporter au
+        <translation>Exporter au 
 format PDF</translation>
     </message>
     <message>
@@ -48384,7 +48387,7 @@ format PDF</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Enregistrer dans Document Cloud</translation>
+        <translation>Enregistrer dans Cloud Docs</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -51371,7 +51374,7 @@ autorisations</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation>Paramètres du document</translation>
+        <translation>paramètres du document</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
@@ -53054,7 +53057,7 @@ Code d&apos;erreur : %3
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Fermer le plein écran</translation>
+        <translation>Quitter le mode plein écran</translation>
     </message>
 </context>
 <context>
