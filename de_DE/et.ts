@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>&amp;Minuten</translation>
+        <translation>Mi&amp;nuten</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
@@ -5512,7 +5512,7 @@ schützen</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
+        <translation>Weitere Füllfarben</translation>
     </message>
     <message>
         <source>More Font Colors</source>
@@ -6117,7 +6117,7 @@ Formatierung</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation>Gruppieren</translation>
+        <translation>Gruppierung</translation>
     </message>
     <message>
         <source>Centered as group</source>
@@ -6350,7 +6350,7 @@ bearbeiten</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Entfernen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Forms</source>
@@ -6676,7 +6676,7 @@ zusammengeführt in einer Arbeitsmappe</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
-        <translation>Automatische Sicherungskopie aktivieren</translation>
+        <translation>Autobackup aktivieren</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
@@ -6714,7 +6714,7 @@ schützen</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Online-Bilder einfügen</translation>
+        <translation>Onlinebilder einfügen</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -7068,7 +7068,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mehre Farben</translation>
+        <translation>Weitere Schriftfarben</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -7092,7 +7092,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>E-Mail versenden</translation>
+        <translation>E-Mail senden</translation>
     </message>
     <message>
         <source>Remove Radical</source>
@@ -7363,7 +7363,7 @@ Nach Inhalt</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
-        <translation>Automatische Sicherungskopie deaktivieren</translation>
+        <translation>Automatische Sicherung deaktivieren</translation>
     </message>
     <message>
         <source>Rotate Right 90°</source>
@@ -8021,7 +8021,8 @@ freigeben</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und Fußzeile</translation>
+        <translation>Kopf- und 
+Fußzeile</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -8046,7 +8047,7 @@ freigeben</translation>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>Produkt-Management-Center</translation>
+        <translation>Produktmanagement-Center</translation>
     </message>
     <message>
         <source>Primary Major Vertical</source>
@@ -8370,7 +8371,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>View Historical Backup</source>
-        <translation>Historische Sicherungskopie anzeigen</translation>
+        <translation>Sicherungsversionen Untersuchen</translation>
     </message>
     <message>
         <source>Entire Sheet Row</source>
@@ -8601,7 +8602,7 @@ schützen</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Formen ändern</translation>
+        <translation>Form ändern</translation>
     </message>
     <message>
         <source>Chart Objects</source>
@@ -8802,7 +8803,7 @@ schützen</translation>
     </message>
     <message>
         <source>View File Safe</source>
-        <translation>Datei Sicherung anzeigen</translation>
+        <translation>Datei sicher anzeigen</translation>
     </message>
     <message>
         <source>Insert Row Before</source>
@@ -16014,7 +16015,7 @@ Painter</source>
     </message>
     <message>
         <source>Feedback and Product Information</source>
-        <translation>Feedback und Produkt Information</translation>
+        <translation>Feedback und Produktinformationen</translation>
     </message>
     <message>
         <source>Print</source>
@@ -16606,7 +16607,7 @@ Painter</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Horizontales Textfeld</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -16830,7 +16831,7 @@ Painter</source>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation>Strich-Stil</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
@@ -16846,11 +16847,11 @@ Painter</source>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Formen ändern</translation>
+        <translation>Form ändern</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation>Vertikales Textfeld</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -17041,7 +17042,7 @@ Painter</source>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Weitere Füllfarben</translation>
+        <translation>Mehr Füllfarben</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -18371,7 +18372,7 @@ zentrieren</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Stil</translation>
+        <translation>Galerie</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18588,7 +18589,7 @@ zentrieren</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Glücksgeld</translation>
+        <translation>WPS-Paket-Plugin</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -18604,7 +18605,7 @@ zentrieren</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Alle Bilder im Arbeitsblatt konvertieren</translation>
+        <translation>Alle Bilder im Dokument konvertieren</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18644,7 +18645,7 @@ zentrieren</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Meine Berechtigungen 
+        <translation>Meine Berechtigung 
 überprüfen</translation>
     </message>
     <message>
@@ -18871,7 +18872,7 @@ Side by Side</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Vollbild</translation>
+        <translation>Vollbildgröße</translation>
     </message>
     <message>
         <source>Security</source>
@@ -18916,8 +18917,7 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>Neues
-Fenster</translation>
+        <translation>Neues Fenster</translation>
     </message>
     <message>
         <source>Show</source>
@@ -18935,7 +18935,7 @@ Fenster</translation>
     <name>ongmani.ct_insert</name>
     <message>
         <source>Links</source>
-        <translation>Links</translation>
+        <translation>Verknüpfungen</translation>
     </message>
     <message>
         <source>Tables</source>
@@ -19162,7 +19162,7 @@ auswählen</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Kopf- und Fußzeile</translation>
+        <translation>Kopf-/Fußzeile</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -19449,8 +19449,7 @@ Arbeitsmappe</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Änderungen
-verfolgen</translation>
+        <translation>Änderungen Nachverfolgen</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -19474,7 +19473,7 @@ verfolgen</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Chinesische Übersetzung</translation>
+        <translation>Konvertierung</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -19529,7 +19528,7 @@ Workbook</source>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Kommentar
+        <translation>Kommentar 
 löschen</translation>
     </message>
     <message>
@@ -19540,7 +19539,7 @@ Kommentar</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
-        <translation>Meine Berechtigungen 
+        <translation>Meine Berechtigung 
 überprüfen</translation>
     </message>
     <message>
@@ -35372,11 +35371,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
+        <translation>Weitere Füllfarben</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mehr Schriftfarben</translation>
+        <translation>Weitere Schriftfarben</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -35456,7 +35455,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Dash-Dot</source>
-        <translation>Strichpunkt</translation>
+        <translation>Strichlinie Punkt</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -35500,7 +35499,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Long Dash-Dot</source>
-        <translation>Langer Strichpunkt</translation>
+        <translation>Langer Strich-Punkt</translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -35508,7 +35507,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation>Vertikales Textfeld</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -35556,7 +35555,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Insert Textbox</source>
-        <translation>Textfeld einfügen</translation>
+        <translation>Textfeldmenü einfügen</translation>
     </message>
     <message>
         <source>Text Fill</source>
@@ -35568,7 +35567,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     </message>
     <message>
         <source>Dash-Dot-Dot</source>
-        <translation>Langer Strich-Punkt-Punkt</translation>
+        <translation>Langer Strichpunkt-Punkt</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -37433,7 +37432,8 @@ Wenn Sie dieses Feldkontrollkästchen leer lassen und dann auf „OK“ klicken,
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>In PDF exportieren</translation>
+        <translation>Als PDF 
+exportieren</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -40061,7 +40061,7 @@ Ein</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
+        <translation>Weitere Füllfarben</translation>
     </message>
     <message>
         <source>Word Justify</source>
@@ -40271,7 +40271,7 @@ Form</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Strichart</translation>
+        <translation>Strich-Stil</translation>
     </message>
     <message>
         <source>Fade Down</source>
@@ -40992,7 +40992,7 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Onlinebild einfügen</translation>
+        <translation>Onlinebilder einfügen</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
@@ -41076,11 +41076,11 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
+        <translation>Weitere Füllfarben</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Mehr Schriftfarben</translation>
+        <translation>Weitere Schriftfarben</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -41666,7 +41666,7 @@ Datenschnitte können in dieser Version nicht verwendet werden, bitte aktualisie
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Mehre Füllfarben</translation>
+        <translation>Weitere Füllfarben</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -43162,15 +43162,15 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation>2.25 pt</translation>
+        <translation>2,25 pt</translation>
     </message>
     <message>
         <source>0.25 pt.</source>
-        <translation>0.25 pt</translation>
+        <translation>0,25 pt</translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation>0.75 pt</translation>
+        <translation>0,75 pt</translation>
     </message>
     <message>
         <source>Align Middle</source>
@@ -43226,7 +43226,7 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation>0.5 pt</translation>
+        <translation>0,5 pt</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
@@ -43250,7 +43250,7 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation>1.5 pt</translation>
+        <translation>1,5 pt</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -43326,7 +43326,7 @@ Ein/Aus</translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation>4.5 pt</translation>
+        <translation>4,5 pt</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -45772,7 +45772,7 @@ Number of values that were not replaced because they are in read-only rich data:
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Benutzerfeedback </translation>
+        <translation>Benutzerfeedbacks</translation>
     </message>
     <message>
         <source>Invoice Maker</source>
@@ -48239,7 +48239,7 @@ Table Style</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Als PDF exportieren</translation>
+        <translation>In PDF exportieren</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -48251,7 +48251,7 @@ Table Style</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>In Cloud Docs speichern</translation>
+        <translation>In der Cloud speichern</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -52919,7 +52919,7 @@ Fehlercode: %3
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
-        <translation>Ganzer Bildschirm schließen</translation>
+        <translation>Vollbildmodus schließen</translation>
     </message>
 </context>
 <context>
