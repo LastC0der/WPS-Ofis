@@ -1024,7 +1024,7 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     </message>
     <message>
         <source>&amp;Open backup file</source>
-        <translation>Buka file cadangan</translation>
+        <translation>Buka file cadangan </translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook (*.xlsx)</source>
@@ -5548,11 +5548,11 @@ Lembar</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
-        <translation>Warna Lainnya</translation>
+        <translation>Warna Isian Lainnya</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Warna Lainnya</translation>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -5851,8 +5851,7 @@ Tengahkan</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Panel 
-Pilihan</translation>
+        <translation>Panel Pilihan</translation>
     </message>
     <message>
         <source>Data Bars</source>
@@ -7105,7 +7104,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Warna Lainnya</translation>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Delete Sheet</source>
@@ -8060,7 +8059,8 @@ Kerja</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Header dan 
+Footer</translation>
     </message>
     <message>
         <source>Clear Contents</source>
@@ -8516,7 +8516,7 @@ Sesuai Sheet</translation>
     </message>
     <message>
         <source>Add MajorGridline</source>
-        <translation>Tambahkan Garis Kisi Utama</translation>
+        <translation>Tambahkan Garis Kisi Besar</translation>
     </message>
     <message>
         <source>Backup Management</source>
@@ -8533,7 +8533,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Secondary Minor Vertial</source>
-        <translation>Vertikal Minor Sekunder</translation>
+        <translation>Vertikal Minor Kedua</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -9022,7 +9022,7 @@ Buku Kerja</translation>
     </message>
     <message>
         <source>Primary Minor Vertial</source>
-        <translation>Vertikal Minor Primer</translation>
+        <translation>Vertikal Minor Utama</translation>
     </message>
     <message>
         <source>Primary Vertical</source>
@@ -16181,7 +16181,7 @@ Format</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Bagi</translation>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>Document Encryption</source>
@@ -16268,7 +16268,7 @@ Format</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
-        <translation>Garis tren</translation>
+        <translation>Garis Tren</translation>
     </message>
     <message>
         <source>PrimaryVerticalAxis</source>
@@ -16325,7 +16325,7 @@ Jenis Bagan</translation>
     </message>
     <message>
         <source>SecondaryMinorVertial</source>
-        <translation>Vertikal Minor Sekunder</translation>
+        <translation>Vertikal Minor Kedua</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -16377,7 +16377,7 @@ Jenis Bagan</translation>
     </message>
     <message>
         <source>PrimaryMinorVertial</source>
-        <translation>Vertikal Minor Primer</translation>
+        <translation>Vertikal Minor Utama</translation>
     </message>
     <message>
         <source>AddAxis</source>
@@ -16390,7 +16390,7 @@ Baris/Kolom</translation>
     </message>
     <message>
         <source>AddGridLine</source>
-        <translation>Garis kisi</translation>
+        <translation>Garis Kisi</translation>
     </message>
     <message>
         <source>BestFit</source>
@@ -16656,7 +16656,7 @@ Warna</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Kotak Teks Horizontal</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -16901,7 +16901,7 @@ Pilihan</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation>Kotak Teks Vertikal</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -17169,7 +17169,8 @@ Gambar</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Kompres Gambar</translation>
+        <translation>Padatkan 
+Gambar</translation>
     </message>
     <message>
         <source>More Lines</source>
@@ -18176,7 +18177,7 @@ Tengahkan</translation>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Warna Lainnya</translation>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Center</source>
@@ -18323,7 +18324,7 @@ Tengahkan</translation>
     </message>
     <message>
         <source>Feedback and Advice</source>
-        <translation>Masukan</translation>
+        <translation>Masukan dan Saran</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -18367,7 +18368,7 @@ Tengahkan</translation>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>Buat Tautan Berbagi</translation>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>All Comments</source>
@@ -18424,7 +18425,7 @@ Bagaimana-Jika</translation>
     </message>
     <message>
         <source>New Doc Gallery</source>
-        <translation>Gaya</translation>
+        <translation>Galeri</translation>
     </message>
     <message>
         <source>Help And QA</source>
@@ -18488,8 +18489,7 @@ Bagaimana-Jika</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation>Ucapan 
-Teks</translation>
+        <translation>Ucapan Teks</translation>
     </message>
     <message>
         <source>PDFCompress</source>
@@ -18517,7 +18517,7 @@ Teks</translation>
     </message>
     <message>
         <source>File Share</source>
-        <translation>Bagi</translation>
+        <translation>Bagi File</translation>
     </message>
     <message>
         <source>Online Picture Gallery</source>
@@ -18642,7 +18642,7 @@ Pengguna</translation>
     </message>
     <message>
         <source>WpsPackagePlugin</source>
-        <translation>Uang Keberuntungan</translation>
+        <translation>Wps Package Plugin</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -18658,7 +18658,7 @@ Pengguna</translation>
     </message>
     <message>
         <source>Photo2PdfConvertAll</source>
-        <translation>Konversi Semua Gambar dalam Worksheet</translation>
+        <translation>Konversi Semua Gambar dalam Document</translation>
     </message>
     <message>
         <source>Photo2PdfConvertOne</source>
@@ -18686,7 +18686,7 @@ Pengguna</translation>
     </message>
     <message>
         <source>GroupSending</source>
-        <translation>Kirim ke Grup</translation>
+        <translation>Kirim ke grup</translation>
     </message>
     <message>
         <source>Add or view comments in your document.</source>
@@ -18926,7 +18926,8 @@ Secara Berdampingan</translation>
     <message>
         <source>Full 
 Screen</source>
-        <translation>Layar Penuh</translation>
+        <translation>Layar 
+Penuh</translation>
     </message>
     <message>
         <source>Security</source>
@@ -18971,8 +18972,7 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>Jendela
-Baru</translation>
+        <translation>Jendela Baru</translation>
     </message>
     <message>
         <source>Show</source>
@@ -19098,7 +19098,8 @@ Pilihan</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Sisipkan Gambar</translation>
+        <translation>Sisipkan 
+Gambar</translation>
     </message>
     <message>
         <source>Combo Box</source>
@@ -19218,7 +19219,8 @@ Pilihan</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Header/Footer</translation>
+        <translation>Header dan 
+Footer</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -19505,8 +19507,7 @@ Buku Kerja</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Lacak
-Perubahan</translation>
+        <translation>Lacak Perubahan</translation>
     </message>
     <message>
         <source>Reset Comment</source>
@@ -19530,7 +19531,7 @@ Perubahan</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
-        <translation>Terjemahan Bahasa Cina</translation>
+        <translation>Konversi</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -19601,7 +19602,7 @@ Saya</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Pemeriksaan 
+        <translation>Cek 
 Ejaan</translation>
     </message>
     <message>
@@ -20982,8 +20983,7 @@ Mode Desain</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Lihat 
-Kode</translation>
+        <translation>Lihat Kode</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -35003,7 +35003,7 @@ Bersyarat</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation>Ada kesalahan saat membuka file OFD ini.</translation>
+        <translation>Mengalami kesalahan saat membuka file OFD.</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -35424,7 +35424,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Horizontal</translation>
+        <translation>Kotak Teks Horizontal</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -35616,7 +35616,7 @@ Anda ingin WPS Spreadsheets menghitung ulang semua formula saat buku kerja ini d
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Vertikal</translation>
+        <translation>Kotak Teks Vertikal</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -37541,7 +37541,8 @@ Jika Anda menghapus semua teks di kotak centang Ruas, dan mengeklik OK, semua fi
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Ekspor ke PDF</translation>
+        <translation>Ekspor 
+ke PDF</translation>
     </message>
     <message>
         <source>WeChat Customer Service</source>
@@ -41191,7 +41192,7 @@ Pengiris tidak didukung dalam versi ini. Perbarui ke versi terbaru WPS Office.</
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Warna Lainnya</translation>
+        <translation>Warna Font Lainnya</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -41392,7 +41393,7 @@ Pilihan</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Gaya Putus-putus</translation>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>3-D Style 1</source>
@@ -41883,7 +41884,7 @@ Pilihan</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Gaya Putus-putus</translation>
+        <translation>Putus-putus</translation>
     </message>
     <message>
         <source>Graphic Fill</source>
@@ -43643,7 +43644,7 @@ Pilihan</translation>
     </message>
     <message>
         <source>RightToLeft Layout</source>
-        <translation>Kanan ke kiri</translation>
+        <translation>Kanan ke Kiri</translation>
     </message>
     <message>
         <source>Insert assist</source>
@@ -45844,7 +45845,7 @@ Gambar</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation>Kirim ke Seluler</translation>
+        <translation>Kirim ke seluler</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -48364,7 +48365,8 @@ Baca</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Ekspor ke PDF</translation>
+        <translation>Ekspor 
+ke PDF</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -51363,7 +51365,7 @@ Saya</translation>
     </message>
     <message>
         <source>document set</source>
-        <translation>Pengaturan dokumen</translation>
+        <translation>pengaturan dokumen</translation>
     </message>
     <message>
         <source>Normal Encryption</source>
