@@ -4624,7 +4624,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>İleti</translation>
     </message>
     <message>
         <source>How to input page?</source>
@@ -10382,7 +10382,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>İleti</translation>
     </message>
 </context>
 <context>
