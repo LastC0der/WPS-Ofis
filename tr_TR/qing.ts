@@ -2885,7 +2885,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Users</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcılar</translation>
     </message>
     <message>
         <source>Clear all tags</source>
@@ -2893,19 +2893,19 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Push message type:</source>
-        <translation type="unfinished"/>
+        <translation>Anında ileti türü:</translation>
     </message>
     <message>
         <source>Subscribe tag failed.</source>
-        <translation type="unfinished"/>
+        <translation>Abone olma etiketi başarısız oldu.</translation>
     </message>
     <message>
         <source>Push messages received:</source>
-        <translation type="unfinished"/>
+        <translation>Alınan anında iletiler:</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>İleti</translation>
     </message>
     <message>
         <source>Device type:</source>
