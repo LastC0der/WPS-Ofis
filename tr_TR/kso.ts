@@ -22286,11 +22286,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Horizon</source>
-        <translation type="unfinished"/>
+        <translation>Ufuk</translation>
     </message>
     <message>
         <source>Calligraphy</source>
-        <translation type="unfinished"/>
+        <translation>Kaligrafi</translation>
     </message>
 </context>
 <context>
@@ -22545,7 +22545,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Horizon</source>
-        <translation type="unfinished"/>
+        <translation>Ufuk</translation>
     </message>
     <message>
         <source>ChromeII</source>
@@ -22568,7 +22568,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished"/>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
@@ -34691,19 +34691,19 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>IVTTS - failed to assign unicode input-codepage.</source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - unicode giriş kod sayfası atanamadı.</translation>
     </message>
     <message>
         <source>IVTTS - failed to open voice resource.</source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - ses kaynağı açılamadı.</translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice speed: </source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - ses hızı ayarlanamadı: </translation>
     </message>
     <message>
         <source>IVTTS - failed to set preferences for number pronunciation: </source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - sayı telaffuzu için tercihler ayarlanamadı: </translation>
     </message>
     <message>
         <source>IVTTS - failed to destroy TTS session.</source>
@@ -34711,11 +34711,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>IVTTS - failed to assign output callback.</source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - çıkış geri araması atanamadı.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign normal reading style.</source>
-        <translation type="unfinished"/>
+        <translation>IVTTS - normal okuma stili atanamadı.</translation>
     </message>
 </context>
 <context>
