@@ -4304,7 +4304,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCreationGuidePane</name>
     <message>
         <source>Set as default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan olarak ayarla</translation>
     </message>
     <message>
         <source>No more show</source>
