@@ -416,7 +416,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>View Menu</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm Menüsü</translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
@@ -440,7 +440,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Search Title</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Bilgisayar&quot; Arama Sonuçları</translation>
     </message>
     <message>
         <source>Shares received of cloud disk</source>
