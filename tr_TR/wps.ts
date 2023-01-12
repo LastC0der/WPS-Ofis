@@ -38758,7 +38758,7 @@ Numarası</translation>
     <message>
         <source>Switch UI</source>
         <comment>Personal Version</comment>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Arayüzü Değiştir</translation>
     </message>
 </context>
 <context>
@@ -42080,11 +42080,11 @@ Modu</translation>
     </message>
     <message>
         <source>Move U&amp;p</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;ukarı Taşı</translation>
     </message>
     <message>
         <source>Move Do&amp;wn</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;şağı Taşı</translation>
     </message>
     <message>
         <source>&amp;Gallery:</source>
@@ -43561,7 +43561,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>MAIL_TEXT_TOO_LARGE</source>
-        <translation type="unfinished"/>
+        <translation>Posta gövdesinin uzunluğu sınırı aşıyor.</translation>
     </message>
     <message>
         <source>MAIL_TOO_MANY_RECIPIENTS</source>
@@ -43577,7 +43577,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>554 HL:IHU</source>
-        <translation type="unfinished"/>
+        <translation>Gönderenin IP&apos;si, spam gönderilmesi veya olağandışı bağlantı davranışları nedeniyle geçici olarak askıya alınır.</translation>
     </message>
     <message>
         <source>421 HL:IFC</source>
