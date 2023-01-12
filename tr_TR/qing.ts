@@ -11228,15 +11228,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>You can not access the modify record of cloud file when you log out. Clearing records will further protect you privacy</source>
-        <translation type="unfinished"/>
+        <translation>Oturumu kapattıktan sonra Bulut belgesinin erişim kaydını göremezsiniz, bu da gizliliğinizi daha da koruyacaktır.</translation>
     </message>
     <message>
         <source>do not clear the datum</source>
-        <translation type="unfinished"/>
+        <translation>Silme</translation>
     </message>
     <message>
         <source>Clear the user configuration information saved by the current device</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli cihaz tarafından erişilen Bulut belge kayıtlarını temizleyin.</translation>
     </message>
     <message>
         <source>Confirm to quit the account</source>
@@ -11252,7 +11252,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Clear the cache file of the current device on the WPS Cloud Disk</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli cihazın WPS Bulut Depolama önbellek dosyalarını temizleyin</translation>
     </message>
     <message>
         <source>When you log in again, it will take a few more minutes to access files on Cloud Disk</source>
