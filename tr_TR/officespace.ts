@@ -2349,7 +2349,7 @@ Current document need save to cloud first</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tür</translation>
     </message>
     <message>
         <source>%1 GB</source>
