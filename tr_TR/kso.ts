@@ -18725,11 +18725,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Symlink to Special</source>
-        <translation type="unfinished"/>
+        <translation>Özel sistem bağlantısı</translation>
     </message>
     <message>
         <source>Select a Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Seçin</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -18745,7 +18745,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Dizin:</translation>
+        <translation>Konum:</translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -26401,7 +26401,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Dizin:</translation>
+        <translation>Konum:</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -27584,7 +27584,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Best &amp;Fit</source>
-        <translation type="unfinished"/>
+        <translation>En &amp;Uygun</translation>
     </message>
     <message>
         <source>&amp;X value</source>
@@ -28901,7 +28901,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm Menüsü</translation>
     </message>
     <message>
         <source>SaveCloud</source>
@@ -28941,7 +28941,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Search Title</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Bilgisayar&quot; Arama Sonuçları</translation>
     </message>
     <message>
         <source>Open Local Document</source>
@@ -28956,7 +28956,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished"/>
+        <translation>Denetleniyor...</translation>
     </message>
     <message>
         <source>Problems below are detected in the system.</source>
