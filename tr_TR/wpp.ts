@@ -29417,11 +29417,11 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Extend Windows desktop to the selected monitor</source>
-        <translation type="unfinished"/>
+        <translation>Windows masaüstünü seçilen monitöre genişletin</translation>
     </message>
     <message>
         <source>Set screen resolution and color quality</source>
-        <translation type="unfinished"/>
+        <translation>Ekran çözünürlüğünü ve renk kalitesini ayarlama</translation>
     </message>
     <message>
         <source>Use the current monitor as the primary monitor</source>
@@ -29782,7 +29782,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük geçersiz karakterler içeriyor.</translation>
     </message>
 </context>
 <context>
@@ -29793,26 +29793,26 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     </message>
     <message>
         <source>WPS Presentation reached the end of the slide. Do you want to continue from the beginning?</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum slaytın sonuna geldi. Baştan devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>WPS Presentation reached the beginning of the slide. Do you want to continue from the end?</source>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum slaytın başına geldi. Sondan devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Delete all comments and ink annotations in this presentation?</source>
-        <translation type="unfinished"/>
+        <translation>Bu sunudaki tüm açıklamalar ve mürekkep ek açıklamaları silinsin mi?</translation>
     </message>
 </context>
 <context>
     <name>KxReplaceFontDlg</name>
     <message>
         <source>Document does not have the font %1!</source>
-        <translation type="unfinished"/>
+        <translation>Belge %1 yazı tipine sahip değil!</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system, so a substitute is being displayed. Do you want to use this font anyway?</source>
-        <translation type="unfinished"/>
+        <translation>%1 yazı tipi sisteminizde yok, bu nedenle yedek bir yazı tipi görünüyor. Yine de bu yazı tipini kullanmak istiyor musunuz?</translation>
     </message>
 </context>
 <context>
@@ -29826,7 +29826,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxKsoTableStyleItem</name>
     <message>
         <source>Set As Default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Olarak Ayarla</translation>
     </message>
 </context>
 <context>
@@ -29868,7 +29868,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>DlgWppAnimationEffects</name>
     <message>
         <source>&amp;Preview Effects</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Önizleme Efektleri</translation>
     </message>
     <message>
         <source>Add Effects</source>
