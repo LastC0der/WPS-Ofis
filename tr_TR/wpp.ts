@@ -100,11 +100,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>The number must be 1, 2, 3,or 4.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 1, 2, 3 veya 4 olmalıdır.</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation type="unfinished"/>
+        <translation>Sayı 1 veya 2 olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -127,7 +127,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Fit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sığdır</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -569,7 +569,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Print scale to &amp;fit paper</source>
-        <translation type="unfinished"/>
+        <translation>Kağıt sığdırmak için &amp;ölçek</translation>
     </message>
     <message>
         <source>Kee&amp;p cache for 30 days</source>
