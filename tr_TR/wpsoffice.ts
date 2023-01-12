@@ -3278,11 +3278,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Symlink to Special</source>
-        <translation type="unfinished"/>
+        <translation>Özel sistem bağlantısı</translation>
     </message>
     <message>
         <source>Select a Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Seçin</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -3298,7 +3298,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Dizin:</translation>
+        <translation>Konum:</translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -4841,7 +4841,7 @@ Please verify the correct directory name was given.</source>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Dizin:</translation>
+        <translation>Konum:</translation>
     </message>
     <message>
         <source>Unknown</source>
