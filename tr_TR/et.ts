@@ -5884,7 +5884,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Source Merge worksheets function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Birden çok sayfayı tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Text that Contains</source>
@@ -8352,7 +8352,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Source Merge worksheets function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Birden çok sayfayı tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Keep Source Column Widths</source>
@@ -14728,7 +14728,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Source Merge worksheets function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Birden çok sayfayı tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Screen Grab Rounded Rect</source>
@@ -17559,7 +17559,7 @@ with same name in workbooks</source>
     </message>
     <message>
         <source>Source Merge worksheets function</source>
-        <translation type="unfinished"/>
+        <translation>Önceki ad: Birden çok sayfayı tek bir sayfada birleştirin.</translation>
     </message>
     <message>
         <source>Get External Data</source>
@@ -44752,15 +44752,15 @@ Bu da çalışma kitabı birleştirmeye izin verir.</translation>
     </message>
     <message>
         <source>To search for &quot;~&quot;, please enter &quot;~~&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;~&quot; aramak için lütfen &quot;~~&quot; girin.</translation>
     </message>
     <message>
         <source>To search for &quot;?&quot;, please enter &quot;~?&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;?&quot; aramak için lütfen &quot;~?&quot; girin.</translation>
     </message>
     <message>
         <source>To search for &quot;*&quot;, please enter &quot;~*&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;*&quot; aramak için lütfen &quot;~*&quot; girin.</translation>
     </message>
     <message>
         <source>Clea&amp;r Find Format</source>
@@ -55206,7 +55206,7 @@ To make changes, click Unprotect Sheet in the Review tab (You might need a passw
     <name>KxTableStyleSetDefaultTriggerCommand</name>
     <message>
         <source>Set As Default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Olarak Ayarla</translation>
     </message>
 </context>
 <context>
