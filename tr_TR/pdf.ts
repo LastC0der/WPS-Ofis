@@ -13662,7 +13662,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>PDF to Picture</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Resme</translation>
     </message>
 </context>
 <context>
