@@ -17333,7 +17333,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Picture Batch to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü formatındaki dosyaları toplu olarak PDF&apos;ye dönüştürün</translation>
     </message>
 </context>
 <context>
