@@ -10071,7 +10071,7 @@ yazılamadı</translation>
     <name>KSyncFolderSameNameFolderExistWidget</name>
     <message>
         <source>cloud</source>
-        <translation type="unfinished"/>
+        <translation>bulut</translation>
     </message>
     <message>
         <source>local</source>
