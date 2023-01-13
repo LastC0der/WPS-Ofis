@@ -20379,7 +20379,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Picture Batch to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü formatındaki dosyaları toplu olarak PDF&apos;ye dönüştürün</translation>
     </message>
 </context>
 <context>
@@ -22468,7 +22468,7 @@ Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
 </context>
 <context>
