@@ -2256,7 +2256,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KLocationListBottomWidget</name>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Bulut</translation>
     </message>
     <message>
         <source>google</source>
@@ -4703,7 +4703,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KCreationAreaEntry</name>
     <message>
         <source>PDF to Picture</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den Resme</translation>
     </message>
 </context>
 </TS>
