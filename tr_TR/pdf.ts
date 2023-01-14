@@ -4573,11 +4573,11 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"/>
+        <translation>Tek numaralı sayfa</translation>
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"/>
+        <translation>Çift numaralı sayfa</translation>
     </message>
     <message>
         <source>CheckBox</source>
