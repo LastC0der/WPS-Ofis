@@ -14665,7 +14665,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Document id</source>
-        <translation type="unfinished"/>
+        <translation>Belge Kimliği</translation>
     </message>
     <message>
         <source>Client</source>
@@ -22711,7 +22711,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Document id</source>
-        <translation type="unfinished"/>
+        <translation>Belge Kimliği</translation>
     </message>
     <message>
         <source>&amp;Comments:</source>
