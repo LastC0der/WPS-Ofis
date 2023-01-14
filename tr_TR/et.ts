@@ -4761,28 +4761,28 @@ Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan 
     </message>
     <message>
         <source>Result Dir</source>
-        <translation type="unfinished"/>
+        <translation>Sonuç Kaydetme Klasörü</translation>
     </message>
     <message>
         <source>Data Out of Range</source>
-        <translation type="unfinished"/>
+        <translation>Veri Aralık Dışında</translation>
     </message>
     <message>
         <source>Has No Unique Data</source>
-        <translation type="unfinished"/>
+        <translation>Benzersiz Veri Yok</translation>
     </message>
     <message>
         <source>%s Sheet Not Exist</source>
-        <translation type="unfinished"/>
+        <translation>%s çalışma sayfası mevcut değil.</translation>
     </message>
     <message>
         <source>%s File Open Failed</source>
-        <translation type="unfinished"/>
+        <translation>%s dosyası açılamadı.</translation>
     </message>
     <message>
         <source>Reference is invalid.</source>
         <comment>TX_ERROR_INVALID_REFERENCE</comment>
-        <translation type="unfinished"/>
+        <translation>Başvuru geçersiz.</translation>
     </message>
     <message>
         <source>Max</source>
@@ -4797,7 +4797,7 @@ Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan 
     <message>
         <source>The merged cells cannot be sorted.</source>
         <comment>TX_ERROR_MERGECELLINSORT</comment>
-        <translation type="unfinished"/>
+        <translation>Birleştirilen hücreler sıralanamaz.</translation>
     </message>
 </context>
 <context>
