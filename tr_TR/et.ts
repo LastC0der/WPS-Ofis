@@ -27712,7 +27712,7 @@ Please check the login account. If the account is correct, please ask the docume
     </message>
     <message>
         <source>Collate</source>
-        <translation>Harmanla</translation>
+        <translation>Baskıyı harmanla</translation>
     </message>
     <message>
         <source>Columns</source>
