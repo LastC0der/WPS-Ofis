@@ -18019,7 +18019,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Collate</source>
-        <translation>Harmanla</translation>
+        <translation>Baskıyı harmanla</translation>
     </message>
     <message>
         <source>Copies:</source>
