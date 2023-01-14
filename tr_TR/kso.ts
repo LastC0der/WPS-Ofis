@@ -19086,7 +19086,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show hierarchical relationships progressing horizontally. Works well for decision trees.</source>
-        <translation type="unfinished"/>
+        <translation>Yatay olarak ilerleyen hiyerarşik ilişkileri göstermek için kullanın. Karar ağaçlarında iyi sonuç verir.</translation>
     </message>
     <message>
         <source>Use to show containment, proportional, or interconnected relationships. The first nine lines of Level 1 text appear in the triangular shapes. Unused text does not appear, but remains available if you switch layouts. Works best with Level 1 text only.</source>
@@ -19150,7 +19150,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a series of pictures from top to bottom. Text appears alternately on the right or left of the picture.</source>
-        <translation type="unfinished"/>
+        <translation>Yukarıdan aşağıya bir dizi resim göstermek için kullanın. Metinler resimlerin bir sağında, bir solunda görünür.</translation>
     </message>
     <message>
         <source>Basic Matrix</source>
@@ -19190,11 +19190,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show the relationship of components to a whole in quadrants. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Çeyrek dairelerde bileşenlerin bütünle ilişkisini göstermek için kullanın. Düzey 1 metninin ilk dört satırı çeyrek dairelerin içinde görünür. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ilerlemeyi veya sıralı adımları göstermek için kullanın. Şekillerin hem yatay hem dikey görüntüleme alanlarını en büyük duruma getirir.</translation>
     </message>
     <message>
         <source>Alternating Picture Blocks</source>
@@ -19234,7 +19234,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show the relationships of four quadrants to a whole. The first line of Level 1 text corresponds to the central shape, and the first four lines of Level 2 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Dört çeyrek dairenin bütünle ilişkilerini göstermek için kullanın. Düzey 1 metninin ilk satırı merkezi şekle karşılık gelir ve Düzey 2 metninin ilk dört satırı çeyrek dairelerin içinde görünür. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Simple Fill.</source>
@@ -19246,11 +19246,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Emphasizes Level 2 text over Level 1 text, and is a good choice for large amounts of Level 2 text.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ilerlemeyi veya sıralı adımları göstermek için kullanın. Çok az Düzey 1 ve Düzey 2 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show a series of up to five pictures with corresponding Level 1 captions that spiral in to the center. </source>
-        <translation type="unfinished"/>
+        <translation>İçinde, resimlere karşılık gelen Düzey 1 resim yazıları merkeze doğru sarmal şeklinde ilerleyen beş resme kadar resim bulunan bir resim dizisini göstermek için kullanın.</translation>
     </message>
     <message>
         <source>Bending Picture Caption</source>
@@ -19270,7 +19270,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show the relationship to a central idea in a cyclical progression. Each of the first four lines of Level 1 text corresponds to a wedge or pie shape, and Level 2 text appears in a rectangular shape to the side of the wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Döngüsel bir ilerlemede merkezdeki görüşle ilişkiyi göstermek için kullanın. Düzey 1 metninin ilk dört satırının her biri bir üçgen veya pasta şekline karşılık gelir ve Düzey 2 metni üçgen veya pasta şeklinin yanında dikdörtgen şeklinin içinde görüntülenir. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Upward Arrow</source>
@@ -19278,7 +19278,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ilerlemeyi veya sıralı adımları göstermek için kullanın.</translation>
     </message>
     <message>
         <source>Use to show a progression through several processes that make up an overall workflow. Also works for illustrating contrasting processes. The Level 1 text corresponds to the first arrow shape on the left, while the Level 2 text corresponds to horizontal sub-steps for each shape that contains Level 1 text.</source>
@@ -19302,7 +19302,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show two opposing or contrasting ideas. Can have one or two Level 1 items. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text.</source>
-        <translation type="unfinished"/>
+        <translation>Zıt veya karşılıklı iki fikri göstermek için kullanın. Bir veya iki Düzey 1 öğe olabilir. Her Düzey 1 metin birden fazla alt düzey içerebilir. Büyük miktarda metinle iyi sonuç verir.</translation>
     </message>
     <message>
         <source>Opposing Arrows</source>
@@ -19326,7 +19326,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes. Places more emphasis on the interrelationships among the shapes than on direction or movement.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ilerlemeyi veya sıralı adımları göstermek için kullanın. Şekillerin hem yatay hem dikey görüntüleme alanlarını en büyük duruma getirir. Yön veya hareketten çok şekiller arasındaki ilişkileri vurgular.</translation>
     </message>
     <message>
         <source>Use to show a series of pictures. The title and description appear in a callout shape under each picture.</source>
@@ -19346,7 +19346,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show ideas or concepts that converge to a central point. Works best with Level 1 text only.</source>
-        <translation type="unfinished"/>
+        <translation>Merkezi bir noktaya doğru yaklaşan görüşleri veya kavramları göstermek için kullanın. Yalnızca Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show hierarchical relationships progressing horizontally and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and the second and all subsequent lines of Level 1 text appear at the top of the tall rectangles.</source>
@@ -19398,7 +19398,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow. Works best with minimal Level 1 and Level 2 text.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ilerlemeyi veya sıralı adımları göstermek için kullanın. Çok az Düzey 1 ve Düzey 2 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show overlapping or interconnected relationships. The first seven lines of Level 1 text correspond with a circle. If there are four or fewer lines of Level 1 text, the text is inside the circles. If there are more than four lines of Level 1 text, the text is outside of the circles. Unused text does not appear, but remains available if you switch layouts.</source>
@@ -19410,7 +19410,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show the pros and cons of  two ideas. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text. Limited to two Level 1 items.</source>
-        <translation type="unfinished"/>
+        <translation>İki fikrin artılarını ve eksilerini göstermek için kullanın. Her Düzey 1 metin birden fazla alt düzey içerebilir. Büyük miktarda metinle iyi sonuç verir. İki Düzey 1 öğeyle sınırlıdır.</translation>
     </message>
     <message>
         <source>Use to show proportional, interconnected, or hierarchical relationships. Text appears in the rectangular shapes on top of the pyramid background.</source>
@@ -19446,7 +19446,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show how individual parts form a whole. The first seven lines of Level 1 text correspond to the evenly distributed wedge or pie shapes. The top Level 1 text shape appears outside of the rest of the pie for emphasis. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Tek tek parçaların bütünü nasıl oluşturduğunu göstermek için kullanın. Düzey 1 metninin ilk yedi satırı düzgün dağılmış ayırma veya pasta şekillerine karşılık gelir. Düzey 1 metin şekli vurgu için pastanın kalanının dışında görünür. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Table Hierarchy</source>
@@ -19466,7 +19466,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show two opposing ideas or concepts. Each of the first two lines of Level 1 text corresponds to an arrow and works well with Level 2 text. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>İki karşıt görüşü veya kavramı göstermek için kullanın. Düzey 1 metninin ilk iki satırının her biri bir oka karşılık gelir ve Düzey 2 metniyle iyi sonuç verir. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Circular Picture Callout</source>
@@ -19478,7 +19478,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show hierarchical relationships progressing from top to bottom.</source>
-        <translation type="unfinished"/>
+        <translation>Üstten alta doğru ilerleyen hiyerarşik ilişkileri göstermek için kullanın.</translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -19522,15 +19522,15 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow from top to bottom. Works best with Level 1 text, since the vertical space is limited.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında üstten alta doğru ilerlemeyi veya sıralı adımları göstermek için kullanın. Dikey alan sınırlı olduğundan Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show a series of pictures from top to bottom with Level 1 text beside each.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizi resmi yanlarında Düzey 1 metinlerle birlikte yukarıdan aşağıya göstermek için kullanın.</translation>
     </message>
     <message>
         <source>Use to show relationships to a central idea in a cycle. The center shape can contain a picture. Level 1 text appears in the smaller circles and any related Level 2 text appears to the side of the smaller circles.</source>
-        <translation type="unfinished"/>
+        <translation>Dairede merkezi bir görüşle ilişkiyi göstermek için kullanın. Ortadaki şekil bir resim içerebilir. Düzey 1 metni daha küçük dairelerde yer alır ve ilişkili Düzey 2 metni varsa daha küçük dairelerin yanında görünür.</translation>
     </message>
     <message>
         <source>Use to show groups and sub-groups of information, or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top level horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape. Works well for emphasizing sub-groups or sub-steps, hierarchical information, or multiple lists of information.</source>
@@ -19538,7 +19538,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show hierarchical information or reporting relationships in an organization. Pictures appear in circles and corresponding text appears next to the pictures.</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluştaki hiyerarşi bilgilerini veya raporlama ilişkilerini göstermek için kullanın. Resimler daireler içinde görünür ve resimlerin yanında ilgili metin görüntülenir.</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -19562,7 +19562,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the arrows or flow rather than the stages or steps. Works best with Level 1 text only.</source>
-        <translation type="unfinished"/>
+        <translation>Döngüsel bir akışta devam eden evrelerin, görevlerin veya olayların sırasını göstermek için kullanın. Evreler veya adımların yerine okları veya akışı vurgular. Yalnızca Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Vertical Equation</source>
@@ -19590,7 +19590,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show the placement of concepts along two axes. Emphasizes the individual components rather than the whole. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>İki eksen boyunca kavramların yerleşimini göstermek için kullanın. Bütün yerine tek tek bileşenleri vurgular. Düzey 1 metninin ilk dört satırı çeyrek daireler içinde yer alır. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Vertical Accent List</source>
@@ -19638,7 +19638,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a set of pictures with text. The corresponding text appears in the central circles with the images alternating from left to right.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizi resmi metinle birlikte göstermek için kullanın. İlgili metinler ortadaki dairelerde, resimler ise bir solda, bir sağda görünür.</translation>
     </message>
     <message>
         <source>Pyramid</source>
@@ -19646,7 +19646,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show groups of information or sequential steps in a task, process, or workflow. Emphasizes the interaction or relationships among the groups of information.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında bilgi gruplarını veya sıralı adımları göstermek için kullanın. Bilgi grupları arasındaki etkileşimi veya ilişkiyi vurgular.</translation>
     </message>
     <message>
         <source>Linear Venn</source>
@@ -19662,12 +19662,12 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a series of steps, with the interior of the circle increasing with each step. Limited to seven Level 1 steps but unlimited Level 2 items. Works well with large amounts of Level 2 text.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizi adımı, her adımla birlikte dairenin içi artacak şekilde göstermek için kullanın. Yedi Düzey 1 adımla sınırlıdır, ancak Düzey 2 öğeleri sınırsızdır. Büyük miktarlarda Düzey 2 metniyle çok iyi çalışır.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
         <comment>_kso_SmartArtBprocess3Description</comment>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ilerlemeyi veya sıralı adımları göstermek için kullanın. Şekillerin hem yatay hem dikey görüntüleme alanlarını en büyük duruma getirir.</translation>
     </message>
     <message>
         <source>Segmented Cycle</source>
@@ -19683,7 +19683,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the equals sign (=).Works best with Level 1 text only.</source>
-        <translation type="unfinished"/>
+        <translation>Plan veya sonucu belirleyen sıralı adımları veya görevleri göstermek için kullanın. Düzey 1 metninin son satırı eşittir işaretinden (=) sonra görüntülenir. Yalnızca Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show containment, gradations, or hierarchical relationships. The first five lines of Level 1 text are associated with a circle. Unused text does not appear, but remains available if you switch layouts.</source>
@@ -19699,7 +19699,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow that move toward a common goal. Works well for bulleted lists of information.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında ortak bir hedefe doğru giden ilerlemeyi veya sıralı adımları göstermek için kullanın. Madde işaretli bilgi listelerinde iyi sonuç verir.</translation>
     </message>
     <message>
         <source>Use to show the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape, and its Level 2 text corresponds to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
@@ -19747,7 +19747,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show sequential steps in a task, process, or workflow, or to show timeline information. Works well with both Level 1 and Level 2 text.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışındaki sıralı adımları göstermek veya zaman çizelgesi bilgilerini görüntülemek için kullanın. Hem Düzey 1 hem de Düzey 2 metniyle iyi sonuç verir.</translation>
     </message>
     <message>
         <source>Vertical Curved List</source>
@@ -19763,15 +19763,15 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a timeline or sequential steps in a task, process, or workflow. Works best with Level 1 text because each line of Level 1 text appears inside the arrow shape. Level 2 text appears outside the arrow shape.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında zaman çizelgesini veya sıralı adımları göstermek için kullanın. Düzey 1 metinle en iyi sonucu verir çünkü Düzey 1 metni ok şeklinin içinde görüntülenir. Düzey 2 metni ok şeklinin dışında görüntülenir.</translation>
     </message>
     <message>
         <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the connection between all components. Works best with Level 1 text only.</source>
-        <translation type="unfinished"/>
+        <translation>Döngüsel bir akışta devam eden evrelerin, görevlerin veya olayların sırasını göstermek için kullanın. Tüm bileşenler arasındaki bağlantıyı vurgular. Yalnızca Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show relationships of concepts or components to a central idea in a cycle. The first line of Level 1 text corresponds to the central circular shape and the lines of Level 2 text correspond to the surrounding rectangular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
-        <translation type="unfinished"/>
+        <translation>Dairede kavramların ve bileşenlerin merkezi bir görüşle ilişkilerini göstermek için kullanın. Düzey 1 metninin ilk satırı merkezi daire şekline ve Düzey 2 metnin satırları bunu çevreleyen dikdörtgen şekillere karşılık gelir. Kullanılmayan metin görüntülenmez ancak düzen değiştirdiğinizde kullanılabilir durumda kalır.</translation>
     </message>
     <message>
         <source>Use to show a progression or sequential steps in a task, process, or workflow. Emphasizes Level 2 text, since each line appears in a separate shape.</source>
@@ -19783,7 +19783,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show three phases of a process. Limited to three Level 1 items. The first two Level 1 items can each contain four Level 2 items, and the third Level 1 item can contain an unlimited number of Level 2 items.  Works best with small amounts of text.</source>
-        <translation type="unfinished"/>
+        <translation>Bir işlemin üç aşamasını göstermek için kullanın. Üç Düzey 1 öğeyle sınırlıdır. İlk iki Düzey 1 öğenin her biri dört Düzey 2 öğe içerir ve üçüncü Düzey 1 öğe sınırsız sayıda Düzey 2 öğe içerebilir. Az miktarda metinle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show groups of related ideas or lists of information. The text shapes decrease in height sequentially, and the Level 1 text displays vertically.</source>
@@ -19799,7 +19799,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show sequential steps in a task, process, or workflow. The rectangular shapes in the background are designed to contain pictures.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışındaki sıralı adımları göstermek için kullanın. Arka plandaki dikdörtgen şekiller resim içerecek şekilde tasarlanmıştır.</translation>
     </message>
     <message>
         <source>Use to show pictures with multiple levels of text.  Works best with a small amount of Level 1 text and a medium amount of Level 2 text.</source>
@@ -19827,7 +19827,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show the relationship to or from a central idea. Level 2 text is added non-sequentially and is limited to five items. There can only be one Level 1 item.</source>
-        <translation type="unfinished"/>
+        <translation>Merkezi bir fikre doğru giden veya bu fikirden çıkan ilişkiyi göstermek için kullanın. Düzey 2 metni sırasız bir şekilde eklenir ve beş öğeyle sınırlıdır. Yalnızca bir adet Düzey 1 öğesi olabilir.</translation>
     </message>
     <message>
         <source>Basic Bending Process</source>
@@ -19851,7 +19851,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a series of pictures that each have their own title and description. Level 1 text appears in the box above the picture. Level 2 text appears below the picture.</source>
-        <translation type="unfinished"/>
+        <translation>Her birinin kendi başlığı ve açıklaması olan bir dizi resmi göstermek için kullanın. Düzey 1 metin resmin üstündeki kutuda görünür. Düzey 2 metin resmin altında görünür.</translation>
     </message>
     <message>
         <source>Segmented Process</source>
@@ -19875,7 +19875,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to change between two items. Only the first two items of text display, and each item can contain a large amount of text. Works well to show a change between two items or shift in order.</source>
-        <translation type="unfinished"/>
+        <translation>İki öğeyi birbiriyle değiştirmek için kullanın. Yalnızca ilk iki öğenin metni görüntülenir ve her öğede büyük miktarda metin bulunabilir. İki öğe arasındaki değişikliği veya kaydırmayı sıralı bir şekilde göstermek için iyi bir seçimdir.</translation>
     </message>
     <message>
         <source>Relationship</source>
@@ -19931,7 +19931,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show ideas or concepts that progress outward from a central source. Works best with Level 1 text only.</source>
-        <translation type="unfinished"/>
+        <translation>Merkezi bir kaynaktan dışarı doğru ilerleyen fikirleri veya kavramları göstermek için kullanın. Yalnızca Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show non-sequential or grouped information with an emphasis on related pictures. The top shapes are designed to contain pictures.</source>
@@ -19967,7 +19967,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a multi-step process with sub-steps between each instance of Level 1 text. Works best with small amounts of text and is limited to seven Level 1 steps. Each Level 1 step can have unlimited sub-steps.</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1 metni örneklerinin arasında alt adımlar bulunan çok adımlı bir işlemi göstermek için kullanın. Az miktarda metinle en iyi sonucu verir ve yedi Düzey 1 adımla sınırlıdır. Her Düzey 1 düzeyde sınırsız sayıda alt adım olabilir.</translation>
     </message>
     <message>
         <source>Captioned Pictures</source>
@@ -19979,7 +19979,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to represent a series of interconnected ideas. Level 1 text appears inside the hexagons. Level 2 text appears outside the shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizi bağlantılı fikri göstermek için kullanın. Düzey 1 metin altıgenlerin içinde görünür. Düzey 2 metin şekillerin dışında görünür.</translation>
     </message>
     <message>
         <source>Circle Accent Timeline</source>
@@ -20007,11 +20007,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show lists of information with an accent picture for each Level 2 text. Level 1 text displays in a separate box at the top of the list.</source>
-        <translation type="unfinished"/>
+        <translation>Her Düzey 2 metni için bir vurgu resmi bulunan bilgi listelerini göstermek için kullanın. Düzey 1 metin listenin en üstünde ayrı bir kutu içinde görüntülenir.</translation>
     </message>
     <message>
         <source>Use to show a long or non-linear sequence or steps in a task, process, or workflow. Works best with Level 1 text only. Maximizes both horizontal and vertical display space for shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Görev, süreç veya iş akışında uzun veya doğrusal olmayan bir sırayı veya adımları göstermek için kullanın. Yalnızca Düzey 1 metniyle en iyi sonucu verir. Şekillerin hem yatay hem dikey görüntüleme alanlarını en büyük duruma getirir.</translation>
     </message>
     <message>
         <source>Subtle Effect</source>
@@ -20039,7 +20039,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show pictures with explanatory text. Level 2 text can display lists of information. Works well with a large amount of  text.</source>
-        <translation type="unfinished"/>
+        <translation>Resimleri açıklayıcı metinle birlikte göstermek için kullanın. Düzey 2 metin listeler halinde bilgi görüntüleyebilir. Büyük miktarda metinle iyi sonuç verir.</translation>
     </message>
     <message>
         <source>Opposing Ideas</source>
@@ -20059,7 +20059,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the arrow. Works best with Level 1 text only.</source>
-        <translation type="unfinished"/>
+        <translation>Plan veya sonucu belirleyen sıralı adımları veya görevleri göstermek için kullanın. Düzey 1 metninin son satırı oktan sonra görüntülenir. Yalnızca Düzey 1 metniyle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Labeled Hierarchy</source>
@@ -20079,7 +20079,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a series of pictures side by side. Level 1 text covers the top of the picture. Level 2 text appears below the picture.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizi resmi yan yana göstermek için kullanın. Düzey 1 metin resmin en üstünü kaplar. Düzey 2 metin resmin altında görünür.</translation>
     </message>
     <message>
         <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Each shape has the same level of importance. Works well when direction does not need to be indicated.</source>
@@ -20095,7 +20095,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a descending process with multiple steps and sub-steps. Works best with small amounts of text.</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla adım veya alt adım bulunan bir azalan işlemi göstermek için kullanın. Az miktarda metinle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Increasing Circle Process</source>
@@ -20107,11 +20107,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show several groups of information, especially groups with large amounts of Level 2 text. A good choice for bulleted lists of information.</source>
-        <translation type="unfinished"/>
+        <translation>Birkaç bilgi grubunu, özellikle de büyük miktarda Düzey 2 metni içeren grupları göstermek için kullanın. Madde işaretli bilgi listeleri için iyi bir seçimdir.</translation>
     </message>
     <message>
         <source>Use with large amounts of Level 2 text to show a progression through stages.</source>
-        <translation type="unfinished"/>
+        <translation>Büyük miktarlarda Düzey 2 metni kullanarak evreler aracılığıyla ilerlemeyi göstermek için kullanın.</translation>
     </message>
     <message>
         <source>Basic Process</source>
@@ -20127,11 +20127,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show a descending series of events. The first Level 1 text is at the top of arrow, and the last Level 1 text displays at the bottom of the arrow. Only the first seven Level 1 items appear. Works best with small to medium amounts of text.</source>
-        <translation type="unfinished"/>
+        <translation>Azalan sırada olaylar serisi göstermek için kullanın. İlk Düzey 1 okun en üstündedir ve son Düzey 1 metin okun en altında görüntülenir. Yalnızca ilk yedi Düzey 1 öğesi görüntülenir. Az ve orta miktarda metinle en iyi sonucu verir.</translation>
     </message>
     <message>
         <source>Use to show sequential or grouped data. Works best for Level 1 text, which displays next to a large circular shape. Lower levels of text are separated with smaller circular shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Sıralı veya gruplandırılmış veriler göstermek için kullanın. Büyük dairesel bir şeklin yanında görüntülenen Düzey 1 metinle en iyi sonucu verir. Daha alt düzey metinler küçük dairesel şekillerle ayrılır.</translation>
     </message>
     <message>
         <source>Basic Venn</source>
@@ -20139,7 +20139,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to represent a continuing sequence of stages, tasks, or events that can occur in any direction.</source>
-        <translation type="unfinished"/>
+        <translation>Evrelerin, görevlerin veya olayların herhangi bir yönde olabilecek devam eden sırasını göstermek için kullanılır.</translation>
     </message>
     <message>
         <source>Horizontal Multi-Level Hierarchy</source>
@@ -20180,7 +20180,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Use to show pictures with corresponding Level 1 text displayed in a frame.</source>
-        <translation type="unfinished"/>
+        <translation>Resimleri karşılık gelen Düzey 1 metinle birlikte çerçeve içinde göstermek için kullanın.</translation>
     </message>
     <message>
         <source>Multidirectional Cycle</source>
@@ -20370,7 +20370,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"/>
+        <translation>Thaana dili</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -23205,7 +23205,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"/>
+        <translation>Thaana dili</translation>
     </message>
     <message>
         <source>Syriac</source>
