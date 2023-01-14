@@ -2783,7 +2783,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>%1 days ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 gün önce</translation>
     </message>
     <message>
         <source>%1Year %2Month %3Day %4</source>
@@ -3071,7 +3071,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Upload to Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Buluta Kaydet</translation>
     </message>
     <message>
         <source>CopyTo</source>
@@ -3107,7 +3107,7 @@ this file has been opened, can&apos;t write data.please close file and retry.</s
     </message>
     <message>
         <source>Upload File to Cloud</source>
-        <translation>Dosyayı Buluta Yükle</translation>
+        <translation>WPS Buluta Yükle</translation>
     </message>
     <message>
         <source>Create a folder</source>
