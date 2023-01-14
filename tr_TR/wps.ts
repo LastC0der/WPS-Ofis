@@ -1652,7 +1652,7 @@
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"/>
+        <translation>Tek numaralı sayfa</translation>
     </message>
     <message>
         <source>PostalCode</source>
@@ -1766,7 +1766,7 @@
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"/>
+        <translation>Katkıda Bulunanlar</translation>
     </message>
     <message>
         <source> Do you want to continue searching from the beginning?</source>
@@ -1827,7 +1827,7 @@
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"/>
+        <translation>Çift numaralı sayfa</translation>
     </message>
     <message>
         <source>document fields</source>
@@ -6593,7 +6593,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Odd page</source>
-        <translation type="unfinished"/>
+        <translation>Tek numaralı sayfa</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -6605,7 +6605,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"/>
+        <translation>Sütun s&amp;ayısı:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -6625,7 +6625,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Even page</source>
-        <translation type="unfinished"/>
+        <translation>Çift numaralı sayfa</translation>
     </message>
     <message>
         <source>&amp;Other pages:</source>
@@ -29565,7 +29565,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"/>
+        <translation>Sütun s&amp;ayısı:</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
@@ -34058,7 +34058,7 @@ Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Picture to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
 </context>
 <context>
@@ -41168,7 +41168,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce</translation>
     </message>
     <message>
         <source>A few seconds ago</source>
@@ -42577,7 +42577,7 @@ Do you want to replace the selected table of contents?</source>
     </message>
     <message>
         <source>Error! Reference source not found.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Başvuru kaynağı bulunamadı.</translation>
     </message>
     <message>
         <source>Fields are nested too deeply.</source>
@@ -42593,19 +42593,19 @@ Do you want to replace the selected table of contents?</source>
     </message>
     <message>
         <source>Error! The file you specified cannot be opened.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Belirttiğiniz dosya açılamıyor.</translation>
     </message>
     <message>
         <source>Error! Include may not refer to itself.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! İçer işlevi kendisine başvuramaz.</translation>
     </message>
     <message>
         <source>Error! File name not specified.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Dosya adı belirtilmedi.</translation>
     </message>
     <message>
         <source>Error! No table of figures entries found.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Şekil tablosu öğesi bulunamadı.</translation>
     </message>
     <message>
         <source>Prompt</source>
@@ -42614,7 +42614,8 @@ Do you want to replace the selected table of contents?</source>
     <message>
         <source>Insert the manual content and the paragraph will set the outline.
 Do you still want to insert the manual content?</source>
-        <translation type="unfinished"/>
+        <translation>El ile içindekiler tablosunun eklenmesi paragraf anahattını ayarlayabilir.
+İçindekiler tablosunu eklemek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>on page</source>
@@ -42626,23 +42627,23 @@ Do you still want to insert the manual content?</source>
     </message>
     <message>
         <source>Error! Hyperlink reference is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Köprü başvurusu geçersiz.</translation>
     </message>
     <message>
         <source>Error! No table of contents entries found.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! İçindekiler tablosu girdisi bulunamadı.</translation>
     </message>
     <message>
         <source>Error! No bookmark name given.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Yer imi adı verilmedi.</translation>
     </message>
     <message>
         <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! İçindekiler tablosuna dipnot, sonnot, üstbilgi, altbilgi, yorum veya metin kutusunda izin verilmez.</translation>
     </message>
     <message>
         <source>Error! Title list level is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Başlık listesi düzeyi geçersiz.</translation>
     </message>
     <message>
         <source>Manual Table</source>
@@ -42650,7 +42651,7 @@ Do you still want to insert the manual content?</source>
     </message>
     <message>
         <source>Error! Not a valid bookmark self-reference.</source>
-        <translation type="unfinished"/>
+        <translation>Hata! Yer işareti başvurusu geçersiz.</translation>
     </message>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
@@ -42720,7 +42721,7 @@ Replace with a manual table?</source>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished"/>
+        <translation>Yöneticiler</translation>
     </message>
     <message>
         <source>Current user</source>
@@ -42754,15 +42755,15 @@ Do you want to remove the ignored exceptions?</source>
     </message>
     <message>
         <source>You may edit in this region,but all changes will be tracked.</source>
-        <translation type="unfinished"/>
+        <translation>Bu bölgeyi düzenleyebilirsiniz, ancak tüm değişiklikleriniz izlenecek.</translation>
     </message>
     <message>
         <source>You may only view this region.</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca bu bölgeyi görüntüleyebilirsiniz.</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"/>
+        <translation>Katkıda Bulunanlar</translation>
     </message>
     <message>
         <source>Section </source>
@@ -42774,7 +42775,7 @@ Do you want to remove the ignored exceptions?</source>
     </message>
     <message>
         <source>You may freely edit in this region.</source>
-        <translation type="unfinished"/>
+        <translation>Bu bölgede serbestçe düzenleme yapabilirsiniz.</translation>
     </message>
     <message>
         <source>Everyone</source>
@@ -42782,21 +42783,23 @@ Do you want to remove the ignored exceptions?</source>
     </message>
     <message>
         <source>You are allowed to modify the document and records will be shown in Tracked changes way.</source>
-        <translation type="unfinished"/>
+        <translation>Belgeyi değiştirmenize izin verilir ve kayıtlar, İzlenen değişiklikler şeklinde gösterilir.</translation>
     </message>
     <message>
         <source>More users...</source>
-        <translation type="unfinished"/>
+        <translation>Daha fazla kullanıcı...</translation>
     </message>
     <message>
         <source>Select sections...</source>
-        <translation type="unfinished"/>
+        <translation>Bölümleri seç...</translation>
     </message>
     <message>
         <source>You may only insert comments into regions that are allowed to be edited in the document.
 
 Select parts of the document and choose users who are allowed to freely edit them.</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca belgede düzenlenmesine izin verilen bölgelere yorum ekleyebilirsiniz
+
+Belgenin bölümlerini seçin ve bunları serbestçe düzenlemesine izin verilen kullanıcıları seçin.</translation>
     </message>
     <message>
         <source>You can prevent the document from being modified in Read-only way. However, you can set the region to allow editing.
@@ -42932,7 +42935,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>document id</source>
-        <translation type="unfinished"/>
+        <translation>Kesme No</translation>
     </message>
     <message>
         <source>The barcode id must contain 8 to 20 characters or digits.</source>
@@ -47474,7 +47477,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxWpsEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation type="unfinished"/>
+        <translation>Sözcük geçersiz karakterler içeriyor.</translation>
     </message>
 </context>
 <context>
@@ -48109,7 +48112,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Odd Page</source>
-        <translation type="unfinished"/>
+        <translation>Tek Numaralı Sayfa</translation>
     </message>
     <message>
         <source>View More Comments / Revisions</source>
@@ -48117,7 +48120,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Even Page</source>
-        <translation type="unfinished"/>
+        <translation>Çift Numaralı Sayfa</translation>
     </message>
     <message>
         <source>Same as the previous section</source>
