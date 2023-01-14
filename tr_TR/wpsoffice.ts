@@ -3523,7 +3523,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Thaana</source>
-        <translation type="unfinished"/>
+        <translation>Thaana dili</translation>
     </message>
     <message>
         <source>Symbol</source>
