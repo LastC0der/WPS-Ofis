@@ -2929,7 +2929,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Collate</source>
-        <translation>Harmanla</translation>
+        <translation>Baskıyı harmanla</translation>
     </message>
     <message>
         <source>Copies:</source>
