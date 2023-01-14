@@ -29970,7 +29970,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxWppLocateWidget</name>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce</translation>
     </message>
     <message>
         <source>A few seconds ago</source>
@@ -30022,7 +30022,7 @@ Bölmesi</translation>
     <name>KxWppPrinterCollateCommand</name>
     <message>
         <source>Collate</source>
-        <translation>Yazdırmayı harmanla</translation>
+        <translation>Baskıyı harmanla</translation>
     </message>
     <message>
         <source>UnCollate</source>
