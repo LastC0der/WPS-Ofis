@@ -9190,7 +9190,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Collate</source>
-        <translation>Harmanla</translation>
+        <translation>Baskıyı harmanla</translation>
     </message>
     <message>
         <source>Copies:</source>
@@ -12321,7 +12321,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce</translation>
     </message>
     <message>
         <source>A few seconds ago</source>
