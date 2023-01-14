@@ -5520,7 +5520,7 @@ for your account&apos;s security</source>
     <name>KEasyRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen</translation>
     </message>
 </context>
 <context>
