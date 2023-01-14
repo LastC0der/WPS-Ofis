@@ -18982,7 +18982,7 @@ Kontrolü</translation>
     </message>
     <message>
         <source>Output Shape Thumbnail</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Şekli Küçük Resmi</translation>
     </message>
     <message>
         <source>Interface Settings</source>
@@ -19063,7 +19063,7 @@ Okuma</translation>
     </message>
     <message>
         <source>TRANSITIONS</source>
-        <translation type="unfinished"/>
+        <translation>GEÇİŞLER</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
