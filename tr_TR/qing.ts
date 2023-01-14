@@ -3490,7 +3490,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Collate</source>
-        <translation>Harmanla</translation>
+        <translation>Baskıyı harmanla</translation>
     </message>
     <message>
         <source>Copies:</source>
@@ -6302,7 +6302,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Upload to cloud doc</source>
-        <translation type="unfinished"/>
+        <translation>WPS Buluta Yükle</translation>
     </message>
 </context>
 <context>
@@ -13883,11 +13883,11 @@ Time for upgrade: %1</source>
     <name>KLineTable</name>
     <message>
         <source>%1 days ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 gün önce</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 dakika önce</translation>
     </message>
     <message>
         <source>Just now</source>
@@ -13986,14 +13986,14 @@ Time for upgrade: %1</source>
     <name>KEasyRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen</translation>
     </message>
 </context>
 <context>
     <name>KWpsRadioButton</name>
     <message>
         <source>Recommand</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen</translation>
     </message>
 </context>
 <context>
