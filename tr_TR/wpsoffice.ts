@@ -581,7 +581,7 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2798,7 +2798,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Retry</source>
