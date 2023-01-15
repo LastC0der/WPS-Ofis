@@ -3044,19 +3044,19 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>HSplitLine</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Bölme Çizgisi</translation>
     </message>
     <message>
         <source>VSplitLine</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Bölme Çizgisi</translation>
     </message>
     <message>
         <source>HSplitSpaceContent</source>
-        <translation type="unfinished"/>
+        <translation>cm yatay bölme çizgisi eklemek için.</translation>
     </message>
     <message>
         <source>VSplitSpaceContent</source>
-        <translation type="unfinished"/>
+        <translation>cm dikey bölme çizgisi eklemek için.</translation>
     </message>
     <message>
         <source>The input value should be greater than 1cm</source>
@@ -6323,7 +6323,7 @@ Okuma</translation>
     </message>
     <message>
         <source>UpdateBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planı Güncelle</translation>
     </message>
     <message>
         <source>EbookIncreaseFont</source>
@@ -8689,7 +8689,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>DeletePageNumber</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Numarasını Sil</translation>
     </message>
     <message>
         <source>Quick Retrieve</source>
@@ -8697,7 +8697,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>UpdateBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planı Güncelle</translation>
     </message>
     <message>
         <source>Grab Rect</source>
@@ -8717,7 +8717,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Page Tools</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Araçları</translation>
     </message>
     <message>
         <source>Menu Tools</source>
@@ -8729,7 +8729,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Tab_Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>Protect</source>
@@ -8741,7 +8741,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Tab_Protect</source>
-        <translation type="unfinished"/>
+        <translation>Koru</translation>
     </message>
     <message>
         <source>message Center</source>
@@ -8749,11 +8749,11 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Customize Task Window</source>
-        <translation type="unfinished"/>
+        <translation>Görev Penceresini Özelleştir</translation>
     </message>
     <message>
         <source>Tab_Edite</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <source>AddBackGround</source>
@@ -8761,7 +8761,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Graffiti</source>
-        <translation type="unfinished"/>
+        <translation>Karalama</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
@@ -10207,7 +10207,7 @@ Okuma</translation>
     </message>
     <message>
         <source>UpdateBackGround</source>
-        <translation type="unfinished"/>
+        <translation>Arka Planı Güncelle</translation>
     </message>
     <message>
         <source>File Share</source>
@@ -10943,7 +10943,7 @@ and then use the page extraction function, there is no need to manually enter th
     </message>
     <message>
         <source>Graffiti</source>
-        <translation type="unfinished"/>
+        <translation>Karalama</translation>
     </message>
     <message>
         <source>Replace</source>
