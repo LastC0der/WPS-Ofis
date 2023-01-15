@@ -1782,7 +1782,7 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
@@ -2473,18 +2473,18 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KCollaborationStateItemWidget</name>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar</translation>
     </message>
 </context>
 <context>
     <name>KIpcCallObj</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>You can only add stars to the cloud files. Please save the changes and upload the files to the cloud.</source>
@@ -2527,7 +2527,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxNewShareForMenuCommand</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>If you save, you will synchronize the current content to the cloud, and if you don&apos;t save it, you will share the original content directly.</source>
