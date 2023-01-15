@@ -3768,7 +3768,7 @@ Please carefully identify the website to ensure that it is trustworthy and safe,
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Send</source>
