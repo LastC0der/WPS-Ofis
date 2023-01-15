@@ -2759,7 +2759,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>[The print template] function has been migrated to the [File-Print] menu.</source>
-        <translation type="unfinished"/>
+        <translation>[Şablon Yazdır] işlevi, [Dosya-Yazdır] işlevine taşınmıştır.</translation>
     </message>
     <message>
         <source>collate</source>
@@ -9182,7 +9182,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya yazdır</translation>
     </message>
     <message>
         <source>Printing</source>
