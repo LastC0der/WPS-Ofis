@@ -19123,7 +19123,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Customize task window</source>
-        <translation type="unfinished"/>
+        <translation>Görev penceresini özelleştir</translation>
     </message>
     <message>
         <source>Hide current window when taking screenshots</source>
