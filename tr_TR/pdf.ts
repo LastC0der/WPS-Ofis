@@ -1731,7 +1731,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>ETFile(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb)|*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb</source>
-        <translation type="unfinished"/>
+        <translation>Form/Excel biçimi (*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb)|*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb</translation>
     </message>
     <message>
         <source>The document contains only picture objects, and does not support creating inserts and substitutions. Please turn the document to Word for editing.</source>
@@ -1747,7 +1747,7 @@ The operation is irrevocable</source>
     </message>
     <message>
         <source>Image Files(*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff)|*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü Dosyaları(*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff)|*.png; *.bmp; *.nef; *.dng; *.tif; *.gif; *.ico; *.wdp; *.xbm; *.xpm; *.jpg; *.jpeg; *.jpe; *.tiff</translation>
     </message>
     <message>
         <source>This Security document The Version not Support</source>
@@ -2247,7 +2247,7 @@ Please batches operations</source>
     <message>
         <source>Ebook Files(*.mobi;*.epub) | *.mobi;*.epub; |</source>
         <comment>TxDesc_DataSource_ebook</comment>
-        <translation type="unfinished"/>
+        <translation>E-Kitap Dosyaları (*.mobi;*.epub) | *.mobi;*.epub; |</translation>
     </message>
     <message>
         <source>Invalid outline</source>
