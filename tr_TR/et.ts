@@ -53488,7 +53488,7 @@ Alternativly, you can click the left-side pane if you want to switch to other ch
     <name>KxDlgSLEditGroup</name>
     <message>
         <source>Choose the data that you want</source>
-        <translation type="unfinished"/>
+        <translation>İstediğiniz verileri seçin</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -53496,7 +53496,7 @@ Alternativly, you can click the left-side pane if you want to switch to other ch
     </message>
     <message>
         <source>&amp;Data Range:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Veri Aralığı</translation>
     </message>
     <message>
         <source>Choose where you want the sparklines to be placed</source>
@@ -53504,7 +53504,7 @@ Alternativly, you can click the left-side pane if you want to switch to other ch
     </message>
     <message>
         <source>&amp;Location Range:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konum Aralığı</translation>
     </message>
 </context>
 <context>
@@ -53763,7 +53763,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>&amp;Data Range:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Veri Aralığı</translation>
     </message>
 </context>
 <context>
