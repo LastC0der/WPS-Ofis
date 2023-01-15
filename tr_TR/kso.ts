@@ -26788,7 +26788,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Print to fi&amp;le</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaya yazdır</translation>
     </message>
     <message>
         <source>Printing</source>
@@ -35290,7 +35290,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Search Next</source>
-        <translation type="unfinished"/>
+        <translation>Sonrakini Bul</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -35339,7 +35339,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Show Custom Button in Task Window</source>
-        <translation type="unfinished"/>
+        <translation>Görev Penceresinde Özel Düğmeyi Göster</translation>
     </message>
     <message>
         <source>Hide TaskPane</source>
