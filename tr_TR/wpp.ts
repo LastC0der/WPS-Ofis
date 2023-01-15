@@ -7026,7 +7026,7 @@ Body: Descend</source>
     </message>
     <message>
         <source>Comb Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Tara</translation>
     </message>
     <message>
         <source>Title Slide</source>
@@ -14254,11 +14254,11 @@ Master</source>
     </message>
     <message>
         <source>Comb 1</source>
-        <translation type="unfinished"/>
+        <translation>Tarak 1</translation>
     </message>
     <message>
         <source>Comb 2</source>
-        <translation type="unfinished"/>
+        <translation>Tarak 2</translation>
     </message>
     <message>
         <source>In the %1 Slide</source>
@@ -28873,7 +28873,7 @@ Asıl Slayt</translation>
     <name>KxDlgInsertTable</name>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sütun sayısı:</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -28881,14 +28881,14 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"/>
+        <translation>Satı&amp;r sayısı:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sütun sayısı:</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -28896,7 +28896,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"/>
+        <translation>Satı&amp;r sayısı:</translation>
     </message>
 </context>
 <context>
@@ -28907,7 +28907,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>&amp;Color schemes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Renk şemaları</translation>
     </message>
     <message>
         <source>Custom</source>
