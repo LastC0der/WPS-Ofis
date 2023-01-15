@@ -15318,7 +15318,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Combine Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Şekilleri Birleştir</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -16456,7 +16456,7 @@ Ekle</translation>
     <message>
         <source>Combine Shapes</source>
         <comment>DgUil_KSO_Cmd_HollowShapes</comment>
-        <translation type="unfinished"/>
+        <translation>Şekilleri Birleştir</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -23309,7 +23309,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Combining Half Marks</source>
-        <translation type="unfinished"/>
+        <translation>Yarım İşaretleri Birleştirme</translation>
     </message>
     <message>
         <source>Mathematical Operators</source>
@@ -23361,7 +23361,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Combining Diacritical Marks</source>
-        <translation type="unfinished"/>
+        <translation>Aksanlı İşaretleri Birleştirme</translation>
     </message>
     <message>
         <source>CJK Radicals Supplement</source>
