@@ -15839,7 +15839,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Custom task window</source>
-        <translation type="unfinished"/>
+        <translation>Özel görev penceresi</translation>
     </message>
     <message>
         <source>Popup Menu</source>
