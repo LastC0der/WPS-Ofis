@@ -1777,11 +1777,12 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</
     </message>
     <message>
         <source>ChartObjects.content</source>
-        <translation>Biçimlendirmek için bir çizelge öğesi seçin.</translation>
+        <translation>Biçimlendirmek üzere bir grafik öğesi seçin.</translation>
     </message>
     <message>
         <source>RecentLineWrap.title</source>
-        <translation>Metni Kaydır</translation>
+        <translation>Metni 
+Kaydır</translation>
     </message>
     <message>
         <source>AutoSum.title</source>
@@ -1821,7 +1822,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</
     </message>
     <message>
         <source>MergeCancel.title</source>
-        <translation>&quot;dosya sıkıştırma&quot; özelliği dosya boyutunu azaltmanıza yardımcı olabilir.</translation>
+        <translation>Hücreleri Çöz</translation>
     </message>
     <message>
         <source>PTNotRepeatLabels.title</source>
@@ -1849,7 +1850,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</
     </message>
     <message>
         <source>BandedColumns.title</source>
-        <translation>Bantlı Sütunlar</translation>
+        <translation>Şeritli Sütunlar</translation>
     </message>
     <message>
         <source>Camera.title</source>
@@ -1877,9 +1878,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</
     </message>
     <message>
         <source>InsertObject.content</source>
-        <translation>Insert an embedded object into the document.
-
-Click the arrow to insert file content into the document.</translation>
+        <translation>Yeni dosya veya yerel klasörden dosya seçmek için Nesne Ekle iletişim kutusunu gösterin.</translation>
     </message>
     <message>
         <source>VAlignBottom.content</source>
@@ -1887,7 +1886,7 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>Group.content</source>
-        <translation>Tie a range of cells together so that they can be collapsed or expanded.</translation>
+        <translation>Tek bir nesne gibi ele alınabilmeleri için nesneleri birlikte gruplandırın.</translation>
     </message>
     <message>
         <source>SeriesInColumns.title</source>
@@ -1897,7 +1896,7 @@ Click the arrow to insert file content into the document.</translation>
         <source>NameDefine.content</source>
         <translation>Formüllerde bu ada göre başvurabilmeniz için hücreleri adlandırın.
 
-Örneğin, A1: A10 hücrelerini seçin ve bu hücre aralığını &apos;test&apos; olarak adlandırın.
+Örneğin, A1: A10 hücrelerini seçin ve bu hücre aralığını &quot;test&quot; olarak adlandırın.
 
 İsimler formüllerde anlaşılmasını kolaylaştırmak için kullanılabilir.</translation>
     </message>
@@ -1915,11 +1914,11 @@ Click the arrow to insert file content into the document.</translation>
     </message>
     <message>
         <source>RecordList.content</source>
-        <translation>Çalışma sayfasına hücre, satır veya sütun eklemek veya tamamen yeni bir çalışma sayfası eklemek için buraya tıklayın.</translation>
+        <translation>Sütunun başlığını seçtikten sonra, veri formu aracılığıyla veri girebilir, arayabilir veya silebilirsiniz.</translation>
     </message>
     <message>
         <source>OnlineCooperation.title</source>
-        <translation>Çevrimiçi İşbirliği</translation>
+        <translation>İşbirliği</translation>
     </message>
     <message>
         <source>InsertObject.title</source>
@@ -1945,7 +1944,7 @@ Bu çizgiler ayrıca Yazdır seçeneği işaretlenmedikçe yazdırılmaz.</trans
     </message>
     <message>
         <source>InsertWordArt.content</source>
-        <translation>WordArt metin kutusu kullanarak belgenize bazı sanatsal özellikler ekleyin.</translation>
+        <translation>WordArt metin kutusunu kullanarak belgenize sanatsal bir stil katın.</translation>
     </message>
     <message>
         <source>MergeColumns.title</source>
