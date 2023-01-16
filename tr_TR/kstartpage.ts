@@ -3817,7 +3817,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Download Failed</source>
-        <translation type="unfinished"/>
+        <translation>İndirme başarısız oldu</translation>
     </message>
 </context>
 <context>
