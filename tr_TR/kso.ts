@@ -35461,11 +35461,11 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Female Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Çinli Kadın</translation>
     </message>
     <message>
         <source>Voice Role:</source>
-        <translation type="unfinished"/>
+        <translation>Ses Rolü:</translation>
     </message>
     <message>
         <source>Voice Mode</source>
@@ -35473,15 +35473,15 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Export sound file</source>
-        <translation type="unfinished"/>
+        <translation>Ses dosyasını dışa aktar</translation>
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"/>
+        <translation>Ses:</translation>
     </message>
     <message>
         <source>Voice Properties</source>
-        <translation type="unfinished"/>
+        <translation>Ses Özellikleri </translation>
     </message>
 </context>
 <context>
@@ -38970,7 +38970,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
@@ -39294,7 +39294,7 @@ The settings will take effect after restarting WPS Office.</source>
     </message>
     <message>
         <source>Parameter count mismatch</source>
-        <translation type="unfinished"/>
+        <translation>Parametre sayısı uyuşmazlığı</translation>
     </message>
 </context>
 <context>
@@ -40663,7 +40663,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
 </context>
 <context>
@@ -41691,7 +41691,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>%1: Permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: İzin reddedildi</translation>
     </message>
     <message>
         <source>%1: Address in use</source>
