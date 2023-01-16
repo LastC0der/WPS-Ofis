@@ -1569,7 +1569,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız oldu</translation>
     </message>
     <message>
         <source>The document is saved locally, we supposed to change it to cloud file.</source>
@@ -2842,7 +2842,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Download Failed</source>
-        <translation>İndirilemedi</translation>
+        <translation>İndirme başarısız oldu</translation>
     </message>
     <message>
         <source>The account is offline. Please login again</source>
@@ -3916,7 +3916,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n dosyası</numerusform><numerusform>%n dosyaları</numerusform></translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -10906,7 +10906,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
@@ -10937,7 +10937,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Parameter count mismatch</source>
-        <translation type="unfinished"/>
+        <translation>Parametre sayısı uyuşmazlığı</translation>
     </message>
 </context>
 <context>
@@ -11464,7 +11464,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
 </context>
 <context>
@@ -11673,7 +11673,7 @@ Tüm Hakları Saklıdır.</translation>
     </message>
     <message>
         <source>%1: Permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: İzin reddedildi</translation>
     </message>
     <message>
         <source>%1: Address in use</source>
