@@ -666,11 +666,11 @@ Sıkıştırılmış görüntülerin kalitesinden belirli bir ölçüde ödün v
     </message>
     <message>
         <source>i know</source>
-        <translation type="unfinished"/>
+        <translation>Anladım</translation>
     </message>
     <message>
         <source>download failed</source>
-        <translation type="unfinished"/>
+        <translation>İndirme başarısız oldu</translation>
     </message>
     <message>
         <source>download in the background</source>
