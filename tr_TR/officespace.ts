@@ -3206,7 +3206,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Upgrade And Upload</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Yükselt ve Yükle</translation>
     </message>
     <message>
         <source>I known</source>
