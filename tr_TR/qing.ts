@@ -2301,7 +2301,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız oldu</translation>
     </message>
     <message>
         <source>StopAll</source>
@@ -3126,7 +3126,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız oldu</translation>
     </message>
     <message>
         <source>Create a copy</source>
@@ -9609,7 +9609,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 &apos;den</translation>
     </message>
     <message>
         <source>-deskTopSync</source>
@@ -11497,7 +11497,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
     <message>
         <source>%1: out of resources</source>
@@ -11633,7 +11633,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upgrade and Upload</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Yükselt ve Yükle</translation>
     </message>
     <message>
         <source>Upgrade and Expansion</source>
@@ -11847,7 +11847,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Parameter count mismatch</source>
-        <translation type="unfinished"/>
+        <translation>Parametre sayısı uyuşmazlığı</translation>
     </message>
 </context>
 <context>
@@ -12738,7 +12738,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>%1: permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: izin reddedildi</translation>
     </message>
 </context>
 <context>
@@ -12984,11 +12984,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 &apos;den</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız oldu</translation>
     </message>
     <message>
         <source>Manage cloud storage space</source>
@@ -13012,11 +13012,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Upgrade And Upload</source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Yükselt ve Yükle</translation>
     </message>
     <message>
         <source>Show TransDetailDlg</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntıları Görüntüle</translation>
     </message>
     <message>
         <source>Upgrade SVIP, cloud space can upload file %1 at most, you can have %2 at most</source>
@@ -13083,7 +13083,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>%1: Permission denied</source>
-        <translation type="unfinished"/>
+        <translation>%1: İzin reddedildi</translation>
     </message>
     <message>
         <source>%1: Address in use</source>
@@ -13700,7 +13700,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 &apos;den</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -13857,11 +13857,11 @@ Time for upgrade: %1</source>
     <name>KOtherCloudTransDelegate</name>
     <message>
         <source>Download failed</source>
-        <translation>İndirilemedi</translation>
+        <translation>İndirme başarısız oldu</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme başarısız oldu</translation>
     </message>
 </context>
 <context>
@@ -14265,7 +14265,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Come from %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 &apos;den</translation>
     </message>
     <message>
         <source>Documents</source>
