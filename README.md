@@ -4,6 +4,8 @@ Transifex botu yardımıyla çeviri yaptığım dosyaları ara ara "tr_TR" dizin
 Dil dosyaları farklı klasörlerde parçalar halinde bulunuyor, en fazla kullanılanlarını ekledim, çeviri yüzdesi arttıkça yeni dosyalar eklenecek.
 Yeni sürümler çıktığı ve ben çeviri yaptığım sürece repo güncellenecek. Daha yoğun kullandığımdan dolayı çeviri önceliği Excel kısmında olacak.
 
+Windows ve Ubuntu için ayrı ayrı oluşturulan kurulum dosyaları yakında paylaşılacak.
+
 
 https://linux.wps.com/    https://wps.com/
 
