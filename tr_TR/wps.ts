@@ -11759,7 +11759,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Kalın Kare-İçi Boş Madde İşaretleri</translation>
+        <translation>Kalın Boş Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>With Filling Effect Of Round-Shaped Bullets</source>
@@ -14523,7 +14523,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Kalın Kare-İçi Boş Madde İşaretleri</translation>
+        <translation>Kalın Boş Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -15111,7 +15111,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Kalın Kare-İçi Boş Madde İşaretleri</translation>
+        <translation>Kalın Boş Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>About</source>
@@ -31832,7 +31832,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecektir.</t
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Kalın Kare-İçi Boş Madde İşaretleri</translation>
+        <translation>Kalın Boş Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Close</source>
