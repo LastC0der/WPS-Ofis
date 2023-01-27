@@ -2306,7 +2306,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>BatchRename.title</source>
-        <translation type="unfinished"/>
+        <translation>Batch Rename Files</translation>
     </message>
     <message>
         <source>NewPDFBatchPrint.title</source>
@@ -2314,7 +2314,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>BatchRename.content</source>
-        <translation type="unfinished"/>
+        <translation>Batch rename files with set rules</translation>
     </message>
     <message>
         <source>AlignJustify.title</source>
