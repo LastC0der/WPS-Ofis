@@ -14144,7 +14144,7 @@ Please batches operations</source>
     <name>KxPdfProxyMenuButton</name>
     <message>
         <source>(Download required)</source>
-        <translation type="unfinished"/>
+        <translation>(İndirme gerekli)</translation>
     </message>
     <message>
         <source>(Initializing...)</source>
