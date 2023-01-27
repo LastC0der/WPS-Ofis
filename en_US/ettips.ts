@@ -3209,35 +3209,35 @@ You can sort the selected data in ascending or descending order.</translation>
     </message>
     <message>
         <source>QuickOrientation.title</source>
-        <translation type="unfinished"/>
+        <translation>Orientation</translation>
     </message>
     <message>
         <source>QuickOrientation.content</source>
-        <translation type="unfinished"/>
+        <translation>Quickly rotate the text orientation in cells.</translation>
     </message>
     <message>
         <source>StrikeThroughHome.content</source>
-        <translation type="unfinished"/>
+        <translation>Draw a line through the middle of the selected text.</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.title</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>BatchRename.title</source>
-        <translation type="unfinished"/>
+        <translation>Batch Rename Files</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.content</source>
-        <translation type="unfinished"/>
+        <translation>Use LaTeX to quickly edit and insert formulas.</translation>
     </message>
     <message>
         <source>StrikeThroughHome.title</source>
-        <translation type="unfinished"/>
+        <translation>Strikethrough</translation>
     </message>
     <message>
         <source>BatchRename.content</source>
-        <translation type="unfinished"/>
+        <translation>Batch rename files with set rules</translation>
     </message>
 </context>
 </TS>
