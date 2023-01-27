@@ -11489,7 +11489,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Bold Square-Hollow Bullets</source>
-        <translation>Kalın Kare-İçi Boş Madde İşaretleri</translation>
+        <translation>Kalın Boş Kare Madde İşaretleri</translation>
     </message>
     <message>
         <source>Slide Design</source>
