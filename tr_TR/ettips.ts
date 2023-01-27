@@ -3207,11 +3207,11 @@ Seçili verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
     </message>
     <message>
         <source>QuickOrientation.title</source>
-        <translation>Bağlantı Özelliklerini Düzenle</translation>
+        <translation>Yönlendirme</translation>
     </message>
     <message>
         <source>QuickOrientation.content</source>
-        <translation>Kullanılabilir COM Eklentilerini ekleyin veya silin.</translation>
+        <translation>Hücrelerdeki metin yönünü hızla döndürün.</translation>
     </message>
     <message>
         <source>StrikeThroughHome.content</source>
