@@ -769,7 +769,7 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>Print.title</source>
-        <translation>Print</translation>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>TransformQuickBar.title</source>
@@ -1791,7 +1791,7 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     </message>
     <message>
         <source>Print.content</source>
-        <translation>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</translation>
+        <translation>Yazıcı, baskı aralığı, baskı kopyaları, yaprak başına sayfa ve yakınlaştırma gibi ayrıntılı ayarları yazdırmaya uygulayın.</translation>
     </message>
     <message>
         <source>ChartElementFormat.title</source>
