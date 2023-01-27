@@ -26080,7 +26080,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Print_what</source>
-        <translation>Yazdır_nesne</translation>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>no_commas</source>
