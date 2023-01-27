@@ -1901,7 +1901,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation>Çalışma sayfalarını dikey olarak ayarlayın.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureToText.title</source>
@@ -2003,7 +2003,7 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation type="unfinished"/>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>Numbering.title</source>
@@ -2331,7 +2331,7 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation>Çalışma sayfasında sayfaları yatay olarak ayarlayın.</translation>
+        <translation>Sayfa yönlendirmesini yatay olarak ayarlayın.</translation>
     </message>
     <message>
         <source>Numbering2.title</source>
@@ -2729,19 +2729,19 @@ Click the arrow to select a different highlight color.</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.title</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>BatchRename.title</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları Toplu Olarak Yeniden Adlandırın</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.content</source>
-        <translation type="unfinished"/>
+        <translation>Formülleri hızla düzenlemek ve eklemek için LaTeX&apos;i kullanın.</translation>
     </message>
     <message>
         <source>BatchRename.content</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
     </message>
 </context>
 </TS>
