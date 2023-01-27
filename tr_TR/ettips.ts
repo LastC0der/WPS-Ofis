@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>TopAndBottomBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>ColumnSparkline.content</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>PrintDirect.title</source>
-        <translation>Hızlı Yazdır</translation>
+        <translation>Doğrudan Yazdır</translation>
     </message>
     <message>
         <source>FuncCatMoreFunctions.content</source>
@@ -139,11 +139,11 @@
     </message>
     <message>
         <source>FormatStyle.title</source>
-        <translation>Stili Biçimlendir</translation>
+        <translation>Biçim Stili</translation>
     </message>
     <message>
         <source>TopBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>Average.title</source>
@@ -176,7 +176,7 @@ Durum Çözümleme aracı, hedef hücreyi hesaplamak için kullanılan hücreler
     </message>
     <message>
         <source>WindowReset.content</source>
-        <translation>Tüm açık çalışma sayfalarını yan yana görüntülemek için döşeyin.</translation>
+        <translation>Yan yana görüntülemek için tüm açık çalışma sayfalarını döşeyin.</translation>
     </message>
     <message>
         <source>StopRecordMacro.title</source>
@@ -212,7 +212,7 @@ Durum Çözümleme aracı, hedef hücreyi hesaplamak için kullanılan hücreler
     </message>
     <message>
         <source>PTFieldSettings.content</source>
-        <translation>Alan Ayarları iletişim kutusunu göster.</translation>
+        <translation>Alan Ayarları iletişim kutusunu görüntüleyin.</translation>
     </message>
     <message>
         <source>LineSparkline.content</source>
@@ -224,11 +224,11 @@ Durum Çözümleme aracı, hedef hücreyi hesaplamak için kullanılan hücreler
     </message>
     <message>
         <source>BandedRows.title</source>
-        <translation>Bantlı Satırlar</translation>
+        <translation>Şeritli Satırlar</translation>
     </message>
     <message>
         <source>sp_Paste.content</source>
-        <translation>Pano içeriğini yapıştırın.</translation>
+        <translation>Pano&apos;nun içeriğini yapıştırın.</translation>
     </message>
     <message>
         <source>NoBorder.content</source>
@@ -252,7 +252,7 @@ Durum Çözümleme aracı, hedef hücreyi hesaplamak için kullanılan hücreler
     </message>
     <message>
         <source>RecentLineWrap.content</source>
-        <translation>Hücre içindeki tüm içeriği birden çok satırda görüntüleyerek görünür hale getirin.</translation>
+        <translation>Birden çok satırda görüntüleyerek bir hücre içindeki tüm içeriği görünür hale getirin.</translation>
     </message>
     <message>
         <source>PageSetup.title</source>
@@ -260,7 +260,7 @@ Durum Çözümleme aracı, hedef hücreyi hesaplamak için kullanılan hücreler
     </message>
     <message>
         <source>CircularReferences.title</source>
-        <translation>Dairesel Başvurular</translation>
+        <translation>Döngüsel Başvurular</translation>
     </message>
     <message>
         <source>Validation.title</source>
@@ -404,7 +404,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>PreviousComment.title</source>
-        <translation>Önceki Açıklama</translation>
+        <translation>Önceki.</translation>
     </message>
     <message>
         <source>FullScreenMode.title</source>
@@ -428,7 +428,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>ColumnsCenter.content</source>
-        <translation>Bir veya birden çok satırda sürekli hücreleri seçin, hücrelerin içeriğini merkeze ayarlayın.</translation>
+        <translation>Bir veya birden çok satırdaki bitişik hücreleri seçin, hücrelerin içeriğini merkeze ayarlayın.</translation>
     </message>
     <message>
         <source>DevelopmentTools.content</source>
@@ -436,7 +436,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>InsertClipArt.content</source>
-        <translation>Görev penceresinden bir Küçük Resim seçin ve belgeye ekleyin.</translation>
+        <translation>Belirli bir kavramı göstermek için çizimler, filmler, sesler veya stok fotoğrafları da dahil olmak üzere çalışma sayfasına Küçük Resim ekleyin.</translation>
     </message>
     <message>
         <source>Hyperlink.content</source>
@@ -444,7 +444,7 @@ Tablo içeren çalışma kitapları paylaşılamaz.</translation>
     </message>
     <message>
         <source>EditComment.content</source>
-        <translation>Açıklamayı düzenleyin.</translation>
+        <translation>Seçili açıklamayı düzenleyin.</translation>
     </message>
     <message>
         <source>WorkSheet.content</source>
@@ -506,7 +506,7 @@ Sütundaki yeni veya değiştirilmiş veriler, siz Yeniden Uygula&apos;yı tıkl
     </message>
     <message>
         <source>AdvancedFilter.content</source>
-        <translation>Sorgunun sonuç kümesine hangi kayıtların dahil edileceğini sınırlamak için karmaşık ölçütler belirtin.</translation>
+        <translation>Sorgunun sonuç kümesine hangi kayıtların dahil edileceğini kısıtlamak için karmaşık ölçütler belirtin.</translation>
     </message>
     <message>
         <source>ImportTxt.title</source>
@@ -572,7 +572,7 @@ Toplam satırı, tablonun en sonunda yer alan ve her sütunun toplamını görü
     </message>
     <message>
         <source>DetailedSettings_Home.content</source>
-        <translation>Yazı tipi, paragraf ve stil ve biçimlendirme ayarlarını değiştirin.</translation>
+        <translation>Hücre biçimlendirme ayarlarını değiştirin.</translation>
     </message>
     <message>
         <source>WorkSpace_Backup.title</source>
@@ -586,7 +586,7 @@ Ayrıca bunları ortalayabilir veya sayfa boyunca eşit olarak dağıtabilirsini
     </message>
     <message>
         <source>sp_Paste2.content</source>
-        <translation>Yalnızca biçimlendirilmemiş metni yapıştırma gibi daha fazla seçenek için burayı tıklayın.</translation>
+        <translation>Yalnızca değerleri yapıştırmak gibi daha fazla seçenek için burayı tıklayın.</translation>
     </message>
     <message>
         <source>PrintArea.content</source>
@@ -610,7 +610,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>NextComment.content</source>
-        <translation>Belgedeki bir sonraki açıklamaya gidin.</translation>
+        <translation>Sonraki açıklamaya gidin.</translation>
     </message>
     <message>
         <source>GraphicFillColor.title</source>
@@ -618,7 +618,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>ShowAllComments.title</source>
-        <translation>Tüm Yorumları Göster.</translation>
+        <translation>Tüm Açıklamaları Göster.</translation>
     </message>
     <message>
         <source>Margins.content</source>
@@ -638,7 +638,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.title</source>
-        <translation>Mevcut yorumu sıfırlayın.</translation>
+        <translation>Geçerli açıklamayı sıfırlayın.</translation>
     </message>
     <message>
         <source>FontColor.title</source>
@@ -674,7 +674,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>OnlineCooperation.content</source>
-        <translation>Belgeyi ortak düzenleme için açın.</translation>
+        <translation>Ortak düzenleme için belgeyi açın.</translation>
     </message>
     <message>
         <source>PTHide.title</source>
@@ -694,11 +694,11 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PDFToPPT.content</source>
-        <translation>Belgeleri PPT dosyalarına dönüştürün</translation>
+        <translation>PDF dosyalarını PPT dosyalarına dönüştürün</translation>
     </message>
     <message>
         <source>ShowAllComments.content</source>
-        <translation>Sayfadaki tüm yorumları görüntüleyin.</translation>
+        <translation>Sayfadaki tüm açıklamaları görüntüleyin.</translation>
     </message>
     <message>
         <source>LTRTextDirection.title</source>
@@ -734,7 +734,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PageZoom.content</source>
-        <translation>Yazdırılan çıktının genişliğini veya yüksekliğini, maksimum sayıda sayfaya sığacak şekilde veya gerçek boyutunun yüzdesine göre ölçeklendirin.</translation>
+        <translation>Yazdırılan çıktının genişliğini veya yüksekliğini maksimum sayfa sayısına veya gerçek boyutunun bir yüzdesine sığacak şekilde ölçeklendirin.</translation>
     </message>
     <message>
         <source>RowsAndColumn.title</source>
@@ -742,7 +742,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>CmpSideBySide.content</source>
-        <translation>Belgeler arasında geçiş yapmak yerine, onları yan yana görüntüleyin. Onları karşılaştırmayı kolaylaştırır.</translation>
+        <translation>Belgeler arasında ileri geri geçiş yapmak yerine, onları yan yana görüntüleyin. Onları karşılaştırmayı kolaylaştırır.</translation>
     </message>
     <message>
         <source>AlignmentFormatCells.content</source>
@@ -754,7 +754,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>GrowFont.content</source>
-        <translation>Yazı tipi boyutunu artırın.</translation>
+        <translation>Yazı tipi boyutunu büyütün.</translation>
     </message>
     <message>
         <source>Legend.content</source>
@@ -782,7 +782,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>InsertComment.content</source>
-        <translation>Belgeye seçim hakkında bir açıklama ekleyin.</translation>
+        <translation>Çalışma sayfasına seçim hakkında bir açıklama ekleyin.</translation>
     </message>
     <message>
         <source>FormatAsTable.title</source>
@@ -824,7 +824,7 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>StopRecordMacro.content</source>
-        <translation>Makro kaydını durdurun.</translation>
+        <translation>Makro kaydetmeyi durdurun.</translation>
     </message>
     <message>
         <source>ClearFilter.title</source>
@@ -834,11 +834,11 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
         <source>RecalculateBook.content</source>
         <translation>Tüm çalışma kitabını şimdi hesaplayın.
 
-Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
+Bunu yalnızca otomatik hesaplama kapatıldıysa kullanmanız gerekir.</translation>
     </message>
     <message>
         <source>Refresh.title</source>
-        <translation>Verileri Yenile</translation>
+        <translation>Veriyi Yenile</translation>
     </message>
     <message>
         <source>SparklineLowPoint.title</source>
@@ -850,7 +850,7 @@ Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>DeleteComment.title</source>
-        <translation>Açıklamayı Sil</translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>PrintTitle.title</source>
@@ -886,7 +886,9 @@ Bu, yalnızca otomatik hesaplama kapatılmışsa gereklidir.</translation>
     </message>
     <message>
         <source>Table.content</source>
-        <translation>Belgeye bir tablo ekleyin veya çizin ve metni tabloya veya tam tersine dönüştürün.</translation>
+        <translation>İlgili verileri yönetmek ve çözümlemek için bir tablo oluşturun.
+
+Tablolar, sayfa içindeki verileri sıralamayı, filtrelemeyi ve biçimlendirmeyi kolaylaştırır.</translation>
     </message>
     <message>
         <source>CustomViews.title</source>
@@ -930,9 +932,9 @@ Farklı bir metin rengi seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>FillColor.content</source>
-        <translation>Seçili şekli düz renk, gradyan, resim veya dokuyla doldurun.
+        <translation>Seçili hücrelerin arka planını renklendirin.
 
-Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
+Farklı bir arka plan rengi seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>DataTable.content</source>
@@ -960,7 +962,7 @@ Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>ShowPrecedents.title</source>
-        <translation>Etkileyenleri İzle</translation>
+        <translation>Etkileyenleri İzle.</translation>
     </message>
     <message>
         <source>Clear.content</source>
@@ -1064,7 +1066,7 @@ Belgedeki tüm bölümlere belirli bir kağıt boyutu uygulamak,  kağıt boyutu
     </message>
     <message>
         <source>CommaStyle.title</source>
-        <translation>Virgül Stili</translation>
+        <translation>Binlik Ayıracı</translation>
     </message>
     <message>
         <source>PrinterPaperSize.title</source>
@@ -1122,7 +1124,7 @@ Bu şeritli gösterim tabloların daha kolay okunmasını sağlar.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.title</source>
-        <translation>Görüntüye Aktar</translation>
+        <translation>Resme Aktar</translation>
     </message>
     <message>
         <source>Duplicates.content</source>
@@ -1218,7 +1220,7 @@ Birçok kişi, bir seçimin en üst satırındaki veya en soldaki sütundaki met
     </message>
     <message>
         <source>FillColor2.title</source>
-        <translation>Şekil Dolgusu</translation>
+        <translation>Dolgu Rengi</translation>
     </message>
     <message>
         <source>AllowEditRanges.content</source>
@@ -1236,7 +1238,7 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak sayfadaki gü
     </message>
     <message>
         <source>ImportData.content</source>
-        <translation>Seçili çalışma sayfasına dış verileri içe aktarın.</translation>
+        <translation>Dış verileri seçilen çalışma sayfasına aktarın.</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal2.content</source>
@@ -1256,7 +1258,7 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak sayfadaki gü
     </message>
     <message>
         <source>PivotChartAnalysis.content</source>
-        <translation>Verileri sınıflandırın, toplayın ve sonuçlarla grafikler oluşturun.</translation>
+        <translation>Verileri sınıflandırın ve özetleyin ve sonuçlarla grafikler oluşturun.</translation>
     </message>
     <message>
         <source>RefreshAll.content</source>
@@ -1279,7 +1281,7 @@ Bu özelliği kullanmadan önce, Sayfayı Koru komutunu kullanarak sayfadaki gü
         <translation>Bir satırı veya ilk hücresini seçin, üstüne yatay bir sayfa sonu eklenecektir.
 Bir sütun veya onun ilk hücresini seçin, sola dikey bir sayfa sonu eklenecektir.
 Herhangi bir satırın/sütunun ortasındaki bir hücreyi seçin, biri yukarıda, diğeri solda olmak üzere iki sayfa sonu eklenecektir.
-Sayfa Sonu Önizleme&apos;de sayfa sonlarını ayarlama için sürükleyebilirsiniz.</translation>
+Sayfa Sonu Önizlemesi&apos;nde, ayarlama için sayfa sonlarını sürükleyebilirsiniz.</translation>
     </message>
     <message>
         <source>DeleteRange2.content</source>
@@ -1291,11 +1293,11 @@ Sayfa Sonu Önizleme&apos;de sayfa sonlarını ayarlama için sürükleyebilirsi
     </message>
     <message>
         <source>IncreaseIndent.content</source>
-        <translation>Paragrafın girinti düzeyini artırın.</translation>
+        <translation>Kenarlık ve hücredeki metin arasındaki kenar boşluğunu artırın.</translation>
     </message>
     <message>
         <source>DecreaseIndent.content</source>
-        <translation>Paragrafın girinti düzeyini azaltın.</translation>
+        <translation>Kenarlık ile hücrede metin arasındaki kenar boşluğunu azaltın.</translation>
     </message>
     <message>
         <source>SortDescending.content</source>
@@ -1319,9 +1321,9 @@ Sayfa Sonu Önizleme&apos;de sayfa sonlarını ayarlama için sürükleyebilirsi
     </message>
     <message>
         <source>HeaderRow.content</source>
-        <translation>Tablodaki üstbilgi satırını açar veya kapatır.
+        <translation>Tablonun üstbilgi satırını açın veya kapatın.
 
-Üstbilgi satırı, en üst satırını özel olarak biçimlendirir.</translation>
+Üstbilgi satırı tablonun en üst satırını özel olarak biçimlendirir.</translation>
     </message>
     <message>
         <source>TextToColumns.content</source>
@@ -1333,7 +1335,7 @@ Writer&apos;da, seçili metni bir tabloya dönüştürmek, metni her virgül, no
     </message>
     <message>
         <source>ChineseTranslation.content</source>
-        <translation>Basitleştirilmiş - Geleneksel Çince için çeviri birimini karakter veya kelime olarak belirleyin.</translation>
+        <translation>Basitleştirilmiş - Geleneksel Çince&apos;nin karakter veya kelime olması için çeviri birimine karar verin.</translation>
     </message>
     <message>
         <source>AllBorders.content</source>
@@ -1381,7 +1383,7 @@ Writer&apos;da, seçili metni bir tabloya dönüştürmek, metni her virgül, no
     </message>
     <message>
         <source>FormsToolbox.title</source>
-        <translation>Form Ekle</translation>
+        <translation>Form Alanları Ekle</translation>
     </message>
     <message>
         <source>Security.content</source>
@@ -1393,7 +1395,7 @@ Writer&apos;da, seçili metni bir tabloya dönüştürmek, metni her virgül, no
     </message>
     <message>
         <source>RecenttlyUsed.title</source>
-        <translation>Son Kullanılanlar</translation>
+        <translation>Son Kullanılan</translation>
     </message>
     <message>
         <source>Average.content</source>
@@ -1411,7 +1413,7 @@ Writer&apos;da, seçili metni bir tabloya dönüştürmek, metni her virgül, no
         <source>AutoFilter.content</source>
         <translation>Seçili hücrelerin filtrelenmesini etkinleştirin.
 
-Filtreleme açıldığında, sütun için bir filtre seçmek üzere oku tıklayın.</translation>
+Filtreleme etkinleştirildikten sonra, sütun için bir filtre seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>ShowDetail.title</source>
@@ -1453,7 +1455,7 @@ Pencereyi geri getirmek için Göster düğmesine tıklayın.</translation>
     </message>
     <message>
         <source>ReadingLayout.content</source>
-        <translation>Geçerli hücre ile aynı satır veya sütunda bulunan ilgili verileri kontrol etmek için uygun.
+        <translation>Geçerli hücreyle aynı satırda veya sütunda bulunan ilgili verileri kontrol etmek için uygundur.
 
 Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
@@ -1463,8 +1465,7 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>What-If Analysis.title</source>
-        <translation>Durum 
-Çözümlemesi</translation>
+        <translation>Durum Çözümlemesi </translation>
     </message>
     <message>
         <source>WinLossSparkline.content</source>
@@ -1472,7 +1473,7 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>MergeColumns.content</source>
-        <translation>Bir veya birden çok satır boyunca hücreleri seçin ve birleştirin.</translation>
+        <translation>Bir veya daha fazla satırdaki hücreleri seçin ve birleştirin.</translation>
     </message>
     <message>
         <source>GraphicLineColor.title</source>
@@ -1480,7 +1481,7 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>ShowOrHideComment.title</source>
-        <translation>Yorumu Göster/Gizle.</translation>
+        <translation>Açıklamayı Göster/Gizle.</translation>
     </message>
     <message>
         <source>ThickBoxBorder.content</source>
@@ -1492,7 +1493,7 @@ Farklı bir renk seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>PrinterCollate.title</source>
-        <translation>Yazdırma Sırası</translation>
+        <translation>Yazdırma kuyruğu</translation>
     </message>
     <message>
         <source>FormatAlignThaiDistributed.content</source>
@@ -1502,7 +1503,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>PivotTableOrder.content</source>
-        <translation>Özet Tablo&apos;nun satır veya sütun alanını üst veya alt kısmına taşıyın.</translation>
+        <translation>Özet Tablo&apos;nun satır veya sütun alanını en üste veya en alta taşıyın.</translation>
     </message>
     <message>
         <source>Scientific.content</source>
@@ -1538,13 +1539,13 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>HeaderFooter.content</source>
-        <translation>Belgenin üstbilgi ve altbilgisini düzenleyin.
+        <translation>Belgenin üst bilgi ve alt bilgisini düzenleyin.
 
-Üstbilgi veya altbilgideki bilgiler, yazdırılan her sayfanın üstünde veya altında görünecektir.</translation>
+Üst bilgi veya alt bilgideki bilgiler, yazdırılan her sayfanın üstünde veya altında görünecektir.</translation>
     </message>
     <message>
         <source>SeriesInRows.content</source>
-        <translation>Grafikler serilerini satırlar halinde oluşturulur.</translation>
+        <translation>Grafik serileri satırlar halinde oluşturulur.</translation>
     </message>
     <message>
         <source>Find.title</source>
@@ -1564,9 +1565,9 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>PivotTable.content</source>
-        <translation>Özet Tablo kullanarak verileri özetlemek veya Özet Grafik eklemek için buraya tıklayın.
+        <translation>Özet Tablo kullanarak verileri özetlemek için buraya tıklayın.
 
-Özet Tablo&apos;lar karmaşık verileri düzenlemeyi, özetlemeyi ve ayrıntıya gitmeyi kolaylaştırır.</translation>
+Özet Tablo&apos;lar karmaşık verileri düzenlemeyi, özetlemeyi ve ayrıntıları incelemeyi kolaylaştırır.</translation>
     </message>
     <message>
         <source>ShowFormulas.title</source>
@@ -1606,7 +1607,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>ExistingConnections.title</source>
-        <translation>Varolan Bir Bağlantıyı Kullanarak Veri Al</translation>
+        <translation>Mevcut Bağlantıyı Kullanarak Veri Al</translation>
     </message>
     <message>
         <source>SplitSheet.title</source>
@@ -1670,11 +1671,11 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>DrawingToolsDetailedSettings.content</source>
-        <translation>DrawingToolsDetailedSettings İçeriği</translation>
+        <translation>Çizim Araçları Ayrıntılar Ayarlar İçeriği</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.title</source>
-        <translation>Grup konumunu ve verilerini düzenle</translation>
+        <translation>Grup konumunu ve verilerini düzenleyin</translation>
     </message>
     <message>
         <source>PTFilterConnections.content</source>
@@ -1686,8 +1687,7 @@ Böylece belge düzgün bir görünüme sahip olur.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation>Resim 
-Ekle</translation>
+        <translation>Resim Ekle</translation>
     </message>
     <message>
         <source>PTFilterConnections.title</source>
@@ -1739,7 +1739,7 @@ Metni normal yöne geri döndürmek için, şu an seçili olan metin yönünü t
     </message>
     <message>
         <source>FillColor.title</source>
-        <translation>Şekil Dolgusu</translation>
+        <translation>Dolgu Rengi</translation>
     </message>
     <message>
         <source>AdvancedFilter.title</source>
@@ -1755,7 +1755,7 @@ Metni normal yöne geri döndürmek için, şu an seçili olan metin yönünü t
     </message>
     <message>
         <source>CommaStyle.content</source>
-        <translation>Binlik ayırıcı ile hücrenin değerini görüntüleyin.</translation>
+        <translation>Hücrenin değerini binlik ayırıcıyla görüntüleyin.</translation>
     </message>
     <message>
         <source>LockSideBySide.content</source>
@@ -1781,8 +1781,7 @@ Bu özelliği etkinleştirmek için Yan Yana Görüntüle seçeneğini açın.</
     </message>
     <message>
         <source>RecentLineWrap.title</source>
-        <translation>Metni 
-Kaydır</translation>
+        <translation>Metni Kaydır</translation>
     </message>
     <message>
         <source>AutoSum.title</source>
@@ -1818,7 +1817,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>DocumentSlimming.title</source>
-        <translation>Dosya Sıkıştırma</translation>
+        <translation>Belge Sıkıştırma</translation>
     </message>
     <message>
         <source>MergeCancel.title</source>
@@ -1838,7 +1837,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>sp_AutoSum2.content</source>
-        <translation>Seçilen hücrelerden sonra Ortalama veya Maksimum değer gibi basit bir hesaplamanın sonucunu görüntülemek için buraya tıklayın.</translation>
+        <translation>Seçili hücrelerden sonra Ortalama veya Maksimum değer gibi basit bir hesaplamanın sonucunu görüntülemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>PercentStyle.title</source>
@@ -1866,7 +1865,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>sp_AutoSum.content</source>
-        <translation>Seçilen hücrelerin toplamını, seçilen hücrelerin hemen ardından görüntüleyin.</translation>
+        <translation>Seçili hücrelerin toplamını, seçili hücrelerden hemen sonra görüntüleyin.</translation>
     </message>
     <message>
         <source>SplitMerge.title</source>
@@ -1894,11 +1893,11 @@ Kaydır</translation>
     </message>
     <message>
         <source>NameDefine.content</source>
-        <translation>Formüllerde bu ada göre başvurabilmeniz için hücreleri adlandırın.
+        <translation>Formüllerde ada göre başvurabilmeniz için hücrelere ad verin.
 
-Örneğin, A1: A10 hücrelerini seçin ve bu hücre aralığını &quot;test&quot; olarak adlandırın.
+Örneğin, A1 ile A10 arasındaki hücreleri seçin ve bu hücre aralığını &quot;test&quot; olarak adlandırın.
 
-İsimler formüllerde anlaşılmasını kolaylaştırmak için kullanılabilir.</translation>
+İsimler, formüllerin anlaşılmasını kolaylaştırmak için kullanılabilir.</translation>
     </message>
     <message>
         <source>PTRepeatLabels.title</source>
@@ -1964,7 +1963,7 @@ Bu çizgiler ayrıca Yazdır seçeneği işaretlenmedikçe yazdırılmaz.</trans
     </message>
     <message>
         <source>SparklineLowPoint.content</source>
-        <translation>Seçili mini grafik grubunun en düşük veri noktalarını vurgulayın.</translation>
+        <translation>Seçili mini grafik grubundaki en düşük veri noktalarını vurgulayın.</translation>
     </message>
     <message>
         <source>DuplicateItemsManager.title</source>
@@ -1996,11 +1995,11 @@ Bu çizgiler ayrıca Yazdır seçeneği işaretlenmedikçe yazdırılmaz.</trans
     </message>
     <message>
         <source>PageOrientation.title</source>
-        <translation>Sayfa Yönlendirme</translation>
+        <translation>Kağıt Yönü</translation>
     </message>
     <message>
         <source>PageBreakPreview.content</source>
-        <translation>Çalışma kitabı yazdırıldığında sayfaların nerede kesileceğinin bir önizlemesini görüntüleyin.</translation>
+        <translation>Çalışma kitabı yazdırıldığında sayfaların nerede kesileceğinin önizlemesini görüntüleyin.</translation>
     </message>
     <message>
         <source>FontFormatCells.title</source>
@@ -2012,7 +2011,7 @@ Bu çizgiler ayrıca Yazdır seçeneği işaretlenmedikçe yazdırılmaz.</trans
     </message>
     <message>
         <source>ShapeLineColor.content</source>
-        <translation>Seçilen nesnenin anahattı için renk, genişlik ve çizgi stilini ayarlayın.
+        <translation>Seçili nesnenin anahattı için renk, genişlik ve çizgi stilini ayarlayın.
 
 Anahat için ayrıntılı ayarlar seçmek üzere oku tıklayın.</translation>
     </message>
@@ -2022,11 +2021,11 @@ Anahat için ayrıntılı ayarlar seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>ShapeFillAndOutLine.content</source>
-        <translation>1. Shape Fill
-Fill selected objects with colors, gradients, textures, and pictures.
-2. Shape Outline
-Configure colors, weights, and dashes for selected objects.
-Click Arrows for detailed configuration.</translation>
+        <translation>1. Şekil Dolgusu
+Seçili nesneleri renk, gradyan, doku ve resimlerle doldurun.
+2. Şekil Anahattı
+Seçilen nesneler için renk, kalınlık ve çizgileri yapılandırın.
+Ayrıntılı yapılandırma için Okları tıklayın.</translation>
     </message>
     <message>
         <source>AlignRight.title</source>
@@ -2058,11 +2057,11 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PageZoom.title</source>
-        <translation>Yakınlaştır</translation>
+        <translation>Sayfayı Yakınlaştır</translation>
     </message>
     <message>
         <source>ShowDependents.content</source>
-        <translation>Seçili hücrenin değerinden hangi hücrelerin etkilendiğini gösteren okları göster.</translation>
+        <translation>Şu anda seçili olan hücrenin değerinin hangi hücreleri etkilediğini gösteren oklar görüntüleyin.</translation>
     </message>
     <message>
         <source>TopAndBottomBorder.title</source>
@@ -2074,7 +2073,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>Accounting.content</source>
-        <translation>Seçilen hücre için alternatif bir Muhasebe biçimi seçin ve para birimi simgesinin sola hizalanmasını sağlayın.</translation>
+        <translation>Seçilen hücre için alternatif bir para birimi biçimi seçin ve para birimi simgesinin sola hizalanmasına izin verin.</translation>
     </message>
     <message>
         <source>DataUngroup2.content</source>
@@ -2114,7 +2113,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>SheetBackground.content</source>
-        <translation>Arka planınız için bir resim seçin ve çalışma sayfanızı kişiselleştirin.</translation>
+        <translation>Arka planınız için bir resim seçerek çalışma sayfanızı kişiselleştirin.</translation>
     </message>
     <message>
         <source>SlicerItemWidth.content</source>
@@ -2154,19 +2153,21 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>RTLTextDirection.content</source>
-        <translation>Set the text to read from right to left.</translation>
+        <translation>Metni sağdan sola okunacak şekilde ayarlayın.</translation>
     </message>
     <message>
         <source>Printer.content</source>
-        <translation>Yazdırmayı yürütmek için bir yazıcı seçin.</translation>
+        <translation>Yazıcı seçin.</translation>
     </message>
     <message>
         <source>InsertPageBreak.content</source>
-        <translation>Sonraki sayfayı geçerli imleç konumunda başlatın, imleçten sonraki içerik yeni sayfaya taşınacaktır.</translation>
+        <translation>Basılı kopyada yeni bir sayfanın nereden başlayacağını belirtin.
+
+Sayfa sonları, seçimin yukarısına ve soluna eklenir.</translation>
     </message>
     <message>
         <source>PrintTitle.content</source>
-        <translation>Yazdırılan her sayfada tekrarlanacak satır ve sütunları belirtin.</translation>
+        <translation>Yazdırılan her sayfada yinelenecek satır ve sütunları belirtin.</translation>
     </message>
     <message>
         <source>LockAspectRatio.content</source>
@@ -2178,11 +2179,11 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>SparklineMarkers.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen mini grafik grubundaki mini grafiğin her satırındaki her noktayı vurgular.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.content</source>
-        <translation>Dilimleyicinin bağlı olduğu Özet Tablo&apos;ları yönetin.</translation>
+        <translation>Dilimleyicinin hangi Özet Tablo&apos;lara bağlı olduğunu yönetin.</translation>
     </message>
     <message>
         <source>ShapeLineColor2.content</source>
@@ -2198,7 +2199,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PrinterSide.content</source>
-        <translation>Çift taraflı olup olmadığını belirtin.</translation>
+        <translation>Nasıl yazdıracağınızı belirtin: tek taraflı veya çift taraflı.</translation>
     </message>
     <message>
         <source>TrackChanges.content</source>
@@ -2210,11 +2211,11 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>SameLetterHeights.title</source>
-        <translation>WordArt Benzer Harf Yükseklikleri</translation>
+        <translation>WordArt Aynı Harf Yükseklikleri</translation>
     </message>
     <message>
         <source>LTRTextDirection.content</source>
-        <translation>Set the text to read from left to right.</translation>
+        <translation>Metni soldan sağa okunacak şekilde ayarlayın.</translation>
     </message>
     <message>
         <source>ExitPreview.content</source>
@@ -2234,21 +2235,21 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>ConditionalFormat.content</source>
-        <translation>Çalışma sayfasının içeriği ile yazdırılan sayfanın kenarı arasındaki mesafeyi belirtin.</translation>
+        <translation>Verileri görsel olarak keşfedin ve analiz edin, kritik sorunları tespit edin ve kalıpları ve eğilimleri belirleyin.</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Seçilen şekli düz renk, geçiş, resim veya doku ile doldurun.
+        <translation>Seçili şekli düz renk, gradyan, resim veya dokuyla doldurun.
 
 Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.title</source>
-        <translation>Geçerli sayfanın tüm yorumlarını sıfırla.</translation>
+        <translation>Geçerli sayfanın tüm açıklamalarını sıfırla.</translation>
     </message>
     <message>
         <source>ColumnsCenter.title</source>
-        <translation>Yatay Ortala</translation>
+        <translation>Arasında Ortala</translation>
     </message>
     <message>
         <source>PrintHeadings.title</source>
@@ -2268,11 +2269,9 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>NameManager.content</source>
-        <translation>Çalışma kitabında kullanılan tüm adları oluşturma, düzenleme, silme ve bulma
+        <translation>Çalışma kitabında kullanılan tüm adları oluşturun, düzenleyin, silin ve bulun.
 
-İsimler formüllerde hücre referanslarının yerine kullanılabilir.
-
-Örneğin:</translation>
+Adlar formüllerde hücre başvuruları yerine kullanılabilir.</translation>
     </message>
     <message>
         <source>Thesaurus.title</source>
@@ -2280,7 +2279,7 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>PrinterMoreSetup.content</source>
-        <translation>Yazıcıyı, kopya sayısı, çift yönlü mod vb. dahil olmak üzere daha ayrıntılı kurulum için yazdırma iletişim kutusunu açın.</translation>
+        <translation>Yazıcı seçme, sayfaları yazdırma, çift taraflı yazdırma, yakınlaştırma ve daha fazla ayar için tıklayın.</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
@@ -2288,7 +2287,7 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>LockTitleRows.content</source>
-        <translation>Büyük miktarda veri okurken başlık satırının sürekli referans olması için her zaman gösterilmesini sağlayın.</translation>
+        <translation>Büyük miktarda veri okurken başlık satırının sürekli başvuru için her zaman gösterilmesini sağlayın.</translation>
     </message>
     <message>
         <source>GraphicLineColor2.content</source>
@@ -2312,7 +2311,7 @@ Sayfa korumasını kaldırmak ve bu değişikliklere izin vermek için bir parol
     </message>
     <message>
         <source>SparklineSeriesColor.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik Rengi</translation>
     </message>
     <message>
         <source>ConditionalFormatting.title</source>
@@ -2320,9 +2319,9 @@ Sayfa korumasını kaldırmak ve bu değişikliklere izin vermek için bir parol
     </message>
     <message>
         <source>Connections.content</source>
-        <translation>Çalışma kitabı için tüm veri bağlantılarını göster.
+        <translation>Çalışma kitabının tüm veri bağlantılarını görüntüleyin.
 
-Veri Bağlantıları, kaynak çalışma verileri değiştiğinde güncellenebilecek olan bu çalışma kitabının dışındaki bağlantılardır.</translation>
+Veri bağlantıları, bu çalışma kitabının dışında yer alan verilere yönelik bağlantılardır. Bu bağlantılar, kaynak veriler değiştirildiğinde güncelleştirilebilir.</translation>
     </message>
     <message>
         <source>EDRProperties.title</source>
@@ -2330,11 +2329,11 @@ Veri Bağlantıları, kaynak çalışma verileri değiştiğinde güncellenebile
     </message>
     <message>
         <source>SparklineMarkerColor.title</source>
-        <translation type="unfinished"/>
+        <translation>İşaretçi Rengi</translation>
     </message>
     <message>
         <source>SparklineEditGroupData.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili mini grafik grubunun konumunu ve veri kaynağını değiştirin.</translation>
     </message>
     <message>
         <source>ThickBottomBorder.title</source>
@@ -2342,7 +2341,7 @@ Veri Bağlantıları, kaynak çalışma verileri değiştiğinde güncellenebile
     </message>
     <message>
         <source>FormatAsTable.content</source>
-        <translation>Bir hücre aralığını kendi stiliyle bir tabloya hızla dönüştürün.</translation>
+        <translation>Bir hücre aralığını, kendi stilini koruyarak hızlı bir şekilde tabloya dönüştürün.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
@@ -2350,11 +2349,11 @@ Veri Bağlantıları, kaynak çalışma verileri değiştiğinde güncellenebile
     </message>
     <message>
         <source>PictureToText.title</source>
-        <translation>Convert Picture to Text</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>RunMacro.content</source>
-        <translation>Makrolar iletişim kutusunu gösterin ve makroyu çalıştırabileceğiniz, oluşturabileceğiniz veya silebileceğiniz makrolar listesini görüntüleyin.</translation>
+        <translation>Makrolar iletişim kutusunu göster. Bir makroyu çalıştırabileceğiniz, oluşturabileceğiniz veya silebileceğiniz makroların listesini görüntüleyin.</translation>
     </message>
     <message>
         <source>AlignLeft.content</source>
@@ -2366,7 +2365,7 @@ Veri Bağlantıları, kaynak çalışma verileri değiştiğinde güncellenebile
     </message>
     <message>
         <source>TextSpeech.content</source>
-        <translation>Metni konuşmaya çevirin. Bu özellik için her gün bir ücretsiz deneme hakkınız var.</translation>
+        <translation>Metni konuşmaya dönüştürün. Bu özelliği iki günlük deneme süresi boyunca kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>Max.title</source>
@@ -2402,7 +2401,7 @@ Veri Bağlantıları, kaynak çalışma verileri değiştiğinde güncellenebile
     </message>
     <message>
         <source>PTSubtotals.content</source>
-        <translation>Alt toplamları göster veya gizle.</translation>
+        <translation>Alt toplamları gösterin veya gizleyin.</translation>
     </message>
     <message>
         <source>DetailedSettings_Home.title</source>
@@ -2426,7 +2425,7 @@ Bu sadece otomatik hesaplama kapatılmışsa gereklidir.</translation>
         <source>Gallery.content</source>
         <translation>WPS Galeri, kullanmanız, toplamanız, düzenlemeniz ve yönetmeniz için her türlü resim kaynağını sağlar.
 
-WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translation>
+WPS Galeri Çevrimiçi Kaynakları, internet bağlantısı gerektirir.</translation>
     </message>
     <message>
         <source>NumberFormatCells.content</source>
@@ -2438,9 +2437,9 @@ WPS Galeri Çevrimiçi Kaynakları İnternet bağlantısı gerektirir.</translat
     </message>
     <message>
         <source>GraphicFillColor.content</source>
-        <translation>Seçilen grafiği düz bir renkle doldurun.
+        <translation>Seçilen grafiği renkle doldurun.
 
-Farklı dolgu efektleri seçmek için oku tıklayın.</translation>
+Farklı efektlerle doldurmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>InsertRange2.content</source>
@@ -2470,7 +2469,7 @@ Farklı dolgu efektleri seçmek için oku tıklayın.</translation>
         <source>PTHideFieldList.content</source>
         <translation>Alan Listesini göster veya gizle.
 
-Alan listesi, alan eklemenizi ve silmenizi sağlar.</translation>
+Alan listesi, alan eklemenizi ve kaldırmanızı sağlar.</translation>
     </message>
     <message>
         <source>SlicerSetting.title</source>
@@ -2478,17 +2477,19 @@ Alan listesi, alan eklemenizi ve silmenizi sağlar.</translation>
     </message>
     <message>
         <source>LookupAndReference.title</source>
-        <translation>Arama &amp; Başvuru</translation>
+        <translation>Arama ve Başvuru</translation>
     </message>
     <message>
         <source>SplitPanes.content</source>
         <translation>Pencereyi, çalışma sayfanızın görünümlerini içeren birden çok yeniden boyutlandırılabilir bölmeye bölün.
 
-Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek için bu özelliği kullanabilirsiniz.</translation>
+Çalışma sayfanızın birden çok uzak bölümünü aynı anda görüntülemek için bu özelliği kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>PageLayoutView.content</source>
-        <translation type="unfinished"/>
+        <translation>Belgenizin yazdırıldığında nasıl görüneceğine bakın.
+
+Bu, sayfaların nerede başlayıp nerede bittiğini kontrol etmenin ve sayfadaki üstbilgi ve altbilgileri görmenin iyi bir yoludur.</translation>
     </message>
     <message>
         <source>PrintHeaderFooter.title</source>
@@ -2500,7 +2501,7 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation type="unfinished"/>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>StopAutoVersion.title</source>
@@ -2512,15 +2513,15 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>SparklineFirstPoint.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik İlk Noktasını Aç/Kapat</translation>
     </message>
     <message>
         <source>PrevPreviousPage.title</source>
-        <translation>Finansal işlevler listesine göz atın ve seçim yapın.</translation>
+        <translation>Önceki Sayfa</translation>
     </message>
     <message>
         <source>ClearArrows.content</source>
-        <translation>İzleme Emsalleri veya Bağımlılar tarafından çizilen okları kaldırın.</translation>
+        <translation>Etkileyenleri İzle veya Bağımlıları İzle tarafından çizilen okları kaldırın.</translation>
     </message>
     <message>
         <source>TranslateToTraditionalChinese.title</source>
@@ -2532,15 +2533,15 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>sp_Copy.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçimi nasıl kopyalamak istediğinizi seçin.</translation>
     </message>
     <message>
         <source>LeftBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>Morefunctions.content</source>
-        <translation>İstatistik, mühendislik, küp ve bilgi işlevleri listelerine göz atın ve seçim yapın.</translation>
+        <translation>İstatistik, mühendislik, küp ve bilgi işlevleri listelerine göz atın ve listeden seçim yapın.</translation>
     </message>
     <message>
         <source>OtherBorders.content</source>
@@ -2560,13 +2561,13 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>FuncCatDateAndTime.title</source>
-        <translation>Tarih &amp; Zaman</translation>
+        <translation>Tarih ve Saat</translation>
     </message>
     <message>
         <source>ProtectAndShare.content</source>
-        <translation>Çalışma kitabını paylaşın ve aynı anda bir parola ile koruyun.
+        <translation>Çalışma kitabını paylaşın ve aynı anda bir parolayla koruyun.
 
-Şifre, başkalarının değişiklik izlemeyi kapatmasını önleyecektir.</translation>
+Parola, başkalarının değişiklik izlemeyi kapatmasını engeller.</translation>
     </message>
     <message>
         <source>OtherBorders.title</source>
@@ -2574,20 +2575,19 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>LockSideBySide.title</source>
-        <translation>Senkron Kaydırma.</translation>
+        <translation>Zaman Uyumlu Kaydırma.</translation>
     </message>
     <message>
         <source>TopAndDloubleBottomBorder.content</source>
-        <translation>Seçili hücrelere kenarlık uygulayın.</translation>
+        <translation>Seçili durumdaki hücrelere kenarlık uygulayın.</translation>
     </message>
     <message>
         <source>What-If%20Analysis.title</source>
-        <translation>Durum 
-Çözümlemesi</translation>
+        <translation>Durum Çözümlemesi</translation>
     </message>
     <message>
         <source>ExistingConnections.content</source>
-        <translation>Ortak kaynaklardaki verileri içe aktar.</translation>
+        <translation>Ortak kaynaklardan verileri içeri aktarın.</translation>
     </message>
     <message>
         <source>DrawBorder.content</source>
@@ -2605,7 +2605,7 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>EtPhotoedit2.content</source>
-        <translation type="unfinished"/>
+        <translation>EtPhotoedit2</translation>
     </message>
     <message>
         <source>PrintPreviewZoomCombo.title</source>
@@ -2617,7 +2617,7 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>SparklineLastPoint.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik Son Noktasını Aç/Kapat</translation>
     </message>
     <message>
         <source>PrintPreview.title</source>
@@ -2625,17 +2625,17 @@ Aynı anda çalışma sayfanızda birden çok uzak parçaları görüntülemek i
     </message>
     <message>
         <source>DeleteComment.content</source>
-        <translation>Seçilen yorumu silin.</translation>
+        <translation>Seçili açıklamayı silin.</translation>
     </message>
     <message>
         <source>SlicerReportConnection.title</source>
-        <translation>Bağlantıları Raporla</translation>
+        <translation>Rapor Bağlantıları</translation>
     </message>
     <message>
         <source>Slicer.content</source>
-        <translation>Verileri görsel olarak süzmek için bir Dilimleyici kullanın.
+        <translation>Verileri görsel olarak filtrelemek için bir dilimleyici kullanın.
 
-Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale getirir.</translation>
+Dilimleyiciler Özet Tablo&apos;ların daha hızlı ve daha kolay filtrelenmesini sağlar.</translation>
     </message>
     <message>
         <source>LockCell.title</source>
@@ -2643,11 +2643,11 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>SourceData.title</source>
-        <translation>Veri Seç</translation>
+        <translation>Verileri Seç</translation>
     </message>
     <message>
         <source>EtPhotoedit2.title</source>
-        <translation type="unfinished"/>
+        <translation>EtPhotoedit2</translation>
     </message>
     <message>
         <source>TextFill2.title</source>
@@ -2655,7 +2655,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>SparklineConvertToLine.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen mini grafik grubunu bir mini grafik olarak değiştirin.</translation>
     </message>
     <message>
         <source>ResizeTable.content</source>
@@ -2667,15 +2667,15 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>AllFunction.content</source>
-        <translation>Tüm fonksiyonları içeren listeye göz atın ve seçim yapın.</translation>
+        <translation>Tüm işlevleri içeren listeye göz atın ve listeden seçim yapın.</translation>
     </message>
     <message>
         <source>CTB_DesignMode.content</source>
-        <translation>Denetimlerin isim ve fonksiyonlarını düzenlemek için tasarım moduna girin.</translation>
+        <translation>Denetimin adlarını ve işlevlerini düzenlemek için tasarım moduna girin.</translation>
     </message>
     <message>
         <source>ColumnSparkline.title</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Mini Grafikleri</translation>
     </message>
     <message>
         <source>DynamicShape.title</source>
@@ -2683,11 +2683,11 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>SparklineHighPoint.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen mini grafik grubundaki en yüksek veri noktalarını vurgulayın.</translation>
     </message>
     <message>
         <source>SparklineLastPoint.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen mini grafik grubundaki son veri noktasını vurgulayın.</translation>
     </message>
     <message>
         <source>AllBorders.title</source>
@@ -2695,19 +2695,19 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>EditConnectionProperties.content</source>
-        <translation>Komut türünü seçin, ilgili bir sorgu ifadesi girin ve içe aktarılan verileri süzün.</translation>
+        <translation>Komut türünü seçin, ilgili bir sorgu ifadesi girin ve içe aktarılan verileri filtreleyin.</translation>
     </message>
     <message>
         <source>ExportWeiboImageCmd.content</source>
-        <translation>Belgeyi görüntüye aktar</translation>
+        <translation>Belgeyi bir görüntüye aktarın</translation>
     </message>
     <message>
         <source>InsertComment.title</source>
-        <translation>Yeni Yorum</translation>
+        <translation>Yeni Açıklama</translation>
     </message>
     <message>
         <source>NextComment.title</source>
-        <translation>Sonraki Açıklama</translation>
+        <translation>Sonraki.</translation>
     </message>
     <message>
         <source>ReadingLayout2.content</source>
@@ -2723,7 +2723,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>EditComment.title</source>
-        <translation>Yorumu Düzenle</translation>
+        <translation>Açıklamayı Düzenle</translation>
     </message>
     <message>
         <source>SheetBackground.title</source>
@@ -2735,7 +2735,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>ShowOrHideComment.content</source>
-        <translation>Seçilen hücreye eklenen yorumu gösterin veya gizleyin.</translation>
+        <translation>Etkin hücredeki açıklamayı gösterin veya gizleyin.</translation>
     </message>
     <message>
         <source>PivotTableDelete.content</source>
@@ -2747,15 +2747,15 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>PrevLandscape.content</source>
-        <translation>Çalışma sayfasında sayfaları yatay olarak ayarlayın.</translation>
+        <translation>Çalışma sayfalarını yatay olarak ayarlayın.</translation>
     </message>
     <message>
         <source>HighlighDuplicates.title</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen Ayarlar</translation>
     </message>
     <message>
         <source>PrevPreviousPage.content</source>
-        <translation>Yazdırılan bir önceki sayfaya gidin.</translation>
+        <translation>Geçerli çalışma sayfasının önceki yazdırma sayfasına gidin.</translation>
     </message>
     <message>
         <source>TranslateToSimplifiedChinese.title</source>
@@ -2763,7 +2763,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>WinLossSparkline.title</source>
-        <translation type="unfinished"/>
+        <translation>Kazanç/Kayıp Mini Grafikleri</translation>
     </message>
     <message>
         <source>Consolidate.content</source>
@@ -2775,7 +2775,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>PrintPreview.content</source>
-        <translation>Önizleyebilir ve yazdırmadan önce sayfada değişiklikler yapabilirsiniz.</translation>
+        <translation>Yazdırmadan önce sayfaların önizlemesini görüntüleyin ve değişiklikleri yapın.</translation>
     </message>
     <message>
         <source>RightBorder.title</source>
@@ -2791,7 +2791,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>LineSparkline.title</source>
-        <translation type="unfinished"/>
+        <translation>Mini Grafik</translation>
     </message>
     <message>
         <source>InsertClipArt.title</source>
@@ -2799,7 +2799,7 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>MergeCancel.content</source>
-        <translation>Geçerli hücreyi birden çok hücreye ayırın.</translation>
+        <translation>Geçerli hücreyi birden çok hücreye bölün.</translation>
     </message>
     <message>
         <source>Subtotals.title</source>
@@ -2819,9 +2819,9 @@ Dilimleyiciler, Özet Tablo&apos;ları süzmeyi daha hızlı ve daha kolay hale 
     </message>
     <message>
         <source>RemoveDuplicates.content</source>
-        <translation>Sayfadaki yinelenen satırları silin.
+        <translation>Yinelenen satırları sayfadan silin.
 
-Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz.</translation>
+Hangi sütunların yinelenen bilgi açısından denetleneceğini seçebilirsiniz.</translation>
     </message>
     <message>
         <source>Logical.title</source>
@@ -2829,7 +2829,7 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>FormatAlignThaiDistributed.title</source>
-        <translation>Thai Distributed</translation>
+        <translation>Dağıtılan Tay Dili</translation>
     </message>
     <message>
         <source>InsertDropDownList.title</source>
@@ -2837,7 +2837,7 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>PTHideDetail.content</source>
-        <translation>Etkin alandaki tüm öğeleri gizle.</translation>
+        <translation>Etkin alanın tüm öğelerini gizleyin.</translation>
     </message>
     <message>
         <source>AlignCenter.content</source>
@@ -2857,7 +2857,7 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>FuncCatText.content</source>
-        <translation>Metin işlevleri listesine göz atın ve seçim yapın.</translation>
+        <translation>Metin işlevleri listesine göz atın ve listeden seçim yapın.</translation>
     </message>
     <message>
         <source>PTRefreshData.content</source>
@@ -2865,7 +2865,7 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>WorkSpace_Backup.content</source>
-        <translation>Geçerli belge için otomatik veya manuel yedeklemeyi ayarlayın. Yedekleme Dosya Kasanıza kaydedilir.</translation>
+        <translation>Geçerli belge için otomatik veya elle yedeklemeyi etkinleştirin. Yedek, Dosya Kasanıza kaydedilecektir.</translation>
     </message>
     <message>
         <source>PTRefreshAllData.title</source>
@@ -2877,11 +2877,11 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>DataUngroup.content</source>
-        <translation>Daha önce gruplandırılmış bir hücre aralığını gruptan çıkarın.</translation>
+        <translation>Daha önce gruplandırılmış olan hücre aralığının grubunu çözün.</translation>
     </message>
     <message>
         <source>PreviousComment.content</source>
-        <translation>Sayfadaki önceki açıklamayı seçin.</translation>
+        <translation>Önceki açıklamaya gidin.</translation>
     </message>
     <message>
         <source>RunMacro.title</source>
@@ -2893,7 +2893,7 @@ Yinelenen bilgiler için hangi sütunların kontrol edileceğini seçebilirsiniz
     </message>
     <message>
         <source>GraphicLineColor.content</source>
-        <translation>Seçilen grafiğin anahattı için renk, genişlik ve çizgi stilini ayarlayın.
+        <translation>Seçili grafiğin anahattı için renk, genişlik ve çizgi stilini ayarlayın.
 
 Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
@@ -2903,7 +2903,7 @@ Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>ResetCommentAnchor.content</source>
-        <translation>Geçerli yorumun konumunu ve boyutunu sıfırla.</translation>
+        <translation>Geçerli açıklamanın bağlantısını ve boyutunu sıfırlayın.</translation>
     </message>
     <message>
         <source>CompressPictures.title</source>
@@ -2919,7 +2919,7 @@ Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>DocumentSlimming.content</source>
-        <translation>&quot;dosya sıkıştırma&quot; özelliği dosya boyutunu azaltmanıza yardımcı olabilir.</translation>
+        <translation>Dosya boyutunu küçültmenize yardımcı olur.</translation>
     </message>
     <message>
         <source>Underline.title</source>
@@ -2935,7 +2935,7 @@ Anahat için ayrıntılı ayarları seçmek üzere oku tıklayın.</translation>
     </message>
     <message>
         <source>Find.content</source>
-        <translation>Belgedeki metni bulun.
+        <translation>Çalışma kitabında metin bulun.
 
 Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
@@ -2953,9 +2953,9 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>ConvertToRange.content</source>
-        <translation>Bu tabloyu normal bir hücre aralığına dönüştürün.
+        <translation>Bu tabloyu normal hücre aralığına dönüştürün.
 
-Tüm veriler korunur.</translation>
+Verilerin tümü korunur.</translation>
     </message>
     <message>
         <source>ReadingLayout2.title</source>
@@ -2991,15 +2991,15 @@ Tüm veriler korunur.</translation>
     </message>
     <message>
         <source>EvaluateFormula.content</source>
-        <translation>Formülün her bir bölümünü ayrı ayrı değerlendirerek bir formülün hatalarını ayıklamak için Formülü Değerlendir iletişim kutusunu açın.</translation>
+        <translation>Formülün her bir bölümünü ayrı ayrı değerlendirerek bir formülde hata ayıklamak için Formülü Değerlendir iletişim kutusunu gösterin.</translation>
     </message>
     <message>
         <source>ResetAllCommentsAnchor.content</source>
-        <translation>Tüm yorumların konumunu ve geçerli sayfanın boyutunu sıfırla.</translation>
+        <translation>Tüm açıklamaların bağlantısını ve geçerli sayfanın boyutunu sıfırlayın.</translation>
     </message>
     <message>
         <source>PDFToWord.title</source>
-        <translation>PDF&apos;den Word&apos;e</translation>
+        <translation>PDF&apos;yi Word&apos;e Dönüştür</translation>
     </message>
     <message>
         <source>InsertTextboxHorizontal.title</source>
@@ -3007,11 +3007,11 @@ Tüm veriler korunur.</translation>
     </message>
     <message>
         <source>FormsToolbox.content</source>
-        <translation>Select different controls to insert into the document, such as labels, check boxes, scroll bars, and spinners.</translation>
+        <translation>Belgeye eklemek için etiketler, onay kutuları, kaydırma çubukları ve döndürücüler gibi farklı denetimler seçin.</translation>
     </message>
     <message>
         <source>FullScreenMode.content</source>
-        <translation>Çalışma kitabını tam ekran modunda görüntüle</translation>
+        <translation>Çalışma kitabını tam ekran modunda görüntüleyin</translation>
     </message>
     <message>
         <source>FontFormatCells.content</source>
@@ -3019,7 +3019,7 @@ Tüm veriler korunur.</translation>
     </message>
     <message>
         <source>AlignJustify.title</source>
-        <translation>Yasla</translation>
+        <translation>İki Yana Yasla</translation>
     </message>
     <message>
         <source>ModifyPivotTable.title</source>
@@ -3037,17 +3037,17 @@ Tüm veriler korunur.</translation>
         <source>InsertSlicer.content</source>
         <translation>Verileri görsel olarak filtrelemek için bir Dilimleyici kullanın.
 
-Dilimleyiciler Özet Tabloları filtrelemeyi hızlandırır ve kolaylaştırır.</translation>
+Dilimleyiciler, Özet Tabloları filtrelemeyi daha hızlı ve daha kolay hale getirir.</translation>
     </message>
     <message>
         <source>FormatPainter.content</source>
-        <translation>Biçimlendirmeyi bir yerden kopyalayın ve başka bir yere uygulayın.
+        <translation>Biçimlendirmeyi bir yerden kopyalayıp başka bir yere uygulayın.
 
 Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi çift tıklayın.</translation>
     </message>
     <message>
         <source>DocumentFix.title</source>
-        <translation>Belge Düzeltme</translation>
+        <translation>Belge Düzeltme.</translation>
     </message>
     <message>
         <source>SpellCheck.title</source>
@@ -3055,7 +3055,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>PrintDirect.content</source>
-        <translation>Değişiklik yapmadan belgeyi doğrudan varsayılan yazıcıya gönderin.</translation>
+        <translation>Belgeyi değişiklik yapmadan doğrudan varsayılan yazıcıya gönderin.</translation>
     </message>
     <message>
         <source>EquationEditor.title</source>
@@ -3071,7 +3071,7 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>MergeSelection.content</source>
-        <translation>Seçilen hücreleri tek bir hücrede birleştirin.</translation>
+        <translation>Seçili hücreleri tek bir hücrede birleştirin.</translation>
     </message>
     <message>
         <source>IncreaseDecimal.title</source>
@@ -3111,9 +3111,9 @@ Aynı biçimlendirmeyi belgedeki birden çok yere uygulamak için bu düğmeyi �
     </message>
     <message>
         <source>BandedColumns.content</source>
-        <translation>Çift sütunların tek sütunlardan farklı biçimlendiği bantlı sütunları görüntüleyin.
+        <translation>Çift sütunların tek sütunlardan farklı biçimlendirildiği şeritli sütunları görüntüler.
 
-Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
+Bu şeritli gösterim tabloların daha kolay okunmasını sağlar.</translation>
     </message>
     <message>
         <source>FormatStyle.content</source>
@@ -3137,7 +3137,7 @@ Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>RunMacro2.content</source>
-        <translation>Makroları Göster iletişim kutusu. Makro çalıştırabileceğiniz, oluşturabileceğiniz veya silebileceğiniz makroların listesini görüntüleyin.</translation>
+        <translation>Makrolar iletişim kutusunu göster. Bir makroyu çalıştırabileceğiniz, oluşturabileceğiniz veya silebileceğiniz makroların listesini görüntüleyin.</translation>
     </message>
     <message>
         <source>Connections.title</source>
@@ -3145,7 +3145,7 @@ Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>TopAndThickBottomBorder.title</source>
-        <translation>Üst ve Kalın Alt Kenarlık</translation>
+        <translation>Kalın Üst ve Alt Kenarlık</translation>
     </message>
     <message>
         <source>DetailedSettings_Layout.content</source>
@@ -3173,19 +3173,19 @@ Bu bantlama tabloların okunmasını kolaylaştırabilir.</translation>
     </message>
     <message>
         <source>AutoSaveFile_Off.content</source>
-        <translation>When this feature is turned on, the modified content will be automatically saved for you to avoid loss of document content.</translation>
+        <translation>Bu özellik açıldığında, belge içeriğinin kaybolmasını önlemek için değiştirilen içerik sizin için otomatik olarak kaydedilir.</translation>
     </message>
     <message>
         <source>PrintGridlines.content</source>
-        <translation>Sütunlar ve çalışma sayfasındaki satırlar arasındaki kılavuz çizgilerini yazdırın.</translation>
+        <translation>Çalışma sayfasındaki sütunlar ve satırlar arasındaki kılavuz çizgilerini yazdırın.</translation>
     </message>
     <message>
         <source>SparklineGroup.content</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirme ve ölçeklendirme seçeneklerini paylaşabilmeleri için mini grafikleri gruplandırın.</translation>
     </message>
     <message>
         <source>NameDefine.title</source>
-        <translation>İsim Tanımla</translation>
+        <translation>Ad Tanımla</translation>
     </message>
     <message>
         <source>HeaderRow.title</source>
@@ -3199,7 +3199,7 @@ Seçili verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
     </message>
     <message>
         <source>NameCreate.title</source>
-        <translation>İsim Oluştur</translation>
+        <translation>Ad Oluştur</translation>
     </message>
     <message>
         <source>DataSort.title</source>
@@ -3207,35 +3207,35 @@ Seçili verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
     </message>
     <message>
         <source>QuickOrientation.title</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Özelliklerini Düzenle</translation>
     </message>
     <message>
         <source>QuickOrientation.content</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılabilir COM Eklentilerini ekleyin veya silin.</translation>
     </message>
     <message>
         <source>StrikeThroughHome.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili metnin ortasından geçen bir çizgi çizin.</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.title</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>BatchRename.title</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları Toplu Olarak Yeniden Adlandırın</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.content</source>
-        <translation type="unfinished"/>
+        <translation>Formülleri hızla düzenlemek ve eklemek için LaTeX&apos;i kullanın.</translation>
     </message>
     <message>
         <source>StrikeThroughHome.title</source>
-        <translation type="unfinished"/>
+        <translation>Üstü Çizili</translation>
     </message>
     <message>
         <source>BatchRename.content</source>
-        <translation type="unfinished"/>
+        <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
     </message>
 </context>
 </TS>
