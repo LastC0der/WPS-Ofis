@@ -414,10 +414,6 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>AlignJustify.content</source>
-        <translation>Gerekirse sözcüklerin arasına fazladan boşluk ekleyerek metni hem sol hem de sağ kenar boşluklarına hizalayın.</translation>
-    </message>
-    <message>
         <source>InsertPagesFromDoc.content</source>
         <translation>Insert selected pages from document to specified position.</translation>
     </message>
@@ -1095,7 +1091,7 @@
     </message>
     <message>
         <source>Print.title</source>
-        <translation>Print</translation>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <source>StampTool.title</source>
@@ -1127,7 +1123,7 @@
     </message>
     <message>
         <source>Bold.title</source>
-        <translation>Bold</translation>
+        <translation>Kalın</translation>
     </message>
     <message>
         <source>Find.title</source>
@@ -1507,7 +1503,7 @@
     </message>
     <message>
         <source>ShapeFillColor.content</source>
-        <translation>Seçilen şekli düz renk, geçiş, resim veya doku ile doldurun.
+        <translation>Seçili şekli düz renk, gradyan, resim veya dokuyla doldurun.
 
 Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
@@ -2127,7 +2123,7 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Bold.content</source>
-        <translation>Make the selected text bold.</translation>
+        <translation>Seçili metni kalın hale getirin.</translation>
     </message>
     <message>
         <source>PDFToWord.content</source>
@@ -2160,10 +2156,6 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     <message>
         <source>ImageExtractTip.title</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>AlignJustify.title</source>
-        <translation>Yasla</translation>
     </message>
     <message>
         <source>FloatZoomOut.content</source>
@@ -2235,7 +2227,7 @@ Git gibi diğer seçenekleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Print.content</source>
-        <translation>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</translation>
+        <translation>Dosyaları yazdırın ve yazdırma için ayrıntılı ayarlar yapın</translation>
     </message>
     <message>
         <source>FreeText.title</source>
@@ -2282,6 +2274,54 @@ Click the arrow to select a different highlight color.</translation>
     <message>
         <source>RotateToTheRight.content</source>
         <translation>90 derece sağa döndür</translation>
+    </message>
+    <message>
+        <source>OcrArea.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AlignJustify.content</source>
+        <translation>Gerekirse sözcüklerin arasına fazladan boşluk ekleyerek metni hem sol hem de sağ kenar boşluklarına hizalayın.</translation>
+    </message>
+    <message>
+        <source>NewPDFBatchPrint.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PdfPictureToText.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OcrArea.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CustomRotateDegree.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CustomRotateDegree.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PdfPictureToText.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation>Dosyaları Toplu Olarak Yeniden Adlandırın</translation>
+    </message>
+    <message>
+        <source>NewPDFBatchPrint.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Yasla</translation>
     </message>
 </context>
 </TS>
