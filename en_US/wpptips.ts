@@ -2758,19 +2758,19 @@ Click the arrow to select a different highlight color.</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.title</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX</translation>
     </message>
     <message>
         <source>BatchRename.title</source>
-        <translation type="unfinished"/>
+        <translation>Batch Rename Files</translation>
     </message>
     <message>
         <source>PCLaTeXEquation.content</source>
-        <translation type="unfinished"/>
+        <translation>Use LaTeX to quickly edit and insert formulas.</translation>
     </message>
     <message>
         <source>BatchRename.content</source>
-        <translation type="unfinished"/>
+        <translation>Batch rename files with set rules</translation>
     </message>
 </context>
 </TS>
