@@ -39322,7 +39322,7 @@ Please check network</source>
     <name>KProxyCommandButton</name>
     <message>
         <source>(Download required)</source>
-        <translation type="unfinished"/>
+        <translation>(İndirme gerekli)</translation>
     </message>
     <message>
         <source>(Upgrading...)</source>
@@ -39337,7 +39337,7 @@ Please check network</source>
     <name>KProxyCommandMenuButton</name>
     <message>
         <source>(Download required)</source>
-        <translation type="unfinished"/>
+        <translation>(İndirme gerekli)</translation>
     </message>
     <message>
         <source>(Upgrading...)</source>
