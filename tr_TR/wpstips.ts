@@ -2963,7 +2963,7 @@ Farklı dolgu efektleri seçmek için oku tıklayın.</translation>
     </message>
     <message>
         <source>Ai Matting.title</source>
-        <translation type="unfinished"/>
+        <translation>Ai Matting</translation>
     </message>
     <message>
         <source>Numbering.title</source>
@@ -3850,6 +3850,22 @@ Click the arrow to select a different highlight color.</translation>
     <message>
         <source>ShowTocNavigationPane.content</source>
         <translation>Displays or concealment Toc navigation in the navigation pane.</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.title</source>
+        <translation>LaTeX</translation>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation>Dosyaları Toplu Olarak Yeniden Adlandırın</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation.content</source>
+        <translation>Formülleri hızla düzenlemek ve eklemek için LaTeX&apos;i kullanın.</translation>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
     </message>
 </context>
 </TS>
