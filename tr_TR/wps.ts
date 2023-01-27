@@ -10716,7 +10716,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sütun sayısı:</translation>
     </message>
     <message>
         <source>&amp;Space</source>
@@ -10732,7 +10732,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"/>
+        <translation>Satı&amp;r sayısı:</translation>
     </message>
     <message>
         <source>Co&amp;mmas</source>
@@ -15846,7 +15846,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Hizalama</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -16125,7 +16125,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Rows Above</source>
-        <translation type="unfinished"/>
+        <translation>Üste Satır</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -16133,7 +16133,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Rows Below</source>
-        <translation type="unfinished"/>
+        <translation>Alta Satır</translation>
     </message>
     <message>
         <source>WPS Forum</source>
@@ -16234,7 +16234,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Accept Insertion</source>
-        <translation type="unfinished"/>
+        <translation>Ekleme İşlemini Kabul Et</translation>
     </message>
     <message>
         <source>Secondary Major Vertical</source>
@@ -17905,15 +17905,15 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>VFont Size</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>HFont Size</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Line Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>Satır Aralığı:</translation>
     </message>
     <message>
         <source>Matrix Spacing...</source>
@@ -20386,7 +20386,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Customize Task Window</source>
-        <translation type="unfinished"/>
+        <translation>Görev Penceresini Özelleştir</translation>
     </message>
     <message>
         <source>Drawing Tools - Compatibility Mode</source>
@@ -20711,11 +20711,11 @@ Boyacısı</translation>
     </message>
     <message>
         <source>VFont Size</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>HFont Size</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>PDFTOCad</source>
@@ -21984,7 +21984,7 @@ Click to follow this link</source>
     </message>
     <message>
         <source>Cell Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Hizalama</translation>
     </message>
     <message>
         <source>Genko Setting</source>
@@ -22265,7 +22265,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Accept Insertion</source>
-        <translation type="unfinished"/>
+        <translation>Ekleme İşlemini Kabul Et</translation>
     </message>
     <message>
         <source>Typing</source>
@@ -25060,7 +25060,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Cell Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hücre Hizalama</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -25068,11 +25068,11 @@ Aktar</translation>
     </message>
     <message>
         <source>Rows Above</source>
-        <translation type="unfinished"/>
+        <translation>Üste Satır</translation>
     </message>
     <message>
         <source>Rows Below</source>
-        <translation type="unfinished"/>
+        <translation>Alta Satır</translation>
     </message>
     <message>
         <source>Line Weight</source>
@@ -45358,7 +45358,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sütun sayısı:</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -45374,7 +45374,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"/>
+        <translation>Satı&amp;r sayısı:</translation>
     </message>
     <message>
         <source>Auto column width(&amp;F)</source>
@@ -45740,7 +45740,7 @@ Kayıt</translation>
     <name>KxDlgSpiltCells</name>
     <message>
         <source>Number of &amp;columns:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sütun sayısı:</translation>
     </message>
     <message>
         <source>Split Cells</source>
@@ -45748,7 +45748,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Number of &amp;rows:</source>
-        <translation type="unfinished"/>
+        <translation>Satı&amp;r sayısı:</translation>
     </message>
     <message>
         <source>&amp;Merge cells before split</source>
