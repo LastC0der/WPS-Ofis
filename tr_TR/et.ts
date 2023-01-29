@@ -35907,7 +35907,7 @@ Efektleri</translation>
     <message>
         <source>Bold Italic</source>
         <comment>TX_FontName_BoldItalic</comment>
-        <translation type="unfinished"/>
+        <translation>Kalın Italik</translation>
     </message>
 </context>
 <context>
