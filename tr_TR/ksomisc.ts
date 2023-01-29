@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
-        <translation>&amp;Güncellemeler sırasında en son ürün haberlerini alın</translation>
+        <translation>&amp;Güncelleştirmeler sırasında en son ürün haberlerini alın</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>&amp;Show information bar</source>
-        <translation>Bilgi çubuğu &amp;göster</translation>
+        <translation>Bilgi çubuğunu &amp;göster</translation>
     </message>
     <message>
         <source>Check for update, but let me choose whether to &amp;download and install them</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Disable &amp;P2P transfer acceleration</source>
-        <translation type="unfinished"/>
+        <translation>&amp;P2P aktarım hızlandırmayı devre dışı bırak</translation>
     </message>
     <message>
         <source>Do not &amp;update automatically (not recommended)</source>
@@ -103,15 +103,15 @@
     </message>
     <message>
         <source>Association settings when upgrading: </source>
-        <translation type="unfinished"/>
+        <translation>Yükseltme sırasında ilişkilendirme ayarları:</translation>
     </message>
     <message>
         <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
-        <translation type="unfinished"/>
+        <translation>Yükseltme sırasında dosya ilişkilendirmesini kontrol edin ve dosyaları varsayılan olarak WPS ile açmak için otomatik olarak düzeltin</translation>
     </message>
     <message>
         <source>Upgrade package download acceleration:</source>
-        <translation type="unfinished"/>
+        <translation>Güncelleme paketinin indirilmesini hızlandırın:</translation>
     </message>
 </context>
 <context>
@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Do not close you computer before finished</source>
-        <translation>Değiştirmeden önce bilgisayarınızı kapatmayın</translation>
+        <translation>Değişiklik yapılmadan önce bilgisayarı kapatmayın</translation>
     </message>
     <message>
         <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Please wait for swiching...</source>
-        <translation>Lütfen geçişi bekleyin...</translation>
+        <translation>Lütfen geçiş için bekleyin...</translation>
     </message>
     <message>
         <source>Start WPS</source>
@@ -146,11 +146,11 @@
     </message>
     <message>
         <source>Switch window manage mode</source>
-        <translation>Pencere yönetimi modunu değiştir</translation>
+        <translation>Pencere yönetme modunu değiştir</translation>
     </message>
     <message>
         <source>Support multi-window multi-label depart or group by free, Support saving label list as workspace and sync cross devices</source>
-        <translation type="unfinished"/>
+        <translation>Tek bir pencerede çoklu etiketi destekleyin, etiketin Buluta kaydedilmesini destekleyin</translation>
     </message>
     <message>
         <source>default</source>
@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Organize file label in different window filter by file type, Do not support workspace feature</source>
-        <translation type="unfinished"/>
+        <translation>Farklı türde dosyaları farklı pencerede düzenleyin, çalışma alanı özelliğini desteklemeyin</translation>
     </message>
     <message>
         <source>Old Multi Component Mode</source>
@@ -178,11 +178,11 @@
     </message>
     <message>
         <source>Switching WPS Office to %1</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis %1 olarak değiştiriliyor</translation>
     </message>
     <message>
         <source>You are already in this mode, no need to switch.</source>
-        <translation type="unfinished"/>
+        <translation>Zaten bu moddasınız, değiştirmenize gerek yok.</translation>
     </message>
 </context>
 <context>
@@ -193,19 +193,19 @@
     </message>
     <message>
         <source>Your WPS account information, identity information will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>WPS hesap bilgileriniz, kimlik bilgileriniz ortadan kalkar ve geri alınamaz.</translation>
     </message>
     <message>
         <source>If you delete your account, your data will be irrevocably eliminate.</source>
-        <translation type="unfinished"/>
+        <translation>Hesabınızı silerseniz, verileriniz geri alınamaz bir şekilde ortadan kaldırılacaktır.</translation>
     </message>
     <message>
         <source>Documents saved in WPS Cloud will be eliminated and cannot be recovered.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Bulut&apos;a kaydedilen belgeler kalıcı olarak silinecektir.</translation>
     </message>
     <message>
         <source>1, Go to &amp;quot;account.wps.com &amp;quot;. If you&apos;re not logged into WPS on the web, you&apos;ll be asked to log in first.</source>
-        <translation type="unfinished"/>
+        <translation>1, &quot;account.wps.com&quot; adresine gidin. Web üzerinde WPS&apos;de oturum açmadıysanız, önce oturum açmanız istenecektir.</translation>
     </message>
     <message>
         <source>Delete Account</source>
@@ -213,7 +213,7 @@
     </message>
     <message>
         <source>2, Click delete my account.</source>
-        <translation type="unfinished"/>
+        <translation>2, Hesabımı sil&apos;e tıklayın.</translation>
     </message>
     <message>
         <source>To delete your account:</source>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>After deleting the data, some documents may not be opened and some functions will not be available.</source>
-        <translation>Veriler silindikten sonra bazı belgeler açılmayabilir ve bazı işlevler kullanılamayabilir.</translation>
+        <translation>Veri silme işleminden sonra bazı belgeler açılmayabilir ve bazı özellikler kullanılamayabilir. Verileri silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Are you sure to delete the data?</source>
@@ -259,7 +259,7 @@
     </message>
     <message>
         <source>The settings you have changed require restarting WPS to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
-        <translation>Değiştirdiğiniz ayarların etkili olması için WPS&apos;nin yeniden başlatılması gerekir. Değişiklikleri uygulamak ve bu pencereyi kapatmak için Tamam&apos;a tıklayın veya değişiklikleri geri almak için İptal&apos;e tıklayın.</translation>
+        <translation>Ayarların geçerli olması için WPS&apos;nin yeniden başlatılması gerekir. Değişiklikleri uygulamak için Tamam&apos;ı veya değişiklikleri geri almak için İptal&apos;i tıklayın.</translation>
     </message>
 </context>
 <context>
@@ -298,7 +298,7 @@
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy ayarları</translation>
     </message>
 </context>
 <context>
@@ -321,15 +321,15 @@
     </message>
     <message>
         <source>Successfully switch to </source>
-        <translation>Başarıyla geçiş</translation>
+        <translation>Başarıyla geçiş </translation>
     </message>
     <message>
         <source>In Classic interface, files opened by Writer, Spreadsheet, and Presentation will be shown in different windows rather than sharing one window. And Working Area feature is not supported.</source>
-        <translation type="unfinished"/>
+        <translation>Klasik arayüzde, Writer, Elektronik Tablo ve Sunu tarafından açılan dosyalar tek bir pencereyi paylaşmak yerine farklı pencerelerde gösterilir. Ve Çalışma Alanı özelliği desteklenmez.</translation>
     </message>
     <message>
         <source>Start WPS</source>
-        <translation>WPS&apos;yi başlat</translation>
+        <translation>WPS&apos;yi Başlat</translation>
     </message>
     <message>
         <source>Switching to Classic Interface</source>
@@ -341,7 +341,7 @@
     </message>
     <message>
         <source>Please wait...</source>
-        <translation>Lütfen bekleyin...</translation>
+        <translation>Değiştiriliyor, lütfen bekleyin...</translation>
     </message>
 </context>
 <context>
