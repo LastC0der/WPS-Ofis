@@ -10134,7 +10134,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Outline Level</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Düzeyi</translation>
     </message>
     <message>
         <source>Outlining Tools</source>
@@ -10142,7 +10142,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca İlk Satırı Göster</translation>
     </message>
     <message>
         <source>Demote</source>
@@ -10178,7 +10178,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Show Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzey Göster</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
@@ -10190,7 +10190,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1;Düzey 2;Düzey 3;Düzey 4;Düzey 5;Düzey 6;Düzey 7;Düzey 8;Düzey 9;Gövde Metni</translation>
     </message>
 </context>
 <context>
@@ -18378,7 +18378,7 @@ Kütüphanesi</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca İlk Satırı Göster</translation>
     </message>
     <message>
         <source>Link Preview</source>
@@ -22856,19 +22856,19 @@ Protection</source>
     </message>
     <message>
         <source>Insert File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Ekle</translation>
     </message>
     <message>
         <source>Insert Date</source>
-        <translation type="unfinished"/>
+        <translation>Tarih Ekle</translation>
     </message>
     <message>
         <source>Insert PTab</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama Sekmesi</translation>
     </message>
     <message>
         <source>Insert Time</source>
-        <translation type="unfinished"/>
+        <translation>Saat Ekle</translation>
     </message>
     <message>
         <source>Formatted</source>
@@ -23503,15 +23503,15 @@ Protection</source>
     </message>
     <message>
         <source>Cannot insert formula</source>
-        <translation type="unfinished"/>
+        <translation>Formül eklenemedi</translation>
     </message>
     <message>
         <source>Paragraph Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Biçimlendirmesi</translation>
     </message>
     <message>
         <source>Replace Input Method</source>
-        <translation type="unfinished"/>
+        <translation>Giriş Yöntemini Değiştir</translation>
     </message>
     <message>
         <source>Mail Merge Toolbar</source>
@@ -23523,15 +23523,15 @@ Protection</source>
     </message>
     <message>
         <source>Uncollated(Print page by page)</source>
-        <translation type="unfinished"/>
+        <translation>Harmanlanmamış (Sayfa sayfa yazdır)</translation>
     </message>
     <message>
         <source>Drop Down List Selection</source>
-        <translation type="unfinished"/>
+        <translation>Açılan Liste Seçimi</translation>
     </message>
     <message>
         <source>Insert ClipArt</source>
-        <translation type="unfinished"/>
+        <translation>Küçük Resim Ekle</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -31996,7 +31996,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecektir.</t
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1;Düzey 2;Düzey 3;Düzey 4;Düzey 5;Düzey 6;Düzey 7;Düzey 8;Düzey 9;Gövde Metni</translation>
     </message>
     <message>
         <source>The Check Mark-shaped Bullets</source>
@@ -32889,7 +32889,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecektir.</t
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"/>
+        <translation>Medya</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -34198,7 +34198,7 @@ Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Ornamentation</source>
-        <translation type="unfinished"/>
+        <translation>Süsleme</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -38063,7 +38063,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"/>
+        <translation>Medya</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -38130,7 +38130,7 @@ Sayfaları</translation>
     </message>
     <message>
         <source>Ornamentation</source>
-        <translation type="unfinished"/>
+        <translation>Süsleme</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -41241,11 +41241,11 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Insert Date</source>
-        <translation type="unfinished"/>
+        <translation>Tarih Ekle</translation>
     </message>
     <message>
         <source>Insert Time</source>
-        <translation type="unfinished"/>
+        <translation>Saat Ekle</translation>
     </message>
     <message>
         <source>Switch Between Header and Footer</source>
@@ -43756,7 +43756,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Show Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzey Göster</translation>
     </message>
     <message>
         <source>Level %1</source>
@@ -44923,11 +44923,11 @@ Kayıt</translation>
     <name>classics.outlining</name>
     <message>
         <source>Outline Level</source>
-        <translation type="unfinished"/>
+        <translation>Ana Hat Düzeyi</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca İlk Satırı Göster</translation>
     </message>
     <message>
         <source>Show Formatting</source>
@@ -44943,7 +44943,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Show Level</source>
-        <translation type="unfinished"/>
+        <translation>Düzey Göster</translation>
     </message>
     <message>
         <source>Promote to Heading 1</source>
@@ -44959,7 +44959,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
-        <translation type="unfinished"/>
+        <translation>Düzey 1;Düzey 2;Düzey 3;Düzey 4;Düzey 5;Düzey 6;Düzey 7;Düzey 8;Düzey 9;Gövde Metni</translation>
     </message>
 </context>
 <context>
