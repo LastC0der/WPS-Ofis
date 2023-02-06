@@ -813,7 +813,7 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>Bold.title</source>
-        <translation>Bold</translation>
+        <translation>Kalın</translation>
     </message>
     <message>
         <source>SwitchRowCol.title</source>
@@ -1663,7 +1663,7 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     </message>
     <message>
         <source>Bold.content</source>
-        <translation>Make the selected text bold.</translation>
+        <translation>Seçili metni kalın hale getirin.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile.content</source>
