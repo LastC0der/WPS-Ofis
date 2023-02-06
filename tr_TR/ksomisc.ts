@@ -406,11 +406,11 @@
     </message>
     <message>
         <source>You are using an older version of WPS Office. The new version has greatly improved and enhanced in functionality and performance. We recommend that you use the new version.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;in eski bir sürümünü kullanıyorsunuz. Yeni sürüm, işlevsellik ve performans açısından büyük ölçüde iyileştirildi ve geliştirildi. Yeni sürümü kullanmanızı öneririz.</translation>
     </message>
     <message>
         <source>You are using the latest version of WPS Office which has greatly improved and enhanced in functionality and performance. We recommend that you use the new version. However, you can according to your need to return to the pre-upgrade version.</source>
-        <translation type="unfinished"/>
+        <translation>İşlevsellik ve performans açısından büyük ölçüde geliştirilmiş ve geliştirilmiş WPS Office&apos;in en son sürümünü kullanıyorsunuz. Yeni sürümü kullanmanızı öneririz. Ancak, ihtiyacınıza göre yükseltme öncesi sürüme geri dönebilirsiniz.</translation>
     </message>
     <message>
         <source>Switch to old ve&amp;rsion</source>
@@ -430,7 +430,7 @@
     </message>
     <message>
         <source>Version switch will complete after restarting.</source>
-        <translation>Sürüm değişimi, yeniden başlatıldıktan sonra tamamlanacaktır.</translation>
+        <translation>Sürüm değiştirme, yeniden başlatıldıktan sonra tamamlanacaktır.</translation>
     </message>
 </context>
 <context>
@@ -453,17 +453,19 @@
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis, ilgili belgeleri aşağıdaki seçili biçimlerde kaydeder. Diğer belgeler WPS Ofis biçimlerinde kaydedilecektir.</translation>
     </message>
     <message>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Üçüncü taraf yazılımlarla uyumlu&quot; seçeneğinin etkinleşmesi için 
+Windows&apos;un yeniden başlatılması gerekir.</translation>
     </message>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
 These operations can be undone. </source>
-        <translation type="unfinished"/>
+        <translation>Burada, ortak dosyaları açmak için WPS Ofis Uygulamalarını varsayılan uygulamalar olarak ayarlayabilir veya orijinal dosya ilişkilendirmelerini geri yükleyebilirsiniz. Veya dosyaları normal biçimde kaydedin. Ayardan sonra, dosya ilişkilendirmenizden emin olmak için Tamam&apos;ı tıklayın. 
+Bu işlemler geri alınabilir.</translation>
     </message>
     <message>
         <source>Portable Document &amp;Format(*.pdf)</source>
@@ -471,11 +473,11 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>eBooks(*.epub, *.mobi)</source>
-        <translation type="unfinished"/>
+        <translation>e-Kitaplar (*.epub, *.mobi)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
-        <translation type="unfinished"/>
+        <translation>WPS Elektronik Tablolar yeni belgelerini varsayılan olarak *.&amp;xlsx biçiminde kaydet</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
@@ -483,15 +485,15 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki onay kutularını işaretleyin, belirtilen dosyalar WPS Ofis Uygulamaları tarafından açılacaktır. Aksi takdirde, belirtilen dosyalar orijinal ilişkili uygulamalar tarafından açılacaktır.</translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by WPS Office which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki seçenekleri belirlerseniz, katıştırılmış belge nesneleri %1 tarafından açılacaktır. %1 ayrıca IE tarayıcısı ve OA gibi üçüncü taraf yazılım veya sistemlere de gömülebilir.</translation>
     </message>
     <message>
         <source>File Associations</source>
-        <translation>Dosya ilişkilendirmeleri</translation>
+        <translation>Dosya İlişkilendirmeleri</translation>
     </message>
     <message>
         <source>&amp;Compatible with third-party software</source>
@@ -503,7 +505,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>&amp;OFD Files(*.ofd)</source>
-        <translation>&amp;OFD Dosyaları(*.ofd)</translation>
+        <translation>&amp;OFD Dosyaları (*.ofd)</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
@@ -515,27 +517,27 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki onay kutularını işaretleyin: seçilirse, belirtilen dosyalar %1 tarafından açılacaktır. Aksi takdirde, belirtilen dosyalar orijinal ilişkili uygulamalar tarafından açılacaktır.</translation>
     </message>
     <message>
         <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki seçenekleri belirlerseniz, %1 ilgili belgeleri aşağıdaki seçili biçimlerde kaydedecektir. Aksi takdirde belgeler %1 biçiminde kaydedilecektir.</translation>
     </message>
     <message>
         <source>Open the following software with Kingsoft PDF by default:</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki yazılımı varsayılan olarak WPS PDF ile açın:</translation>
     </message>
     <message>
         <source>Pdf Document(*.pdf)</source>
-        <translation type="unfinished"/>
+        <translation>Pdf Belgesi(*.pdf)</translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki seçenekleri belirlerseniz, katıştırılmış belge nesneleri %1 tarafından açılacaktır. %1 ayrıca IE tarayıcısı ve OA gibi üçüncü taraf yazılım veya sistemlere de gömülebilir.</translation>
     </message>
     <message>
         <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
-        <translation type="unfinished"/>
+        <translation>Burada, ortak dosyaları açmak, özgün dosya ilişkilerini geri yüklemek veya dosyaları ortak bir biçimde kaydetmek için %1&apos;i varsayılan araç olarak ayarlayabilirsiniz. Ayardan sonra, dosya ilişkilendirmenizi onaylamak için Tamam&apos;ı tıklayın. Bu işlemler geri alınabilir.</translation>
     </message>
 </context>
 <context>
@@ -547,13 +549,13 @@ These operations can be undone. </source>
     <message>
         <source> Failed to register WPS Presentation
 </source>
-        <translation>WPS Sunumu kaydedilemedi
+        <translation> WPS Sunumu kaydedilemedi
 </translation>
     </message>
     <message>
         <source> Registering MSO2Pdf Plugins failed
 </source>
-        <translation>MSO2Pdf Eklentileri kaydedilemedi
+        <translation> mso2pdf eklentisi kaydedilemedi.
 </translation>
     </message>
     <message>
@@ -587,12 +589,13 @@ These operations can be undone. </source>
     <message>
         <source> Registering kso.dll failed
 </source>
-        <translation type="unfinished"/>
+        <translation> kso.dll kaydı başarısız oldu
+</translation>
     </message>
     <message>
         <source> Registering WPS Equation Editor failed
 </source>
-        <translation>WPS Denklem Düzenleyicisinin kaydedilmesi başarısız oldu
+        <translation>WPS Denklem Düzenleyicisi kaydedilirken başarısız oldu
 </translation>
     </message>
     <message>
@@ -663,7 +666,7 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation type="unfinished"/>
+        <translation>Araç çubuğu düğmeleri karışmışsa, tüm %1 uygulamalarını kapatın ve araç çubuklarını orijinal durumlarına geri yüklemek için aşağıdaki düğmeyi tıklayın. WPS&apos;yi yeniden başlattıktan sonra etkinleşir.</translation>
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
