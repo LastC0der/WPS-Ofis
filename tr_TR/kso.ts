@@ -8930,11 +8930,11 @@ Line-type: %3</source>
     </message>
     <message>
         <source>PeachPuff</source>
-        <translation type="unfinished"/>
+        <translation>Açık Şeftali</translation>
     </message>
     <message>
         <source>WordArt: Plain Text</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Düz Metin</translation>
     </message>
     <message>
         <source>WordArt: Deflate Bottom</source>
@@ -8969,23 +8969,23 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Puzzle1</source>
-        <translation type="unfinished"/>
+        <translation>Bulmaca1</translation>
     </message>
     <message>
         <source>Puzzle2</source>
-        <translation type="unfinished"/>
+        <translation>Bulmaca2</translation>
     </message>
     <message>
         <source>Puzzle3</source>
-        <translation type="unfinished"/>
+        <translation>Bulmaca3</translation>
     </message>
     <message>
         <source>Puzzle4</source>
-        <translation type="unfinished"/>
+        <translation>Bulmaca4</translation>
     </message>
     <message>
         <source>Puzzle5</source>
-        <translation type="unfinished"/>
+        <translation>Bulmaca5</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
@@ -8994,7 +8994,7 @@ Line-type: %3</source>
     <message>
         <source>Regular Pentagon</source>
         <comment>DRAWING2_TOOLTIP_REGULAR_PENTAGON</comment>
-        <translation type="unfinished"/>
+        <translation>Düzgün Beşgen</translation>
     </message>
     <message>
         <source>Line Callout 3 (Border and Accent Bar)</source>
@@ -9132,7 +9132,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Regular Pentagon</source>
-        <translation type="unfinished"/>
+        <translation>Düzgün Beşgen</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -9194,11 +9194,11 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Concentric Circle</source>
-        <translation type="unfinished"/>
+        <translation>Eşmerkezli Daire</translation>
     </message>
     <message>
         <source>Convex Curved Strip</source>
-        <translation type="unfinished"/>
+        <translation>Dışbükey Eğimli Şerit</translation>
     </message>
     <message>
         <source>FireBrick</source>
@@ -9686,7 +9686,7 @@ Line-type: %3</source>
     <message>
         <source>Regular Pentagon</source>
         <comment>DRAWING2STR_REGULAR_PENTAGON</comment>
-        <translation type="unfinished"/>
+        <translation>Düzgün Beşgen</translation>
     </message>
     <message>
         <source>Flowchart: Internal Storage</source>
