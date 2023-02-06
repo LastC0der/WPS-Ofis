@@ -18365,7 +18365,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Ornamentation</source>
-        <translation type="unfinished"/>
+        <translation>Süsleme</translation>
     </message>
     <message>
         <source>Document History</source>
@@ -19012,7 +19012,7 @@ Pencere</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished"/>
+        <translation>Medya</translation>
     </message>
     <message>
         <source>Movie</source>
@@ -19076,7 +19076,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Ornamentation</source>
-        <translation type="unfinished"/>
+        <translation>Süsleme</translation>
     </message>
     <message>
         <source>Data Pivot</source>
