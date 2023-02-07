@@ -23504,7 +23504,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Major Gridline</source>
-        <translation type="unfinished"/>
+        <translation>Birincil Kılavuz Çizgisi</translation>
     </message>
     <message>
         <source>Series Lines</source>
@@ -23535,7 +23535,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Delete Value Axis</source>
-        <translation type="unfinished"/>
+        <translation>Değer Eksenini Sil</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -23557,11 +23557,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>MAJOR GRIDLINES</source>
-        <translation type="unfinished"/>
+        <translation>BİRİNCİL KILAVUZ ÇİZGİLERİ</translation>
     </message>
     <message>
         <source>LEGEND ENTRY</source>
-        <translation type="unfinished"/>
+        <translation>GÖSTERGE GİRDİSİ</translation>
     </message>
     <message>
         <source>DATA LABEL</source>
@@ -23577,7 +23577,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Legend Entry</source>
-        <translation type="unfinished"/>
+        <translation>Gösterge Girdisi</translation>
     </message>
     <message>
         <source>Change Style</source>
@@ -23585,7 +23585,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>The linked file is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantılı dosya kullanılamıyor.</translation>
     </message>
     <message>
         <source>Category Label</source>
@@ -23593,11 +23593,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>DROP LINE</source>
-        <translation type="unfinished"/>
+        <translation>İZDÜŞÜM SATIRI</translation>
     </message>
     <message>
         <source>Clear Gridlines</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgilerini Temizle</translation>
     </message>
     <message>
         <source>Change Style</source>
@@ -23663,7 +23663,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Power </source>
-        <translation type="unfinished"/>
+        <translation>Üs</translation>
     </message>
     <message>
         <source>SERIES</source>
@@ -23683,7 +23683,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hacim</translation>
     </message>
     <message>
         <source>Chart Title</source>
@@ -23691,11 +23691,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Apply Quick Layout</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Düzen Uygula</translation>
     </message>
     <message>
         <source>Change Chart Number Format</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Numarası Biçimini Değiştir</translation>
     </message>
     <message>
         <source>Error Bars</source>
@@ -23802,11 +23802,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Clear Chart Element</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Öğesini Temizle</translation>
     </message>
     <message>
         <source>Add Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirme Ekle</translation>
     </message>
     <message>
         <source>Add/Remove Chart Elements</source>
@@ -23949,11 +23949,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Save Chart Template</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Şablonunu Kaydet</translation>
     </message>
     <message>
         <source>Change Chart Element</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Öğesini Değiştir</translation>
     </message>
     <message>
         <source>Chart Title</source>
@@ -23993,7 +23993,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Delete Series</source>
-        <translation type="unfinished"/>
+        <translation>Seriyi Sil</translation>
     </message>
     <message>
         <source>To Insert a Chart,you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</source>
@@ -24006,7 +24006,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>PieChart</source>
-        <translation type="unfinished"/>
+        <translation>Pasta Grafik</translation>
     </message>
     <message>
         <source>Gridlines</source>
@@ -24019,7 +24019,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     <message>
         <source>Delete Value Axis</source>
         <comment>CHART_DELETE_AXIS</comment>
-        <translation type="unfinished"/>
+        <translation>Değer Eksenini Sil</translation>
     </message>
     <message>
         <source>Change Chart Color</source>
@@ -24069,7 +24069,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     <message>
         <source>Clear Chart Element</source>
         <comment>CHART_DELETE_CHART_ELEMENT</comment>
-        <translation type="unfinished"/>
+        <translation>Grafik Öğesini Temizle</translation>
     </message>
     <message>
         <source>Add/Remove Chart Sub Elements</source>
@@ -24089,42 +24089,42 @@ Yolu ve dosya adını kontrol edin.</translation>
     <message>
         <source>Change Chart Element</source>
         <comment>CHART_DELETE_DATA_LABEL</comment>
-        <translation type="unfinished"/>
+        <translation>Grafik Öğesini Değiştir</translation>
     </message>
     <message>
         <source>PieChart</source>
         <comment>CHART_PieChart</comment>
-        <translation type="unfinished"/>
+        <translation>Pasta Grafik</translation>
     </message>
     <message>
         <source>Change Chart Layout</source>
         <comment>CHART_ChartLayout</comment>
-        <translation type="unfinished"/>
+        <translation>Grafik Düzenini Değiştir</translation>
     </message>
     <message>
         <source>Apply Quick Layout</source>
         <comment>CHART_QuickLayout</comment>
-        <translation type="unfinished"/>
+        <translation>Hızlı Düzen Uygula</translation>
     </message>
     <message>
         <source>Add Formatting</source>
         <comment>CHART_AddFormatting</comment>
-        <translation type="unfinished"/>
+        <translation>Biçimlendirme Ekle</translation>
     </message>
     <message>
         <source>Change Chart Style</source>
         <comment>CHART_ChartStyle</comment>
-        <translation type="unfinished"/>
+        <translation>Grafik Stilini Değiştir</translation>
     </message>
     <message>
         <source>Clear Gridlines</source>
         <comment>CHART_DELETE_GRIDLINES</comment>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgilerini Temizle</translation>
     </message>
     <message>
         <source>Change Chart Number Format</source>
         <comment>CHART_ChartNumberFormat</comment>
-        <translation type="unfinished"/>
+        <translation>Grafik Numarası Biçimini Değiştir</translation>
     </message>
 </context>
 <context>
