@@ -13942,7 +13942,7 @@ Master</source>
     </message>
     <message>
         <source>Delete Series</source>
-        <translation type="unfinished"/>
+        <translation>Seriyi Sil</translation>
     </message>
     <message>
         <source>Right Hang</source>
@@ -28569,7 +28569,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hacim</translation>
     </message>
     <message>
         <source>Move forward 0.25 seconds</source>
@@ -29760,7 +29760,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxWppPlayerMediaBar</name>
     <message>
         <source>Volume</source>
-        <translation type="unfinished"/>
+        <translation>Hacim</translation>
     </message>
     <message>
         <source>Play/Pause</source>
@@ -29879,7 +29879,7 @@ we recommend that you saved these fonts in the document. Save cloud fonts in the
     <name>KxFormatOption_Background</name>
     <message>
         <source>BACKGROUND OPTIONS</source>
-        <translation type="unfinished"/>
+        <translation>ARKA PLAN SEÇENEKLERI</translation>
     </message>
 </context>
 <context>
