@@ -9042,7 +9042,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Delete Series</source>
-        <translation type="unfinished"/>
+        <translation>Seriyi Sil</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
