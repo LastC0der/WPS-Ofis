@@ -36924,7 +36924,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>FilePageListItemDelegate</name>
     <message>
         <source>QQ FileRecv</source>
-        <translation type="unfinished"/>
+        <translation>QQ Dosyası</translation>
     </message>
     <message>
         <source>Documents%1</source>
@@ -37058,31 +37058,31 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>SAPI - failed to get Voice Token of index: </source>
-        <translation type="unfinished"/>
+        <translation>SAPI - dizinin Ses Belirteci alınamadı: </translation>
     </message>
     <message>
         <source>SAPI - failed to set voice volume: </source>
-        <translation type="unfinished"/>
+        <translation>SAPI - ses seviyesi ayarlanamadı: </translation>
     </message>
     <message>
         <source>SAPI - invalid role index: </source>
-        <translation type="unfinished"/>
+        <translation>SAPI - geçersiz rol dizini: </translation>
     </message>
     <message>
         <source>SAPI - failed to create Token category.</source>
-        <translation type="unfinished"/>
+        <translation>SAPI - Belirteç kategorisi oluşturulamadı. </translation>
     </message>
     <message>
         <source>SAPI - failed to initialize COM.</source>
-        <translation type="unfinished"/>
+        <translation>SAPI - COM başlatılamadı.</translation>
     </message>
     <message>
         <source>SAPI - failed to create Voice.</source>
-        <translation type="unfinished"/>
+        <translation>SAPI - Ses oluşturulamadı.</translation>
     </message>
     <message>
         <source>SAPI - failed to set Token category ID.</source>
-        <translation type="unfinished"/>
+        <translation>SAPI - Belirteç kategori kimliği ayarlanamadı.</translation>
     </message>
 </context>
 <context>
