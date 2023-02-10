@@ -17784,7 +17784,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Delete Series</source>
-        <translation type="unfinished"/>
+        <translation>Seriyi Sil</translation>
     </message>
     <message>
         <source>Reset Paragraph Format</source>
