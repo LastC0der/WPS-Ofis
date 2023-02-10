@@ -605,15 +605,16 @@ Bu işlemler geri alınabilir.</translation>
     <message>
         <source>Errors occur when registering components: 
 </source>
-        <translation type="unfinished"/>
+        <translation>Bileşenleri kaydederken hatalar oluşuyor:
+</translation>
     </message>
     <message>
         <source>Reset toolbars</source>
-        <translation type="unfinished"/>
+        <translation>Araç çubuklarını sıfırla</translation>
     </message>
     <message>
         <source>Components successfully registered.</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler başarıyla kaydedildi.</translation>
     </message>
     <message>
         <source>WPS Office if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
