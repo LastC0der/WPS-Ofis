@@ -547,7 +547,7 @@
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <source>Time:</source>
@@ -555,7 +555,7 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Tür:</translation>
     </message>
     <message>
         <source>Not file found</source>
@@ -1897,11 +1897,11 @@ profile&quot;, and then click &quot;add&quot;</source>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Tür:</translation>
     </message>
     <message>
         <source>Login klive before exploring backup directory.</source>
@@ -2078,15 +2078,15 @@ Current document need save to cloud first</source>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Tür:</translation>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Alan</translation>
     </message>
     <message>
         <source>Qing Address</source>
@@ -2369,7 +2369,7 @@ Current document need save to cloud first</source>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <source>%1 bytes</source>
@@ -2404,7 +2404,7 @@ Current document need save to cloud first</source>
     </message>
     <message>
         <source>QQ FileRecv</source>
-        <translation type="unfinished"/>
+        <translation>QQ Dosyası</translation>
     </message>
     <message>
         <source>From Path:%1</source>
@@ -2416,7 +2416,7 @@ Current document need save to cloud first</source>
     </message>
     <message>
         <source>Documents%1</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler%1</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -2884,11 +2884,11 @@ parola:%1</translation>
     </message>
     <message>
         <source>QQ FileRecv</source>
-        <translation type="unfinished"/>
+        <translation>QQ Dosyası</translation>
     </message>
     <message>
         <source>Documents%1</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler%1</translation>
     </message>
     <message>
         <source>Wechat File</source>
@@ -2896,7 +2896,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü</translation>
     </message>
     <message>
         <source>Other PC</source>
@@ -3225,7 +3225,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel Alan</translation>
     </message>
     <message>
         <source>My Circle</source>
