@@ -22541,7 +22541,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Calm Water</source>
-        <translation type="unfinished"/>
+        <translation>Durgun Su</translation>
     </message>
     <message>
         <source>Horizon</source>
@@ -22549,7 +22549,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>ChromeII</source>
-        <translation type="unfinished"/>
+        <translation>Krom II</translation>
     </message>
     <message>
         <source>Picture:</source>
@@ -22560,7 +22560,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     <name>KColorDialog</name>
     <message>
         <source>HSL</source>
-        <translation type="unfinished"/>
+        <translation>HSL</translation>
     </message>
     <message>
         <source>New</source>
@@ -22635,7 +22635,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation>Hedef</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -22663,7 +22663,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>&amp;Calc</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hesapla</translation>
     </message>
     <message>
         <source>Group</source>
