@@ -618,7 +618,7 @@ Bu işlemler geri alınabilir.</translation>
     </message>
     <message>
         <source>WPS Office if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis otomatik olarak sonlandırıldı veya bazı eklenti işlevleri kullanılamıyor. Eklenti kurulumu tamamlanmamış olabilir. Sorunu çözmek için aşağıdaki düğmeyi tıklayın. Ardından WPS&apos;yi yeniden başlatın.</translation>
     </message>
     <message>
         <source> WPS PDF not found
