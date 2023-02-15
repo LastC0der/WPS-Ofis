@@ -1843,7 +1843,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>my share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşımım</translation>
     </message>
     <message>
         <source>%1 days visible</source>
