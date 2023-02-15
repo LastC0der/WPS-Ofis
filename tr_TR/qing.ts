@@ -4224,15 +4224,15 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>My Desktop</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstüm</translation>
     </message>
     <message>
         <source>My Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Bulutum</translation>
     </message>
     <message>
         <source>My Share</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşımım</translation>
     </message>
     <message>
         <source>Wps Cloud Disk</source>
@@ -4244,15 +4244,15 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>My Download Backup</source>
-        <translation type="unfinished"/>
+        <translation>İndirmem</translation>
     </message>
     <message>
         <source>Unsynchronized files backup</source>
-        <translation type="unfinished"/>
+        <translation>Eşitlenmemiş dosya yedeklemesi</translation>
     </message>
     <message>
         <source>Document Received</source>
-        <translation type="unfinished"/>
+        <translation>Belge Alındı</translation>
     </message>
     <message>
         <source>Auto Uploaded</source>
@@ -4291,11 +4291,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Insert a new paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir paragraf ekle</translation>
     </message>
     <message>
         <source>Open Frame</source>
-        <translation type="unfinished"/>
+        <translation>Açık Çerçeve</translation>
     </message>
     <message>
         <source>Open Image</source>
