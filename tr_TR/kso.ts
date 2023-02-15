@@ -21483,11 +21483,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Insert a new paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir paragraf ekle</translation>
     </message>
     <message>
         <source>Open Frame</source>
-        <translation type="unfinished"/>
+        <translation>Açık Çerçeve</translation>
     </message>
     <message>
         <source>Open Image</source>
