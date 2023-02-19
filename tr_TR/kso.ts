@@ -14721,7 +14721,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Record Date</source>
-        <translation type="unfinished"/>
+        <translation>Kayıt Tarihi</translation>
     </message>
     <message>
         <source>Language</source>
@@ -14753,7 +14753,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Finish Date</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Tarihi</translation>
     </message>
     <message>
         <source>Checker</source>
@@ -38718,11 +38718,11 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>error triggered by consumer</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı kaynaklı hata</translation>
     </message>
     <message>
         <source>error occurred while parsing element</source>
-        <translation type="unfinished"/>
+        <translation>Öğe ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>unexpected character</source>
@@ -38734,11 +38734,11 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>error occurred while parsing content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>error occurred while parsing comment</source>
-        <translation>yorum ayrıştırılırken hata oluştu</translation>
+        <translation>Yorum ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
@@ -38778,7 +38778,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>No error occurred</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir hata oluşmadı</translation>
     </message>
     <message>
         <source>External parsed general entity reference not allowed in DTD</source>
@@ -38814,15 +38814,15 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Error triggered by consumer</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı kaynaklı hata</translation>
     </message>
     <message>
         <source>Error occurred while parsing content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>Error occurred while parsing comment</source>
-        <translation type="unfinished"/>
+        <translation>Yorum ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>Unexpected character</source>
@@ -38834,7 +38834,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Error occurred while parsing element</source>
-        <translation type="unfinished"/>
+        <translation>Öğe ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>Internal general entity reference not allowed in DTD</source>
@@ -39695,7 +39695,7 @@ Please check network</source>
     </message>
     <message>
         <source>No error occurred</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir hata oluşmadı</translation>
     </message>
     <message>
         <source>Bad lookahead syntax</source>
