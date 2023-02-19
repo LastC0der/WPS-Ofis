@@ -11295,11 +11295,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>error triggered by consumer</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı kaynaklı hata</translation>
     </message>
     <message>
         <source>error occurred while parsing element</source>
-        <translation type="unfinished"/>
+        <translation>Öğe ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>unexpected character</source>
@@ -11311,11 +11311,11 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>error occurred while parsing content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>error occurred while parsing comment</source>
-        <translation>yorum ayrıştırılırken hata oluştu</translation>
+        <translation>Yorum ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>internal general entity reference not allowed in DTD</source>
@@ -11355,7 +11355,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>No error occurred</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir hata oluşmadı</translation>
     </message>
     <message>
         <source>External parsed general entity reference not allowed in DTD</source>
@@ -11391,15 +11391,15 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Error triggered by consumer</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı kaynaklı hata</translation>
     </message>
     <message>
         <source>Error occurred while parsing content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>Error occurred while parsing comment</source>
-        <translation type="unfinished"/>
+        <translation>Yorum ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>Unexpected character</source>
@@ -11411,7 +11411,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Error occurred while parsing element</source>
-        <translation type="unfinished"/>
+        <translation>Öğe ayrıştırılırken hata oluştu</translation>
     </message>
     <message>
         <source>Internal general entity reference not allowed in DTD</source>
@@ -12010,7 +12010,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>No error occurred</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir hata oluşmadı</translation>
     </message>
     <message>
         <source>Bad lookahead syntax</source>
