@@ -521,7 +521,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıca dosyayı sil</translation>
     </message>
     <message>
         <source>Please save the document to WPS Cloud Space</source>
@@ -581,7 +581,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Are you sure to remove the selected item?</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen öğeyi/öğeleri Son Kullanılanlar listesinden kaldırmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>I known</source>
@@ -593,7 +593,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Remove File</source>
-        <translation>Dosyayı Kaldır</translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
@@ -605,7 +605,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Remove Record</source>
-        <translation>Kaydı Kaldır</translation>
+        <translation>Son Kullanılanlardan Kaldır</translation>
     </message>
     <message>
         <source>please select folder</source>
@@ -613,7 +613,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Are you sure to remove the selected file/folder?</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen öğeyi/öğeleri silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Relative location is not supported.</source>
@@ -648,7 +648,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıca dosyayı sil</translation>
     </message>
     <message>
         <source>The file is uploading, please stop uploading and retry.</source>
@@ -676,7 +676,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Are you sure to remove the selected item?</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen öğeyi/öğeleri Son Kullanılanlar listesinden kaldırmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Remove File</source>
@@ -688,7 +688,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Remove Record</source>
-        <translation>Kayıt Kaldır</translation>
+        <translation>Son Kullanılanlardan Kaldır</translation>
     </message>
 </context>
 <context>
@@ -725,7 +725,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>upload to cloud</source>
-        <translation type="unfinished"/>
+        <translation>Buluta Kaydet</translation>
     </message>
 </context>
 <context>
@@ -760,7 +760,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Total</source>
-        <translation>Toplam</translation>
+        <translation>Tüm</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -768,7 +768,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Upload to Cloud</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Tile View</source>
@@ -788,7 +788,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Type Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -848,7 +848,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>SharesToMe</source>
-        <translation>Benimle Paylaş</translation>
+        <translation>Benimle paylaşıldı</translation>
     </message>
     <message>
         <source>Single Web Page Files</source>
@@ -955,7 +955,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Recent</source>
-        <translation>Son Kullanılan</translation>
+        <translation>Sık Kullanılan</translation>
     </message>
     <message>
         <source>Failed Adding</source>
@@ -1276,7 +1276,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>pin to often use location list</source>
-        <translation type="unfinished"/>
+        <translation>Sık Kullanılanlara Sabitle</translation>
     </message>
     <message>
         <source>unfix folder</source>
@@ -1284,11 +1284,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>upload to cloud</source>
-        <translation type="unfinished"/>
+        <translation>Buluta Kaydet</translation>
     </message>
     <message>
         <source>delete records</source>
-        <translation type="unfinished"/>
+        <translation>Son Kullanılanlardan Kaldır</translation>
     </message>
     <message>
         <source>Invite members</source>
@@ -1296,7 +1296,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>history version</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm Geçmişi</translation>
     </message>
     <message>
         <source>delete</source>
@@ -1308,7 +1308,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>export</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
     <message>
         <source>fix folder</source>
@@ -1348,7 +1348,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>remove from often use location list</source>
-        <translation type="unfinished"/>
+        <translation>Sık Kullanılanlardan Ayır</translation>
     </message>
     <message>
         <source>cancel top-fixing</source>
@@ -1404,7 +1404,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>delete record</source>
-        <translation>Kaydı kaldır</translation>
+        <translation>Son Kullanılanlardan Kaldır</translation>
     </message>
     <message>
         <source>batch download/update</source>
@@ -1412,7 +1412,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>create duplication</source>
-        <translation type="unfinished"/>
+        <translation>Bir Kopya Oluştur</translation>
     </message>
     <message>
         <source>pin to quick-access bar</source>
