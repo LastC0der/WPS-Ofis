@@ -15985,6 +15985,10 @@ Painter</translation>
         <source>Text2Num</source>
         <translation>Convert Text to Numbers</translation>
     </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WPS Customer Service on WeChat</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37527,6 +37531,10 @@ PDF</translation>
     <message>
         <source>Next week</source>
         <translation>Next week</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WPS Customer Service on WeChat</translation>
     </message>
 </context>
 <context>
