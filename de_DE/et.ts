@@ -15974,6 +15974,10 @@ Painter</source>
         <source>Text2Num</source>
         <translation>Text in Zahlen umwandeln</translation>
     </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WeChat-Kundendienst</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37479,6 +37483,10 @@ exportieren</translation>
     <message>
         <source>Next week</source>
         <translation>Nächste Woche</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WeChat-Kundendienst</translation>
     </message>
 </context>
 <context>
