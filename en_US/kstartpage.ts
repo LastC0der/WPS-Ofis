@@ -523,7 +523,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation>Delete file</translation>
+        <translation>Also delete file</translation>
     </message>
     <message>
         <source>Please save the document to WPS Cloud Space</source>
@@ -583,7 +583,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Are you sure to remove the selected item?</source>
-        <translation>Are you sure to remove the selected item?</translation>
+        <translation>Are you sure you want to remove the selected item(s) from the Recent list?</translation>
     </message>
     <message>
         <source>I known</source>
@@ -595,7 +595,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Remove File</source>
-        <translation>Remove File</translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
@@ -607,7 +607,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Remove Record</source>
-        <translation>Remove Record</translation>
+        <translation>Remove from Recent</translation>
     </message>
     <message>
         <source>please select folder</source>
@@ -615,7 +615,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Are you sure to remove the selected file/folder?</source>
-        <translation>Are you sure to remove the selected item(s)?</translation>
+        <translation>Are you sure you want to delete the selected item(s)?</translation>
     </message>
     <message>
         <source>Relative location is not supported.</source>
@@ -650,7 +650,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>remove file simultaneously</source>
-        <translation>Delete file</translation>
+        <translation>Also delete file</translation>
     </message>
     <message>
         <source>The file is uploading, please stop uploading and retry.</source>
@@ -678,7 +678,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Are you sure to remove the selected item?</source>
-        <translation>Are you sure to remove the selected item?</translation>
+        <translation>Are you sure you want to remove the selected item(s) from the Recent list?</translation>
     </message>
     <message>
         <source>Remove File</source>
@@ -690,7 +690,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Remove Record</source>
-        <translation>Remove Record</translation>
+        <translation>Remove from Recent</translation>
     </message>
 </context>
 <context>
@@ -762,7 +762,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation>Total</translation>
+        <translation>All</translation>
     </message>
     <message>
         <source>Presentation</source>
@@ -770,7 +770,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Upload to Cloud</source>
-        <translation>Save to Cloud</translation>
+        <translation>Upload</translation>
     </message>
     <message>
         <source>Tile View</source>
@@ -790,7 +790,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Type Filter</source>
-        <translation>Type Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -850,7 +850,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>SharesToMe</source>
-        <translation>Share to Me</translation>
+        <translation>Shared with me</translation>
     </message>
     <message>
         <source>Single Web Page Files</source>
@@ -910,7 +910,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>MyShares</source>
-        <translation>Share from Me</translation>
+        <translation>Benim tarafımdan paylaşıldı</translation>
     </message>
     <message>
         <source>All Data Sources</source>
@@ -957,7 +957,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Recent</source>
-        <translation>Recent</translation>
+        <translation>Frequently Used</translation>
     </message>
     <message>
         <source>Failed Adding</source>
@@ -1278,7 +1278,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>pin to often use location list</source>
-        <translation>Pin to Recent locations</translation>
+        <translation>Pin to Frequently Used</translation>
     </message>
     <message>
         <source>unfix folder</source>
@@ -1290,7 +1290,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>delete records</source>
-        <translation>Delete records</translation>
+        <translation>Remove from Recent</translation>
     </message>
     <message>
         <source>Invite members</source>
@@ -1298,7 +1298,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>history version</source>
-        <translation>History version</translation>
+        <translation>Version History</translation>
     </message>
     <message>
         <source>delete</source>
@@ -1310,7 +1310,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>export</source>
-        <translation>Export</translation>
+        <translation>Download</translation>
     </message>
     <message>
         <source>fix folder</source>
@@ -1350,7 +1350,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>remove from often use location list</source>
-        <translation>Remove from often use location list</translation>
+        <translation>Unpin from Frequently Used</translation>
     </message>
     <message>
         <source>cancel top-fixing</source>
@@ -1406,7 +1406,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>delete record</source>
-        <translation>Remove record</translation>
+        <translation>Remove from Recent</translation>
     </message>
     <message>
         <source>batch download/update</source>
@@ -1414,7 +1414,7 @@ The file may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>create duplication</source>
-        <translation>Create duplication</translation>
+        <translation>Make a Copy</translation>
     </message>
     <message>
         <source>pin to quick-access bar</source>
