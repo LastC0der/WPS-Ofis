@@ -16015,6 +16015,10 @@ formatów</translation>
         <source>Text2Num</source>
         <translation>Skonwertuj tekst na liczby</translation>
     </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>Obsługa klienta WeChat</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37571,6 +37575,10 @@ do PDF</translation>
     <message>
         <source>Next week</source>
         <translation>W przyszłym tygodniu</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>Obsługa klienta WeChat</translation>
     </message>
 </context>
 <context>
