@@ -4340,7 +4340,7 @@ parola:%1</translation>
     <name>KLocalSaveToCloudGuidWidget</name>
     <message>
         <source>Upload to cloud</source>
-        <translation type="unfinished"/>
+        <translation>Buluta yükle</translation>
     </message>
     <message>
         <source>This document is often opened, uploaded to Cloud can be viewed on multiple computers and mobile phones.</source>
