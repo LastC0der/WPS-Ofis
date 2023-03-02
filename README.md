@@ -7,7 +7,8 @@ Yeni sürümler çıktığı ve ben çeviri yaptığım sürece repo güncellene
 Windows ve Ubuntu için ayrı ayrı oluşturulan kurulum dosyaları yakında paylaşılacak.
 
 
-https://linux.wps.com/    https://wps.com/
+https://linux.wps.com/    
+https://wps.com/
 
 
 
