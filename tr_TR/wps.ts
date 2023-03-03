@@ -5330,7 +5330,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Dark Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Dikey</translation>
     </message>
     <message>
         <source>(none)</source>
@@ -20629,7 +20629,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Delete Contents Entry</source>
-        <translation type="unfinished"/>
+        <translation>İçeriği Sil</translation>
     </message>
     <message>
         <source>Insert Comment</source>
