@@ -2136,7 +2136,7 @@ için kullanılır</translation>
     </message>
     <message>
         <source>Dark vertical</source>
-        <translation type="unfinished"/>
+        <translation>Koyu dikey</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -34322,7 +34322,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Dark vertical</source>
-        <translation type="unfinished"/>
+        <translation>Koyu dikey</translation>
     </message>
     <message>
         <source>Select Texture</source>
