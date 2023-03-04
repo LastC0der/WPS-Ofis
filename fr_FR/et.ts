@@ -16028,10 +16028,6 @@ Painter</translation>
         <source>Text2Num</source>
         <translation>Convertir le texte en nombres</translation>
     </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Service clientèle WeChat</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37601,10 +37597,6 @@ format PDF</translation>
     <message>
         <source>Next week</source>
         <translation>La semaine prochaine</translation>
-    </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Service clientèle WeChat</translation>
     </message>
 </context>
 <context>
