@@ -21783,9 +21783,9 @@ Yolu ve dosya adını kontrol edin.</translation>
         <source>Move the cursor to the previous line</source>
         <translation>İmleci önceki satıra taşı</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%n file(s)</source>
-        <translation><numerusform>%n dosyası</numerusform><numerusform>%n dosyaları</numerusform></translation>
+        <translation>%n dosyası</translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -31179,9 +31179,9 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>%1 is not a valid numeric literal.</source>
         <translation type="unfinished"/>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation><numerusform>%1 en fazla %n bağımsız değişken alır. Bu nedenle %2 geçersiz.</numerusform><numerusform>%1 en fazla %n bağımsız değişken alır. Bu nedenle %2 geçersiz.</numerusform></translation>
+        <translation>%1 en fazla %n bağımsız değişken alır. Bu nedenle %2 geçersiz.</translation>
     </message>
     <message>
         <source>Circularity detected</source>
@@ -31251,9 +31251,9 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation type="unfinished"/>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, is %2 invalid.</source>
