@@ -16001,10 +16001,6 @@ Boyacısı</translation>
         <source>Text2Num</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>WeChat&apos;te WPS Müşteri Hizmetleri</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37508,10 +37504,6 @@ Aktar</translation>
     <message>
         <source>Next week</source>
         <translation>Gelecek hafta</translation>
-    </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>WeChat&apos;te WPS Müşteri Hizmetleri</translation>
     </message>
 </context>
 <context>
