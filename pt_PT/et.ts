@@ -16025,10 +16025,6 @@ Formatação</translation>
         <source>Text2Num</source>
         <translation>Converter texto em números</translation>
     </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Suporte ao Cliente do WeChat</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37599,10 +37595,6 @@ para PDF</translation>
     <message>
         <source>Next week</source>
         <translation>Semana seguinte</translation>
-    </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Suporte ao Cliente do WeChat</translation>
     </message>
 </context>
 <context>
