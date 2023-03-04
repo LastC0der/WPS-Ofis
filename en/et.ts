@@ -15801,10 +15801,6 @@ Painter</source>
         <source>Text2Num</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37125,10 +37121,6 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WeChat Customer Service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
