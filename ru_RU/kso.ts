@@ -21865,9 +21865,9 @@ Check path and filename.</source>
         <source>Move the cursor to the previous line</source>
         <translation>Переместить указатель на предыдущую строку</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%n file(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left edge</source>
@@ -31281,9 +31281,9 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>%1 is not a valid numeric literal.</source>
         <translation>%1 не является корректным числовым литералом.</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Circularity detected</source>
@@ -31353,9 +31353,9 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation>Имя кодировки %1 некорректно. Имя кодировки должно содержать только символы латиницы без пробелов и должно удовлетворять регулярному выражению %2.</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, is %2 invalid.</source>
