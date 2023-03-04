@@ -21870,9 +21870,9 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Move the cursor to the previous line</source>
         <translation>Przenieś kursor do poprzedniego wiersza</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%n file(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left edge</source>
@@ -31288,9 +31288,9 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>%1 is not a valid numeric literal.</source>
         <translation>%1 nie jest prawidłowym literałem numerycznym.</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Circularity detected</source>
@@ -31360,9 +31360,9 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation>Kodowanie %1 jest nieprawidłowe. Musi ono zawierać tylko znaki alfabetu łacińskiego, nie może zawierać spacji i musi pasować do wyrażenia regularnego%2.</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, is %2 invalid.</source>
