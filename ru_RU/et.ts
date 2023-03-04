@@ -16024,10 +16024,6 @@ Painter</source>
         <source>Text2Num</source>
         <translation>Преобразовать текст в цифры</translation>
     </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Служба поддержки WeChat</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37553,10 +37549,6 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     <message>
         <source>Next week</source>
         <translation>На следующей неделе</translation>
-    </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Служба поддержки WeChat</translation>
     </message>
 </context>
 <context>
