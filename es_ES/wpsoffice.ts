@@ -3922,9 +3922,9 @@ Compruebe la ruta y el nombre del fichero.</translation>
         <source>Move the cursor to the previous line</source>
         <translation>Mover el cursor a la línea anterior</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%n file(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left edge</source>
@@ -6487,9 +6487,9 @@ Verifique que el nombre del fichero es correcto.</translation>
         <source>%1 is not a valid numeric literal.</source>
         <translation>%1 no es un literal numérico válido.</translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Circularity detected</source>
@@ -6559,9 +6559,9 @@ Verifique que el nombre del fichero es correcto.</translation>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation>La codificación %1 es inválida. Debe contener sólo caracteres latinos sin espacio en blanco y debe coincidir con una expresión regular %2.  </translation>
     </message>
-    <message numerus="yes">
+    <message>
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, is %2 invalid.</source>
