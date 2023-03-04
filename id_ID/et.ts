@@ -16016,10 +16016,6 @@ Format</translation>
         <source>Text2Num</source>
         <translation>Konversi Teks ke Angka</translation>
     </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Layanan Pelanggan WPS di WeChat</translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -37592,10 +37588,6 @@ ke PDF</translation>
     <message>
         <source>Next week</source>
         <translation>Minggu Depan</translation>
-    </message>
-    <message>
-        <source>WeChat Customer Service</source>
-        <translation>Layanan Pelanggan WPS di WeChat</translation>
     </message>
 </context>
 <context>
