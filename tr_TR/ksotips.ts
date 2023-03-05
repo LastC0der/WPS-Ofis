@@ -3,11 +3,11 @@
     <name/>
     <message>
         <source>EquationProfessional.title</source>
-        <translation type="unfinished"/>
+        <translation>Profesyonel</translation>
     </message>
     <message>
         <source>PictureDesign.title</source>
-        <translation type="unfinished"/>
+        <translation>Görüntü tasarımı</translation>
     </message>
     <message>
         <source>SpeedLayout.title</source>
@@ -15,7 +15,9 @@
     </message>
     <message>
         <source>ChartCombination.content</source>
-        <translation type="unfinished"/>
+        <translation>Farklı türde bilgileri vurgulamak için bu grafik türünü kullanın. Grafikteki değer aralığı büyük farklılık gösterdiğinde veya karma veri türleriniz olduğunda kullanın.
+
+Ön ayarlı birleşik grafikleri görmek için oka tıklayın ve belgenizin önizlemesini görmek için simgelerin üzerinde duraklayın. Birleştirilecek farklı grafik türlerini seçmek için Özel Birleşik Grafik Oluştur seçeneğine tıklayın.</translation>
     </message>
     <message>
         <source>CloseWindow.content</source>
@@ -23,7 +25,7 @@
     </message>
     <message>
         <source>OnlineDiagramMoreTip.content</source>
-        <translation>Diyagram metin yapısını daha net hale getirebilir</translation>
+        <translation>Diyagram, metin yapısının daha net görünmesini sağlayabilir.</translation>
     </message>
     <message>
         <source>KOSOfficespaceLoginFailTip.content</source>
@@ -31,15 +33,15 @@
     </message>
     <message>
         <source>QuickBarAddChartElement.content</source>
-        <translation>Başlık, açıklama, kılavuz çizgileri ve veri etiketleri gibi çizelge öğeleri ekleyin, kaldırın veya değiştirin.</translation>
+        <translation>Başlık, gösterge, kılavuz çizgileri ve veri etiketleri gibi grafik öğeleri ekleyin, kaldırın veya bunları değiştirin.</translation>
     </message>
     <message>
         <source>OneStepSaveTip.content</source>
-        <translation>Yerel dosyaları WPS bulut dosyalarına hızlıca aktarın ve birden çok terminaldeki dosyaları istediğiniz zaman, istediğiniz yerde kullanın.</translation>
+        <translation>Yerel dosyaları kolay bir adımla WPS Bulut&apos;a kaydedin, böylece dosyalara her zaman, her yerden birden fazla cihazdan erişilebilir.</translation>
     </message>
     <message>
         <source>TextToDiagram.title</source>
-        <translation>Diyagram ile metni göster</translation>
+        <translation>Metni diyagramla göster</translation>
     </message>
     <message>
         <source>3DColor2.content</source>
@@ -51,11 +53,13 @@
     </message>
     <message>
         <source>ChartScatter.content</source>
-        <translation type="unfinished"/>
+        <translation>Değer kümeleri arasındaki ilişkiyi göstermek için bu grafik türünü kullanın.
+
+Farklı dağılım grafiği türlerini görmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>OneStepSaveTip.title</source>
-        <translation>Tek Adım Kayıt</translation>
+        <translation>Tek Adımda Kaydet</translation>
     </message>
     <message>
         <source>FormatObjectSize.title</source>
@@ -63,23 +67,23 @@
     </message>
     <message>
         <source>TextboxBeautify.title</source>
-        <translation type="unfinished"/>
+        <translation>Tek Tıkla Hızlı Dizgi</translation>
     </message>
     <message>
         <source>PictureDesign.content</source>
-        <translation type="unfinished"/>
+        <translation>Basit sürükleme işlemlerini kullanarak 3 dakikada bir resim tasarlayın.</translation>
     </message>
     <message>
         <source>ChartBubble.title</source>
-        <translation type="unfinished"/>
+        <translation>Kabarcık Grafik Ekle</translation>
     </message>
     <message>
         <source>InsertBarcode.title</source>
-        <translation type="unfinished"/>
+        <translation>Barkod</translation>
     </message>
     <message>
         <source>WordArtSize.title</source>
-        <translation>WordArt Boyut</translation>
+        <translation>WordArt Boyutu</translation>
     </message>
     <message>
         <source>CloseDevelopmentTools.content</source>
@@ -91,23 +95,23 @@
     </message>
     <message>
         <source>BringForward.title</source>
-        <translation>En Öne Getir</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>RunJSMacro.content</source>
-        <translation type="unfinished"/>
+        <translation>JS Makro iletişim kutusu açılır. Bir JS makrosunu çalıştırabileceğiniz, oluşturabileceğiniz veya silebileceğiniz JS makrolarının listesini görüntüleyin.</translation>
     </message>
     <message>
         <source>ChartLine.title</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Grafik Ekle</translation>
     </message>
     <message>
         <source>HardwareEncryption.content</source>
-        <translation>Güvenliğini daha da artırmak için belgeyi bir USB Anahtar ile şifreleyin.</translation>
+        <translation>Güvenliğini daha da artırmak için belgeyi bir USB Anahtarıyla şifreleyin.</translation>
     </message>
     <message>
         <source>IntranetVersion DocerURLEntranceTip.title</source>
-        <translation>IntranetVersion Docer Entrance</translation>
+        <translation>Docer</translation>
     </message>
     <message>
         <source>3DOnOff.title</source>
@@ -115,11 +119,11 @@
     </message>
     <message>
         <source>JavaScriptEditor.content</source>
-        <translation type="unfinished"/>
+        <translation>WPS Makro Düzenleyiciyi başlatın ve makroları düzenleyin.</translation>
     </message>
     <message>
         <source>InkDrawEraser.title</source>
-        <translation type="unfinished"/>
+        <translation>Silgi</translation>
     </message>
     <message>
         <source>ShapeHeight.title</source>
@@ -127,7 +131,7 @@
     </message>
     <message>
         <source>InsertProcesson_Flow.content</source>
-        <translation>InsertProcesson_Flow content</translation>
+        <translation>Mevcut imleç konumuna akış şeması ekleyin, istediğiniz zaman düzenlemeye girebilirsiniz.</translation>
     </message>
     <message>
         <source>WordArtFill.content</source>
@@ -669,11 +673,11 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>ChartStock.title</source>
-        <translation type="unfinished"/>
+        <translation>Hisse Senedi Grafiği Ekle</translation>
     </message>
     <message>
         <source>WordArtQuickBarCollapse.content</source>
-        <translation>Collapse the word art quick bar.</translation>
+        <translation>WordArt hızlı araç çubuğunu daraltın.</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTip.title</source>
