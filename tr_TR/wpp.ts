@@ -3079,7 +3079,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>This file is using %s macro. Do you want to switch to %s environment?</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya %s makrosu kullanıyor. %s ortamına geçmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -19452,7 +19452,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Advanced &amp;Settings For Monitor</source>
-        <translation type="unfinished"/>
+        <translation>Monitör İçin Gelişmiş &amp;Ayarlar</translation>
     </message>
     <message>
         <source>&amp;Browsed by an individual(window)</source>
@@ -22321,7 +22321,7 @@ Görüntüsü</translation>
     </message>
     <message>
         <source>File Tools</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Araçları</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
@@ -28063,7 +28063,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>File tools</source>
-        <translation type="unfinished"/>
+        <translation>Dosya araçları</translation>
     </message>
     <message>
         <source>document security</source>
@@ -28149,7 +28149,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>&amp;Setting</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ayar</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -28443,7 +28443,7 @@ Gizle</translation>
     <name>KxWppOnlineMeidiaWebView</name>
     <message>
         <source>The Page is Loading, please waiting...</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa yükleniyor, lütfen bekleyin...</translation>
     </message>
 </context>
 <context>
@@ -28623,7 +28623,7 @@ Gizle</translation>
     </message>
     <message>
         <source>Folder &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>Kl&amp;asör adı:</translation>
     </message>
 </context>
 <context>
@@ -28649,7 +28649,7 @@ Gizle</translation>
     <name>wpp_wppdata</name>
     <message>
         <source>Click icon to add picture</source>
-        <translation type="unfinished"/>
+        <translation>Resim eklemek için simgeye tıklayın</translation>
     </message>
     <message>
         <source>Click to add subtitle</source>
@@ -28665,11 +28665,11 @@ Gizle</translation>
     </message>
     <message>
         <source>Click to add text</source>
-        <translation type="unfinished"/>
+        <translation>Metin eklemek için tıklayın</translation>
     </message>
     <message>
         <source>Click icon to add smartArt</source>
-        <translation type="unfinished"/>
+        <translation>WPSArt eklemek için simgeye tıklayın</translation>
     </message>
     <message>
         <source>Date Area</source>
