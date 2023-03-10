@@ -23762,7 +23762,7 @@ Protection</source>
     </message>
     <message>
         <source>This file is using %s macro. Do you want to switch to %s environment?</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya %s makrosu kullanıyor. %s ortamına geçmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>The text box you selected cannot be linked because a link has already existed in the text box , or you have linked the text box to itself.</source>
@@ -33919,7 +33919,7 @@ Numarası</translation>
     </message>
     <message>
         <source>File Tools</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Araçları</translation>
     </message>
     <message>
         <source>ComposeKit</source>
@@ -37408,7 +37408,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Absolut&amp;e</source>
-        <translation type="unfinished"/>
+        <translation>Mutla&amp;k</translation>
     </message>
     <message>
         <source>Ro&amp;tation:</source>
@@ -37420,7 +37420,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Re&amp;lative</source>
-        <translation type="unfinished"/>
+        <translation>Gö&amp;reli</translation>
     </message>
     <message>
         <source>%, 0, 0, 10675, 1</source>
@@ -37643,7 +37643,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>PrintSettings</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma Ayarları</translation>
     </message>
     <message>
         <source>Multiple Pages</source>
@@ -37655,11 +37655,11 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Duplex Print:</source>
-        <translation type="unfinished"/>
+        <translation>Çift Yönlü Yazdırma:</translation>
     </message>
     <message>
         <source>Duplex Print</source>
-        <translation type="unfinished"/>
+        <translation>Çift Yönlü Yazdırma</translation>
     </message>
     <message>
         <source>Custom Margins</source>
@@ -37667,7 +37667,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>PrintMode</source>
-        <translation type="unfinished"/>
+        <translation>Mod</translation>
     </message>
 </context>
 <context>
@@ -40472,7 +40472,7 @@ Okuma</translation>
     </message>
     <message>
         <source>File tools</source>
-        <translation type="unfinished"/>
+        <translation>Dosya araçları</translation>
     </message>
     <message>
         <source>document security</source>
@@ -48610,7 +48610,7 @@ represent the recipient&apos;s information content</source>
     <name>KxWpsDuplexPrintCombobox</name>
     <message>
         <source>Duplex Print:</source>
-        <translation type="unfinished"/>
+        <translation>Çift Yönlü Yazdırma:</translation>
     </message>
 </context>
 <context>
@@ -48624,14 +48624,14 @@ represent the recipient&apos;s information content</source>
     <name>KxWpsDelContentEntry</name>
     <message>
         <source>DeleteCotentEntry</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
 </context>
 <context>
     <name>KxWpsDelContentEntryPopup</name>
     <message>
         <source>DeleteCotentEntry</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
 </context>
 <context>
