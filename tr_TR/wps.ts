@@ -39377,7 +39377,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Menu Bar</source>
-        <translation type="unfinished"/>
+        <translation>Menü Çubuğu</translation>
     </message>
     <message>
         <source>View Side by Side</source>
