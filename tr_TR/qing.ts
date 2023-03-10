@@ -5618,11 +5618,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasör</translation>
     </message>
     <message>
         <source>Create a New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör Oluştur</translation>
     </message>
     <message>
         <source>Go forward</source>
@@ -6169,7 +6169,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy &amp;Ayarı</translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
@@ -14447,18 +14447,18 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>, Manage all automatically updated cloud disk folders</source>
-        <translation type="unfinished"/>
+        <translation>, otomatik olarak güncellenen tüm Bulut Depolama klasörlerini yönetin</translation>
     </message>
     <message>
         <source>Not for the time being</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Değil</translation>
     </message>
 </context>
 <context>
     <name>KSyncFolderWidgetMgr</name>
     <message>
         <source>cloud sync folder settings</source>
-        <translation type="unfinished"/>
+        <translation>Eşitleme Klasörü Ayarları</translation>
     </message>
 </context>
 <context>
