@@ -2114,7 +2114,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     </message>
     <message>
         <source>There are merged cells of different sizes. Please make sure the merged cells are the same size before sorting.</source>
-        <translation type="unfinished"/>
+        <translation>Bunu yapmak için, birleştirilmiş tüm hücrelerin aynı boyutta olması gerekir.</translation>
     </message>
     <message>
         <source>Text date with 2 digit years</source>
@@ -3924,7 +3924,7 @@ Lütfen aşağıdakilerden birini deneyin.
     </message>
     <message>
         <source>Refresh File</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Part of an array cannot be changed.</source>
@@ -29178,7 +29178,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>This file is using %s macro. Do you want to switch to %s environment?</source>
-        <translation type="unfinished"/>
+        <translation>Bu dosya %s makrosu kullanıyor. %s ortamına geçmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>There are many cells in the selected area. It takes a long time, do you want to continue?</source>
@@ -45825,7 +45825,7 @@ Oluşturucu</translation>
     </message>
     <message>
         <source>File Tools</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Araçları</translation>
     </message>
     <message>
         <source>PDF to PPT</source>
@@ -51151,7 +51151,7 @@ prior to sharing the workbook.</source>
     <name>KxDlgImportData</name>
     <message>
         <source>Edit &amp;Query...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sorguyu Düzenle...</translation>
     </message>
     <message>
         <source>P&amp;roperties...</source>
@@ -51194,7 +51194,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>E&amp;valuation:</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;eğerlendirme:</translation>
     </message>
 </context>
 <context>
@@ -51237,7 +51237,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>File tools</source>
-        <translation type="unfinished"/>
+        <translation>Dosya araçları</translation>
     </message>
     <message>
         <source>document security</source>
