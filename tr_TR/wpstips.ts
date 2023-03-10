@@ -1933,7 +1933,8 @@ Click the arrow to add an emphasis mark.</translation>
     </message>
     <message>
         <source>InsertPictureFromFile2.title</source>
-        <translation>Resim Ekle</translation>
+        <translation>Resim 
+Ekle</translation>
     </message>
     <message>
         <source>MergeToDiffNewDoc.title</source>
