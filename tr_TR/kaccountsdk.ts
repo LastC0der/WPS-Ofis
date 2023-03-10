@@ -1474,7 +1474,7 @@ Easy mobile office.</source>
     <name>KBindingAccountDialog</name>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy &amp;Ayarı</translation>
     </message>
     <message>
         <source>Bind Account</source>
@@ -1493,7 +1493,7 @@ Easy mobile office.</source>
     <name>KWebViewControl</name>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation type="unfinished"/>
+        <translation>Proxy &amp;Ayarı</translation>
     </message>
     <message>
         <source>User Login</source>
