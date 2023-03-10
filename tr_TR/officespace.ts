@@ -2102,7 +2102,7 @@ Current document need save to cloud first</source>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasör</translation>
     </message>
     <message>
         <source>Save backup file to File Safe.</source>
