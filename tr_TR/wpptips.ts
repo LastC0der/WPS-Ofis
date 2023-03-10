@@ -1901,7 +1901,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PrevPortrait.content</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma sayfalarını dikey olarak ayarlayın.</translation>
     </message>
     <message>
         <source>PictureToText.title</source>
