@@ -1581,7 +1581,7 @@ Please choose a different file name.</source>
     </message>
     <message>
         <source>Refresh File</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <source>Backup File</source>
@@ -4885,11 +4885,11 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished"/>
+        <translation>Klasör</translation>
     </message>
     <message>
         <source>Create a New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör Oluştur</translation>
     </message>
     <message>
         <source>Go forward</source>
