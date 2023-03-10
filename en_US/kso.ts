@@ -14221,7 +14221,7 @@ Always take this action.</translation>
     </message>
     <message>
         <source>Reading layout, eye protection mode</source>
-        <translation type="unfinished"/>
+        <translation>Okuma düzeni, göz koruma modu</translation>
     </message>
     <message>
         <source>Small, fast, and feature-rich PDF App. View, edit and annotate PDF files in a better way</source>
