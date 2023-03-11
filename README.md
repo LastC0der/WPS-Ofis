@@ -8,7 +8,4 @@ Windows ve Ubuntu için ayrı ayrı oluşturulan kurulum dosyaları yakında pay
 
 
 https://linux.wps.com/    
-https://wps.com/
-
-
-
+https://www.wps.com/office/windows/
