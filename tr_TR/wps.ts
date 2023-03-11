@@ -27940,7 +27940,7 @@ Modu</translation>
     </message>
     <message>
         <source>Management keyword</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar Sözcükleri Yönet</translation>
     </message>
 </context>
 <context>
