@@ -47830,7 +47830,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Management keyword</source>
-        <translation type="unfinished"/>
+        <translation>Anahtar Sözcükleri Yönet</translation>
     </message>
 </context>
 <context>
