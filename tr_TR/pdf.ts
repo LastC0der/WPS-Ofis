@@ -14193,7 +14193,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>CopyToClipboard</source>
-        <translation type="unfinished"/>
+        <translation>İçerik panoya kopyalanıyor...</translation>
     </message>
     <message>
         <source>The current document need to be saved before extracted.</source>
@@ -14201,7 +14201,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>InfoSeeking</source>
-        <translation type="unfinished"/>
+        <translation>Metin tanıma</translation>
     </message>
     <message>
         <source>&amp;ComfirmExtract</source>
