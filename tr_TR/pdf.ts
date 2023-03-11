@@ -9310,7 +9310,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Zoom%</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -9666,7 +9666,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Edit Tool</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme Aracı</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -10051,7 +10051,7 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     </message>
     <message>
         <source>Edit Tool</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme Aracı</translation>
     </message>
     <message>
         <source>Docmgr</source>
@@ -11154,7 +11154,7 @@ and then use the page extraction function, there is no need to manually enter th
     </message>
     <message>
         <source>Zoom%</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <source>Split Window</source>
@@ -11453,7 +11453,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Edit Tool</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme Aracı</translation>
     </message>
     <message>
         <source>TextStyle</source>
@@ -11505,7 +11505,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Edit Tool</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme Aracı</translation>
     </message>
     <message>
         <source>Picture to text</source>
@@ -11532,7 +11532,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Zoom%</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
 </context>
 <context>
@@ -11550,11 +11550,11 @@ Gezintisi</translation>
     <name>KxPdfMeasureResultWidget</name>
     <message>
         <source>X:%1</source>
-        <translation>X:%1</translation>
+        <translation>X: %1</translation>
     </message>
     <message>
         <source>Y:%1</source>
-        <translation>Y:%1</translation>
+        <translation>Y: %1</translation>
     </message>
     <message>
         <source>foot</source>
@@ -11594,7 +11594,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>angle:%1</source>
-        <translation type="unfinished"/>
+        <translation>Açı: %1</translation>
     </message>
     <message>
         <source>custom</source>
@@ -11618,7 +11618,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>scale:%1</source>
-        <translation>Ölçek:%1</translation>
+        <translation>Ölçek: %1</translation>
     </message>
     <message>
         <source>centimeter</source>
@@ -11626,7 +11626,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>perimeter:%1</source>
-        <translation>Çevre:%1</translation>
+        <translation>Çevre: %1</translation>
     </message>
     <message>
         <source>PerimeterTool</source>
