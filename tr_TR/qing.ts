@@ -2025,7 +2025,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>CancelAll</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü İptal Et</translation>
     </message>
     <message>
         <source>Delete</source>
