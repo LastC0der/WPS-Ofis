@@ -19161,7 +19161,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Spelling Suggestions Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Yazım Önerileri Bağlam Menüsü</translation>
     </message>
     <message>
         <source>Font Missing</source>
