@@ -245,7 +245,9 @@ Farklı pasta ve halka grafiği türlerini görmek için oka tıklayın ve belge
     </message>
     <message>
         <source>ChartBar.content</source>
-        <translation type="unfinished"/>
+        <translation>Grafik süre gösterdiğinde veya kategori metni uzun olduğunda birkaç kategorideki değerleri görsel olarak karşılaştırmak için bu grafik türünü kullanın.
+
+Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bir önizleme görmek için işaretçiyi simgelerin üzerinde tutun.</translation>
     </message>
     <message>
         <source>Themes.title</source>
