@@ -39821,7 +39821,7 @@ Please check network</source>
     </message>
     <message>
         <source>Approval Comments:</source>
-        <translation>Onay Açıklamaları:</translation>
+        <translation>Onay Açıklaması:</translation>
     </message>
     <message>
         <source>Approve Status:</source>
