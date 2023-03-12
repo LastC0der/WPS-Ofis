@@ -141,7 +141,7 @@ WordArt&apos;ı farklı şekillerde doldurmak için oka tıklayın.</translation
     </message>
     <message>
         <source>EquationOperatorGallery.title</source>
-        <translation type="unfinished"/>
+        <translation>İşleç</translation>
     </message>
     <message>
         <source>DocerHomeEntranceTip.title</source>
