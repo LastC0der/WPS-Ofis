@@ -283,7 +283,7 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>KOSOpenCloudFileTip.content</source>
-        <translation>Bulut Belgelerindeki yapılan değişiklikler doğrudan kaydedilir.</translation>
+        <translation>Bulut Belgelerindeki yapılan değişiklikler doğrudan kaydedilecektir.</translation>
     </message>
     <message>
         <source>Print2.title</source>
