@@ -13116,7 +13116,7 @@ Gezintisi</translation>
     <name>KxPdfPlayPointerOptionsUI</name>
     <message>
         <source>HighlighterPen</source>
-        <translation type="unfinished"/>
+        <translation>Vurgulayıcı Kalem</translation>
     </message>
     <message>
         <source>BallpointPen</source>
