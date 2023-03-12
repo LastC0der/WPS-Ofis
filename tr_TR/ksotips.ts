@@ -235,7 +235,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>EquationDelimiterGallery.content</source>
-        <translation type="unfinished"/>
+        <translation>Denkleme bir sınırlayıcı ekleyin.</translation>
     </message>
     <message>
         <source>ChartPie.content</source>
