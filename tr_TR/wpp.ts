@@ -15460,7 +15460,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Remarks</source>
-        <translation type="unfinished"/>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>Replace</source>
