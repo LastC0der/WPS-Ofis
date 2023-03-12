@@ -165,7 +165,9 @@ WordArt&apos;ı farklı şekillerde doldurmak için oka tıklayın.</translation
     </message>
     <message>
         <source>ChartLine.content</source>
-        <translation type="unfinished"/>
+        <translation>Zaman içindeki (yıl, ay ve gün) veya kategoriler içindeki eğilimleri göstermek için bu grafik türünü kullanın.
+
+Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir önizleme görmek için işaretçiyi simgelerin üzerinde tutun.</translation>
     </message>
     <message>
         <source>TriggerExtendObject.title</source>
