@@ -30028,7 +30028,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Highlighter Pen</source>
-        <translation>Vurgulayıcı Kalem</translation>
+        <translation>Vurgulayıcı</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
