@@ -2274,7 +2274,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>OcrArea.content</source>
-        <translation type="unfinished"/>
+        <translation>Recognize text in the selected area of an image and make it editable and searchable.</translation>
     </message>
     <message>
         <source>AlignJustify.content</source>
@@ -2282,27 +2282,27 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>NewPDFBatchPrint.content</source>
-        <translation type="unfinished"/>
+        <translation>Batch print settings and batch printing for multiple PDF documents</translation>
     </message>
     <message>
         <source>PdfPictureToText.content</source>
-        <translation type="unfinished"/>
+        <translation>Use OCR to make a scanned PDF document editable and searchable.</translation>
     </message>
     <message>
         <source>OcrArea.title</source>
-        <translation type="unfinished"/>
+        <translation>OCR Area</translation>
     </message>
     <message>
         <source>CustomRotateDegree.title</source>
-        <translation type="unfinished"/>
+        <translation>Custom Rotation</translation>
     </message>
     <message>
         <source>CustomRotateDegree.content</source>
-        <translation type="unfinished"/>
+        <translation>Rotate objects to any angle.</translation>
     </message>
     <message>
         <source>PdfPictureToText.title</source>
-        <translation type="unfinished"/>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>BatchRename.title</source>
@@ -2310,7 +2310,7 @@ Click the arrow to select color.</translation>
     </message>
     <message>
         <source>NewPDFBatchPrint.title</source>
-        <translation type="unfinished"/>
+        <translation>Batch PDF Printing</translation>
     </message>
     <message>
         <source>BatchRename.content</source>
