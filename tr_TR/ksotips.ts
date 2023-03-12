@@ -207,7 +207,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>SmartArt ChangeLayout.title</source>
-        <translation type="unfinished"/>
+        <translation>Düzeni Değiştir</translation>
     </message>
     <message>
         <source>KOSSaveFileTocloudTip.content</source>
