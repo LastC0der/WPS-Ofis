@@ -215,7 +215,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>OnlineIcons.content</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi bir harita ekleyin</translation>
     </message>
     <message>
         <source>InsertMap.content</source>
