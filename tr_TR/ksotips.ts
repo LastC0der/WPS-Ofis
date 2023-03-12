@@ -171,8 +171,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>TriggerExtendObject.title</source>
-        <translation>Edit extend object content
-Genişletme nesnesi içeriğini düzenle</translation>
+        <translation>Uzantı nesnesini düzenleyin.</translation>
     </message>
     <message>
         <source>Italic.title</source>
