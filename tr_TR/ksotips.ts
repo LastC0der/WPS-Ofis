@@ -215,7 +215,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>OnlineIcons.content</source>
-        <translation>Çevrimiçi bir harita ekleyin</translation>
+        <translation>Güçlü vektör simge kitaplığı, tüm WPS belgeleriyle uyumlu çeşitli simgeler sağlar.</translation>
     </message>
     <message>
         <source>InsertMap.content</source>
