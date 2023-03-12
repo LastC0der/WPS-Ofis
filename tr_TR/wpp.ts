@@ -15472,7 +15472,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Font Missing</source>
-        <translation type="unfinished"/>
+        <translation>Yazı Tipi Eksik</translation>
     </message>
     <message>
         <source>Screen Grab Ocr</source>
