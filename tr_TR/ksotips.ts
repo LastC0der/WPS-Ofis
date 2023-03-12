@@ -327,7 +327,7 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>InkDrawColorGallery2.content</source>
-        <translation type="unfinished"/>
+        <translation>Özel renk ayarlamak için oku tıklayın.</translation>
     </message>
     <message>
         <source>ExportToPDF.title</source>
