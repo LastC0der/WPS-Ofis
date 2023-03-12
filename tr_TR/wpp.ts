@@ -15456,7 +15456,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Motion Path Segment</source>
-        <translation type="unfinished"/>
+        <translation>Hareket Yolu Noktası</translation>
     </message>
     <message>
         <source>Remarks</source>
