@@ -15529,7 +15529,7 @@ Yapısı</translation>
     </message>
     <message>
         <source>Object Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Biçimlendirme</translation>
     </message>
     <message>
         <source>Slide Design - Design Templates</source>
