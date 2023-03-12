@@ -30052,7 +30052,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"/>
+        <translation>Eklemeleri ve Silmeleri Göster</translation>
     </message>
     <message>
         <source>Original</source>
@@ -35964,7 +35964,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"/>
+        <translation>Eklemeleri ve Silmeleri Göster</translation>
     </message>
     <message>
         <source>Check Users Permissions</source>
