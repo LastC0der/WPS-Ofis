@@ -295,7 +295,7 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>TextToDiagram.content</source>
-        <translation>Auto using Diagram to show text</translation>
+        <translation>Metni karşılık gelen şemaya dönüştürün.</translation>
     </message>
     <message>
         <source>PictureEffects.title</source>
