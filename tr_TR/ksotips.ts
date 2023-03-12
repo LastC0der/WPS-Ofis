@@ -231,7 +231,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>CTB_MoreControls.content</source>
-        <translation type="unfinished"/>
+        <translation>Bu bilgisayarda bulunan kontrol setinden bir kontrol eklemek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>EquationDelimiterGallery.content</source>
