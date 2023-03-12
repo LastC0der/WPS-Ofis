@@ -227,7 +227,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>Sentence Translation.content</source>
-        <translation type="unfinished"/>
+        <translation>Cümle Çevirisi</translation>
     </message>
     <message>
         <source>CTB_MoreControls.content</source>
