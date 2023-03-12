@@ -35973,7 +35973,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Handwriting Comments</source>
-        <translation type="unfinished"/>
+        <translation>El Yazısı Yorumları</translation>
     </message>
     <message>
         <source>Navigation
