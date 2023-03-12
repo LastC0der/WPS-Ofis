@@ -271,7 +271,7 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>EditShape.content</source>
-        <translation>Bu çizimin şeklini değiştirin, serbest biçimli bir şekle dönüştürün veya metnin çizimin etrafına nasıl sarıldığını belirlemek için kaydırma noktalarını düzenleyin.</translation>
+        <translation>Bu çizimin şeklini değiştirin, çizimi serbest biçimli şekle dönüştürün veya metnin çizim etrafında nasıl kaydırılacağını belirlemek için kaydırma noktalarını düzenleyin.</translation>
     </message>
     <message>
         <source>InkDrawNiteWriterPen.title</source>
