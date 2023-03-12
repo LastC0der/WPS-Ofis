@@ -179,7 +179,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>KOSHomepageTip.title</source>
-        <translation>My WPS</translation>
+        <translation>Benim WPS</translation>
     </message>
     <message>
         <source>Print2.content</source>
