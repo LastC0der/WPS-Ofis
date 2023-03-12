@@ -183,7 +183,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>Print2.content</source>
-        <translation>Ayrıntılı yazdırma seçeneklerini ayarlamak veya doğrudan varsayılan ayarlarda yazdırmak için burayı tıklayın.</translation>
+        <translation>Ayrıntılı yazdırma seçeneklerini ayarlamak veya doğrudan varsayılan ayarlarda yazdırmak için buraya tıklayın.</translation>
     </message>
     <message>
         <source>WordArtOutline2.title</source>
