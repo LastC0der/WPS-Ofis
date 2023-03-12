@@ -157,10 +157,7 @@ WordArt&apos;ı farklı şekillerde doldurmak için oka tıklayın.</translation
     </message>
     <message>
         <source>TriggerExtendObject.content</source>
-        <translation>Open an extend object editor dialog
-
-Genişletme nesnesi iletişim kutusunu aç
-Genişletme nesnesi düzenleme iletişim kutusunu açın.</translation>
+        <translation>Bir uzantı nesne düzenleyici iletişim kutusu açın.</translation>
     </message>
     <message>
         <source>Auto_Backup_xa.content</source>
