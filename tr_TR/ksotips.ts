@@ -161,7 +161,7 @@ WordArt&apos;ı farklı şekillerde doldurmak için oka tıklayın.</translation
     </message>
     <message>
         <source>Auto_Backup_xa.content</source>
-        <translation type="unfinished"/>
+        <translation>Yedeklenen belgeleri görüntüleyin</translation>
     </message>
     <message>
         <source>ChartLine.content</source>
