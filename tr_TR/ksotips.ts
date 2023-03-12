@@ -239,7 +239,9 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>ChartPie.content</source>
-        <translation type="unfinished"/>
+        <translation>Bu grafik türünü bir bütün içindeki oranları göstermek için kullanın. Sayılarınızın toplamı %100 olduğunda kullanın.
+
+Farklı pasta ve halka grafiği türlerini görmek için oka tıklayın ve belgenizde bir önizleme görmek için işaretçiyi simgelerin üzerinde tutun.</translation>
     </message>
     <message>
         <source>ChartBar.content</source>
