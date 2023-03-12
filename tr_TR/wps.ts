@@ -19157,7 +19157,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Show Insertions and Deletions</source>
-        <translation type="unfinished"/>
+        <translation>Eklemeleri ve Silmeleri Göster</translation>
     </message>
     <message>
         <source>Spelling Suggestions Context Menu</source>
