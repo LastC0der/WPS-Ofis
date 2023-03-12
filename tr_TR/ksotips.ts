@@ -219,7 +219,7 @@ Farklı çizgi grafik türlerini görmek için oka tıklayın ve belgenizde bir 
     </message>
     <message>
         <source>InsertMap.content</source>
-        <translation>Çevrimiçi harita ekle</translation>
+        <translation>Çevrimiçi bir harita ekleyin</translation>
     </message>
     <message>
         <source>3DDepthMenu.title</source>
