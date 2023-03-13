@@ -479,7 +479,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>EquationLimitGallery.content</source>
-        <translation type="unfinished"/>
+        <translation>Denkleme bir limit veya log fonksiyonu ekleyin.</translation>
     </message>
     <message>
         <source>ClearFormats.content</source>
