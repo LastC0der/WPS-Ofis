@@ -781,7 +781,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Galerisi içeriği</translation>
     </message>
     <message>
         <source>IndexMarkEntry.content</source>
