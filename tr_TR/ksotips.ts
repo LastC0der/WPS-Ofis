@@ -343,7 +343,7 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>Auto_Backup.title</source>
-        <translation>Yedekleme Ayarı</translation>
+        <translation>Yedekleme Ayarları</translation>
     </message>
     <message>
         <source>DescriptionDevelopmentTools.content</source>
