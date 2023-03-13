@@ -411,7 +411,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>OnlineFonts.content</source>
-        <translation type="unfinished"/>
+        <translation>Daha fazla çevrimiçi yazı tipi hizmeti almak için tıklayın.</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
