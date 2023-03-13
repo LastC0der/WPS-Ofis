@@ -381,9 +381,9 @@ Kullanılabilir farklı türdeki alan grafiklerini görmek için oka tıklayın 
     </message>
     <message>
         <source>SwitchRowCol.content</source>
-        <translation>Verileri eksen üzerinde değiştirin.
+        <translation>Verilerin yer aldığı eksenleri değiştirin.
 
-X ekseninde çizilen veriler Y eksenine veya tam tersine hareket edecektir.</translation>
+X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>DetailedSettings_TextTools.content</source>
