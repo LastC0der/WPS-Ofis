@@ -391,7 +391,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>PictureToolsDetailedSettings.title</source>
-        <translation>PictureToolsDetailedSettings Title</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PictureSetTransparentColor.title</source>
