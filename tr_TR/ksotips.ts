@@ -373,7 +373,7 @@ Kullanılabilir farklı türdeki alan grafiklerini görmek için oka tıklayın 
     </message>
     <message>
         <source>KOSCloudFeedbackTip.title</source>
-        <translation>Kullanıcı Geri Bildirimi</translation>
+        <translation>Geri Bildirim</translation>
     </message>
     <message>
         <source>NudgeShadowDown.title</source>
