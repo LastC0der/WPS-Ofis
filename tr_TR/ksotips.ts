@@ -443,7 +443,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>ChartGallery.title</source>
-        <translation>Chart Gallery</translation>
+        <translation>Grafik Galerisi</translation>
     </message>
     <message>
         <source>DetailedSettings_PictureTools.content</source>
