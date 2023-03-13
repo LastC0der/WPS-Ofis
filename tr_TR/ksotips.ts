@@ -435,7 +435,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>OnlineChart.title</source>
-        <translation>Online Chart</translation>
+        <translation>Çevrimiçi Grafik</translation>
     </message>
     <message>
         <source>WordArtStyles.title</source>
