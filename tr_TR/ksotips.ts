@@ -369,7 +369,7 @@ Kullanılabilir farklı türdeki alan grafiklerini görmek için oka tıklayın 
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Galerisi içeriği</translation>
     </message>
     <message>
         <source>KOSCloudFeedbackTip.title</source>
