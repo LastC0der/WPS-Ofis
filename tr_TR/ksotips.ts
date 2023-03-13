@@ -487,7 +487,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>InkDrawExit.content</source>
-        <translation type="unfinished"/>
+        <translation>Kalem modunu kapatın.</translation>
     </message>
     <message>
         <source>InsertSymbol.title</source>
