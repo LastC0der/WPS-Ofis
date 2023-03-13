@@ -339,7 +339,7 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>OnlineIcons.title</source>
-        <translation type="unfinished"/>
+        <translation>Simge Ekle</translation>
     </message>
     <message>
         <source>Auto_Backup.title</source>
