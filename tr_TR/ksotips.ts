@@ -415,7 +415,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>XiuTangH5Tip.content</source>
-        <translation>Enjoy XiuTang.</translation>
+        <translation>Xiu Tang&apos;ın keyfini çıkarın.</translation>
     </message>
     <message>
         <source>PictureOutline2.title</source>
