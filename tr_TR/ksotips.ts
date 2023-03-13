@@ -335,7 +335,7 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>OnlineFonts.title</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi Yazı Tipleri</translation>
     </message>
     <message>
         <source>OnlineIcons.title</source>
