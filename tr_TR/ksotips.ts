@@ -423,7 +423,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>ChartElements.content</source>
-        <translation>Add chart elements such as the title,legend,gridlines,and data labels.</translation>
+        <translation>Biçimlendirebilmek için bir grafik öğesi seçin.</translation>
     </message>
     <message>
         <source>KOSDocShare.title</source>
