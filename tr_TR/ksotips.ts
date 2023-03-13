@@ -467,7 +467,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>SmartArt InsertBullet.title</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşareti Ekle</translation>
     </message>
     <message>
         <source>3DTiltDown.content</source>
