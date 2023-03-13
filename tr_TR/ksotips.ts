@@ -355,7 +355,9 @@ Farklı çubuk grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>ChartArea.content</source>
-        <translation type="unfinished"/>
+        <translation>Zamana (yıllar, aylar ve günler) veya kategorilere göre eğilimleri göstermek için bu grafik türünü kullanın. Zaman içindeki değişimin büyüklüğünü vurgulamak için kullanın.
+
+Kullanılabilir farklı türdeki alan grafiklerini görmek için oka tıklayın ve belgenizde bir önizleme görmek için imleci simgeler üzerinde duraklatın.</translation>
     </message>
     <message>
         <source>DonateMoney.title</source>
