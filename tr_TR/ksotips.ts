@@ -455,7 +455,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>ChooseDataSource.content</source>
-        <translation>Grafikte bulunan veri aralığını değiştirin.</translation>
+        <translation>Grafiğe dahil edilen veri aralığını değiştirin.</translation>
     </message>
     <message>
         <source>ShadowColor.title</source>
