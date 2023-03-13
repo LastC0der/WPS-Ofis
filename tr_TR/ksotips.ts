@@ -471,7 +471,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>3DTiltDown.content</source>
-        <translation>Şekli öne doğru eğin.</translation>
+        <translation>Şekli ileri doğru eğin.</translation>
     </message>
     <message>
         <source>ksoTextFill.title</source>
