@@ -365,7 +365,7 @@ Kullanılabilir farklı türdeki alan grafiklerini görmek için oka tıklayın 
     </message>
     <message>
         <source>LinkShareTip.content</source>
-        <translation>Belgeleri arkadaşınızla bağlantılı olarak paylaşın.</translation>
+        <translation>Bir bağlantı oluşturarak belgeyi paylaşın.</translation>
     </message>
     <message>
         <source>ChartGallery_pro.content</source>
