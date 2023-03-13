@@ -399,7 +399,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>KOSUserLogoutCloudTip.title</source>
-        <translation>Oturum aç</translation>
+        <translation>Oturum açıldı</translation>
     </message>
     <message>
         <source>Theme Fonts.title</source>
