@@ -451,7 +451,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>EquationDelimiterGallery.title</source>
-        <translation type="unfinished"/>
+        <translation>Parantez</translation>
     </message>
     <message>
         <source>ChooseDataSource.content</source>
