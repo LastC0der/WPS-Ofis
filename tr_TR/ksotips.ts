@@ -483,7 +483,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>ClearFormats.content</source>
-        <translation>Seçimdeki tüm biçimlendirmeyi temizleyin ve yalnızca düz metni bırakın.</translation>
+        <translation>Seçimdeki tüm biçimlendirmeyi temizleyin, yalnızca düz metni bırakın.</translation>
     </message>
     <message>
         <source>InkDrawExit.content</source>
