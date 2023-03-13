@@ -377,7 +377,7 @@ Kullanılabilir farklı türdeki alan grafiklerini görmek için oka tıklayın 
     </message>
     <message>
         <source>NudgeShadowDown.title</source>
-        <translation>Gölgeyi Aşağıya İtele</translation>
+        <translation>Gölgeyi Aşağıya Sürükle</translation>
     </message>
     <message>
         <source>SwitchRowCol.content</source>
