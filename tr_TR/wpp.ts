@@ -19507,7 +19507,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Sli&amp;des:</source>
-        <translation type="unfinished"/>
+        <translation>Slay&amp;tlar:</translation>
     </message>
     <message>
         <source>Copies</source>
