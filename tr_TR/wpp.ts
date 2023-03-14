@@ -19515,7 +19515,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Pr&amp;eview</source>
-        <translation type="unfinished"/>
+        <translation>Önizl&amp;eme</translation>
     </message>
     <message>
         <source>Notes pages</source>
