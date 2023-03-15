@@ -190,7 +190,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Enter 0cm to 55.88cm of the Value</source>
-        <translation>0cm ile 55,88cm arasında bir değer girin</translation>
+        <translation>0 cm ile 55,88cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>&amp;Background</source>
