@@ -3664,7 +3664,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Ledger Paper(11x17 in)</source>
-        <translation type="unfinished"/>
+        <translation>Ledger Kağıt(27,9 x 43,1 cm)</translation>
     </message>
     <message>
         <source>In To Screen &amp;Center</source>
