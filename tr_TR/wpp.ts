@@ -3603,7 +3603,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>&amp;Down</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aşağı</translation>
     </message>
     <message>
         <source>&amp;Tiny</source>
