@@ -40225,7 +40225,7 @@ Please check network</source>
     <name>QAbstractSpinBox</name>
     <message>
         <source>Step &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;dım aşağı</translation>
     </message>
     <message>
         <source>&amp;Step up</source>
