@@ -186,7 +186,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Source From &amp;Texture</source>
-        <translation type="unfinished"/>
+        <translation>Dokudan &amp;Kaynak</translation>
     </message>
     <message>
         <source>Enter 0cm to 55.88cm of the Value</source>
