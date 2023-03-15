@@ -29058,7 +29058,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Enter 0.26 to 55.87 cm of value</source>
-        <translation type="unfinished"/>
+        <translation>0,26 ile 55,87 cm arasında bir değer girin</translation>
     </message>
     <message>
         <source>35 mm Slide</source>
