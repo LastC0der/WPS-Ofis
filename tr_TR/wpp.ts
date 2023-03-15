@@ -29054,7 +29054,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Letter Paper(8.5x11 Inch)</source>
-        <translation>Letter Kağıt(8.5x11 inç)</translation>
+        <translation>Letter Kağıt(21,5 x 27,9 cm)</translation>
     </message>
     <message>
         <source>Enter 0.26 to 55.87 cm of value</source>
