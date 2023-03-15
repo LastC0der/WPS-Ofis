@@ -3660,7 +3660,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>End: </source>
-        <translation type="unfinished"/>
+        <translation>Bitiş:</translation>
     </message>
     <message>
         <source>Ledger Paper(11x17 in)</source>
