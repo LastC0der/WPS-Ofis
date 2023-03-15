@@ -16585,7 +16585,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Begin</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç</translation>
     </message>
     <message>
         <source>Hight</source>
