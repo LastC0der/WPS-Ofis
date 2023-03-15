@@ -45646,7 +45646,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Face &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;rka yüz</translation>
     </message>
     <message>
         <source>Delivery address</source>
