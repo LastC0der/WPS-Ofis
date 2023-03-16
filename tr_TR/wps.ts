@@ -6802,7 +6802,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Bullet:</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretleri:</translation>
     </message>
     <message>
         <source>Errors occurred  while opening Font Dialog!</source>
