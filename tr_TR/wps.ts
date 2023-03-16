@@ -5726,7 +5726,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Bullet:</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretleri:</translation>
     </message>
     <message>
         <source>Dark Horizontal</source>
