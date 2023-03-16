@@ -11544,7 +11544,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Download failed, please check your network setting</source>
-        <translation type="unfinished"/>
+        <translation>İndirme başarısız oldu, lütfen ağ ayarınızı kontrol edin</translation>
     </message>
     <message>
         <source>Network error.</source>
