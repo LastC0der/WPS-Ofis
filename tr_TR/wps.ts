@@ -5746,7 +5746,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Input a correct number.</source>
-        <translation type="unfinished"/>
+        <translation>Doğru bir sayı girin.</translation>
     </message>
     <message>
         <source>The %d Drop-down item is not allow to be empty.</source>
