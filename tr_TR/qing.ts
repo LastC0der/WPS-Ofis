@@ -11524,7 +11524,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Share link transfer failed. The share link has been changed or you do not have permission to edit.</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım bağlantısı aktarımı başarısız oldu. Paylaşım bağlantısı değiştirilmiş veya düzenleme izniniz yok.</translation>
     </message>
     <message>
         <source>Download canceled</source>
