@@ -47444,7 +47444,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxInsertNumberDlg</name>
     <message>
         <source>The value must be between %1 and %2.</source>
-        <translation type="unfinished"/>
+        <translation>Değer %1 ile %2 arasında olmalıdır.</translation>
     </message>
     <message>
         <source>Input a correct number.</source>
