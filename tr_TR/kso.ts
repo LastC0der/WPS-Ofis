@@ -583,7 +583,7 @@
     </message>
     <message>
         <source>content_fill</source>
-        <translation type="unfinished"/>
+        <translation>Dolgu</translation>
     </message>
     <message>
         <source>Offset &amp;left</source>
