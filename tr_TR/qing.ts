@@ -2237,7 +2237,7 @@ Değiştireceğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>You don&apos;t have the necessary permission.</source>
-        <translation type="unfinished"/>
+        <translation>Gerekli izniniz yok.</translation>
     </message>
     <message>
         <source>restart now</source>
