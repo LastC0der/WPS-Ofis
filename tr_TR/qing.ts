@@ -11540,7 +11540,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>You don&apos;t have the necessary permission.</source>
-        <translation type="unfinished"/>
+        <translation>Gerekli izniniz yok.</translation>
     </message>
     <message>
         <source>Download failed, please check your network setting</source>
