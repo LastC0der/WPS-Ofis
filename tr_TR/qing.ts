@@ -12366,7 +12366,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>WPS Office Cloud is an office platform designed to accommodate teamwork across multiple people, files and platforms. It provides various office services, such as document storage, coordination, discussions, tracking, cross-platform preview and editing.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis Bulut, birden çok kişi, dosya ve platform genelinde ekip çalışmasına uyum sağlamak için tasarlanmış bir ofis platformudur. Belge depolama, koordinasyon, tartışmalar, izleme, platformlar arası önizleme ve düzenleme gibi çeşitli ofis hizmetleri sağlar.</translation>
     </message>
     <message>
         <source>TextLabel</source>
