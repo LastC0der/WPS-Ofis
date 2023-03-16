@@ -47448,7 +47448,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Input a correct number.</source>
-        <translation type="unfinished"/>
+        <translation>Doğru bir sayı girin.</translation>
     </message>
     <message>
         <source>Use Default Numbering</source>
