@@ -12389,7 +12389,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Please close all opened documents of current user.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen geçerli kullanıcının tüm açık belgelerini kapatın.</translation>
     </message>
 </context>
 <context>
