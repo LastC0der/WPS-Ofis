@@ -11516,7 +11516,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Share link transfer failed. The number of your share links has reached the maximum limit.</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım bağlantısı aktarımı başarısız oldu. Paylaşım bağlantılarınızın sayısı maksimum sınıra ulaştı.</translation>
     </message>
     <message>
         <source>Download failed. The file properties are incomplete.</source>
