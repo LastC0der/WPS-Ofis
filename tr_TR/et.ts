@@ -38784,7 +38784,7 @@ Aktar</translation>
     </message>
     <message>
         <source>The number must be between 1 and 500.</source>
-        <translation>Sayı 1 ile 500 arasında olmalı.</translation>
+        <translation>Sayı 1 ile 500 arasında olmalıdır.</translation>
     </message>
 </context>
 <context>
