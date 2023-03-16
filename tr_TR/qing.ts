@@ -12377,7 +12377,7 @@ have libgstreamer-plugins-base installed.</source>
     <name>KQingIpcSvr</name>
     <message>
         <source>Share link transfer failed. The number of your share links has reached the maximum limit.</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım bağlantısı aktarımı başarısız oldu. Paylaşım bağlantılarınızın sayısı maksimum sınıra ulaştı.</translation>
     </message>
     <message>
         <source>Share link transfer failed. The share link has been changed or you do not have permission to edit.</source>
