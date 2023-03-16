@@ -47452,7 +47452,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Use Default Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Numaralandırmayı Kullan</translation>
     </message>
 </context>
 <context>
