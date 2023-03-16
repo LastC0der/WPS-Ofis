@@ -11536,7 +11536,7 @@ have libgstreamer-plugins-base installed.</source>
     </message>
     <message>
         <source>Share link transfer failed. Please check your network connection and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Paylaşım bağlantısı aktarımı başarısız oldu. Lütfen ağ bağlantınızı kontrol edin ve tekrar deneyin.</translation>
     </message>
     <message>
         <source>You don&apos;t have the necessary permission.</source>
