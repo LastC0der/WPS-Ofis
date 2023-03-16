@@ -5750,7 +5750,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>The %d Drop-down item is not allow to be empty.</source>
-        <translation type="unfinished"/>
+        <translation>%d Açılır öğenin boş olmasına izin verilmiyor.</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
