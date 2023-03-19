@@ -598,7 +598,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>WordArtFill2.content</source>
-        <translation>Click the arrow to fill the WordArt in different ways.</translation>
+        <translation>WordArt&apos;ı farklı şekillerde doldurmak için oka tıklayın.</translation>
     </message>
     <message>
         <source>XieDeTip.content</source>
