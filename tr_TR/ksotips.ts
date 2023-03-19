@@ -537,23 +537,23 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>Ornamentation.title</source>
-        <translation type="unfinished"/>
+        <translation>Süsleme</translation>
     </message>
     <message>
         <source>DocerURLEntranceTip.content</source>
-        <translation>Size en profesyonel çevrimiçi şablonları sağlar.</translation>
+        <translation>Size en profesyonel çevrimiçi şablonları sağlayın.</translation>
     </message>
     <message>
         <source>Sentence Translation.title</source>
-        <translation type="unfinished"/>
+        <translation>Cümle Çevirisi</translation>
     </message>
     <message>
         <source>AddPicFrame.content</source>
-        <translation>Choose a different border styles to meet the needs of individual pictures.</translation>
+        <translation>Tek tek resimlerin ihtiyaçlarını karşılamak için farklı kenarlık stilleri seçin.</translation>
     </message>
     <message>
         <source>CollapseQuickBar.content</source>
-        <translation>Collapse the quick bar.</translation>
+        <translation>Hızlı araç çubuğunu daraltın.</translation>
     </message>
     <message>
         <source>KOSUserLoginCloudTip.content</source>
@@ -565,7 +565,7 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>QuickBarChartStyle.title</source>
-        <translation>Grafik Stilleri</translation>
+        <translation>Grafik Stili</translation>
     </message>
     <message>
         <source>3DColor.title</source>
@@ -573,27 +573,28 @@ Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
     <message>
         <source>SwitchJS.content</source>
-        <translation type="unfinished"/>
+        <translation>Geliştirme Ortamını JS Diline Geçirin</translation>
     </message>
     <message>
         <source>SwitchVB.content</source>
-        <translation type="unfinished"/>
+        <translation>Geliştirme Ortamını VB Diline Geçirin</translation>
     </message>
     <message>
         <source>InkDrawBallPen.content</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya tükenmez kalem efektleriyle mürekkep ekleyin.</translation>
     </message>
     <message>
         <source>Italic.content</source>
-        <translation>Italicize the selected text.</translation>
+        <translation>Seçilen metni italik yapın.</translation>
     </message>
     <message>
         <source>InkDrawColorGallery.content</source>
-        <translation type="unfinished"/>
+        <translation>Özel kalem renkleri ayarlayın.
+Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>EquationInsertGallery.title</source>
-        <translation type="unfinished"/>
+        <translation>Denklem Ekle</translation>
     </message>
     <message>
         <source>WordArtFill2.content</source>
