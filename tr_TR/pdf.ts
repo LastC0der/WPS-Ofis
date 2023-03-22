@@ -7182,7 +7182,15 @@ Okuma</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>single page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractScrawl</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>two page view</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7191,6 +7199,10 @@ Okuma</translation>
     </message>
     <message>
         <source>Set MarkAttribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>two page scrolling</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7207,6 +7219,10 @@ Okuma</translation>
     </message>
     <message>
         <source>OcrExtractText2Excel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>single page scrolling</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -9420,6 +9436,22 @@ Okuma</translation>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Kesik Kenarlı Tablo Seç</translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14906,8 +14938,20 @@ Silinen sayfalar kurtarılamaz</translation>
         <translation>PDF Birleştir</translation>
     </message>
     <message>
+        <source>PDF2CAD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ImgPDF</source>
         <translation>Yalnızca Görüntüden Oluşan PDF&apos;yi Dönüştür</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16134,11 +16178,19 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>New Ribbon Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Editing PDF for Free</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>- Classified by function type.&lt;br /&gt;- The functions in the [Insert] tab have been moved into [Edit] and [Comment] according to type.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -16151,6 +16203,10 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Converting PDF to Office for free</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Got it</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -16191,6 +16247,17 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfSearchTab</name>
+    <message>
+        <source>Close Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search and repace pane</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfColorCommand</name>
     <message>
         <source>Recent Colors</source>
@@ -16208,6 +16275,13 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     <name>KxPdfScanDialog</name>
     <message>
         <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_formfilling</name>
+    <message>
+        <source>Send via Email</source>
         <translation type="unfinished"/>
     </message>
 </context>
