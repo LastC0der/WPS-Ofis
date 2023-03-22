@@ -602,7 +602,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>XieDeTip.content</source>
-        <translation>Create online documents to share to QQ or WeChat, in which you can add ready controls including audio, video, rating, time axis, map, mind map, etc.</translation>
+        <translation>Ses, video, derecelendirme, zaman ekseni, harita, fikir geliştirme vb. dahil olmak üzere hazır kontroller ekleyebileceğiniz QQ veya WeChat&apos;te paylaşmak üzere çevrimiçi belgeler oluşturun.</translation>
     </message>
     <message>
         <source>Protect_Eyes.content</source>
