@@ -2273,6 +2273,10 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
         <translation>Obróć o 90 stopni w prawo</translation>
     </message>
     <message>
+        <source>ViewFitSwitch.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrArea.content</source>
         <translation type="unfinished"/>
     </message>
@@ -2289,7 +2293,31 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>TwoPageScrolling.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SinglePageScrolling.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageScrolling.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ShowFloatToolBar.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrArea.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ShowFloatToolBar.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageView.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2313,12 +2341,32 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>ViewFitSwitch.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SinglePageScrolling.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SinglePageView.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>AlignJustify.title</source>
         <translation>Justuj</translation>
+    </message>
+    <message>
+        <source>SinglePageView.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageView.title</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
