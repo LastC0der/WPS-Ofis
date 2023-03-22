@@ -610,7 +610,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>WordArtGalleryQuickBar.title</source>
-        <translation>Word art library.</translation>
+        <translation>WordArt Galerisi</translation>
     </message>
     <message>
         <source>InkDrawNiteWriterPen.content</source>
