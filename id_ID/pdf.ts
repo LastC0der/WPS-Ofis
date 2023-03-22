@@ -7188,8 +7188,16 @@ Input 5-9 page 5 to page 9</source>
         <translation>Terjemahkan</translation>
     </message>
     <message>
+        <source>single page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractScrawl</source>
         <translation>Hapus</translation>
+    </message>
+    <message>
+        <source>two page view</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pages From Scan</source>
@@ -7198,6 +7206,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Set MarkAttribute</source>
         <translation>Properti</translation>
+    </message>
+    <message>
+        <source>two page scrolling</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FindFunctions</source>
@@ -7214,6 +7226,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>OcrExtractText2Excel</source>
         <translation>Ekspor sebagai Dokumen Excel</translation>
+    </message>
+    <message>
+        <source>single page scrolling</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextContentQuery</source>
@@ -9426,6 +9442,22 @@ File</translation>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Pilih Tabel dengan Tepian Bergaris Pisah</translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14921,8 +14953,20 @@ Anda masih dapat menggunakan tanda tangan yang disinkronkan.</translation>
         <translation>Gabungkan PDF</translation>
     </message>
     <message>
+        <source>PDF2CAD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ImgPDF</source>
         <translation>Konversikan ke PDF Hanya Gambar</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16151,12 +16195,20 @@ silakan masuk untuk menggunakan WPS Office.</translation>
         <translation>Cobalah versi uji coba gratis 7 hari kami untuk mengonversi PDF ke gambar dengan mudah serta menjaga file Anda tetap aman dan tidak dapat diedit.</translation>
     </message>
     <message>
+        <source>New Ribbon Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Editing PDF for Free</source>
         <translation>Mengedit PDF secara Gratis</translation>
     </message>
     <message>
         <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
         <translation>7 hari uji coba gratis pengeditan PDF. Anda bisa bebas mengedit dan menyimpan teks atau gambar di file PDF.</translation>
+    </message>
+    <message>
+        <source>- Classified by function type.&lt;br /&gt;- The functions in the [Insert] tab have been moved into [Edit] and [Comment] according to type.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Try Now</source>
@@ -16169,6 +16221,10 @@ silakan masuk untuk menggunakan WPS Office.</translation>
     <message>
         <source>Converting PDF to Office for free</source>
         <translation>Konversi PDF ke Format Lain Gratis</translation>
+    </message>
+    <message>
+        <source>Got it</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16208,6 +16264,17 @@ silakan masuk untuk menggunakan WPS Office.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfSearchTab</name>
+    <message>
+        <source>Close Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search and repace pane</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfColorCommand</name>
     <message>
         <source>Recent Colors</source>
@@ -16226,6 +16293,13 @@ silakan masuk untuk menggunakan WPS Office.</translation>
     <message>
         <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
         <translation>Pemindai saat ini mungkin sedang beroperasi. Apakah Anda yakin ingin menghentikan pemindai dan menutup jendela?</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_formfilling</name>
+    <message>
+        <source>Send via Email</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
