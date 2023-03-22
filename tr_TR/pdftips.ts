@@ -2276,6 +2276,10 @@ Click the arrow to select a different highlight color.</translation>
         <translation>90 derece sağa döndür</translation>
     </message>
     <message>
+        <source>ViewFitSwitch.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrArea.content</source>
         <translation type="unfinished"/>
     </message>
@@ -2292,7 +2296,31 @@ Click the arrow to select a different highlight color.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>TwoPageScrolling.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SinglePageScrolling.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageScrolling.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ShowFloatToolBar.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrArea.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ShowFloatToolBar.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageView.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2316,12 +2344,32 @@ Click the arrow to select a different highlight color.</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>ViewFitSwitch.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SinglePageScrolling.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>BatchRename.content</source>
         <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
     </message>
     <message>
+        <source>SinglePageView.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>AlignJustify.title</source>
         <translation>Yasla</translation>
+    </message>
+    <message>
+        <source>SinglePageView.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageView.title</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
