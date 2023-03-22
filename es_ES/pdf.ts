@@ -7188,8 +7188,16 @@ Input 5-9 page 5 to page 9</source>
         <translation>Traducir</translation>
     </message>
     <message>
+        <source>single page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractScrawl</source>
         <translation>Borrar</translation>
+    </message>
+    <message>
+        <source>two page view</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pages From Scan</source>
@@ -7198,6 +7206,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>Set MarkAttribute</source>
         <translation>Propiedades</translation>
+    </message>
+    <message>
+        <source>two page scrolling</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FindFunctions</source>
@@ -7214,6 +7226,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>OcrExtractText2Excel</source>
         <translation>Exportar como documento de Excel</translation>
+    </message>
+    <message>
+        <source>single page scrolling</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextContentQuery</source>
@@ -9424,6 +9440,22 @@ Add-Ins</source>
     <message>
         <source>Select Table with Dashed Borders</source>
         <translation>Seleccionar tabla con bordes discontinuos</translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14917,8 +14949,20 @@ podrá seguir utilizando la firma sincronizada.</translation>
         <translation>Combinar PDF</translation>
     </message>
     <message>
+        <source>PDF2CAD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ImgPDF</source>
         <translation>Convertir a PDF de solo imagen</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16147,12 +16191,20 @@ inicie sesión para usar WPS Office.</translation>
         <translation>Pruebe nuestra versión gratuita de 7 días para convertir fácilmente los PDF en imágenes y mantener sus archivos no editables y seguros.</translation>
     </message>
     <message>
+        <source>New Ribbon Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Editing PDF for Free</source>
         <translation>Edición gratuita de PDF</translation>
     </message>
     <message>
         <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
         <translation>Prueba gratuita de 7 días de edición de PDF. Puede editar y guardar libremente textos o imágenes en su archivo PDF.</translation>
+    </message>
+    <message>
+        <source>- Classified by function type.&lt;br /&gt;- The functions in the [Insert] tab have been moved into [Edit] and [Comment] according to type.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Try Now</source>
@@ -16165,6 +16217,10 @@ inicie sesión para usar WPS Office.</translation>
     <message>
         <source>Converting PDF to Office for free</source>
         <translation>Convertir PDF a otros formatos gratis</translation>
+    </message>
+    <message>
+        <source>Got it</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16204,6 +16260,17 @@ inicie sesión para usar WPS Office.</translation>
     </message>
 </context>
 <context>
+    <name>KxPdfSearchTab</name>
+    <message>
+        <source>Close Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search and repace pane</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>KxPdfColorCommand</name>
     <message>
         <source>Recent Colors</source>
@@ -16222,6 +16289,13 @@ inicie sesión para usar WPS Office.</translation>
     <message>
         <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
         <translation>El escáner actual puede estar en funcionamiento. ¿Seguro que desea salir del escáner y cerrar la ventana?</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_formfilling</name>
+    <message>
+        <source>Send via Email</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
