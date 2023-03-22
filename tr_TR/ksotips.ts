@@ -606,7 +606,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>Protect_Eyes.content</source>
-        <translation>Enable Eye Protection Mode to relieve your eye fatigue.</translation>
+        <translation>Göz yorgunluğunuzu gidermek için Göz Koruma Modunu etkinleştirin.</translation>
     </message>
     <message>
         <source>WordArtGalleryQuickBar.title</source>
