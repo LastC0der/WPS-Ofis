@@ -7182,7 +7182,15 @@ Input 5-9 page 5 to page 9</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>single page view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>OcrExtractScrawl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>two page view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7191,6 +7199,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Set MarkAttribute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>two page scrolling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7207,6 +7219,10 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>OcrExtractText2Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>single page scrolling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9417,6 +9433,22 @@ Add-Ins</source>
     </message>
     <message>
         <source>Select Table with Dashed Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14892,7 +14924,19 @@ Deleted pages can not be recovered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>PDF2CAD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>ImgPDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to Picture</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16119,11 +16163,19 @@ please sign in to use WPS Office.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>New Ribbon Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Editing PDF for Free</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>- Classified by function type.&lt;br /&gt;- The functions in the [Insert] tab have been moved into [Edit] and [Comment] according to type.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16136,6 +16188,10 @@ please sign in to use WPS Office.</source>
     </message>
     <message>
         <source>Converting PDF to Office for free</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Got it</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16176,6 +16232,17 @@ please sign in to use WPS Office.</source>
     </message>
 </context>
 <context>
+    <name>KxPdfSearchTab</name>
+    <message>
+        <source>Close Panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search and repace pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxPdfColorCommand</name>
     <message>
         <source>Recent Colors</source>
@@ -16193,6 +16260,13 @@ please sign in to use WPS Office.</source>
     <name>KxPdfScanDialog</name>
     <message>
         <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_formfilling</name>
+    <message>
+        <source>Send via Email</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
