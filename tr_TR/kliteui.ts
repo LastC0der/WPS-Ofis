@@ -547,7 +547,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Error occurred on core support library download, it is recommended to detect the network after reloading</source>
-        <translation type="unfinished"/>
+        <translation>Temel destek kitaplığı indirilemedi. Lütfen ağ bağlantısını kontrol edin ve kitaplığı yeniden yükleyin.</translation>
     </message>
     <message>
         <source>Reload</source>
