@@ -539,7 +539,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     <name>KCefLoadingProgressDlgBase</name>
     <message>
         <source>Please wait a few minutes for us to complete the loading of the core support library.</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme tamamlanana kadar lütfen birkaç dakika bekleyin.</translation>
     </message>
     <message>
         <source>Loading core support library......</source>
