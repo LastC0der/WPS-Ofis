@@ -10800,7 +10800,7 @@ upgrade to WPS VIP?</source>
     </message>
     <message>
         <source>Please input valid page number!</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen geçerli sayfa numarası girin!</translation>
     </message>
     <message>
         <source>HorizontalPageMode</source>
