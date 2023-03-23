@@ -559,7 +559,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>This feature requires core support library,</source>
-        <translation type="unfinished"/>
+        <translation>Bu özellik temel destek kitaplığı gerektirir.</translation>
     </message>
     <message>
         <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
