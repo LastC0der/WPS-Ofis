@@ -51881,11 +51881,11 @@ Kontrol Et</translation>
     <name>KxDlgCreatePivotTable</name>
     <message>
         <source>&amp;Use an external data source</source>
-        <translation type="unfinished"/>
+        <translation>Dış veri kayna&amp;ğı kullan</translation>
     </message>
     <message>
         <source>What kind of report do you want to create?</source>
-        <translation type="unfinished"/>
+        <translation>Ne türde bir rapor oluşturmak istiyorsunuz?</translation>
     </message>
     <message>
         <source>&amp;Select a range:</source>
