@@ -555,7 +555,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Core support library failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Yükleme Hatası</translation>
     </message>
     <message>
         <source>This feature requires core support library,</source>
