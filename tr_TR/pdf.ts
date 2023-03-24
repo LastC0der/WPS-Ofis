@@ -15917,7 +15917,7 @@ For File Lost or Path Changed!</source>
     <name>KxPdfReadingLineTypeButton</name>
     <message>
         <source>SquigglesLine</source>
-        <translation type="unfinished"/>
+        <translation>Dalgalı Çizgi</translation>
     </message>
     <message>
         <source>StraightLine</source>
