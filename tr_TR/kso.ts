@@ -43440,7 +43440,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>unfixed from list</source>
-        <translation type="unfinished"/>
+        <translation>Listede sabitlenmemiş</translation>
     </message>
 </context>
 <context>
