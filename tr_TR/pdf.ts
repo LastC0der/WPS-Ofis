@@ -15892,7 +15892,7 @@ For File Lost or Path Changed!</source>
     </message>
     <message>
         <source>unfixed from list</source>
-        <translation type="unfinished"/>
+        <translation>Listede sabitlenmemiş</translation>
     </message>
 </context>
 <context>
