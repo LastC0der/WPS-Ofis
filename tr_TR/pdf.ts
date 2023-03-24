@@ -15921,7 +15921,7 @@ For File Lost or Path Changed!</source>
     </message>
     <message>
         <source>StraightLine</source>
-        <translation type="unfinished"/>
+        <translation>Düz Çizgi</translation>
     </message>
 </context>
 <context>
