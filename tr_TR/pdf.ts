@@ -11634,7 +11634,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>square</source>
-        <translation type="unfinished"/>
+        <translation>kare</translation>
     </message>
     <message>
         <source>distance:%1</source>
