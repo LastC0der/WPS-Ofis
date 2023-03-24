@@ -15899,7 +15899,7 @@ For File Lost or Path Changed!</source>
     <name>KxPdfThumbnailItem</name>
     <message>
         <source>%1 page</source>
-        <translation type="unfinished"/>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
