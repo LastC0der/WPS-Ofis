@@ -15906,7 +15906,7 @@ For File Lost or Path Changed!</source>
     <name>KxPdfAnnoLineTypeButton</name>
     <message>
         <source>SquigglesLine</source>
-        <translation type="unfinished"/>
+        <translation>Dalgalı Çizgi</translation>
     </message>
     <message>
         <source>StraightLine</source>
