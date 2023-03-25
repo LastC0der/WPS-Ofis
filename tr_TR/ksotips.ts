@@ -614,23 +614,23 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>InkDrawNiteWriterPen.content</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya vurgulayıcı efektleriyle mürekkep ekleyin.</translation>
     </message>
     <message>
         <source>ClearTableStyle.content</source>
-        <translation>Clear table style of selected cells.</translation>
+        <translation>Seçilen hücrelerin tablo stilini temizleyin.</translation>
     </message>
     <message>
         <source>Theme Colors.title</source>
-        <translation>Theme Colors</translation>
+        <translation>Tema Renkleri</translation>
     </message>
     <message>
         <source>InkDrawSelectMode.title</source>
-        <translation type="unfinished"/>
+        <translation>Mod Seç</translation>
     </message>
     <message>
         <source>EquationScriptGallery.title</source>
-        <translation type="unfinished"/>
+        <translation>Script</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
