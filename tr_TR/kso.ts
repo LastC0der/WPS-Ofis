@@ -8506,7 +8506,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Heavy Long Dash Line</source>
-        <translation type="unfinished"/>
+        <translation>Kesik Uzun Kalın Çizgi</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
