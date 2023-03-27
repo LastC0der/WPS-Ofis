@@ -8476,7 +8476,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Honeydew</source>
-        <translation type="unfinished"/>
+        <translation>Kavun İçi</translation>
     </message>
     <message>
         <source>Quad Arrow</source>
