@@ -8858,7 +8858,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Right Curved Arrow</source>
-        <translation type="unfinished"/>
+        <translation>Sola Bükülü Ok</translation>
     </message>
     <message>
         <source>Powder </source>
