@@ -8510,7 +8510,7 @@ Ekle</translation>
     </message>
     <message>
         <source>WordArt: Cascade Down</source>
-        <translation type="unfinished"/>
+        <translation>WordArt: Aşağı Basamakla</translation>
     </message>
     <message>
         <source>Dot Line</source>
