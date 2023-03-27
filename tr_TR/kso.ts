@@ -8514,7 +8514,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Dot Line</source>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>WordArt: Wave2</source>
