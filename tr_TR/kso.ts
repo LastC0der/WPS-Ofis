@@ -8519,7 +8519,7 @@ Ekle</translation>
     <message>
         <source>WordArt: Wave2</source>
         <comment>DRAWINGSTR_TEXTWAVE4</comment>
-        <translation type="unfinished"/>
+        <translation>WordArt: Dalga2</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
