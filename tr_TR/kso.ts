@@ -8524,7 +8524,7 @@ Ekle</translation>
     <message>
         <source>WordArt: Wave1</source>
         <comment>DRAWINGSTR_TEXTWAVE3</comment>
-        <translation type="unfinished"/>
+        <translation>WordArt: Dalga1</translation>
     </message>
     <message>
         <source>ColorFill-</source>
