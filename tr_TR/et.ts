@@ -20049,7 +20049,7 @@ Yakınlaştırma</translation>
     </message>
     <message>
         <source>Printing Settings</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı Ayarları</translation>
     </message>
 </context>
 <context>
