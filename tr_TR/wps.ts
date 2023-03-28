@@ -19294,7 +19294,7 @@ Sıkıştır</translation>
     </message>
     <message>
         <source>Rotate Mode</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme Modu</translation>
     </message>
     <message>
         <source>Selection Pane</source>
