@@ -1420,7 +1420,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>FoldNote</source>
-        <translation type="unfinished"/>
+        <translation>Notu katla...</translation>
     </message>
     <message>
         <source>The current document does not(%s)</source>
