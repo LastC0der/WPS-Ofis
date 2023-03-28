@@ -4606,7 +4606,7 @@ You can choose Read-only button to open it as read-only.</source>
     </message>
     <message>
         <source>Saving</source>
-        <translation type="unfinished"/>
+        <translation>Kaydediliyor</translation>
     </message>
     <message>
         <source>System and Exception Information File</source>
@@ -41488,7 +41488,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Saving</source>
-        <translation type="unfinished"/>
+        <translation>Kaydediliyor</translation>
     </message>
     <message>
         <source>Downloading: </source>
