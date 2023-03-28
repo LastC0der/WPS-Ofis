@@ -13779,7 +13779,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>FoldNote</source>
-        <translation type="unfinished"/>
+        <translation>Notu katla...</translation>
     </message>
     <message>
         <source>UnFoldNote</source>
