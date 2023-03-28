@@ -17245,7 +17245,7 @@ Picture</source>
     </message>
     <message>
         <source>Batch Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Resim Ekleme</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
