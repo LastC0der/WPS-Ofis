@@ -13771,7 +13771,7 @@ Kontrol Et</translation>
     <name>KxPdfSuperNoteEditor</name>
     <message>
         <source>Please enter your reply</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen cevabınızı giriniz...</translation>
     </message>
     <message>
         <source>HideNoteAuthor</source>
