@@ -13775,7 +13775,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>HideNoteAuthor</source>
-        <translation type="unfinished"/>
+        <translation>Yazarı ve Zamanı Gizle</translation>
     </message>
     <message>
         <source>FoldNote</source>
