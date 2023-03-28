@@ -17660,7 +17660,7 @@ Yönet</translation>
     </message>
     <message>
         <source>Split Merge</source>
-        <translation type="unfinished"/>
+        <translation>Böl/Birleştir</translation>
     </message>
 </context>
 <context>
