@@ -26578,7 +26578,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Develop Language</source>
-        <translation type="unfinished"/>
+        <translation>Geliştirme Dili</translation>
     </message>
     <message>
         <source>View Code</source>
