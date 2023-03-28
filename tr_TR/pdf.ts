@@ -13783,7 +13783,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>UnFoldNote</source>
-        <translation type="unfinished"/>
+        <translation>Notu aç...</translation>
     </message>
     <message>
         <source>ReplyNote</source>
