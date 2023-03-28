@@ -1428,7 +1428,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>UnFoldNote</source>
-        <translation type="unfinished"/>
+        <translation>Notu aç...</translation>
     </message>
     <message>
         <source>Redo Clip</source>
