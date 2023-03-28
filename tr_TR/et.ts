@@ -18619,7 +18619,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Batch Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Resim Ekleme</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -19236,7 +19236,7 @@ Alt Bilgi</translation>
     </message>
     <message>
         <source>Batch Insert Picture</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Resim Ekleme</translation>
     </message>
     <message>
         <source>Ungroup</source>
