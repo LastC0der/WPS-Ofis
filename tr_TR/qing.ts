@@ -5995,7 +5995,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>- [%1]</source>
-        <translation>- [%1]</translation>
+        <translation>%1 - </translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
