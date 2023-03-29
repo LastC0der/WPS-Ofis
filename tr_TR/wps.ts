@@ -3977,7 +3977,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Decision</source>
-        <translation type="unfinished"/>
+        <translation>Karar</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
