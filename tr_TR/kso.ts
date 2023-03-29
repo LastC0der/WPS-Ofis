@@ -28675,7 +28675,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
-        <translation>%1 - [%2]</translation>
+        <translation>%2 - %1</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
