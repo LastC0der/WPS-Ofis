@@ -52886,7 +52886,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Data range is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Veri aralığı geçerli değil.</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
