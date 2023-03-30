@@ -31236,7 +31236,7 @@ Yerleşik sayı biçimlerinden birini kullanmayı deneyin. Biçim menüsünde, H
     </message>
     <message>
         <source>Data range is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Veri aralığı geçerli değil.</translation>
     </message>
     <message>
         <source>Clear(&amp;C)</source>
