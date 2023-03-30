@@ -28127,7 +28127,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>You need install flash plug,</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi video oynatmak için eklentilerin yüklenmesi gerekir.</translation>
     </message>
 </context>
 <context>
