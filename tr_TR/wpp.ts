@@ -28123,7 +28123,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Click to install</source>
-        <translation type="unfinished"/>
+        <translation>Yüklemek için tıklayın</translation>
     </message>
     <message>
         <source>You need install flash plug,</source>
