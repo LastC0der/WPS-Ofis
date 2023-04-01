@@ -7172,6 +7172,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Выбрать из буфера обмена</translation>
     </message>
     <message>
+        <source>Border color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Justify</source>
         <translation>Выровнять</translation>
     </message>
@@ -7192,11 +7196,23 @@ Input 5-9 page 5 to page 9</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Change color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractScrawl</source>
         <translation>Стереть</translation>
     </message>
     <message>
+        <source>Font color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>two page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open current comment</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7208,7 +7224,15 @@ Input 5-9 page 5 to page 9</source>
         <translation>Свойства</translation>
     </message>
     <message>
+        <source>Increase font size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>two page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease font size</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7224,11 +7248,23 @@ Input 5-9 page 5 to page 9</source>
         <translation>Пакетная печать PDF-файлов</translation>
     </message>
     <message>
+        <source>Add Note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractText2Excel</source>
         <translation>Экспортировать как документ Excel</translation>
     </message>
     <message>
+        <source>Add note to replace text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>single page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert to</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7238,6 +7274,14 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>addnewcatalog</source>
         <translation>Вставить в каталог</translation>
+    </message>
+    <message>
+        <source>Add note to text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OCRExtractText</source>
