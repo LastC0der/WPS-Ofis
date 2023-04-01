@@ -7166,6 +7166,10 @@ Okuma</translation>
         <translation>Panodan Seç</translation>
     </message>
     <message>
+        <source>Border color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Justify</source>
         <translation>İki Yana Yasla</translation>
     </message>
@@ -7186,11 +7190,23 @@ Okuma</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Change color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractScrawl</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Font color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>two page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open current comment</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7202,7 +7218,15 @@ Okuma</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Increase font size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>two page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease font size</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7218,11 +7242,23 @@ Okuma</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Add Note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractText2Excel</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Add note to replace text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>single page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert to</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7231,6 +7267,14 @@ Okuma</translation>
     </message>
     <message>
         <source>addnewcatalog</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add note to text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill color</source>
         <translation type="unfinished"/>
     </message>
     <message>
