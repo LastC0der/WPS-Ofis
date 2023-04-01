@@ -7173,6 +7173,10 @@ Input 5-9 page 5 to page 9</source>
         <translation>Wybierz ze schowka</translation>
     </message>
     <message>
+        <source>Border color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Justify</source>
         <translation>Justuj</translation>
     </message>
@@ -7193,11 +7197,23 @@ Input 5-9 page 5 to page 9</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Change color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractScrawl</source>
         <translation>Gumka</translation>
     </message>
     <message>
+        <source>Font color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>two page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open current comment</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7209,7 +7225,15 @@ Input 5-9 page 5 to page 9</source>
         <translation>Właściwości</translation>
     </message>
     <message>
+        <source>Increase font size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>two page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease font size</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7225,11 +7249,23 @@ Input 5-9 page 5 to page 9</source>
         <translation>Drukowanie zbiorcze plików PDF</translation>
     </message>
     <message>
+        <source>Add Note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>OcrExtractText2Excel</source>
         <translation>Eksportuj jako dokument Excel</translation>
     </message>
     <message>
+        <source>Add note to replace text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>single page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert to</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -7239,6 +7275,14 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>addnewcatalog</source>
         <translation>Wstaw do katalogu</translation>
+    </message>
+    <message>
+        <source>Add note to text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill color</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OCRExtractText</source>
