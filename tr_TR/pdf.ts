@@ -3273,7 +3273,7 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Display or hide mouse pointer</source>
-        <translation type="unfinished"/>
+        <translation>Fare hareket ettiğinde işaretçiyi gizle/göster</translation>
     </message>
     <message>
         <source>Ctrl+H or U</source>
@@ -3378,11 +3378,11 @@ input 5-9,means extract page 5 to 9</source>
     </message>
     <message>
         <source>Invisible rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Görünmez dikdörtgen</translation>
     </message>
     <message>
         <source>Visible rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Görünür dikdörtgen</translation>
     </message>
     <message>
         <source>Cancel</source>
