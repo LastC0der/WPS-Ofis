@@ -5942,7 +5942,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>Image2Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alta ayarla</translation>
     </message>
     <message>
         <source>RightMenu clockwise rotation</source>
