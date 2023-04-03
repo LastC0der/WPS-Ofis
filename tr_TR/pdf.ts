@@ -7517,7 +7517,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Image2Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alta ayarla</translation>
     </message>
     <message>
         <source>PreviousPage</source>
