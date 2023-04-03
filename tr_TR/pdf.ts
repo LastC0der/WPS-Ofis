@@ -13339,7 +13339,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Catalogue</source>
-        <translation type="unfinished"/>
+        <translation>İçindekiler</translation>
     </message>
     <message>
         <source>Close Outline Panel</source>
