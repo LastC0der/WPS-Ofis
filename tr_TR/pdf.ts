@@ -7861,7 +7861,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>ImageBackLayer</source>
-        <translation type="unfinished"/>
+        <translation>Arkaya Taşı</translation>
     </message>
     <message>
         <source>More Layout Options</source>
