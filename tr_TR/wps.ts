@@ -16993,7 +16993,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Object Menu</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Menüsü</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
