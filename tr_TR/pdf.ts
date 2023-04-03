@@ -7845,7 +7845,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Object Menu</source>
-        <translation type="unfinished"/>
+        <translation>Nesne Menüsü</translation>
     </message>
     <message>
         <source>Create Link</source>
