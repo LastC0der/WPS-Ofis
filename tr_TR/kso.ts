@@ -20855,7 +20855,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, opening price, high price, low price, closing price. Use dates or stock names as labels.</source>
-        <translation type="unfinished"/>
+        <translation>Bu hisse senedi grafiğini oluşturmak için, sayfadaki verilerinizi şu sırada düzenleyin: açılış fiyatı, en yüksek fiyat, en düşük fiyat, kapanış fiyatı. Tarihleri ya da hisse senedi adlarını etiket olarak kullanın.</translation>
     </message>
     <message>
         <source>Chart previews can&apos;t be displayed for this selected data, but you can still insert this chart type. Click OK to insert.</source>
