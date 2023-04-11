@@ -20863,7 +20863,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order: high price, low price, closing price. Use dates or stock names as labels.</source>
-        <translation type="unfinished"/>
+        <translation>Bu hisse senedi grafiğini oluşturmak için sayfanızdaki verileri aşağıdaki sırada düzenlemeniz gerekir: en yüksek fiyat, en düşük fiyat, kapanış fiyatı. Tarihleri ve hisse senedi adlarını etiket olarak kullanın.</translation>
     </message>
     <message>
         <source>100% Stacked Line with Markers</source>
