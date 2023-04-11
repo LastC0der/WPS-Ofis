@@ -26653,7 +26653,7 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
     </message>
     <message>
         <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
-        <translation type="unfinished"/>
+        <translation>Grafik oluşturmak için kullanmak istediğiniz verileri içeren hücreleri seçin. Satırları ve sütunları adlandırdıysanız ve bunları etiket olarak kullanmak istiyorsanız, bu adları seçiminize ekleyin.</translation>
     </message>
     <message>
         <source>As the array of independent variable data points or area</source>
