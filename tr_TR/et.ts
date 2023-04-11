@@ -54134,7 +54134,7 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     </message>
     <message>
         <source>Create names in</source>
-        <translation type="unfinished"/>
+        <translation>Adları şurada oluştur</translation>
     </message>
 </context>
 <context>
