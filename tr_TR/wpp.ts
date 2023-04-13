@@ -12127,7 +12127,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Çekirdek Şifreleme</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
@@ -28047,7 +28047,7 @@ Esc					End of the slide show</source>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Çekirdek Şifreleme</translation>
     </message>
     <message>
         <source>document authorization</source>
