@@ -34394,7 +34394,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Large grid</source>
-        <translation type="unfinished"/>
+        <translation>Büyük kılavuz</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
