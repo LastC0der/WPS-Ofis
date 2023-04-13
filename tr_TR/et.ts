@@ -42914,7 +42914,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>TextFont</source>
-        <translation type="unfinished"/>
+        <translation>(Gövde)</translation>
     </message>
     <message>
         <source>Center Across</source>
