@@ -2987,7 +2987,7 @@ Lütfen dosyayı kaydedin ve paylaşım bağlantısı oluşturun</translation>
     </message>
     <message>
         <source>Large grid</source>
-        <translation type="unfinished"/>
+        <translation>Büyük kılavuz</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
