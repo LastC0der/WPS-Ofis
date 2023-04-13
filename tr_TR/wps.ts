@@ -34166,7 +34166,7 @@ Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Core Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Çekirdek Şifreleme</translation>
     </message>
     <message>
         <source>File Send</source>
