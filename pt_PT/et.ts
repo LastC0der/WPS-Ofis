@@ -9204,6 +9204,10 @@ Condicional</translation>
         <translation>Ponto Suave</translation>
     </message>
     <message>
+        <source>Advanced Filter Effect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Increase Argument Size</source>
         <translation>Aumentar tamanho do argumento</translation>
     </message>
@@ -16006,10 +16010,6 @@ Formatação</translation>
         <translation>Terminar sessão</translation>
     </message>
     <message>
-        <source>Special Feature</source>
-        <translation>Funcionalidade especial</translation>
-    </message>
-    <message>
         <source>PDFTOCad</source>
         <translation>PDF em CAD</translation>
     </message>
@@ -18772,10 +18772,6 @@ dispositivo móvel</translation>
         <source>Ds Webshape Del</source>
         <translation>Eliminar</translation>
     </message>
-    <message>
-        <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -18976,10 +18972,6 @@ Inteiro</translation>
 Window</source>
         <translation>Nova 
 Janela</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Mostrar</translation>
     </message>
 </context>
 <context>
@@ -56209,33 +56201,6 @@ Comentário</translation>
     <message>
         <source>Alignment</source>
         <translation>Alinhamento</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_specialapps</name>
-    <message>
-        <source>Picture to Text</source>
-        <translation>Imagem em Texto</translation>
-    </message>
-    <message>
-        <source>Screen Recorder</source>
-        <translation>Gravador de ecrã</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation>Ferramentas de Palavras</translation>
-    </message>
-    <message>
-        <source>Cloud Clipboard</source>
-        <translation>Área de transferência da Cloud</translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF em Word</translation>
-    </message>
-    <message>
-        <source>Et Toolbox</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
