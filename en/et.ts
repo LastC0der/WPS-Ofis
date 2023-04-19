@@ -9018,6 +9018,10 @@ OLE DB Query</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Advanced Filter Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Argument Size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15782,10 +15786,6 @@ Painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special Feature</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>PDFTOCad</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18522,10 +18522,6 @@ Center</source>
         <source>Ds Webshape Del</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>PCLaTeXEquation</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -18718,10 +18714,6 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -55626,33 +55618,6 @@ Comment</source>
     <name>ongmani.ct_home.Alignment</name>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_specialapps</name>
-    <message>
-        <source>Picture to Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Screen Recorder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cloud Clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Et Toolbox</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
