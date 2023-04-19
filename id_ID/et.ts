@@ -9200,6 +9200,10 @@ Bersyarat</translation>
         <translation>Titik Halus</translation>
     </message>
     <message>
+        <source>Advanced Filter Effect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Increase Argument Size</source>
         <translation>Tambah Ukuran Argumen</translation>
     </message>
@@ -15997,10 +16001,6 @@ Format</translation>
         <translation>Akses Keluar</translation>
     </message>
     <message>
-        <source>Special Feature</source>
-        <translation>Fitur Khusus</translation>
-    </message>
-    <message>
         <source>PDFTOCad</source>
         <translation>PDF ke CAD</translation>
     </message>
@@ -18770,10 +18770,6 @@ Ponsel</translation>
         <source>Ds Webshape Del</source>
         <translation>Hapus</translation>
     </message>
-    <message>
-        <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -18973,10 +18969,6 @@ Penuh</translation>
         <source>New
 Window</source>
         <translation>Jendela Baru</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Tampilkan</translation>
     </message>
 </context>
 <context>
@@ -56202,33 +56194,6 @@ Komentar</translation>
     <message>
         <source>Alignment</source>
         <translation>Perataan</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_specialapps</name>
-    <message>
-        <source>Picture to Text</source>
-        <translation>Gambar ke Teks</translation>
-    </message>
-    <message>
-        <source>Screen Recorder</source>
-        <translation>Perekam Layar</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation>Alat Kata</translation>
-    </message>
-    <message>
-        <source>Cloud Clipboard</source>
-        <translation>Papan Klip Cloud</translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF ke Word</translation>
-    </message>
-    <message>
-        <source>Et Toolbox</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
