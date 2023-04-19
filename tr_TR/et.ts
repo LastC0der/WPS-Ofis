@@ -9175,6 +9175,10 @@ Düzenle</translation>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Advanced Filter Effect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Increase Argument Size</source>
         <translation type="unfinished"/>
     </message>
@@ -15982,10 +15986,6 @@ Boyacısı</translation>
         <translation>Oturumu Kapat</translation>
     </message>
     <message>
-        <source>Special Feature</source>
-        <translation>Özel Özellik</translation>
-    </message>
-    <message>
         <source>PDFTOCad</source>
         <translation type="unfinished"/>
     </message>
@@ -18753,10 +18753,6 @@ Kontrol Et</translation>
         <source>Ds Webshape Del</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -18959,10 +18955,6 @@ Görünümler</translation>
 Window</source>
         <translation>Yeni
 Pencere</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Göster</translation>
     </message>
 </context>
 <context>
@@ -56083,33 +56075,6 @@ Düzenle</translation>
     <message>
         <source>Alignment</source>
         <translation>Hizalama</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_specialapps</name>
-    <message>
-        <source>Picture to Text</source>
-        <translation>Resimden Metne</translation>
-    </message>
-    <message>
-        <source>Screen Recorder</source>
-        <translation>Ekran Kaydedici</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation>Metin Araçları</translation>
-    </message>
-    <message>
-        <source>Cloud Clipboard</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF&apos;den Word&apos;e</translation>
-    </message>
-    <message>
-        <source>Et Toolbox</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
