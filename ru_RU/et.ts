@@ -9196,6 +9196,10 @@ OLE DB Query</source>
         <translation>Гладкий узел</translation>
     </message>
     <message>
+        <source>Advanced Filter Effect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Increase Argument Size</source>
         <translation>Увеличить размер аргумента</translation>
     </message>
@@ -16005,10 +16009,6 @@ Painter</source>
         <translation>Выйти</translation>
     </message>
     <message>
-        <source>Special Feature</source>
-        <translation>Дополнительная возможность</translation>
-    </message>
-    <message>
         <source>PDFTOCad</source>
         <translation>Из PDF в CAD</translation>
     </message>
@@ -18769,10 +18769,6 @@ Center</source>
         <source>Ds Webshape Del</source>
         <translation>Удалить</translation>
     </message>
-    <message>
-        <source>PCLaTeXEquation</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -18971,10 +18967,6 @@ Screen</source>
 Window</source>
         <translation>Новое 
 окно</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Показать</translation>
     </message>
 </context>
 <context>
@@ -56154,33 +56146,6 @@ Comment</source>
     <message>
         <source>Alignment</source>
         <translation>Выровнять</translation>
-    </message>
-</context>
-<context>
-    <name>ongmani.ct_specialapps</name>
-    <message>
-        <source>Picture to Text</source>
-        <translation>Рисунок в текст</translation>
-    </message>
-    <message>
-        <source>Screen Recorder</source>
-        <translation>Средство записи экрана</translation>
-    </message>
-    <message>
-        <source>Word Tools</source>
-        <translation>Инструменты</translation>
-    </message>
-    <message>
-        <source>Cloud Clipboard</source>
-        <translation>Буфер обмена Cloud</translation>
-    </message>
-    <message>
-        <source>PDF2Word</source>
-        <translation>PDF в Word</translation>
-    </message>
-    <message>
-        <source>Et Toolbox</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
