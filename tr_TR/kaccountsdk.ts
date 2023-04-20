@@ -2215,7 +2215,7 @@ Easy mobile office.</source>
     <name>KNewGuideDialog</name>
     <message>
         <source>User Guide</source>
-        <translation>Kullanım Kılavuzu</translation>
+        <translation>Kullanıcı Kılavuzu</translation>
     </message>
 </context>
 <context>
