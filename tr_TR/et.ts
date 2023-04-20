@@ -5385,7 +5385,7 @@ Göre Böl</translation>
     </message>
     <message>
         <source>Advanced Filter Effect</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş Filtre Efekti</translation>
     </message>
     <message>
         <source>Duplicate Value</source>
@@ -9176,7 +9176,7 @@ Düzenle</translation>
     </message>
     <message>
         <source>Advanced Filter Effect</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş Filtre Efekti</translation>
     </message>
     <message>
         <source>Increase Argument Size</source>
