@@ -5249,7 +5249,13 @@ Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de s
 2.Current file has been opened. 
 
 3.The required database engine has not been installed.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamıyor. Aşağıdaki sorunlardan biri olabilir:
+
+1. Seçtiğiniz dosya biçimi veya veritabanı desteklenmiyor. 
+
+2. Geçerli dosya açık. 
+
+3. Gerekli veritabanı motoru kurulmamış.</translation>
     </message>
     <message>
         <source>All Files(*)|*|All Data Sources(*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt</source>
