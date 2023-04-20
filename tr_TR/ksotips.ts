@@ -638,11 +638,11 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>SendBackward.title</source>
-        <translation>Send Backward</translation>
+        <translation>Arkaya Gönder</translation>
     </message>
     <message>
         <source>KOSCloudInformationTip.title</source>
-        <translation>User Guide</translation>
+        <translation>Kullanıcı Kılavuzu</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow.title</source>
