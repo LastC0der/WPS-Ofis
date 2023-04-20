@@ -630,7 +630,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>EquationScriptGallery.title</source>
-        <translation>Script</translation>
+        <translation>Betik</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
