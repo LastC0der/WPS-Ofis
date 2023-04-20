@@ -30080,7 +30080,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Reject Selected Comment</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen Yorumu Reddet</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
