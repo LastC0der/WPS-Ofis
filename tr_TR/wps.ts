@@ -35999,7 +35999,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Accept Selected Change</source>
-        <translation type="unfinished"/>
+        <translation>Seçilli Değişikliği Kabul Et</translation>
     </message>
     <message>
         <source>Compare</source>
