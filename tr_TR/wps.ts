@@ -30060,7 +30060,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Handwriting Comments</source>
-        <translation type="unfinished"/>
+        <translation>El Yazısıyla Açıklama</translation>
     </message>
     <message>
         <source>Display for Review</source>
