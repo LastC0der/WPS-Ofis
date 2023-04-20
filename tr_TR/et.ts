@@ -12673,7 +12673,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
-        <translation type="unfinished"/>
+        <translation>Toplam nesnelerden seçilen belirli sayıda nesne için permütasyon sayısını döndürür.</translation>
     </message>
     <message>
         <source>DELTA(number1,number2)</source>
@@ -12730,7 +12730,7 @@ Ortala</translation>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Toplam nesnelerden seçilen belirli sayıda nesne için permütasyon sayısını döndürür.</translation>
     </message>
     <message>
         <source>REPT(text,number_times)</source>
