@@ -1289,7 +1289,7 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Galerisi</translation>
     </message>
     <message>
         <source>DetailedSettings_wps_PictureTools.title</source>
