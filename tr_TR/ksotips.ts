@@ -634,7 +634,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>ChartGallery_pro.title</source>
-        <translation type="unfinished"/>
+        <translation>Grafik Galerisi</translation>
     </message>
     <message>
         <source>SendBackward.title</source>
