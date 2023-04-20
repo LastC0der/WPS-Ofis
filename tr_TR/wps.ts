@@ -13952,7 +13952,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>Search Computer</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Arama</translation>
     </message>
     <message>
         <source>Smart Official</source>
