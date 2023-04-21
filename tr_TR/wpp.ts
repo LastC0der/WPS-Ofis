@@ -6306,15 +6306,15 @@ Body: Wipe</source>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>Tekerlek Saat Yönünde, 2 Telli</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 4 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>Tekerlek Saat Yönünde, 4 Telli</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 8 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>Tekerlek Saat Yönünde, 8 Telli</translation>
     </message>
     <message>
         <source>These embed font(s) in this file has not loaded because they are preview and print only.
