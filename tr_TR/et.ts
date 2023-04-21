@@ -40942,7 +40942,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Line</source>
