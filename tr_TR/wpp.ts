@@ -4488,7 +4488,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Swivel</source>
-        <translation type="unfinished"/>
+        <translation>Topaç</translation>
     </message>
     <message>
         <source>Swoosh</source>
