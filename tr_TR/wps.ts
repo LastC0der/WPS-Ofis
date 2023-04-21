@@ -27393,7 +27393,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
-        <translation type="unfinished"/>
+        <translation>Taşmaya izin &amp;ver</translation>
     </message>
     <message>
         <source>&amp;Relative position</source>
