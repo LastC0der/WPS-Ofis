@@ -4472,7 +4472,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Subtle</source>
-        <translation type="unfinished"/>
+        <translation>Zarif</translation>
     </message>
     <message>
         <source>Teeter</source>
