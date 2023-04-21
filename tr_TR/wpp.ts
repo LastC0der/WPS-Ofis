@@ -14274,7 +14274,7 @@ Master</source>
     </message>
     <message>
         <source>Random Bars</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele Çubuklar</translation>
     </message>
     <message>
         <source>Fade Smooth</source>
