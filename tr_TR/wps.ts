@@ -37400,7 +37400,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Outside Margin</source>
-        <translation type="unfinished"/>
+        <translation>Dış Kenar Boşluğu</translation>
     </message>
     <message>
         <source>A&amp;bsolute</source>
