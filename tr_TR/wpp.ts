@@ -5734,7 +5734,7 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Random Bars</source>
         <comment>wpp_sAnimExitEffectTextRandomBars</comment>
-        <translation type="unfinished"/>
+        <translation>Rastgele Çubuklar</translation>
     </message>
     <message>
         <source>Decaying Wave</source>
@@ -6851,7 +6851,7 @@ Body: Thread</source>
     </message>
     <message>
         <source>Random Bars</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele Çubuklar</translation>
     </message>
     <message>
         <source>Moderate</source>
