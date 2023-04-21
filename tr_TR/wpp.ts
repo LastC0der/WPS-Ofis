@@ -4508,7 +4508,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>35mm Slides</source>
-        <translation type="unfinished"/>
+        <translation>35 mm Slayt</translation>
     </message>
     <message>
         <source>UnLock</source>
