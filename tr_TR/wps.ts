@@ -27909,7 +27909,7 @@ Modu</translation>
     </message>
     <message>
         <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
-        <translation type="unfinished"/>
+        <translation>Aynı değere sahip bir girdi zaten var - her girdinin benzersiz bir değer belirtmesi gerekir.</translation>
     </message>
     <message>
         <source>Add Choice</source>
