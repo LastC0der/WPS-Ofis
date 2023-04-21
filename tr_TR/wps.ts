@@ -9545,7 +9545,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Grid</source>
