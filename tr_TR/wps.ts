@@ -27878,7 +27878,7 @@ Modu</translation>
     </message>
     <message>
         <source>Check Box Content Control</source>
-        <translation type="unfinished"/>
+        <translation>Onay Kutusu İçerik Denetimi</translation>
     </message>
     <message>
         <source>Toggle Button</source>
