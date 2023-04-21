@@ -22449,7 +22449,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>O&amp;ne color</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tek renk</translation>
     </message>
     <message>
         <source>Pre&amp;set</source>
