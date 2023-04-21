@@ -4492,7 +4492,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Swoosh</source>
-        <translation type="unfinished"/>
+        <translation>Su Sesi</translation>
     </message>
     <message>
         <source>Thread</source>
