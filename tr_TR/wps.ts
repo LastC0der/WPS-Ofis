@@ -27905,7 +27905,7 @@ Modu</translation>
     </message>
     <message>
         <source>Display &amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Görünen Ad:</translation>
     </message>
     <message>
         <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
