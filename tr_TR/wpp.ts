@@ -4136,7 +4136,7 @@ Are you sure you want to save it in this format ?</source>
     <message>
         <source>Swivel</source>
         <comment>wpp_sAnimExitEffectTextSwivel</comment>
-        <translation type="unfinished"/>
+        <translation>Topaç</translation>
     </message>
     <message>
         <source>Title Text Color</source>
