@@ -27897,7 +27897,7 @@ Modu</translation>
     </message>
     <message>
         <source>Display name cannot be blank.</source>
-        <translation type="unfinished"/>
+        <translation>Görünen ad boş olamaz.</translation>
     </message>
     <message>
         <source>Modify Choice</source>
