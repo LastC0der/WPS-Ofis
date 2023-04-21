@@ -4411,7 +4411,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Spokes</source>
-        <translation type="unfinished"/>
+        <translation>Tekerlek Telleri</translation>
     </message>
     <message>
         <source>8 Spokes</source>
