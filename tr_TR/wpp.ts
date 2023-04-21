@@ -4236,7 +4236,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>You must name your custom show.</source>
-        <translation type="unfinished"/>
+        <translation>Özel gösterinize bir ad vermeniz gerekir.</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -8375,7 +8375,7 @@ Body: Fade</source>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Line</source>
@@ -19338,7 +19338,7 @@ Okuma</translation>
     </message>
     <message>
         <source>You must name your custom show.</source>
-        <translation type="unfinished"/>
+        <translation>Özel gösterinize bir ad vermeniz gerekir.</translation>
     </message>
     <message>
         <source>You cannot have two custom shows with the same name. Please enter a new name.</source>
