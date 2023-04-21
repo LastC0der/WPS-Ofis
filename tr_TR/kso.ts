@@ -36947,7 +36947,7 @@ Please check your system settings and ensure that the temporary directory under 
     <name>KxDlgRibbonControlRename</name>
     <message>
         <source>Display name:</source>
-        <translation>Ekran adı:</translation>
+        <translation>Görünen ad:</translation>
     </message>
     <message>
         <source>Rename</source>
