@@ -27917,7 +27917,7 @@ Modu</translation>
     </message>
     <message>
         <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
-        <translation type="unfinished"/>
+        <translation>Aynı görünen ada sahip bir girdi zaten var - her girdinin bir görünen adı belirtmesi gerekir.</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
