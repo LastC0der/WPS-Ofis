@@ -6302,7 +6302,7 @@ Body: Wipe</source>
     </message>
     <message>
         <source>Wheel Clockwise, 3 Spokes</source>
-        <translation type="unfinished"/>
+        <translation>Tekerlek Saat Yönünde, 3 Telli</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
