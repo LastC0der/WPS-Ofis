@@ -27345,7 +27345,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Outside Margin</source>
-        <translation type="unfinished"/>
+        <translation>Dış Kenar Boşluğu</translation>
     </message>
     <message>
         <source>&amp;relative to</source>
