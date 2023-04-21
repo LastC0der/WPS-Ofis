@@ -4460,7 +4460,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Folder name cannot be empty. Please input.</source>
-        <translation type="unfinished"/>
+        <translation>Klasör adı boş olamaz.</translation>
     </message>
     <message>
         <source>Octagon</source>
