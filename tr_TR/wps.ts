@@ -27333,7 +27333,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation type="unfinished"/>
+        <translation>neyin sa&amp;ğına</translation>
     </message>
     <message>
         <source>Paragraph</source>
