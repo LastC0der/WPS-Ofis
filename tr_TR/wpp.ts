@@ -4520,7 +4520,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Bold Reveal</source>
-        <translation type="unfinished"/>
+        <translation>Kalın Açığa Çıkar</translation>
     </message>
     <message>
         <source>Add Emphasis Effect</source>
