@@ -41904,7 +41904,7 @@ Modu</translation>
     </message>
     <message>
         <source>Mark Entry</source>
-        <translation type="unfinished"/>
+        <translation>Girdi İşaretle</translation>
     </message>
     <message>
         <source>TableOfContents</source>
