@@ -1387,7 +1387,7 @@ This creates a document with clean look.</translation>
     </message>
     <message>
         <source>Lighting.content</source>
-        <translation>Seçilen 3B şekli için aydınlatma yönünü ve yoğunluğunu ayarlayın. İkincisi parlak, normal ve loş içerir.</translation>
+        <translation>Seçilen 3-B şekli için aydınlatma yönünü ve yoğunluğunu ayarlayın. İkincisi parlak, normal ve loş içerir.</translation>
     </message>
     <message>
         <source>LoopAudio.title</source>
