@@ -41912,7 +41912,8 @@ Modu</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation type="unfinished"/>
+        <translation>Dipnot 
+Ekle</translation>
     </message>
     <message>
         <source>Mail Merge</source>
