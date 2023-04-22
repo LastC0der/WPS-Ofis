@@ -8788,7 +8788,7 @@ Ekle</translation>
     </message>
     <message>
         <source>3-D ToolBar</source>
-        <translation type="unfinished"/>
+        <translation>3-B Araç Çubuğu</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
