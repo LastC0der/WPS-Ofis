@@ -5721,7 +5721,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Slide transition loss</source>
-        <translation type="unfinished"/>
+        <translation>Bazı geçiş efektleri kaybolacaktır.</translation>
     </message>
     <message>
         <source>Uneditable images (QR code, etc.)</source>
