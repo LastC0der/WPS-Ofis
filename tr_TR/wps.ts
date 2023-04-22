@@ -43404,7 +43404,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Error. Not a valid bookmark in entry on page .</source>
-        <translation type="unfinished"/>
+        <translation>Hata. Sayfadaki girdide geçerli yer işareti yok.</translation>
     </message>
     <message>
         <source>Error. No index entries found.</source>
