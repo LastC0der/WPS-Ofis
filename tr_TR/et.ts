@@ -33979,7 +33979,7 @@ Dondur</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -36471,7 +36471,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Tilt Right</source>
