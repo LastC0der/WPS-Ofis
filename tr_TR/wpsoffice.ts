@@ -2814,7 +2814,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
     </message>
     <message>
         <source>Creating file...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya oluşturuluyor...</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5958,7 +5958,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>Creating file...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya oluşturuluyor...</translation>
     </message>
     <message>
         <source>Backup</source>
