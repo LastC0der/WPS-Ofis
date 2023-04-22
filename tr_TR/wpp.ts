@@ -14290,7 +14290,7 @@ Master</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3B Renk</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Wipe Down</source>
