@@ -12570,7 +12570,7 @@ p, li { white-space: pre-wrap; }
     <name>KPromeExportPDFCenterWidget</name>
     <message>
         <source>Creating Pdf file...</source>
-        <translation type="unfinished"/>
+        <translation>PDF dosyası oluşturuluyor...</translation>
     </message>
     <message>
         <source>Transforming Pdf file...</source>
