@@ -7015,7 +7015,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -16841,7 +16841,7 @@ Taşı</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -17211,7 +17211,7 @@ Picture</source>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Lock rate</source>
@@ -35488,7 +35488,7 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -36157,11 +36157,11 @@ Efektleri</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3B Açık/Kapalı</translation>
+        <translation>3-B Açık/Kapalı</translation>
     </message>
     <message>
         <source>3D Color</source>
-        <translation>3B Renk</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Tilt Right</source>
@@ -36284,7 +36284,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -36321,7 +36321,7 @@ Efektleri</translation>
     <message>
         <source>3-D 
 Effects</source>
-        <translation>3B 
+        <translation>3-B 
 Efektler</translation>
     </message>
     <message>
@@ -36371,7 +36371,7 @@ Efektleri</translation>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>3B
+        <translation>3-B
 Açık/Kapalı</translation>
     </message>
     <message>
@@ -36411,7 +36411,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>More 3D Colors</source>
-        <translation>Diğer 3B Renkleri</translation>
+        <translation>Diğer 3-B Renkleri</translation>
     </message>
     <message>
         <source>Tilt Down</source>
@@ -36451,7 +36451,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -36459,7 +36459,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3B Açık/Kapalı</translation>
+        <translation>3-B Açık/Kapalı</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -36624,7 +36624,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -36687,7 +36687,7 @@ Açık/Kapalı</translation>
     <message>
         <source>3-D
 Effects</source>
-        <translation>3B
+        <translation>3-B
 Efektler</translation>
     </message>
     <message>
@@ -36711,7 +36711,7 @@ Efektleri</translation>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>3B
+        <translation>3-B
 Açık/Kapalı</translation>
     </message>
     <message>
@@ -40061,12 +40061,12 @@ with same name in workbooks</source>
     <message>
         <source>3-D
 On</source>
-        <translation>3B 
+        <translation>3-B 
 Açık</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3B Açık</translation>
+        <translation>3-B Açık</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
@@ -41171,7 +41171,7 @@ Ekle</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -41775,7 +41775,7 @@ Boyacısı</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Selection Pane</source>
