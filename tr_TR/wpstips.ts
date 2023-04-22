@@ -2292,7 +2292,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PageDiffOddEven.title</source>
-        <translation>PageDiff OddEven</translation>
+        <translation>Tek ve çift sayfalar farklı</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
