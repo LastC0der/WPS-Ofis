@@ -22433,7 +22433,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3B Renk</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Apply Quick Style</source>
@@ -24031,7 +24031,7 @@ Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quo
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3B Renk</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Tilt Right</source>
