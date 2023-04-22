@@ -519,7 +519,7 @@ X eksenine çizilen veriler Y eksenine (ve tersi) taşınır.</translation>
     </message>
     <message>
         <source>3DColor.content</source>
-        <translation>Seçilen 3B şekli renkle doldurun.
+        <translation>Seçilen 3-B şekli renkle doldurun.
 
 Farklı 3-B renkler arasından seçim yapmak için oku tıklayın.</translation>
     </message>
