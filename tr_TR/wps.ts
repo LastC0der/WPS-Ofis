@@ -26288,7 +26288,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Different odd and even</source>
-        <translation type="unfinished"/>
+        <translation>Tek ve çift sayfalarda farklı</translation>
     </message>
 </context>
 <context>
