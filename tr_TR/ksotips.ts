@@ -1204,7 +1204,7 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     </message>
     <message>
         <source>InkDrawEnter.title</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>NudgeShadowUp.title</source>
