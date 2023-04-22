@@ -13773,7 +13773,7 @@ Always take this action.</source>
     </message>
     <message>
         <source>Theme Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Tema Yazı Tipleri</translation>
     </message>
     <message>
         <source>Olive Green</source>
