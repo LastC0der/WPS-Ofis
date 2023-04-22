@@ -41151,7 +41151,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Hide theme fonts</source>
-        <translation type="unfinished"/>
+        <translation>Tema yazı tiplerini gizlemek için tıklayın</translation>
     </message>
     <message>
         <source>Show theme fonts</source>
