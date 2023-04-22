@@ -17268,7 +17268,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Show Ignored Words</source>
-        <translation type="unfinished"/>
+        <translation>Yok Sayılan Sözcükleri Göster</translation>
     </message>
     <message>
         <source>Open Path</source>
