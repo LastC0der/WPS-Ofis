@@ -39739,7 +39739,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Mark Index Entry</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Girdisi İşaretle</translation>
     </message>
     <message>
         <source>Headin&amp;g:</source>
