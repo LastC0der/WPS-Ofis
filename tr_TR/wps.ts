@@ -9798,7 +9798,7 @@ Ekle</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -12067,12 +12067,12 @@ Lütfen aşağıdakilerden birini deneyin.
     <message>
         <source>3-D
 On</source>
-        <translation>3B
+        <translation>3-B
 Açık</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3B Açık</translation>
+        <translation>3-B Açık</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -12178,7 +12178,7 @@ Yönü</translation>
     </message>
     <message>
         <source>3-D Rotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Edit Shapes</source>
@@ -12637,12 +12637,12 @@ Açık/Kapalı</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3B
+        <translation>3-B
 Açık</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3B Açık</translation>
+        <translation>3-B Açık</translation>
     </message>
     <message>
         <source>Relative to Page</source>
@@ -13168,12 +13168,12 @@ Boyacısı</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3B
+        <translation>3-B
 Açık</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3B Açık</translation>
+        <translation>3-B Açık</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -13265,7 +13265,7 @@ Açık</translation>
     </message>
     <message>
         <source>3-D Rotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -13780,7 +13780,7 @@ Dizgisi</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>New Style</source>
@@ -14267,7 +14267,7 @@ Değiştir</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>With Filling Effect Of Large Square-Shaped Bullets</source>
@@ -14683,7 +14683,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>3-D Rotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -14759,7 +14759,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>ThreeDRotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Local Text Box</source>
@@ -15746,7 +15746,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Three Dimensional Rotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -23029,15 +23029,15 @@ Protection</source>
     </message>
     <message>
         <source>Table 3D effects 1</source>
-        <translation>Tablo 3B efektler 1</translation>
+        <translation>Tablo 3-B efektler 1</translation>
     </message>
     <message>
         <source>Table 3D effects 2</source>
-        <translation>Tablo 3B efektler 2</translation>
+        <translation>Tablo 3-B efektler 2</translation>
     </message>
     <message>
         <source>Table 3D effects 3</source>
-        <translation>Tablo 3B efektler 3</translation>
+        <translation>Tablo 3-B efektler 3</translation>
     </message>
     <message>
         <source>Compare Side by Side</source>
@@ -24027,7 +24027,7 @@ Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quo
     </message>
     <message>
         <source>3-D On/Off</source>
-        <translation>3B Açık/Kapalı</translation>
+        <translation>3-B Açık/Kapalı</translation>
     </message>
     <message>
         <source>3-D Color</source>
@@ -24198,7 +24198,7 @@ Renk</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -24285,7 +24285,7 @@ Efektleri</translation>
     <message>
         <source>3-D 
 Effects</source>
-        <translation>3B 
+        <translation>3-B 
 Efektler</translation>
     </message>
     <message>
@@ -24353,7 +24353,7 @@ Açık/Kapalı</translation>
     <message>
         <source>3-D
 Effects</source>
-        <translation>3B
+        <translation>3-B
 Efektler</translation>
     </message>
     <message>
@@ -24417,7 +24417,7 @@ Efektleri</translation>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>3B
+        <translation>3-B
 Açık/Kapalı</translation>
     </message>
     <message>
@@ -24545,7 +24545,7 @@ Renk</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -24694,7 +24694,7 @@ Açık/Kapalı</translation>
     <message>
         <source>3-D
 Effects</source>
-        <translation>3B
+        <translation>3-B
 Efektler</translation>
     </message>
     <message>
@@ -24758,7 +24758,7 @@ Efektleri</translation>
     <message>
         <source>3-D
 On/Off</source>
-        <translation>3B
+        <translation>3-B
 Açık/Kapalı</translation>
     </message>
     <message>
@@ -28397,12 +28397,12 @@ Kaydır</translation>
     <message>
         <source>3-D
 On</source>
-        <translation>3B 
+        <translation>3-B 
 Açık</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3B Açık</translation>
+        <translation>3-B Açık</translation>
     </message>
     <message>
         <source>Deflate Inflate</source>
@@ -30491,7 +30491,7 @@ Ekle</translation>
     </message>
     <message>
         <source>3-D Rotation</source>
-        <translation>3B Döndürme</translation>
+        <translation>3-B Döndürme</translation>
     </message>
     <message>
         <source>Weight</source>
