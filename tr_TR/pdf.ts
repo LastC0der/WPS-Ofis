@@ -4699,7 +4699,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Image Data Is Null</source>
