@@ -30166,7 +30166,7 @@ Sure to close?</source>
     <name>KGalleryAbstractModel</name>
     <message>
         <source>PresetBullet</source>
-        <translation type="unfinished"/>
+        <translation>Önayarlı Madde İşareti Animasyonları</translation>
     </message>
 </context>
 <context>
