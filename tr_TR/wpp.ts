@@ -5729,7 +5729,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>&amp;Two Spin</source>
-        <translation>&amp;Two Spin</translation>
+        <translation>&amp;İki Dönüş</translation>
     </message>
     <message>
         <source>Random Bars</source>
