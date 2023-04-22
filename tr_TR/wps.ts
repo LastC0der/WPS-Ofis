@@ -4183,7 +4183,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
-        <translation type="unfinished"/>
+        <translation>Bir içindekiler girdisi işaretle</translation>
     </message>
     <message>
         <source>FileName</source>
@@ -4847,7 +4847,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
-        <translation type="unfinished"/>
+        <translation>Bir içindekiler girdisi işaretle</translation>
     </message>
     <message>
         <source>This style name already exists or is reserved for a built-in style.</source>
