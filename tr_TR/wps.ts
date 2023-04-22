@@ -20042,7 +20042,7 @@ Screen</source>
     </message>
     <message>
         <source>InkDraw</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -36045,7 +36045,7 @@ Sil</translation>
     </message>
     <message>
         <source>InkDrawEnter</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Delete All Comments in Document</source>
