@@ -5725,7 +5725,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Uneditable images (QR code, etc.)</source>
-        <translation>Düzenlenemez görüntüler (karekod, vb.)</translation>
+        <translation>İşlevsel grafikler (karekod, vb.) değiştirilemez.</translation>
     </message>
     <message>
         <source>&amp;Two Spin</source>
