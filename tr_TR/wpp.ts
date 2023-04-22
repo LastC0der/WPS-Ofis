@@ -2362,7 +2362,7 @@ Check</source>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -16148,7 +16148,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Tilt Right</source>
@@ -16274,7 +16274,7 @@ Rengi</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation>3B
+        <translation>3-B
 Renk</translation>
     </message>
     <message>
