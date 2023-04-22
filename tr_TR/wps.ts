@@ -48553,7 +48553,7 @@ Click OK to give up saving and close this program. If you don&apos;t want to clo
     <name>KGalleryAbstractModel</name>
     <message>
         <source>PresetBullet</source>
-        <translation type="unfinished"/>
+        <translation>Önayarlı Madde İşareti Animasyonları</translation>
     </message>
 </context>
 <context>
