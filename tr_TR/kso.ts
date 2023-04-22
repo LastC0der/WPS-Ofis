@@ -8456,7 +8456,7 @@ Ekle</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>CD Drive</source>
@@ -15605,7 +15605,7 @@ Ekle</translation>
     </message>
     <message>
         <source>3-D Color</source>
-        <translation>3-D Color</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -15868,7 +15868,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>3-D Color</source>
         <comment>DgUil_3DColor</comment>
-        <translation>3-D Color</translation>
+        <translation>3-B Renk</translation>
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
