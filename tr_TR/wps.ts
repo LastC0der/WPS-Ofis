@@ -39814,7 +39814,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>Previous Footnote</translation>
+        <translation>Önceki Dipnot</translation>
     </message>
     <message>
         <source>Next Table</source>
@@ -41860,7 +41860,7 @@ Modu</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>Previous Footnote</translation>
+        <translation>Önceki Dipnot</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
