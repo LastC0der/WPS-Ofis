@@ -24193,7 +24193,7 @@ Rengi</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation>3B
+        <translation>3-B
 Renk</translation>
     </message>
     <message>
@@ -24540,7 +24540,7 @@ Rengi</translation>
     <message>
         <source>3-D
 Color</source>
-        <translation>3B
+        <translation>3-B
 Renk</translation>
     </message>
     <message>
