@@ -2307,7 +2307,7 @@ Click Arrows for detailed configuration.</translation>
     </message>
     <message>
         <source>PageDiffOddEven.title</source>
-        <translation>Odd and even pages are different</translation>
+        <translation>Tek ve çift sayfalar farklıdır</translation>
     </message>
     <message>
         <source>Bullets2.title</source>
