@@ -41159,7 +41159,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Show theme Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Tema yazı tiplerini göster</translation>
     </message>
 </context>
 <context>
