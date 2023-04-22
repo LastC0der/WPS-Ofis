@@ -14050,7 +14050,7 @@ Kütüphanesi</translation>
     </message>
     <message>
         <source>Find Direct Reference</source>
-        <translation type="unfinished"/>
+        <translation>Doğrudan Başvuruyu Bul</translation>
     </message>
     <message>
         <source>Slicer Settings</source>
