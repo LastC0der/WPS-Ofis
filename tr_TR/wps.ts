@@ -26148,7 +26148,7 @@ Kenarlıkları</translation>
     </message>
     <message>
         <source>Different First Page</source>
-        <translation>İlk Sayfada Farklı</translation>
+        <translation>İlk sayfada farklı</translation>
     </message>
     <message>
         <source>Remove Table Of Contents</source>
