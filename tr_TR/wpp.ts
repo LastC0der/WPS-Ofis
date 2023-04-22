@@ -23180,7 +23180,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>InkDrawEnter</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Check Mine Permission</source>
