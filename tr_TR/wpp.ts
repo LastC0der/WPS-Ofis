@@ -18792,7 +18792,7 @@ Shape</source>
     </message>
     <message>
         <source>InkDraw</source>
-        <translation type="unfinished"/>
+        <translation>Çiz</translation>
     </message>
     <message>
         <source>Minisite</source>
