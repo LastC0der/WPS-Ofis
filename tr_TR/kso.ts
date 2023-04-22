@@ -15489,7 +15489,7 @@ Ekle</translation>
     </message>
     <message>
         <source>No 3-D</source>
-        <translation>3B Yok</translation>
+        <translation>3-B Yok</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -26250,7 +26250,7 @@ Possible reasons:
     </message>
     <message>
         <source>3-D ROTATION</source>
-        <translation>3B DÖNDÜRME</translation>
+        <translation>3-B DÖNDÜRME</translation>
     </message>
     <message>
         <source>BRIGHTNESS/CONTRAST</source>
