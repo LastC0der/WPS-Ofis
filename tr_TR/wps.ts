@@ -21993,7 +21993,7 @@ Click to follow this link</source>
     <message>
         <source>Mark Index Entry</source>
         <comment>TxVersion_MarkIndexEntry</comment>
-        <translation type="unfinished"/>
+        <translation>Dizin Girdisi İşaretle</translation>
     </message>
     <message>
         <source>Mail Merge First Record</source>
@@ -22559,7 +22559,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Mark Index Entry</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Girdisi İşaretle</translation>
     </message>
     <message>
         <source>Simplified/Traditional Chinese Translation</source>
