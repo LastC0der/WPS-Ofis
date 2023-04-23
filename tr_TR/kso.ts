@@ -17431,7 +17431,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"/>
+        <translation>Tam</translation>
     </message>
     <message>
         <source>Li&amp;ne spacing:</source>
