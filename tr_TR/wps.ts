@@ -6310,7 +6310,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"/>
+        <translation>Karakterleri Birleştir</translation>
     </message>
     <message>
         <source>&amp;Text (up to 6):</source>
@@ -16756,7 +16756,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"/>
+        <translation>Karakterleri Birleştir</translation>
     </message>
     <message>
         <source>Distributed</source>
