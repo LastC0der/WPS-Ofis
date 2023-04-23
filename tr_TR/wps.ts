@@ -29354,7 +29354,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
-        <translation type="unfinished"/>
+        <translation>Bel&amp;ge kılavuzu tanımlandığında kılavuza uydur</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
