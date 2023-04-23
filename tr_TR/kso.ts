@@ -17311,7 +17311,7 @@ Ekle</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Değer:</translation>
     </message>
     <message>
         <source>Left</source>
