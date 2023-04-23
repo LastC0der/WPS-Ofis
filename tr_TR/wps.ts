@@ -42546,7 +42546,7 @@ Ekle</translation>
     <name>KxDlgParagraphSetAsDef</name>
     <message>
         <source>Do you want to set the default alignment, indentation, and spacing of the paragraphs for:</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafların varsayılan hizalamasını, girintilerini ve aralığını ayarlamak istiyor musunuz? İlgili öğe:</translation>
     </message>
     <message>
         <source>&amp;This document only?</source>
