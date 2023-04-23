@@ -26816,7 +26816,7 @@ Numarası</translation>
     </message>
     <message>
         <source>After te&amp;xt:</source>
-        <translation type="unfinished"/>
+        <translation>Sa&amp;ğ:</translation>
     </message>
     <message>
         <source>Bottom</source>
