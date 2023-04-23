@@ -17403,7 +17403,7 @@ Ekle</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;kmeler...</translation>
     </message>
     <message>
         <source>Justified</source>
