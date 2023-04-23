@@ -712,7 +712,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>EquationNormalText.content</source>
-        <translation type="unfinished"/>
+        <translation>Matematiksel semboller alanında matematiksel olmayan metinler kullanın.</translation>
     </message>
     <message>
         <source>3DTiltLeft.content</source>
