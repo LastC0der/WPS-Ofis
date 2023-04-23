@@ -27012,7 +27012,7 @@ Numarası</translation>
     </message>
     <message>
         <source>A&amp;llow punctuation at the start of a line to compress</source>
-        <translation type="unfinished"/>
+        <translation>Sıkıştırılacak satırın başlangıcında noktalamaya i&amp;zin ver</translation>
     </message>
     <message>
         <source>Character spacing</source>
