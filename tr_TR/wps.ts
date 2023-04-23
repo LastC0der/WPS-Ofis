@@ -27052,7 +27052,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Befo&amp;re text:</source>
-        <translation>Metinden &amp;önce:</translation>
+        <translation>S&amp;ol:</translation>
     </message>
     <message>
         <source>Right-to-le&amp;ft</source>
