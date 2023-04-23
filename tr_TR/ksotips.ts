@@ -646,7 +646,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>InsertProcesson_Flow.title</source>
-        <translation>InsertProcesson_Flow</translation>
+        <translation>Akış çizelgesi ekle</translation>
     </message>
     <message>
         <source>ChangeAutoShape.title</source>
