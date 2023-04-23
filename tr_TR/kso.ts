@@ -17351,7 +17351,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Indentation</source>
-        <translation type="unfinished"/>
+        <translation>Girinti</translation>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
