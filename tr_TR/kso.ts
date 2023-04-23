@@ -17355,7 +17355,7 @@ Ekle</translation>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation type="unfinished"/>
+        <translation>İlk ve son karakterlerin denetimi için Asya k&amp;urallarını kullan</translation>
     </message>
     <message>
         <source>T&amp;ypography...</source>
