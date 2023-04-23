@@ -692,7 +692,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation type="unfinished"/>
+        <translation>Hareket halindeyken tüm belgelerinizi okuyun ve paylaşın</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.content</source>
