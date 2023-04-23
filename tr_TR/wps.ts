@@ -26788,7 +26788,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Automatically a&amp;djust right indent when document grid is defined</source>
-        <translation type="unfinished"/>
+        <translation>Belge kılavuzu tanı&amp;mlandığında sağ girintiyi otomatik olarak ayarla</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
