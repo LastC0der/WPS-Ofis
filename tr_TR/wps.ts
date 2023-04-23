@@ -9386,7 +9386,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;kmeler...</translation>
     </message>
     <message>
         <source>, Match Case</source>
@@ -10704,7 +10704,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>&amp;Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;kmeler</translation>
     </message>
     <message>
         <source>Separate text at</source>
