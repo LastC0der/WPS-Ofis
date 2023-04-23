@@ -21967,7 +21967,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"/>
+        <translation>İkisi Bir Satırda</translation>
     </message>
     <message>
         <source>Content Control Ungroup</source>
@@ -45849,7 +45849,7 @@ Kayıt</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"/>
+        <translation>İkisi Bir Satırda</translation>
     </message>
     <message>
         <source>&amp;Enclose in brackets:</source>
