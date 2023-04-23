@@ -26860,7 +26860,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Keep with ne&amp;xt</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;onraki ile birlikte tut</translation>
     </message>
     <message>
         <source>At least</source>
