@@ -17252,7 +17252,7 @@ Ekle</translation>
     </message>
     <message>
         <source>C&amp;haracter Spacing</source>
-        <translation type="unfinished"/>
+        <translation>Ka&amp;rakter aralığı</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
