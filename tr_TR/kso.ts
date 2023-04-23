@@ -17307,7 +17307,7 @@ Ekle</translation>
     </message>
     <message>
         <source>&amp;At:</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;eğer:</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
