@@ -26693,7 +26693,7 @@ Numarası</translation>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished"/>
+        <translation>En az</translation>
     </message>
     <message>
         <source>OutSide</source>
