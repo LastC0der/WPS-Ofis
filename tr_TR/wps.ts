@@ -2214,7 +2214,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Automatically adjust right indent when grid is defined</source>
-        <translation type="unfinished"/>
+        <translation>Belge kılavuzu tanımlandığında sağ girintiyi otomatik olarak ayarla</translation>
     </message>
     <message>
         <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
