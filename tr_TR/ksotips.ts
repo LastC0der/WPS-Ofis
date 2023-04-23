@@ -696,7 +696,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.content</source>
-        <translation>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</translation>
+        <translation>Dosyalar otomatik olarak WPS Ofis Bulut&apos;da ve WPS Ofis kullanılarak PC&apos;nizde ve mobil cihazlarınızda paylaşılır.</translation>
     </message>
     <message>
         <source>DescriptionDevelopmentTools.title</source>
