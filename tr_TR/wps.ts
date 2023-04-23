@@ -27048,7 +27048,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Page &amp;break before</source>
-        <translation type="unfinished"/>
+        <translation>Önce say&amp;fa sonu</translation>
     </message>
     <message>
         <source>Befo&amp;re text:</source>
