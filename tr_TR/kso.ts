@@ -17419,7 +17419,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"/>
+        <translation>Kat</translation>
     </message>
     <message>
         <source>Centered</source>
