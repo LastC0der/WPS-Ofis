@@ -26792,7 +26792,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
-        <translation type="unfinished"/>
+        <translation>Belge kılavuzu tanımlandığında kılavuza uydur</translation>
     </message>
     <message>
         <source>Automatically adjust spac&amp;e between Asian and Latin text</source>
