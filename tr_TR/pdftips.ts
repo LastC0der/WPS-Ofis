@@ -951,7 +951,7 @@
     </message>
     <message>
         <source>OS_PhoneShare.content</source>
-        <translation type="unfinished"/>
+        <translation>Hareket halindeyken tüm belgelerinizi okuyun ve paylaşın</translation>
     </message>
     <message>
         <source>Quick_PageDelete.title</source>
