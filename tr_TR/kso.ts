@@ -9668,7 +9668,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>spacing</source>
-        <translation type="unfinished"/>
+        <translation>Aralık</translation>
     </message>
     <message>
         <source>Flowchart: Sequential Access Storage</source>
