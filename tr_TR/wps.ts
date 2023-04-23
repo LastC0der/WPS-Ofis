@@ -380,7 +380,7 @@
     </message>
     <message>
         <source>line</source>
-        <translation>satır</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute the selected drawing objects horizontally</source>
