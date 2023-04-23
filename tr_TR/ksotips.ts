@@ -654,7 +654,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>PPTCustom.content</source>
-        <translation>PPTCustom content.</translation>
+        <translation>Profesyonel ekip, PPT&apos;yi sizin için özelleştirir.</translation>
     </message>
     <message>
         <source>Theme Effects.title</source>
