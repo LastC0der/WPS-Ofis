@@ -40729,7 +40729,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"/>
+        <translation>Karakterleri Birleştir</translation>
     </message>
     <message>
         <source>Phonetic Guide</source>
