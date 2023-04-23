@@ -26948,7 +26948,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Outline level:</source>
-        <translation type="unfinished"/>
+        <translation>Ana &amp;hat düzeyi:</translation>
     </message>
     <message>
         <source>Direction:</source>
