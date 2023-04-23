@@ -658,7 +658,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>Theme Effects.title</source>
-        <translation>Theme Effects</translation>
+        <translation>Tema Efektleri</translation>
     </message>
     <message>
         <source>InsertSymbol_Pro.title</source>
