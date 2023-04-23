@@ -700,7 +700,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>DescriptionDevelopmentTools.title</source>
-        <translation>Description</translation>
+        <translation>Geliştirici Araçları</translation>
     </message>
     <message>
         <source>QuickBarChartFilters.title</source>
