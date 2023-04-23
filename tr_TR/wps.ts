@@ -26944,7 +26944,7 @@ Numarası</translation>
     </message>
     <message>
         <source>L&amp;ine spacing:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;atır aralığı:</translation>
     </message>
     <message>
         <source>&amp;Outline level:</source>
