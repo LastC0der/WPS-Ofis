@@ -716,7 +716,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>3DTiltLeft.content</source>
-        <translation>Tilt the shape to the left.</translation>
+        <translation>Şekli sola doğru eğin.</translation>
     </message>
     <message>
         <source>CloudFormTip.content</source>
