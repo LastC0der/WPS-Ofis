@@ -27056,7 +27056,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Right-to-le&amp;ft</source>
-        <translation type="unfinished"/>
+        <translation>Sağdan s&amp;ola</translation>
     </message>
     <message>
         <source>Official Line Interval</source>
