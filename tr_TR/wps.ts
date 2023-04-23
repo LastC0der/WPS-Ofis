@@ -26812,7 +26812,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
-        <translation type="unfinished"/>
+        <translation>Asılı &amp;noktalama işaretlerine izin ver</translation>
     </message>
     <message>
         <source>After te&amp;xt:</source>
