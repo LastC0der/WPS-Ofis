@@ -777,7 +777,7 @@
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"/>
+        <translation>İkisi Bir Satırda</translation>
     </message>
     <message>
         <source>Double underline</source>
