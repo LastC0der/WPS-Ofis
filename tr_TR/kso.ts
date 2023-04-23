@@ -17399,7 +17399,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"/>
+        <translation>Aralık</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
