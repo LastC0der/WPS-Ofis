@@ -676,7 +676,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>BringForward2.content</source>
-        <translation>Bring the selected object forward one level or to the front of all objects.</translation>
+        <translation>Seçili nesneyi bir düzey öne veya tüm nesnelerin önüne getirmek için buraya tıklayın.</translation>
     </message>
     <message>
         <source>ChartStock.title</source>
