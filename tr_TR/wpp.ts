@@ -805,7 +805,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>&amp;Adjust title text by placeholder automatically</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;aşlık metnini yer tutucuya göre otomatik olarak ayarla</translation>
     </message>
     <message>
         <source>Ribbon options</source>
