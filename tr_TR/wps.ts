@@ -40066,7 +40066,7 @@ Okuma</translation>
     <name>KxDlgSortOptions</name>
     <message>
         <source>&amp;Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;kmeler</translation>
     </message>
     <message>
         <source>Sort Options</source>
