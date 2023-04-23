@@ -22653,7 +22653,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Reduce Indentation</source>
-        <translation type="unfinished"/>
+        <translation>Girintiyi Azalt</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
