@@ -33448,7 +33448,7 @@ Support title, content</source>
     </message>
     <message>
         <source>Allow ha&amp;nging punctuation</source>
-        <translation type="unfinished"/>
+        <translation>Asılı &amp;noktalama işaretlerine izin ver</translation>
     </message>
     <message>
         <source>10 x 20 (200 Words)</source>
