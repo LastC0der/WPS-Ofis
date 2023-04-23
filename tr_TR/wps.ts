@@ -1236,7 +1236,7 @@
     </message>
     <message>
         <source>At least </source>
-        <translation type="unfinished"/>
+        <translation>En az</translation>
     </message>
     <message>
         <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
