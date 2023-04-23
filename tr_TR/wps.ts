@@ -26916,7 +26916,7 @@ Numarası</translation>
     </message>
     <message>
         <source>&amp;Keep lines together</source>
-        <translation type="unfinished"/>
+        <translation>Satırları birli&amp;kte tut</translation>
     </message>
     <message>
         <source>First line</source>
