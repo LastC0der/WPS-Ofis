@@ -15814,7 +15814,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"/>
+        <translation>İkisi Bir Satırda</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -20185,7 +20185,7 @@ Changes</source>
     </message>
     <message>
         <source>Two Lines in One</source>
-        <translation type="unfinished"/>
+        <translation>İkisi Bir Satırda</translation>
     </message>
     <message>
         <source>More Font Colors</source>
