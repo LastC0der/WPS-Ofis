@@ -17367,7 +17367,7 @@ Ekle</translation>
     </message>
     <message>
         <source>1.5 Lines</source>
-        <translation type="unfinished"/>
+        <translation>1,5 satır</translation>
     </message>
     <message>
         <source>Aft&amp;er:</source>
