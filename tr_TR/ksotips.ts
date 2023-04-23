@@ -672,7 +672,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>ShadowOnOff.content</source>
-        <translation>Seçilen nesnenin gölge efektini açın veya kapatın.</translation>
+        <translation>Seçili nesnenin gölge efektini açın veya kapatın.</translation>
     </message>
     <message>
         <source>BringForward2.content</source>
