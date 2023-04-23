@@ -26960,7 +26960,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Multiple</source>
-        <translation type="unfinished"/>
+        <translation>Kat</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -27008,7 +27008,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation type="unfinished"/>
+        <translation>Tam</translation>
     </message>
     <message>
         <source>A&amp;llow punctuation at the start of a line to compress</source>
