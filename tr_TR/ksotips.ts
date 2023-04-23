@@ -662,7 +662,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>InsertSymbol_Pro.title</source>
-        <translation type="unfinished"/>
+        <translation>Simge ekle</translation>
     </message>
     <message>
         <source>ChartColumn.content</source>
