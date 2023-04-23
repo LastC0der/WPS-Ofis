@@ -708,7 +708,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>ChartGallery.content</source>
-        <translation>Chart Gallery content</translation>
+        <translation>Grafik Galerisi içeriği</translation>
     </message>
     <message>
         <source>EquationNormalText.content</source>
