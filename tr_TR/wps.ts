@@ -26796,7 +26796,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Automatically adjust spac&amp;e between Asian and Latin text</source>
-        <translation type="unfinished"/>
+        <translation>Asya ve Latinc&amp;e metin arasındaki boşluğu otomatik olarak ayarla</translation>
     </message>
     <message>
         <source>Line and &amp;Page Breaks</source>
