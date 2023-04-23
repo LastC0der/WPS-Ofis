@@ -650,7 +650,7 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>ChangeAutoShape.title</source>
-        <translation>Change Shapes</translation>
+        <translation>Şekil Değiştir</translation>
     </message>
     <message>
         <source>PPTCustom.content</source>
