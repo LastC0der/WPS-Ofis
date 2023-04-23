@@ -29444,7 +29444,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Use Asian rules for controlling first and last &amp;characters</source>
-        <translation type="unfinished"/>
+        <translation>İlk ve son &amp;karakterlerin denetimi için Asya kurallarını kullan</translation>
     </message>
     <message>
         <source>Allow Latin text to &amp;wrap in the middle of a word</source>
