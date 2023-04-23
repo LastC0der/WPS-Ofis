@@ -26800,7 +26800,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Line and &amp;Page Breaks</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;atır ve Sayfa Sonu</translation>
     </message>
     <message>
         <source>(None)</source>
