@@ -704,7 +704,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>QuickBarChartFilters.title</source>
-        <translation>Chart Filters</translation>
+        <translation>Grafik Filtreleri</translation>
     </message>
     <message>
         <source>ChartGallery.content</source>
