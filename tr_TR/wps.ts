@@ -4112,7 +4112,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;kmeler</translation>
     </message>
     <message>
         <source>Separate text with</source>
