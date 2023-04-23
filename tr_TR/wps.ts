@@ -26848,7 +26848,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Widow/Orphan &amp;control</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tek kalan satırları önle</translation>
     </message>
     <message>
         <source>Indentation</source>
