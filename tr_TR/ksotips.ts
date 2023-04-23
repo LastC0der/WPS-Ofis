@@ -666,7 +666,9 @@ Kaleminiz için bir renk seçmek üzere oka tıklayın.</translation>
     </message>
     <message>
         <source>ChartColumn.content</source>
-        <translation type="unfinished"/>
+        <translation>Birkaç kategorideki değerleri görsel olarak karşılaştırmak için bu grafik türünü kullanın.
+
+Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bir önizleme görmek için işaretçiyi simgelerin üzerinde tutun.</translation>
     </message>
     <message>
         <source>ShadowOnOff.content</source>
