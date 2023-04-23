@@ -26864,7 +26864,7 @@ Numarası</translation>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished"/>
+        <translation>En az</translation>
     </message>
     <message>
         <source>&amp;Special:</source>
@@ -29665,7 +29665,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>At least</source>
-        <translation type="unfinished"/>
+        <translation>En az</translation>
     </message>
     <message>
         <source>Options</source>
