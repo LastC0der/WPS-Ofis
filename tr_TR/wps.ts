@@ -27024,7 +27024,7 @@ Numarası</translation>
     </message>
     <message>
         <source>Automatically adjust &amp;space between Asian text and numbers</source>
-        <translation type="unfinished"/>
+        <translation>Asya metni ve numaralar arasında &amp;otomatik olarak boşluk ayarla</translation>
     </message>
     <message>
         <source>Ali&amp;gnment:</source>
