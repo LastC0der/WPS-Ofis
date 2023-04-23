@@ -20410,7 +20410,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"/>
+        <translation>Karakterleri Birleştir</translation>
     </message>
     <message>
         <source>FormatProof</source>
@@ -22803,7 +22803,7 @@ Denetimi</translation>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation type="unfinished"/>
+        <translation>Karakterleri Birleştir</translation>
     </message>
     <message>
         <source>Medium List 1</source>
