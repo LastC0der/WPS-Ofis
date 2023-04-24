@@ -724,7 +724,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>PictureSize.content</source>
-        <translation>Change the size, rotation degree and zoom scale of the selected shape.</translation>
+        <translation>Seçili şeklin boyutunu, dönme derecesini ve yakınlaştırma ölçeğini değiştirin.</translation>
     </message>
     <message>
         <source>ShadowColor2.content</source>
