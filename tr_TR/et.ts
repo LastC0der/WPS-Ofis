@@ -31762,7 +31762,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Page 1 Sheet1</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa 1 Yaprak1</translation>
     </message>
     <message>
         <source>Unit: Centimeters</source>
