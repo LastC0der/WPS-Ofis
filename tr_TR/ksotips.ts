@@ -720,7 +720,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>CloudFormTip.content</source>
-        <translation>Enjoy XiuTang.</translation>
+        <translation>Xiu Tang&apos;ın keyfini çıkarın.</translation>
     </message>
     <message>
         <source>PictureSize.content</source>
