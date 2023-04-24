@@ -4809,7 +4809,7 @@ Böl</translation>
     </message>
     <message>
         <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Düzeni Görünümü Bölmeleri Dondur seçeneğiyle uyumlu değil. Devam ederseniz, bu sayfadaki bölmeler çözülecek. Devam etmek istiyor musunuz?</translation>
     </message>
 </context>
 <context>
