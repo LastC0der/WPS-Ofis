@@ -33517,7 +33517,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>Önceki &amp;Boyut</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
