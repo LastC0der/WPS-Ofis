@@ -21387,7 +21387,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Binomial Theorem</source>
-        <translation type="unfinished"/>
+        <translation>Binom Teoremi</translation>
     </message>
 </context>
 <context>
