@@ -22882,7 +22882,8 @@ Sıralayıcısı</translation>
     </message>
     <message>
         <source>Annote As Pdf</source>
-        <translation>PDF Biçiminde Açıklama Ekle1</translation>
+        <translation>PDF Biçiminde 
+Açıklama Ekle</translation>
     </message>
     <message>
         <source>Text Box</source>
