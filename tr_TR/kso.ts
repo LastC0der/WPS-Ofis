@@ -21383,7 +21383,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Area of Circle</source>
-        <translation type="unfinished"/>
+        <translation>Daire Alanı</translation>
     </message>
     <message>
         <source>Binomial Theorem</source>
