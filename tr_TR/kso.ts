@@ -21367,7 +21367,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Expansion of a Sum</source>
-        <translation type="unfinished"/>
+        <translation>Toplamın Açılımı</translation>
     </message>
     <message>
         <source>Quadratic Formula</source>
