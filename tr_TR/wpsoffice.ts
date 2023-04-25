@@ -8424,7 +8424,7 @@ Sorry for the inconvenience.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>Önceki &amp;Boyut</translation>
     </message>
     <message>
         <source>&amp;Unshade</source>
