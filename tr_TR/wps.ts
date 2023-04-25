@@ -39009,7 +39009,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Indent Paragraph by 2 Characters</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafı 2 Karakter Girintilendir</translation>
     </message>
     <message>
         <source>Delete Blank Paragraph</source>
