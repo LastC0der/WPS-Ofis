@@ -38291,7 +38291,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Açılır Form Alanı</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -39696,7 +39696,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Açılır Form Alanı</translation>
     </message>
     <message>
         <source>Form Field Options</source>
