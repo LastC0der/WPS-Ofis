@@ -21396,7 +21396,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     </message>
     <message>
         <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
-        <translation type="unfinished"/>
+        <translation>Dikey metindeki onay kutusu veya açılır form alanı yoksayılır, bu nedenle gösterilemez.</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
