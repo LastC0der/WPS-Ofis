@@ -21375,11 +21375,11 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Trig Identity 1</source>
-        <translation type="unfinished"/>
+        <translation>Trigonometrik Özdeşlik 1</translation>
     </message>
     <message>
         <source>Trig Identity 2</source>
-        <translation type="unfinished"/>
+        <translation>Trigonometrik Özdeşlik 2</translation>
     </message>
     <message>
         <source>Area of Circle</source>
