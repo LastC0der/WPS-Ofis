@@ -39013,7 +39013,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Delete Blank Paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Boş Paragrafı Sil</translation>
     </message>
     <message>
         <source>Delete</source>
