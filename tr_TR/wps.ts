@@ -35686,7 +35686,7 @@ Açıklama</translation>
     </message>
     <message>
         <source>Annote As Pdf</source>
-        <translation type="unfinished"/>
+        <translation>PDF Biçiminde Açıklama Ekle</translation>
     </message>
     <message>
         <source>Text Box</source>
