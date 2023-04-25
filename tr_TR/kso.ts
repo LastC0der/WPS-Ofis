@@ -18976,7 +18976,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Batch Delete</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Sil</translation>
     </message>
     <message>
         <source>Clear Search</source>
