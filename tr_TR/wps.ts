@@ -39045,7 +39045,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Batch Delete</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Sil</translation>
     </message>
 </context>
 <context>
