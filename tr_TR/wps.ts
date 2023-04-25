@@ -35512,7 +35512,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Previou&amp;s</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;nceki</translation>
     </message>
     <message>
         <source>Matc&amp;h case</source>
