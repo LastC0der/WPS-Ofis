@@ -39021,7 +39021,7 @@ Temizle</translation>
     </message>
     <message>
         <source>Delete Spaces before First-line Indent</source>
-        <translation type="unfinished"/>
+        <translation>İlk satır girintisinden önceki Boşlukları Sil</translation>
     </message>
     <message>
         <source>Delete Soft Return</source>
