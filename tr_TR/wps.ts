@@ -18056,7 +18056,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Batch Delete</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Sil</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -34077,7 +34077,7 @@ Yeniden Adlandır</translation>
     </message>
     <message>
         <source>Batch Delete</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Sil</translation>
     </message>
     <message>
         <source>HeaderFooterGroup</source>
