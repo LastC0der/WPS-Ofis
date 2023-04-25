@@ -35587,7 +35587,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation>Arkadaşlara tavsiye edin</translation>
+        <translation>Arkadaşlarınıza tavsiye edin</translation>
     </message>
     <message>
         <source>Track
