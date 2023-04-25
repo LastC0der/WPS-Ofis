@@ -21355,7 +21355,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Fourier Series</source>
-        <translation type="unfinished"/>
+        <translation>Fourier Serisi</translation>
     </message>
     <message>
         <source>Pythagorean Theorem</source>
