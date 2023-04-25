@@ -28996,7 +28996,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Drop-Down Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Açılır Form Alanı Seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -33100,7 +33100,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Açılır Form Alanı</translation>
     </message>
     <message>
         <source>Comment</source>
