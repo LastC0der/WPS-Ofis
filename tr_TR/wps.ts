@@ -18695,7 +18695,7 @@ Kütüphanesi</translation>
     </message>
     <message>
         <source>ShortBatchDelete</source>
-        <translation type="unfinished"/>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Web Layout</source>
