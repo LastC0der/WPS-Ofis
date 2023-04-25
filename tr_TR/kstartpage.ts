@@ -3711,7 +3711,7 @@ This file may have been renamed, deleted or moved.</source>
     <name>KShareWpsWidget</name>
     <message>
         <source>Recommend WPS Office 2020 to friends</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;i arkadaşlarınıza tavsiye edin</translation>
     </message>
 </context>
 <context>
