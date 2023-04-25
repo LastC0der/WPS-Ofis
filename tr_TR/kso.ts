@@ -21359,7 +21359,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Pythagorean Theorem</source>
-        <translation type="unfinished"/>
+        <translation>Pisagor Teoremi</translation>
     </message>
     <message>
         <source>Taylor Expansion</source>
