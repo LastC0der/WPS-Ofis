@@ -14406,7 +14406,7 @@ Please batches operations</source>
     <name>KxPdfBatchSignatureProgress</name>
     <message>
         <source>Batch delete</source>
-        <translation type="unfinished"/>
+        <translation>Toplu olarak sil</translation>
     </message>
     <message>
         <source>Apply multi page</source>
