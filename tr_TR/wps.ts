@@ -32394,7 +32394,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecektir.</t
     </message>
     <message>
         <source>Use the drop-down lists to choose the field from your database that corresponds to the address information Mail Merge expects (listed on the left.)</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanından Adres Mektup Birleştirme&apos;nin gerektirdiği (solda listelenen) adres bilgilerine uygun alanı seçmek için açılır listeleri kullanın.</translation>
     </message>
 </context>
 <context>
