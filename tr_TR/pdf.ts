@@ -9537,7 +9537,7 @@ Okuma</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation>Arkadaşlara tavsiye edin</translation>
+        <translation>Arkadaşlarınıza tavsiye edin</translation>
     </message>
     <message>
         <source>HyperLink</source>
@@ -13416,7 +13416,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation>Arkadaşlara tavsiye edin</translation>
+        <translation>Arkadaşlarınıza tavsiye edin</translation>
     </message>
     <message>
         <source>Annotate</source>
@@ -13451,7 +13451,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation>Arkadaşlara tavsiye edin</translation>
+        <translation>Arkadaşlarınıza tavsiye edin</translation>
     </message>
     <message>
         <source>Form Filling</source>
