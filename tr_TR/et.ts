@@ -45461,7 +45461,7 @@ Number of values that were not replaced because they are in read-only rich data:
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;nceki Boyut</translation>
     </message>
     <message>
         <source>&amp;Criteria</source>
