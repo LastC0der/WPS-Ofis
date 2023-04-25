@@ -21371,7 +21371,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Quadratic Formula</source>
-        <translation type="unfinished"/>
+        <translation>İkinci Dereceden Formül</translation>
     </message>
     <message>
         <source>Trig Identity 1</source>
