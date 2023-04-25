@@ -52584,7 +52584,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>&amp;Restore Original Values</source>
-        <translation type="unfinished"/>
+        <translation>Özgün Değerlere &amp;Geri Yükle</translation>
     </message>
     <message>
         <source>&amp;Keep Solver Solution</source>
