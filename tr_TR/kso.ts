@@ -28679,7 +28679,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>Önceki &amp;Boyut</translation>
     </message>
     <message>
         <source>Restore</source>
@@ -33681,7 +33681,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>Önceki &amp;Boyut</translation>
     </message>
     <message>
         <source>&amp;Unshade</source>
