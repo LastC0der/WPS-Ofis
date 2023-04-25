@@ -22799,7 +22799,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation>Arkadaşlara tavsiye edin</translation>
+        <translation>Arkadaşlarınıza tavsiye edin</translation>
     </message>
     <message>
         <source>Notes Master</source>
