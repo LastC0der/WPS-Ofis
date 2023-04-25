@@ -16163,7 +16163,7 @@ WPS Ofis&apos;i kullanmak için lütfen oturum açın.</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation>Arkadaşlara tavsiye edin</translation>
+        <translation>Arkadaşlarınıza tavsiye edin</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
