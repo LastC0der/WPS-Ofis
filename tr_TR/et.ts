@@ -5461,7 +5461,7 @@ Sütunlar</translation>
     </message>
     <message>
         <source>Recommend to friends</source>
-        <translation>Arkadaşlara tavsiye edin</translation>
+        <translation>Arkadaşlarınıza tavsiye edin</translation>
     </message>
     <message>
         <source>Angle Counterclockwise</source>
