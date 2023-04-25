@@ -1499,7 +1499,7 @@
     </message>
     <message>
         <source>PdfSignatureDeleteBatch.content</source>
-        <translation type="unfinished"/>
+        <translation>Toplu Sil</translation>
     </message>
     <message>
         <source>ShapeFillColor.content</source>
