@@ -21363,7 +21363,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Taylor Expansion</source>
-        <translation type="unfinished"/>
+        <translation>Taylor Açılımı</translation>
     </message>
     <message>
         <source>Expansion of a Sum</source>
