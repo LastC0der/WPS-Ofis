@@ -22993,7 +22993,7 @@ Protection</source>
     </message>
     <message>
         <source>Drop-Down Form Field</source>
-        <translation type="unfinished"/>
+        <translation>Açılır Form Alanı</translation>
     </message>
     <message>
         <source>Do you want to delete the header and footer, and connect to the previous section?</source>
