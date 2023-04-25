@@ -5394,7 +5394,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"/>
+        <translation>Önceki &amp;Boyut</translation>
     </message>
     <message>
         <source>Restore</source>
