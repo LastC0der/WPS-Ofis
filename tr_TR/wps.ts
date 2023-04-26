@@ -2636,7 +2636,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>D&amp;rag-and-drop text editing</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sürükle/Bırak ile metin düzenle</translation>
     </message>
     <message>
         <source>Reenter &amp;password:</source>
