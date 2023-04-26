@@ -15412,7 +15412,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>Document exporting, please wait</source>
-        <translation type="unfinished"/>
+        <translation>Belge dışa aktarılıyor... Lütfen bekleyin.</translation>
     </message>
 </context>
 <context>
