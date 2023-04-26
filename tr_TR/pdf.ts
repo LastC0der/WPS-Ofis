@@ -12832,7 +12832,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Document exported successfully</source>
-        <translation type="unfinished"/>
+        <translation>Belge başarıyla dışa aktarıldı.</translation>
     </message>
     <message>
         <source>Open File</source>
