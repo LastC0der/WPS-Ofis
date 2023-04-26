@@ -12820,7 +12820,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Document exported failed</source>
-        <translation type="unfinished"/>
+        <translation>Belge dışa aktarılamadı.</translation>
     </message>
     <message>
         <source>Export Directory:</source>
