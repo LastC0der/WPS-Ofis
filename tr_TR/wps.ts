@@ -3548,7 +3548,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Type to replace the selected te&amp;xt</source>
-        <translation type="unfinished"/>
+        <translation>Seçili &amp;metni değiştirmek için yazın</translation>
     </message>
     <message>
         <source>Print initials</source>
