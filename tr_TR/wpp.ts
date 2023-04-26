@@ -334,7 +334,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Fore&amp;ground</source>
-        <translation type="unfinished"/>
+        <translation>Ö&amp;nalan</translation>
     </message>
     <message>
         <source>cbOrientation</source>
