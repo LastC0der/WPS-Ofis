@@ -2968,7 +2968,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Steps(Need restart program)</source>
-        <translation type="unfinished"/>
+        <translation>Adım (Programı yeniden başlatmanız gerekir)</translation>
     </message>
     <message>
         <source>Editing options</source>
