@@ -4196,7 +4196,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Export Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dışa Aktarma Dizini:</translation>
     </message>
     <message>
         <source>Document exporting</source>
