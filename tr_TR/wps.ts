@@ -3564,7 +3564,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Auto load default language &amp;IME</source>
-        <translation>Varsayılan dil &amp;IME&apos;sini otomatik yükle</translation>
+        <translation>Varsayılan &amp;IME dilini otomatik yükle</translation>
     </message>
     <message>
         <source>&amp;Close Backup</source>
