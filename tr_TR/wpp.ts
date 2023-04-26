@@ -713,7 +713,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Editing options</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme seçenekleri</translation>
     </message>
     <message>
         <source>&amp;Color/Grayscale:</source>
