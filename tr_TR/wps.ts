@@ -2972,7 +2972,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Editing options</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleme seçenekleri</translation>
     </message>
     <message>
         <source>Left border</source>
