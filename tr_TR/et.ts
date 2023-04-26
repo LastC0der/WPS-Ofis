@@ -35036,7 +35036,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Aç</translation>
     </message>
 </context>
 <context>
@@ -49054,7 +49054,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Aç</translation>
     </message>
     <message>
         <source>data contain title(&amp;H)</source>
