@@ -709,7 +709,7 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>Steps(Need restart program)</source>
-        <translation>Adım(Programı yeniden başlatmanız gerekir)</translation>
+        <translation>Adım(WPS&apos;yi yeniden başlatmanız gerekir)</translation>
     </message>
     <message>
         <source>Editing options</source>
