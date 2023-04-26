@@ -2437,7 +2437,7 @@ With &quot;Collaborative editing&quot;, you and your partner can edit the docume
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Aç</translation>
     </message>
     <message>
         <source>XML Files</source>
