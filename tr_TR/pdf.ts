@@ -12840,7 +12840,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Aç</translation>
     </message>
     <message>
         <source>Document exporting, please wait</source>
