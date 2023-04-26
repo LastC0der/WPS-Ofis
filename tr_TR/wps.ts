@@ -2704,7 +2704,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
-        <translation type="unfinished"/>
+        <translation>Akıllı paragraf se&amp;çimini kullan</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
