@@ -12824,7 +12824,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Export Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dışa Aktarma Dizini:</translation>
     </message>
     <message>
         <source>Cancel</source>
