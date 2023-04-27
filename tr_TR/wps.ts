@@ -44236,7 +44236,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>O&amp;utline Numbered</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırılmış &amp;Ana Hat</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
