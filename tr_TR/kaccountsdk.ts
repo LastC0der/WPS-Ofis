@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>We care about your data and user privacy, here is</source>
-        <translation type="unfinished"/>
+        <translation>Verilerinizi ve kullanıcı gizliliğinizi önemsiyoruz. Burada</translation>
     </message>
     <message>
         <source>Cancel</source>
