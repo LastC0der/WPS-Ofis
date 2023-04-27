@@ -4830,7 +4830,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Insert Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Numaralı Liste Ekle</translation>
     </message>
     <message>
         <source>Audio element playback controls and status display</source>
