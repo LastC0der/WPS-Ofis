@@ -44260,7 +44260,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>&amp;Numbered</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Numaralı</translation>
     </message>
 </context>
 <context>
