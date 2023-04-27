@@ -10271,7 +10271,7 @@ Kaydır</translation>
     </message>
     <message>
         <source>Customize Bulleted List</source>
-        <translation type="unfinished"/>
+        <translation>Madde İşaretli Listeyi Özelleştir</translation>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
