@@ -40919,7 +40919,7 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     </message>
     <message>
         <source>Import Custom Lists</source>
-        <translation type="unfinished"/>
+        <translation>Özel Listeleri İçe Aktar</translation>
     </message>
 </context>
 <context>
