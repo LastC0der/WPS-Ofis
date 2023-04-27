@@ -34920,7 +34920,7 @@ Aktar</translation>
     </message>
     <message>
         <source>Customize Outline Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Numaralandırılmış Ana Hat Listesini Özelleştir</translation>
     </message>
     <message>
         <source>Centered</source>
