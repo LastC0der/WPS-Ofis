@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Please read and continue.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen devam etmeden önce okuyun.</translation>
     </message>
     <message>
         <source>Terms of service</source>
