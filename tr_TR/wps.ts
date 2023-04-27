@@ -44248,7 +44248,7 @@ Try one or more of the following:
     </message>
     <message>
         <source>Custom &amp;List</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Özel Liste</translation>
     </message>
     <message>
         <source>List preview:</source>
