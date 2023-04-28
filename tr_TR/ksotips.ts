@@ -748,7 +748,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>EquationLargeOperatorGallery.content</source>
-        <translation type="unfinished"/>
+        <translation>Denkleme toplam, çarpım, birleşim veya kesişim gibi büyük bir operatör ekleyin.</translation>
     </message>
     <message>
         <source>WordArtSameLetterHeights.title</source>
