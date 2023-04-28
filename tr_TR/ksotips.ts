@@ -744,7 +744,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>InkDrawTouchToDraw.content</source>
-        <translation type="unfinished"/>
+        <translation>Dokunarak mürekkep çizin.</translation>
     </message>
     <message>
         <source>EquationLargeOperatorGallery.content</source>
