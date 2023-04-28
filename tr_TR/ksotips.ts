@@ -844,7 +844,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>PictureFill.content</source>
-        <translation>Fill the selected object with a color, gradient, pattern and picture.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Click the arrow to select different fill effects.</translation>
+        <translation>Seçili nesneyi bir renk, gradyan, desen ve resimle doldurun.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Farklı dolgu efektleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>WordArtFill.title</source>
