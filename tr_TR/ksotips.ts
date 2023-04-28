@@ -776,7 +776,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>3DDepthMenu.content</source>
-        <translation>Change the height of the selected 3-D shape.</translation>
+        <translation>Seçilen 3 boyutlu şeklin yüksekliğini değiştirin.</translation>
     </message>
     <message>
         <source>Print.title</source>
