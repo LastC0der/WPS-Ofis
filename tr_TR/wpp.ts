@@ -14378,7 +14378,7 @@ Master</source>
     </message>
     <message>
         <source>Black Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Gradyan</translation>
     </message>
     <message>
         <source>Circle Out</source>
