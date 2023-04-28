@@ -796,7 +796,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.title</source>
-        <translation>File Roaming</translation>
+        <translation>Dosya Dolaşımı</translation>
     </message>
     <message>
         <source>HardwareEncryption.title</source>
