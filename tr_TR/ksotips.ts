@@ -784,7 +784,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>TransformQuickBar.title</source>
-        <translation>Transform</translation>
+        <translation>Dönüştür</translation>
     </message>
     <message>
         <source>GraphicEffects.title</source>
