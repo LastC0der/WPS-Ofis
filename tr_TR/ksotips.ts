@@ -752,7 +752,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>WordArtSameLetterHeights.title</source>
-        <translation>Same Letter Heights</translation>
+        <translation>Aynı Harf Yükseklikleri</translation>
     </message>
     <message>
         <source>Theme Colors.content</source>
