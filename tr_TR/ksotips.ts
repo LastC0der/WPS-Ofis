@@ -828,7 +828,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>SwitchRowCol.title</source>
-        <translation>Make the selected text bold.</translation>
+        <translation>Satır/Sütun Değiştir</translation>
     </message>
     <message>
         <source>3DTiltLeft.title</source>
