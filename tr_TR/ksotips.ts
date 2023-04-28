@@ -788,7 +788,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>GraphicEffects.title</source>
-        <translation>Graphic Effects</translation>
+        <translation>Grafik Efektler</translation>
     </message>
     <message>
         <source>PictureCrop.content</source>
