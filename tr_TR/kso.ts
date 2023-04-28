@@ -9537,7 +9537,7 @@ Line-type: %3</source>
     </message>
     <message>
         <source>Black Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Siyah Gradyan</translation>
     </message>
     <message>
         <source>Folded Corner</source>
