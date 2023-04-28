@@ -804,7 +804,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>AddChartElements.content</source>
-        <translation>Add chart elements such as the title,legend,gridlines,and data labels.</translation>
+        <translation>Başlık, açıklama, kılavuz çizgileri ve veri etiketleri gibi grafik öğeleri ekleyin.</translation>
     </message>
     <message>
         <source>3DTiltRight.content</source>
