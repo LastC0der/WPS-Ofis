@@ -772,7 +772,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>3DTiltRight.title</source>
-        <translation>Tilt Right</translation>
+        <translation>Sağa Eğ</translation>
     </message>
     <message>
         <source>3DDepthMenu.content</source>
