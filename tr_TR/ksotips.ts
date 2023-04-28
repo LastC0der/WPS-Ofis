@@ -808,7 +808,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>3DTiltRight.content</source>
-        <translation>Tilt the shape to the right.</translation>
+        <translation>Şekli sağa doğru eğin.</translation>
     </message>
     <message>
         <source>Auto_Backup.content</source>
