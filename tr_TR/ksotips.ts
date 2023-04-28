@@ -832,7 +832,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>3DTiltLeft.title</source>
-        <translation>Tilt Left</translation>
+        <translation>Sola Eğ</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_WPSCloud.content</source>
