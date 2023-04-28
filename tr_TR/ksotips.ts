@@ -764,7 +764,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>ChartRadar.content</source>
-        <translation type="unfinished"/>
+        <translation>Farklı yüzey ve radar grafiği türlerini görmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>Auto_Backup_xa.title</source>
