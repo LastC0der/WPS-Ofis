@@ -792,7 +792,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>PictureCrop.content</source>
-        <translation>Crop the picture to remove any unwanted parts.</translation>
+        <translation>İstenmeyen kısımları çıkarmak için resmi kırpın.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_pro.title</source>
