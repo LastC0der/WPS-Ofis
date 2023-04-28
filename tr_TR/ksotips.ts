@@ -816,7 +816,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>EquationIntegralGallery.title</source>
-        <translation type="unfinished"/>
+        <translation>Integral</translation>
     </message>
     <message>
         <source>Cut.title</source>
