@@ -760,7 +760,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>SendBackward2.title</source>
-        <translation>Send Backward</translation>
+        <translation>Arkaya Gönder</translation>
     </message>
     <message>
         <source>ChartRadar.content</source>
