@@ -800,7 +800,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>HardwareEncryption.title</source>
-        <translation>Hardware Encryption</translation>
+        <translation>Donanım Şifrelemesi</translation>
     </message>
     <message>
         <source>AddChartElements.content</source>
