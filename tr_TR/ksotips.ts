@@ -732,7 +732,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>KOSRoamingfileTip_WPSCloud.title</source>
-        <translation>WPS Cloud</translation>
+        <translation>WPS Bulut</translation>
     </message>
     <message>
         <source>SmartArt MoveShape.content</source>
