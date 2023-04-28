@@ -736,7 +736,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>SmartArt MoveShape.content</source>
-        <translation type="unfinished"/>
+        <translation>Seçili SmartArt şeklinin veya metninin düzeyini veya sırasını değiştirin.</translation>
     </message>
     <message>
         <source>Ornamentation.content</source>
