@@ -812,7 +812,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>Auto_Backup.content</source>
-        <translation>Setting backup interval and path</translation>
+        <translation>Yedekleme yöntemini, dönemi ve kaydetme yolunu yapılandırın.</translation>
     </message>
     <message>
         <source>EquationIntegralGallery.title</source>
