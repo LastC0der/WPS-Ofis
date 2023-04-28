@@ -756,7 +756,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>Theme Colors.content</source>
-        <translation>Change the colors of current theme.</translation>
+        <translation>Geçerli temanın renklerini değiştirin.</translation>
     </message>
     <message>
         <source>SendBackward2.title</source>
