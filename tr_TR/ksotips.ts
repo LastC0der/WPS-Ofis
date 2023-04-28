@@ -840,7 +840,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>InkDrawPenGallery.content</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi, dalgalı çizgi veya dikdörtgen gibi seçili şekille çizim yapın. Genişliği ve şekli ayarlamak için düğmeyi yeniden tıklatın.</translation>
     </message>
     <message>
         <source>PictureFill.content</source>
