@@ -740,7 +740,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>Ornamentation.content</source>
-        <translation type="unfinished"/>
+        <translation>Geleneksel kültürel öğeler, eklenen grafikler aracılığıyla WPS&apos;ye entegre edilerek insanların eğitimine, çalışmasına ve yaşamına daha belirgin bir kültürel çekicilik katar.</translation>
     </message>
     <message>
         <source>InkDrawTouchToDraw.content</source>
