@@ -728,7 +728,7 @@ Farklı sütun grafiği türlerini görmek için oka tıklayın ve belgenizde bi
     </message>
     <message>
         <source>ShadowColor2.content</source>
-        <translation>Click the arrow to select different shadow colors.</translation>
+        <translation>Farklı gölge renkleri seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>KOSRoamingfileTip_WPSCloud.title</source>
