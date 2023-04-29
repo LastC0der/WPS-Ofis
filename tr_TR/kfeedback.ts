@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Top Questions</source>
-        <translation type="unfinished"/>
+        <translation>En Çok Sorulan Sorular</translation>
     </message>
 </context>
 <context>
