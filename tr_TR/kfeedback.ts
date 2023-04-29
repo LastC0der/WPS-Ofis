@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>StackedWidget</source>
-        <translation type="unfinished"/>
+        <translation>Yığılmış Bileşen</translation>
     </message>
     <message>
         <source>contact information</source>
