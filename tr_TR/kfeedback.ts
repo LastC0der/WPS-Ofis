@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Hated it</source>
-        <translation type="unfinished"/>
+        <translation>Nefret ettim</translation>
     </message>
     <message>
         <source>Didn&apos;t like it</source>
