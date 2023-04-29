@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>Just OK</source>
-        <translation type="unfinished"/>
+        <translation>Fena değil</translation>
     </message>
     <message>
         <source>Loved it</source>
