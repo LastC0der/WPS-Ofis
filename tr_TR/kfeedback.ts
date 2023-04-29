@@ -108,7 +108,7 @@
     </message>
     <message>
         <source>Loved it</source>
-        <translation>Sevdim</translation>
+        <translation>Bayıldım</translation>
     </message>
     <message>
         <source>Hated it</source>
