@@ -3,7 +3,7 @@
     <name>KTabbarRecommendWidget</name>
     <message>
         <source>Try</source>
-        <translation type="unfinished"/>
+        <translation>Dene</translation>
     </message>
 </context>
 <context>
