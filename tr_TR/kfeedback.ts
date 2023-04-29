@@ -170,7 +170,7 @@ Try another keyword.</source>
     <name>KxTabbarMoreHelpCommand</name>
     <message>
         <source>Help on &quot;%1&quot;</source>
-        <translation>&quot;%1&quot; hakkında yardım</translation>
+        <translation>&quot;%1&quot; ile ilgili beceriler</translation>
     </message>
 </context>
 <context>
