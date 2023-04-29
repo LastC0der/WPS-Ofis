@@ -108,7 +108,7 @@
     </message>
     <message>
         <source>Loved it</source>
-        <translation type="unfinished"/>
+        <translation>Sevdim</translation>
     </message>
     <message>
         <source>Hated it</source>
