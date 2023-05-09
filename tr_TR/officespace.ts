@@ -3229,7 +3229,7 @@ parola:%1</translation>
     </message>
     <message>
         <source>My Circle</source>
-        <translation type="unfinished"/>
+        <translation>Grubum</translation>
     </message>
     <message>
         <source>Save to Cloud</source>
