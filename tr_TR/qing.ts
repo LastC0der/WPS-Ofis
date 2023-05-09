@@ -7344,7 +7344,7 @@ Please verify the correct file name was given.</source>
     </message>
     <message>
         <source>%1 is not a valid name for a processing-instruction.</source>
-        <translation type="unfinished"/>
+        <translation>%1, işleme talimatı için geçerli bir ad değil.</translation>
     </message>
     <message>
         <source>%1 was called.</source>
