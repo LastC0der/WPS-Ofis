@@ -39681,7 +39681,7 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>If the number of rows in the data range changes upon refresh:</source>
-        <translation type="unfinished"/>
+        <translation>Veri aralığındaki satır sayısı yenilemeye bağlı olarak değişirse:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -39689,15 +39689,15 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>Data formatting and layout</source>
-        <translation type="unfinished"/>
+        <translation>Veri biçimlendirme ve yerleştirme</translation>
     </message>
     <message>
         <source>Refresh control</source>
-        <translation type="unfinished"/>
+        <translation>Yenileme denetimi</translation>
     </message>
     <message>
         <source>Pre&amp;serve formatting</source>
-        <translation type="unfinished"/>
+        <translation>Biçi&amp;mlendirmeyi koru</translation>
     </message>
     <message>
         <source>Timing&amp;Refresh</source>
