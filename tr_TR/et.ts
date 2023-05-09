@@ -39721,7 +39721,7 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>&amp;Overwrite existing cells with new data, clear unused cells</source>
-        <translation type="unfinished"/>
+        <translation>Va&amp;rolan hücrelerin üstüne yaz, kullanılmayan hücreleri sil</translation>
     </message>
 </context>
 <context>
