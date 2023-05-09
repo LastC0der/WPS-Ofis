@@ -51028,7 +51028,7 @@ prior to sharing the workbook.</source>
     </message>
     <message>
         <source>Sort &amp;top to bottom</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yukarıdan aşağıya sırala</translation>
     </message>
     <message>
         <source>Sort &amp;left to right</source>
