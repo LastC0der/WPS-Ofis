@@ -49664,7 +49664,7 @@ Değer: </translation>
     </message>
     <message>
         <source>Pre&amp;set</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Önayar</translation>
     </message>
     <message>
         <source>V&amp;ariants</source>
