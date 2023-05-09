@@ -28797,7 +28797,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>My Circle</source>
-        <translation type="unfinished"/>
+        <translation>Grubum</translation>
     </message>
     <message>
         <source>Last open path</source>
@@ -34881,7 +34881,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>My Circle</source>
-        <translation type="unfinished"/>
+        <translation>Grubum</translation>
     </message>
     <message>
         <source>WPS Remote</source>
