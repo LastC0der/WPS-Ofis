@@ -29621,7 +29621,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>My Circle</source>
-        <translation type="unfinished"/>
+        <translation>Grubum</translation>
     </message>
     <message>
         <source>My Cloud Document</source>
