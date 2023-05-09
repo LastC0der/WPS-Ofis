@@ -39717,7 +39717,7 @@ Use * represent any number of character</source>
     </message>
     <message>
         <source>Insert entire ro&amp;ws for new data, clear unused cells</source>
-        <translation type="unfinished"/>
+        <translation>Yeni veri için ta&amp;m satır ekle, kullanılmayan hücreleri sil</translation>
     </message>
     <message>
         <source>&amp;Overwrite existing cells with new data, clear unused cells</source>
