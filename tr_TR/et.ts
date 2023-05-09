@@ -51822,7 +51822,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>&amp;Top to Bottom</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yukarıdan Aşağıya</translation>
     </message>
 </context>
 <context>
