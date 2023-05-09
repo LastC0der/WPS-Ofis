@@ -51829,7 +51829,7 @@ Kontrol Et</translation>
     <name>KxCustomViewsDlg</name>
     <message>
         <source>Some view settings could not be applied.</source>
-        <translation type="unfinished"/>
+        <translation>Bazı görünüm ayarları uygulanamaz.</translation>
     </message>
     <message>
         <source>Do you wish to delete the view &apos;%1&apos;?</source>
