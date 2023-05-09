@@ -51833,7 +51833,7 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Do you wish to delete the view &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; görünümünü silmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Custom Views</source>
