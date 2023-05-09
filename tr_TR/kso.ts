@@ -22453,7 +22453,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Pre&amp;set</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Önayar</translation>
     </message>
     <message>
         <source>&amp;Other Texture...</source>
