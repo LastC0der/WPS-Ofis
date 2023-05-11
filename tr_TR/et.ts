@@ -13351,7 +13351,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Sorts a range or array.</source>
-        <translation type="unfinished"/>
+        <translation>Bir aralığın veya dizinin içeriğini sıralar.</translation>
     </message>
     <message>
         <source>Searchs a range or an array for a match and returns the corresponding item from a second range or array. By default,an exact match is used.</source>
