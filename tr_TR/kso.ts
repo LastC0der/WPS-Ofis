@@ -16987,11 +16987,11 @@ Ekle</translation>
     </message>
     <message>
         <source>Vertical(right to left)</source>
-        <translation type="unfinished"/>
+        <translation>Dikey (sağdan sola)</translation>
     </message>
     <message>
         <source>Vertical(left to right)</source>
-        <translation type="unfinished"/>
+        <translation>Dikey (soldan sağa)</translation>
     </message>
     <message>
         <source>Right-to-left</source>
