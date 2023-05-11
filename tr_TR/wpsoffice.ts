@@ -1888,7 +1888,7 @@ Log in to enjoy more WPS Office editing functions and services.</source>
     </message>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"/>
+        <translation>SSS</translation>
     </message>
 </context>
 <context>
