@@ -14939,7 +14939,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"/>
+        <translation>SSS</translation>
     </message>
     <message>
         <source>Cut</source>
