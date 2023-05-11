@@ -7359,7 +7359,7 @@ Okuma</translation>
     <name>popupmenu</name>
     <message>
         <source>FAQ</source>
-        <translation type="unfinished"/>
+        <translation>SSS</translation>
     </message>
     <message>
         <source>Help</source>
