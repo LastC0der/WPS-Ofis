@@ -17007,7 +17007,7 @@ Ekle</translation>
     </message>
     <message>
         <source>Wide Margins</source>
-        <translation type="unfinished"/>
+        <translation>Geniş Kenar Boşlukları</translation>
     </message>
     <message>
         <source>&amp;Top margin</source>
