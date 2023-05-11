@@ -23296,7 +23296,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Apply to Master</source>
-        <translation type="unfinished"/>
+        <translation>Ana Slayta Uygula</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
@@ -29231,7 +29231,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ana Slayta Uygula</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
@@ -29317,7 +29317,7 @@ Asıl Slayt</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ana Slayta Uygula</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
