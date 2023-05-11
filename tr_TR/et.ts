@@ -34594,7 +34594,7 @@ Dondur</translation>
     </message>
     <message>
         <source>Vertical(right to left)</source>
-        <translation type="unfinished"/>
+        <translation>Dikey (sağdan sola)</translation>
     </message>
     <message>
         <source>Vertical(left to right)</source>
