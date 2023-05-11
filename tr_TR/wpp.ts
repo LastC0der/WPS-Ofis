@@ -23335,7 +23335,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Apply to Master</source>
-        <translation type="unfinished"/>
+        <translation>Ana Slayta Uygula</translation>
     </message>
     <message>
         <source>Rehearse This Slide</source>
