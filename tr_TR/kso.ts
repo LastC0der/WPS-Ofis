@@ -41562,7 +41562,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçili Ana Slaytlara Uygula</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
