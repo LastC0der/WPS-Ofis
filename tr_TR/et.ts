@@ -13323,7 +13323,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Returns the unique values from a range of array.</source>
-        <translation type="unfinished"/>
+        <translation>Bir dizi aralığından benzersiz değerleri döndürür.</translation>
     </message>
     <message>
         <source>Filter a range or array.</source>
