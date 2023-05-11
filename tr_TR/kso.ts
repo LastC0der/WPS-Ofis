@@ -41558,7 +41558,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ana Slayta Uygula</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
