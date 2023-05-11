@@ -10581,7 +10581,7 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
     </message>
     <message>
         <source>Wide Margins</source>
-        <translation type="unfinished"/>
+        <translation>Geniş Kenar Boşlukları</translation>
     </message>
     <message>
         <source>&amp;Top margin</source>
