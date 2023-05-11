@@ -23300,7 +23300,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
-        <translation type="unfinished"/>
+        <translation>Seçili slaytlara uygula</translation>
     </message>
     <message>
         <source>Apply to All Slides</source>
@@ -23351,7 +23351,7 @@ Güvenliği</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
-        <translation type="unfinished"/>
+        <translation>Seçili slaytlara uygula</translation>
     </message>
     <message>
         <source>Click to change slides</source>
