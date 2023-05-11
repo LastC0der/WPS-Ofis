@@ -13319,7 +13319,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Returns a sequence of numbers.</source>
-        <translation type="unfinished"/>
+        <translation>Bir sayı dizisi döndürür.</translation>
     </message>
     <message>
         <source>Returns the unique values from a range of array.</source>
