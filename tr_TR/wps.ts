@@ -37345,7 +37345,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Relat&amp;ive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Göreli</translation>
     </message>
     <message>
         <source>Right Margin</source>
