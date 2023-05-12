@@ -37255,7 +37255,7 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>&amp;Checkbox</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Onay kutusu</translation>
     </message>
     <message>
         <source>Rich text content controls cannot be mapped when they are nested within other mapped rich text content controls.</source>
