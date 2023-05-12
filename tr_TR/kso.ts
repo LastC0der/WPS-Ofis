@@ -28270,7 +28270,7 @@ Ortalama</translation>
     </message>
     <message>
         <source>degree, 0, -3600, 3600, 1</source>
-        <translation type="unfinished"/>
+        <translation>derece, 0, -3600, 3600, 1</translation>
     </message>
     <message>
         <source>cbResolution</source>
