@@ -20067,7 +20067,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Moderate Effect</source>
-        <translation type="unfinished"/>
+        <translation>Orta Efekt</translation>
     </message>
     <message>
         <source>Bending Picture Semi-Transparent Text</source>
