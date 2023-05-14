@@ -20071,7 +20071,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Bending Picture Semi-Transparent Text</source>
-        <translation type="unfinished"/>
+        <translation>Dönen Resim Yarı Saydam Metin</translation>
     </message>
     <message>
         <source>Use to show a progression or a sequence of stages, tasks, or events in a circular flow. Emphasizes the interconnected pieces. Each of the first seven lines of Level 1 text corresponds to a wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
@@ -20087,7 +20087,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Stacked List</source>
-        <translation type="unfinished"/>
+        <translation>Yığın Listesi</translation>
     </message>
     <message>
         <source>Stacked Venn</source>
