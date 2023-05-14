@@ -20091,7 +20091,7 @@ Yolu ve dosya adını kontrol edin.</translation>
     </message>
     <message>
         <source>Stacked Venn</source>
-        <translation type="unfinished"/>
+        <translation>Yığın Venn</translation>
     </message>
     <message>
         <source>Use to show a descending process with multiple steps and sub-steps. Works best with small amounts of text.</source>
