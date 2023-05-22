@@ -4872,7 +4872,7 @@ Are you sure you want to save it in this format ?</source>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
-        <translation type="unfinished"/>
+        <translation>Sözcükleri silerken hata oluşuyor.</translation>
     </message>
     <message>
         <source>Arc Down</source>
