@@ -5574,7 +5574,7 @@ This change will affect all the new documents based on the %s template.</source>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
-        <translation type="unfinished"/>
+        <translation>Sözcükleri silerken hata oluşuyor.</translation>
     </message>
     <message>
         <source>Time &amp;Format:</source>
