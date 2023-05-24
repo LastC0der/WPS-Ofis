@@ -1372,7 +1372,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>TranslateAll load Fail</source>
-        <translation type="unfinished"/>
+        <translation>Çeviri aracı yüklenemedi.</translation>
     </message>
     <message>
         <source>Signer cert is valid.</source>
