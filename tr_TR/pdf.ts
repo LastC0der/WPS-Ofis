@@ -1376,7 +1376,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Signer cert is valid.</source>
-        <translation type="unfinished"/>
+        <translation>İmzalayanın kimliği geçerlidir.</translation>
     </message>
     <message>
         <source>New BIO failed.</source>
