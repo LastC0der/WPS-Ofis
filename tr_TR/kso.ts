@@ -25688,7 +25688,7 @@ Possible reasons:
     </message>
     <message>
         <source>Missing EULA, this means you are using an incomplete product.&lt;br/&gt;Please get a new one from &lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;offical website&lt;/a&gt;, and don&apos;t modify it.</source>
-        <translation type="unfinished"/>
+        <translation>EULA&apos;nın eksik olması, tamamlanmamış bir ürün kullandığınız anlamına gelir.&lt;br/&gt;Lütfen resmi web sitesinden&lt;a href=&quot;http://wps-community.org/download.html&quot;&gt;yeni bir tane alın&lt;/a&gt;, ve değiştirmeyin.</translation>
     </message>
     <message>
         <source>Privacy Agreement</source>
