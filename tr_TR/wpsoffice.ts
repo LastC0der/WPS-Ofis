@@ -729,7 +729,7 @@
     </message>
     <message>
         <source>Community</source>
-        <translation type="unfinished"/>
+        <translation>Topluluk</translation>
     </message>
     <message>
         <source>Audio Random Play</source>
