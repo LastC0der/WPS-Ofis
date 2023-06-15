@@ -14691,7 +14691,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Break Text Box Link</source>
-        <translation type="unfinished"/>
+        <translation>Metin Kutusu Bağlantısını Kes</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
