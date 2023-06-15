@@ -7849,7 +7849,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Create Link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur</translation>
     </message>
     <message>
         <source>Kingsoft PDF Community</source>
