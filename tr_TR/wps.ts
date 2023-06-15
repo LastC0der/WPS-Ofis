@@ -17877,7 +17877,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Search Material</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme Ara</translation>
     </message>
     <message>
         <source>Accept Formatting Changes</source>
