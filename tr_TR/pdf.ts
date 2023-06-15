@@ -13162,7 +13162,7 @@ Gezintisi</translation>
     </message>
     <message>
         <source>Create Link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Oluştur</translation>
     </message>
     <message>
         <source>Underline</source>
