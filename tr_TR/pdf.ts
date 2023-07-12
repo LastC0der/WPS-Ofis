@@ -2591,7 +2591,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>all page</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sayfalar</translation>
     </message>
     <message>
         <source>insertwatermark</source>
