@@ -5392,7 +5392,7 @@ Input 5-9 page 5 to page 9</source>
     </message>
     <message>
         <source>all page</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sayfalar</translation>
     </message>
 </context>
 <context>
