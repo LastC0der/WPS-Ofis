@@ -4616,7 +4616,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>Please enter a page range</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen sayfa numarasını girin</translation>
     </message>
     <message>
         <source>All page</source>
