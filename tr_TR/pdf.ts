@@ -14512,7 +14512,7 @@ Silinen sayfalar kurtarılamaz</translation>
     </message>
     <message>
         <source>all page</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sayfalar</translation>
     </message>
     <message>
         <source>The network is abnormal. Please check the network status and try again</source>
