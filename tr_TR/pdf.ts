@@ -4620,7 +4620,7 @@ log in to save changes?</source>
     </message>
     <message>
         <source>All page</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <source>Message</source>
