@@ -8676,7 +8676,7 @@ Eklentileri</translation>
     </message>
     <message>
         <source>Tab_Insertion</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Grab Polygon</source>
