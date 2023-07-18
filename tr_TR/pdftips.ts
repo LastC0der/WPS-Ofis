@@ -1525,7 +1525,7 @@ Farklı dolgu efektlerini seçmek için oka tıklayın.</translation>
     </message>
     <message>
         <source>InsertBorder.title</source>
-        <translation>Ekle</translation>
+        <translation>Metin ekle</translation>
     </message>
     <message>
         <source>ShapeFillColor.title</source>
