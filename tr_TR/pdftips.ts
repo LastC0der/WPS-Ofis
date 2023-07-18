@@ -1047,7 +1047,7 @@
     </message>
     <message>
         <source>Quick_PageInsert.title</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>PDFAddText.content</source>
