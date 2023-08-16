@@ -3860,19 +3860,35 @@ Haga clic en la flecha para seleccionar diferentes colores de marcador.</transla
         <translation>Muestra u oculta la navegación en el panel.</translation>
     </message>
     <message>
-        <source>PCLaTeXEquation.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>PCLaTeXEquation.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.content</source>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
