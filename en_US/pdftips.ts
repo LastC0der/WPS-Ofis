@@ -2273,99 +2273,35 @@ Click the arrow to select color.</translation>
         <translation>Rotate 90 degrees to the right</translation>
     </message>
     <message>
-        <source>ViewFitSwitch.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>OcrArea.content</source>
-        <translation>Recognize text in the selected area of an image and make it editable and searchable.</translation>
-    </message>
-    <message>
-        <source>AlignJustify.content</source>
-        <translation>Distribute your text evenly between the margins.</translation>
-    </message>
-    <message>
-        <source>NewPDFBatchPrint.content</source>
-        <translation>Batch print settings and batch printing for multiple PDF documents</translation>
-    </message>
-    <message>
-        <source>PdfPictureToText.content</source>
-        <translation>Use OCR to make a scanned PDF document editable and searchable.</translation>
-    </message>
-    <message>
-        <source>TwoPageScrolling.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SinglePageScrolling.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>TwoPageScrolling.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>ShowFloatToolBar.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>OcrArea.title</source>
-        <translation>OCR Area</translation>
-    </message>
-    <message>
-        <source>ShowFloatToolBar.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>TwoPageView.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>CustomRotateDegree.title</source>
-        <translation>Custom Rotation</translation>
-    </message>
-    <message>
-        <source>CustomRotateDegree.content</source>
-        <translation>Rotate objects to any angle.</translation>
-    </message>
-    <message>
-        <source>PdfPictureToText.title</source>
-        <translation>OCR</translation>
-    </message>
-    <message>
-        <source>BatchRename.title</source>
-        <translation>Batch Rename Files</translation>
-    </message>
-    <message>
-        <source>NewPDFBatchPrint.title</source>
-        <translation>Batch PDF Printing</translation>
-    </message>
-    <message>
-        <source>ViewFitSwitch.content</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>SinglePageScrolling.title</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>BatchRename.content</source>
-        <translation>Batch rename files with set rules</translation>
-    </message>
-    <message>
-        <source>SinglePageView.content</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>AlignJustify.title</source>
-        <translation>Justify</translation>
-    </message>
-    <message>
-        <source>SinglePageView.title</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>TwoPageView.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
