@@ -3206,36 +3206,36 @@ Seçili verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
         <translation>Sırala</translation>
     </message>
     <message>
-        <source>QuickOrientation.title</source>
-        <translation>Yönlendirme</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>QuickOrientation.content</source>
-        <translation>Hücrelerdeki metin yönünü hızla döndürün.</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>StrikeThroughHome.content</source>
-        <translation>Seçili metnin ortasından geçen bir çizgi çizin.</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>PCLaTeXEquation.title</source>
-        <translation>LaTeX</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.title</source>
-        <translation>Dosyaları Toplu Olarak Yeniden Adlandırın</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>PCLaTeXEquation.content</source>
-        <translation>Formülleri hızla düzenlemek ve eklemek için LaTeX&apos;i kullanın.</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>StrikeThroughHome.title</source>
-        <translation>Üstü Çizili</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.content</source>
-        <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
