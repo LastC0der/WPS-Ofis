@@ -48,14 +48,6 @@
         <source>warning</source>
         <translation>Avertissement</translation>
     </message>
-    <message>
-        <source>success</source>
-        <translation>Conversion réussie.</translation>
-    </message>
-    <message>
-        <source>waiting</source>
-        <translation>Veuillez patienter.</translation>
-    </message>
 </context>
 <context>
     <name>KLiteMessageContentDlg</name>
@@ -214,10 +206,6 @@ Pour l&apos;activer, enregistrez les données et redémarrer le logiciel WPS.</t
     <message>
         <source>Dropbox</source>
         <translation>Dropbox</translation>
-    </message>
-    <message>
-        <source>The company&apos;s files can only be saved to that company</source>
-        <translation>Les fichiers de l&apos;entreprise ne peuvent être enregistrés que dans cette entreprise.</translation>
     </message>
 </context>
 <context>
@@ -442,18 +430,6 @@ Pour l&apos;activer, enregistrez les données et redémarrer le logiciel WPS.</t
         <source>Search Title</source>
         <translation>Résultats de la recherche sur l&apos;&quot;ordinateur&quot;</translation>
     </message>
-    <message>
-        <source>Shares received of cloud disk</source>
-        <translation>Partage reçu</translation>
-    </message>
-    <message>
-        <source>ShareFolder</source>
-        <translation>Dossier partagé</translation>
-    </message>
-    <message>
-        <source>Group Space of cloud disk</source>
-        <translation>Mes équipes</translation>
-    </message>
 </context>
 <context>
     <name>KSearchEngine</name>
@@ -560,10 +536,6 @@ Pour l&apos;activer, enregistrez les données et redémarrer le logiciel WPS.</t
     <message>
         <source>This feature requires core support library,</source>
         <translation>Cette fonctionnalité nécessite la bibliothèque d&apos;assistance principale.</translation>
-    </message>
-    <message>
-        <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -681,10 +653,6 @@ Pour l&apos;activer, enregistrez les données et redémarrer le logiciel WPS.</t
     <message>
         <source>File Type(T):</source>
         <translation>Type de fichier (T) :</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>&amp;Ouvrir</translation>
     </message>
 </context>
 <context>
@@ -904,596 +872,38 @@ Ce fichier n&apos;a pas été téléchargé dans Cloud. Veuillez le télécharge
     </message>
 </context>
 <context>
-    <name>KSevenDaysFreeWidgetV3</name>
+    <name/>
     <message>
-        <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Order Error</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>You have subscribed the VIP service.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Your payment has been cancelled.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Try again.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>There is something abnormal with your WPS account. The subscription failed.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Restore Failed</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Privacy policies</source>
+        <source/>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Try again</source>
-        <translation>Réessayer</translation>
-    </message>
-    <message>
-        <source>Purchase Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resume Now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>There is something abnormal with your WPS account. The Purchase failed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No network connection, please check whether the network connection is normal first.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subscription Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Congratulations to join WPS VIP family!</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KVipOpeningWidget</name>
-    <message>
-        <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Transactions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Welcome to WPS VIP family.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Welcome to Docer VIP family.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Welcome to Super VIP family.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>10 minutes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Order Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You have subscribed the VIP service.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Try again.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Restore Failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start Now</source>
-        <translation>Démarrer maintenant</translation>
-    </message>
-    <message>
-        <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resume Now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Payment failed</source>
-        <translation>Échec du paiement</translation>
-    </message>
-    <message>
-        <source>.</source>
-        <translation>.</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>retry</source>
-        <translation>Réessayer</translation>
-    </message>
-    <message>
-        <source>Customer Service</source>
-        <translation>Service client</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuler</translation>
-    </message>
-    <message>
-        <source>Resume</source>
-        <translation>Reprendre</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Confirmer</translation>
-    </message>
-</context>
-<context>
-    <name>KVipUpgradeDialog</name>
-    <message>
-        <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Continue to Buy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Order Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You have subscribed the VIP service.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Try again.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>There is something abnormal with your WPS account. The subscription failed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Restore Failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Buy Coupons</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Purchase Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resume Now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>There is something abnormal with your WPS account. The Purchase failed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No network connection, please check whether the network connection is normal first.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subscription Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Payment failed</source>
-        <translation>Échec du paiement</translation>
-    </message>
-    <message>
-        <source>Congratulations to join WPS VIP family!</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>.</source>
-        <translation>.</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>retry</source>
-        <translation>Réessayer</translation>
-    </message>
-    <message>
-        <source>Customer Service</source>
-        <translation>Service client</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuler</translation>
-    </message>
-    <message>
-        <source>Network Error</source>
-        <translation>Erreur réseau</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation>Confirmer</translation>
-    </message>
-</context>
-<context>
-    <name>KVUHelper</name>
-    <message>
-        <source>Includes all privileges of WPS VIP and Docer VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel any time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Join VIP to learn 220+ courses andaudio lessons for free.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>EduCourse VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS VIP+Docer VIP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>10 minutes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Super VIP</source>
-        <translation>Super VIP</translation>
-    </message>
-    <message>
-        <source>Docer VIP</source>
-        <translation>Docer VIP</translation>
-    </message>
-    <message>
-        <source>Excellent office resource for Docer VIP, including templates, learning materials, etc. that help both in school and office work</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Coupons</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS VIP</source>
-        <translation>WPS VIP</translation>
-    </message>
-    <message>
-        <source>Free</source>
-        <translation>Gratuite</translation>
-    </message>
-</context>
-<context>
-    <name>KVipUpgradeRightWidget</name>
-    <message>
-        <source>Issue invoice</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Call 4006775005 to issue invoice.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Privacy policies</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resume now</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More</source>
-        <translation>Autres</translation>
-    </message>
-    <message>
-        <source>Customer Service</source>
-        <translation>Service client</translation>
-    </message>
-    <message>
-        <source>Terms of service</source>
-        <translation>Conditions d&amp;apos;utilisation</translation>
-    </message>
-</context>
-<context>
-    <name>KUserInfoRequester</name>
-    <message>
-        <source>Account Type</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Expiration Date</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>AccountID</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KThirdCloudInitPage</name>
-    <message>
-        <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
-        <translation>Après avoir autorisé WPS Office, vous pouvez accéder à vos fichiers enregistrés dans le cloud tiers et les gérer.</translation>
-    </message>
-    <message>
-        <source>Authorize</source>
-        <translation>Autoriser</translation>
-    </message>
-</context>
-<context>
-    <name>KUploadLimitBubble</name>
-    <message>
-        <source>Upgrade VIP and upload</source>
-        <translation>Effectuer la mise à niveau vers la version VIP et télécharger</translation>
-    </message>
-    <message>
-        <source>Sync failed</source>
-        <translation>Échec de la synchronisation</translation>
-    </message>
-    <message>
-        <source>Upload failed, your WPS cloud space is full</source>
-        <translation>Échec du téléchargement. Votre espace cloud WPS est plein</translation>
-    </message>
-    <message>
-        <source>File exceeds %1 upload limit</source>
-        <translation>Le fichier n&apos;est pas synchronisé. La taille du fichier dépasse la limite de téléchargement de %1.</translation>
-    </message>
-    <message>
-        <source>Please clean up files in time</source>
-        <translation>Nettoyez les fichiers à temps</translation>
-    </message>
-    <message>
-        <source>Got it</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>K7DaysRetainWidget</name>
-    <message>
-        <source>Common problem</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Give up the free trial</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLiteQrCodeWidget</name>
-    <message>
-        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation>Pour toute question, appelez le service client WPS %1 ou numérisez le code QR du service client sur le côté gauche.</translation>
-    </message>
-</context>
-<context>
-    <name>KAppLoadFailedWindow</name>
-    <message>
-        <source>Network exception, %1 failed to load</source>
-        <translation>Exception réseau, échec du chargement de %1</translation>
-    </message>
-</context>
-<context>
-    <name>KVipUpgradeWaitingPage</name>
-    <message>
-        <source>Upgrading
-please wait</source>
-        <translation>Mise à niveau en cours
-veuillez patienter</translation>
-    </message>
-    <message>
-        <source>Wait a moment...</source>
-        <translation>Patientez un instant…</translation>
-    </message>
-    <message>
-        <source>Receiving</source>
-        <translation>Réception en cours</translation>
-    </message>
-    <message>
-        <source>Processing...</source>
-        <translation>Traitement…</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuler</translation>
-    </message>
-</context>
-<context>
-    <name>KWhatIsNewWidgetStartPage</name>
-    <message>
-        <source>Welcome to WPS Office for Mac</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Start</source>
-        <translation>Démarrage</translation>
-    </message>
-</context>
-<context>
-    <name>KActivityWidget</name>
-    <message>
-        <source>Dont remind me</source>
-        <translation>Ne plus me le rappeler</translation>
-    </message>
-    <message>
-        <source>close</source>
-        <translation>Fermer</translation>
-    </message>
-</context>
-<context>
-    <name>KDisclaimerDialog</name>
-    <message>
-        <source>Tips：One AppleID can only qualify once</source>
-        <translation>Conseils : vous ne pouvez qualifier qu&apos;un seul AppleID à la fois</translation>
-    </message>
-</context>
-<context>
-    <name>KAppLoadWindow</name>
-    <message>
-        <source>Load failed</source>
-        <translation>Échec de la lecture</translation>
-    </message>
-    <message>
-        <source>Loading %1, please wait</source>
-        <translation>Chargement de %1. Veuillez patienter.</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation>Confirmer</translation>
-    </message>
-    <message>
-        <source>Background</source>
-        <translation>Arrière-plan</translation>
-    </message>
-</context>
-<context>
-    <name>KVipPrivilegeComparisonWidget</name>
-    <message>
-        <source>Super VIP</source>
-        <translation>Super VIP</translation>
-    </message>
-    <message>
-        <source>Docer VIP</source>
-        <translation>Docer VIP</translation>
-    </message>
-    <message>
-        <source>WPS VIP</source>
-        <translation>WPS VIP</translation>
-    </message>
-</context>
-<context>
-    <name>KGuideUpgradeVipDlg</name>
-    <message>
-        <source> Upgrade </source>
-        <translation> Mettre à niveau </translation>
-    </message>
-</context>
-<context>
-    <name>KLiteUpdateMessageDlg</name>
-    <message>
-        <source>Remind me tomorrow</source>
-        <translation>Me le rappeler demain</translation>
-    </message>
-    <message>
-        <source>More</source>
-        <translation>Autres</translation>
-    </message>
-    <message>
-        <source>Install</source>
-        <translation>Installer</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation>Ignorer</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Redémarrer</translation>
-    </message>
-</context>
-<context>
-    <name>KLiteWaitingWidget</name>
-    <message>
-        <source>resource loading...</source>
-        <translation>Chargement de la ressource…</translation>
-    </message>
-</context>
-<context>
-    <name>KSevenDaysFreeWidget</name>
-    <message>
-        <source>Free trial for 7 days</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KVipUpgradeLeftWidget</name>
-    <message>
-        <source>More</source>
-        <translation>Autres</translation>
-    </message>
-</context>
-<context>
-    <name>K7DFreeVipPrivilegeTableWidget</name>
-    <message>
-        <source>Privilege</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KLiteUpdateMessageDlgWhenExpire</name>
-    <message>
-        <source>Download</source>
-        <translation>Télécharger</translation>
-    </message>
-</context>
-<context>
-    <name>KUnionVipWidget</name>
-    <message>
-        <source>Don&apos;t show again</source>
-        <translation>Ne plus afficher</translation>
     </message>
 </context>
 </TS>
