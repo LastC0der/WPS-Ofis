@@ -3068,35 +3068,35 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>QuickOrientation.title</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>QuickOrientation.content</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StrikeThroughHome.content</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PCLaTeXEquation.title</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>BatchRename.title</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PCLaTeXEquation.content</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StrikeThroughHome.title</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>BatchRename.content</source>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
 </context>

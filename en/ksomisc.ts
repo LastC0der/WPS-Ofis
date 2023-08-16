@@ -103,18 +103,6 @@
         <source>Do not &amp;update automatically (not recommended)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Association settings when upgrading: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upgrade package download acceleration:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KSwitchAllInOneDlg</name>
@@ -176,14 +164,6 @@
     </message>
     <message>
         <source>Old Multi-Component Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switching WPS Office to %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are already in this mode, no need to switch.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -296,10 +276,6 @@
     </message>
     <message>
         <source>Privacy policy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Proxy Settings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -515,30 +491,6 @@ These operations can be undone. </source>
         <source>Compat Setting</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open the following software with Kingsoft PDF by default:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pdf Document(*.pdf)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KPageRebuild</name>
@@ -656,23 +608,6 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>Reset plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Failed to register WPS Pdf
-</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1228,10 +1163,6 @@ These operations can be undone. </source>
         <source>Some files is in use, please save and close. Then try again.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KLinkInfoList</name>
@@ -1383,22 +1314,6 @@ These operations can be undone. </source>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use WPS Official to edit and play presentations.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Link to network to update Kingsoft PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Cloud USB Drive</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -1448,19 +1363,6 @@ You can fix the errors encountered when using WPS Office or make advanced settin
         <source>Start &amp;Repairing</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>General Repair/Configuration Tools
-You can fix the errors encountered when using %1 or make advanced settings here.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 General Repair/Configuration Tools</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KPageBackUpClr</name>
@@ -1502,10 +1404,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
     </message>
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1616,10 +1514,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
     </message>
     <message>
         <source>DOC Documentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New PDF</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1747,14 +1641,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
         <source>Kingsoft Mobi</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Kingsoft PDF Professional</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>KFunctionCustomization</name>
@@ -1780,14 +1666,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
     </message>
     <message>
         <source>Disable template recommend.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2057,6 +1935,41 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     </message>
     <message>
         <source>New document tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name></name>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source></source>
         <translation type="unfinished"></translation>
     </message>
 </context>
