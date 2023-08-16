@@ -376,510 +376,6 @@
         <source>Launch Media</source>
         <translation>Medienspieler starten</translation>
     </message>
-    <message>
-        <source>CD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DOS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WWW</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Book</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>News</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Send</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shop</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>XFer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>View</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Split Screen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Eject</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kanji</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Music</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Phone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reply</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sleep</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Tools</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Video</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hiragana</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wireless</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Multiple Candidate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zenkaku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Rewind</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Repeat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Toggle Call/Hangup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zoom In</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Camera Shutter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ultra Wide Band</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Special</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Media Pause</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Word Processor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kana Shift</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Meeting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Menu PB</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Brightness Up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul PostHanja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kana Lock</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Community</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Random Play</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Henkan</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Home Office</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last Number Redial</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Logoff</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Market</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Massyo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Option</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Romaji</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Travel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WebCam</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hiragana Katakana</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Top Menu</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hot Links</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Cycle Track</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zoom Out</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>iTouch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Previous Candidate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Toggle Media Play/Pause</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Eisu Shift</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Code input</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Camera Focus</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Adjust Brightness</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Spreadsheet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Eisu toggle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Brightness Down</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Grab</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Monitor Brightness Up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Battery</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Katakana</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hibernate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Application Left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Voice Dial</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Browser</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Menu</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Back Forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Light On/Off</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Mail Forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Messenger</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Banja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Hanja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Start</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rotation KB</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rotation PB</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calculator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Support</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Suspend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Romaja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>My Sites</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rotate Windows</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Touroku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zenkaku Hankaku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Jeonja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subtitle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Jamo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bluetooth</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Muhenkan</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Screensaver</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Spellchecker</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul PreHanja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Terminal</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add Favorite</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Finance</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Task Panel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wake Up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Power Off</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>LightBulb</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hankaku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul End</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Monitor Brightness Down</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Application Right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pictures</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QPrintDialog</name>
@@ -1221,14 +717,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
         <source>B7 (88 x 125 mm)</source>
         <translation>B7 (88 x 125 mm)</translation>
     </message>
-    <message>
-        <source>Print current page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QDateTimeEdit</name>
@@ -1308,18 +796,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Are you sure to cancel sync to local path?</source>
-        <translation>Bestätigen Sie, dass Sie die Synchronisierung mit einem lokalen Pfad abbrechen möchten?</translation>
-    </message>
-    <message>
-        <source>Remove sync files</source>
-        <translation>Auch synchronisierte Dateien entfernen</translation>
-    </message>
-    <message>
-        <source>After the synchronization is cancelled, the folder will no longer be synchronized locally. You can open the WPS network disk to continue to access the cloud files</source>
-        <translation>Nachdem die Synchronisierung abgebrochen wurde, wird der Ordner nicht mehr mit einem lokalen Pfad synchronisiert. Sie können den WPS-Netzwerkdatenträger öffnen, um weiterhin auf Dateien in der Cloud zuzugreifen.</translation>
     </message>
 </context>
 <context>
@@ -1410,12 +886,6 @@ Bitte wählen Sie einen anderen Dateinamen.</translation>
     <message>
         <source>filename cannot be empty.</source>
         <translation>Dateiname darf nicht leer sein.</translation>
-    </message>
-    <message>
-        <source>This may cause the file to be inaccessable.
-Are you sure to modify?</source>
-        <translation>Wenn Sie eine Dateinamenerweiterung ändern, wird die Datei möglicherweise unbrauchbar.
-Möchten Sie die Änderung wirklich vornehmen?</translation>
     </message>
 </context>
 <context>
@@ -1603,14 +1073,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
         <source>Cancel upload</source>
         <translation>Upload abbrechen</translation>
     </message>
-    <message>
-        <source>Cloud storage has been full</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please clean up some duplicate unimportant files</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>LogoutTipContent</name>
@@ -1625,10 +1087,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>Transferring file. Logout will terminate the transfer.Are you sure to sign out?</source>
         <translation>Datei wird übertragen. Mit der Abmeldung wird die Übertragung beendet. Sind Sie sicher?</translation>
-    </message>
-    <message>
-        <source>WPS Cloud had file not uploaded successfully, logout will clear the cache, please check.Are you sure to sign out?</source>
-        <translation>Der WPS Cloud Storage enthält eine Datei, die nicht erfolgreich hochgeladen wurde. Der Cache wird geleert, nachdem Sie sich abgemeldet haben. Bitte überprüfen Sie dies und laden Sie die Datei erneut hoch. Möchten Sie sich wirklich abmelden?</translation>
     </message>
 </context>
 <context>
@@ -1797,22 +1255,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>Hide Details...</source>
         <translation>Details ausblenden ...</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2549,195 +1991,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
         <source>Upgrade members can enjoy high-speed download.</source>
         <translation>Mitglieder mit Upgrade können Downloads mit hoher Geschwindigkeit nutzen.</translation>
     </message>
-    <message>
-        <source>rename failded</source>
-        <translation>Umbenennen fehlgeschlagen.</translation>
-    </message>
-    <message>
-        <source>Please close the currently opened files to ensure that all files can be synchronized to the cloud</source>
-        <translation>Schließen Sie die geöffneten Dateien, um sicherzustellen, dass alle Dateien mit der Cloud synchronisiert werden können.</translation>
-    </message>
-    <message>
-        <source>There is already a file with the same name</source>
-        <translation>Es existiert bereits eine Datei mit demselben Namen.</translation>
-    </message>
-    <message>
-        <source>failed to cancel item star</source>
-        <translation>Fehler bei der Aufhebung der Markierung des Elements mit einem Sternchen.</translation>
-    </message>
-    <message>
-        <source>The network is abnormal. Please check your network Settings</source>
-        <translation>Netzwerkausnahme. Überprüfen Sie Ihre Netzwerkeinstellungen.</translation>
-    </message>
-    <message>
-        <source>failed to create group</source>
-        <translation>Fehler beim Erstellen eines Teams.</translation>
-    </message>
-    <message>
-        <source>local sync folder expired tip</source>
-        <translation>Erinnerung an die abgelaufene Funktion zur Synchronisierung lokaler Ordner für eine begrenzte Zeit kostenlos</translation>
-    </message>
-    <message>
-        <source>get local sync folder freelimit privilege tip</source>
-        <translation>Sie haben die Erlaubnis erhalten, die Funktion zur Synchronisierung lokaler Ordner zu verwenden.</translation>
-    </message>
-    <message>
-        <source>WPS network disk - synchronous folder</source>
-        <translation>WPS Cloud Storage ─ Synchronisierungsordner</translation>
-    </message>
-    <message>
-        <source>failed to get group invite link</source>
-        <translation>Fehler beim Abrufen des Team-Einladungslinks.</translation>
-    </message>
-    <message>
-        <source>No permission, author forbids document download</source>
-        <translation>Keine Berechtigung. Der Autor verbietet das Herunterladen von Dokumenten.</translation>
-    </message>
-    <message>
-        <source>These files will be moved to the system recycle bin. Under Windows 7, if there is insufficient space in the recycle bin, some files will be completely deleted</source>
-        <translation>Diese Dateien werden in den Papierkorb des Systems verschoben. Unter Windows 7 werden einige Dateien vollständig gelöscht, wenn nicht genügend Speicherplatz im Papierkorb vorhanden ist.</translation>
-    </message>
-    <message>
-        <source>SaveAs file succeed</source>
-        <translation>Datei erfolgreich gespeichert.</translation>
-    </message>
-    <message>
-        <source>Shared folders cannot be nested</source>
-        <translation>Gemeinsame Ordner können nicht in dieses Verzeichnis verschoben werden.</translation>
-    </message>
-    <message>
-        <source>Cannot set &quot;%1&quot; as a sync folder. Please change the folder name and try again</source>
-        <translation>Fehler beim Festlegen von „%1“ als Synchronisierungsordner. Benennen Sie den Ordner um und versuchen Sie es erneut.</translation>
-    </message>
-    <message>
-        <source>This team owner&apos;s cloud space is full</source>
-        <translation>Der Cloud-Speicher dieses Teambesitzers ist voll
-</translation>
-    </message>
-    <message>
-        <source>This file belong to [%1], not allow to copy or cut to other location</source>
-        <translation>Diese Datei gehört zu [%1] und kann nicht an einen anderen Speicherort kopiert oder verschoben werden.</translation>
-    </message>
-    <message>
-        <source>How to fix</source>
-        <translation>Wie repariere ich das?</translation>
-    </message>
-    <message>
-        <source>cache dir space not enough</source>
-        <translation>Nicht genügend Speicherplatz im Cache-Verzeichnis.</translation>
-    </message>
-    <message>
-        <source>Get transfer record failed.</source>
-        <translation>Fehler beim Abrufen der Details zu den Übertragungsdatensätzen.</translation>
-    </message>
-    <message>
-        <source>content infos of the freelimit privilege tip, and get %1 days privilege to use</source>
-        <translation>Sie haben die Erlaubnis erhalten, den lokalen Ordner %1 Tage lang automatisch mit Cloud Docs zu synchronisieren. Wenn diese Funktion aktiviert ist, sind Ihre Dateien jederzeit und überall auf dem neuesten Stand.</translation>
-    </message>
-    <message>
-        <source>Failed to set synchronize folder</source>
-        <translation>Fehler beim Festlegen des Synchronisierungsordners.</translation>
-    </message>
-    <message>
-        <source>failed to set item star</source>
-        <translation>Fehler beim Markieren des Elements mit einem Sternchen.</translation>
-    </message>
-    <message>
-        <source>new I see</source>
-        <translation>Verstanden</translation>
-    </message>
-    <message>
-        <source>The currently selected folder cannot be set to a synchronous directory,please select again</source>
-        <translation>Der aktuell ausgewählte Ordner kann nicht als Synchronisierungsverzeichnis festgelegt werden. Bitte treffen Sie erneut eine Auswahl.</translation>
-    </message>
-    <message>
-        <source>freelimit privilege recover sync folder</source>
-        <translation>Sehr geehrtes Super Premium-Mitglied, die Funktion zur Synchronisierung lokaler Ordner wurde für Sie wieder aufgenommen. Sie können sie nach Bedarf einsetzen.</translation>
-    </message>
-    <message>
-        <source>This folder directory already contains the synchronization folder, please select again</source>
-        <translation>Dieses Verzeichnis enthält bereits den Synchronisierungsordner. Bitte treffen Sie erneut eine Auswahl.</translation>
-    </message>
-    <message>
-        <source>No internet connection. Upload interrupted.</source>
-        <translation>Keine Internetverbindung. Upload unterbrochen.</translation>
-    </message>
-    <message>
-        <source>For the selected directory, desktop cloud synchronization is on, this path cannot be synchronized at this time</source>
-        <translation>Desktop-Cloud-Synchronisierung wurde für das ausgewählte Verzeichnis aktiviert. Dieser Pfad kann nicht synchronisiert werden.</translation>
-    </message>
-    <message>
-        <source>This folder is included in the sync folder. The sync folder cannot be nested</source>
-        <translation>Dieser Ordner ist im Synchronisierungsordner enthalten. Der Synchronisierungsordner unterstützt keine Schachtelung.</translation>
-    </message>
-    <message>
-        <source>The folder has been Shared. Please unshare the folder and try again</source>
-        <translation>Der Ordner wurde freigegeben. Brechen Sie die Ordnerfreigabe ab und versuchen Sie es erneut.</translation>
-    </message>
-    <message>
-        <source>No internet connection. Download interrupted.</source>
-        <translation>Keine Internetverbindung. Download unterbrochen.</translation>
-    </message>
-    <message>
-        <source>Later we will restart the resource manager to show the status of the synchronized files. The restart will not lose any files, but will close the folder window that has been opened</source>
-        <translation>Später werden wir den Explorer neu starten, um den Status der synchronisierten Dateien anzuzeigen. Der Neustart führt nicht zum Verlust von Dateien, sondern schließt das geöffnete Ordnerfenster.</translation>
-    </message>
-    <message>
-        <source>This folder has been set as a sync folder. Please do not add it again</source>
-        <translation>Dieser Ordner wurde als Synchronisierungsordner festgelegt. Fügen Sie ihn nicht wiederholt hinzu.</translation>
-    </message>
-    <message>
-        <source>freelimit privilege expired stop sync folder</source>
-        <translation>Nach Ablauf der Frist wird die Synchronisierungsfunktion ausgesetzt, und die Datenänderungen in dem Ordner werden nicht in der Cloud aktualisiert. Sie können ein Upgrade auf Super Premium durchführen, um diese Funktion weiterhin zu verwenden.</translation>
-    </message>
-    <message>
-        <source>The folder has been synchronized. Please unsynchronize the folder and try again</source>
-        <translation>Der Ordner wurde synchronisiert. Brechen Sie die Ordnersynchronisierung ab und versuchen Sie es erneut.</translation>
-    </message>
-    <message>
-        <source>cache path too long to download this file, Please retry after change it</source>
-        <translation>Der Cache-Pfad überschreitet das Limit. Ändern Sie den Pfad und versuchen Sie es erneut.</translation>
-    </message>
-    <message>
-        <source>WPS cloud disk can not start</source>
-        <translation>WPS Cloud Storage kann nicht gestartet werden.</translation>
-    </message>
-    <message>
-        <source>Currently, a maximum of %1 synchronized folders are supported</source>
-        <translation>Sie können bis zu %1-Synchronisierungsordner hinzufügen.</translation>
-    </message>
-    <message>
-        <source>failed to change member role</source>
-        <translation>Fehler beim Ändern der Berechtigungen der Teammitglieder.</translation>
-    </message>
-    <message>
-        <source>The current device is using ARM64 architecture, so this function cannot be used for the time being. We have understood the problem and are evaluating it, please wait for the subsequent update</source>
-        <translation>Das aktuelle Gerät verwendet die ARM64-Architektur, sodass diese Funktion vorerst nicht genutzt werden kann. Wir sind uns dieses Problems bewusst und werten es aus. Bitte warten Sie auf die nächste Aktualisierung.</translation>
-    </message>
-    <message>
-        <source>local sync folder freelimit privilege recover tip</source>
-        <translation>Die Synchronisierungsfunktion des lokalen Ordners wurde wiederhergestellt.</translation>
-    </message>
-    <message>
-        <source>File occupied, rename failed</source>
-        <translation>Datei belegt. Das Umbenennen der Datei ist fehlgeschlagen.</translation>
-    </message>
-    <message>
-        <source>My Compnay Doc</source>
-        <translation>Meine Unternehmensdokumente</translation>
-    </message>
-    <message>
-        <source>&quot;%1&quot; duplicates a previous role name and will be disabled.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PulseAudio Sound Server</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>invalid query: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QPlatformTheme</name>
@@ -2828,10 +2081,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
         <source>Are you sure to exit?</source>
         <translation>Möchten Sie wirklich beenden?</translation>
     </message>
-    <message>
-        <source>Transferring file. Exiting the program will terminate the transfer.</source>
-        <translation>Die Übertragung läuft. Wenn Sie das Programm beenden, werden alle laufenden Dateiübertragungen gestoppt.</translation>
-    </message>
 </context>
 <context>
     <name>SwitchTipContent</name>
@@ -2842,14 +2091,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Transferring file. Switch user will terminate the transfer.</source>
-        <translation>Die Übertragung läuft. Die Umschaltung des Benutzers stoppt alle laufenden Dateiübertragungen.</translation>
-    </message>
-    <message>
-        <source>Are you sure to switch user?</source>
-        <translation>Möchten Sie den Benutzer wirklich wechseln?</translation>
     </message>
 </context>
 <context>
@@ -3089,10 +2330,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
         <source>Unsynchronized documents backup completed</source>
         <translation>Sicherung nicht synchronisierter Dokumente abgeschlossen</translation>
     </message>
-    <message>
-        <source>For the security of your documents, documents that are not synchronized to the cloud in your &quot;my cloud documents&quot; have been transferred to &quot;my enterprise documents&quot;.</source>
-        <translation>Um die Sicherheit Ihrer Dokumente zu gewährleisten, wurden Dokumente in „Meine Cloud-Dokumente“, die nicht mit der Cloud synchronisiert werden, in „Meine Unternehmensdokumente“ übertragen.</translation>
-    </message>
 </context>
 <context>
     <name>KQingEnterpriseUserRightsDlg</name>
@@ -3135,24 +2372,12 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
         <source>Create a copy</source>
         <translation>Kopie erstellen</translation>
     </message>
-    <message>
-        <source>Replace file</source>
-        <translation>Datei ersetzen</translation>
-    </message>
 </context>
 <context>
     <name>KWpsKicSwitchMsgBox</name>
     <message>
         <source>Ok</source>
         <translation>OK</translation>
-    </message>
-    <message>
-        <source>Go to WPS Office configuration tool</source>
-        <translation>Zu WPS Office-Konfigurationstools navigieren</translation>
-    </message>
-    <message>
-        <source>You have hidden the WPS cloud document function menu in the WPS Office configuration tool, if you need to open it, go to the ksomisc.exe to open the switch.</source>
-        <translation>Bevor Sie die Funktion aktivieren, müssen Sie die Einstellung „WPS Cloud-Dokumentfunktion ausblenden“ in den Konfigurationstools deaktivieren.</translation>
     </message>
 </context>
 <context>
@@ -3164,18 +2389,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>After opening, the documents opened locally will be automatically synchronized to your personal cloud space, and you can continue to access them on other devices.</source>
-        <translation>Wenn diese Funktion aktiviert ist, werden lokal geöffnete Dokumente automatisch mit Ihrem persönlichen Cloud-Speicherplatz synchronisiert, so dass Sie auch auf anderen Geräten auf sie zugreifen können.</translation>
-    </message>
-    <message>
-        <source>Open CloudDoc sync</source>
-        <translation>Synchronisierung von Cloud-Dokumenten aktivieren </translation>
-    </message>
-    <message>
-        <source>The current account is [Temporary Login]. Do you want to continue to enable the document cloud sync?</source>
-        <translation>Das aktuelle Konto lautet [Vorübergehende Anmeldung]. Möchten Sie die Funktion für die Synchronisierung von Cloud-Dokumenten fortsetzen?</translation>
     </message>
 </context>
 <context>
@@ -3191,10 +2404,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>If you feel that the WPS office assistant&apos;s operating rules do not meet your expectations, you can go to the cloud service settings panel to set it up.</source>
-        <translation>Wenn Sie der Meinung sind, dass die Regeln für den Betrieb des WPS Office-Assistenten nicht Ihren Erwartungen entsprechen,&lt;br&gt;können Sie diese im Bereich „Einstellungen für Cloud-Dienste“ festlegen.</translation>
     </message>
 </context>
 <context>
@@ -3281,18 +2490,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>WPS Cloud Disk</source>
         <translation>WPS Cloud-Datenträger</translation>
-    </message>
-    <message>
-        <source>upload file failed for exceeding %1 limit,upgrade super vip for upload exceeding file</source>
-        <translation>Die zu synchronisierende Datei überschreitet das Größenlimit von %1. Führen Sie ein Upgrade auf Super Premium durch, um die Synchronisierung fortzusetzen.</translation>
-    </message>
-    <message>
-        <source>upload file failed for exceeding %1 limit,upgrade vip for upload exceeding file</source>
-        <translation>Die zu synchronisierende Datei überschreitet das Größenlimit von %1. Führen Sie ein Upgrade auf WPS Premium durch, um die Synchronisierung fortzusetzen.</translation>
-    </message>
-    <message>
-        <source>Your cloud space was full,increase cloud space for continue synchronization</source>
-        <translation>Ihr Cloud-Speicher ist voll. Erweitern Sie den Cloud-Speicher, um die Synchronisierung fortzusetzen.</translation>
     </message>
 </context>
 <context>
@@ -3392,42 +2589,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
         <source>Shut down</source>
         <translation>Herunterfahren</translation>
     </message>
-    <message>
-        <source>2. You can also log back in, login complete will automatically go off-line the earliest login device</source>
-        <translation>2. Sie können sich ebenfalls erneut anmelden. Nachdem Sie sich erfolgreich angemeldet haben, wird die Verbindung mit dem zuerst angemeldeten Gerät automatisch getrennt.</translation>
-    </message>
-    <message>
-        <source>1. Remove the login device that is not commonly used, go to</source>
-        <translation>1. Um Anmeldegeräte zu entfernen, die nicht häufig verwendet werden, navigieren Sie zu</translation>
-    </message>
-    <message>
-        <source>tempdevmax</source>
-        <translation>Vorübergehende Geräte überschreiten den Grenzwert.</translation>
-    </message>
-    <message>
-        <source>The same account can be trusted login on %1 PC devices at most, due to reaching the upper limit, the current device will be automatically offline</source>
-        <translation>Ein und dasselbe Konto kann auf höchstens %1 der PC-Geräte vertrauenswürdig und angemeldet sein. Das obere Limit ist erreicht, und das aktuelle Gerät wird automatisch getrennt.</translation>
-    </message>
-    <message>
-        <source>The number of login devices under your account has reached the maximum limit, the current device is automatically offline</source>
-        <translation>Die Anzahl der angemeldeten Geräte unter Ihrem Konto hat die Höchstgrenze erreicht, und das aktuelle Gerät wird automatisch getrennt.</translation>
-    </message>
-    <message>
-        <source>overdevmax</source>
-        <translation>Das Limit für das angemeldete Gerät wurde überschritten.</translation>
-    </message>
-    <message>
-        <source>trustdevmax</source>
-        <translation>Vertrauenswürdige Geräte überschreiten das Limit.</translation>
-    </message>
-    <message>
-        <source>Sign back in</source>
-        <translation>Erneut anmelden</translation>
-    </message>
-    <message>
-        <source>The same account can be temporarily login on %1 PC devices at most, due to reaching the upper limit, the current device will be automatically offline</source>
-        <translation>Ein und dasselbe Konto kann vorübergehend auf höchstens %1 der PC-Geräte angemeldet werden. Das obere Limit ist erreicht, und das aktuelle Gerät wird automatisch getrennt.</translation>
-    </message>
 </context>
 <context>
     <name>QPrintSettingsOutput</name>
@@ -3506,14 +2667,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>Duplex Printing</source>
         <translation>Duplexdruck</translation>
-    </message>
-    <message>
-        <source>Current Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Color mode</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3601,10 +2754,6 @@ Möchten Sie die Änderung wirklich vornehmen?</translation>
     <message>
         <source>Export to PostScript</source>
         <translation>PostScript exportieren</translation>
-    </message>
-    <message>
-        <source>Print Setup</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3861,26 +3010,6 @@ Datei nicht gefunden.
         <source>Detail View</source>
         <translation>Detailansicht</translation>
     </message>
-    <message>
-        <source>System link to special</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>System link to file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>System link to directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>System link</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QErrorMessage</name>
@@ -4109,10 +3238,6 @@ Datei nicht gefunden.
     <message>
         <source>Gurmukhi</source>
         <translation>Gurmukhi</translation>
-    </message>
-    <message>
-        <source>N&apos;Ko</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4594,9 +3719,9 @@ Datei nicht gefunden.
         <source>Move the cursor to the previous line</source>
         <translation>Positionsmarke auf vorangehende Zeile setzen</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -4653,248 +3778,6 @@ Datei nicht gefunden.
     <message>
         <source>Select to the next line</source>
         <translation>Bis zur nächsten Zeile markieren</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <comment>Ignore Grammar context menu item</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Strikethrough</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Movie time scrubber thumb</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Indefinite time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Mute audio tracks</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Status Display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Justify</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pause Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Slider Thumb</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 minutes %2 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Left to Right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Right to Left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rewind movie</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Movie time scrubber</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Play movie in full-screen mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek quickly back</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Mute Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Play Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Indent</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Return streaming movie to real-time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The script on this page appears to have a problem. Do you want to stop the script?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Slider</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Live Broadcast</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Paste and Match Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Outdent</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert Bulleted List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>JavaScript Problem - %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remaining movie time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Redirection limit reached</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remaining Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unmute Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Video Element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek quickly forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Begin playback</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subscript</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 days %2 hours %3 minutes %4 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Superscript</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek Back Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pause playback</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loading...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert Numbered List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio element playback controls and status display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek Forward Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Current movie status</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rewind Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 hours %2 minutes %3 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unmute audio tracks</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fullscreen Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Missing Plug-in</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Return to Real-time Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Current movie time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Video element playback controls and status display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove formatting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Elapsed Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>
-            </source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4996,14 +3879,6 @@ Datei nicht gefunden.
         <source>Cancel upload</source>
         <translation>Upload abbrechen</translation>
     </message>
-    <message>
-        <source>file size exceed %1 limit, upgrade vip to continue upload</source>
-        <translation>Die Dateigröße überschreitet das Limit von %1. Führen Sie ein Upgrade auf WPS Premium durch, um den Upload fortzusetzen.</translation>
-    </message>
-    <message>
-        <source>file size exceed %1 limit, upgrade svip to continue upload</source>
-        <translation>Die Dateigröße überschreitet das Limit von %1. Führen Sie ein Upgrade auf Super Premium durch, um den Upload fortzusetzen.</translation>
-    </message>
 </context>
 <context>
     <name>QInputContext</name>
@@ -5022,14 +3897,6 @@ Datei nicht gefunden.
     <message>
         <source>Mac OS X input method</source>
         <translation>Mac OS X-Eingabemethode</translation>
-    </message>
-    <message>
-        <source>FEP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>S60 FEP input method</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5058,10 +3925,6 @@ Datei nicht gefunden.
         <source>Renewal Vip</source>
         <translation>WPS Premium - Verlängerung</translation>
     </message>
-    <message>
-        <source>Upgrade membership and enjoy 130+ special zones</source>
-        <translation>Führen Sie ein Upgrade auf Premium durch, um über 70 Berechtigungen zu nutzen. {130+?}</translation>
-    </message>
 </context>
 <context>
     <name>QFile</name>
@@ -5088,10 +3951,6 @@ Datei nicht gefunden.
     <message>
         <source>Cannot open for output</source>
         <translation>Das Öffnen zum Schreiben ist fehlgeschlagen</translation>
-    </message>
-    <message>
-        <source>Will not rename sequential file using block copy</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5406,38 +4265,6 @@ Antwortcode:</translation>
         <source>&amp;Ignored</source>
         <translation>&amp;Ignoriert</translation>
     </message>
-    <message>
-        <source>Cloud Manage</source>
-        <translation>Cloud-Verwaltung</translation>
-    </message>
-    <message>
-        <source>&amp;Open On Website</source>
-        <translation>Auf Webseite öffnen</translation>
-    </message>
-    <message>
-        <source>Network abnormal ,It is recommended to restart the client to recover.</source>
-        <translation>Netzwerkausnahme. Es wird empfohlen, dass Sie den Client zur Wiederherstellung neu starten.</translation>
-    </message>
-    <message>
-        <source>Please ensure your account is consistent with the Web page to log on locally, and have file permissions</source>
-        <translation>Vergewissern Sie sich, dass Ihr lokal angemeldetes Konto mit dem Konto der Webseite übereinstimmt und dass Sie über die Berechtigungen für Dateioperationen verfügen.</translation>
-    </message>
-    <message>
-        <source>Quit WPS Desktop</source>
-        <translation>WPS-Desktopbereinigung beenden</translation>
-    </message>
-    <message>
-        <source>Start WPS Desktop</source>
-        <translation>WPS-Desktopbereinigung starten</translation>
-    </message>
-    <message>
-        <source>Sync complete</source>
-        <translation>Synchronisierung abgeschlossen.</translation>
-    </message>
-    <message>
-        <source>&amp;View On Website</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KUnsupportedSyncWidget</name>
@@ -5448,10 +4275,6 @@ Antwortcode:</translation>
     <message>
         <source>Login succeed</source>
         <translation>Anmeldung erfolgreich</translation>
-    </message>
-    <message>
-        <source>Unsupported &quot;Sync folder&quot; function</source>
-        <translation>Unternehmenskonten unterstützen die Funktion „Mit Cloud Storage synchronisieren“ nicht.</translation>
     </message>
 </context>
 <context>
@@ -5615,46 +4438,6 @@ Please verify the correct file name was given.</source>
         <translation>%1
 Die Datei konnte nicht gefunden werden.
 Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
-    </message>
-    <message>
-        <source>Alias</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>File Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create a New Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go to the parent directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go back</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change to detail view mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shortcut</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change to list view mode</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5931,22 +4714,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>Height:</source>
         <translation>Höhe:</translation>
     </message>
-    <message>
-        <source>Bottom margin</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Right margin</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Top margin</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Left margin</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QPrintPropertiesWidget</name>
@@ -6060,10 +4827,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>Date Modified</source>
         <translation>Änderungsdatum</translation>
     </message>
-    <message>
-        <source>Date is modified</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
@@ -6122,14 +4885,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Date Modified</source>
         <translation>Änderungsdatum</translation>
-    </message>
-    <message>
-        <source>%1 byte(s)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date is modified</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6606,26 +5361,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>File does not exist</source>
         <translation>Datei nicht vorhanden</translation>
     </message>
-    <message>
-        <source>The current file name has illegal characters:\ / : * ? &quot; &lt; &gt; | Please modify the file name and upload it again.</source>
-        <translation>Der aktuelle Dateiname enthält unzulässige Zeichen:\ / : * ? &quot; &lt; &gt; | Ändern Sie den Dateinamen und laden Sie die Datei erneut hoch.</translation>
-    </message>
-    <message>
-        <source>The account is not logged in. Please log in and upload it.</source>
-        <translation>Das Konto ist nicht angemeldet. Melden Sie sich vor dem Hochladen an.</translation>
-    </message>
-    <message>
-        <source>There is a file with the same name in the current save location. Please choose another location to upload it again.</source>
-        <translation>Am aktuellen Speicherort gibt es eine Datei mit demselben Namen. Wählen Sie einen anderen Speicherort für das Hochladen aus.</translation>
-    </message>
-    <message>
-        <source>The current login account is inconsistent. Please log in to the original account again.</source>
-        <translation>Das aktuell angemeldete Konto ist inkonsistent. Melden Sie sich erneut bei dem ursprünglichen Konto an.</translation>
-    </message>
-    <message>
-        <source>File upload failed</source>
-        <translation>Fehler beim Upload der Datei.</translation>
-    </message>
 </context>
 <context>
     <name>QSslSocket</name>
@@ -6672,110 +5407,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Error loading private key, %1</source>
         <translation>Fehler beim Laden des privaten Schlüssels, %1</translation>
-    </message>
-    <message>
-        <source>The certificate&apos;s notAfter field contains an invalid time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate has expired</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate is self-signed, and untrusted</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The peer did not present any certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The root CA certificate is marked to reject the specified purpose</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No certificates could be verified</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The root CA certificate is not trusted for this purpose</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The host name did not match any of the valid hosts for this certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate signature could not be decrypted</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The supplied certificate is unsuitable for this purpose</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Private key does not certify public key, %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The issuer certificate could not be found</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate&apos;s notBefore field contains an invalid time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate is not yet valid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The public key in the certificate could not be read</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>One of the CA certificates is invalid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The signature of the certificate is invalid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The issuer certificate of a locally looked up certificate could not be found</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to decrypt data: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The peer certificate is blacklisted</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6838,10 +5469,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Cancel sync</source>
         <translation>Synchronisierung abbrechen</translation>
-    </message>
-    <message>
-        <source>Reassociation</source>
-        <translation>Neu zuordnen</translation>
     </message>
 </context>
 <context>
@@ -7070,9 +5697,9 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>%1 is not a valid numeric literal.</source>
         <translation>%1 ist kein gültiger numerischer Literal.</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Circularity detected</source>
@@ -7142,9 +5769,9 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation>Die Kodierung %1 ist ungültig; sie darf nur aus lateinischen Buchstaben bestehen und muss dem regulären Ausdruck %2 entsprechen.</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, is %2 invalid.</source>
@@ -7666,1135 +6293,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
         <translation>Der letzte Schritt eines Pfades kann entweder nur Knoten oder nur atomare Werte enthalten. Sie dürfen nicht zusammen auftreten.</translation>
     </message>
-    <message>
-        <source>%1 is not allowed to have a member type with the same name as itself.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&apos;%1&apos; attribute contains invalid QName content: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>A variable with name %1 has already been declared.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Notation %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to have any facets.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Declaration for element %1 does not exist.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Specifying use=&apos;prohibited&apos; inside an attribute group has no effect.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 contains attribute %2 twice.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of derived attribute %1 cannot be validly derived from type of base attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived element %1 has weaker value constraint than base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived particle allows content that is not allowed in the base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match the length facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed in this scope</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 must have the same simple type as its base class %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Union content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 exists twice with different types.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element cannot have %2 attribute with value other than %3 or %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match length facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>W3C XML Schema identity constraint selector</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by restriction as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of simple type %2 must have variety of union.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>A construct was encountered which is disallowed in the current language(%1).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 cannot derive from %2 as the latter defines restriction as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Child element is missing in that scope, possible child elements are: %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 in derived complex type must have the same %2 value constraint like in base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Data of type %1 are not allowed to be empty.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet contains invalid regular expression</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 cannot have complex base type that has a %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>An attribute with name %1 has already appeared on this element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed to have a value constraint if its base type is complex.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element contains content although it is nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content model of complex type %1 is not a valid extension of content model of %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attributes of complex type %1 are not a valid extension of the attributes of base type %2: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of derived attribute %1 differs from type of base attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element must not have %2 and %3 attribute together.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element requires either %2 or %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of attribute %1 does not match its type definition: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 or %2 attribute of reference %3 does not match with the attribute declaration %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content model of complex type %1 contains %2 element so it cannot be derived by extension from a non-empty type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loaded schema file is invalid.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet and %2 facet cannot appear together.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Target namespace %1 of included schema is different from the target namespace %2 as defined by the including schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived attribute %1 does not match the wildcard in the base definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element must have either %2 or %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid QName content: %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Decimal content does not match in the fractionDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Variety of member types of %1 must be atomic.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Circular group reference for %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has a different number of fields from the identity constraint %2 that it references.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than or equal to %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Member type of simple type %1 cannot be a complex type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 does not match namespace constraint of wildcard in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fixed value constraint not allowed if element is nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicated facets in simple type %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of attribute %1 does not match defined value constraint.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 does not match the attribute wildcard.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No referenced value found for key reference %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value constraint of attribute %1 is not of attributes type: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 contains attribute %2 twice.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>A template with name %1 has already been declared.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Particle contains non-deterministic wildcards.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 has value constraint but has type derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute wildcard of %1 is not a valid restriction of attribute wildcard of base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Member type %1 cannot be derived from member type %2 of %3&apos;s base type %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Namespace prefix of qualified name %1 is not defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is missing child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 cannot contain other elements, as it has a fixed content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 contains invalid data: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>W3C XML Schema identity constraint field</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Item type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 contains %2 facet with invalid data: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 cannot be derived from base type %2%3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 from base type is missing in derived type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must contain %3, %4 or a list of URIs.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown notation %1 used in %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No value is available for the external variable with name %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 is not allowed to be abstract.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 cannot have direct base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of simple type %2 is not allowed to have restriction in %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Specified type %1 is not validly substitutable with element type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of element %1 does not match defined value constraint.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base attribute %1 is required but derived attribute is not.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Block constraints of derived element %1 must not be more weaker than in the base element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Non-unique value found for constraint %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The value of attribute %1 must be of type %2, which %3 isn&apos;t.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 can only have simple atomic type as base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 has duplicated element %2 in its content model.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element has neither %2 attribute nor %3 child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicated element names %1 in %2 element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element cannot have %2 attribute with value other than %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element contains invalid content: {%3}.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 in derived complex type must have %2 value constraint.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No variable with name %1 exists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component with ID %1 has been defined previously.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains two attributes of type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must be %3 or %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1, %2, %3, %4, %5 and %6 facets are not allowed when derived by list.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type of simple type %1 cannot be complex type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 is not allowed to have base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by union as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed text content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute in derived complex type must be %2 like in base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element without %2 attribute is not allowed inside schema without target namespace.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The prefix %1 cannot be bound. By default, it is already bound to the namespace %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Substitution group %1 has circular definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No definition for element %1 available.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by list as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Boolean content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived wildcard is not a subset of the base wildcard.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must have the value %3 because the %4 attribute is set.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fixed value constraint of element %1 differs from value constraint in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed in this scope, possible elements are: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element has larger value than %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by extension as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 has non-deterministic content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Specified type %1 is not known to the schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of complex type cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match the minLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match the maxLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>QName content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Declaration for attribute %1 does not exist.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Circular inheritance of union %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, %2 is invalid.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No function with name %1 is available.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be greater than or equal to %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attributes of complex type %1 are not a valid restriction from the attributes of base type %2: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enumeration facet contains invalid content: {%1} is not a value of type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet contains invalid value %2: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived definition contains an %1 element that does not exists in the base definition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 contains invalid data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 contains two different attributes that both have types derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 in derived complex type must have %2 value constraint like in base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element %2 is not a valid restriction of the %3 element it redefines: %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 is only allowed to have %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content does not match the maxLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content does not match the minLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Can not process unknown element %1, expected elements are: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match in the totalDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed in this context.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 has circular reference.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived attribute %1 does not exist in the base definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has attribute wildcard but its base type %2 has not.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wildcard in derived particle is not a valid subset of wildcard in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element contains invalid content: {%3} is not a value of type %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type of derived element %1 cannot be validly derived from base element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed to have the same %2 attribute value as the target namespace %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Decimal content does not match in the totalDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of element %1 cannot be derived from type of substitution group affiliation.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element must have either %2 attribute or %3 or %4 as child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match in the totalDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than or equal to %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derivation method of %1 must be extension because the base type %2 is a simple type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Identity constraint %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Only %1 and %2 facets are allowed when derived by union.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must either contain %3 or the other values.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must have the same value as %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element group %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Target namespace %1 of imported schema is different from the target namespace %2 as defined by the importing schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 contains invalid content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed attributes.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>processContent of wildcard in derived particle is weaker than wildcard in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be equal or greater than %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute in %2 must have %3 use like in base type %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>processContent of base wildcard must be weaker than derived wildcard.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 must have simple content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived element %1 cannot be nillable as base element is not nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not valid according to %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value constraint of element %1 is not of elements type: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element with %2 child element must not have a %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document is not a XML schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must have a value of %3 or %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>There is one IDREF value with no corresponding ID: %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match maxLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match minLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Field %1 has no simple type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 with simple content cannot be derived from complex base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Empty particle cannot be derived from non-empty particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Key constraint %1 contains absent fields.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet cannot be %2 or %3 if %4 facet of base type is %5.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ID value &apos;%1&apos; is not unique.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Substitution group %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Notation content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed to have a value constraint if its type is derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>xsi:schemaLocation namespace %1 has already appeared earlier in the instance document.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base definition contains an %1 element that is missing in the derived definition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed to have substitution group affiliation as it is no global element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of %1 element must be a simple type, %2 is not.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base attribute %1 is required but missing in derived definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Item type of simple type %1 cannot be a complex type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must have a value of %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of element %1 does not match its type definition: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>QName content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet collides with %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains unknown attribute %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type of simple type %1 must have variety of type list.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is missing required attribute %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Text or entity references not allowed inside %1 element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 references identity constraint %2 that is no %3 or %4 element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains invalid content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value constraint of derived attribute %1 does not match value constraint of base attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is missing in derived particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed child content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Union content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>An argument with name %1 has already been declared. Every argument name must be unique.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not defined in this scope.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Key constraint %1 contains references nillable element %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be greater than %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 of derived wildcard is not a valid restriction of %2 of base wildcard</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of %1 attribute of %2 element must not be from namespace %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type of simple type %1 has defined derivation by restriction as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 references unknown %2 or %3 element %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type contains not allowed facet %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>xsi:noNamespaceSchemaLocation cannot appear after the first no-namespace element or attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Variety of item type of %1 must be either atomic or union.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 cannot be derived by extension from %2 as the latter contains %3 element in its content model.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More than one value found for field %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Item type of base type does not match item type of %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet cannot be %2 if %3 facet of base type is %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 contains two different attributes that both have types derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must not be %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived element %1 is missing value constraint as defined in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Prefix of qualified name %1 is not defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No schema defined for validation.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived particle is missing element %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Member type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has inheritance loop in its base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is declared as abstract.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reference %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content does not match the length facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed inside %2 element if %3 attribute is present.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Circular inheritance of base type %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type of derived element %1 cannot be validly derived from base element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Union of attribute wildcard of type %1 and attribute wildcard of its base type %2 is not expressible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 contains not allowed facet type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>
-            </source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QFontDialog</name>
@@ -8982,18 +6480,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>Deleting old files...</source>
         <translation>Alte Dateien werden gelöscht...</translation>
     </message>
-    <message>
-        <source>New path space not enough</source>
-        <translation>Geringer Speicherplatz für den ausgewählten Speicherort.</translation>
-    </message>
-    <message>
-        <source>Move complete</source>
-        <translation>Der Wechsel ist abgeschlossen.</translation>
-    </message>
-    <message>
-        <source>Change cache settings</source>
-        <translation>Cachespeicherort ändern</translation>
-    </message>
 </context>
 <context>
     <name>KCustomCacheTipDialog</name>
@@ -9052,10 +6538,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Deleting old files...</source>
         <translation>Alte Dateien werden gelöscht...</translation>
-    </message>
-    <message>
-        <source>New path can not be local sync folder or sub folder</source>
-        <translation>Der ausgewählte Ordner wurde als Synchronisierungsordner festgelegt und kann nicht in den Netzwerkcache geändert werden. Bitte treffen Sie erneut eine Auswahl.</translation>
     </message>
 </context>
 <context>
@@ -9119,10 +6601,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Tips for start and end of transmission</source>
         <translation>Tipps zum Start und Ende der Übertragung</translation>
-    </message>
-    <message>
-        <source>Intelligently back up the following location files so that they can also be used by other terminals</source>
-        <translation>Sichern Sie Dateien intelligent an folgendem Speicherort, damit sie auch von anderen Terminals genutzt werden können.</translation>
     </message>
 </context>
 <context>
@@ -9198,18 +6676,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>%1: unable to lock</source>
         <translation>%1: Sperrung fehlgeschlagen</translation>
-    </message>
-    <message>
-        <source>%1: UNIX key file doesn&apos;t exist</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: doesn&apos;t exist</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: create size is less than 0</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9354,14 +6820,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>NDATA in parameter entity declaration.</source>
         <translation>Eine Parameter-Entity-Deklaration darf kein NDATA enthalten.</translation>
     </message>
-    <message>
-        <source>Entity &apos;%1&apos; is not declared.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>XML declaration is not at start of document.</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QProcess</name>
@@ -9400,10 +6858,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Process crashed</source>
         <translation>Der Prozess ist abgestürzt</translation>
-    </message>
-    <message>
-        <source>Process failed to start: %1</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9545,14 +6999,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Choose folder</source>
         <translation>Ordner auswählen</translation>
-    </message>
-    <message>
-        <source>Set Sync Folder</source>
-        <translation>Kein Synchronisierungsordner festgelegt</translation>
-    </message>
-    <message>
-        <source>Sync cache</source>
-        <translation>Cache-Pfad ändern</translation>
     </message>
 </context>
 <context>
@@ -9696,10 +7142,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
         <source>nsufficient space will affect cloud document storage</source>
         <translation>Speicherplatz voll, dies beeinträchtigt die Speicherung der Cloud-Dokumente.</translation>
     </message>
-    <message>
-        <source>NetWork error</source>
-        <translation>Netzwerkausnahme. Prüfen Sie die Netzwerkbedingung.</translation>
-    </message>
 </context>
 <context>
     <name>Q3TitleBar</name>
@@ -9754,10 +7196,6 @@ Stellen Sie sicher, dass der Dateiname richtig ist.</translation>
     <message>
         <source>Restore down</source>
         <translation>Wiederherstellen</translation>
-    </message>
-    <message>
-        <source>Puts a minimized window back to normal</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9853,10 +7291,6 @@ Freier Speicherplatz: ca. %1 MB</translation>
         <source>WPS Cloud Disk</source>
         <translation>WPS Cloud-Datenträger</translation>
     </message>
-    <message>
-        <source>Custom Cache Path</source>
-        <translation>Cachespeicherort ändern</translation>
-    </message>
 </context>
 <context>
     <name>KOfficialDocMsgBox</name>
@@ -9885,10 +7319,6 @@ Freier Speicherplatz: ca. %1 MB</translation>
     <name>KUserInfoUnloginedWidget</name>
     <message>
         <source>Login</source>
-        <translation>Anmelden</translation>
-    </message>
-    <message>
-        <source>Login WPS</source>
         <translation>Anmelden</translation>
     </message>
 </context>
@@ -10013,10 +7443,6 @@ in
         <source>Unable to change location</source>
         <translation>Der Wechsel des Speicherorts ist nicht möglich</translation>
     </message>
-    <message>
-        <source>The WPS Cloud Disk cannot be changed to the current location. Please re-select it.</source>
-        <translation>Der Wechsel des WPS-Netzwerkdatenträgers auf den aktuellen Speicherort ist nicht möglich. Bitte treffen Sie erneut eine Auswahl.</translation>
-    </message>
 </context>
 <context>
     <name>QSocks5SocketEngine</name>
@@ -10094,14 +7520,6 @@ in
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Folders with the same name already exist in the cloud</source>
-        <translation>Ein Ordner mit demselben Namen existiert bereits im ausgewählten Pfad.</translation>
-    </message>
-    <message>
-        <source>After setting up synchronization, folders with the same name are automatically merged and all files are securely preserved</source>
-        <translation>Nach der Einrichtung der Synchronisierung werden gleichnamige Ordner automatisch zusammengeführt und alle Dateien bleiben sicher erhalten.</translation>
     </message>
 </context>
 <context>
@@ -10247,18 +7665,6 @@ in
         <source>WPS Cloud File</source>
         <translation>WPS-Cloud-Datei</translation>
     </message>
-    <message>
-        <source>Upload failed, file exceeds 1G</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>upgrade vip for upload exceeding file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Upload failed, file exceeds 200M</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KAddMobileDeviceDialog</name>
@@ -10273,18 +7679,6 @@ in
     <message>
         <source>Finish</source>
         <translation>Beenden</translation>
-    </message>
-    <message>
-        <source>Files saved in cloud space will be automatically synchronized on your computer and mobile phone, and you can access them with your mobile phone.</source>
-        <translation>Die im Cloud-Speicher gespeicherten Dateien werden automatisch auf Ihrem Computer und Ihrem Mobiltelefon synchronisiert, und Sie können mit Ihrem Mobiltelefon darauf zugreifen.</translation>
-    </message>
-    <message>
-        <source>Associate your mobile device</source>
-        <translation>Verknüpfen Sie Ihr mobiles Gerät</translation>
-    </message>
-    <message>
-        <source>Mobile phone associate succeeded</source>
-        <translation>Mobiltelefon erfolgreich verknüpft.</translation>
     </message>
 </context>
 <context>
@@ -10315,10 +7709,6 @@ in
     <message>
         <source>Creation failed</source>
         <translation>Erstellung fehlgeschlagen.</translation>
-    </message>
-    <message>
-        <source>Retrying to create attachment link...</source>
-        <translation>Erneuter Versuch, den Anhangslink zu erstellen...</translation>
     </message>
 </context>
 <context>
@@ -10365,10 +7755,6 @@ in
     <message>
         <source>The protocol `%1&apos; does not support creating new directories</source>
         <translation>Protokoll `%1&apos; unterstützt nicht das Erstellen neuer Verzeichnisse</translation>
-    </message>
-    <message>
-        <source>(Unknown)</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10509,26 +7895,6 @@ in
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
-    <message>
-        <source>Know</source>
-        <translation>Verstanden</translation>
-    </message>
-    <message>
-        <source>The currently selected folder cannot be set to a synchronous directory</source>
-        <translation>Der aktuell ausgewählte Ordner kann nicht als Synchronisierungsverzeichnis festgelegt werden.</translation>
-    </message>
-    <message>
-        <source>Sync error</source>
-        <translation>Ausnahme bei der Synchronisierungseinstellung</translation>
-    </message>
-    <message>
-        <source>The folder selected contains cache folder;</source>
-        <translation>Der ausgewählte Ordner weist WPS Cloud Storage-Cache auf.</translation>
-    </message>
-    <message>
-        <source>Please select another folder that not contains cache folder</source>
-        <translation>Wählen Sie einen anderen Ordner aus, der nicht WPS Cloud Storage-Cache aufweist.</translation>
-    </message>
 </context>
 <context>
     <name>KBackupFailBubble</name>
@@ -10555,10 +7921,6 @@ in
     <message>
         <source>Wechat Backup fail</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Web download Backup fail</source>
-        <translation>Beim Sichern der „Mein Download“-Dateien ist ein Fehler aufgetreten.</translation>
     </message>
 </context>
 <context>
@@ -10743,10 +8105,6 @@ in
         <source>Unable to begin transaction</source>
         <translation>Es kann keine Transaktion gestartet werden</translation>
     </message>
-    <message>
-        <source>Unable to open database</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QOCIDriver</name>
@@ -10797,10 +8155,6 @@ in
         <source>Unable to rollback transaction</source>
         <translation>Die Transaktion konnte nicht rückgängig gemacht werden (Operation &apos;rollback&apos; fehlgeschlagen)</translation>
     </message>
-    <message>
-        <source>Unable to connect - Driver doesn&apos;t support all functionality required</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QSQLite2Driver</name>
@@ -10819,14 +8173,6 @@ in
     <message>
         <source>Unable to begin transaction</source>
         <translation>Es konnte keine Transaktion gestartet werden</translation>
-    </message>
-    <message>
-        <source>Error opening database</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to rollback transaction</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10897,14 +8243,6 @@ in
         <source>Unknown error</source>
         <translation>Unbekannter Fehler</translation>
     </message>
-    <message>
-        <source>No host name given</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid hostname</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>Phonon::Gstreamer::MediaObject</name>
@@ -10939,21 +8277,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Could not locate media source.</source>
         <translation>Medienquelle konnte nicht gefunden werden.</translation>
     </message>
-    <message>
-        <source>Missing codec helper script assistant.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot start playback. 
-
-Check your GStreamer installation and make sure you 
-have libgstreamer-plugins-base installed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Plugin codec installation failed for codec: %0</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KQingImageBubble</name>
@@ -10968,10 +8291,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Network Error, Offline Failed</source>
         <translation>Netzwerkfehler, Offine-Modus fehlgeschlagen</translation>
-    </message>
-    <message>
-        <source>retry logout</source>
-        <translation>Erneut in den Offline-Modus wechseln</translation>
     </message>
 </context>
 <context>
@@ -11020,36 +8339,12 @@ have libgstreamer-plugins-base installed.</source>
         <source>Cancel upload</source>
         <translation>Upload abbrechen</translation>
     </message>
-    <message>
-        <source>upload file failed for exceeding %1 limit,upgrade super vip for upload exceeding file</source>
-        <translation>Die zu synchronisierende Datei überschreitet das Größenlimit von %1. Führen Sie ein Upgrade auf Super Premium durch, um die Synchronisierung fortzusetzen.</translation>
-    </message>
-    <message>
-        <source>upload file failed for exceeding %1 limit,upgrade vip for upload exceeding file</source>
-        <translation>Die zu synchronisierende Datei überschreitet das Größenlimit von %1. Führen Sie ein Upgrade auf WPS Premium durch, um die Synchronisierung fortzusetzen.</translation>
-    </message>
-    <message>
-        <source>Your cloud space was full,increase cloud space for continue synchronization</source>
-        <translation>Ihr Cloud-Speicher ist voll. Erweitern Sie den Cloud-Speicher, um die Synchronisierung fortzusetzen.</translation>
-    </message>
 </context>
 <context>
     <name>KAddSyncFolderDlgJsApi</name>
     <message>
         <source>scanning now :</source>
         <translation>jetzt scannen:</translation>
-    </message>
-    <message>
-        <source>The first synchronization takes a long time.</source>
-        <translation>Die erste Synchronisierung dauert sehr lange.</translation>
-    </message>
-    <message>
-        <source>files more than %1,please select again</source>
-        <translation>Mehr als %1 zu synchronisierende Dateien. Die Synchronisierung kann nicht aktiviert werden. Bitte treffen Sie erneut eine Auswahl.</translation>
-    </message>
-    <message>
-        <source>scan finished, %1 files</source>
-        <translation>Scanvorgang abgeschlossen. %1 zu synchronisierende Dateien.</translation>
     </message>
 </context>
 <context>
@@ -11061,14 +8356,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Choose folder</source>
         <translation>Ordner auswählen</translation>
-    </message>
-    <message>
-        <source>files more than %1,please select again</source>
-        <translation>Mehr als %1 zu synchronisierende Dateien. Die Synchronisierung kann nicht aktiviert werden. Bitte treffen Sie erneut eine Auswahl.</translation>
-    </message>
-    <message>
-        <source>scan finished, %1 files</source>
-        <translation>Scanvorgang abgeschlossen. %1 zu synchronisierende Dateien.</translation>
     </message>
 </context>
 <context>
@@ -11263,18 +8550,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>continue sign out</source>
         <translation>Abmelden fortsetzen</translation>
     </message>
-    <message>
-        <source>the files in cloud disk will be cleared, please check and backup to avoid losing some important files</source>
-        <translation>Der Cloud Storage-Cache-Dateiordner wird gelöscht. Bitte überprüfen und sichern Sie Ihre Dateien, um den Verlust wichtiger Dateien zu vermeiden.</translation>
-    </message>
-    <message>
-        <source>Clear the cache file of the current device on the WPS Cloud Disk</source>
-        <translation>WPS Cloud Storage-Cache-Dateien des aktuellen Geräts löschen</translation>
-    </message>
-    <message>
-        <source>When you log in again, it will take a few more minutes to access files on Cloud Disk</source>
-        <translation>Wenn Sie sich erneut anmelden, dauert es ein paar Minuten länger, bis Sie auf Dateien im Cloud Storage zugreifen können.</translation>
-    </message>
 </context>
 <context>
     <name>QXml</name>
@@ -11369,98 +8644,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>error occurred while parsing document type definition</source>
         <translation>Fehler beim Parsen der Dokumenttypdefinition</translation>
-    </message>
-    <message>
-        <source>No error occurred</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>External parsed general entity reference not allowed in DTD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wrong value for standalone declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unparsed entity reference in wrong context</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing reference</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Tag mismatch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid name for processing instruction</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error triggered by consumer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing content</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing comment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected character</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recursive entities</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Internal general entity reference not allowed in DTD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More than one document type definition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Version expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected end of file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>External parsed general entity reference not allowed in attribute value</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Letter is expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error in the text declaration of an external entity</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing document type definition</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11575,10 +8758,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
         <translation>Fehler beim Herunterladen. Das Herunterladen von Dateien über 30 MB wird derzeit nicht unterstützt.</translation>
     </message>
-    <message>
-        <source>No permission, author forbids document download</source>
-        <translation>Keine Berechtigung. Der Autor verbietet das Herunterladen von Dokumenten.</translation>
-    </message>
 </context>
 <context>
     <name>KBackupFinishBubble</name>
@@ -11664,26 +8843,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>WPS Cloud File</source>
         <translation>WPS-Cloud-Datei</translation>
     </message>
-    <message>
-        <source>The remainder cloud space is:</source>
-        <translation>Verbleibender Speicherplatz:</translation>
-    </message>
-    <message>
-        <source>This maybe affect uploading file to the cloud,and the mobile terminal or other devices cannot synchronize the latest documents.</source>
-        <translation>Das Hochladen von Dateien kann beeinträchtigt sein. Aktuelle Dateien können nicht mit mobilen Endgeräten oder anderen Geräten synchronisiert werden.</translation>
-    </message>
-    <message>
-        <source>You has used space is:</source>
-        <translation>Verwendeter Speicherplatz:</translation>
-    </message>
-    <message>
-        <source>Total Space is:%1</source>
-        <translation>Speicherplatz gesamt: %1</translation>
-    </message>
-    <message>
-        <source>Please clean up some duplicate unimportant files</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KSpaceUsageRemindBubble</name>
@@ -11694,26 +8853,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Upgrade and Expansion</source>
         <translation>Upgrade und Erweiterung</translation>
-    </message>
-    <message>
-        <source>The remainder cloud space is:</source>
-        <translation>Verbleibender Speicherplatz:</translation>
-    </message>
-    <message>
-        <source>You can view cloud space detail,or get more space by upgrading vip.</source>
-        <translation>Es wird empfohlen, die Speicherplatzangaben zu überprüfen und aufzuräumen oder die Speicherkapazität zu erweitern, um ausreichend Speicherplatz zu gewährleisten.</translation>
-    </message>
-    <message>
-        <source>Your WPS Cloud space used percent is:%1</source>
-        <translation>WPS Cloud-Speicherplatz verwendet: %1%</translation>
-    </message>
-    <message>
-        <source>You has used space is:</source>
-        <translation>Verwendeter Speicherplatz:</translation>
-    </message>
-    <message>
-        <source>Total Space is:%1</source>
-        <translation>Speicherplatz gesamt: %1</translation>
     </message>
 </context>
 <context>
@@ -11749,26 +8888,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Use skill</source>
         <translation>Fähigkeit verwenden</translation>
     </message>
-    <message>
-        <source>Renewal the VIP service,you can own the Separate Password,Private Browsing and protect you content and so on</source>
-        <translation>Verlängern Sie Ihre Premium-Mitgliedschaft, um von unabhängigen Kennwörtern, privatem Surfen und anderen Berechtigungen zum Schutz Ihrer Inhalte zu profitieren.</translation>
-    </message>
-    <message>
-        <source>The private folder is the exclusive function of the VIP</source>
-        <translation>Der private Ordner ist eine Premium-Funktion.</translation>
-    </message>
-    <message>
-        <source>Upgrade VIP service,you can own the Separate Password,Private Browsing and protect you content and so on</source>
-        <translation>Führen Sie ein Upgrade auf Premium durch, um von unabhängigen Kennwörtern, privatem Surfen und anderen Berechtigungen zum Schutz Ihrer Inhalte zu profitieren.</translation>
-    </message>
-    <message>
-        <source>Your Vip is expired</source>
-        <translation>Ihre Premium-Mitgliedschaft ist abgelaufen.</translation>
-    </message>
-    <message>
-        <source>Renewal the VIP</source>
-        <translation>Premium verlängern</translation>
-    </message>
 </context>
 <context>
     <name>KWarningChangeSyncPathWidget</name>
@@ -11779,14 +8898,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Modify</source>
         <translation>Ändern</translation>
-    </message>
-    <message>
-        <source>Continue to modify the synchronization path. Unuploaded files cannot be moved to the modification path you selected. You can view them in the local directory.</source>
-        <translation>Fahren Sie fort, den Synchronisierungspfad zu ändern. Nicht hochgeladene Dateien können nicht in den von Ihnen gewählten geänderten Pfad verschoben werden. Sie können sie im lokalen Verzeichnis anzeigen.</translation>
-    </message>
-    <message>
-        <source>View Folder</source>
-        <translation>Lokales Verzeichnis anzeigen</translation>
     </message>
 </context>
 <context>
@@ -11818,26 +8929,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>WPS Cloud Disk</source>
         <translation>WPS Cloud-Datenträger</translation>
-    </message>
-    <message>
-        <source>Cleaning the cache can free up the local space occupied by WPS network disk files.</source>
-        <translation>Durch das Bereinigen des Caches kann der von WPS Cloud Storage-Dateien belegte lokale Speicherplatz wieder freigegeben werden.</translation>
-    </message>
-    <message>
-        <source>Clean cloud disk cache files</source>
-        <translation>Cloud Storage-Cache bereinigen</translation>
-    </message>
-    <message>
-        <source>WPS cloud disk cache used space</source>
-        <translation>Vom WPS Cloud Storage-Cache verwendeter Speicherplatz</translation>
-    </message>
-    <message>
-        <source>Cleared cache</source>
-        <translation>Cache bereinigt.</translation>
-    </message>
-    <message>
-        <source>After cleaning up, you need to download again when you use these files again.</source>
-        <translation>Nach der Bereinigung müssen Sie diese Dateien erneut herunterladen, wenn Sie sie wieder verwenden möchten.</translation>
     </message>
 </context>
 <context>
@@ -11974,10 +9065,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Cannot show mimetype</source>
         <translation>Mime-Typ kann nicht angezeigt werden</translation>
     </message>
-    <message>
-        <source>Frame load interrupted by policy change</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QRegExp</name>
@@ -12016,50 +9103,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>unexpected end</source>
         <translation>unerwartetes Ende</translation>
-    </message>
-    <message>
-        <source>invalid category</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>invalid interval</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No error occurred</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bad lookahead syntax</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Missing left delim</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Disabled feature used</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid octal value</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bad repetition syntax</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bad character class syntax</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected end</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Met internal limit</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12285,10 +9328,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Unable to bind value</source>
         <translation>Der Wert konnte nicht gebunden werden</translation>
     </message>
-    <message>
-        <source>Unable to get statement type</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QNetworkReply</name>
@@ -12299,14 +9338,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Protocol &quot;%1&quot; is unknown</source>
         <translation>Das Protokoll &quot;%1&quot; ist unbekannt</translation>
-    </message>
-    <message>
-        <source>Network session error.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Temporary network failure.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12322,26 +9353,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>WPS Team File</source>
         <translation>WPS-Teamdatei</translation>
-    </message>
-    <message>
-        <source>receive [$user$]&apos;s share</source>
-        <translation>Freigabe von [$user$] wird empfangen</translation>
-    </message>
-    <message>
-        <source>Updated doc</source>
-        <translation>Datei wurde aktualisiert.</translation>
-    </message>
-    <message>
-        <source>Created doc</source>
-        <translation>Datei wurde erstellt.</translation>
-    </message>
-    <message>
-        <source>WPS Share File</source>
-        <translation>WPS ─ Freigabe verwalten</translation>
-    </message>
-    <message>
-        <source>Created link</source>
-        <translation>Link wurde erstellt.</translation>
     </message>
 </context>
 <context>
@@ -12423,14 +9434,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
-    <message>
-        <source>Sync folder limit reached</source>
-        <translation>Es wurden %1 Synchronisierungsordner eingerichtet. Es können nur %2 weitere ausgewählt werden.</translation>
-    </message>
-    <message>
-        <source>The number of synchronizations has exceeded 5 limits</source>
-        <translation>Die Anzahl der Synchronisierungen hat das Limit von 5 überschritten.</translation>
-    </message>
 </context>
 <context>
     <name>KSettingsMsgBoxBase</name>
@@ -12485,10 +9488,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>batch download</source>
         <translation>Batch-Download</translation>
     </message>
-    <message>
-        <source>I got it</source>
-        <translation>Verstanden</translation>
-    </message>
 </context>
 <context>
     <name>KPayGuideWidgetMgr</name>
@@ -12507,74 +9506,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>The number of members of the Shared folder has reached its maximum</source>
         <translation>Die Anzahl der Mitglieder des gemeinsamen Ordners hat die maximale Anzahl erreicht</translation>
-    </message>
-    <message>
-        <source>Full-text search can search for keywords in the body and quickly locate the required content</source>
-        <translation>Mit der Volltextsuche können Sie nach Schlüsselwörtern im Text suchen und den gewünschten Inhalt schnell finden.</translation>
-    </message>
-    <message>
-        <source>Upgrade WPS vip to use full text search immediately</source>
-        <translation>Führen Sie jetzt ein Upgrade auf Premium durch, um die Volltextsuche zu nutzen</translation>
-    </message>
-    <message>
-        <source>The selected folder will be updated to the computer in real time</source>
-        <translation>Der ausgewählte Ordner wird auf dem Computer in Echtzeit aktualisiert.</translation>
-    </message>
-    <message>
-        <source>You can export the cloud files to the local computer.Upgrade WPS membership and enjoy batch export function immediately</source>
-        <translation>Sie können Cloud-Dateien auf einen lokalen Datenträger in Stapeln exportieren. Führen Sie ein Upgrade auf Premium durch und nutzen Sie die Batch-Export-Funktion jetzt.</translation>
-    </message>
-    <message>
-        <source>The synchronization folder limit has been exceeded</source>
-        <translation>Die Anzahl der Synchronisierungsordner überschreitet das Limit.</translation>
-    </message>
-    <message>
-        <source>I got it</source>
-        <translation>Verstanden</translation>
-    </message>
-    <message>
-        <source>Batch download/export is WPS membership function</source>
-        <translation>„Alle herunterladen/hochladen“ ist eine Premium-Funktion.</translation>
-    </message>
-    <message>
-        <source>Full text search is a svip feature</source>
-        <translation>Volltextsuche ist eine Premium-Funktion.</translation>
-    </message>
-    <message>
-        <source>You can download/export the cloud files to the local computer.Upgrade WPS membership and enjoy batch download/export function immediately</source>
-        <translation>Sie können Cloud-Dateien im Stapeln auf die neueste Version aktualisieren. Führen Sie ein Upgrade auf Premium durch, um die Funktion „Alle herunterladen/hochladen“ jetzt zu nutzen.</translation>
-    </message>
-    <message>
-        <source>Batch export is WPS membership function</source>
-        <translation>Exportieren im Stapel ist eine Premium-Funktion.</translation>
-    </message>
-    <message>
-        <source>Upgrade WPS membership and enjoy batch download function immediately</source>
-        <translation>Führen Sie ein Upgrade auf Premium durch, um die Funktion „Batch-Download“ jetzt zu nutzen.</translation>
-    </message>
-    <message>
-        <source>Give up using</source>
-        <translation>Beenden</translation>
-    </message>
-    <message>
-        <source>Automatic updates is svip function</source>
-        <translation>Automatisches Update auf Super Premium-Berechtigungen</translation>
-    </message>
-    <message>
-        <source>Batch download is WPS membership function</source>
-        <translation>„Batch-Download“ ist eine Premium-Berechtigung.</translation>
-    </message>
-    <message>
-        <source>Upgrade SVIP</source>
-        <translation>Upgrade auf Super Premium</translation>
-    </message>
-    <message>
-        <source>Super members can invite up to 500 people to join the Shared folder,Upgrade your membership and invite more members immediately</source>
-        <translation>Super Premium-Mitglieder können bis zu 500 Personen einladen, dem gemeinsamen Ordner beizutreten. Führen Sie ein Upgrade auf Premium, um jetzt mehr Mitglieder einzuladen.</translation>
-    </message>
-    <message>
-        <source>WPS customer service.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12737,26 +9668,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>%1: ftok failed</source>
         <translation>%1: ftok-Aufruf fehlgeschlagen</translation>
     </message>
-    <message>
-        <source>%1: does not exist</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: already exists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: unknown error %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: out of resources</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: permission denied</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QIODevice</name>
@@ -12801,18 +9712,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Switch cache location</source>
         <translation>Cache-Speicherort wechseln</translation>
-    </message>
-    <message>
-        <source>Know</source>
-        <translation>Verstanden</translation>
-    </message>
-    <message>
-        <source>Please switch user to administrator</source>
-        <translation>Vergewissern Sie sich, dass Sie über Administratorrechte verfügen und die „UAC“-Funktion deaktiviert ist, bevor Sie es erneut versuchen.</translation>
-    </message>
-    <message>
-        <source>Current user &quot;%1&quot; has not right</source>
-        <translation>Der aktuelle Benutzer „%1“ hat keine Administratorrechte oder hat die „UAC“-Funktion aktiviert.</translation>
     </message>
 </context>
 <context>
@@ -12915,10 +9814,6 @@ have libgstreamer-plugins-base installed.</source>
         <source>Customize...</source>
         <translation>Anpassen ...</translation>
     </message>
-    <message>
-        <source>Custom...</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KPayGuideWidget</name>
@@ -12955,18 +9850,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Unsync</source>
         <translation>Synchronisierung aufheben</translation>
-    </message>
-    <message>
-        <source>files were not sync to cloud</source>
-        <translation>Dateien nicht mit der Cloud synchronisiert.</translation>
-    </message>
-    <message>
-        <source>show trans detail</source>
-        <translation>Details anzeigen</translation>
-    </message>
-    <message>
-        <source>%1 files were not sync to cloud</source>
-        <translation>%1 Dateien nicht mit der Cloud sychronisiert.</translation>
     </message>
 </context>
 <context>
@@ -13010,34 +9893,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Manage cloud storage space</source>
         <translation>Cloud Storage-Speicher verwalten</translation>
-    </message>
-    <message>
-        <source>Share Folder</source>
-        <translation>Freigeben</translation>
-    </message>
-    <message>
-        <source>Upgrade SVIP, cloud space can upgrade to %1 at most, and can upload file %2 at most</source>
-        <translation>Führen Sie ein Upgrade auf Premium durch, um bis zu %1 GB Cloud-Speicher zu nutzen, und laden Sie Dateien bis zu %2 GB hoch</translation>
-    </message>
-    <message>
-        <source> and so on %1 files</source>
-        <translation> und %1 Dateien</translation>
-    </message>
-    <message>
-        <source>Uploading files over %1 is currently not supported</source>
-        <translation>Das Hochladen von Dateien über %1 wird derzeit nicht unterstützt.</translation>
-    </message>
-    <message>
-        <source>Upgrade And Upload</source>
-        <translation>Führen Sie ein Upgrade auf Premium durch und laden Sie hoch</translation>
-    </message>
-    <message>
-        <source>Show TransDetailDlg</source>
-        <translation>Details anzeigen</translation>
-    </message>
-    <message>
-        <source>Upgrade SVIP, cloud space can upload file %1 at most, you can have %2 at most</source>
-        <translation>Fürhen Sie ein Upgrade auf Premium durch, um Dateien von bis zu %1 GB hochzuladen und Cloud-Speicher von bis zu %2 GB zu nutzen</translation>
     </message>
 </context>
 <context>
@@ -13125,14 +9980,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
         <source>WPS Cloud File</source>
         <translation>WPS-Cloud-Datei</translation>
     </message>
-    <message>
-        <source>Please clean up some duplicate unimportant files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Transfer details</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>MAC_APPLICATION_MENU</name>
@@ -13179,10 +10026,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
         <source>Use this slider to adjust the volume. The leftmost position is 0%, the rightmost is %1%</source>
         <translation>Mit diesem Regler stellen Sie die Lautstärke ein. Position links entspricht 0%; Position rechts entspricht %1%</translation>
     </message>
-    <message>
-        <source>Muted</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KTrayBottomWidget</name>
@@ -13212,10 +10055,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
     <message>
         <source>WPS Cloud Disk</source>
         <translation>WPS Cloud-Datenträger</translation>
-    </message>
-    <message>
-        <source>Office Assistant Mini</source>
-        <translation>Office Assistant Mini</translation>
     </message>
 </context>
 <context>
@@ -13284,26 +10123,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
         <source>WPS cloud disk cache settings</source>
         <translation>Cacheeinstellungen des WPS Cloud-Datenträgers</translation>
     </message>
-    <message>
-        <source>Cannot change to the current directory, please reselect an empty directory</source>
-        <translation>Der Wechsel in das aktuelle Verzeichnis ist nicht möglich. Wählen Sie ein anderes leeres Verzeichnis aus.</translation>
-    </message>
-    <message>
-        <source>Please clean up first, Or reselect an empty directory</source>
-        <translation>Leeren Sie die Dateien in diesem Verzeichnis und versuchen Sie es erneut, oder wählen Sie ein anderes leeres Verzeichnis.</translation>
-    </message>
-    <message>
-        <source>Open position</source>
-        <translation>Speicherort öffnen</translation>
-    </message>
-    <message>
-        <source>Directory &quot;%1&quot; existing files</source>
-        <translation>Verzeichnis „%1“ enthält bereits Dateien.</translation>
-    </message>
-    <message>
-        <source>Directory &quot;%1&quot; is already in use</source>
-        <translation>Verzeichnis „%1“ wird bereits verwendet.</translation>
-    </message>
 </context>
 <context>
     <name>KCloudMsgBoxBase</name>
@@ -13338,36 +10157,12 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
         <source>Fix now</source>
         <translation>Jetzt reparieren</translation>
     </message>
-    <message>
-        <source>The file status is repaired successfully, and the file status can be displayed normally</source>
-        <translation>Der Dateistatus wird erfolgreich repariert und kann korrekt angezeigt werden.</translation>
-    </message>
-    <message>
-        <source>The repair will restart the Explorer and reload the file status icon</source>
-        <translation>Durch die Reparatur wird der Explorer neu gestartet und das Dateistatussymbol neu geladen.</translation>
-    </message>
-    <message>
-        <source>The process will not close other running programs, and will not cause data loss, please rest assured</source>
-        <translation>Der Vorgang schließt keine anderen laufenden Programme und verursacht keinen Datenverlust. Sie können ganz beruhigt sein.</translation>
-    </message>
 </context>
 <context>
     <name>KSyncFolderExpiredWidget</name>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
-    </message>
-    <message>
-        <source>Your super member has expired, the folder synchronization function has been suspended, the changes in the folder will stop updating to the cloud, please continue to use after renewal</source>
-        <translation>Ihre Super Premium-Mitgliedschaft ist abgelaufen, und die Synchronisierungsfunktion dieses Ordners wurde ausgesetzt. Die Datenänderungen im Ordner werden nicht in der Cloud aktualisiert. Verlängern Sie Ihre Mitgliedschaft, bevor Sie fortfahren.</translation>
-    </message>
-    <message>
-        <source>Renewal</source>
-        <translation>Verlängerung</translation>
-    </message>
-    <message>
-        <source>The ability to synchronize multiple folders has expired</source>
-        <translation>Die Funktion zur Synchronisierung mehrerer Ordner ist ausgelaufen.</translation>
     </message>
 </context>
 <context>
@@ -13390,22 +10185,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
         <source>I know</source>
         <translation>Verstanden</translation>
     </message>
-    <message>
-        <source>Are you sure to cancel sync to local path?</source>
-        <translation>Bestätigen Sie, dass Sie die Synchronisierung mit einem lokalen Pfad abbrechen möchten?</translation>
-    </message>
-    <message>
-        <source>Open sync folder</source>
-        <translation>Synchronisierungsordner anzeigen</translation>
-    </message>
-    <message>
-        <source>Sync folder has been set</source>
-        <translation>Synchronisierungsordner erfolgreich hinzugefügt.</translation>
-    </message>
-    <message>
-        <source>The local and cloud folders will be synchronized, and you can access this folder on other devices</source>
-        <translation>Die lokalen und Cloud-Ordner werden synchronisiert, und Sie können auf diesen Ordner auf anderen Geräten zugreifen.</translation>
-    </message>
 </context>
 <context>
     <name>KDesktopSyncWidgetBase</name>
@@ -13424,18 +10203,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
         <source>Windows XP is not supported</source>
         <translation>Windows XP wird nicht unterstützt.</translation>
     </message>
-    <message>
-        <source>Known</source>
-        <translation>Verstanden</translation>
-    </message>
-    <message>
-        <source>Sync folder exception</source>
-        <translation>Ausnahme für Synchronisierungsordner</translation>
-    </message>
-    <message>
-        <source>Sync folder cannot start</source>
-        <translation>Fehler beim Öffnen des Synchronisierungsordners.</translation>
-    </message>
 </context>
 <context>
     <name>KTrayBubble</name>
@@ -13449,14 +10216,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
     <message>
         <source>Always send as a file, no more sending options</source>
         <translation>Immer als Datei senden, keine weiteren Sendeoptionen</translation>
-    </message>
-    <message>
-        <source>WPS send type</source>
-        <translation>WPS-Sendetyp</translation>
-    </message>
-    <message>
-        <source>Feedback other questions or suggestions</source>
-        <translation>Anderes Feedback oder Vorschläge</translation>
     </message>
 </context>
 <context>
@@ -13547,10 +10306,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
         <source>Loading...</source>
         <translation>Ladevorgang läuft...</translation>
     </message>
-    <message>
-        <source>Operation failed. Please try again</source>
-        <translation>Vorgang fehlgeschlagen. Versuchen Sie es später noch einmal.</translation>
-    </message>
 </context>
 <context>
     <name>KAutoSyncLimitBubble</name>
@@ -13561,14 +10316,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
     <message>
         <source>WPS Cloud File</source>
         <translation>WPS-Cloud-Datei</translation>
-    </message>
-    <message>
-        <source>Upgrade SVIP, get privileges.</source>
-        <translation>Mit einem Upgrade auf Super Premium erhalten Sie Berechtigungen und weitere Funktionen.</translation>
-    </message>
-    <message>
-        <source>Intelligent updates can get more setting and make efficiency work.</source>
-        <translation>Die Super Premium-Funktionen bieten Ihnen raffiniertere Einstellungen und eine höhere Arbeitseffizienz.</translation>
     </message>
 </context>
 <context>
@@ -13606,10 +10353,6 @@ Einige Video-Funktionen stehen nicht zur Verfügung.</translation>
     <message>
         <source>Confirm</source>
         <translation>Bestätigen</translation>
-    </message>
-    <message>
-        <source>If Cloudspace is not enough, you might fail to view cloud files on other devices. To enlarge space, please contact your admin or %1WPS Customer Service%2.</source>
-        <translation>Unzureichender Speicherplatz in der Cloud führt dazu, dass die Anzeige von Cloud-Dokumenten auf mehreren Geräten fehlschlägt. Wenn Sie die Speicherkapazität erweitern müssen, wenden Sie sich an den Administrator des Unternehmens oder an den %1WPS-Kundendienst%2.</translation>
     </message>
 </context>
 <context>
@@ -13668,10 +10411,6 @@ Zeit für ein Upgrade: %1</translation>
         <source>Ignore all</source>
         <translation>Alle ignorieren</translation>
     </message>
-    <message>
-        <source>Show all</source>
-        <translation>Alle anzeigen</translation>
-    </message>
 </context>
 <context>
     <name>syncenter::KFilesCacheManager</name>
@@ -13724,14 +10463,6 @@ Zeit für ein Upgrade: %1</translation>
         <source>Confirm</source>
         <translation>Bestätigen</translation>
     </message>
-    <message>
-        <source>To enlarge your Cloudspace, please contact your admin or %1WPS Customer Service%2.</source>
-        <translation>Um Ihren Cloud-Speicherplatz zu erweitern, wenden Sie sich an den Unternehmensadministrator oder an den %1WPS-Kundendienst%2.</translation>
-    </message>
-    <message>
-        <source>File upload limit details, please contact your admin or %1WPS Customer Service%2.</source>
-        <translation>Weitere Informationen zu Beschränkungen beim Hochladen von Dokumenten erhalten Sie vom Unternehmensadministrator oder vom %1WPS-Kundendienst%2.</translation>
-    </message>
 </context>
 <context>
     <name>KDesktopSyncConflictWidget</name>
@@ -13761,14 +10492,6 @@ Zeit für ein Upgrade: %1</translation>
         <source>WPS Desktop Assistant</source>
         <translation>WPS-Desktop-Assistent</translation>
     </message>
-    <message>
-        <source>folderpath:</source>
-        <translation>Ordnerpfad:</translation>
-    </message>
-    <message>
-        <source>The folder is mapped to the desktop and can be quickly accessed from the desktop</source>
-        <translation>Der Ordner wird dem Desktop zugeordnet und kann vom Desktop aus schnell aufgerufen werden.</translation>
-    </message>
 </context>
 <context>
     <name>KCustomCacheHelper</name>
@@ -13784,20 +10507,12 @@ Zeit für ein Upgrade: %1</translation>
         <source>New path can not be old path&apos;s sub folder</source>
         <translation>Neuer Pfad kann nicht der Unterordner des alten Pfads sein</translation>
     </message>
-    <message>
-        <source>New path can not be local sync folder or sub folder</source>
-        <translation>Der ausgewählte Ordner wurde als Synchronisierungsordner festgelegt und kann nicht in den Netzwerkcache geändert werden. Bitte treffen Sie erneut eine Auswahl.</translation>
-    </message>
 </context>
 <context>
     <name>KUploadLimitBubbleP5</name>
     <message>
         <source>Promote limit to %1</source>
         <translation>Limit auf %1 hochsetzen</translation>
-    </message>
-    <message>
-        <source>file size exceed %1 limit, promote to continue upload</source>
-        <translation>Die Dateigröße überschreitet das Limit von %1. Setzen Sie das Limit für die Dateigröße hoch, um den Upload fortzusetzen.</translation>
     </message>
 </context>
 <context>
@@ -13892,10 +10607,6 @@ Zeit für ein Upgrade: %1</translation>
         <source>Save As</source>
         <translation>Speichern unter</translation>
     </message>
-    <message>
-        <source>SaveAs file succeed</source>
-        <translation>Datei erfolgreich gespeichert.</translation>
-    </message>
 </context>
 <context>
     <name>KLineTable</name>
@@ -13926,10 +10637,6 @@ Zeit für ein Upgrade: %1</translation>
         <source>Screenshot</source>
         <translation>Screenshot</translation>
     </message>
-    <message>
-        <source>Hotkeys</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KIntroCloudSyncWidget</name>
@@ -13948,14 +10655,6 @@ Zeit für ein Upgrade: %1</translation>
         <source>Upgrade membership and enjoy privileges</source>
         <translation>Mitgliedschaft aktualisieren und Vorteile nutzen</translation>
     </message>
-    <message>
-        <source>Open membership and enjoy privileges</source>
-        <translation>Führen Sie ein Upgrade auf Premium durch und nutzen Sie Berechtigungen</translation>
-    </message>
-    <message>
-        <source>Upgrade membership and enjoy 40+ special zones</source>
-        <translation>Führen Sie ein Upgrade auf Premium durch, um über 70 Berechtigungen zu nutzen.</translation>
-    </message>
 </context>
 <context>
     <name>KUploadWechatFileWidget</name>
@@ -13969,10 +10668,6 @@ Zeit für ein Upgrade: %1</translation>
     <message>
         <source>WPS customer service</source>
         <translation>WPS-Kundendienst.</translation>
-    </message>
-    <message>
-        <source>Scan the code to follow for exclusive services Customer service hotline:</source>
-        <translation>Scannen Sie den QR-Code, um uns zu folgen und exklusive Dienste zu erhalten &lt;br&gt;Kundendienst-Hotline:</translation>
     </message>
 </context>
 <context>
@@ -14026,10 +10721,6 @@ Zeit für ein Upgrade: %1</translation>
     <message>
         <source>Operation stopped by the user</source>
         <translation>Operation von Nutzer angehalten</translation>
-    </message>
-    <message>
-        <source>Operation is stopped by user</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14092,10 +10783,6 @@ Zeit für ein Upgrade: %1</translation>
         <source>Cancel sync</source>
         <translation>Synchronisierung abbrechen</translation>
     </message>
-    <message>
-        <source>Reassociation</source>
-        <translation>Neu zuordnen</translation>
-    </message>
 </context>
 <context>
     <name>KSyncReassociationWidget</name>
@@ -14106,10 +10793,6 @@ Zeit für ein Upgrade: %1</translation>
     <message>
         <source>Choose folder</source>
         <translation>Ordner auswählen</translation>
-    </message>
-    <message>
-        <source>Reassociation</source>
-        <translation>Neu zuordnen</translation>
     </message>
 </context>
 <context>
@@ -14124,10 +10807,6 @@ Zeit für ein Upgrade: %1</translation>
     <message>
         <source>Unknown error</source>
         <translation>Unbekannter Fehler</translation>
-    </message>
-    <message>
-        <source>No host name given</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14153,10 +10832,6 @@ Zeit für ein Upgrade: %1</translation>
     <message>
         <source>view file</source>
         <translation>Datei anzeigen</translation>
-    </message>
-    <message>
-        <source>The synchronization folder cannot be set due to the existence of this file. Please delete this file and try again</source>
-        <translation>Der Synchronisierungsordner kann nicht eingestellt werden, da diese Datei vorhanden ist. Löschen Sie diese Datei und versuchen Sie es erneut.</translation>
     </message>
 </context>
 <context>
@@ -14237,2095 +10912,37 @@ Zeit für ein Upgrade: %1</translation>
     </message>
 </context>
 <context>
-    <name>KOtherCloudMessageWidget</name>
+    <name/>
     <message>
-        <source>No</source>
-        <translation>Nein</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation>Ja</translation>
-    </message>
-    <message>
-        <source>You have successfully logged in through Dropbox. And if you authorize the Dropbox cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
-        <translation>Sie haben sich erfolgreich bei Ihrem Dropbox-Konto angemeldet. Nachdem Sie WPS Office autorisiert haben, können Sie auf dem Startbildschirm von WPS Office auf „Öffnen“ klicken, um auf alle Dateien in Dropbox zuzugreifen und diese zu verwalten.</translation>
-    </message>
-    <message>
-        <source>You have successfully logged in through Google. And if you authorize the Google Drive cloud disk at the same time, you can directly operate the files in the cloud disk in Open page.</source>
-        <translation>Sie haben sich erfolgreich bei Ihrem Google-Konto angemeldet. Nachdem Sie WPS Office autorisiert haben, können Sie auf dem Startbildschirm von WPS Office auf „Öffnen“ klicken, um auf alle Dateien in Google Drive zuzugreifen und diese zu verwalten.</translation>
-    </message>
-    <message>
-        <source>Do not check this when logining next time</source>
-        <translation>Nicht noch einmal erinnern</translation>
-    </message>
-    <message>
-        <source>Authorize WPS Office to access Dropbox?</source>
-        <translation>Autorisieren WPS Office für Zugriff auf Dropbox?</translation>
-    </message>
-    <message>
-        <source>Authorize WPS Office to access Google Drive?</source>
-        <translation>Autorisieren WPS Office für Zugriff auf Google Drive?</translation>
-    </message>
-</context>
-<context>
-    <name>KRadarBackupLimitBubble</name>
-    <message>
-        <source>QQ</source>
-        <translation>QQ</translation>
-    </message>
-    <message>
-        <source> and so on %1 files</source>
-        <translation> und %1 Dateien</translation>
-    </message>
-    <message>
-        <source>View detail</source>
-        <translation>Details anzeigen</translation>
-    </message>
-    <message>
-        <source>Come from %1</source>
-        <translation>aus %1</translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Dokumente</translation>
-    </message>
-    <message>
-        <source>Desktop</source>
-        <translation>Desktop</translation>
-    </message>
-    <message>
-        <source>Over 1GB</source>
-        <translation>Über 1 GB</translation>
-    </message>
-    <message>
-        <source>WPS Cloud Service</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wechat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WPS Cloud Disk</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Manage cloud storage space</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KSyncDissociatedWidget</name>
-    <message>
-        <source>The following folders cannot continue to synchronize. The synchronized folders may have been removed, renamed, or deleted. Please reset</source>
-        <translation>Die folgenden Ordner können nicht mehr synchronisiert werden. Die synchronisierten Ordner können entfernt, umbenannt oder gelöscht worden sein. Starten Sie den Vorgang erneut.</translation>
-    </message>
-    <message>
-        <source>Sync setting exception</source>
-        <translation>Ausnahme bei der Synchronisierungseinstellung</translation>
-    </message>
-    <message>
-        <source>Synchronization folder supports adding up to %1, you have added %2, %3 of which may be moved, renamed or deleted, please reset</source>
-        <translation>Der Synchronisierungsordner unterstützt das Hinzufügen von bis zu %1. Sie haben %2 hinzugefügt. %3 davon können verschoben, umbenannt, gelöscht oder abgelaufen sein. Starten Sie den Vorgang erneut.</translation>
-    </message>
-</context>
-<context>
-    <name>KDesktopSyncUnavailableWidget</name>
-    <message>
-        <source>Known</source>
-        <translation>Verstanden</translation>
-    </message>
-</context>
-<context>
-    <name>afterlogin::topcactivity::KFissionActivityToastWidget</name>
-    <message>
-        <source>Sorry</source>
-        <translation>Es tut uns leid.</translation>
-    </message>
-    <message>
-        <source>You do not have permission to receive rewards</source>
-        <translation>Sie sind nicht qualifiziert, die Prämien zu erhalten.</translation>
-    </message>
-    <message>
-        <source>30-day Premium has been successfully credited to your account!</source>
-        <translation>Ihrem Konto wurde eine 30-tägige WPS Premium-Testversion hinzugefügt.</translation>
-    </message>
-    <message>
-        <source>Get more Days</source>
-        <translation>Mehr erhalten</translation>
-    </message>
-    <message>
-        <source>Congratulations!</source>
-        <translation>Herzlichen Glückwunsch!</translation>
-    </message>
-    <message>
-        <source>Get Again</source>
-        <translation>Erneut erhalten</translation>
-    </message>
-</context>
-<context>
-    <name>KDrag2ImEntry</name>
-    <message>
-        <source>switch off not intercept</source>
-        <translation>Nicht blockieren, wenn der Schalter ausgeschaltet ist</translation>
-    </message>
-    <message>
-        <source>user not verify not intercept</source>
-        <translation>Benutzer, deren Identität nicht überprüft wurde, sollten nicht blockiert werden.</translation>
-    </message>
-    <message>
-        <source>Company user not intercept</source>
-        <translation>Unternehmensanwender nicht blockieren</translation>
-    </message>
-    <message>
-        <source>sync cache file not intercept</source>
-        <translation>Cachedateien des Cloud-Speichers nicht blockieren</translation>
-    </message>
-    <message>
-        <source>get verify timeout not intercept</source>
-        <translation>Nicht blockieren, wenn ein Zeitüberschreitungsfehler bei der Abfrage des echten Namens des Benutzers auftritt.</translation>
-    </message>
-</context>
-<context>
-    <name>KChooseSyncLocationWidget</name>
-    <message>
-        <source>WPS-sync folder</source>
-        <translation>WPS – Synchronisierungsordner</translation>
-    </message>
-    <message>
-        <source>The folder will be synchronized to the local location, and changes in the folder will be synchronized to the cloud in real time</source>
-        <translation>Der Ordner wird mit einem lokalen Speicherort synchronisiert, und Änderungen im Ordner werden in Echtzeit mit der Cloud synchronisiert.</translation>
-    </message>
-    <message>
-        <source>The folder will be synchronized to the directory you selected after you modified the sync path</source>
-        <translation>Nachdem der Synchronisierungspfad geändert wurde, wird der Ordner mit dem von Ihnen gewählten Verzeichnis synchronisiert.</translation>
-    </message>
-</context>
-<context>
-    <name>KBatchProgress::KBatchProgressBubble</name>
-    <message>
-        <source>Cancel download</source>
-        <translation>Download abbrechen</translation>
-    </message>
-    <message>
-        <source>Downloading</source>
-        <translation>Download läuft</translation>
-    </message>
-    <message>
-        <source>I got it</source>
-        <translation>Verstanden</translation>
-    </message>
-    <message>
-        <source>Transmission details</source>
-        <translation>Übertragungsdetails</translation>
-    </message>
-    <message>
-        <source>WPS Cloud Service</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KExternalLinkManager</name>
-    <message>
-        <source>Shared file dose not exist</source>
-        <translation>Die freigegebene Datei existiert nicht.</translation>
-    </message>
-</context>
-<context>
-    <name>WpsboxCommomHeadWidget</name>
-    <message>
-        <source>WPS office assist</source>
-        <translation>WPS Office-Assistent</translation>
-    </message>
-</context>
-<context>
-    <name>WpsboxHeadWidget</name>
-    <message>
-        <source>WPS office assist</source>
-        <translation>WPS Office-Assistent</translation>
-    </message>
-</context>
-<context>
-    <name>KSetAutoUpdateFolderTipDlg</name>
-    <message>
-        <source>Set to auto update</source>
-        <translation>Auf „Automatische Aktualisierung“ festlegen</translation>
-    </message>
-    <message>
-        <source>When the folder is set to update automatically, the file will be updated in real time</source>
-        <translation>Wenn der Ordner auf automatische Aktualisierung eingestellt ist, werden die Dateien in Echtzeit aktualisiert und auf den aktuellen Computer heruntergeladen.</translation>
-    </message>
-    <message>
-        <source>Sync Manager</source>
-        <translation>Synchronisierung verwalten</translation>
-    </message>
-    <message>
-        <source>You can go to the </source>
-        <translation>Navigieren Sie zu </translation>
-    </message>
-    <message>
-        <source>, Manage all automatically updated cloud disk folders</source>
-        <translation>und verwalten Sie alle automatisch aktualisierten Cloud Storage-Ordner</translation>
-    </message>
-    <message>
-        <source>Not for the time being</source>
-        <translation>Nicht jetzt</translation>
-    </message>
-</context>
-<context>
-    <name>KSyncFolderWidgetMgr</name>
-    <message>
-        <source>cloud sync folder settings</source>
-        <translation>Einstellungen für Synchronisierungsordner</translation>
-    </message>
-</context>
-<context>
-    <name>KAddSyncFolderDlg</name>
-    <message>
-        <source>WPS - New Share Folder</source>
-        <translation>WPS – Synchronisierungsordner</translation>
-    </message>
-</context>
-<context>
-    <name>KOfficeAssistantMiniPageWidget</name>
-    <message>
-        <source>WPS Office Assistant Mini provides document search, rapid creation and other capabilities, which can be attached to the edge of the screen and appear when you need it. It is recommended to enable autorun.</source>
-        <translation>Mit dem WPS Office Assistant Mini können Sie die neuesten Dokumente bequem anzeigen und durchsuchen, Dokumente schnell erstellen und weitere Funktionen nutzen. Er kann am Rand des Bildschirms angehängt werden und erscheint, wenn Sie ihn brauchen. Es wird empfohlen, den Autostart zu aktivieren.</translation>
-    </message>
-    <message>
-        <source>Run the office assistant mini automatically when boot up</source>
-        <translation>Office Assistant Mini automatisch beim Starten ausführen</translation>
-    </message>
-    <message>
-        <source>Lightweight, convenient and worry-free WPS Office Assistant Mini is very happy to serve you!</source>
-        <translation>Der leichte, bequeme und störungsfreie WPS Office Assistant Mini steht Ihnen gerne zur Verfügung.</translation>
-    </message>
-</context>
-<context>
-    <name>KFlickerWidget</name>
-    <message>
-        <source>&amp;Message Flick</source>
-        <translation>Blinkende Aufforderung zur Meldung</translation>
-    </message>
-</context>
-<context>
-    <name>KSpaceFullUsageRemindBubble</name>
-    <message>
-        <source>Space Full</source>
-        <translation>Kein Speicherplatz</translation>
-    </message>
-</context>
-<context>
-    <name>KWpsCloudFileSettingsDialog</name>
-    <message>
-        <source>Cloud File Settings</source>
-        <translation>Cloud-Dateieinstellungen</translation>
-    </message>
-</context>
-<context>
-    <name>KWeekRemindTipWidget</name>
-    <message>
-        <source>Open it then the office assistant will only appear and remind you when important messages such as &quot;Your account is registered on a strange device&quot;, &quot;Someone@you&quot;, &quot;Schedule&quot;.</source>
-        <translation>Wenn Sie diese Funktion aktivieren, wird der Office-Assistent nur noch bei wichtigen Nachrichten angezeigt und Sie daran erinnern, z. B. „Ihr Konto ist bei einem unbekannten Gerät angemeldet“, „Jemand@Sie“ und „Agenda“.</translation>
-    </message>
-</context>
-<context>
-    <name>afterlogin::topcactivity::KActivityToastWidget</name>
-    <message>
-        <source>Gifts for new users have been sent to your account. Thank you for your support to WPS Office!</source>
-        <translation>Geschenke für neue Benutzer wurden an Ihr Konto gesendet. Vielen Dank, dass Sie WPS Office unterstützen.</translation>
-    </message>
-    <message>
-        <source>Claimed Successfully</source>
-        <translation>Erfolgreich beantragt</translation>
-    </message>
-</context>
-<context>
-    <name>KPermissionDeniedBubble</name>
-    <message>
-        <source>Failed to open %1</source>
-        <translation>Öffnen von %1 ist fehlgeschlagen</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have permission to view the document. Please sign in with the WPS Docs account you signed in on the website and open it again.</source>
-        <translation>Sie haben keine Berechtigung für die Anzeige des Dokuments. Melden Sie sich mit dem WPS Docs-Konto an, mit dem Sie sich auf der Website angemeldet haben, und öffnen Sie es erneut.</translation>
-    </message>
-    <message>
-        <source>View the WPS Docs account: %1</source>
-        <translation>WPS Docs-Konto anzeigen: %1</translation>
-    </message>
-</context>
-<context>
-    <name>KAuthorizeBaseDlg</name>
-    <message>
-        <source>Trusted device setting</source>
-        <translation>Vertrauenswürdige Geräte festlegen</translation>
-    </message>
-</context>
-<context>
-    <name>KDesktopSyncSettingWidget</name>
-    <message>
-        <source>Manage cloud space</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>KDesktopSyncStorageInfoWidget</name>
-    <message>
-        <source>Manage cloud space</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>TurnOnCheckExistItemHandler</name>
-    <message>
-        <source>desktop</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptDebugger</name>
-    <message>
-        <source>F3</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F5</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F9</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F10</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F11</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Line:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Console</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ctrl+F</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ctrl+G</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Error Log</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Debug Output</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Toggle Breakpoint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Find &amp;Next</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Find &amp;Previous</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Step Out</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Interrupt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go to Line</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ctrl+F10</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Step Into</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Step Over</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Find in Script...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Run to Cursor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Run to New Script</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shift+F3</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shift+F5</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shift+F11</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptBreakpointsModel</name>
-    <message>
-        <source>ID</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Single-shot</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Condition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ignore-count</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hit-count</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QSoftKeyManager</name>
-    <message>
-        <source>Ok</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Done</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptBreakpointsWidget</name>
-    <message>
-        <source>New</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptDebuggerLocalsModel</name>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptDebuggerStackModel</name>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Level</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Location</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptDebuggerCodeFinderWidget</name>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Whole words</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Case Sensitive</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptEngineDebugger</name>
-    <message>
-        <source>View</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Stack</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Debug Output</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Breakpoints</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Qt Script Debugger</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locals</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error Log</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Console</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loaded Scripts</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeCompiler</name>
-    <message>
-        <source>Attached properties cannot be used here</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: rect expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid attached object assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component elements may not contain properties other than id</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid grouped property access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property type</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot override FINAL property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: size expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign object to list</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: string expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign a value to a signal (expecting a script to be run)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: unknown enumeration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: unsupported type &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: datetime expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: 3D vector expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign multiple values to a script property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: date expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: time expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property assignment expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot create empty component specification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1&quot; cannot operate on &quot;%2&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid use of id property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Method names cannot begin with an upper case letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Empty signal assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate property name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Not an attached property name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component objects cannot declare new functions.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Incorrectly specified signal assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element is not creatable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component objects cannot declare new properties.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: color expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate method name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: boolean expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign to non-existent default property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias reference. An alias reference must be specified as &lt;id&gt; or &lt;id&gt;.&lt;property&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Non-existent attached object</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>IDs cannot start with an uppercase letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: point expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Can only assign one binding to lists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate default property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate signal name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: unsigned int expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>id is not unique</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property nesting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property names cannot begin with an upper case letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias reference. Unable to find id &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: &quot;%1&quot; is a read-only property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property value set multiple times</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal signal name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign primitives to lists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign object to property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property has already been assigned a value</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal method name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property use</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: number expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign a value directly to a grouped property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>IDs must start with a letter or underscore</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid empty ID</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected object assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ID illegally masks global JavaScript property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid component body specification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component objects cannot declare new signals.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>IDs must contain only letters, numbers, and underscores</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid use of namespace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: int expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid component id specification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal property name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Single property assignment expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Empty property assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signal names cannot begin with an upper case letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: url expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: script expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign multiple values to a singular property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Alias property exceeds alias bounds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias reference. An alias reference must be specified as &lt;id&gt;, &lt;id&gt;.&lt;property&gt; or &lt;id&gt;.&lt;value property&gt;.&lt;property&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No property alias location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1.%2&quot; is not available due to component versioning.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias location</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeAnchors</name>
-    <message>
-        <source>Cannot anchor item to self.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Possible anchor loop detected on horizontal anchor.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot anchor to a null item.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot specify top, bottom, and vcenter anchors.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Possible anchor loop detected on centerIn.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Baseline anchor cannot be used in conjunction with top, bottom, or vcenter anchors.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot specify left, right, and hcenter anchors.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Possible anchor loop detected on vertical anchor.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot anchor a horizontal edge to a vertical edge.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot anchor a vertical edge to a horizontal edge.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot anchor to an item that isn&apos;t a parent or sibling.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Possible anchor loop detected on fill.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeCompositeTypeManager</name>
-    <message>
-        <source>%1 %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resource %1 unavailable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type %1 unavailable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Namespace %1 cannot be used as a type</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::AudioEqualizer</name>
-    <message>
-        <source>%1 Hz</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QNetworkSessionPrivateImpl</name>
-    <message>
-        <source>Roaming error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The session was aborted by the user or system.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The requested operation is not supported by the system.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Session aborted by user or system</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unidentified Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Roaming was aborted or is not possible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The specified configuration cannot be used.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown session error.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptNewBreakpointWidget</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QAccessibleButton</name>
-    <message>
-        <source>Press</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF</name>
-    <message>
-        <source>Could not connect</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Access denied</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid protocol</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Output</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Disconnected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Server alert</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Out of memory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Not supported</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid URL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Video output error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>In use</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insufficient bandwidth</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Already exists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio output error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Multicast error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Proxy server not supported</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Permission denied</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Not found</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Not ready</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Proxy server error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The audio output device</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Streaming not supported</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio or video components could not be played</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Underflow</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Network communication error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Overflow</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Network unavailable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Path not found</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Decoder error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DRM error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown error (%1)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeTextInput</name>
-    <message>
-        <source>Could not instantiate cursor delegate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Could not load cursor delegate</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeListModel</name>
-    <message>
-        <source>set: value is not an object</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ListElement: cannot use script for property value</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ListModel: undefined property &apos;%1&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ListElement: cannot contain nested elements</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>insert: value is not an object</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>remove: index %1 out of range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>set: index %1 out of range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>append: value is not an object</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>move: out of range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>insert: index %1 out of range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ListElement: cannot use reserved &quot;id&quot; property</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeEngine</name>
-    <message>
-        <source>Version mismatch: expected %1, found %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>executeSql called outside transaction()</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Read-only Transaction</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>SQL transaction failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>transaction: missing callback</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>SQL: database version mismatch</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::EnvironmentalReverb</name>
-    <message>
-        <source>Reverb delay (ms)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Density (%)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Room HF level</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reverb level (mB)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Diffusion (%)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Decay HF ratio (%)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Decay time (ms)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reflections level (mB)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Room level (mB)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reflections delay (ms)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeVME</name>
-    <message>
-        <source>Cannot assign object to list</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign object type %1 with no default method</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot connect mismatched signal/slot %1 %vs. %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign value %1 to property %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot set properties on %1 as it is null</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign an object to signal property %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to create object of type %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign object to interface property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to create attached object</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeImportDatabase</name>
-    <message>
-        <source>is ambiguous. Found in %1 and in %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>local directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>import &quot;%1&quot; has no qmldir and no namespace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>- %1 is not a namespace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>module &quot;%1&quot; definition &quot;%2&quot; not readable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>module &quot;%1&quot; plugin &quot;%2&quot; not found</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>is not a type</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>module &quot;%1&quot; is not installed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>module &quot;%1&quot; version %2.%3 is not installed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>- nested namespaces not allowed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>plugin cannot be loaded for module &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>is instantiated recursively</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>is ambiguous. Found in %1 in version %2.%3 and %4.%5</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1&quot;: no such directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>cannot load module &quot;%1&quot;: File name case mismatch for &quot;%2&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>File name case mismatch for &quot;%2&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::MediaObject</name>
-    <message>
-        <source>Error opening source: resource is compressed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error opening source: media type could not be determined</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error opening source: resource not valid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error opening source: type not supported</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Failed to set requested IAP</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativePixmap</name>
-    <message>
-        <source>Error decoding: %1: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot open: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Failed to get image from provider: %1</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeBinding</name>
-    <message>
-        <source>Binding loop detected for property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeBindings</name>
-    <message>
-        <source>Binding loop detected for property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QXmlPatternistCLI</name>
-    <message>
-        <source>Error %1 in %2, at line %3, column %4: %5</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Warning in %1: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error %1 in %2: %3</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Warning in %1, at line %2, column %3: %4</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown location</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QNetworkAccessManager</name>
-    <message>
-        <source>Network access is disabled.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeXmlRoleList</name>
-    <message>
-        <source>An XmlListModel query must start with &apos;/&apos; or &quot;//&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>FakeReply</name>
-    <message>
-        <source>Invalid URL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fake error !</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeParser</name>
-    <message>
-        <source>Script import qualifiers must be unique.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unterminated regular expression class</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Library import requires a version</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid regular expression flag &apos;%0&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>JavaScript declaration outside Script element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal character</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unclosed comment at end of file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unclosed string at end of line</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Expected property type</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Expected type name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal escape sequence</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Readonly not yet supported</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unterminated regular expression literal</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property value set multiple times</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unterminated regular expression backslash sequence</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Identifier cannot start with numeric literal</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Script import requires a qualifier</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal syntax for exponential number</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property type modifier</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reserved name &quot;Qt&quot; cannot be used as an qualifier</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Expected token `%1&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected token `%1&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Expected parameter type</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal unicode escape sequence</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected property type modifier</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid import qualifier ID</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Syntax error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal escape squence</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptEdit</name>
-    <message>
-        <source>Disable Breakpoint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Breakpoint Condition:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Toggle Breakpoint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enable Breakpoint</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::AudioOutput</name>
-    <message>
-        <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which has higher preference or is specifically configured for this stream.&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Revert back to device &apos;%1&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which just became available and has higher preference.&lt;/html&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativePropertyChanges</name>
-    <message>
-        <source>Cannot assign to read-only property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PropertyChanges does not support creating state-specific objects.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::AbstractVideoPlayer</name>
-    <message>
-        <source>Pause failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Opening clip failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Getting position failed</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::AbstractMediaPlayer</name>
-    <message>
-        <source>Not ready to play</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error opening file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error opening source: resource not opened</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error opening URL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loading clip failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Setting volume failed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error opening resource</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Playback complete</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Download error</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeAbstractAnimation</name>
-    <message>
-        <source>Animation is an abstract class</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot animate non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot animate read-only property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeFlipable</name>
-    <message>
-        <source>front is a write-once property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>back is a write-once property</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeParentAnimation</name>
-    <message>
-        <source>Unable to preserve appearance under non-uniform scale</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to preserve appearance under complex transform</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to preserve appearance under scale of 0</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeParentChange</name>
-    <message>
-        <source>Unable to preserve appearance under non-uniform scale</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to preserve appearance under complex transform</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to preserve appearance under scale of 0</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QGstreamerPlayerSession</name>
-    <message>
-        <source>Unable to play %1</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeComponent</name>
-    <message>
-        <source>Invalid empty URL</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>createObject: value is not an object</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeVisualDataModel</name>
-    <message>
-        <source>Delegate component must be Item type.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QMediaPlaylist</name>
-    <message>
-        <source>The file could not be accessed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Could not add items to read only playlist.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Playlist format is not supported</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeConnections</name>
-    <message>
-        <source>Connections: script expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Connections: nested objects not allowed</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Connections: syntax error</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QNetworkSession</name>
-    <message>
-        <source>Invalid configuration.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QNetworkAccessDataBackend</name>
-    <message>
-        <source>Invalid URI: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Operation not supported on %1</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeAnimatedImage</name>
-    <message>
-        <source>Qt was built without support for QMovie</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeKeysAttached</name>
-    <message>
-        <source>Keys is only available via attached properties</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QMenuBar</name>
-    <message>
-        <source>Actions</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QMediaPlayer</name>
-    <message>
-        <source>The QMediaPlayer object does not have a valid service</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QNetworkAccessDebugPipeBackend</name>
-    <message>
-        <source>Socket error on %1: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remote host closed the connection prematurely on %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Write error writing to %1: %2</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeLoader</name>
-    <message>
-        <source>Loader does not support loading non-visual elements.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QStateMachine</name>
-    <message>
-        <source>Missing default state in history state &apos;%1&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Missing initial state in compound state &apos;%1&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No common ancestor for targets and source of transition from state &apos;%1&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeXmlListModelRole</name>
-    <message>
-        <source>An XmlRole query must not start with &apos;/&apos;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeBehavior</name>
-    <message>
-        <source>Cannot change the animation assigned to a Behavior.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::EffectFactory</name>
-    <message>
-        <source>Enabled</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::DsaVideoPlayer</name>
-    <message>
-        <source>Video display error</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::SurfaceVideoPlayer</name>
-    <message>
-        <source>Video display error</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::StereoWidening</name>
-    <message>
-        <source>Level (%)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::AudioPlayer</name>
-    <message>
-        <source>Getting position failed</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeKeyNavigationAttached</name>
-    <message>
-        <source>KeyNavigation is only available via attached properties</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeAnchorAnimation</name>
-    <message>
-        <source>Cannot set a duration of &lt; 0</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativePauseAnimation</name>
-    <message>
-        <source>Cannot set a duration of &lt; 0</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativePropertyAnimation</name>
-    <message>
-        <source>Cannot set a duration of &lt; 0</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeXmlListModel</name>
-    <message>
-        <source>Qt was built without support for xmlpatterns</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeLayoutMirroringAttached</name>
-    <message>
-        <source>LayoutMirroring is only available via attached properties</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>LayoutDirection attached property only works with Items</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeTypeLoader</name>
     <message>
-        <source>%1 %2</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Type %1 unavailable</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Namespace %1 cannot be used as a type</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Script %1 unavailable</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeCompiledBindings</name>
     <message>
-        <source>Binding loop detected for property &quot;%1&quot;</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeApplication</name>
     <message>
-        <source>Application is an abstract class</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
