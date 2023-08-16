@@ -101,18 +101,6 @@
         <source>Do not &amp;update automatically (not recommended)</source>
         <translation>Не обновлять автоматически (не рекомендуется) (&amp;u)</translation>
     </message>
-    <message>
-        <source>Association settings when upgrading: </source>
-        <translation>Настройки сопоставления во время обновления:</translation>
-    </message>
-    <message>
-        <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
-        <translation>Проверьте сопоставление файлов во время обновления и автоматически исправьте его, чтобы открывать файлы с помощью WPS по умолчанию</translation>
-    </message>
-    <message>
-        <source>Upgrade package download acceleration:</source>
-        <translation>Ускорение загрузки пакета обновления:</translation>
-    </message>
 </context>
 <context>
     <name>KSwitchAllInOneDlg</name>
@@ -175,14 +163,6 @@
     <message>
         <source>Old Multi-Component Mode</source>
         <translation>Многокомпонентный режим как в 2016</translation>
-    </message>
-    <message>
-        <source>Switching WPS Office to %1</source>
-        <translation>Переключение WPS Office на %1</translation>
-    </message>
-    <message>
-        <source>You are already in this mode, no need to switch.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -295,10 +275,6 @@
     <message>
         <source>Privacy policy</source>
         <translation>Политика конфиденциальности</translation>
-    </message>
-    <message>
-        <source>Proxy Settings</source>
-        <translation>Параметры прокси-сервера</translation>
     </message>
 </context>
 <context>
@@ -515,30 +491,6 @@ These operations can be undone. </source>
         <source>Compat Setting</source>
         <translation>Настройка совместимости</translation>
     </message>
-    <message>
-        <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation>Установите флажки внизу. Если они установлены, указанные файлы будут открыты в %1. В противном случае указанные файлы будут открыты в оригинальных сопоставленных приложениях.</translation>
-    </message>
-    <message>
-        <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
-        <translation>Если включить параметры внизу, %1 сохранит связанные документы в следующих выбранных форматах. В противном случае документы будут сохранены в формате %1.</translation>
-    </message>
-    <message>
-        <source>Open the following software with Kingsoft PDF by default:</source>
-        <translation>По умолчанию открывать следующее программное обеспечение с помощью WPS PDF:</translation>
-    </message>
-    <message>
-        <source>Pdf Document(*.pdf)</source>
-        <translation>Документ PDF (*.pdf)</translation>
-    </message>
-    <message>
-        <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation>Если включить параметры внизу, встроенные в документ объекты будут открыты в %1. %1 также может быть встроено в стороннее программное обеспечение или такие системы, как браузер IE и OA.</translation>
-    </message>
-    <message>
-        <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
-        <translation>Тут можно назначить %1 инструментом по умолчанию для открытия стандартных файлов, восстановления сопоставления с оригинальными файлами или сохранения файлов в стандартном формате. После настройки нажмите кнопку OK, чтобы подтвердить сопоставление файлов. Эти операции являются обратимыми.</translation>
-    </message>
 </context>
 <context>
     <name>KPageRebuild</name>
@@ -669,24 +621,6 @@ These operations can be undone. </source>
     <message>
         <source>Reset plugins</source>
         <translation>Сбросить подключаемые модули</translation>
-    </message>
-    <message>
-        <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation>Если кнопки панели инструментов перемешаны, закройте все приложения %1 и нажмите кнопку ниже, чтобы восстановить панели инструментов до их исходного состояния. Изменение вступит в силу после перезагрузки WPS.</translation>
-    </message>
-    <message>
-        <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation>Потеря компонентов в системном журнале может вызвать ошибки при использовании %1, например невозможность запускать другие приложения. Нажмите кнопку внизу, чтобы попытаться исправить это. Изменение вступит в силу после перезагрузки WPS.</translation>
-    </message>
-    <message>
-        <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
-        <translation>%1, если происходит автоматическое завершение работы или часть функций подключаемого модуля недоступна, это может являться результатом неполной установки подключаемого модуля. Нажмите кнопку внизу, чтобы попытаться исправить ошибку. Изменение вступит в силу после перезагрузки WPS.</translation>
-    </message>
-    <message>
-        <source> Failed to register WPS Pdf
-</source>
-        <translation> Не удалось зарегистрировать WPS PDF.
-</translation>
     </message>
 </context>
 <context>
@@ -1241,10 +1175,6 @@ These operations can be undone. </source>
         <source>Some files is in use, please save and close. Then try again.</source>
         <translation>Некоторые файлы в настоящий момент используются. Сохраните и закройте их, а затем повторите попытку.</translation>
     </message>
-    <message>
-        <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
-        <translation>Отключить предотвращение выполнения данных (DEP) (после настройки требуется перезапуск WPS) (&amp;C)</translation>
-    </message>
 </context>
 <context>
     <name>KLinkInfoList</name>
@@ -1396,22 +1326,6 @@ These operations can be undone. </source>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation>Использование WPS Office Cloud для командной работы.</translation>
     </message>
-    <message>
-        <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation>Используйте WPS PDF для чтения и редактирования PDF-документов.</translation>
-    </message>
-    <message>
-        <source>Use WPS Official to edit and play presentations.</source>
-        <translation>Использовать WPS Official Document для написания отчетов и создания макетов статей.</translation>
-    </message>
-    <message>
-        <source>Link to network to update Kingsoft PDF</source>
-        <translation>Подключитесь к сети, чтобы повысить уровень до WPS PDF</translation>
-    </message>
-    <message>
-        <source>WPS Cloud USB Drive</source>
-        <translation>Диск WPS Cloud USB</translation>
-    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -1463,20 +1377,6 @@ You can fix the errors encountered when using WPS Office or make advanced settin
         <source>Start &amp;Repairing</source>
         <translation>Начать &amp;восстановление</translation>
     </message>
-    <message>
-        <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
-        <translation>Если во время использования %1 возникли ошибки, например ошибки запуска программы или панели инструментов, закройте все приложения %1 и нажмите кнопку &quot;Начать восстановление&quot; ниже. Мы сделаем все возможное, чтобы восстановить приложения и вернуть их в активное состояние по умолчанию.</translation>
-    </message>
-    <message>
-        <source>General Repair/Configuration Tools
-You can fix the errors encountered when using %1 or make advanced settings here.</source>
-        <translation>
-Здесь можно устранить ошибки, которые возникли при использовании %1, или настроить расширенные параметры.</translation>
-    </message>
-    <message>
-        <source>%1 General Repair/Configuration Tools</source>
-        <translation>Основные средства восстановления и настройки %1</translation>
-    </message>
 </context>
 <context>
     <name>KPageBackUpClr</name>
@@ -1519,10 +1419,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
         <translation>&amp;Файлы резервной копии WPS Presentation</translation>
-    </message>
-    <message>
-        <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
-        <translation>Чтобы защитить безопасность документа, программа %1 создала достаточно резервных копий ваших оригинальных файлов в нескольких расположениях. Теперь вы можете удалить резервные копии файлов, чтобы сэкономить место на диске.</translation>
     </message>
 </context>
 <context>
@@ -1633,10 +1529,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
     <message>
         <source>DOC Documentation</source>
         <translation>Документация DOC</translation>
-    </message>
-    <message>
-        <source>New PDF</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1763,14 +1655,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
         <source>Kingsoft Mobi</source>
         <translation>Kingsoft Mobi</translation>
     </message>
-    <message>
-        <source>Kingsoft PDF Professional</source>
-        <translation>WPS PDF, профессиональная версия</translation>
-    </message>
-    <message>
-        <source>Use Kingsoft PDF to read and edit pdf.</source>
-        <translation>Используйте WPS PDF для чтения и редактирования PDF-документов.</translation>
-    </message>
 </context>
 <context>
     <name>KFunctionCustomization</name>
@@ -1797,14 +1681,6 @@ You can fix the errors encountered when using %1 or make advanced settings here.
     <message>
         <source>Disable template recommend.</source>
         <translation>Отключить рекомендации относительно шаблонов.</translation>
-    </message>
-    <message>
-        <source>Hide cloud shellext.</source>
-        <translation>Скрыть элементы меню файла WPS Cloud.</translation>
-    </message>
-    <message>
-        <source>Hide vas shellext.</source>
-        <translation>Скрыть элементы меню функции расширения WPS.</translation>
     </message>
 </context>
 <context>
@@ -2078,6 +1954,41 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     <message>
         <source>New document tips</source>
         <translation>Советы о новых документах</translation>
+    </message>
+</context>
+<context>
+    <name/>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
