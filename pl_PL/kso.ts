@@ -85,18 +85,6 @@
         <source>TextLabel</source>
         <translation>Etykieta tekstowa</translation>
     </message>
-    <message>
-        <source>&quot;Tab</source>
-        <translation>&quot;Karta</translation>
-    </message>
-    <message>
-        <source>O&amp;ffice Shortcuts</source>
-        <translation>Klawisze skrótów O&amp;ffice </translation>
-    </message>
-    <message>
-        <source>&amp;WPS Shortcuts</source>
-        <translation>Klawisze skrótów &amp;WPS </translation>
-    </message>
 </context>
 <context>
     <name>ContentChartErrorBarOptions</name>
@@ -1048,6 +1036,306 @@
     <message>
         <source>&amp;Transparency</source>
         <translation>&amp;Przezroczystość</translation>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_FORWARD_OR_NEXT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACTIONBUTTONFORWARDNEXT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HOME</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HOME</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACTIONBUTTONHOME</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_DataTable</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>HINT_DATATABLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_QUAD_ARROW</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_QUADARROW</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_RIGHT_TRIANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_TRIANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_RIGHTTRIANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_DataLabel</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>HINT_DATALABEL</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_PARALLELOGRAM</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_PARALLELOGRAM</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_PARALLELOGRAM</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_TEXTWAVE1</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_TEXTWAVE3</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_Duplicate</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_PasteEquidistance</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_DODECAGON</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_DODECAGON</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_VERTICAL_SCROLL</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_VERTICALSCROLL</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_DELETE_FORMATTING</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_DELETE_GODOWN_BARS</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_DELETE_UPDOWN_LINE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_Legend</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>HINT_LEGEND</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_OCTAGON</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_OCTAGON</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_OCTAGON</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_PlotArea</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>HINT_PLOTAREA</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_TEXTWAVE2</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_TEXTWAVE4</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_HALF_FRAME</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_HALF_FRAME</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_HELP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_HELP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACTIONBUTTONHELP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeShadowDown</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeShadowLeft</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeShadowRight</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeShadowUp</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CHAIR</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CHAIR1</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_AddonAuthDlg_CancelButton</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_CloudResource_CancelBtn</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_SN_ET</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_etProductName</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ISOSCELES_TRIANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ISOSCELES_TRIANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ISOCELESTRIANGLE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_NewPresent_Caption</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_NewPresent_DisplayName</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3246,44 +3534,6 @@ Used to show hierarchical relationships</source>
         <translation>Schemat organizacyjny
 Służy do pokazywania relacji hierarchicznych</translation>
     </message>
-    <message>
-        <source>Enter network password to connect to:%1</source>
-        <translation>Podłącz do %1
-Wprowadź swoje dane uwierzytelniające</translation>
-    </message>
-    <message>
-        <source>Currently using %1 keyboard shortcuts template, for more details of the differences between the two sets of templates WPS and Generic Office, please</source>
-        <translation>Używasz szablonu klawiszy skrótów %1. Więcej informacji na temat różnic między szablonem klawiszy skrótów WPS i ogólnym szablonem klawiszy skrótów Office:</translation>
-    </message>
-    <message>
-        <source>The XML extension package security settings have been disabled, which will facilitate solution development but allow for the running of unsafe XML extension package components. Do you re-enable the XML extension package security settings?</source>
-        <translation>Funkcja bezpieczeństwa pakietu rozszerzeń XML została dezaktywowana. Ułatwia to opracowywanie rozwiązania, lecz umożliwia uruchomienie niebezpiecznych elementów pakietu rozszerzeń XML. Czy na pewno chcesz ponownie aktywować bezpieczeństwo pakietu rozszerzeń XML?</translation>
-    </message>
-    <message>
-        <source>%1
-Please carefully identify the website to ensure that it is trustworthy and safe, so as not to disturb you by sending irrelevant content, or Because unsafe operations cause you losses. If you trust it, it will have the right to display its web page information in WPS application and access document content and computer resources.</source>
-        <translation>%1
-Proszę uważnie zapoznać się ze stroną internetową, aby upewnić się, że jest godna zaufania oraz bezpieczna, aby zyskać pewność, że nieistotna treść wysyłana przez nią nie zakłóci pracy ani też użytkownik nie odniesienie szkód wskutek niebezpiecznych działań. Jeżeli ufasz stronie, nadasz jej prawa do wyświetlania informacji strony internetowej w aplikacji WPS oraz dostęp do zawartości dokumentu oraz zasobów komputerowych.</translation>
-    </message>
-    <message>
-        <source>Part of %s</source>
-        <comment>kso_sActivePartOf</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source> if you still want to assign this shortcut, and view its original destination.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Close</source>
-        <comment>kso_Nav_Close</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Stop</source>
-        <comment>kso_Nav_Stop</comment>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QWidget</name>
@@ -3752,510 +4002,6 @@ Proszę uważnie zapoznać się ze stroną internetową, aby upewnić się, że 
     <message>
         <source>Launch Media</source>
         <translation>Uruchom multimedia</translation>
-    </message>
-    <message>
-        <source>CD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>DOS</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cut</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WWW</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Book</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>News</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Send</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shop</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>XFer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>View</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Split Screen</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Eject</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kanji</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Music</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Paste</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Phone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reply</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sleep</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Tools</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Video</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hiragana</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wireless</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Multiple Candidate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zenkaku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Rewind</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Repeat</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Toggle Call/Hangup</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zoom In</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Camera Shutter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ultra Wide Band</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Special</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Media Pause</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Word Processor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kana Shift</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Meeting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Menu PB</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Brightness Up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul PostHanja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Kana Lock</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Community</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Random Play</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Henkan</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Home Office</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Last Number Redial</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Logoff</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Market</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Massyo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Option</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Romaji</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Travel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>WebCam</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hiragana Katakana</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Top Menu</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hot Links</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Cycle Track</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zoom Out</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>iTouch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Previous Candidate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Toggle Media Play/Pause</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Eisu Shift</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Code input</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Camera Focus</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Adjust Brightness</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Spreadsheet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Eisu toggle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Brightness Down</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Grab</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Monitor Brightness Up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Battery</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Katakana</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hibernate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Application Left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Voice Dial</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Browser</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Menu</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Back Forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard Light On/Off</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Mail Forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Messenger</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Banja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Hanja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Start</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rotation KB</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rotation PB</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calculator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Support</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Suspend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Romaja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>My Sites</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rotate Windows</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Touroku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Zenkaku Hankaku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Jeonja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subtitle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul Jamo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bluetooth</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Muhenkan</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Screensaver</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Spellchecker</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul PreHanja</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Terminal</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add Favorite</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Finance</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Task Panel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wake Up</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Power Off</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>LightBulb</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hankaku</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hangul End</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Monitor Brightness Down</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Application Right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pictures</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5086,66 +4832,6 @@ Ta pozycja może nie być bezpieczna.</translation>
     <message>
         <source>PhotoDraw Files</source>
         <translation>Pliki programu PhotoDraw</translation>
-    </message>
-    <message>
-        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation>To oprogramowanie może być wykorzystywane tylko przez indywidualnego użytkownika do osobistych celów. Nie może być wykorzystywane do celów komercyjnych, takich jak produkcja, cele biznesowe i inne. ||To oprogramowanie obejmuje: Projekt FreeType Project z bezpłatnym uwierzytelnieniem opartym na zasadach autoryzacji licencji The FreeType License, chińskich segmentach słów (Chinese Word Segment), chińskich adnotacjach fonetycznych (Chinese Phonetic Annotations) i technologii konwersji pomiędzy uproszczonym językiem chińskim i tradycyjnym językiem chińskim, dostarczone przez Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology; Hunspell Spell Checker oraz kod źródłowy Hunspell to kod otwartego źródła, który można zastosować do wielu licencji: MPL 1.1, GPL 2.0 i LGPL 2.1; Sqlite3 zgodnie z bezpłatną komercyjną licencją, wykorzystywanie danych do zapisu i odczytu kodu otwartego źródła.</translation>
-    </message>
-    <message>
-        <source>WPS Writer cannot inert a file into self. (%1)</source>
-        <translation>WPS Writer nie może wprowadzić dokumentu do samego dokumentu. (%1)</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when backup is running! Please try the following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation>%s błędów/błędy wystąpiło/wystąpiły podczas tworzenia kopii zapasowej. Wypróbuj następujące operacje: 
-•Sprawdź, czy katalog kopii zapasowych ma uprawnienia do zapisu, lub zmień katalog kopii zapasowych.
-•[Cofnij] poprzednie operacje i [Zapisz]; 
-•[Zapisz jako...] pliki tekstowe（*.txt）; 
-•[Kopiuj/Wklej] zawartość do nowego pliku; 
-•Odrzuć zmiany w tym pliku.
-(%s)</translation>
-    </message>
-    <message>
-        <source>Save As Video</source>
-        <translation>Zapisz jako film</translation>
-    </message>
-    <message>
-        <source>%s Errors occur when backup is running! Please try the  following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <translation>%s błędów/błędy wystąpiło/wystąpiły podczas tworzenia kopii zapasowej. Wypróbuj następujące operacje:
-•Sprawdź, czy katalog kopii zapasowych ma uprawnienia do zapisu, lub zmień katalog kopii zapasowych.
-•[Cofnij] poprzednie operacje i [Zapisz]; 
-•[Kopiuj/Wklej] zawartość do nowego pliku; 
-•Odrzuć zmiany w tym pliku.</translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; Founder fonts, and gets its authorization according to the official authorization clauses of Founder; Sqlite3, According to its free commercial license, using its data to store and read open source code.</source>
-        <translation>To oprogramowanie obejmuje: Projekt FreeType Project z bezpłatnym uwierzytelnieniem opartym na zasadach autoryzacji licencji The FreeType License, chińskich segmentach słów (Chinese Word Segment), chińskich adnotacjach fonetycznych (Chinese Phonetic Annotations) i technologii konwersji pomiędzy uproszczonym językiem chińskim i tradycyjnym językiem chińskim, dostarczone przez Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology; Hunspell Spell Checker oraz kod źródłowy Hunspell to kod otwartego źródła, który można zastosować do wielu licencji: MPL 1.1, GPL 2.0 i LGPL 2.1; czcionki Founder powinny być wykorzystywane w WPS Office Linux, z oficjalną autoryzacją ze strony Founder; Sqlite3 zgodnie z bezpłatną komercyjną licencją, wykorzystywanie danych do zapisu i odczytu kodu otwartego źródła.</translation>
-    </message>
-    <message>
-        <source>Cannot save or upload. This file is being edited by other users.</source>
-        <comment>_kso_TX_FILE_EDITING_CONFLICT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot save or upload. This file has been updated by other users.</source>
-        <comment>_kso_TX_FILE_UPDATE_CONFLICT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All Files(*.*)</source>
-        <comment>_kso_SaveToFileAllFile</comment>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11262,46 +10948,6 @@ Typ linii: %3</translation>
         <source>WordArt: Deflate-Inflate</source>
         <translation>WordArt: wklęśnięcie i rozdęcie</translation>
     </message>
-    <message>
-        <source>Delete Background</source>
-        <comment>DRAWING2_DELETE_BACKGROUND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The datasource file is not available.</source>
-        <comment>DRAWING2_WEBSHAPE_DataSourceFileUnavailable_Err</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>A datasource in &quot;%s&quot; is opened by WPS Spreadsheets. To edit the data for this you need to close it first.</source>
-        <comment>DRAWING2_WEBSHAPE_EditDataSource_Err</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Image Set Background</source>
-        <comment>DRAWING2_IMAGE_SETBACKGROUND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add Text Box</source>
-        <comment>ADD_Text_Box</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Background</source>
-        <comment>DRAWING2_CHANGE_BACKGROUND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert relationship map</source>
-        <comment>INSERT_RELATIONSHIP_MAP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Group</source>
-        <comment>DRAWINGSTR_GROUPNAME</comment>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QPrintDialog</name>
@@ -11643,14 +11289,6 @@ Proszę wybierz inną nazwę pliku.</translation>
         <source>B7 (88 x 125 mm)</source>
         <translation>B7 (88 x 125 mm)</translation>
     </message>
-    <message>
-        <source>Print current page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxScannerDlg</name>
@@ -11701,22 +11339,6 @@ Proszę wybierz inną nazwę pliku.</translation>
     <message>
         <source>Scanner Setup</source>
         <translation>Konfiguracja skanera</translation>
-    </message>
-    <message>
-        <source>Scan Color:</source>
-        <translation>Kolor skanu:</translation>
-    </message>
-    <message>
-        <source>The Scanner Automatically Adapt</source>
-        <translation>Adaptacja skanera</translation>
-    </message>
-    <message>
-        <source>Scan Dpi:</source>
-        <translation>Skan, dpi:</translation>
-    </message>
-    <message>
-        <source>Searched</source>
-        <translation>Wyszukiwanie zakończone.</translation>
     </message>
 </context>
 <context>
@@ -11813,94 +11435,6 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
         <source>issue number:</source>
         <translation>Numer wydania:</translation>
     </message>
-    <message>
-        <source>Label as classified</source>
-        <translation>Oznacz jako poufne</translation>
-    </message>
-    <message>
-        <source>who to infrom:</source>
-        <translation>Zakres powiadomienia:</translation>
-    </message>
-    <message>
-        <source>change time:</source>
-        <translation>Zmieniono w:</translation>
-    </message>
-    <message>
-        <source>lift person:</source>
-        <translation>Wyjątek w zakresie poufności uczyniony przez:</translation>
-    </message>
-    <message>
-        <source>setup time:</source>
-        <translation>Poufność potwierdzona w:</translation>
-    </message>
-    <message>
-        <source>document name:</source>
-        <translation>Nazwa dokumentu:</translation>
-    </message>
-    <message>
-        <source>issue copy number:</source>
-        <translation>Wydane kopie:</translation>
-    </message>
-    <message>
-        <source>classification setup based on:</source>
-        <translation>Podstawa poufności:</translation>
-    </message>
-    <message>
-        <source>draft time:</source>
-        <translation>Czas wersji roboczej:</translation>
-    </message>
-    <message>
-        <source>issue person:</source>
-        <translation>Wydał(a):</translation>
-    </message>
-    <message>
-        <source>unit name:</source>
-        <translation>Nazwa jednostki:</translation>
-    </message>
-    <message>
-        <source>lift time:</source>
-        <translation>Wyjątek w zakresie poufności uczyniony w:</translation>
-    </message>
-    <message>
-        <source>issue time:</source>
-        <translation>Czas wydania:</translation>
-    </message>
-    <message>
-        <source>desc of inform:</source>
-        <translation>Opis powiadomienia:</translation>
-    </message>
-    <message>
-        <source>change person:</source>
-        <translation>Zmieniono przez:</translation>
-    </message>
-    <message>
-        <source>level of calssification:</source>
-        <translation>Poziom poufny:</translation>
-    </message>
-    <message>
-        <source>drafter:</source>
-        <translation>Osoba tworząca wersję roboczą:</translation>
-    </message>
-    <message>
-        <source>resson:</source>
-        <translation>Wydanie:</translation>
-    </message>
-    <message>
-        <source>decrypt person:</source>
-        <translation>Anulowane przez:</translation>
-    </message>
-    <message>
-        <source>issue opinion:</source>
-        <translation>Komentarze wydawane:</translation>
-    </message>
-    <message>
-        <source>decrypt time:</source>
-        <translation>Anulowano w:</translation>
-    </message>
-    <message>
-        <source>setup person:</source>
-        <translation>Poufność potwierdzona przez:</translation>
-    </message>
 </context>
 <context>
     <name>KAxOleObjectSite</name>
@@ -11927,18 +11461,6 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source>Warning</source>
         <translation>Ostrzeżenie</translation>
-    </message>
-    <message>
-        <source>Cannot open this object.</source>
-        <translation>Nie znaleziono aplikacji obsługujących otwieranie bieżącego obiektu.</translation>
-    </message>
-    <message>
-        <source>WPS Office cannot open this object. Link to this object might be invalid or changed.</source>
-        <translation>WPS Office nie może otworzyć bieżącego obiektu. Łącze do tego obiektu może być nieprawidłowe lub mogło ulec zmianie.</translation>
-    </message>
-    <message>
-        <source>WPS Office cannot open this object. You can open it on your computer with other apps. To save your changes, please insert it after changing it with other apps.</source>
-        <translation>WPS Office nie obsługuje otwierania bieżącego obiektu. Można otworzyć go na komputerze za pomocą aplikacji usługodawców zewnętrznych. Aby zapisywać zmiany dokonane w obiekcie, wprowadź obiekt ponownie po dokonaniu zmian przy użyciu aplikacji usługodawców zewnętrznych.</translation>
     </message>
 </context>
 <context>
@@ -12278,22 +11800,6 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
         <source>About WPS Office(Kingsoft Kylin WPS)</source>
         <translation>WPS Office(Kingsoft Kylin WPS) — informacje</translation>
     </message>
-    <message>
-        <source>Probation period %1 days - Due time %2 </source>
-        <translation>Okres próbny: %1 dni – data ważności: %2</translation>
-    </message>
-    <message>
-        <source>%1-%2year%3month%4day Expired</source>
-        <translation>Wygasło dnia %1-%2-%3-%4</translation>
-    </message>
-    <message>
-        <source>Due time %1</source>
-        <translation>Data ważności: %1</translation>
-    </message>
-    <message>
-        <source>trial unlimited</source>
-        <translation>Wersja próbna</translation>
-    </message>
 </context>
 <context>
     <name>KxApplyPermissionTipDlg</name>
@@ -12375,10 +11881,6 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source>Rejected</source>
         <translation>Odrzucono</translation>
-    </message>
-    <message>
-        <source>Label as classified</source>
-        <translation>Oznacz jako poufne</translation>
     </message>
 </context>
 <context>
@@ -12510,14 +12012,6 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source>Comfirm password:</source>
         <translation>Potwierdź hasło:</translation>
-    </message>
-    <message>
-        <source>Watermark protection, the watermark is composed of the name of the enterprise, the outsider and the production time</source>
-        <translation>Ochrona znakiem wodnym. Znak wodny składa się z nazwy przedsiębiorstwa, nadawcy dokumentu wychodzącego oraz czasu produkcji.</translation>
-    </message>
-    <message>
-        <source>Make Ourward Document</source>
-        <translation>Utwórz dokument wychodzący</translation>
     </message>
 </context>
 <context>
@@ -12931,54 +12425,6 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
         <source>Please enter a new password with more than 8 digits</source>
         <translation>Wprowadź nowe hasło mające ponad 8 znaków</translation>
     </message>
-    <message>
-        <source>The network connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation>Podczas łączenia się z siecią wystąpił wyjątek i nie można zmienić hasła offline. Sprawdź sieć i spróbuj ponownie później.</translation>
-    </message>
-    <message>
-        <source>Please click broswer button to import</source>
-        <translation>Kliknij przycisk przeglądarki, aby dokonać importu.</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation>Nie udało się zaimportować klucza offline, ponieważ nie masz uprawnienia offline dla żadnego dokumentu.</translation>
-    </message>
-    <message>
-        <source>The server connection is abnormal, the offline password cannot be %1, please check the network and try again.</source>
-        <translation>Podczas łączenia z serwerem wystąpił wyjątek. Nie można przeprowadzić operacji %1 dotyczącej hasła offline. Spróbuj później.</translation>
-    </message>
-    <message>
-        <source>modified</source>
-        <translation>Zmodyfikowano</translation>
-    </message>
-    <message>
-        <source>setted</source>
-        <translation>Ustawienia</translation>
-    </message>
-    <message>
-        <source>Please enter a new password again</source>
-        <translation>Ponownie wprowadź nowe hasło</translation>
-    </message>
-    <message>
-        <source>Modify password successfully</source>
-        <translation>Zmiana hasła przebiegła pomyślnie.</translation>
-    </message>
-    <message>
-        <source>Offline secret key has been successfully cached to your local computer.</source>
-        <translation>Klucz offline został pomyślnie zapisany w pamięci podręcznej lokalnego komputera.</translation>
-    </message>
-    <message>
-        <source>When there is no network, the encrypted document can be opened by verifying the offline password of the current account.</source>
-        <translation>W przypadku braku dostępu do sieci zaszyfrowany dokument można otworzyć, weryfikując hasło offline bieżącego konta.</translation>
-    </message>
-    <message>
-        <source>The original offline password input wrong</source>
-        <translation>Pierwotne wprowadzone hasło offline jest nieprawidłowe.</translation>
-    </message>
-    <message>
-        <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
-        <translation>Nie można zaimportować pliku, ponieważ format pliku jest nieprawidłowy lub plik jest uszkodzony. Skontaktuj się z administratorem.</translation>
-    </message>
 </context>
 <context>
     <name>KxPermissionTipDlg</name>
@@ -13321,42 +12767,6 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
         <source>ofd file</source>
         <translation>Plik ofd</translation>
     </message>
-    <message>
-        <source>distribute unit</source>
-        <translation>Podmiot wydający</translation>
-    </message>
-    <message>
-        <source>people info</source>
-        <translation>Informacje personelu</translation>
-    </message>
-    <message>
-        <source>strictly confidential</source>
-        <translation>Ściśle poufne</translation>
-    </message>
-    <message>
-        <source>File level</source>
-        <translation>Plik, poziom poufny:</translation>
-    </message>
-    <message>
-        <source>recieve unit</source>
-        <translation>Jednostka odbiorcy</translation>
-    </message>
-    <message>
-        <source>confidential</source>
-        <translation>Poufne</translation>
-    </message>
-    <message>
-        <source>distribution settings</source>
-        <translation>Ustawienia dystrybucji</translation>
-    </message>
-    <message>
-        <source>sy info setting</source>
-        <translation>Informacja źródłowa</translation>
-    </message>
-    <message>
-        <source>Knowledgeable range</source>
-        <translation>Zakres powiadomienia:</translation>
-    </message>
 </context>
 <context>
     <name>KxVbaPromptDlg</name>
@@ -13517,10 +12927,6 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
         <source>Don&apos;t Save</source>
         <translation>Nie zapisuj</translation>
     </message>
-    <message>
-        <source>Open in read-only</source>
-        <translation>Otwórz jako tylko do odczytu</translation>
-    </message>
 </context>
 <context>
     <name>QMessageBox</name>
@@ -13547,22 +12953,6 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <message>
         <source>Hide Details...</source>
         <translation>Ukryj szczegóły...</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;p&gt;Qt is a C++ toolkit for cross-platform application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants. Qt is also available for embedded devices as Qt for Embedded Linux and Qt for Windows CE.&lt;/p&gt;&lt;p&gt;Qt is available under three different licensing options designed to accommodate the needs of our various users.&lt;/p&gt;&lt;p&gt;Qt licensed under our commercial license agreement is appropriate for development of proprietary/commercial software where you do not want to share any source code with third parties or otherwise cannot comply with the terms of the GNU LGPL version 2.1 or GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU LGPL version 2.1 is appropriate for the development of Qt applications (proprietary or open source) provided you can comply with the terms and conditions of the GNU LGPL version 2.1.&lt;/p&gt;&lt;p&gt;Qt licensed under the GNU General Public License version 3.0 is appropriate for the development of Qt applications where you wish to use such applications in combination with software subject to the terms of the GNU GPL version 3.0 or where you are otherwise willing to comply with the terms of the GNU GPL version 3.0.&lt;/p&gt;&lt;p&gt;Please see &lt;a href=&quot;http://qt.nokia.com/products/licensing&quot;&gt;qt.nokia.com/products/licensing&lt;/a&gt; for an overview of Qt licensing.&lt;/p&gt;&lt;p&gt;Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies).&lt;/p&gt;&lt;p&gt;Qt is a Nokia product. See &lt;a href=&quot;http://qt.nokia.com/&quot;&gt;qt.nokia.com&lt;/a&gt; for more information.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14206,155 +13596,7 @@ Zawsze wykonuj tą akcję.</translation>
         <translation>Zarządzaj duplikatami</translation>
     </message>
     <message>
-        <source>printing left %1 copies, the current setting exceeds the limit, please input again</source>
-        <translation>Pozostałe kopie do wydruku: %1. Bieżące ustawienie przekracza limit. Wprowadź ponownie.</translation>
-    </message>
-    <message>
-        <source>local font, click available</source>
-        <translation>Kliknij, aby użyć dostępnych czcionek lokalnych</translation>
-    </message>
-    <message>
-        <source>do not has current document&apos;s printing right</source>
-        <translation>Nie masz uprawnienia do drukowania w przypadku bieżącego pliku.</translation>
-    </message>
-    <message>
-        <source>must be 6-16 chars(case-sensitive)</source>
-        <translation>Musi zawierać od 6 do 16 znaków (uwzględniaj wielkość).</translation>
-    </message>
-    <message>
-        <source>Reading layout, eye protection mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Small, fast, and feature-rich PDF App. View, edit and annotate PDF files in a better way</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add text comments, comment view mode, and print with all comments</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Freehand-writing and drawing with graffiti tools</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Organize page order, delete, insert, replace, clip or rotate pages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share your doc as a copy or an editable link, scan QRCode to send files to mobile</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fast and stable for view PDF files, unlimited multi-tab mode, eye protection mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Highlight, underline and strikeout text in PDF file, highlight area </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share as an editable link for collaborate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fully compatible with Microsoft Word</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Print and print with the watermark or all comments</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Merge Split Tables</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Edit text &amp; image in PDF files. Rotate, flip and compress images in PDF files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert text to fill and create signatures to sign PDFs</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert line, arrow and more shapes, insert custom watermark</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unique document creation and management home page, start all your work in one place</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Text to Spreadsheets columns</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert Screengrab or convert pictures to text(OCR)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PDF to Word, Picture to Text(OCR), Picture to PDF, Backup Center and more easy-to-use tools</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unlimited multi-tab mode, Night theme, reading view, and eye protection mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Combine multiple PDF documents into a new PDF</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>View side by side makes comparing easier</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Store and sync files across all platforms and devices, including Windows, Mac, Android, iOS, Linux and Web</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export spreadsheets to Picture </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All premium features are also available for Mobile, Mac and Web WPS Office</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Organize team content within the Team Space, local edit and online real-time collaboration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Convert or batch convert PDF to Microsoft Word, Excel, Powerpoint or TXT</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Share PDF file as a link for comments to mail or WhatsApp</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Export document to Picture or long picture</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>SlideShow mode enables to present your PDF file as PowerPoint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reading view  and eye protection mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1&quot; duplicates a previous role name and will be disabled.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PulseAudio Sound Server</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>invalid query: &quot;%1&quot;</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -16450,251 +15692,6 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
         <source>Smooth Point</source>
         <translation>Punkt gładki</translation>
     </message>
-    <message>
-        <source>Video</source>
-        <translation>Wideo</translation>
-    </message>
-    <message>
-        <source>Failed to save the file as video!Please check whether your video exists or you have access to the save path.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert JdeControl</source>
-        <translation>Wprowadź sterowanie JDE</translation>
-    </message>
-    <message>
-        <source>Failed to save the file as video!Please check whether you have access to the save path.</source>
-        <translation>Nie udało się odczytać i zapisać filmu. Sprawdź uprawnienia dostępu do dysku.</translation>
-    </message>
-    <message>
-        <source>Unidentifiable sound format.</source>
-        <translation>Niemożliwy do zidentyfikowania format audio.</translation>
-    </message>
-    <message>
-        <source>WPS Office has blocked access to this embedded object to keep your safe.</source>
-        <translation>WPS Office zablokował dostęp do tego obiektu osadzonego, aby zachować bezpieczeństwo.</translation>
-    </message>
-    <message>
-        <source>Save Failed</source>
-        <translation>Zapisywanie nie powiodło się</translation>
-    </message>
-    <message>
-        <source>WPS Office Security Notice</source>
-        <translation>Komunikat WPS Office dotyczący bezpieczeństwa</translation>
-    </message>
-    <message>
-        <source>Insert AutoShape</source>
-        <translation>Wstaw autokształt</translation>
-    </message>
-    <message>
-        <source>Insert AutoShape</source>
-        <comment>DgUil_InsertShape</comment>
-        <translation>Wstaw autokształt</translation>
-    </message>
-    <message>
-        <source>Highlight Color</source>
-        <translation>Wyróżnienie</translation>
-    </message>
-    <message>
-        <source>Reset Crop</source>
-        <translation>Zresetuj kształt i rozmiar</translation>
-    </message>
-    <message>
-        <source>Unidentifiable movie format.</source>
-        <translation>Niemożliwy do zidentyfikowania format wideo.</translation>
-    </message>
-    <message>
-        <source>Save as Video</source>
-        <translation>Zapisz jako film</translation>
-    </message>
-    <message>
-        <source>Failed to save the file as video!Please check whether your video exists.</source>
-        <translation>Nie udało się załadować filmu. Sprawdź, czy film istnieje i czy nie jest uszkodzony.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
-        <translation>Błąd</translation>
-    </message>
-    <message>
-        <source>Failed to save the file as video!Please retry.</source>
-        <translation>Nie udało się zapisać. Spróbuj ponownie.</translation>
-    </message>
-    <message>
-        <source>Fragment Shapes</source>
-        <comment>DgUil_KSO_Cmd_FragmentShapes</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reset Picture Color</source>
-        <comment>DgUil_ResetPictureColor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Format Text Box</source>
-        <comment>DgUil_FormatTextBox</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sharpen/Soften</source>
-        <comment>DgUil_SharpenSoften</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Combine Shapes</source>
-        <comment>DgUil_KSO_Cmd_HollowShapes</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert AutoShape</source>
-        <comment>DgUil_InsertAutoShape</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Smart Compression</source>
-        <comment>DgUil_SmartCompressPicture</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Drawing Order</source>
-        <comment>DgUil_DrawingOrder</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No</source>
-        <comment>DgUil_DoNotCompressPicture</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Lock Aspect Ratio</source>
-        <comment>DgUil_LockAspectRatio</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delete Shape</source>
-        <comment>DgUil_DeleteShape</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Picture Frame</source>
-        <comment>DgUil_KSO_Cmd_ClearPictureFrame</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Edit WordArt</source>
-        <comment>DgUil_EditWordArt</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Series</source>
-        <comment>DgUil_KSO_Cmd_ChangeSeries </comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Picture Reset</source>
-        <comment>DgUil_PictureReset</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Paragraph Style</source>
-        <comment>DgUil_ParagraphStyle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Color Saturation Effect</source>
-        <comment>DgUil_ColorSaturationEffect</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create Content Control</source>
-        <comment>DgUil_CreateContentControl</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Shape Name</source>
-        <comment>DgUil_ChangeShapeName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Coloring By Fan Color</source>
-        <comment>DgUil_KSO_Cmd_ColoringByFanColor </comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Color Tone Effect</source>
-        <comment>DgUil_ColorToneEffect</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subtract Shapes</source>
-        <comment>DgUil_KSO_Cmd_SubtractShapes</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Intersect Shapes </source>
-        <comment>DgUil_KSO_Cmd_IntersectShapes</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Chart Area</source>
-        <comment>DgUil_ChangeChartArea</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Brightness/Contrast</source>
-        <comment>DgUil_BrightnessContrast</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Union Shapes</source>
-        <comment>DgUil_KSO_Cmd_UniteShapes</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common Compression</source>
-        <comment>Dguil_CommonCompressPicture</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Relative to Original</source>
-        <comment>DgUil_RelativeToOriginal</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert Text Box</source>
-        <comment>DgUil_KSO_Cmd_AddTextbox</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Picture</source>
-        <comment>DgUil_DlgChangePictureTitle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Crop</source>
-        <comment>DgUil_KSO_Cmd_CropPicture</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Format Shape</source>
-        <comment>DgUil_KSO_Cmd_ArrowStylePalette</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>3-D</source>
-        <comment>DgUil_KSO_Cmd_3DDepthInfinity</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Nudge Shadow</source>
-        <comment>DgUil_KSO_Cmd_NudgeShadowDown</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Nudge Object</source>
-        <comment>DgUil_KSO_Cmd_NudgeDown</comment>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgOfflineKeyAuth</name>
@@ -17237,10 +16234,6 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
     <message>
         <source>please input USB Key password</source>
         <translation>Wprowadź hasło klucza USB</translation>
-    </message>
-    <message>
-        <source>verify PIN</source>
-        <translation>Zweryfikuj PIN</translation>
     </message>
 </context>
 <context>
@@ -17801,14 +16794,6 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
         <source>Turn Up</source>
         <translation>Obróć w górę</translation>
     </message>
-    <message>
-        <source>Right Angle Ae&amp;xs</source>
-        <translation>Osie, kąt prosty (X)</translation>
-    </message>
-    <message>
-        <source>Auto&amp;scale</source>
-        <translation>Skalowanie automatyczne (S)</translation>
-    </message>
 </context>
 <context>
     <name>contentSoftEdges</name>
@@ -18120,14 +17105,6 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
         <source>Duplex Printing</source>
         <translation>Drukowanie dwustronne</translation>
     </message>
-    <message>
-        <source>Current Page</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Color mode</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxTpSelectShape</name>
@@ -18261,10 +17238,6 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
     <message>
         <source>Export to PostScript</source>
         <translation>Eksportuj do PostScript</translation>
-    </message>
-    <message>
-        <source>Print Setup</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18530,6 +17503,10 @@ Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dok
     <message>
         <source>Please enter new password(at least eight digits)</source>
         <translation>Wprowadź nowe hasło (co najmniej osiem cyfr)</translation>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18862,26 +17839,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Detail View</source>
         <translation>Widok szczegółowy</translation>
     </message>
-    <message>
-        <source>System link to special</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>System link to file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>System link to directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>System link</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QErrorMessage</name>
@@ -18947,10 +17904,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Source file</source>
         <translation>Plik źródłowy</translation>
-    </message>
-    <message>
-        <source>Objects in this document contain links to files that cannot be found.,,,,,,,,, The linked information will not be updated.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20273,58 +19226,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Multidirectional Cycle</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Table List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Vertical Block List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Vertical Picture List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Trapezoid List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Vertical Bullet List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Right to Left</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KNativeFileDialogEx</name>
@@ -20510,10 +19411,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Gurmukhi</source>
         <translation>Gurmukhi</translation>
-    </message>
-    <message>
-        <source>N&apos;Ko</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21000,14 +19897,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Stacked Column</source>
         <translation>Skumulowany kolumnowy</translation>
     </message>
-    <message>
-        <source>Pie of 3d</source>
-        <translation>Wykres 3D</translation>
-    </message>
-    <message>
-        <source>DsOnlineChart</source>
-        <translation>Animuj wykres</translation>
-    </message>
 </context>
 <context>
     <name>KxChartTypeDialog_xa</name>
@@ -21247,10 +20136,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Stacked Column</source>
         <translation>Skumulowany kolumnowy</translation>
     </message>
-    <message>
-        <source>Pie of 3d</source>
-        <translation>Wykres 3D</translation>
-    </message>
 </context>
 <context>
     <name>kso_omath</name>
@@ -21391,90 +20276,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Subscripts and Superscripts</source>
         <translation>Indeksy dolne i górne</translation>
-    </message>
-    <message>
-        <source>Letter-Like Symbols</source>
-        <comment>OMATH_SYMBOL_CLLS_LETTER_LIKE_SYMBOL</comment>
-        <translation>Symbole literowe</translation>
-    </message>
-    <message>
-        <source>Geometry</source>
-        <comment>OMATH_SYMBOL_CG_GEOMETRY</comment>
-        <translation>Geometria</translation>
-    </message>
-    <message>
-        <source>Negated Relations</source>
-        <comment>OMATH_SYMBOL_CNR_NEGATED_RELATIONS</comment>
-        <translation>Relacje zanegowane</translation>
-    </message>
-    <message>
-        <source>Basic Math</source>
-        <comment>OMATH_SYMBOL_CBM_BASIC_MATH</comment>
-        <translation>Podstawowe symbole matematyczne</translation>
-    </message>
-    <message>
-        <source>Negated Relations</source>
-        <translation>Relacje zanegowane</translation>
-    </message>
-    <message>
-        <source>Scripts</source>
-        <translation>Indeksy</translation>
-    </message>
-    <message>
-        <source>Greek Letters</source>
-        <translation>Litery greckie</translation>
-    </message>
-    <message>
-        <source>Geometry</source>
-        <translation>Geometria</translation>
-    </message>
-    <message>
-        <source>Align at =</source>
-        <translation>Wyrównaj w</translation>
-    </message>
-    <message>
-        <source>Letter-Like Symbols</source>
-        <translation>Symbole literowe</translation>
-    </message>
-    <message>
-        <source>Basic Math</source>
-        <translation>Podstawowe symbole matematyczne</translation>
-    </message>
-    <message>
-        <source>Fourier Series</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pythagorean Theorem</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Taylor Expansion</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Expansion of a Sum</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Quadratic Formula</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Trig Identity 1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Trig Identity 2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Area of Circle</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binomial Theorem</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21870,9 +20671,9 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Move the cursor to the previous line</source>
         <translation>Przenieś kursor do poprzedniego wiersza</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Left edge</source>
@@ -21929,248 +20730,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Select to the next line</source>
         <translation>Zaznacz do następnego wiersza</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <comment>Ignore Grammar context menu item</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Align Right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Strikethrough</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Movie time scrubber thumb</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Indefinite time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Mute audio tracks</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Status Display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Justify</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pause Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Slider Thumb</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 minutes %2 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Left to Right</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Right to Left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rewind movie</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Movie time scrubber</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Play movie in full-screen mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek quickly back</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio Element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Mute Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Play Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Indent</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Return streaming movie to real-time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The script on this page appears to have a problem. Do you want to stop the script?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Slider</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Live Broadcast</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Paste and Match Style</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Outdent</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert Bulleted List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>JavaScript Problem - %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remaining movie time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Redirection limit reached</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remaining Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unmute Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Video Element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek quickly forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Begin playback</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subscript</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 days %2 hours %3 minutes %4 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Superscript</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek Back Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Pause playback</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loading...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Insert Numbered List</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Audio element playback controls and status display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Seek Forward Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Current movie status</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Rewind Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 hours %2 minutes %3 seconds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unmute audio tracks</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fullscreen Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Missing Plug-in</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Align Left</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Return to Real-time Button</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Current movie time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Video element playback controls and status display</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove formatting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Elapsed Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>
-            </source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24099,120 +22658,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
         <source>Gridlines</source>
         <translation>Linie siatki</translation>
     </message>
-    <message>
-        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.</source>
-        <translation>Nie można zastosować tego szablonu. Jest uszkodzony lub nie działa dla wybranego wykresu.</translation>
-    </message>
-    <message>
-        <source>Delete Value Axis</source>
-        <comment>CHART_DELETE_AXIS</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Chart Color</source>
-        <comment>CHART_ChartColor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Marker</source>
-        <comment>CHART_Marker</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Series</source>
-        <comment>CHART_ChangeSeries</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Formatting</source>
-        <comment>CHART_ChangeFormatting</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reset To Match Style</source>
-        <comment>CHART_ResetToMatchStyle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Drawing Area Size</source>
-        <comment>CHART_CHANGE_DRAWING_AREA_SIZE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Category Axis Title</source>
-        <comment>CHART_AxisTitles</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Character Style</source>
-        <comment>CHART_CharacterStyle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Data Label Size</source>
-        <comment>CHART_CHANGE_DATA_LABEL_SIZE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Chart Element</source>
-        <comment>CHART_DELETE_CHART_ELEMENT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add/Remove Chart Sub Elements</source>
-        <comment>CHART_AddRemoveChartSubElements</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Data Table</source>
-        <comment>CHART_DELETE_DATA_TABLE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add/Remove Chart Elements</source>
-        <comment>CHART_AddRemoveChartElements</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Chart Element</source>
-        <comment>CHART_DELETE_DATA_LABEL</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>PieChart</source>
-        <comment>CHART_PieChart</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Chart Layout</source>
-        <comment>CHART_ChartLayout</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Apply Quick Layout</source>
-        <comment>CHART_QuickLayout</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add Formatting</source>
-        <comment>CHART_AddFormatting</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Chart Style</source>
-        <comment>CHART_ChartStyle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Gridlines</source>
-        <comment>CHART_DELETE_GRIDLINES</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change Chart Number Format</source>
-        <comment>CHART_ChartNumberFormat</comment>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KPremiumGuidePage</name>
@@ -24247,22 +22692,6 @@ Sprawdź ścieżkę i nazwę pliku.</translation>
     <message>
         <source>Spreadsheets</source>
         <translation>Spreadsheets</translation>
-    </message>
-    <message>
-        <source>WPS Premium include %1 advanced features for Document, Spreadsheets, Presentation and WPS PDF editor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Key Feature</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Try WPS Premium features</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>All-in-One office pack with PDF editor</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24614,34 +23043,6 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     <message>
         <source>Stacked Column</source>
         <translation>Skumulowany kolumnowy</translation>
-    </message>
-    <message>
-        <source>3DPie</source>
-        <translation>Wykres 3D</translation>
-    </message>
-    <message>
-        <source>2-D Area</source>
-        <translation>Warstwowy 2-D</translation>
-    </message>
-    <message>
-        <source>2-D Line</source>
-        <translation>Liniowy 2-D</translation>
-    </message>
-    <message>
-        <source>2-D Column</source>
-        <translation>Kolumnowy 2-D</translation>
-    </message>
-    <message>
-        <source>2-D Bar</source>
-        <translation>Słupkowy 2-D</translation>
-    </message>
-    <message>
-        <source>2-D Pie</source>
-        <translation>Kołowy 2-D</translation>
-    </message>
-    <message>
-        <source>3-D Pie</source>
-        <translation>Kołowy 2-D {3-?}</translation>
     </message>
 </context>
 <context>
@@ -25455,14 +23856,6 @@ aby adsorbować linię</translation>
         <source>Mac OS X input method</source>
         <translation>Metoda wprowadzania Mac OS X</translation>
     </message>
-    <message>
-        <source>FEP</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>S60 FEP input method</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -25730,14 +24123,6 @@ Możliwe przyczyny:
         <source>XML File Templates</source>
         <translation>Szablony plików XML</translation>
     </message>
-    <message>
-        <source>WPS Writer Official Template</source>
-        <translation>Szablon WPS Official Document</translation>
-    </message>
-    <message>
-        <source>WPS Writer Official Document</source>
-        <translation>WPS Official Document</translation>
-    </message>
 </context>
 <context>
     <name>KxEulaDlg</name>
@@ -25918,10 +24303,6 @@ Możliwe przyczyny:
         <source>Cannot open for output</source>
         <translation>Nie można otworzyć dla danych wyjściowych</translation>
     </message>
-    <message>
-        <source>Will not rename sequential file using block copy</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxServerConnectableTipDlg</name>
@@ -25932,18 +24313,6 @@ Możliwe przyczyny:
     <message>
         <source>Login</source>
         <translation>Zaloguj się</translation>
-    </message>
-    <message>
-        <source>The network connection has been restored to normal. To ensure the normal use of the function, please log in to the account %1 before encrypting the document.</source>
-        <translation>Połączenie sieciowe zostało przywrócone. Aby zapewnić sobie możliwość normalnego korzystania z tej funkcji, przed zaszyfrowaniem dokumentu zaloguj się na koncie %1.</translation>
-    </message>
-    <message>
-        <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
-        <translation>Zalogowane konto %1 jest niezgodne z kontem offline %2. Do weryfikacji skorzystaj z konta offline.</translation>
-    </message>
-    <message>
-        <source>Login Exception Hint</source>
-        <translation>Alert dotyczący wyjątków w zakresie logowania</translation>
     </message>
 </context>
 <context>
@@ -26538,46 +24907,6 @@ Please verify the correct file name was given.</source>
 Nie odnaleziono pliku.
 Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     </message>
-    <message>
-        <source>Alias</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>File Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Create a New Folder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go forward</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go to the parent directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go back</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change to detail view mode</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shortcut</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change to list view mode</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxDlgPermissionApplyDetail</name>
@@ -26779,34 +25108,6 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
         <source>Allowed this time</source>
         <translation>Dozwolone tym razem</translation>
     </message>
-    <message>
-        <source>If WPS client is already running, you need to restart it to take effect.</source>
-        <translation>Jeżeli klient WPS jest już otwarty, aby zmiany weszły w życie, należy ponownie uruchomić WPS.</translation>
-    </message>
-    <message>
-        <source>Confirm that the add-on &quot;%1&quot; is allowed to run in the WPS client?</source>
-        <translation>Potwierdzić pozwolenie na uruchomienie dodatku „%1” w kliencie WPS?</translation>
-    </message>
-    <message>
-        <source>Confirm that &quot;%1&quot; delete WPS Addon &quot;%2&quot; is allowed?</source>
-        <translation>Potwierdzić, aby pozwolić „%1” usunąć dodatek „%2” WPS?</translation>
-    </message>
-    <message>
-        <source>F4Repeat</source>
-        <translation>Wykonaj ponownie</translation>
-    </message>
-    <message>
-        <source>Please make sure that the site is trusted, it has the right to display its web page information in WPS and access your document contentand computer resources.</source>
-        <translation>Upewnij się, że witryna jest zaufana i ma prawo wyświetlać informacje strony internetowej w WPS oraz uzyskać dostęp do treści dokumentu, a także zasobów komputera.</translation>
-    </message>
-    <message>
-        <source>Confirm to add WPS Addon &quot;%1&quot;?</source>
-        <translation>Potwierdzić, aby dodać dodatek WPS „%1”?</translation>
-    </message>
-    <message>
-        <source>This add-on is a third-party program, can add new features to WPS, But it has access to your document content, computer resources.</source>
-        <translation>Ten dodatek to program zewnętrznego dostawcy, który może dodać nowe funkcje do WPS, lecz ma dostęp do treści dokumentu i zasobów komputera.</translation>
-    </message>
 </context>
 <context>
     <name>KxGalleryModelThemeFontItem</name>
@@ -26912,10 +25213,6 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     <message>
         <source>&amp;Properties...</source>
         <translation>&amp;Właściwości...</translation>
-    </message>
-    <message>
-        <source>&amp;Fast Print</source>
-        <translation>Szybki Druk</translation>
     </message>
 </context>
 <context>
@@ -27367,94 +25664,6 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     <message>
         <source>You cannot withdraw issue because you are not the issuer.</source>
         <translation>Nie można wycofać wydania, ponieważ nie jesteś osobą wydającą.</translation>
-    </message>
-    <message>
-        <source>You cannot issue this document because you are not the issuer. Contact your administrator to solve the problem.</source>
-        <translation>Nie można wydać tego dokumentu, ponieważ nie jesteś osobą wydającą. Skontaktuj się z administratorem, aby wydać ten dokument.</translation>
-    </message>
-    <message>
-        <source>confirm decrypt classification success!</source>
-        <translation>Zweryfikowano pomyślnie. Anulowano poufność.</translation>
-    </message>
-    <message>
-        <source>confirm lift classification success!</source>
-        <translation>Zweryfikowano pomyślnie. Dokument nie jest objęty wymogiem poufności.</translation>
-    </message>
-    <message>
-        <source>withdraw issued doc success!</source>
-        <translation>Udało się pomyślnie wycofać wydany dokument, który został przywrócony do potwierdzonego, poufnego stanu.</translation>
-    </message>
-    <message>
-        <source>submit change classification success!</source>
-        <translation>Przekazano do odpowiedniego personelu w celu weryfikacji zmiany.</translation>
-    </message>
-    <message>
-        <source>Cannot setup classification level</source>
-        <translation>Nie udało się potwierdzić poziomu poufnego.</translation>
-    </message>
-    <message>
-        <source>withdraw issue success</source>
-        <translation>Wydany dokument został pomyślnie wycofany.</translation>
-    </message>
-    <message>
-        <source>You cannot lift the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation>Nie możesz anulować poziomu poufnego tego dokumentu, ponieważ nie jesteś twórcą wersji roboczej ani osobą odpowiedzialną. Skontaktuj się z administratorem, aby anulować poziom poufny.</translation>
-    </message>
-    <message>
-        <source>You cannot change the classification level for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation>Nie można zmienić poziomu poufnego tego dokumentu, ponieważ nie jesteś osobą tworzącą wersję roboczą ani osobą odpowiedzialną. Skontaktuj się z administratorem, aby zmienić poziom poufny.</translation>
-    </message>
-    <message>
-        <source>label classification success!</source>
-        <translation>Ten dokument oznaczono jako poufny. Przekaż to odpowiedniemu personelowi w celu weryfikacji potwierdzenia poufności.</translation>
-    </message>
-    <message>
-        <source>You cannot setup the classification level for this document because you are not the person responsible. You can contact your administrator for setting.</source>
-        <translation>Nie możesz potwierdzić poziomu poufnego dla tego dokumentu, ponieważ nie jesteś odpowiedzialną osobą. Skontaktuj się z administratorem, aby potwierdzić poziom poufny.</translation>
-    </message>
-    <message>
-        <source>signed classification success!</source>
-        <translation>Zweryfikowano pomyślnie. Dokument został już wydany.</translation>
-    </message>
-    <message>
-        <source>Cannot remove classification</source>
-        <translation>Nie udało się wyłączyć tego dokumentu z wymogu poufności.</translation>
-    </message>
-    <message>
-        <source>this document has applying %1, can not operate %2.</source>
-        <translation>%1 zastosowane przez bieżący dokument nie zostało zweryfikowane. Wykonaj %2 operacje/-i po weryfikacji.</translation>
-    </message>
-    <message>
-        <source>Cannot withdraw issued</source>
-        <translation>Nie udało się wydać wycofanego dokumentu.</translation>
-    </message>
-    <message>
-        <source>setup classification success!</source>
-        <translation>Zweryfikowano pomyślnie. Potwierdzono poziom poufny dokumentu.</translation>
-    </message>
-    <message>
-        <source>You cannot label the classification level for this document because you are not the drafter. You can contact your administrator for labeling.</source>
-        <translation>Nie można ustawić poziomu poufnego dla tego dokumentu, ponieważ nie jesteś twórcą wersji roboczej. Skontaktuj się z administratorem, aby ustawić poziom poufny.</translation>
-    </message>
-    <message>
-        <source>You cannot remove the classification for this document because you are not the person responsible or the drafter. You can contact your administrator for setting.</source>
-        <translation>Nie możesz wyłączyć tego dokumentu z wymogu poufności, ponieważ nie jesteś twórcą jego wersji roboczej ani osobą odpowiedzialną. Skontaktuj się z administratorem, aby wyłączyć ten dokument z wymogu poufności.</translation>
-    </message>
-    <message>
-        <source>submit lift classification success!</source>
-        <translation>Przekazano do odpowiedniego personelu w celu weryfikacji braku objęcia wymogiem poufności.</translation>
-    </message>
-    <message>
-        <source>confirm change classification success!</source>
-        <translation>Zweryfikowano pomyślnie. Poziom poufny został zmieniony.</translation>
-    </message>
-    <message>
-        <source>Cannot label classification level</source>
-        <translation>Nie udało się oznaczyć tego jako poufne.</translation>
-    </message>
-    <message>
-        <source>submit decrypt classification success!</source>
-        <translation>Przekazano do odpowiedniego personelu w celu weryfikacji anulowania.</translation>
     </message>
 </context>
 <context>
@@ -28617,22 +26826,6 @@ ruchoma</translation>
         <source>Height:</source>
         <translation>Wysokość:</translation>
     </message>
-    <message>
-        <source>Bottom margin</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Right margin</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Top margin</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Left margin</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QPrintPropertiesWidget</name>
@@ -29046,10 +27239,6 @@ ruchoma</translation>
         <source>Search Title</source>
         <translation>Wyszukaj tytuł</translation>
     </message>
-    <message>
-        <source>Open Local Document</source>
-        <translation>Otwórz lokalny dokument</translation>
-    </message>
 </context>
 <context>
     <name>KxSystemIssueReportWidget</name>
@@ -29111,10 +27300,6 @@ ruchoma</translation>
         <source>Date Modified</source>
         <translation>Data modyfikacji</translation>
     </message>
-    <message>
-        <source>Date is modified</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QFileSystemModel</name>
@@ -29173,14 +27358,6 @@ ruchoma</translation>
     <message>
         <source>Date Modified</source>
         <translation>Data modyfikacji</translation>
-    </message>
-    <message>
-        <source>%1 byte(s)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date is modified</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -29257,10 +27434,6 @@ ruchoma</translation>
     <message>
         <source>Make outward document</source>
         <translation>Utwórz dokument wychodzący</translation>
-    </message>
-    <message>
-        <source>=+new</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -29734,10 +27907,6 @@ ruchoma</translation>
         <source>Save as</source>
         <translation>Zapisz jako</translation>
     </message>
-    <message>
-        <source>Open Local Document</source>
-        <translation>Otwórz lokalny dokument</translation>
-    </message>
 </context>
 <context>
     <name>KRbRecentFilePage</name>
@@ -30184,14 +28353,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>Operation</source>
         <translation>Operacja</translation>
     </message>
-    <message>
-        <source>Level of classification</source>
-        <translation>Poziom poufny</translation>
-    </message>
-    <message>
-        <source>People</source>
-        <translation>Personel</translation>
-    </message>
 </context>
 <context>
     <name>KxOutwardDocTableModelV2</name>
@@ -30226,22 +28387,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>Protect Type</source>
         <translation>Typ ochrony</translation>
-    </message>
-    <message>
-        <source>Made</source>
-        <translation>Utworzono</translation>
-    </message>
-    <message>
-        <source>nothing</source>
-        <translation>Brak</translation>
-    </message>
-    <message>
-        <source>ToBeReviewed</source>
-        <translation>Oczekiwanie na weryfikację</translation>
-    </message>
-    <message>
-        <source>Reviewed</source>
-        <translation>Zweryfikowano</translation>
     </message>
 </context>
 <context>
@@ -30506,34 +28651,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>view more backup</source>
         <translation>Wyświetl więcej kopii zapasowych</translation>
     </message>
-    <message>
-        <source>This file has been opened as read-only. Enable edit?</source>
-        <translation>Ten plik jest obecnie w trybie tylko do odczytu. Aktywować edytowanie?</translation>
-    </message>
-    <message>
-        <source>check key word</source>
-        <translation>Wyświetl szczegóły</translation>
-    </message>
-    <message>
-        <source>You can only edit under read-only mode since other users are editing this file.</source>
-        <translation>Możesz edytować wyłącznie w trybie tylko do odczytu, ponieważ inni użytkownicy edytują teraz ten dokument.</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Zaloguj się</translation>
-    </message>
-    <message>
-        <source>This document is read-only. Sign in to create, edit, and share documents.</source>
-        <translation>Ten dokument jest tylko do odczytu. Zaloguj się, aby tworzyć, edytować i udostępniać dokumenty.</translation>
-    </message>
-    <message>
-        <source>find some keywords</source>
-        <translation>Plik został sprawdzony pod kątem poziomu poufnego. Wynik: łącznie</translation>
-    </message>
-    <message>
-        <source>To change this file from server, please check out first.</source>
-        <translation>Aby zmodyfikować ten dokument serwerowy, należy go sprawdzić.</translation>
-    </message>
 </context>
 <context>
     <name>MultiLineLabelWidget</name>
@@ -30715,14 +28832,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>can not operate</source>
         <translation>Brak możliwości obsługi</translation>
     </message>
-    <message>
-        <source>Are you sure to withdraw issue?</source>
-        <translation>Po tym, jak wydany dokument zostanie wycofany, nastąpi przywrócenie do potwierdzonego stanu poufnego. Czy na pewno chcesz wycofać wydany dokument?</translation>
-    </message>
-    <message>
-        <source>this document has applying %1, can not withdraw issue.</source>
-        <translation>%1 zastosowany przez ten dokument nie jest weryfikowany. Sprawdź to, zanim wycofasz wydane dokumenty lub przeprowadzisz powiązane operacje.</translation>
-    </message>
 </context>
 <context>
     <name>DiagramStyleDlg</name>
@@ -30851,110 +28960,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>Error loading private key, %1</source>
         <translation>Błąd ładowania klucza prywatnego, %1</translation>
     </message>
-    <message>
-        <source>The certificate&apos;s notAfter field contains an invalid time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The basicConstraints path length parameter has been exceeded</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate has expired</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate is self-signed, and untrusted</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The peer did not present any certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The root CA certificate is marked to reject the specified purpose</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No certificates could be verified</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its issuer name and serial number was present and did not match the authority key identifier of the current certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The root CA certificate is not trusted for this purpose</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The host name did not match any of the valid hosts for this certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The root certificate of the certificate chain is self-signed, and untrusted</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate signature could not be decrypted</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The supplied certificate is unsuitable for this purpose</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Private key does not certify public key, %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The issuer certificate could not be found</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The current candidate issuer certificate was rejected because its subject name did not match the issuer name of the current certificate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate&apos;s notBefore field contains an invalid time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The certificate is not yet valid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The public key in the certificate could not be read</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>One of the CA certificates is invalid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The signature of the certificate is invalid</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The issuer certificate of a locally looked up certificate could not be found</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to decrypt data: %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The peer certificate is blacklisted</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxOutwardDocTableModel</name>
@@ -30985,34 +28990,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>Protect Type</source>
         <translation>Typ ochrony</translation>
-    </message>
-    <message>
-        <source>SupportType_Office</source>
-        <translation>Obsługiwane przez oprogramowanie biurowe</translation>
-    </message>
-    <message>
-        <source>not support yet</source>
-        <translation>Brak obsługi</translation>
-    </message>
-    <message>
-        <source>OutwardType_PasswordAndWatermark</source>
-        <translation>Hasło i ochrona znakiem wodnym</translation>
-    </message>
-    <message>
-        <source>SupportType_Wps</source>
-        <translation>Obsługiwane tylko przez wersję Zabezpieczeń WPS</translation>
-    </message>
-    <message>
-        <source>NoProtect</source>
-        <translation>Brak</translation>
-    </message>
-    <message>
-        <source>watermark:</source>
-        <translation>Pokaż znak wodny:</translation>
-    </message>
-    <message>
-        <source>Support Type</source>
-        <translation>Obsługiwane typy</translation>
     </message>
 </context>
 <context>
@@ -31288,9 +29265,9 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>%1 is not a valid numeric literal.</source>
         <translation>%1 nie jest prawidłowym literałem numerycznym.</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <source>%1 takes at most %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Circularity detected</source>
@@ -31360,9 +29337,9 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>The encoding %1 is invalid. It must contain Latin characters only, must not contain whitespace, and must match the regular expression %2.</source>
         <translation>Kodowanie %1 jest nieprawidłowe. Musi ono zawierać tylko znaki alfabetu łacińskiego, nie może zawierać spacji i musi pasować do wyrażenia regularnego%2.</translation>
     </message>
-    <message>
+    <message numerus="yes">
         <source>%1 requires at least %n argument(s). %2 is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, is %2 invalid.</source>
@@ -31883,1135 +29860,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>The last step in a path must contain either nodes or atomic values. It cannot be a mixture between the two.</source>
         <translation>Ostatni krok w ścieżce musi zawierać węzły albo wartości niepodzielne. Nie może to być mieszanina między nimi.</translation>
-    </message>
-    <message>
-        <source>%1 is not allowed to have a member type with the same name as itself.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&apos;%1&apos; attribute contains invalid QName content: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>A variable with name %1 has already been declared.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Notation %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to have any facets.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Declaration for element %1 does not exist.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Specifying use=&apos;prohibited&apos; inside an attribute group has no effect.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 contains attribute %2 twice.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of derived attribute %1 cannot be validly derived from type of base attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived element %1 has weaker value constraint than base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived particle allows content that is not allowed in the base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match the length facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed in this scope</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 must have the same simple type as its base class %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Union content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 exists twice with different types.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element cannot have %2 attribute with value other than %3 or %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match length facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>W3C XML Schema identity constraint selector</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by restriction as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of simple type %2 must have variety of union.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>A construct was encountered which is disallowed in the current language(%1).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 cannot derive from %2 as the latter defines restriction as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Child element is missing in that scope, possible child elements are: %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 in derived complex type must have the same %2 value constraint like in base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Data of type %1 are not allowed to be empty.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet contains invalid regular expression</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 cannot have complex base type that has a %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>An attribute with name %1 has already appeared on this element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed to have a value constraint if its base type is complex.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element contains content although it is nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content model of complex type %1 is not a valid extension of content model of %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attributes of complex type %1 are not a valid extension of the attributes of base type %2: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of derived attribute %1 differs from type of base attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element must not have %2 and %3 attribute together.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element requires either %2 or %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of attribute %1 does not match its type definition: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 or %2 attribute of reference %3 does not match with the attribute declaration %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content model of complex type %1 contains %2 element so it cannot be derived by extension from a non-empty type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loaded schema file is invalid.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet and %2 facet cannot appear together.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Target namespace %1 of included schema is different from the target namespace %2 as defined by the including schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived attribute %1 does not match the wildcard in the base definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element must have either %2 or %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid QName content: %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Decimal content does not match in the fractionDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Variety of member types of %1 must be atomic.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Circular group reference for %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has a different number of fields from the identity constraint %2 that it references.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than or equal to %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Member type of simple type %1 cannot be a complex type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 does not match namespace constraint of wildcard in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fixed value constraint not allowed if element is nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicated facets in simple type %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of attribute %1 does not match defined value constraint.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 does not match the attribute wildcard.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No referenced value found for key reference %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value constraint of attribute %1 is not of attributes type: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 contains attribute %2 twice.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>A template with name %1 has already been declared.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Particle contains non-deterministic wildcards.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 has value constraint but has type derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute wildcard of %1 is not a valid restriction of attribute wildcard of base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Member type %1 cannot be derived from member type %2 of %3&apos;s base type %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Namespace prefix of qualified name %1 is not defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is missing child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 cannot contain other elements, as it has a fixed content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 contains invalid data: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>W3C XML Schema identity constraint field</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Item type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 contains %2 facet with invalid data: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 cannot be derived from base type %2%3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 from base type is missing in derived type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must contain %3, %4 or a list of URIs.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown notation %1 used in %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No value is available for the external variable with name %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 is not allowed to be abstract.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 cannot have direct base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of simple type %2 is not allowed to have restriction in %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Specified type %1 is not validly substitutable with element type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of element %1 does not match defined value constraint.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base attribute %1 is required but derived attribute is not.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Block constraints of derived element %1 must not be more weaker than in the base element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Non-unique value found for constraint %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The value of attribute %1 must be of type %2, which %3 isn&apos;t.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 can only have simple atomic type as base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 has duplicated element %2 in its content model.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element has neither %2 attribute nor %3 child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicated element names %1 in %2 element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element cannot have %2 attribute with value other than %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element contains invalid content: {%3}.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 in derived complex type must have %2 value constraint.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No variable with name %1 exists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component with ID %1 has been defined previously.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains two attributes of type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must be %3 or %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1, %2, %3, %4, %5 and %6 facets are not allowed when derived by list.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type of simple type %1 cannot be complex type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 is not allowed to have base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by union as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed text content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute in derived complex type must be %2 like in base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element without %2 attribute is not allowed inside schema without target namespace.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The prefix %1 cannot be bound. By default, it is already bound to the namespace %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Substitution group %1 has circular definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No definition for element %1 available.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by list as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Boolean content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived wildcard is not a subset of the base wildcard.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must have the value %3 because the %4 attribute is set.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fixed value constraint of element %1 differs from value constraint in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed in this scope, possible elements are: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element has larger value than %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not allowed to derive from %2 by extension as the latter defines it as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 has non-deterministic content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Specified type %1 is not known to the schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of complex type cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match the minLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>String content does not match the maxLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>QName content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Declaration for attribute %1 does not exist.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Double content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Circular inheritance of union %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The target name in a processing instruction cannot be %1 in any combination of upper and lower case. Therefore, %2 is invalid.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No function with name %1 is available.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be greater than or equal to %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attributes of complex type %1 are not a valid restriction from the attributes of base type %2: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enumeration facet contains invalid content: {%1} is not a value of type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet contains invalid value %2: %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived definition contains an %1 element that does not exists in the base definition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 contains invalid data.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 contains two different attributes that both have types derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 in derived complex type must have %2 value constraint like in base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element %2 is not a valid restriction of the %3 element it redefines: %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 is only allowed to have %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content does not match the maxLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content does not match the minLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Can not process unknown element %1, expected elements are: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content does not match in the totalDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed in this context.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 has circular reference.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived attribute %1 does not exist in the base definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has attribute wildcard but its base type %2 has not.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wildcard in derived particle is not a valid subset of wildcard in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element contains invalid content: {%3} is not a value of type %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type of derived element %1 cannot be validly derived from base element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed to have the same %2 attribute value as the target namespace %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Decimal content does not match in the totalDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of element %1 cannot be derived from type of substitution group affiliation.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element must have either %2 attribute or %3 or %4 as child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute group %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match in the totalDigits facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than or equal to %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derivation method of %1 must be extension because the base type %2 is a simple type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Identity constraint %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Only %1 and %2 facets are allowed when derived by union.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must either contain %3 or the other values.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must have the same value as %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element group %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Target namespace %1 of imported schema is different from the target namespace %2 as defined by the importing schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Attribute %1 contains invalid content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed attributes.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>processContent of wildcard in derived particle is weaker than wildcard in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be equal or greater than %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute in %2 must have %3 use like in base type %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duration content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>processContent of base wildcard must be weaker than derived wildcard.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 must have simple content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived element %1 cannot be nillable as base element is not nillable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 contains attribute %2 that has value constraint but type that inherits from %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 is not valid according to %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be less than %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value constraint of element %1 is not of elements type: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element with %2 child element must not have a %3 attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed child element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Document is not a XML schema.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must have a value of %3 or %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>There is one IDREF value with no corresponding ID: %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match maxLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content does not match minLength facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Field %1 has no simple type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 with simple content cannot be derived from complex base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Empty particle cannot be derived from non-empty particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Key constraint %1 contains absent fields.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet cannot be %2 or %3 if %4 facet of base type is %5.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ID value &apos;%1&apos; is not unique.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Substitution group %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Notation content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed to have a value constraint if its type is derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>xsi:schemaLocation namespace %1 has already appeared earlier in the instance document.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base definition contains an %1 element that is missing in the derived definition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not allowed to have substitution group affiliation as it is no global element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type of %1 element must be a simple type, %2 is not.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base attribute %1 is required but missing in derived definition.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Item type of simple type %1 cannot be a complex type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must have a value of %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of element %1 does not match its type definition: %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>QName content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet collides with %2 facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains unknown attribute %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type of simple type %1 must have variety of type list.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is missing required attribute %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Text or entity references not allowed inside %1 element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 references identity constraint %2 that is no %3 or %4 element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains invalid content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type %1 already defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value constraint of derived attribute %1 does not match value constraint of base attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is missing in derived particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 contains not allowed child content.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Union content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>An argument with name %1 has already been declared. Every argument name must be unique.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is not defined in this scope.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Key constraint %1 contains references nillable element %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet must be greater than %2 facet of base type.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 of derived wildcard is not a valid restriction of %2 of base wildcard</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Content of %1 attribute of %2 element must not be from namespace %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Base type of simple type %1 has defined derivation by restriction as final.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 references unknown %2 or %3 element %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the maxInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the maxExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type contains not allowed facet %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>xsi:noNamespaceSchemaLocation cannot appear after the first no-namespace element or attribute.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Variety of item type of %1 must be either atomic or union.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 cannot be derived by extension from %2 as the latter contains %3 element in its content model.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More than one value found for field %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Item type of base type does not match item type of %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 facet cannot be %2 if %3 facet of base type is %4.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the minInclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Date time content does not match the minExclusive facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Complex type %1 contains two different attributes that both have types derived from %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsigned integer content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 attribute of %2 element must not be %3.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived element %1 is missing value constraint as defined in base particle.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Prefix of qualified name %1 is not defined.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No schema defined for validation.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Derived particle is missing element %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Member type %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 has inheritance loop in its base type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element %1 is declared as abstract.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reference %1 of %2 element cannot be resolved.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Binary content does not match the length facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 element is not allowed inside %2 element if %3 attribute is present.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Circular inheritance of base type %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type of derived element %1 cannot be validly derived from base element.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signed integer content does not match pattern facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Union of attribute wildcard of type %1 and attribute wildcard of its base type %2 is not expressible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Simple type %1 contains not allowed facet type %2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>List content is not listed in the enumeration facet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>
-            </source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -34159,10 +31007,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>Not Allowed.</source>
         <translation>Niedozwolone.</translation>
     </message>
-    <message>
-        <source>Having Caps Lock on may cause you to enter your password incorrectly. </source>
-        <translation>Wciśnięty klawisz Caps Lock może powodować nieprawidłowe wprowadzanie hasła.</translation>
-    </message>
 </context>
 <context>
     <name>KxLoadingTreeModel</name>
@@ -34322,18 +31166,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>%1: unable to lock</source>
         <translation>%1: nie można zablokować</translation>
-    </message>
-    <message>
-        <source>%1: UNIX key file doesn&apos;t exist</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: doesn&apos;t exist</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: create size is less than 0</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -34970,14 +31802,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
         <source>NDATA in parameter entity declaration.</source>
         <translation>NDATA w deklaracji obiektu parametru.</translation>
     </message>
-    <message>
-        <source>Entity &apos;%1&apos; is not declared.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>XML declaration is not at start of document.</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KCloudTreeCtrlWidget</name>
@@ -35000,10 +31824,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>My Cloud Document</source>
         <translation>WPS Cloud</translation>
-    </message>
-    <message>
-        <source>Open Local Document</source>
-        <translation>Otwórz lokalny dokument</translation>
     </message>
 </context>
 <context>
@@ -35043,10 +31863,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>Process crashed</source>
         <translation>Wystąpiła awaria procesu</translation>
-    </message>
-    <message>
-        <source>Process failed to start: %1</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -35343,10 +32159,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
         <source>Login</source>
         <translation>Zaloguj się</translation>
     </message>
-    <message>
-        <source>Custom toolbar needs to login.</source>
-        <translation>Aktualna operacja obowiązuje tylko na tym komputerze. Po zalogowaniu się można ją zsynchronizować z innymi urządzeniami.</translation>
-    </message>
 </context>
 <context>
     <name>KStatusBackupCommand</name>
@@ -35544,10 +32356,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
     <message>
         <source>Restore down</source>
         <translation>Przywróć w dół</translation>
-    </message>
-    <message>
-        <source>Puts a minimized window back to normal</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -35830,22 +32638,6 @@ dokumencie</translation>
     <message>
         <source>Retry</source>
         <translation>Spróbuj ponownie</translation>
-    </message>
-    <message>
-        <source>Ofd preview is being generated.</source>
-        <translation>Generowanie podglądu...</translation>
-    </message>
-    <message>
-        <source>Preview Ofd Failed! Please Click Retry.</source>
-        <translation>Nie udało się wygenerować podglądu. Kliknij, aby spróbować ponownie.</translation>
-    </message>
-    <message>
-        <source>%1 Done</source>
-        <translation>%1 stron gotowych</translation>
-    </message>
-    <message>
-        <source>Cancel Preview</source>
-        <translation>Anuluj podgląd</translation>
     </message>
 </context>
 <context>
@@ -36202,10 +32994,6 @@ na
         <source>Deploying online resources%1%</source>
         <translation>Wdrażanie zasobów online %1%</translation>
     </message>
-    <message>
-        <source>loaded failed</source>
-        <translation>Ładowanie nie powiodło się. Kliknij, aby spróbować ponownie.</translation>
-    </message>
 </context>
 <context>
     <name>ArrowTipWidget</name>
@@ -36329,38 +33117,6 @@ na
     <message>
         <source>Invalid password, please retry. remaining count:[%1]</source>
         <translation>Nieprawidłowe hasło, spróbuj ponownie pozostałą liczbę razy: [%1].</translation>
-    </message>
-    <message>
-        <source>server not %1, please try later</source>
-        <translation>Usługa nie jest %1. Spróbuj ponownie później.</translation>
-    </message>
-    <message>
-        <source>insert USB Key success</source>
-        <translation>Dysk USB wprowadzony pomyślnie.</translation>
-    </message>
-    <message>
-        <source>validate cert Fail</source>
-        <translation>Walidacja certyfikatu nie powiodła się.</translation>
-    </message>
-    <message>
-        <source>cert holded</source>
-        <translation>Certyfikat został zamrożony. Skontaktuj się z administratorem.</translation>
-    </message>
-    <message>
-        <source>USB Key has been locked, need deblocking, please contact the manager</source>
-        <translation>Dysk USB jest zablokowany i przed użyciem należy go odblokować. Skontaktuj się z administratorem.</translation>
-    </message>
-    <message>
-        <source>cert not trust</source>
-        <translation>Ten certyfikat nie jest zaufany.</translation>
-    </message>
-    <message>
-        <source>your PC is linking more than one USB Key</source>
-        <translation>Twój PC jest połączony z kilkoma napędami USB.</translation>
-    </message>
-    <message>
-        <source>cert has expired, please contact the manager to update the cert</source>
-        <translation>Ten certyfikat stracił ważność. Aby zaktualizować certyfikat, skontaktuj się z administratorem.</translation>
     </message>
 </context>
 <context>
@@ -37128,10 +33884,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <source>The protocol `%1&apos; does not support creating new directories</source>
         <translation>Protokół &apos;%1&apos; nie obsługuje tworzenia nowych katalogów</translation>
     </message>
-    <message>
-        <source>(Unknown)</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KAvailableCharSetInfoMap</name>
@@ -37464,10 +34216,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <source>Create or modify password</source>
         <translation>Utwórz lub zmodyfikuj hasło</translation>
     </message>
-    <message>
-        <source>Import Cache offline key in this computer</source>
-        <translation>Importuj plik klucza offline do tego komputera</translation>
-    </message>
 </context>
 <context>
     <name>KPromeFlashNotify</name>
@@ -37718,14 +34466,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <source>Kingsoft Presentation Template</source>
         <translation>Szablon prezentacji firmy Kingsoft</translation>
     </message>
-    <message>
-        <source>Excel Template Macro Enabled</source>
-        <translation>Szablon Excel z aktywowanym makrem (*.xltm)</translation>
-    </message>
-    <message>
-        <source>PowerPoint Template Macro Enabled</source>
-        <translation>Szablon PowerPoint z aktywowanym makrem (*.potm)</translation>
-    </message>
 </context>
 <context>
     <name>BackFilePanel</name>
@@ -37914,10 +34654,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <source>Unable to begin transaction</source>
         <translation>Nie można rozpocząć transakcji</translation>
     </message>
-    <message>
-        <source>Unable to open database</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QOCIDriver</name>
@@ -37968,10 +34704,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <source>Unable to rollback transaction</source>
         <translation>Nie można wycofać transakcji</translation>
     </message>
-    <message>
-        <source>Unable to connect - Driver doesn&apos;t support all functionality required</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>QSQLite2Driver</name>
@@ -37990,14 +34722,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>Unable to begin transaction</source>
         <translation>Nie można rozpocząć transakcji</translation>
-    </message>
-    <message>
-        <source>Error opening database</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unable to rollback transaction</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38086,14 +34810,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>Unknown error</source>
         <translation>Nieznany błąd</translation>
-    </message>
-    <message>
-        <source>No host name given</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid hostname</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38220,21 +34936,6 @@ have libgstreamer-plugins-base installed.</source>
     <message>
         <source>Could not locate media source.</source>
         <translation>Nie można znaleźć źródła multimediów.</translation>
-    </message>
-    <message>
-        <source>Missing codec helper script assistant.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot start playback. 
-
-Check your GStreamer installation and make sure you 
-have libgstreamer-plugins-base installed.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Plugin codec installation failed for codec: %0</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -38905,98 +35606,6 @@ Proszę ponownie zainstalować WPS Office!</translation>
     <message>
         <source>error occurred while parsing document type definition</source>
         <translation>wystąpił błąd podczas analizowania definicji typu dokumentu</translation>
-    </message>
-    <message>
-        <source>No error occurred</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>External parsed general entity reference not allowed in DTD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Wrong value for standalone declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unparsed entity reference in wrong context</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing reference</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Standalone declaration expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Tag mismatch</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid name for processing instruction</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error triggered by consumer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing content</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing comment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected character</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Recursive entities</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing element</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Internal general entity reference not allowed in DTD</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>More than one document type definition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Version expected while reading the XML declaration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected end of file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>External parsed general entity reference not allowed in attribute value</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Letter is expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error in the text declaration of an external entity</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error occurred while parsing document type definition</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39717,10 +36326,6 @@ Sprawdź połączenie sieciowe</translation>
         <source>Cannot show mimetype</source>
         <translation>Nie można pokazać typu MIME</translation>
     </message>
-    <message>
-        <source>Frame load interrupted by policy change</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxTaskTabbar</name>
@@ -39731,10 +36336,6 @@ Sprawdź połączenie sieciowe</translation>
     <message>
         <source>Task window location</source>
         <translation>Lokalizacja okna zadań</translation>
-    </message>
-    <message>
-        <source>online taskpane</source>
-        <translation>Okienko zadań</translation>
     </message>
 </context>
 <context>
@@ -39820,50 +36421,6 @@ Sprawdź połączenie sieciowe</translation>
     <message>
         <source>unexpected end</source>
         <translation>nieoczekiwany koniec</translation>
-    </message>
-    <message>
-        <source>invalid category</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>invalid interval</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No error occurred</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bad lookahead syntax</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Missing left delim</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Disabled feature used</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid octal value</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bad repetition syntax</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bad character class syntax</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected end</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Met internal limit</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40130,10 +36687,6 @@ Sprawdź połączenie sieciowe</translation>
         <source>Unable to bind value</source>
         <translation>Nie można powiązać wartości</translation>
     </message>
-    <message>
-        <source>Unable to get statement type</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxOfflineManagementDlg</name>
@@ -40189,18 +36742,6 @@ Sprawdź połączenie sieciowe</translation>
         <source>User department:</source>
         <translation>Dział użytkownika:</translation>
     </message>
-    <message>
-        <source>You don&apos;t have any document&apos;s offline permission, import offline data failed.</source>
-        <translation>Nie udało się zaimportować klucza offline, ponieważ nie masz uprawnienia offline dla żadnego dokumentu.</translation>
-    </message>
-    <message>
-        <source>Import offline data successfully.</source>
-        <translation>Klucz offline zaimportowany pomyślnie.</translation>
-    </message>
-    <message>
-        <source>The file format is incorrect or the file is corrupt and the file cannot be imported. Please contact the administrator.</source>
-        <translation>Nie można zaimportować pliku, ponieważ format pliku jest nieprawidłowy lub plik jest uszkodzony. Skontaktuj się z administratorem.</translation>
-    </message>
 </context>
 <context>
     <name>KxFileDialog</name>
@@ -40234,14 +36775,6 @@ Sprawdź połączenie sieciowe</translation>
     <message>
         <source>Protocol &quot;%1&quot; is unknown</source>
         <translation>Protokół &quot;%1&quot; jest nieznany</translation>
-    </message>
-    <message>
-        <source>Network session error.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Temporary network failure.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40782,26 +37315,6 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
         <source>%1: ftok failed</source>
         <translation>%1: funkcja ftok nie powiodła się</translation>
     </message>
-    <message>
-        <source>%1: does not exist</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: already exists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: unknown error %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: out of resources</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1: permission denied</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxPasteSpecialDlg</name>
@@ -40866,10 +37379,6 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     <message>
         <source>Please enter the document password again</source>
         <translation>Ponownie wprowadź hasło dokumentu.</translation>
-    </message>
-    <message>
-        <source>The current password cannot be empty</source>
-        <translation>Bieżące hasło nie może być puste.</translation>
     </message>
 </context>
 <context>
@@ -41296,18 +37805,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
         <source> (Headings)</source>
         <translation> (Nagłówki)</translation>
     </message>
-    <message>
-        <source>Hide theme fonts</source>
-        <translation>Kliknij, aby ukryć czcionki motywu</translation>
-    </message>
-    <message>
-        <source>Show theme fonts</source>
-        <translation>Kliknij, aby wyświetlić czcionki motywu</translation>
-    </message>
-    <message>
-        <source>Show theme Fonts</source>
-        <translation>Pokaż czcionki motywu</translation>
-    </message>
 </context>
 <context>
     <name>KxGallerySyFontComboBox</name>
@@ -41400,22 +37897,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
     <message>
         <source>TextLabel</source>
         <translation>Etykieta tekstowa</translation>
-    </message>
-    <message>
-        <source>upgrated, refresh</source>
-        <translation>Aktualizacja powiodła się. Odśwież</translation>
-    </message>
-    <message>
-        <source>How to Get</source>
-        <translation>Jak włączyć makra</translation>
-    </message>
-    <message>
-        <source>The current package %1 does not support macro. After upgrading the package (to Commercial / Advanced Commercial), you can obtain the installation permission of VBA.</source>
-        <translation>Obecny pakiet %1 nie obsługuje aktywacji makr. Po zaktualizowaniu pakietu (na komercyjny/zaawansowany komercyjny) możesz uzyskać zezwolenie na instalację biblioteki obsługi VBA.</translation>
-    </message>
-    <message>
-        <source>The current package %1 does not support macro. Please contact the super administrator %2 to upgrade the packagefor obtaining the installation permission of VBA.</source>
-        <translation>Obecny pakiet %1 nie obsługuje aktywacji makr. Skontaktuj się z superadministratorem przedsiębiorstwa %2, aby zaktualizować pakiet i uzyskać zezwolenie na instalację biblioteki obsługi VBA.</translation>
     </message>
 </context>
 <context>
@@ -41607,10 +38088,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
         <source>Customize...</source>
         <translation>Dostosuj...</translation>
     </message>
-    <message>
-        <source>Custom...</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KShortcutSettingDlg</name>
@@ -41756,26 +38233,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
         <source>Open file</source>
         <translation>Otwórz plik</translation>
     </message>
-    <message>
-        <source>This document can not make outward document</source>
-        <translation>Tego dokumentu nie można wykorzystywać do utworzenia dokumentu wychodzącego.</translation>
-    </message>
-    <message>
-        <source>Can not make outward document</source>
-        <translation>Nie udało się utworzyć dokumentu wychodzącego.</translation>
-    </message>
-    <message>
-        <source>The outgoing document has been made successfully.</source>
-        <translation>Dokument wychodzący utworzony pomyślnie.</translation>
-    </message>
-    <message>
-        <source>You haven&apos;t makeoutward permission of document. If you want to make outward document, please contact the administrator.</source>
-        <translation>Nie masz pozwolenia na wydanie dokumentu wychodzącego. Skontaktuj się z administratorem, aby wydać dokument wychodzący.</translation>
-    </message>
-    <message>
-        <source>Your document is in the form of attachment, unable to make outward document.</source>
-        <translation>Twój dokument jest w formie załącznika i nie można go wykorzystać do wykonania dokumentu wychodzącego.</translation>
-    </message>
 </context>
 <context>
     <name>KRbQuickAccessToolbar</name>
@@ -41918,10 +38375,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
         <source>Use this slider to adjust the volume. The leftmost position is 0%, the rightmost is %1%</source>
         <translation>Użyj tego suwaka do zmiany głośności. Pozycja z lewej strony to 0%, z prawej strony to %1%</translation>
     </message>
-    <message>
-        <source>Muted</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KAxServer</name>
@@ -41992,10 +38445,6 @@ Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</tr
     <message>
         <source>Document Name:</source>
         <translation>Nazwa dokumentu:</translation>
-    </message>
-    <message>
-        <source>View classification</source>
-        <translation>Zobacz poufność</translation>
     </message>
 </context>
 <context>
@@ -42104,22 +38553,6 @@ aby wykonać zrzut ekranu WPS i uruchomić OCR</translation>
     <message>
         <source>Offline verfication</source>
         <translation>Weryfikacja offline</translation>
-    </message>
-    <message>
-        <source>The offline account %1 is inconsistent with the login account %2, please use the login account to verify</source>
-        <translation>Konto offline %1 jest niezgodne z zalogowanym kontem %2. Do weryfikacji skorzystaj z zalogowanego konta.</translation>
-    </message>
-    <message>
-        <source>Verification Exception Hint</source>
-        <translation>Alert dotyczący wyjątków w zakresie weryfikacji</translation>
-    </message>
-    <message>
-        <source>The login account %1 is inconsistent with the offline account %2, please use the offline account to verify</source>
-        <translation>Zalogowane konto %1 jest niezgodne z kontem offline %2. Do weryfikacji skorzystaj z konta offline.</translation>
-    </message>
-    <message>
-        <source>Login Exception Hint</source>
-        <translation>Alert dotyczący wyjątków w zakresie logowania</translation>
     </message>
 </context>
 <context>
@@ -42307,14 +38740,6 @@ p, li { white-space: pre-wrap; }
         <source>Abnormal network connection</source>
         <translation>Nietypowe połączenie z siecią</translation>
     </message>
-    <message>
-        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation>Jeżeli ustawiłeś(-aś) hasło offline, możesz wciąż obsługiwać dokument po weryfikacji offline.</translation>
-    </message>
-    <message>
-        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation>Podczas łączenia się z siecią wystąpił wyjątek i nie można obsługiwać zaszyfrowanego dokumentu. Sprawdź sieć i spróbuj ponownie później.</translation>
-    </message>
 </context>
 <context>
     <name>KxServerDownTipDlg</name>
@@ -42325,14 +38750,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Abnormal network connection</source>
         <translation>Nietypowe połączenie z siecią</translation>
-    </message>
-    <message>
-        <source>If you have set the offline password, you can continue to operate the document after offline verification.</source>
-        <translation>Jeżeli ustawiłeś(-aś) hasło offline, możesz wciąż obsługiwać dokument po weryfikacji offline.</translation>
-    </message>
-    <message>
-        <source>The network connection is abnormal, the encrypted document cannot be operated, please check the network and try again.</source>
-        <translation>Podczas łączenia się z siecią wystąpił wyjątek i nie można obsługiwać zaszyfrowanego dokumentu. Sprawdź sieć i spróbuj ponownie później.</translation>
     </message>
 </context>
 <context>
@@ -42572,14 +38989,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>The document was</source>
         <translation>Dokument przełączono do</translation>
-    </message>
-    <message>
-        <source>This document has private document protection turned on, log in to the document owner account or authorized account to open the document.</source>
-        <translation>Ten dokument ma aktywowaną opcję ochrony prywatnych dokumentów. Zaloguj się do konta właściciela dokumentu lub uwierzytelnionego konta, aby otworzyć dokument.</translation>
-    </message>
-    <message>
-        <source>Log in the authorized account to open the document.</source>
-        <translation>Zaloguj się do tego konta lub do uwierzytelnionego konta, aby otworzyć dokument.</translation>
     </message>
 </context>
 <context>
@@ -42870,30 +39279,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>WpsVip</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Buy separately on demand</source>
-        <translation>Kup osobno na żądanie</translation>
-    </message>
-    <message>
-        <source>TimeLimited</source>
-        <translation>Bezpłatnie przez ograniczony czas</translation>
-    </message>
-    <message>
-        <source>Free for a limited time for WPS members</source>
-        <translation>Bezpłatnie przez ograniczony czas WPS Premium</translation>
-    </message>
-    <message>
-        <source>Free for Docer members</source>
-        <translation>Bezpłatne w przypadku wersji Szablon Premium i Super Premium</translation>
-    </message>
-    <message>
-        <source>PaySeparately</source>
-        <translation>Płać osobno</translation>
-    </message>
-    <message>
-        <source>Free for WPS members</source>
-        <translation>Bezpłatne w przypadku wersji WPS Premium i Super Premium</translation>
     </message>
 </context>
 <context>
@@ -43340,10 +39725,6 @@ aby utworzyć dokument wychodzący</translation>
         <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
         <translation>Użyj konta WPS do zaszyfrowania dokumentu. Podczas otwierania zaszyfrowanego dokumentu wymagana jest weryfikacja konta</translation>
     </message>
-    <message>
-        <source>Document is setted edit password</source>
-        <translation>Hasło do edycji ustawiono pod kątem dokumentu.</translation>
-    </message>
 </context>
 <context>
     <name>KRepeatableInputPasswordDlg2</name>
@@ -43740,26 +40121,6 @@ aby utworzyć dokument wychodzący</translation>
         <source>Slim list</source>
         <translation>Lista wąska</translation>
     </message>
-    <message>
-        <source>%1Not again for this file%2</source>
-        <translation>%1Nie przypominaj mi ponownie w tym dokumencie.%2</translation>
-    </message>
-    <message>
-        <source>Takes too long to open? Slim the file to clear invalid data.</source>
-        <translation>Otwieranie plików zajmuje całą wieczność? Zalecamy ograniczenie rozmiaru pliku, co nie będzie miało wpływu na dane ani wzory.</translation>
-    </message>
-    <message>
-        <source>Feeling slow? Clear invalid data with File Slimming feature.</source>
-        <translation>Powolne operacje? Zapisywanie plików trwa dłużej, niż powinno? Zalecamy ograniczenie rozmiaru pliku, co nie będzie miało wpływu na dane ani wzory.</translation>
-    </message>
-    <message>
-        <source>This notice will stop popping out. To use File Slimming, find it in Special Features.</source>
-        <translation>Nie przypominaj mi ponownie w tym dokumencie. Aby skorzystać z funkcji Redukcja pliku, znajdź ją w opcji Funkcje specjalne.</translation>
-    </message>
-    <message>
-        <source>Not again for this file</source>
-        <translation>Nie przypominaj mi ponownie w tym dokumencie.</translation>
-    </message>
 </context>
 <context>
     <name>KXBlackTipWidgetProxy</name>
@@ -43794,10 +40155,6 @@ aby utworzyć dokument wychodzący</translation>
     <message>
         <source>Property</source>
         <translation>Właściwość</translation>
-    </message>
-    <message>
-        <source>There are conflicting options.The changes can only be applied after the conflict has been resolved.</source>
-        <translation>Dostępne są sprzeczne ze sobą opcje. Przed zastosowaniem zmian należy rozwiązać wszystkie konflikty.</translation>
     </message>
 </context>
 <context>
@@ -43876,10 +40233,6 @@ aby utworzyć dokument wychodzący</translation>
     <message>
         <source>Operation stopped by the user</source>
         <translation>Operacja zatrzymana przez użytkownika</translation>
-    </message>
-    <message>
-        <source>Operation is stopped by user</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44029,10 +40382,6 @@ właściwości</translation>
         <source>FeedBack</source>
         <translation>Opinia</translation>
     </message>
-    <message>
-        <source>mail subject</source>
-        <translation>Informacja zwrotna WPS</translation>
-    </message>
 </context>
 <context>
     <name>KxFeedbackCommand</name>
@@ -44072,10 +40421,6 @@ właściwości</translation>
         <source>Rejected</source>
         <translation>Odrzucono</translation>
     </message>
-    <message>
-        <source>You sure reject the application? Please brief the reason.</source>
-        <translation>Czy na pewno chcesz odrzucić weryfikację? Opisz przyczyny odrzucenia.</translation>
-    </message>
 </context>
 <context>
     <name>SelPictureWidgetBase</name>
@@ -44089,10 +40434,6 @@ właściwości</translation>
     <message>
         <source>Unknown error</source>
         <translation>Nieznany błąd</translation>
-    </message>
-    <message>
-        <source>No host name given</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -44118,10 +40459,6 @@ właściwości</translation>
     <message>
         <source>You have not applied for watermark protect yet or last application is out of expired.</source>
         <translation>Nie zgłoszono się jeszcze o ochronę znakiem wodnym lub ostatni wniosek wygasł.</translation>
-    </message>
-    <message>
-        <source>You don&apos;t have outgoing permissions for this document(docid: %1). Please contact the administrator.</source>
-        <translation>Nie masz pozwolenia na wydanie dokumentu wychodzącego (identyfikator dokumentu: %1). Skontaktuj się z administratorem.</translation>
     </message>
 </context>
 <context>
@@ -44291,2335 +40628,1068 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
 </context>
 <context>
-    <name>KWpsAddonAuthDlg</name>
+    <name/>
     <message>
-        <source>NO</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>KxImageToPDFOneCommand</name>
-    <message>
-        <source>pic</source>
-        <translation>Wersja zawierająca tylko obrazy</translation>
-    </message>
-</context>
-<context>
-    <name>KxChartTypeItem</name>
-    <message>
-        <source>Use this chart type to:
-• Show values relative to a center point.
-
-Use it when:
-• Categories are not directly comparable.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania wartości względem punktu centralnego.
-
-Użyj tego wykresu, gdy:
-• Kategorie nie są bezpośrednio porównywalne.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the relationship of parts to a whole over time or categories.
-• Highlight the magnitude of change over time.
-• Draw attention to the total value across a trend.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania relacji między częściami i całością w czasie lub w kategoriach.
-• Uwypuklenia tempa zmian w czasie.
-• Zwrócenia uwagi na całkowitą wartość trendu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of values: Volume, High, Low, Close.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania trendu wykresu giełdowego w czasie.
-
-Użyj tego wykresu, gdy:
-• Istnieją cztery serie wartości: Obroty, Najwyższa, Najniższa i na Zamknięciu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The order of categories is not important.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania wartości w kilku kategoriach.
-
-Użyj tego wykresu, gdy:
-• Kolejność kategorii nie jest istotna.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show how parts of a whole change over time.
-
-Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania zmian w czasie części większej całości.
-
-Rozważ użycie skumulowanego wykresu warstwowego, ponieważ skumulowany wykres liniowy może być nieczytelny.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania proporcji całości.
-• Przeniesienia części wartości z pierwszego wykresu kołowego i połączenie ich na drugim skumulowanym wykresie słupkowym, co pozwala zwiększyć czytelność małych wartości procentowych lub wyróżnić wartości na drugim wykresie.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare the percentages that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania procentu każdej z wartości składających się na sumę.
-• Pokazania zmian w czasie procentu każdej wartości wchodzącej w skład sumy.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• Category order is important.
-• To highlight the magnitude of change over time.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania trendu w czasie (lata, miesiące i dni) lub w kategoriach.
-Użyj tego wykresu, gdy:
-• Kolejność kategorii jest ważna.
-• Istnieje potrzeba uwypuklenia tempa zmian w czasie.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have four series of price values: Open, High, Low, Close.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania trendu wykresu giełdowego w czasie.
-
-Użyj tego wykresu, gdy:
-• Istnieją cztery serie wartości ceny: na Otwarciu, Najwyższa, Najniższa i na Zamknięciu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania proporcji całości.
-
-Użyj go zamiast wykresu kołowego, gdy istnieje dużo serii związanych z większą sumą.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents a set of x,y pairs based on a formula.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania co najmniej dwóch zestawów wartości lub par danych.
-
-Użyj tego wykresu, gdy:
-• Istnieje wiele punktów danych.
-• Dane reprezentują zestaw par X i Y na podstawie formuły.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-
-Use it when:
-• Numbers equal 100%.
-• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania proporcji całości.
-
-Użyj tego wykresu, gdy:
-• Liczby sumują się do 100%.
-• Wykres zawiera tylko kilka wycinków (w przypadku wielu wycinków trudno jest oszacować kąt).</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• The range of values in the chart varies widely.
-• You have mixed types of data.</source>
-        <translation>Ten typ wykresu służy do:
-• Wyróżniania różnych typów informacji.
-
-Użyj tego wykresu, gdy:
-• Zakres wartości na wykresie znacznie się zmienia.
-• Istnieją mieszane typy danych.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• The data represents separate measurements.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania co najmniej dwóch zestawów wartości lub par danych.
-• Pokazania relacji między zestawami wartości.
-
-Użyj tego wykresu, gdy:
-• Dane reprezentują osobne pomiary.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least three sets of values or pairs of data.
-• Show relationships between sets of values
-
-Use it when:
-• You have a third value that can be used to determine the relative size of the bubble.</source>
-        <translation>Użyj tego typu wykresu do:
-• Porównania co najmniej trzech zestawów wartości lub par danych.
-• Pokazania relacji między zestawami wartości.
-
-Użyj tego wykresu, gdy:
-• Istnieje trzecia wartość, która może być użyta do określenia rozmiaru względnego bąbelka.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole across categories.
-• Show how parts of a whole change over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania części większej całości między kategoriami.
-• Pokazania, jak części większej całości zmieniają się w czasie.
-
-Użyj tego wykresu, gdy:
-• Tekst kategorii jest długi.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents separate measurements.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania co najmniej dwóch zestawów wartości lub par danych.
-
-Użyj tego wykresu, gdy:
-• Istnieje kilka punktów danych.
-• Dane reprezentują osobne pomiary.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania procentowego udziału w całości w czasie lub w kategoriach.
-• Uwypuklenia tempa zmian procentu każdej wartości składającej się na całość w czasie.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Highlight different types of information.
-
-Use it when:
-• You have mixed types of data.</source>
-        <translation>Ten typ wykresu służy do:
-• Wyróżniania różnych typów informacji.
-
-Użyj tego wykresu, gdy:
-• Istnieją mieszane typy danych.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show proportions of a whole.
-• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania proporcji całości.
-• Przeniesienia części wartości z pierwszego wykresu kołowego i połączenie ich na drugim wykresie kołowym, co pozwala zwiększyć czytelność małych wartości procentowych lub wyróżnić wartości na drugim wykresie.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare the percentage that each value contributes to a total.
-• Show how the percentage that each value contributes changes over time.
-
-Use it when:
-• The category text is long.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania procentu wartości składających się na sumę.
-• Pokazania zmian w czasie procentu każdej wartości składającej się na sumę.
-
-Użyj tego wykresu, gdy:
-• Tekst kategorii jest długi.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are few data points.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania trendów w czasie (lata, miesiące i dni) lub w kategoriach.
-
-Użyj tego wykresu, gdy:
-• Kolejność kategorii jest ważna.
-• Istnieje niewiele punktów danych.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the percentage contribution to a whole over time or categories.
-• Show the change to the percentage that each value contributes over time.
-
-Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania udziału procentowego w całości w czasie lub w kategorii.
-• Pokazania zmian w czasie procentu każdej wartości składającej się na sumę.
-
-Rozważ użycie wykresu 100% skumulowanego warstwowego, ponieważ wykresy skumulowane liniowe mogą być nieczytelne.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show trends over time (years, months, and days) or categories.
-
-Use it when:
-• The order of categories is important.
-• There are many data points.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania trendów w czasie (lata, miesiące i dni) lub w kategoriach.
-
-Użyj tego wykresu, gdy:
-• Kolejność kategorii jest ważna.
-• Istnieje wiele punktów danych.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have three series of price values: High, Low, Close.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania trendu wykresu giełdowego w czasie.
-
-Użyj tego wykresu, gdy:
-• Istnieją trzy serie wartości ceny: Najwyższa, Najniższa i na Zamknięciu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare values across a few categories.
-
-Use it when:
-• The chart shows duration.
-• The category text is long.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania wartości w kilku kategoriach.
-
-Użyj tego wykresu, gdy:
-• Na wykresie jest pokazany czas trwania.
-• Tekst kategorii jest długi.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare parts of a whole.
-• Show how parts of a whole change over time.</source>
-        <translation>Ten typ wykresu służy do:
-• Prównywania części większej całości.
-• Pokazania zmian w czasie części w ramach większej całości.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Show the trend of a stock's performance over time.
-
-Use it when:
-• You have five series of values: Volume, Open, High, Low, Close.</source>
-        <translation>Ten typ wykresu służy do:
-• Pokazania trendu wykresu giełdowego w czasie.
-
-Użyj tego wykresu, gdy:
-• Istnieje pięć serii wartości: Obroty, na Otwarciu, Najwyższa, Najniższa i na Zamknięciu.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are many data points.
-• The data represents separate measurements.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania co najmniej dwóch zestawów wartości lub par danych.
-
-Użyj tego wykresu, gdy:
-• Istnieje wiele punktów danych.
-• Dane reprezentują osobne pomiary.</translation>
-    </message>
-    <message>
-        <source>Use this chart type to:
-• Compare at least two sets of values or pairs of data.
-
-Use it when:
-• There are few data points.
-• The data represents a set of x,y pairs based on a formula.</source>
-        <translation>Ten typ wykresu służy do:
-• Porównywania co najmniej dwóch zestawów wartości lub par danych.
-
-Użyj tego wykresu, gdy:
-• Istnieje kilka punktów danych.
-• Dane reprezentują zestaw par X i Y na podstawie formuły.</translation>
-    </message>
-</context>
-<context>
-    <name>KStartupGuidePaneAdvertise</name>
-    <message>
-        <source>Repair Damaged Files</source>
-        <translation>Naprawianie uszkodzonych plików</translation>
-    </message>
-    <message>
-        <source>SPlit/Merge/Compress PDF Files</source>
-        <translation>Dzielenie / scalanie / kompresja plików PDF</translation>
-    </message>
-    <message>
-        <source>OCR (Picture to Word/Excel/PPT/TXT)</source>
-        <translation>OCR (konwersja obrazu na formaty Word / Excel / PPT / TXT)</translation>
-    </message>
-    <message>
-        <source>Edit Text/Images in PDF Files</source>
-        <translation>Edycja tekstów/obrazów w plikach PDF</translation>
-    </message>
-    <message>
-        <source>Unlock 51 advanced features for WPS PDF editor, Documents, Spreadsheets and Presentation.</source>
-        <translation>Odblokuj 51 zaawansowanych funkcji aplikacji WPS PDF, Writer, Spreadsheet i Presentation.</translation>
-    </message>
-    <message>
-        <source>Get Your Free Trial</source>
-        <translation>Uzyskaj bezpłatną wersję próbną</translation>
-    </message>
-    <message>
-        <source>PDF to Word/Excel/PPT</source>
-        <translation>Konwersja PDF na formaty Word / Excel / PPT</translation>
-    </message>
-    <message>
-        <source>Buy Now</source>
-        <translation>Kup teraz</translation>
-    </message>
-    <message>
-        <source>Start Your free 7-day trail of WPS Premium</source>
-        <translation>Rozpocznij 7-dniowy okres próbny WPS Premium</translation>
-    </message>
-    <message>
-        <source>View more</source>
-        <translation>Wyświetl więcej</translation>
-    </message>
-    <message>
-        <source>PDF Protect/Sign</source>
-        <translation>Ochrona / podpisywanie plików PDF</translation>
-    </message>
-</context>
-<context>
-    <name>KxChartTemplateStackedWidget_xa</name>
-    <message>
-        <source>No local chart template</source>
-        <translation>Nie są dostępne żadne lokalne szablony wykresów.</translation>
-    </message>
-    <message>
-        <source>Manage Templates</source>
-        <translation>Zarządzaj szablonami</translation>
-    </message>
-    <message>
-        <source>Local chart templates</source>
-        <translation>Lokalne szablony wykresów</translation>
-    </message>
-    <message>
-        <source>Tips: By saving the chart template to the folder in the &quot;Manage Templates&quot; button, you can use the local chart template.</source>
-        <translation>Porada: Możesz szybko używać wykresów zapisanych jako szablony lub kliknąć polecenie Zarządzaj szablonami, aby zarządzać plikami szablonów wykresów.</translation>
-    </message>
-</context>
-<context>
-    <name>KxAuthorizedExpirationCommand</name>
-    <message>
-        <source>Authorized Expiration</source>
-        <translation>Oczekiwanie na aktywację</translation>
-    </message>
-    <message>
-        <source>%1-day used</source>
-        <translation>Pozostało dni: %1</translation>
-    </message>
-    <message>
-        <source>%1-day trial</source>
-        <translation>Pozostało dni okresu próbnego: %1</translation>
-    </message>
-    <message>
-        <source>trial unlimited</source>
-        <translation>Wersja próbna</translation>
-    </message>
-</context>
-<context>
-    <name>KxPluginPathDlg</name>
-    <message>
-        <source>If you cancel this download, to protect data, the file will not open. Sure to cancel?</source>
-        <translation>Jeśli anulujesz to pobieranie, aby chronić dane, plik nie otworzy się. Czy na pewno chcesz anulować pobieranie?</translation>
-    </message>
-    <message>
-        <source>Download Moji plugin failed. The file will be closed to prent data loss. Please check your network and retry download.</source>
-        <translation>Nie udało się pobrać wtyczki tuszu. Aby zapobiec utracie danych, plik zostanie zamknięty. Sprawdź swoją sieć i spróbuj pobrać ponownie.</translation>
-    </message>
-</context>
-<context>
-    <name>KxEtCollectionFormWidget</name>
-    <message>
-        <source>Immediate experience</source>
-        <translation>Skorzystaj z tej opcji już teraz</translation>
-    </message>
-    <message>
-        <source>Support multi-person filling, mobile submission, automatic data aggregation</source>
-        <translation>Obsługuj wypełnianie wieloosobowe, przekazywanie przez telefon komórkowy i automatyczną agregację danych</translation>
-    </message>
-    <message>
-        <source>View brief</source>
-        <translation>Zobacz wprowadzenie</translation>
-    </message>
-    <message>
-        <source>%1Not remind%2</source>
-        <translation>%1Nie przypominaj mi ponownie.%2</translation>
-    </message>
-</context>
-<context>
-    <name>KxQrCodeWidget</name>
-    <message>
-        <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation>Jeśli masz jakiekolwiek pytania, zadzwoń do działu obsługi klienta WPS %1 lub zeskanuj kod QR działu obsługi klienta z lewej strony.</translation>
-    </message>
-</context>
-<context>
-    <name>KxDevelopLanguageTipWidget</name>
-    <message>
-        <source>Set JS as default. You can change it to VB. When opening VB-only files, the environment is still VB.</source>
-        <translation>Ustaw JS jako domyślny. Można przełączyć to na VB. W przypadku otwierania plików tylko VB domyślnie wykorzystywane jest środowisko VB.</translation>
-    </message>
-</context>
-<context>
-    <name>KxChartToolsHelper</name>
-    <message>
-        <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
-        <translation>Nie można łączyć bieżącego typu wykresu z innymi typami wykresów. Możesz zmienić typ wykresu dla wszystkich serii danych lub zachować bieżący wykres.</translation>
-    </message>
-    <message>
-        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
-        <translation>Zmiana typu wykresu nie powiodła się, ponieważ dane nie zezwalają na przekształcenie do tego typu wykresu!</translation>
-    </message>
-</context>
-<context>
-    <name>KxSetMBCommand</name>
-    <message>
-        <source>Your document is in the form of attachment, unable to set mb.</source>
-        <translation>Twój dokument znajduje się w formularzu załącznika i nie można go oznaczyć jako poufnego.</translation>
-    </message>
-    <message>
-        <source>This document can not set MB</source>
-        <translation>Tego dokumentu nie można oznaczyć jako poufnego.</translation>
-    </message>
-</context>
-<context>
-    <name>KXaOverseasAuthManager</name>
-    <message>
-        <source>Read-Only Mode</source>
-        <translation>Tryb tylko do odczytu</translation>
-    </message>
-    <message>
-        <source>Continue in Read-only Mode</source>
-        <translation>Kontynuuj</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Zaloguj się</translation>
-    </message>
-    <message>
-        <source>You can only view this document in read-only mode. Sign in to enjoy more features, including editing, saving, and creating documents. At the same time, your documents will be better protected after you sign in.</source>
-        <translation>Ten dokument możesz wyświetlić jedynie w trybie tylko do odczytu. Zaloguj się, aby korzystać z większej liczby funkcji, w tym edycji, zapisywania i tworzenia dokumentów. Jednocześnie Twoje dokumenty będą lepiej chronione, gdy się zalogujesz.</translation>
-    </message>
-</context>
-<context>
-    <name>KxColorSnapperWidget</name>
-    <message>
-        <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
-        <translation>Nie udało się zainicjować selektora koloru, ponieważ ta funkcja nie jest obsługiwana przez bieżący system.</translation>
-    </message>
-</context>
-<context>
-    <name>JdeListWidgetItemData</name>
-    <message>
-        <source>Project is unviewable</source>
-        <translation>Brak możliwości podejrzenia projektu</translation>
-    </message>
-    <message>
-        <source>Project Locked</source>
-        <translation>Projekt zablokowany</translation>
-    </message>
-</context>
-<context>
-    <name>KxVbaQuestionButton</name>
-    <message>
-        <source>how to enable</source>
-        <translation>Jak włączyć makra</translation>
-    </message>
-</context>
-<context>
-    <name>QCalendarEdit</name>
-    <message>
-        <source>please select date</source>
-        <translation>Wybierz datę</translation>
-    </message>
-</context>
-<context>
-    <name>KxDocSecurityLoadingWidget</name>
-    <message>
-        <source>Loading. Please wait...</source>
-        <translation>Ładowanie... Czekaj.</translation>
-    </message>
-</context>
-<context>
-    <name>QScriptDebugger</name>
-    <message>
-        <source>F3</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F5</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F9</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F10</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>F11</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Debug</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Line:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Console</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ctrl+F</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ctrl+G</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Error Log</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear Debug Output</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Toggle Breakpoint</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Find &amp;Next</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Find &amp;Previous</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Step Out</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Interrupt</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Go to Line</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ctrl+F10</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Step Into</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Step Over</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&amp;Find in Script...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Run to Cursor</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Run to New Script</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shift+F3</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shift+F5</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Shift+F11</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptBreakpointsModel</name>
-    <message>
-        <source>ID</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Single-shot</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Condition</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ignore-count</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hit-count</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QSoftKeyManager</name>
-    <message>
-        <source>Ok</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Done</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptBreakpointsWidget</name>
-    <message>
-        <source>New</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptDebuggerLocalsModel</name>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptDebuggerStackModel</name>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Level</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Location</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptDebuggerCodeFinderWidget</name>
-    <message>
-        <source>Next</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Whole words</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;img src=&quot;:/qt/scripttools/debugging/images/wrap.png&quot;&gt;&amp;nbsp;Search wrapped</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Case Sensitive</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptEngineDebugger</name>
-    <message>
-        <source>View</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Stack</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Debug Output</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Breakpoints</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Qt Script Debugger</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locals</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Error Log</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Console</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Loaded Scripts</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeCompiler</name>
-    <message>
-        <source>Attached properties cannot be used here</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: rect expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid attached object assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component elements may not contain properties other than id</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid grouped property access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property type</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot override FINAL property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: size expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign object to list</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: string expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign a value to a signal (expecting a script to be run)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: unknown enumeration</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: unsupported type &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: datetime expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: 3D vector expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign multiple values to a script property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: date expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: time expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property assignment expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot create empty component specification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1&quot; cannot operate on &quot;%2&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid use of id property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Method names cannot begin with an upper case letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Empty signal assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate property name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Not an attached property name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component objects cannot declare new functions.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Incorrectly specified signal assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Element is not creatable.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component objects cannot declare new properties.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: color expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate method name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: boolean expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign to non-existent default property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias reference. An alias reference must be specified as &lt;id&gt; or &lt;id&gt;.&lt;property&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Non-existent attached object</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>IDs cannot start with an uppercase letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: point expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Can only assign one binding to lists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate default property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Duplicate signal name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: unsigned int expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>id is not unique</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property nesting</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property names cannot begin with an upper case letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias reference. Unable to find id &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: &quot;%1&quot; is a read-only property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property value set multiple times</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal signal name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign primitives to lists</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign object to property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Property has already been assigned a value</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal method name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property use</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: number expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign a value directly to a grouped property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>IDs must start with a letter or underscore</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid empty ID</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unexpected object assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ID illegally masks global JavaScript property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid component body specification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Component objects cannot declare new signals.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>IDs must contain only letters, numbers, and underscores</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid use of namespace</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: int expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid component id specification</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Illegal property name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Single property assignment expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Empty property assignment</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signal names cannot begin with an upper case letter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: url expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid property assignment: script expected</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot assign multiple values to a singular property</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Alias property exceeds alias bounds</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias reference. An alias reference must be specified as &lt;id&gt;, &lt;id&gt;.&lt;property&gt; or &lt;id&gt;.&lt;value property&gt;.&lt;property&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>No property alias location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1.%2&quot; is not available due to component versioning.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&quot;%1.%2&quot; is not available in %3 %4.%5.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Invalid alias location</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeAnchors</name>
-    <message>
-        <source>Cannot anchor item to self.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Possible anchor loop detected on horizontal anchor.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cannot anchor to a null item.</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
-        <source>Cannot specify top, bottom, and vcenter anchors.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Possible anchor loop detected on centerIn.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Baseline anchor cannot be used in conjunction with top, bottom, or vcenter anchors.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot specify left, right, and hcenter anchors.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Possible anchor loop detected on vertical anchor.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot anchor a horizontal edge to a vertical edge.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot anchor a vertical edge to a horizontal edge.</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Cannot anchor to an item that isn&apos;t a parent or sibling.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Possible anchor loop detected on fill.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeCompositeTypeManager</name>
-    <message>
-        <source>%1 %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Resource %1 unavailable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Type %1 unavailable</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Namespace %1 cannot be used as a type</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF::AudioEqualizer</name>
-    <message>
-        <source>%1 Hz</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QNetworkSessionPrivateImpl</name>
-    <message>
-        <source>Roaming error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The session was aborted by the user or system.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The requested operation is not supported by the system.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Session aborted by user or system</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unidentified Error</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Roaming was aborted or is not possible.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The specified configuration cannot be used.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown session error.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QScriptNewBreakpointWidget</name>
-    <message>
-        <source>Close</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
-    <name>QAccessibleButton</name>
-    <message>
-        <source>Press</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>Phonon::MMF</name>
-    <message>
-        <source>Could not connect</source>
-        <translation type="unfinished"/>
-    </message>
+    <name>KxFormatGroupContent_Shadow</name>
     <message>
-        <source>Access denied</source>
+        <source>Enter 0% to 100% of value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Invalid protocol</source>
+        <source>Enter 1% to 200% of value</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>No error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_ChartTitle</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Audio Output</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Disconnected</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>HINT_CHARTTITLE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Server alert</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_EXPLOSION_2</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Out of memory</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_2</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Not supported</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_IRREGULARSEAL2</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Invalid URL</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Video output error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>In use</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Insufficient bandwidth</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_BACK_OR_PREVIOUS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Already exists</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACTIONBUTTONBACKPREVIOUS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Audio output error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_SN_WPS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Multicast error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_wpsProductName</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Proxy server not supported</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_DIAMOND</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Permission denied</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_DIAMOND</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Not found</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_DIAMOND</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Not ready</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_EXPLOSION_1</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Proxy server error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_EXPLOSION_1</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The audio output device</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_IRREGULARSEAL1</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Streaming not supported</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_MULTIDOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Audio or video components could not be played</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_MULTIDOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Underflow</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTMULTIDOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Network communication error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_DATA</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Overflow</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DATA</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Network unavailable</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTINPUTOUTPUT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Path not found</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_STRIPED_RIGHT_ARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Decoder error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_STRIPEDRIGHTARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>DRM error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_INSERT_SYMBOL</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unknown error (%1)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_SYMBOL</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeTextInput</name>
-    <message>
-        <source>Could not instantiate cursor delegate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Could not load cursor delegate</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>QDeclarativeListModel</name>
-    <message>
-        <source>set: value is not an object</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>ListElement: cannot use script for property value</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
-        <source>ListModel: undefined property &apos;%1&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_CONNECTOR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>ListElement: cannot contain nested elements</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_CONNECTOR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>insert: value is not an object</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTCONNECTOR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>remove: index %1 out of range</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_NOTCHED_RIGHT_ARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>set: index %1 out of range</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_NOTCHEDRIGHTARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>append: value is not an object</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_DIAGONAL_STRIPE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>move: out of range</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_DIAGONAL_STRIPE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>insert: index %1 out of range</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_DIAGONALSTRIPE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>ListElement: cannot use reserved &quot;id&quot; property</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_BackupFile_Caption</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeEngine</name>
-    <message>
-        <source>Version mismatch: expected %1, found %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>executeSql called outside transaction()</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
-        <source>Read-only Transaction</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_BackupFile_DisplayName</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SQL transaction failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_EXTRACT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>transaction: missing callback</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_EXTRACT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SQL: database version mismatch</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTEXTRACT</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::EnvironmentalReverb</name>
-    <message>
-        <source>Reverb delay (ms)</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
-        <source>Density (%)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_Desc_InsertMovie</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Room HF level</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_DlgMovieTitle</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Reverb level (mB)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_CURVED_LEFT_ARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Diffusion (%)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CURVEDRIGHTARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Decay HF ratio (%)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Decay time (ms)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Reflections level (mB)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_DOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Room level (mB)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_DOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Reflections delay (ms)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACTIONBUTTONDOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeVME</name>
     <message>
-        <source>Cannot assign object to list</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_UP_ARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot assign object type %1 with no default method</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_LEFTRIGHTUPARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot connect mismatched signal/slot %1 %vs. %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_TRAPEZOID</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot assign value %1 to property %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRAPEZOID</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot set properties on %1 as it is null</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_TRAPEZOID</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot assign an object to signal property %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_TRAPEZOID</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to create object of type %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_MULTIPLY</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot assign object to interface property</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_MULTIPLY</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to create attached object</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>wpp_sTooltipMaterialTypeLegacyMatte</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeImportDatabase</name>
     <message>
-        <source>is ambiguous. Found in %1 and in %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>wpp_sTooltipMaterialTypeMatte</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>local directory</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_YELLOW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>import &quot;%1&quot; has no qmldir and no namespace</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>- %1 is not a namespace</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>module &quot;%1&quot; definition &quot;%2&quot; not readable</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>module &quot;%1&quot; plugin &quot;%2&quot; not found</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_BORDERCALLOUT2</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>is not a type</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_DECISION</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>module &quot;%1&quot; is not installed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DECISION</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>module &quot;%1&quot; version %2.%3 is not installed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTDECISION</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>- nested namespaces not allowed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>plugin cannot be loaded for module &quot;%1&quot;: %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>is instantiated recursively</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_BORDERCALLOUT1</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>is ambiguous. Found in %1 in version %2.%3 and %4.%5</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_SHAPE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&quot;%1&quot;: no such directory</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_NOTCHEDCIRCULARARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>cannot load module &quot;%1&quot;: File name case mismatch for &quot;%2&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_NewWorkbook_Caption</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>File name case mismatch for &quot;%2&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_NewWorkbook_DisplayName</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::MediaObject</name>
     <message>
-        <source>Error opening source: resource is compressed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_RIGHT_BRACE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error opening source: media type could not be determined</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_RIGHT_BRACE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error opening source: resource not valid</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_RIGHTBRACE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error opening source: type not supported</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_LINE_ARROW_TYPE_ARROE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Failed to set requested IAP</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_ARROW</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativePixmap</name>
     <message>
-        <source>Error decoding: %1: %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot open: %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Failed to get image from provider: %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_BORDER_AND_ACCENT_BAR</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeBinding</name>
     <message>
-        <source>Binding loop detected for property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACCENTCALLOUT2</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeBindings</name>
     <message>
-        <source>Binding loop detected for property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_BUTTON</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QXmlPatternistCLI</name>
     <message>
-        <source>Error %1 in %2, at line %3, column %4: %5</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning in %1: %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_3_NO_BORDER</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error %1 in %2: %3</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3_NO_BORDER</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning in %1, at line %2, column %3: %4</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CALLOUT2</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unknown location</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QNetworkAccessManager</name>
     <message>
-        <source>Network access is disabled.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2_BORDER_AND_ACCENT_BAR</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeXmlRoleList</name>
     <message>
-        <source>An XmlListModel query must start with &apos;/&apos; or &quot;//&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACCENTCALLOUT1</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>FakeReply</name>
     <message>
-        <source>Invalid URL</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_DOWN_RIBBON</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Fake error !</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_RIBBON</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeParser</name>
     <message>
-        <source>Script import qualifiers must be unique.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unterminated regular expression class</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_SEQUENTIAL_ACCESS_STORAGE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Library import requires a version</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTMAGNETICTAPE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Invalid regular expression flag &apos;%0&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_PROCESS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>JavaScript declaration outside Script element</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PROCESS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Illegal character</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTPROCESS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unclosed comment at end of file</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_MOON</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unclosed string at end of line</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_MOON</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Expected property type</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_MOON</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Expected type name</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Illegal escape sequence</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Readonly not yet supported</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_BORDERCALLOUT90</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unterminated regular expression literal</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_ACTION_BUTTON_SOUND</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Property value set multiple times</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_SOUND</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unterminated regular expression backslash sequence</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACTIONBUTTONSOUND</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Identifier cannot start with numeric literal</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Script import requires a qualifier</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_BORDER_AND_ACCENT_BAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Illegal syntax for exponential number</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_ACCENTBORDERCALLOUT90</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Invalid property type modifier</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_CURVED_UP_ARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Reserved name &quot;Qt&quot; cannot be used as an qualifier</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CURVEDDOWNARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Expected token `%1&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LINE_CALLOUT_1_NO_BORDER</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unexpected token `%1&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1_NO_BORDER</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Expected parameter type</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CALLOUT90</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Illegal unicode escape sequence</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_FillEffects</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unexpected property type modifier</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_FillEffects</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Invalid import qualifier ID</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_24_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Syntax error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_24_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Illegal escape squence</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_SEAL24</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QScriptEdit</name>
     <message>
-        <source>Disable Breakpoint</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_16_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Breakpoint Condition:</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_16_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Toggle Breakpoint</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_SEAL16</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enable Breakpoint</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_12_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::AudioOutput</name>
     <message>
-        <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which has higher preference or is specifically configured for this stream.&lt;/html&gt;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_12_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;html&gt;The audio playback device &lt;b&gt;%1&lt;/b&gt; does not work.&lt;br/&gt;Falling back to &lt;b&gt;%2&lt;/b&gt;.&lt;/html&gt;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_DOUBLE_WAVE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Revert back to device &apos;%1&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_DOUBLE_WAVE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which just became available and has higher preference.&lt;/html&gt;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_DOUBLEWAVE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativePropertyChanges</name>
     <message>
-        <source>Cannot assign to read-only property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_10_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>PropertyChanges does not support creating state-specific objects.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_10_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_TERMINATOR</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::AbstractVideoPlayer</name>
     <message>
-        <source>Pause failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_TERMINATOR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Seek failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTTERMINATOR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Opening clip failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_BringForward</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Getting position failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_Order_BringForward</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::AbstractMediaPlayer</name>
     <message>
-        <source>Not ready to play</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_32_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error opening file</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_32_POINT_STAR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error opening source: resource not opened</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_SEAL32</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error opening URL</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>OMATH_SYMBOL_CATEGORY_ARROWS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Loading clip failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>OMATH_SYMBOL_CA_ARROWS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Setting volume failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_LineStylePalette</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Error opening resource</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_LineStyle</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Playback complete</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_FillColor</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Download error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_FillColor</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeAbstractAnimation</name>
     <message>
-        <source>Animation is an abstract class</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_ChangeFormatting</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot animate non-existent property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>CHART_DELETE_DRAWING_AREA</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot animate read-only property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_Generic_MessageBox_Caption</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeFlipable</name>
     <message>
-        <source>front is a write-once property</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_ksoProductName</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>back is a write-once property</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_PREDEFINED_PROCESS</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeParentAnimation</name>
     <message>
-        <source>Unable to preserve appearance under non-uniform scale</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_PREDEFINED_PROCESS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to preserve appearance under complex transform</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTPREDEFINEDPROCESS</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to preserve appearance under scale of 0</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_DISPLAY</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeParentChange</name>
     <message>
-        <source>Unable to preserve appearance under non-uniform scale</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DISPLAY</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to preserve appearance under complex transform</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTDISPLAY</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to preserve appearance under scale of 0</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QGstreamerPlayerSession</name>
     <message>
-        <source>Unable to play %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeComponent</name>
     <message>
-        <source>Invalid empty URL</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_sEtInsertAsIcon</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>createObject: value is not an object</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_sWpsInsertAsIcon</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeVisualDataModel</name>
     <message>
-        <source>Delegate component must be Item type.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_HardEdge</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QMediaPlaylist</name>
     <message>
-        <source>The file could not be accessed.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_HARDEDGE</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Could not add items to read only playlist.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_Cmd_SaveAsMovieFailureCaption</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Playlist format is not supported</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_Cmd_SaveAsPictureFailureCaption</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeConnections</name>
     <message>
-        <source>Connections: script expected</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_sActivePartOf</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connections: nested objects not allowed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>kso_sPartOf</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot assign to non-existent property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connections: syntax error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTOFFPAGECONNECTOR</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QNetworkSession</name>
     <message>
-        <source>Invalid configuration.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_3DTiltDown</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QNetworkAccessDataBackend</name>
     <message>
-        <source>Invalid URI: %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_3DTiltLeft</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Operation not supported on %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_3DTiltRight</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeAnimatedImage</name>
     <message>
-        <source>Qt was built without support for QMovie</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_3DTiltUp</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeKeysAttached</name>
     <message>
-        <source>Keys is only available via attached properties</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_PENTAGON</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QMenuBar</name>
     <message>
-        <source>Actions</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_HOMEPLATE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QMediaPlayer</name>
     <message>
-        <source>The QMediaPlayer object does not have a valid service</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_CIRCULAR_ARROW</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QNetworkAccessDebugPipeBackend</name>
     <message>
-        <source>Socket error on %1: %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CIRCULARARROW</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Remote host closed the connection prematurely on %1</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeDown</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Write error writing to %1: %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeLeft</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeLoader</name>
     <message>
-        <source>Loader does not support loading non-visual elements.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeRight</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QStateMachine</name>
     <message>
-        <source>Missing default state in history state &apos;%1&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_NudgeUp</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unknown error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_FLOWCHART_DOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Missing initial state in compound state &apos;%1&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_FLOWCHART_DOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>No common ancestor for targets and source of transition from state &apos;%1&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_FLOWCHARTDOCUMENT</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeXmlListModelRole</name>
     <message>
-        <source>An XmlRole query must not start with &apos;/&apos;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_SHAPE_GROUPTYPE_LINE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeBehavior</name>
     <message>
-        <source>Cannot change the animation assigned to a Behavior.</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LINE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::EffectFactory</name>
     <message>
-        <source>Enabled</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_LINE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::DsaVideoPlayer</name>
     <message>
-        <source>Video display error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_PLANE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::SurfaceVideoPlayer</name>
     <message>
-        <source>Video display error</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLANE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::StereoWidening</name>
     <message>
-        <source>Level (%)</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LEFT_RIGHT_ARROW</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>Phonon::MMF::AudioPlayer</name>
     <message>
-        <source>Getting position failed</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_LEFTRIGHTARROW</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeKeyNavigationAttached</name>
     <message>
-        <source>KeyNavigation is only available via attached properties</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_LEFT_BRACE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeAnchorAnimation</name>
     <message>
-        <source>Cannot set a duration of &lt; 0</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2_TOOLTIP_LEFT_BRACE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativePauseAnimation</name>
     <message>
-        <source>Cannot set a duration of &lt; 0</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_LEFTBRACE</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativePropertyAnimation</name>
     <message>
-        <source>Cannot set a duration of &lt; 0</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_SaveDiagTitle</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeXmlListModel</name>
     <message>
-        <source>Qt was built without support for xmlpatterns</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_kso_SaveToFileDialogName</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeLayoutMirroringAttached</name>
     <message>
-        <source>LayoutMirroring is only available via attached properties</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>LayoutDirection attached property only works with Items</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>_KsoLinuxOleDocFile</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeTypeLoader</name>
     <message>
-        <source>%1 %2</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_CropPicture</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Type %1 unavailable</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_PictureCrop</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Namespace %1 cannot be used as a type</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_Custom</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Script %1 unavailable</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DgUil_KSO_Cmd_WordArtCharacterSpacingCustom</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeCompiledBindings</name>
     <message>
-        <source>Binding loop detected for property &quot;%1&quot;</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWING2STR_CURVED_DOWN_ARROW</comment>
         <translation type="unfinished"/>
     </message>
-</context>
-<context>
-    <name>QDeclarativeApplication</name>
     <message>
-        <source>Application is an abstract class</source>
+        <source>Enter 1% to 200% of value</source>
+        <comment>DRAWINGSTR_CURVEDUPARROW</comment>
         <translation type="unfinished"/>
     </message>
 </context>
