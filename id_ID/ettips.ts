@@ -3203,35 +3203,35 @@ Anda dapat mengurutkan data yang dipilih dalam urutan menaik atau menurun.</tran
         <translation>Sortir</translation>
     </message>
     <message>
-        <source>QuickOrientation.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>QuickOrientation.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>StrikeThroughHome.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>PCLaTeXEquation.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>PCLaTeXEquation.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>StrikeThroughHome.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
