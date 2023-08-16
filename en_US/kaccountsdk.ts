@@ -666,62 +666,6 @@ we will make continuous improvements</translation>
 Easy mobile office.</source>
         <translation>Sign in to sync data between PC and phone</translation>
     </message>
-    <message>
-        <source>Guest</source>
-        <translation>Guest</translation>
-    </message>
-    <message>
-        <source>Cannot use Cloud services</source>
-        <translation>Cannot use Cloud services</translation>
-    </message>
-    <message>
-        <source>Read-Only Mode</source>
-        <translation>Read-Only Mode</translation>
-    </message>
-    <message>
-        <source>Create, edit, and share documents as you like</source>
-        <translation>Create, edit, and share documents as you like</translation>
-    </message>
-    <message>
-        <source>Cannot create or edit documents</source>
-        <translation>Cannot create or edit documents</translation>
-    </message>
-    <message>
-        <source>Sign in User</source>
-        <translation>Sign in User</translation>
-    </message>
-    <message>
-        <source>Only support opening and viewing local documents</source>
-        <translation>Only support opening and viewing local documents</translation>
-    </message>
-    <message>
-        <source>Premium User</source>
-        <translation>Premium User</translation>
-    </message>
-    <message>
-        <source>Sign in to sync data between PC and phone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Get all benefits of services on both PC and phone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dozens of Premium features: PDF to Word, PDF Edit, No ADs, etc.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>High quality of Cloud services</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Massive templates make amazing documents</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>1G Cloud space</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KPayStateWidget</name>
@@ -744,14 +688,6 @@ Easy mobile office.</source>
     <message>
         <source>Checking payment...</source>
         <translation>Checking payment...</translation>
-    </message>
-    <message>
-        <source>Check order</source>
-        <translation>Order History</translation>
-    </message>
-    <message>
-        <source>How to activate?</source>
-        <translation>How do I activate?</translation>
     </message>
 </context>
 <context>
@@ -1035,10 +971,6 @@ Easy mobile office.</source>
     <message>
         <source>Page load failed,check you network and retry</source>
         <translation>Page load failed,check you network and retry</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Can&apos;t access WPS Account server!Please check your network and retry.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Failed to access WPS Account server. Please ensure you have good network connectivity and try again.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1349,50 +1281,6 @@ Easy mobile office.</source>
         <source>Login with third account</source>
         <translation>Login with third account</translation>
     </message>
-    <message>
-        <source>here</source>
-        <translation>here</translation>
-    </message>
-    <message>
-        <source>Frequent requests. Please wait a minute and try again.</source>
-        <translation>Frequent requests. Please wait a minute and try again.</translation>
-    </message>
-    <message>
-        <source>Skip login</source>
-        <translation>Skip Login</translation>
-    </message>
-    <message>
-        <source>Invalid character. Please retry.</source>
-        <translation>Invalid character. Please retry.</translation>
-    </message>
-    <message>
-        <source>Online Service User Agreement</source>
-        <translation>Online Service User Agreement</translation>
-    </message>
-    <message>
-        <source>Please enter a valid email address.</source>
-        <translation>Please enter a valid email address.</translation>
-    </message>
-    <message>
-        <source>Password should be 8-16 characters. Please retry</source>
-        <translation>Password should be 8-16 characters. Please retry.</translation>
-    </message>
-    <message>
-        <source>We did not manage to sign you in.Please go back to sign in and try again.</source>
-        <translation>We did not manage to sign you in. Please go back to sign in and try again.</translation>
-    </message>
-    <message>
-        <source>I agree to the %1</source>
-        <translation>I agree to the %1</translation>
-    </message>
-    <message>
-        <source>Go back to sign in</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Continue with Huawei</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>StackedWidget</name>
@@ -1566,22 +1454,6 @@ Easy mobile office.</source>
     <message>
         <source>Page load failed,check you network and retry</source>
         <translation>Page load failed,check you network and retry</translation>
-    </message>
-    <message>
-        <source>Skip login</source>
-        <translation>Skip Login</translation>
-    </message>
-    <message>
-        <source>Diagnosing tool</source>
-        <translation>Diagnose network</translation>
-    </message>
-    <message>
-        <source> or refer to the </source>
-        <translation> or read the </translation>
-    </message>
-    <message>
-        <source>Your request/sessions has timed out. Please retry the request by clicking the refresh button.</source>
-        <translation>Request timeout. Click Refresh and try again.</translation>
     </message>
 </context>
 <context>
@@ -1991,10 +1863,6 @@ Easy mobile office.</source>
         <source>verify failed</source>
         <translation>verify failed</translation>
     </message>
-    <message>
-        <source>request failed, please retry later.</source>
-        <translation>Failed to get information from the server. Please try again later.</translation>
-    </message>
 </context>
 <context>
     <name>KLogoutClearCacheCheckButton</name>
@@ -2337,99 +2205,38 @@ Easy mobile office.</source>
     </message>
 </context>
 <context>
-    <name>KPayStateDlg</name>
+    <name/>
     <message>
-        <source>Please wait a few minutes</source>
-        <translation>Please wait a few minutes</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>You can download unlimted templates.</source>
-        <translation>You can download unlimted templates.</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Payment timeout</source>
-        <translation>Payment timeout</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Get your personal customization now.</source>
-        <translation>Get your personal customization now.</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>You can use PDF conversion unlimited.</source>
-        <translation>You can use PDF conversion unlimited.</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Payment successful!</source>
-        <translation>Payment successful!</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Fill in</source>
-        <translation>Fill in</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>You have become WPS Premium user.</source>
-        <translation>Your account are now a WPS Premium.</translation>
-    </message>
-    <message>
-        <source>How to activate?</source>
-        <translation>How do I activate?</translation>
-    </message>
-    <message>
-        <source>Checking payment...</source>
-        <translation>Checking payment...</translation>
-    </message>
-    <message>
-        <source>Payment failed</source>
-        <translation>Payment failed</translation>
-    </message>
-</context>
-<context>
-    <name>KFeedbackPopupWidget</name>
-    <message>
-        <source>Forgot the password</source>
-        <translation>Forgot the password</translation>
-    </message>
-    <message>
-        <source>Sign-in failed</source>
-        <translation>Sign-in failed</translation>
-    </message>
-    <message>
-        <source>Other questions or feedback</source>
-        <translation>Other Issues or Suggestions</translation>
-    </message>
-    <message>
-        <source>Select your question type:</source>
-        <translation>Select your question type:</translation>
-    </message>
-</context>
-<context>
-    <name>KNetworkOtherErrDlg</name>
-    <message>
-        <source>Skip login</source>
-        <translation>Skip Login</translation>
-    </message>
-    <message>
-        <source>Login failed</source>
-        <translation>Login Failed</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Refresh</translation>
-    </message>
-</context>
-<context>
-    <name>KGuidePaneForTopcActivity</name>
-    <message>
-        <source>Sign in with WPS account to get gifts.</source>
-        <translation>Sign in with WPS account to get gifts.</translation>
-    </message>
-    <message>
-        <source>Sign in</source>
-        <translation>Sign in</translation>
-    </message>
-    <message>
-        <source>Gifts for New Users on PC</source>
-        <translation>Gifts for New Users on PC</translation>
+        <source/>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
