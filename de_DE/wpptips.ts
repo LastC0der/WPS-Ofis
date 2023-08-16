@@ -2748,19 +2748,35 @@ Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
         <translation>Verwandeln Sie Ihr Werk in ein Kunstwerk. Fügen Sie Ihrem Text einen Grafikeffekt hinzu, beispielsweise einen Schatten, einen Leuchteffekt oder eine Spiegelung.</translation>
     </message>
     <message>
-        <source>PCLaTeXEquation.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>PCLaTeXEquation.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.content</source>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
