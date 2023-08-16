@@ -2748,19 +2748,35 @@ Clique na seta para selecionar uma cor de realce diferente.</translation>
         <translation>Adicionar um efeito visual, tal como uma sombra, um brilho ou um reflexo ao texto.</translation>
     </message>
     <message>
-        <source>PCLaTeXEquation.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.title</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>PCLaTeXEquation.content</source>
+        <source/>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>BatchRename.content</source>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source/>
         <translation type="unfinished"/>
     </message>
 </context>
