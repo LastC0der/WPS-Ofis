@@ -2273,35 +2273,99 @@ Kliknij strzałkę, aby wybrać kolor.</translation>
         <translation>Obróć o 90 stopni w prawo</translation>
     </message>
     <message>
-        <source/>
+        <source>ViewFitSwitch.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>OcrArea.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>AlignJustify.content</source>
+        <translation>Rozłóż tekst równomiernie między marginesami.</translation>
+    </message>
+    <message>
+        <source>NewPDFBatchPrint.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>PdfPictureToText.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>TwoPageScrolling.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>SinglePageScrolling.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>TwoPageScrolling.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>ShowFloatToolBar.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OcrArea.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ShowFloatToolBar.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageView.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CustomRotateDegree.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>CustomRotateDegree.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PdfPictureToText.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NewPDFBatchPrint.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ViewFitSwitch.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SinglePageScrolling.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SinglePageView.content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation>Justuj</translation>
+    </message>
+    <message>
+        <source>SinglePageView.title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TwoPageView.title</source>
         <translation type="unfinished"/>
     </message>
 </context>
