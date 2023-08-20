@@ -3861,35 +3861,19 @@ Cliquez sur la flèche pour sélectionner une autre couleur de surbrillance.</tr
         <translation>Afficher ou masquer la navigation dans le volet.</translation>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>BatchRename.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
+        <source>BatchRename.content</source>
         <translation type="unfinished"/>
     </message>
 </context>
