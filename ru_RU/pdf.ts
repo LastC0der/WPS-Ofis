@@ -173,6 +173,18 @@
         <source>Question Mark</source>
         <translation>Знак вопроса</translation>
     </message>
+    <message>
+        <source>border color:</source>
+        <translation>Цвет рамки :</translation>
+    </message>
+    <message>
+        <source>start(S):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>end(E):</source>
+        <translation>Конечная стрелка :</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfWaterMarkDlg</name>
@@ -704,6 +716,14 @@
         <source>Record last Position</source>
         <translation>Помнить место, где закончилось чтение</translation>
     </message>
+    <message>
+        <source>Enable Association Protection</source>
+        <translation>Включить защиту связи</translation>
+    </message>
+    <message>
+        <source>AssociateSetting</source>
+        <translation>Параметры сопоставления</translation>
+    </message>
 </context>
 <context>
     <name>PdfFindFuncItem</name>
@@ -901,6 +921,18 @@
     <message>
         <source>There are more than 20. Please delete them and add them later</source>
         <translation>Вы добавили более 20 подложек. Удалите несколько подложек и добавьте еще раз.</translation>
+    </message>
+    <message>
+        <source>Edit WaterMark</source>
+        <translation>Изменить подложку</translation>
+    </message>
+    <message>
+        <source>watermark export failed!</source>
+        <translation>Не удалось установить встроенную подложку.</translation>
+    </message>
+    <message>
+        <source>Cannot find the current custom watermark save location, please check whether the current login account is the original account</source>
+        <translation>Не удалось найти расположение, где сохранена текущая пользовательская подложка. Убедитесь, что учетная запись, в которую сейчас выполнен вход, является исходной учетной записью.</translation>
     </message>
 </context>
 <context>
@@ -1947,6 +1979,76 @@ The operation is irrevocable</source>
         <source>plugin Loading, please try angin.</source>
         <translation>Загрузка инструментов PDF, подождите...</translation>
     </message>
+    <message>
+        <source>The erased content cannot be displayed after saving. Do you want to save it?</source>
+        <translation>Удаленное содержимое невозможно отобразить после сохранения. Сохранить его?</translation>
+    </message>
+    <message>
+        <source>Ebook does not support print function</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Select Files</source>
+        <comment>_PdDocument_SelectFiles</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have selected too many pages to move(&gt;50).
+Please batches operations</source>
+        <comment>_Pdf_Waring_Too_Many_Move_Nodes</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Changes would not be undone after saving as compression, sure to continue?</source>
+        <comment>_PdDocument_SaveAsEditContent</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This file is signatured and can&apos;t edit.</source>
+        <comment>_PdDocument_IsSignatureCanntEdit</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extracting text</source>
+        <comment>_PdDocument_ExtractingText</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identifying editable text</source>
+        <comment>_PdDocument_EditTextFile</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have selected too many erase pages(&gt;1). Please batches operations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Redo Clip</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encryption will take effect after the document is saved</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You have selected too many insertion points(&gt;50). Please batches operations</source>
+        <comment>_Pdf_Waring_Too_Many_Insert_Nodes</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Software Aborted last time, will u want backup?</source>
+        <comment>_PdDocument_QueryBackup</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backup Failed!May lack of Memory,please change Location!</source>
+        <comment>_PdDocument_BackupFailed</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Complete Segment</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfMeasureScaleDlg</name>
@@ -2180,6 +2282,65 @@ The operation is irrevocable</source>
     <message>
         <source>Failed to add attachment</source>
         <translation>Не удалось добавить вложение</translation>
+    </message>
+    <message>
+        <source>The Function is Exclusive</source>
+        <translation>Эта функция ограничена.</translation>
+    </message>
+    <message>
+        <source>The Function is Exclusive functions of enterprise,You don&apos;t have The Authorization</source>
+        <translation>Это эксклюзивное право только для корпоративных пользователей. Перезапустите и повторите попытку. В случае повторения этой проблемы обратитесь к ИТ-администратору или в службу поддержки WPS по телефону 400-677-5005.</translation>
+    </message>
+    <message>
+        <source>Entered the form filling mode, click the document line, box and other positions to start filling.</source>
+        <translation>Выполнен вход в режим заполнения формы. Нажмите горизонтальную линию документа, поле и другие расположения, чтобы начать заполнение.</translation>
+    </message>
+    <message>
+        <source>certificate file (*.pfx;*.p12)|*.pfx;*.p12|</source>
+        <translation>Файл цифрового сертификата (*.pfx;*.p12)|*.pfx;*.p12|</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <comment>TxUndo_pdf</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Redo</source>
+        <comment>TxRedo_pdf</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ebook Files(*.mobi;*.epub) | *.mobi;*.epub; |</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ALL Files(*.pdf;*.mobi;*.epub) | *.pdf;*.mobi;*.epub; |</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Can&apos;t Redo</source>
+        <comment>TxNotRedo_pdf</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Supported Files</source>
+        <comment>InsertFile_SupportedFiles</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Can&apos;t Undo</source>
+        <comment>TxNotUndo_pdf</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text Files (*.txt;*.text)|*.txt;*.text|</source>
+        <comment>InsertFile_SupportedFiles</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF Files (*.pdf)|*.pdf|</source>
+        <comment>TxDesc_DataSource_pdf</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2698,6 +2859,11 @@ The operation is irrevocable</source>
         <source>Document And NoteContents</source>
         <translation>Содержимое документа и примечания</translation>
     </message>
+    <message>
+        <source>Enter page numbers and/or page ranges separated by commas. 
+For example, 1,3,5-12.</source>
+        <translation>Введите номера страниц и/или диапазоны страниц, разделенные запятыми. Например, введите 1, 3 или 5–12.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfPageMarginDialog</name>
@@ -2820,6 +2986,10 @@ The operation is irrevocable</source>
         <source>bottom:</source>
         <translation>Снизу:</translation>
     </message>
+    <message>
+        <source>The current printer has a margin limit. The setting is invalid.</source>
+        <translation>Текущий принтер имеет ограничения в настройках полей. Недействительный параметр.</translation>
+    </message>
 </context>
 <context>
     <name>AIOCR2PDFSatisfactionDlg</name>
@@ -2936,6 +3106,10 @@ The operation is irrevocable</source>
         <source>continue to scan reverse page</source>
         <translation>продолжить сканировать обратную сторону страницы</translation>
     </message>
+    <message>
+        <source>scan is completed or scan more pages?</source>
+        <translation>Завершить сканирование или еще сканировать страницы?</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCustomSettingDialog</name>
@@ -2974,6 +3148,18 @@ The operation is irrevocable</source>
     <message>
         <source>Backup Center</source>
         <translation>Автоматическое резервное копирование</translation>
+    </message>
+    <message>
+        <source>If you need to change the default software, you can modify it through the open method in the file properties.</source>
+        <translation>Если необходимо изменить программное обеспечение по умолчанию, можно изменить его с помощью метода открытия в свойствах файла.</translation>
+    </message>
+    <message>
+        <source>Protect PDF files to open with WPS by default</source>
+        <translation>Открывать защищенные PDF-файлы с помощью WPS по умолчанию</translation>
+    </message>
+    <message>
+        <source>Receive task tools tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3094,6 +3280,14 @@ input 5-9,means extract page 5 to 9</source>
     <message>
         <source>Ctrl+H or U</source>
         <translation>Ctrl+H/U</translation>
+    </message>
+    <message>
+        <source>Ctrl + Roll back the mouse wheel or Ctrl + &apos;-&apos;</source>
+        <translation>Нажмите и удерживайте клавишу Ctrl и крутите колесико мыши назад или нажмите и удерживайте клавишу Ctrl, а затем нажмите &quot;-&quot;</translation>
+    </message>
+    <message>
+        <source>Ctrl + Roll forward the mouse wheel or Ctrl + &apos;+&apos;</source>
+        <translation>Нажмите и удерживайте клавишу Ctrl и крутите колесико мыши вперед или нажмите и удерживайте клавишу Ctrl, а затем нажмите &quot;+&quot;</translation>
     </message>
 </context>
 <context>
@@ -3337,6 +3531,10 @@ Please modify and try again</source>
         <source>set edit and extract key</source>
         <translation>Установить пароль для редактирования и извлечения</translation>
     </message>
+    <message>
+        <source>Please keep the password properly. A forgotten password cannot be restored.</source>
+        <translation>Храните пароль в надежном месте. Забытый пароль восстановить невозможно.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfEncryptDlgWidget</name>
@@ -3518,6 +3716,42 @@ Inserted pages must delete by yourself.</source>
     <message>
         <source>Insert 5 or more pages of the document is VIP function, please upgrade VIP</source>
         <translation>&quot;Добавить больше 5 страниц&quot; — это функция VIP. Зарегистрируйтесь, чтобы получить членство.</translation>
+    </message>
+    <message>
+        <source>Insert Pages From Images</source>
+        <translation>Вставить страницы из изображений</translation>
+    </message>
+    <message>
+        <source>Insert Pages</source>
+        <translation>Вставить страницы</translation>
+    </message>
+    <message>
+        <source>MoreScannerOpt</source>
+        <translation>Дополнительные параметры сканирования</translation>
+    </message>
+    <message>
+        <source>Insert Pages From File</source>
+        <translation>Вставить страницы из файла</translation>
+    </message>
+    <message>
+        <source>Insert Pages From Scan</source>
+        <translation>Вставить страницы из сканера</translation>
+    </message>
+    <message>
+        <source>Can&apos;t get date from scanner, the operation is terminated</source>
+        <translation>Не удалось получить отсканированные данные. Операция завершена. Проверьте и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Insert Pages From Clipborad</source>
+        <translation>Вставить страницы из буфера обмена</translation>
+    </message>
+    <message>
+        <source>Select Scaner</source>
+        <translation>Выбрать сканер</translation>
+    </message>
+    <message>
+        <source>Insert 5 or more scanPages  is enterprise authority privilege</source>
+        <translation>&quot;Вставить 5 или больше отсканированных копий&quot; — это эксклюзивная привилегия для корпоративных пользователей.</translation>
     </message>
 </context>
 <context>
@@ -3861,6 +4095,26 @@ log in to save changes?</source>
         <source>%1year%2mon%3day</source>
         <translation>%1 год %2 мес %3 день</translation>
     </message>
+    <message>
+        <source>Login WPS account to get a complete functional experience</source>
+        <translation>Войдите в учетную запись WPS, чтобы получить доступ ко всем функциям и возможностям.</translation>
+    </message>
+    <message>
+        <source>InvoicePrint has been Upgraded to BillMgr</source>
+        <translation>Функция [Печать счетов] была обновлена до [Контейнера счетов WPS].</translation>
+    </message>
+    <message>
+        <source>edit content is VIP function, please upgrade VIP</source>
+        <translation>&quot;Редактирование содержимого&quot; — это платная функция. Сначала повысьте статус до Premium.</translation>
+    </message>
+    <message>
+        <source>The invoice printing function can be executed in the BillMgr</source>
+        <translation>Функция печати счета может быть выполнена в [Контейнере счетов WPS].</translation>
+    </message>
+    <message>
+        <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
+        <translation>Резервная копия текущего документа использовала функцию редактирования PDF-файлов версии Premium. Повысьте уровень до Premium, чтобы сохранить измененный документ.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfManualDuplexPrintTipsDialog</name>
@@ -3959,6 +4213,14 @@ log in to save changes?</source>
     <message>
         <source>Exported successfully</source>
         <translation>Экспорт успешно выполнен</translation>
+    </message>
+    <message>
+        <source>Open Directory(R)</source>
+        <translation>Открыть каталог (R)</translation>
+    </message>
+    <message>
+        <source>Exported failed, please retry</source>
+        <translation>Не удалось экспортировать. Повторите попытку.</translation>
     </message>
 </context>
 <context>
@@ -4224,6 +4486,10 @@ log in to save changes?</source>
         <source>Extract:</source>
         <translation>Извлечь:</translation>
     </message>
+    <message>
+        <source>SaveAsPermission:</source>
+        <translation>Сохранить как:</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfScanDialogWidget</name>
@@ -4333,6 +4599,14 @@ log in to save changes?</source>
         <source>Apply other page</source>
         <translation>Применить к другим страницам</translation>
     </message>
+    <message>
+        <source>Signature Apply</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signature apply</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfSignApplyMultiPageDlg</name>
@@ -4395,6 +4669,10 @@ log in to save changes?</source>
     <message>
         <source>Please enter a valid page range</source>
         <translation>Введите допустимый диапазон страниц</translation>
+    </message>
+    <message>
+        <source>Embedding signatures/stamp in documents, this operation cannot be undone, do you want to continue?</source>
+        <translation>Операцию встройки подписей/штампов в документы нельзя отменить. Действительно продолжить?</translation>
     </message>
 </context>
 <context>
@@ -4489,6 +4767,10 @@ log in to save changes?</source>
     <message>
         <source>CheckBox</source>
         <translation>Флажок</translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4909,6 +5191,10 @@ Input 5-9 page 5 to page 9</source>
         <source>IsEncrypting %1%</source>
         <translation>Шифрование %1%</translation>
     </message>
+    <message>
+        <source>please select ca for encrypt pdf file</source>
+        <translation>Добавьте цифровой сертификат, чтобы зашифровать файл.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCaImportDlg</name>
@@ -4919,6 +5205,10 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>cancel</source>
         <translation>отмена</translation>
+    </message>
+    <message>
+        <source>you can select ca where added before to encrypt pdf file</source>
+        <translation>Вы можете выбрать цифровой сертификат, добавленный ранее, чтобы зашифровать файл.</translation>
     </message>
 </context>
 <context>
@@ -4938,6 +5228,42 @@ Input 5-9 page 5 to page 9</source>
     <message>
         <source>can&apos;t open file</source>
         <translation>не удается открыть файл</translation>
+    </message>
+    <message>
+        <source>delete ca</source>
+        <translation>Удалить цифровой сертификат</translation>
+    </message>
+    <message>
+        <source>CA encrypt tip</source>
+        <translation>Шифрование на основе цифрового сертификата</translation>
+    </message>
+    <message>
+        <source>some ca has imported,cannt import again.</source>
+        <translation>Отфильтрованы повторяющиеся сертификаты.</translation>
+    </message>
+    <message>
+        <source>cannt import ca used to digital ca.</source>
+        <translation>Добавьте сертификат, который можно использовать для шифрования на основе ключей.</translation>
+    </message>
+    <message>
+        <source>The file is encrypt by ca,please install ca or connect the auth to get ca file.</source>
+        <translation>Этот документ использует шифрование на основе цифрового сертификата. Установите соответствующий цифровой сертификат или обратитесь к владельцу документа, чтобы получить цифровой сертификат.</translation>
+    </message>
+    <message>
+        <source>install ca</source>
+        <translation>Установить сертификат</translation>
+    </message>
+    <message>
+        <source>the operation will be delete local ca file also,please confirm the ca dosnt has other use.</source>
+        <translation>Локальный сертификат будет удален одновременно. Убедитесь, что сертификат не используется для расшифровки каких-либо документов. Действительно продолжить?</translation>
+    </message>
+    <message>
+        <source>imported tip</source>
+        <translation>Импортировать цифровой сертификат</translation>
+    </message>
+    <message>
+        <source>Encrypt list has expire ca,please remove it.</source>
+        <translation>Список шифрования содержит просроченные цифровые сертификаты. Удалите просроченные сертификаты и повторите попытку.</translation>
     </message>
 </context>
 <context>
@@ -6829,6 +7155,150 @@ Input 5-9 page 5 to page 9</source>
         <source>ExitSplitPage</source>
         <translation>Выйти из режима разделения страниц</translation>
     </message>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>Pages From Pic</source>
+        <translation>Выбрать из изображения</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Разделение/объединение документов</translation>
+    </message>
+    <message>
+        <source>Pages From Clipboard</source>
+        <translation>Выбрать из буфера обмена</translation>
+    </message>
+    <message>
+        <source>Border color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation>Выровнять</translation>
+    </message>
+    <message>
+        <source>PdfElectronicInvoicePrint</source>
+        <translation>Печать счета</translation>
+    </message>
+    <message>
+        <source>OcrExtractText2Word</source>
+        <translation>Экспортировать как документ Word</translation>
+    </message>
+    <message>
+        <source>Translate Pane</source>
+        <translation>Преобразовать</translation>
+    </message>
+    <message>
+        <source>single page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OcrExtractScrawl</source>
+        <translation>Стереть</translation>
+    </message>
+    <message>
+        <source>Font color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>two page view</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open current comment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pages From Scan</source>
+        <translation>Выбрать из сканера</translation>
+    </message>
+    <message>
+        <source>Set MarkAttribute</source>
+        <translation>Свойства</translation>
+    </message>
+    <message>
+        <source>Increase font size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>two page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease font size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FindFunctions</source>
+        <translation>Поиск функции</translation>
+    </message>
+    <message>
+        <source>PdfInvoiceAssist</source>
+        <translation>Помощь со счетом</translation>
+    </message>
+    <message>
+        <source>BatchPrint</source>
+        <translation>Пакетная печать PDF-файлов</translation>
+    </message>
+    <message>
+        <source>Add Note</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OcrExtractText2Excel</source>
+        <translation>Экспортировать как документ Excel</translation>
+    </message>
+    <message>
+        <source>Add note to replace text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>single page scrolling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Convert to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TextContentQuery</source>
+        <translation>Найди содержимое документа</translation>
+    </message>
+    <message>
+        <source>addnewcatalog</source>
+        <translation>Вставить в каталог</translation>
+    </message>
+    <message>
+        <source>Add note to text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCRExtractText</source>
+        <translation>Извлечь текст</translation>
+    </message>
+    <message>
+        <source>1.25</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1.75</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add new outline</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfWaterMarkGalleryCommand</name>
@@ -7611,6 +8081,22 @@ COM</translation>
         <source>Sign out</source>
         <translation>Выйти</translation>
     </message>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>Extraction identification</source>
+        <translation>Распознавание и извлечение</translation>
+    </message>
+    <message>
+        <source>ImgPDF</source>
+        <translation>Преобразовать в PDF-файл только с изображениями</translation>
+    </message>
+    <message>
+        <source>pdfconvertword</source>
+        <translation>Экспорт в Word</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -7774,6 +8260,26 @@ COM</translation>
         <source>SaveAsCompress</source>
         <translation>Сохранить как сжатый файл</translation>
     </message>
+    <message>
+        <source>NewClipboardFile</source>
+        <translation>Создать из буфера обмена</translation>
+    </message>
+    <message>
+        <source>ImgPDF</source>
+        <translation>Преобразовать в PDF-файл только с изображениями</translation>
+    </message>
+    <message>
+        <source>BatchPrint</source>
+        <translation>Пакетная печать PDF-файлов</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Website</source>
+        <translation>Официальный веб-сайт WPS PDF</translation>
+    </message>
+    <message>
+        <source>NewHtml2PdfFile</source>
+        <translation>Создать PDF-файл из веб-страницы</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfAnnoToolboxWidget</name>
@@ -7842,6 +8348,14 @@ COM</translation>
         <source>open</source>
         <translation>Открыть</translation>
     </message>
+    <message>
+        <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
+        <translation>Включите &lt;b&gt;расширение [WPS PDF]&lt;/b&gt; в своем браузере, чтобы упростить преобразование веб-страниц в PDF-файлы. Попробовать.</translation>
+    </message>
+    <message>
+        <source>Add the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
+        <translation>Добавьте &lt;b&gt;расширение [WPS PDF]&lt;/b&gt; в свой браузер, чтобы упростить преобразование веб-страниц в PDF-файлы. Попробовать.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCaSetDlg</name>
@@ -7860,6 +8374,18 @@ COM</translation>
     <message>
         <source>insert and delete page</source>
         <translation>вставить и удалить страницу</translation>
+    </message>
+    <message>
+        <source>annot</source>
+        <translation>Комментарий</translation>
+    </message>
+    <message>
+        <source>form and annot</source>
+        <translation>Заполнение формы и комментарии</translation>
+    </message>
+    <message>
+        <source>use this ca encrypt pdf:</source>
+        <translation>Задать шифрование функций для этого сертификата:</translation>
     </message>
 </context>
 <context>
@@ -7899,6 +8425,38 @@ COM</translation>
     <message>
         <source>Version</source>
         <translation>Версия</translation>
+    </message>
+    <message>
+        <source>Lisence</source>
+        <translation>Серийный номер</translation>
+    </message>
+    <message>
+        <source>ca name:</source>
+        <translation>Имя сертификата:</translation>
+    </message>
+    <message>
+        <source>End Time</source>
+        <translation>Время конца</translation>
+    </message>
+    <message>
+        <source>Start Time:</source>
+        <translation>Время начала:</translation>
+    </message>
+    <message>
+        <source>End Time:</source>
+        <translation>Время конца:</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation>Время начала</translation>
+    </message>
+    <message>
+        <source>ENCRYPT</source>
+        <translation>Шифрование на основе ключей</translation>
+    </message>
+    <message>
+        <source>purpose:</source>
+        <translation>Цель:</translation>
     </message>
 </context>
 <context>
@@ -7984,6 +8542,14 @@ COM</translation>
     <message>
         <source>SIGNATURE</source>
         <translation>ПОДПИСЬ</translation>
+    </message>
+    <message>
+        <source>detail</source>
+        <translation>Подробности</translation>
+    </message>
+    <message>
+        <source>ENCRYPT</source>
+        <translation>Шифрование на основе ключей</translation>
     </message>
 </context>
 <context>
@@ -8437,6 +9003,18 @@ COM</translation>
         <source>AddPageNumber</source>
         <translation>Добавить номер страницы</translation>
     </message>
+    <message>
+        <source>PdfElectronicInvoicePrint</source>
+        <translation>Печать счета</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>PdfInvoiceAssist</source>
+        <translation>Помощь со счетом</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfScreenShotNotifyWin</name>
@@ -8451,6 +9029,22 @@ COM</translation>
     <message>
         <source>取消</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>当前比例</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>导出图片</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>具体消息内容</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>提示</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8893,6 +9487,22 @@ COM</translation>
         <source>Select Table with Dashed Borders</source>
         <translation>Выделить таблицу штриховыми границами</translation>
     </message>
+    <message>
+        <source>OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QLineEdit</name>
@@ -8966,6 +9576,14 @@ COM</translation>
     <message>
         <source>PageHeaderFooter</source>
         <translation>Колонтитулы</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the Edit PDF, because...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I like the Edit PDF, because...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9481,6 +10099,10 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
         <source>Clear Invalid File</source>
         <translation>Удалить записи недействительных файлов</translation>
     </message>
+    <message>
+        <source>adfadfadf</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kxpdfcaproperty</name>
@@ -9494,6 +10116,10 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     <message>
         <source>Form</source>
         <translation>Форма</translation>
+    </message>
+    <message>
+        <source>adfadfadf</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9775,6 +10401,22 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
         <source>AddPageNumber</source>
         <translation>Добавить номер страницы</translation>
     </message>
+    <message>
+        <source>TranslateSelectedPane</source>
+        <translation>Закрепить панель задач</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>PdfInvoiceAssist</source>
+        <translation>Помощь со счетом</translation>
+    </message>
+    <message>
+        <source>TranslateSelectedFollow</source>
+        <translation>Панель перевода для выбранных слов</translation>
+    </message>
 </context>
 <context>
     <name>KPdfMessageBox</name>
@@ -9834,6 +10476,10 @@ Enter 5-9 to replace pages sequentially with pages 5 to 9</source>
     <message>
         <source>The document could not be saved. %1</source>
         <translation>Не удалось сохранить документ.</translation>
+    </message>
+    <message>
+        <source>The document could not be saved. The file may be read-only, or opend by another user.</source>
+        <translation>Не удалось сохранить документ. Возможно, этот файл доступен только для чтения или его открыл другой пользователь.</translation>
     </message>
 </context>
 <context>
@@ -10432,6 +11078,10 @@ and then use the page extraction function, there is no need to manually enter th
         <source>Close Annotation Panel</source>
         <translation>Закрыть</translation>
     </message>
+    <message>
+        <source>FileAttachment</source>
+        <translation>Вложение</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfNewPrintProgressDlg</name>
@@ -10517,6 +11167,14 @@ and then use the page extraction function, there is no need to manually enter th
         <source>Text comment</source>
         <translation>Вставить текст</translation>
     </message>
+    <message>
+        <source>Highlight text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Using drawing tool</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfPostPayGuideUpVipDialog</name>
@@ -10539,6 +11197,30 @@ and then use the page extraction function, there is no need to manually enter th
     <message>
         <source>Login now</source>
         <translation>Войти сейчас</translation>
+    </message>
+    <message>
+        <source>Are you sure to save the modification of current document?</source>
+        <translation>Действительно сохранить изменение текущего документа?</translation>
+    </message>
+    <message>
+        <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
+        <translation>Текущий документ использовал функцию редактирования &quot;%1&quot; версии Premium. Повысьте уровень до Premium, чтобы сохранить измененный документ.</translation>
+    </message>
+    <message>
+        <source>VIP rights ineffective?</source>
+        <translation>Не работают права версии Premium?</translation>
+    </message>
+    <message>
+        <source>You are using &quot;%1&quot; member function, please upgrade to member</source>
+        <translation>Вы используете функцию &quot;%1&quot; Premium. Сначала повысьте статус до Premium.</translation>
+    </message>
+    <message>
+        <source>Current document is a scanning document, only able to add text, &quot;Add text&quot; is member function, please upgrade to member</source>
+        <translation>Текущий документ содержит только изображения, а вы можете добавлять только тексты. &quot;Добавление текста&quot; — это платная функция. Повысьте статус до Premium.</translation>
+    </message>
+    <message>
+        <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
+        <translation>Резервная копия текущего документа использовала функцию редактирования PDF-файлов версии Premium. Повысьте уровень до Premium, чтобы сохранить измененный документ.</translation>
     </message>
 </context>
 <context>
@@ -10679,6 +11361,12 @@ Screen</source>
         <source>New
 Window</source>
         <translation>Новое окно</translation>
+    </message>
+    <message>
+        <source>Page
+Navigation</source>
+        <translation>Навигация по
+страницам</translation>
     </message>
 </context>
 <context>
@@ -11228,6 +11916,102 @@ Window</source>
         <source>Browse and select the certificate and enter the certificate password</source>
         <translation>Нажмите кнопку &quot;Обзор&quot; и выберите сертификат, а затем введите пароль сертификата</translation>
     </message>
+    <message>
+        <source>Scan</source>
+        <translation>Обзор</translation>
+    </message>
+    <message>
+        <source>Please reenter passwords</source>
+        <translation>Введите пароль еще раз</translation>
+    </message>
+    <message>
+        <source>Please enter company name</source>
+        <translation>Введите название компании</translation>
+    </message>
+    <message>
+        <source>ca file:</source>
+        <translation>Файл сертификата:</translation>
+    </message>
+    <message>
+        <source>ca name:</source>
+        <translation>Имя сертификата:</translation>
+    </message>
+    <message>
+        <source>ca used:</source>
+        <translation>Использование сертификата:</translation>
+    </message>
+    <message>
+        <source>Please enter more than six passwords</source>
+        <translation>Введите пароль, который содержит не менее 6 цифр.</translation>
+    </message>
+    <message>
+        <source>Encrypt data</source>
+        <translation>Шифрование на основе ключей</translation>
+    </message>
+    <message>
+        <source>encrypt:</source>
+        <translation>Алгоритмы ключей:</translation>
+    </message>
+    <message>
+        <source>please click browse to select ca file</source>
+        <translation>Нажмите кнопку &quot;Обзор&quot;, чтобы добавить файл сертификата</translation>
+    </message>
+    <message>
+        <source>Wrong path, Please re-enter.</source>
+        <translation>Недопустимый путь импорта. Выберите другой путь к файлу.</translation>
+    </message>
+    <message>
+        <source>Please enter email address</source>
+        <translation>Ведите адрес электронной почты</translation>
+    </message>
+    <message>
+        <source>company:</source>
+        <translation>Название компании:</translation>
+    </message>
+    <message>
+        <source>pwd again:</source>
+        <translation>Подтвердить пароль:</translation>
+    </message>
+    <message>
+        <source>Invalid save path, Please adjust it.</source>
+        <translation>Недопустимый путь сохранения. Выберите другой путь к файлу.</translation>
+    </message>
+    <message>
+        <source>country:</source>
+        <translation>Страна/регион:</translation>
+    </message>
+    <message>
+        <source>Please input ca name</source>
+        <translation>Введите имя сертификата</translation>
+    </message>
+    <message>
+        <source>previous</source>
+        <translation>Предыдущий</translation>
+    </message>
+    <message>
+        <source>ca pwd:</source>
+        <translation>Настройки пароля:</translation>
+    </message>
+    <message>
+        <source>Encrypt ca</source>
+        <translation>Цифровая подпись</translation>
+    </message>
+    <message>
+        <source>ca password:</source>
+        <translation>Пароль сертификата:</translation>
+    </message>
+    <message>
+        <source>To create a new certificate,fill the following information</source>
+        <translation>Чтобы создать новый цифровой сертификат, необходимо ввести указанные ниже данные.</translation>
+    </message>
+    <message>
+        <source>please input ca password</source>
+        <translation>Введите пароль сертификата</translation>
+    </message>
+    <message>
+        <source>Two different password entries</source>
+        <translation>Пароли не совпадают.</translation>
+    </message>
 </context>
 <context>
     <name>kxpdfhtml2pdftipwidgetui</name>
@@ -11238,6 +12022,10 @@ Window</source>
     <message>
         <source>TextLabel</source>
         <translation>Текстовая подпись</translation>
+    </message>
+    <message>
+        <source>Enable the [WPS PDF] extension in your browser to make it easier to convert web pages to PDF, Let&apos;s try!</source>
+        <translation>Включите &lt;b&gt;расширение [WPS PDF]&lt;/b&gt; в своем браузере, чтобы упростить преобразование веб-страниц в PDF-файлы. Попробовать.</translation>
     </message>
 </context>
 <context>
@@ -11339,6 +12127,10 @@ Window</source>
     <message>
         <source>Horizontal split</source>
         <translation>Горизонтальное разделение</translation>
+    </message>
+    <message>
+        <source>Auto align center line (hold Alt to unalign)</source>
+        <translation>Автоматическое выравнивание по центральной линии (нажмите и удерживайте клавишу Alt, чтобы отменить выравнивание)</translation>
     </message>
 </context>
 <context>
@@ -11512,6 +12304,22 @@ Window</source>
     <message>
         <source>Upgrade</source>
         <translation>Купить</translation>
+    </message>
+    <message>
+        <source>Unlock 51 premium benefits, including unlimited PDF editing and save without watermark.</source>
+        <translation>Разблокируйте 51 расширенную функцию, в том числе неограниченные возможности редактирования и сохранения файлов PDF без подложки.</translation>
+    </message>
+    <message>
+        <source>Buy now</source>
+        <translation>Купить сейчас</translation>
+    </message>
+    <message>
+        <source>Try WPS Premium to unlock all PDF benefits, including unlimited PDF editing and saving. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Free Trial</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11776,6 +12584,18 @@ Window</source>
         <source>closing Doc,Whether to save the current changes?</source>
         <translation>Сохранить внесенные вами изменения?</translation>
     </message>
+    <message>
+        <source>The current document has used the &quot;%1&quot; member function, you need member rights to save the modification</source>
+        <translation>Текущий документ использовал функцию редактирования &quot;%1&quot; версии Premium. Повысьте уровень до Premium, чтобы сохранить измененный документ.</translation>
+    </message>
+    <message>
+        <source>VIP rights ineffective?</source>
+        <translation>Не работают права версии Premium?</translation>
+    </message>
+    <message>
+        <source>The current backup document has used the PDF edit member function, you need member rights to save the modification</source>
+        <translation>Резервная копия текущего документа использовала функцию редактирования PDF-файлов версии Premium. Повысьте уровень до Premium, чтобы сохранить измененный документ.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfTemplatesPrintDialog</name>
@@ -11984,6 +12804,18 @@ Window</source>
     <message>
         <source>My excerpt</source>
         <translation>Мой фрагмент</translation>
+    </message>
+    <message>
+        <source>During data export:</source>
+        <translation>Экспорт данных:</translation>
+    </message>
+    <message>
+        <source>Excerpt export failed, please try again.</source>
+        <translation>Не удалось экспортировать извлеченные данные. Повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Excerpt data export</source>
+        <translation>Экспортировать извлеченные данные</translation>
     </message>
 </context>
 <context>
@@ -12319,6 +13151,10 @@ Window</source>
         <source>Replace direction</source>
         <translation>Направление замены</translation>
     </message>
+    <message>
+        <source>WPS Office Suite with PDF Editor Free Version - </source>
+        <translation>Стандартная версия набора программ WPS Office: </translation>
+    </message>
 </context>
 <context>
     <name>KxPdfEditLinkDialog</name>
@@ -12523,6 +13359,22 @@ Window</source>
         <source>Catalogue Search</source>
         <translation>Поиск по каталогу</translation>
     </message>
+    <message>
+        <source>Save the current view as a catalog</source>
+        <translation>Сохранить текущее представление как каталог</translation>
+    </message>
+    <message>
+        <source>Delete a catalog</source>
+        <translation>Удалить текущий каталог</translation>
+    </message>
+    <message>
+        <source>Collapse All Catalog</source>
+        <translation>Скрыть все каталоги</translation>
+    </message>
+    <message>
+        <source>Expand All Catalog</source>
+        <translation>Показать все каталоги</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfPlayControlerUI</name>
@@ -12623,6 +13475,14 @@ Window</source>
         <source>Send via Email</source>
         <translation>Отправить по электронной почте</translation>
     </message>
+    <message>
+        <source>I like the FillSign, because...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>I don&apos;t like the FillSign, because...</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfThumbnailNewWidget</name>
@@ -12681,6 +13541,18 @@ Window</source>
         <source>confirm</source>
         <translation>Подтвердить</translation>
     </message>
+    <message>
+        <source>delete ca</source>
+        <translation>Удалить цифровой сертификат</translation>
+    </message>
+    <message>
+        <source>ca name:</source>
+        <translation>Имя сертификата:</translation>
+    </message>
+    <message>
+        <source>ca pwd:</source>
+        <translation>Настройки пароля:</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfReplaceContentWidget</name>
@@ -12720,6 +13592,10 @@ Window</source>
         <source>Replacing...</source>
         <translation>Замена...</translation>
     </message>
+    <message>
+        <source>replace</source>
+        <translation>Заменить</translation>
+    </message>
 </context>
 <context>
     <name>KCreatePdfMainWidget</name>
@@ -12758,6 +13634,14 @@ Window</source>
     <message>
         <source>Convert an Office file (.docx, .xlsx, .ppt, .jpg, etc.) to a PDF.</source>
         <translation>Преобразовать файл Office (.docx, .xlsx, .ppt, .jpg, etc.) в PDF.</translation>
+    </message>
+    <message>
+        <source>Beautiful PDF templates for various industries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>From Templates</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12828,6 +13712,42 @@ Window</source>
         <translation>Отсканировать на
 мобильное устройство</translation>
     </message>
+    <message>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Захват экрана и OCR</translation>
+    </message>
+    <message>
+        <source>PDF2CAD</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Скрывать текущее окно при снимке экрана</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation>Из CAD в PDF</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>BatchPrint</source>
+        <translation>Пакетная печать PDF-файлов</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Переименовать файлы партиями</translation>
+    </message>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>pdf_pdfshell</name>
@@ -12845,6 +13765,10 @@ Window</source>
     <message>
         <source>Kingsoft StandAlone PDF</source>
         <translation>Отдельное приложение WPS PDF</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation>WPS PDF, профессиональная версия</translation>
     </message>
 </context>
 <context>
@@ -12949,6 +13873,22 @@ Window</source>
         <source>Turn on protection</source>
         <translation>Включить защиту</translation>
     </message>
+    <message>
+        <source>Step 2: Check [Enable Association Protection] in &quot;Association Settings&quot;</source>
+        <translation>Шаг 2. Выберите элемент [Включить связанную защиту] в разделе &quot;Настройки связи&quot;.</translation>
+    </message>
+    <message>
+        <source>Protected PDF files are opened with WPS by default.&lt;br/&gt;If you need to change the default software, you can modify it by opening the file properties.</source>
+        <translation>Защищенные PDF-файлы открываются с помощью WPS по умолчанию.&lt;br/&gt;Если необходимо изменить программное обеспечение по умолчанию, можно изменить его с помощью метода открытия в свойствах файла.</translation>
+    </message>
+    <message>
+        <source>Enable WPS PDF association protection</source>
+        <translation>Включить защиту ассоциации файлов PDF в WPS</translation>
+    </message>
+    <message>
+        <source>Step 1: Go to the PDF component and click the [Settings] button in the upper right corner</source>
+        <translation>Шаг 1. Перейдите в компонент PDF и нажмите кнопку [Настройки] в верхнем правом углу.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfThumbnailView</name>
@@ -13034,6 +13974,10 @@ Please batches operations</source>
     <message>
         <source>To Word</source>
         <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Network Error,Load Failed!</source>
+        <translation>Ошибка сети, не удалось загрузить.</translation>
     </message>
 </context>
 <context>
@@ -13193,6 +14137,10 @@ Please batches operations</source>
         <source>Signed time of signature:</source>
         <translation>Подтвержденное время создания подписи:</translation>
     </message>
+    <message>
+        <source>disignautre</source>
+        <translation>Цифровая подпись</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfExcerptExportTipDlg</name>
@@ -13227,6 +14175,14 @@ Please batches operations</source>
     <message>
         <source>取消</source>
         <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Excerpt data export</source>
+        <translation>Экспортировать извлеченные данные</translation>
+    </message>
+    <message>
+        <source>导出</source>
+        <translation>Экспорт</translation>
     </message>
 </context>
 <context>
@@ -13375,6 +14331,10 @@ Please batches operations</source>
         <source>Dialog</source>
         <translation>Диалоговое окно</translation>
     </message>
+    <message>
+        <source>add ca</source>
+        <translation>Добавить цифровой сертификат</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfWaterMarkGalleryModel</name>
@@ -13401,6 +14361,10 @@ Please batches operations</source>
     <message>
         <source>Drag adjustment order</source>
         <translation>Перетащите, чтобы изменить порядок</translation>
+    </message>
+    <message>
+        <source>click is to delete watermark</source>
+        <translation>Нажмите, чтобы удалить подложку</translation>
     </message>
 </context>
 <context>
@@ -13483,6 +14447,10 @@ Please batches operations</source>
     <message>
         <source>Certificate I added</source>
         <translation>Добавленный мной сертификат</translation>
+    </message>
+    <message>
+        <source>ca manager</source>
+        <translation>Управление сертификатами</translation>
     </message>
 </context>
 <context>
@@ -13799,6 +14767,10 @@ Deleted pages can not be recovered</source>
 Если вы войдете с помощью этой же учетной записи на других устройствах,
 вы сможете использовать синхронизированную подпись.</translation>
     </message>
+    <message>
+        <source>Only WPS Premium members can sync signatures to the cloud.Go Premium to enjoy value-added features.</source>
+        <translation>Синхронизация подписей с Cloud возможна только в WPS Premium. Перейдите на уровень Premium, чтобы получить больше преимуществ.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfImageOpacitySelector</name>
@@ -13964,6 +14936,14 @@ Deleted pages can not be recovered</source>
         <source>Synchronize to cloud</source>
         <translation>Синхронизировать с Cloud</translation>
     </message>
+    <message>
+        <source>local signature</source>
+        <translation>Локальная подпись</translation>
+    </message>
+    <message>
+        <source>cloud signature</source>
+        <translation>Подпись Cloud</translation>
+    </message>
 </context>
 <context>
     <name>pdfhomepage</name>
@@ -14014,6 +14994,22 @@ Deleted pages can not be recovered</source>
         <source>MergePDF</source>
         <translation>Объединить PDF</translation>
     </message>
+    <message>
+        <source>PDF2CAD</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ImgPDF</source>
+        <translation>Преобразовать в PDF-файл только с изображениями</translation>
+    </message>
+    <message>
+        <source>CAD2PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PDF to Picture</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPdfCASingleVerifyWidget</name>
@@ -14028,6 +15024,10 @@ Deleted pages can not be recovered</source>
     <message>
         <source>Verify the signature result</source>
         <translation>Результаты проверки подписи</translation>
+    </message>
+    <message>
+        <source>Signature attribute</source>
+        <translation>Атрибут подписи</translation>
     </message>
 </context>
 <context>
@@ -14086,6 +15086,10 @@ Deleted pages can not be recovered</source>
         <source>Clip Page is VIP exclusive privilege</source>
         <translation>Функция &quot;Обрезать страницу&quot; является преимуществом WPS Premium</translation>
     </message>
+    <message>
+        <source>Clip Page is VIP function, please upgrade VIP</source>
+        <translation>Обрезка страницы — это платная функция. Повысьте статус до Premium.</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCaDetailDlgWidget</name>
@@ -14097,6 +15101,14 @@ Deleted pages can not be recovered</source>
         <source>common info</source>
         <translation>общая информация</translation>
     </message>
+    <message>
+        <source>details info</source>
+        <translation>Подробности</translation>
+    </message>
+    <message>
+        <source>ca details</source>
+        <translation>Сведения о цифровом сертификате</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCaEncryptDlgWidget</name>
@@ -14104,12 +15116,20 @@ Deleted pages can not be recovered</source>
         <source>Dialog</source>
         <translation>Диалоговое окно</translation>
     </message>
+    <message>
+        <source>ca encrypt</source>
+        <translation>Шифрование на основе сертификатов</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfCaImportDlgWidget</name>
     <message>
         <source>Dialog</source>
         <translation>Диалоговое окно</translation>
+    </message>
+    <message>
+        <source>ca import</source>
+        <translation>Импортировать цифровой сертификат</translation>
     </message>
 </context>
 <context>
@@ -14369,6 +15389,26 @@ Deleted pages can not be recovered</source>
         <source>no content</source>
         <translation>нет содержимого</translation>
     </message>
+    <message>
+        <source>End Time</source>
+        <translation>Время конца</translation>
+    </message>
+    <message>
+        <source>CA name</source>
+        <translation>Имя сертификата</translation>
+    </message>
+    <message>
+        <source>purpose</source>
+        <translation>Цель</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation>Время начала</translation>
+    </message>
+    <message>
+        <source>Deadline Time</source>
+        <translation>Время окончания срока действия</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfOcrExportFileCommand</name>
@@ -14409,6 +15449,18 @@ Deleted pages can not be recovered</source>
     <message>
         <source>Turn on protection</source>
         <translation>Включить защиту</translation>
+    </message>
+    <message>
+        <source>Enable WPS PDF association protection</source>
+        <translation>Включить защиту ассоциации файлов PDF в WPS</translation>
+    </message>
+    <message>
+        <source>It is recommended to turn on protection. The protected PDF file is opened by WPS by default.</source>
+        <translation>Рекомендуется включить функцию защиты. Защищенные PDF-файлы открываются с помощью WPS по умолчанию.</translation>
+    </message>
+    <message>
+        <source>Why protect?</source>
+        <translation>Для чего необходима защита?</translation>
     </message>
 </context>
 <context>
@@ -14635,6 +15687,10 @@ Deleted pages can not be recovered</source>
         <source>In the synchronous</source>
         <translation>Синхронизация...</translation>
     </message>
+    <message>
+        <source>local signature</source>
+        <translation>Локальная подпись</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfUpdateWaterMarkCommand</name>
@@ -14847,6 +15903,12 @@ Deleted pages can not be recovered</source>
         <source>(BackupFile)</source>
         <translation>(Резервное копирование)</translation>
     </message>
+    <message>
+        <source>Can't Find File.
+For File Lost or Path Changed!</source>
+        <translation>Файл не найден.
+Возможно, файл утерян или путь к файлу изменен.</translation>
+    </message>
 </context>
 <context>
     <name>KSignatureDeleteButton</name>
@@ -14864,6 +15926,10 @@ Deleted pages can not be recovered</source>
     <message>
         <source>Confirm</source>
         <translation>Дополнительно</translation>
+    </message>
+    <message>
+        <source>The comment has been hidden. Click the &quot;Show Comment&quot; function to display the content of the comment hidden in the text.</source>
+        <translation>Комментарий скрыт. Нажмите функцию &quot;Показать комментарий&quot;, чтобы отобразить содержимое комментария, скрытого в тексте.</translation>
     </message>
 </context>
 <context>
@@ -14966,6 +16032,10 @@ Deleted pages can not be recovered</source>
         <source>Is Copying</source>
         <translation>Копируется</translation>
     </message>
+    <message>
+        <source>IsCopying %1%</source>
+        <translation>Копирование %1%</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfPageSelectWidget</name>
@@ -14980,6 +16050,22 @@ Deleted pages can not be recovered</source>
     <message>
         <source>all pages</source>
         <translation>Все страницы</translation>
+    </message>
+    <message>
+        <source>even pages</source>
+        <translation>Четные страницы</translation>
+    </message>
+    <message>
+        <source>portrait pages</source>
+        <translation>Страницы с книжной ориентацией</translation>
+    </message>
+    <message>
+        <source>landscape pages</source>
+        <translation>Страницы с альбомной ориентацией</translation>
+    </message>
+    <message>
+        <source>odd pages</source>
+        <translation>Нечетные страницы</translation>
     </message>
 </context>
 <context>
@@ -15046,6 +16132,10 @@ please sign in to use WPS Office.</source>
         <source>Now is building the Notes preView. Please Wait...</source>
         <translation>Выполняется создание предварительного просмотра заметок. Подождите...</translation>
     </message>
+    <message>
+        <source>Print Notes preView</source>
+        <translation>Предварительный просмотр примечания для печати</translation>
+    </message>
 </context>
 <context>
     <name>KxPdfSaftTipContentWidget</name>
@@ -15069,37 +16159,199 @@ please sign in to use WPS Office.</source>
     </message>
 </context>
 <context>
-    <name/>
+    <name>ongmani.ct_newocr</name>
     <message>
-        <source/>
+        <source>OCR</source>
+        <translation>OCR</translation>
+    </message>
+    <message>
+        <source>I have a suggestion</source>
+        <translation>У меня есть предложение</translation>
+    </message>
+    <message>
+        <source>Screen Grab OCR</source>
+        <translation>Захват экрана и OCR</translation>
+    </message>
+    <message>
+        <source>I like the Ocr, because...</source>
+        <translation>Мне нравятся OCR, потому что...</translation>
+    </message>
+    <message>
+        <source>Recommend to friends</source>
+        <translation>Рекомендовать друзьям</translation>
+    </message>
+    <message>
+        <source>Hide Current Window when Grabbing Screen</source>
+        <translation>Скрывать текущее окно при снимке экрана</translation>
+    </message>
+    <message>
+        <source>I don&apos;t like the Ocr, because...</source>
+        <translation>Мне не нравится OCR, потому что...</translation>
+    </message>
+    <message>
+        <source>OCR Area</source>
+        <translation>OCR Area</translation>
+    </message>
+    <message>
+        <source>FeedBack</source>
+        <translation>Отзывы</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Отзывы</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageOCRCommand</name>
+    <message>
+        <source>pic</source>
+        <translation>Версия только с изображениями</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfPasteInsertPageDialog</name>
+    <message>
+        <source>IsPasting %1%</source>
+        <translation>Вставка %1%</translation>
+    </message>
+    <message>
+        <source>Is Pasting</source>
+        <translation>Вставка</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfBubbleGuideWidget</name>
+    <message>
+        <source>Function move hint</source>
+        <translation>Перемещенные функции</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfBubbleEditGuideDialog</name>
+    <message>
+        <source>7-day free trial of PDF converting,you can easily convert PDF files to word, excels or ppts</source>
+        <translation>Воспользуйтесь нашей 7-дневной бесплатной пробной версией, чтобы легко и просто конвертировать PDF-файлы в форматы Word, Excel и PPT.</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF to Picture,easily convert PDF files to pictures,keep your files safe and eneditable</source>
+        <translation>Воспользуйтесь нашей 7-дневной бесплатной пробной версией, чтобы легко преобразовать PDF-файлы в изображения и сделать файлы нередактируемыми и безопасными.</translation>
+    </message>
+    <message>
+        <source>New Ribbon Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>Editing PDF for Free</source>
+        <translation>Бесплатное редактирование PDF-файлов</translation>
+    </message>
+    <message>
+        <source>7-day free trial of PDF editing. You can freely edit and save texts or images in your PDF file.</source>
+        <translation>7-дневный бесплатный пробный период редактирования PDF-файлов. Можно бесплатно редактировать и сохранять тексты или изображения в PDF-файле.</translation>
+    </message>
+    <message>
+        <source>- Classified by function type.&lt;br /&gt;- The functions in the [Insert] tab have been moved into [Edit] and [Comment] according to type.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>Try Now</source>
+        <translation>Попробовать сейчас</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Picture for free</source>
+        <translation>Бесплатное преобразование PDF-файлов в изображение</translation>
+    </message>
+    <message>
+        <source>Converting PDF to Office for free</source>
+        <translation>Бесплатное преобразование PDF-файлов в другие форматы</translation>
+    </message>
+    <message>
+        <source>Got it</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxPdfAttachmentTreeView</name>
+    <message>
+        <source>The attachment %1 already exists, sure to replace it?</source>
+        <translation>Вложение уже содержит файл с именем %1. &lt;br&gt;Действительно заменить файл?</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfSearchNoResultOCRGuide</name>
+    <message>
+        <source>The scanned text in this document cannot be searched. You can use the OCR feature to make your scanned PDF searchable first.</source>
+        <translation>Поиск отсканированного текста в этом документе невозможен. Можно сначала использовать функцию OCR, чтобы сделать отсканированный PDF-файл доступным для поиска.</translation>
+    </message>
+    <message>
+        <source>OCR PDF</source>
+        <translation>PDF OCR</translation>
+    </message>
+    <message>
+        <source>Couldn&apos;t search</source>
+        <translation>Не удалось выполнить поиск</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCaDeleteDlg</name>
+    <message>
+        <source>Please enter certificate password</source>
+        <translation>Введите пароль сертификата</translation>
+    </message>
+</context>
+<context>
+    <name>Tips</name>
+    <message>
+        <source>Please add pictures below 18M</source>
+        <translation>Недостаточно памяти. Продолжение операции может привести к прекращению работы приложения. Уменьшите размер изображения и повторите попытку.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfSearchTab</name>
+    <message>
+        <source>Close Panel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>Search and repace pane</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxPdfColorCommand</name>
+    <message>
+        <source>Recent Colors</source>
+        <translation>Недавние цвета</translation>
+    </message>
+</context>
+<context>
+    <name>KxEbookFontWidget</name>
+    <message>
+        <source>AutoFont</source>
+        <translation>Авто</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfScanDialog</name>
+    <message>
+        <source>The scanner may be in operation, are you sure to stop scanning and close the dialog?</source>
+        <translation>Возможно, текущий сканер сейчас используется. Действительно завершить работу сканера и закрыть это окно?</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_formfilling</name>
+    <message>
+        <source>Send via Email</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxPdfNewEditToolboxWidget</name>
+    <message>
+        <source>Text Properties</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
+        <source>Image Properties</source>
         <translation type="unfinished"/>
     </message>
 </context>
