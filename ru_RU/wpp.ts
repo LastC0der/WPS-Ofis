@@ -49,6 +49,10 @@
         <source>&amp;Substituted font:</source>
         <translation>Замененный шрифт(&amp;S):</translation>
     </message>
+    <message>
+        <source>more online fonts</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
@@ -1029,6 +1033,38 @@ For example, 1,3,5-9.</source>
         <source>Le&amp;ft of slide</source>
         <translation>С&amp;лева от слайда</translation>
     </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Хранить только самые последние элементы</translation>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation>Период хранения</translation>
+    </message>
+    <message>
+        <source>Fix &amp;interval</source>
+        <translation>Периодичность запланированного резервного копирования (&amp;П)</translation>
+    </message>
+    <message>
+        <source>Default &amp;insert images of original size</source>
+        <translation>По умолчанию вставлять изображения в исходном размере</translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation>&amp;записи</translation>
+    </message>
+    <message>
+        <source>Not Read Compa&amp;tibility Data</source>
+        <translation>Не читать данные о совместимости</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Расположение резервной копии:</translation>
+    </message>
+    <message>
+        <source>Disable &amp;hardware graphics acceleration, effecitve after restart</source>
+        <translation>Отключить &amp;аппаратное графическое ускорение. Изменение вступит в силу после перезапуска</translation>
+    </message>
 </context>
 <context>
     <name>classics.formatting.Num</name>
@@ -1671,6 +1707,10 @@ For example, 1,3,5-9.</source>
     <message>
         <source>Export PDF File</source>
         <translation>Преобразовать в файл PDF</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation>После настройки результатом будет защищенный PDF-документ в Интернете. Откройте его с помощью версии PDF Security.</translation>
     </message>
 </context>
 <context>
@@ -3110,6 +3150,137 @@ Check</source>
         <source>Delete Master</source>
         <translation>Удалить образец</translation>
     </message>
+    <message>
+        <source>Draw outter borders</source>
+        <translation>Нарисовать внешнюю границу</translation>
+    </message>
+    <message>
+        <source>Cannot get outline from this file. There might be error in its data.</source>
+        <translation>Не удалось получить структуру из этого файла, так как файл поврежден или имеет неправильный формат.</translation>
+    </message>
+    <message>
+        <source>Insert Outline</source>
+        <translation>Вставить структуру</translation>
+    </message>
+    <message>
+        <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</source>
+        <translation>Формат Presentation/PowerPoint (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.uop)</translation>
+    </message>
+    <message>
+        <source>Paste Animation</source>
+        <translation>Вставить анимацию</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <translation>/WPS Speech Recording/WPS Speech Recording</translation>
+    </message>
+    <message>
+        <source>Erase Table</source>
+        <translation>Стереть Spreadsheet</translation>
+    </message>
+    <message>
+        <source>When saved as a text file, only the text content in the slide will be retained, and other content will be lost.
+Are you sure you want to save it in this format ?</source>
+        <translation>В случае сохранения как текстового файла будет сохранено только текстовое содержимое слайдов.
+Действительно сохранить в этом формате?</translation>
+    </message>
+    <message>
+        <source>All Outline(*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</source>
+        <translation>Все структуры (*.txt;*.rtf;*.docx;*.docm;*.doc;*.wps)</translation>
+    </message>
+    <message>
+        <source>Text content(*.txt)|*.txt</source>
+        <translation>Текстовый файл (*.txt)|*.txt</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Presentation Files(*.hppt)|*.hppt</source>
+        <translation>Основной формат файла с шифрованием (*.hppt)|*.hppt</translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Presentation Files(*.pppt)|*.pppt</source>
+        <translation>Обычный формат файла с шифрованием (*.pppt)|*.pppt</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint XML Presentation(*.xml)</source>
+        <translation>Microsoft PowerPoint XML Presentation (*.xml)</translation>
+    </message>
+    <message>
+        <source>4 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>1 Slide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2 Slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>3 Slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>9 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MPEG-4 Video(*.mp4)|*.mp4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>6 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Smartart Graphic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>9 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>4 vertical slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Full Slide</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>6 horizontal slides</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Beautify Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Drag-and-Drop</source>
+        <comment>WpDRAGDESIGN</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notes Master Layout</source>
+        <comment>WpNOTESMASTERLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>DgDesc_ClearTextBox</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Handout Master Layout</source>
+        <comment>WpHANDOUTMASTERLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notes Layout</source>
+        <comment>WpNOTESLAYOUT</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgEquationOptions</name>
@@ -3156,6 +3327,26 @@ Check</source>
     <message>
         <source>Equation Options</source>
         <translation>Параметры формул</translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation>Копировать MathML в буфер обмена как обычный текст (&amp;П)</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>Шрифт по у&amp;молчанию для областей формул:</translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>Р&amp;азрывать строки бинарными операторами и операторами отношений:</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation>Копировать линейный формат в буфер обмена как обычный текст (&amp;Н)</translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation>Уменьшить разм&amp;ер вложенных простых дробей в отображаемых формулах</translation>
     </message>
 </context>
 <context>
@@ -3239,706 +3430,6 @@ Check</source>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation>Темный стиль 2-Выделить 3/Выделить 4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextZip</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextZip</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>shortHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextSpinner</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextSpinner</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_TEXT_OF_CENTERTITLE_IN_MASTER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_TEXT_OF_TITLE_IN_MASTER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_TP_ANIMATIONSCHEMECATEGORY1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_TP_DESIGNCATEGORY2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>OMath</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_SB_VIEW_SLIDELAYOUT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_SETLAYOUT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextFadedSwivel</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextFadedSwivel</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextDescend</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextAscend</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEffectPathDiamond</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextDiamond</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextDiamond</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_LAYOUT_TITLE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_TITLE_SLIDE_LAYOUT_NAME</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextCredits</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextCredits</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextCustom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextShimmer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextCustom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextShimmer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sSlideSizeCustom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sActionVerbPlayText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEffectMediaPlay</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sCaptionPlay</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_CustomAnimation_Caption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_CustomAnimation_DisplayName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextAscend</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextDescend</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextRandomBars</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextRandomBars</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextStrips</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextStrips</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextGrowAndTurn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextGrowAndTurn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_NewBlankFileCaption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_NewBlankFileHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextBox</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextBox</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextSwish</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextSwish</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextFadedZoom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextFadedZoom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextBlinds</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextBlinds</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextThinLine</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextThinLine</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpNOTESMASTERLAYOUT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpNOTESMASTERLAYOUT_CAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextUnfold</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextUnfold</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextSling</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextSling</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sNotMatchPassword</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sNotMatchPermissionPassword</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sChinese</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sCountryLanguage</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextLightSpeed</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextLightSpeed</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpDRAGDESIGN</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpDRAGSLIDE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_ANIMATIONTYPE_APPEARANDDIM_TIP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_ANIMATIONTYPE_APPEAR_TIP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_TBLSTYLE_TT17</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextFade</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextFade</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextWipe</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextWipe</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEffectPathWave</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEffectWave</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Linux Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Windows Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextWedge</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextWedge</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_NewFileFromForbiddenCityTemplatesCaption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_NewFileFromForbiddenCityTemplatesHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextGlide</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextGlide</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sClose</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sCloseDialog</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>AEO_MEDIA_PLAYMODE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>AEO_MEDIA_VOL</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>AEO_VIDEO_FULLSCREEN</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>AEO_VIDEO_LOOP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>AEO_VIDEO_REWIND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_FIND_NOTFOUND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_REPLACEALL_NOTFOUND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_REPLACE_NOTFOUND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpNOTESLAYOUT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpNOTESLAYOUT_CAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextFold</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextFold</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_TableStyleCaption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_TableStyleDisplayName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_ANIMATIONTYPE_NONE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_ANIMATIONTYPE_NONE_TIP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_TP_ANIMATIONSCHEMECATEGORY2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextSplit</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextSplit</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextFloat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextFloat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_DEFAULT_DESIGN</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpDefaultDesign</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_SlideTransition_Caption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_SlideTransition_DisplayName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>DgDesc_ClearTextBox</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpCLEAR</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_FIND_FINISH</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WP_REPLACE_FINISH</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEffectPathPlus</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextPlus</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextPlus</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpPrintWays_SpeakerNotes</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>WpSPEAKERNOTES</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sBasicEffect</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sPathBasicEffect</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_SlideLayout_Caption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_SlideLayout_DisplayName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextRandomEffects</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextRandomEffects</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sChangeEffect</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sModifyOperation</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextBounce</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextBounce</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextCenterRevolve</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextCEnterRevolve</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEffectPathCircle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextCircle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextCircle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimEnterEffectTextBoomerang</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wpp_sAnimExitEffectTextBoomerang</comment>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6507,6 +5998,14 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <source>From Bottom-R&amp;ight</source>
         <translation>Снизу-с&amp;права</translation>
     </message>
+    <message>
+        <source>%d seconds(Extremely Slow)</source>
+        <translation>%d секунд (чрезвычайно медленно)</translation>
+    </message>
+    <message>
+        <source>Extremely Slow</source>
+        <translation>чрезвычайно медленн</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSlideShowHelp</name>
@@ -8804,6 +8303,151 @@ Body: Fade</source>
         <source> The Slide Master: </source>
         <translation> Образец слайда: </translation>
     </message>
+    <message>
+        <source>Frame From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+ · JS project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <translation>Следующие файлы нельзя сохранить в документе без макросов:
+ · проект VB;
+ · проект JS.
+Для сохранения файла с такими особенностями нажмите &quot;Нет&quot;, чтобы вернуться в диалоговое окно &quot;Сохранить как&quot;, затем выберите файл с поддержкой макросов в раскрывающемся списке &quot;Тип файла&quot;.
+Сохранить как документ без макросов?
+</translation>
+    </message>
+    <message>
+        <source>
+ Do you continue to save it as HTML format?</source>
+        <translation>
+Сохранить файл в формате HTML?</translation>
+    </message>
+    <message>
+        <source>Plane Left</source>
+        <translation>Вылет слева</translation>
+    </message>
+    <message>
+        <source>Formulas will become uneditable pictures in this version of WPS Presentation (slide %1)</source>
+        <translation>Формулы будут преобразованы в нередактируемые изображения в этой версии WPS Presentation. (Слайд %1)</translation>
+    </message>
+    <message>
+        <source>Plane Right</source>
+        <translation>Вылет справа</translation>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>The following features of your presentation are not going to be saved in HTML format:
+
+</source>
+        <translation>Следующие особенности презентации нельзя сохранить в формате HTML:
+
+</translation>
+    </message>
+    <message>
+        <source>Frame From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot open this file, because the password is not correct.
+</source>
+        <translation>Неправильный пароль. WPS Presentation не удалось открыть этот файл.
+</translation>
+    </message>
+    <message>
+        <source>Frame From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation>Ввод слева</translation>
+    </message>
+    <message>
+        <source>Modify Theme</source>
+        <translation>Изменить тему</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation>Ввод слева</translation>
+    </message>
+    <message>
+        <source>Video Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio Plugin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move objects and individual words.
+
+For this to work, keep the capitalization the same.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Downloading required %1 . You can close this dialog box without affecting the download.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move objects and individual letters.
+
+For this work, keep the capitalization the same.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some transitions in this version of WPS Presentation will be lost (slide %1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Move entire objects(like pictures and shape).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No Animation</source>
+        <comment>WP_ANIMATIONTYPE_NONE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Title: Fade
+Body: Fade</source>
+        <comment>WP_ANIMATIONTYPE_FADEDWIPE_TIP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Body: Appear</source>
+        <comment>WP_ANIMATIONTYPE_APPEARANDDIM_TIP</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to edit Master title style</source>
+        <comment>WP_TEXT_OF_CENTERTITLE_IN_MASTER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cut</source>
+        <comment>WP_CUTSLIDE</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <comment>WP_TP_ANIMATIONSCHEMECATEGORY1</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>classics.drawing</name>
@@ -9910,6 +9554,10 @@ Body: Fade</source>
     <message>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
+    </message>
+    <message>
+        <source>docer vip area</source>
+        <translation>область docer vip</translation>
     </message>
 </context>
 <context>
@@ -11492,6 +11140,14 @@ Effects</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Вертикальная</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_texttool</name>
@@ -11885,6 +11541,14 @@ Effects</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Вертикальный</translation>
+    </message>
 </context>
 <context>
     <name>classics.formatting</name>
@@ -12044,6 +11708,10 @@ Effects</source>
     <message>
         <source>Rotate all text 270°</source>
         <translation>Повернуть на 270°</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>По вертикали</translation>
     </message>
 </context>
 <context>
@@ -14474,6 +14142,90 @@ Master</source>
         <source>Delete Master</source>
         <translation>Удалить образец</translation>
     </message>
+    <message>
+        <source>Picture background and mask</source>
+        <translation>Шаблон фонового изображения</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation>Извлечь текст из изображения</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation>Увеличить размер аргумента</translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation>Уменьшить размер аргумента</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>По центру как группу</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>LaserPen and SpotLight</source>
+        <translation>Прожектор Presentation</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation>Растяжение N-арного знака</translation>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation>Постоянное форматирование по образцу</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation>Удалить надстрочный знак</translation>
+    </message>
+    <message>
+        <source>Save as Video</source>
+        <translation>Сохранить как видео</translation>
+    </message>
+    <message>
+        <source>Webshape Flush</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation>Фоновое изображение</translation>
+    </message>
+    <message>
+        <source>Keep Picture Only</source>
+        <translation>Вставить как рисунок</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation>Параметры</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Webshape Del</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Webshape Min</source>
+        <translation>Восстановить</translation>
+    </message>
+    <message>
+        <source>Webshape Max</source>
+        <translation>Развернуть</translation>
+    </message>
+    <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation>Удалить подстрочный знак</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -14896,6 +14648,46 @@ Master</source>
     <message>
         <source>Bookend Fills</source>
         <translation>Корешки книг</translation>
+    </message>
+    <message>
+        <source>Frame From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>Plane Left</source>
+        <translation>Вылет слева</translation>
+    </message>
+    <message>
+        <source>Plane Right</source>
+        <translation>Вылет справа</translation>
+    </message>
+    <message>
+        <source>Cube From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>Cube From Up</source>
+        <translation>Ввод сверху</translation>
+    </message>
+    <message>
+        <source>Frame From Right</source>
+        <translation>Ввод справа</translation>
+    </message>
+    <message>
+        <source>Frame From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Frame From Left</source>
+        <translation>Ввод слева</translation>
+    </message>
+    <message>
+        <source>Cube From Down</source>
+        <translation>Ввод снизу</translation>
+    </message>
+    <message>
+        <source>Cube From Left</source>
+        <translation>Ввод слева</translation>
     </message>
 </context>
 <context>
@@ -16295,6 +16087,111 @@ Comment</source>
     <message>
         <source>Online Textbox</source>
         <translation>Текстовое поле шаблона</translation>
+    </message>
+    <message>
+        <source>Opening animation video</source>
+        <translation>Открытие видео с анимацией</translation>
+    </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation>Меню управление Jde</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Разделение/объединение документов</translation>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Функция выделения</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Функция круглых скобок</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Математическое уравнение</translation>
+    </message>
+    <message>
+        <source>Phonetic OneKey</source>
+        <translation>Быстрое извлечение фонетической транскрипции</translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Функция сценария</translation>
+    </message>
+    <message>
+        <source>Phonetic Symbol</source>
+        <translation>Фонетический справочник</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>Функция оператора</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Функция матрицы</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Функция корня</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Функция крупного оператора</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Поиск</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Функция границы</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Функция ограничения</translation>
+    </message>
+    <message>
+        <source>Audio library</source>
+        <translation>Шаблон аудио</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Функция группирования</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation>LaTeX</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Отметить как конфиденциальный</translation>
+    </message>
+    <message>
+        <source>EduTools</source>
+        <translation>Средства для инструкций</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>Функции</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Функция дробей</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Функция массива</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Функция строки</translation>
+    </message>
+    <message>
+        <source>Export graph ppt</source>
+        <translation>Преобразование в PPT-файл 
+в виде слайдов-изображений</translation>
     </message>
 </context>
 <context>
@@ -17721,6 +17618,42 @@ On/Off</source>
     <message>
         <source>Online Textbox</source>
         <translation>Текстовое поле шаблона</translation>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation>Используйте LaTeX для быстрого редактирования и вставки формул.</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
+        <translation>Изменить</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation>Параметры</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>One-click combing of content to make writing more organized</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19467,6 +19400,14 @@ Shape</source>
         <source>Sign Out</source>
         <translation>Выйти</translation>
     </message>
+    <message>
+        <source>Special Feature</source>
+        <translation>Дополнительная возможность</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>Из PDF в CAD</translation>
+    </message>
 </context>
 <context>
     <name>KxCustomShowsDlg</name>
@@ -19753,6 +19694,10 @@ Shape</source>
     <message>
         <source>Hori&amp;zontal</source>
         <translation>Гори&amp;зонтальная</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation>Задать сведения об источнике</translation>
     </message>
 </context>
 <context>
@@ -20528,6 +20473,18 @@ Size</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Преобразовывайте тексты в изображении в текстовый формат</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Переводите тексты в изображении с английского/китайского языков и обратно</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Пакетное преобразование изображения в PDF</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_smartartformattool</name>
@@ -20795,6 +20752,27 @@ Slide Shows</source>
         <translation>Смена 
 слайдов</translation>
     </message>
+    <message>
+        <source>Use Presenter View</source>
+        <translation>Использовать режим докладчика</translation>
+    </message>
+    <message>
+        <source>Slide Show Location</source>
+        <translation>Показать Presentation на</translation>
+    </message>
+    <message>
+        <source>Multi Monitor</source>
+        <translation>Несколько дисплеев</translation>
+    </message>
+    <message>
+        <source>Show On:</source>
+        <translation>Выводить на:</translation>
+    </message>
+    <message>
+        <source>Slide
+Transition</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -20885,6 +20863,14 @@ Slide Shows</source>
     <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Расписание резервного копирования</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation>Период хранения резервных копий файлов должен быть в диапазоне от %1 до %2.</translation>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation>Действительно удалить все локальные резервные копии файлов?</translation>
     </message>
 </context>
 <context>
@@ -21063,6 +21049,10 @@ Master View</source>
     <message>
         <source>Delete Master</source>
         <translation>Удалить образец</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Шаблон маркированных списков</translation>
     </message>
 </context>
 <context>
@@ -21369,6 +21359,10 @@ Cells</source>
     <message>
         <source>Alignment</source>
         <translation>Выровнять</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Вертикальная</translation>
     </message>
 </context>
 <context>
@@ -22565,6 +22559,27 @@ Cloud Docs</translation>
         <source>Document security</source>
         <translation>Безопасность документа</translation>
     </message>
+    <message>
+        <source>Export to graph ppt</source>
+        <translation>Преобразование в презентацию в виде слайдов-изображений</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Переименовать файлы партиями</translation>
+    </message>
+    <message>
+        <source>After conversion, you will get an image-like presentation file, each slide of which will be a non-searchable and non-editable image. And all formatting and contents, such as texts and graphs in the original file, will be retained.</source>
+        <translation>После преобразования будет получен файл презентации, состоящей из слайдов-изображений, где каждый слайд является недоступным для поиска и редактирования изображением. При этом все форматирование и содержимое исходного файла, например тексты и графики, будут сохранены.</translation>
+    </message>
+    <message>
+        <source>Export graph ppt</source>
+        <translation>Преобразование в PPT-файл 
+в виде слайдов-изображений</translation>
+    </message>
+    <message>
+        <source>Picture to PDF</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.helpmenu</name>
@@ -23056,6 +23071,10 @@ Comment</source>
         <source>Slide Show Settings</source>
         <translation>Параметры слайд-шоу</translation>
     </message>
+    <message>
+        <source>Slide Show from Current(Shift+F5)</source>
+        <translation>Показ от текущего слайда(Shift+F5)</translation>
+    </message>
 </context>
 <context>
     <name>KxWppMoreDesignItem</name>
@@ -23156,6 +23175,14 @@ Comment</source>
     <message>
         <source>End of Slide Show</source>
         <translation>Конец презентации</translation>
+    </message>
+    <message>
+        <source>Resume timer</source>
+        <translation>Возобновить таймер</translation>
+    </message>
+    <message>
+        <source>Screen camera</source>
+        <translation>Запись экрана</translation>
     </message>
 </context>
 <context>
@@ -23364,6 +23391,10 @@ Comment</source>
     <message>
         <source>All Files</source>
         <translation>Все файлы</translation>
+    </message>
+    <message>
+        <source>Run %1 &amp;macro</source>
+        <translation>Выполнить макрос %1 (&amp;М)</translation>
     </message>
 </context>
 <context>
@@ -23610,6 +23641,10 @@ Page</source>
     <message>
         <source>Print Copies:</source>
         <translation>Печатать копии:</translation>
+    </message>
+    <message>
+        <source>Print Ways</source>
+        <translation>Распечатал:</translation>
     </message>
 </context>
 <context>
@@ -24795,6 +24830,10 @@ Footer</source>
         <source>Align Top</source>
         <translation>Выровнять по верхнему краю</translation>
     </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>По вертикали</translation>
+    </message>
 </context>
 <context>
     <name>wpp_objtable</name>
@@ -25456,6 +25495,22 @@ Animation</source>
         <source>Animation Painter</source>
         <translation>Анимация по образцу</translation>
     </message>
+    <message>
+        <source>Delete All Animations from Selected Object</source>
+        <translation>Удалить все анимации из выбранных объектов</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Selected Slide</source>
+        <translation>Удалить все анимации из выбранных слайдов</translation>
+    </message>
+    <message>
+        <source>AnimationPainter</source>
+        <translation>Художник анимации</translation>
+    </message>
+    <message>
+        <source>Delete All Animations from Presentation</source>
+        <translation>Удалить все анимации из Presentation</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgHeaderFooter</name>
@@ -25726,6 +25781,14 @@ Slide Master</source>
     <message>
         <source>Stand Screen(4:3)</source>
         <translation>Стандартный экран (4:3)</translation>
+    </message>
+    <message>
+        <source>Picture background and mask</source>
+        <translation>Шаблон фонового изображения</translation>
+    </message>
+    <message>
+        <source>Picture Mask</source>
+        <translation>Фоновое изображение</translation>
     </message>
 </context>
 <context>
@@ -26443,6 +26506,14 @@ Slide Master</source>
     <message>
         <source>User canceled operation.</source>
         <translation>Пользователь отменил операцию.</translation>
+    </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation>К текущему подключению к серверу применяется исключение, поэтому выведение интернет-файлов безопасности PDF невозможно. Повторите попытку позже.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation>В настоящее время отсутствует сеть, поэтому выведение интернет-файлов безопасности PDF невозможно. Обеспечьте нормальные условия сети.</translation>
     </message>
 </context>
 <context>
@@ -27331,6 +27402,14 @@ Add-Ins</source>
         <source>The slide you selected to export does not exist. Please select another one.</source>
         <translation>Выбранный для экспорта слайд не существует. Выберите другой.</translation>
     </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation>Пароль для открытия файла не соответствует ранее введенному паролю.</translation>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation>Пароль для установки разрешений не соответствует ранее введенному паролю.</translation>
+    </message>
 </context>
 <context>
     <name>KxExportPDFDlg</name>
@@ -28164,6 +28243,10 @@ Esc					Завершение показа слайдов</translation>
         <source>Normal Encryption</source>
         <translation>Нормальное шифрование</translation>
     </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Отметить как конфиденциальный</translation>
+    </message>
 </context>
 <context>
     <name>KxLoadFlashPluginWidget</name>
@@ -28854,6 +28937,10 @@ Esc					Завершение показа слайдов</translation>
         <source>Professional</source>
         <translation>Профессиональная</translation>
     </message>
+    <message>
+        <source>Accent</source>
+        <translation>Акцент</translation>
+    </message>
 </context>
 <context>
     <name>classics.slide_master_view</name>
@@ -29254,6 +29341,18 @@ Master</source>
     <message>
         <source>What is Auto Roaming</source>
         <translation>Что такое автоматический роуминг</translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>Включите &quot;Роуминг документов&quot;, чтобы открытые локальные файлы автоматически сохранялись в Cloud.</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>Система автоматически синхронизирует изменения, внесенные в локальные файлы, с файлами в Cloud.</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>Также возможен просмотр и редактирование этого документа при выполнении входа на другом устройстве.</translation>
     </message>
 </context>
 <context>
@@ -30234,38 +30333,48 @@ Sure to close?</source>
     </message>
 </context>
 <context>
-    <name/>
+    <name>KxWppBulletScreenCtrl</name>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Preparing for BulletScreen</source>
+        <translation>Загрузка экрана с маркированным списком</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BulletScreen Load Failed</source>
+        <translation>Не удалось загрузить экран с маркированным списком.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppReuseSlidesListView</name>
+    <message>
+        <source>Apply theme to selected slides</source>
+        <translation>Применить тему к выделенным слайдам</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Insert slide</source>
+        <translation>Вставить слайд</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Apply theme to all slides</source>
+        <translation>Применить тему ко всем слайдам</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Insert all slides</source>
+        <translation>Вставить все слайды</translation>
     </message>
+</context>
+<context>
+    <name>ReuseSlidesTitle</name>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>In this pane, you can select one or more slides of other presentations and import them into the current presentation without opening other documents directly</source>
+        <translation>На этой панели можно выбрать один или несколько слайдов из других презентаций и вставить их непосредственно в текущую презентацию.</translation>
     </message>
+</context>
+<context>
+    <name>rainbow.ct_file</name>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Export graph ppt</source>
+        <translation>Преобразование в PPT-файл 
+в виде слайдов-изображений</translation>
     </message>
 </context>
 </TS>
