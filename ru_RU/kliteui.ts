@@ -1451,7 +1451,7 @@ please wait</source>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>Перезагрузить</translation>
     </message>
 </context>
 <context>
@@ -1486,14 +1486,14 @@ please wait</source>
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Больше не показывать</translation>
     </message>
 </context>
 </TS>
