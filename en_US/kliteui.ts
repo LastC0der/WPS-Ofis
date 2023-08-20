@@ -50,11 +50,11 @@
     </message>
     <message>
         <source>success</source>
-        <translation type="unfinished"/>
+        <translation>Converted successfully.</translation>
     </message>
     <message>
         <source>waiting</source>
-        <translation type="unfinished"/>
+        <translation>Please wait.</translation>
     </message>
 </context>
 <context>
@@ -217,7 +217,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
-        <translation type="unfinished"/>
+        <translation>The enterprise&apos;s files can only be saved to that enterprise.</translation>
     </message>
 </context>
 <context>
@@ -444,15 +444,15 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Shares received of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Received Sharing</translation>
     </message>
     <message>
         <source>ShareFolder</source>
-        <translation type="unfinished"/>
+        <translation>Shared Folder</translation>
     </message>
     <message>
         <source>Group Space of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>My Teams</translation>
     </message>
 </context>
 <context>
@@ -563,7 +563,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Sorry, a fatal error has occurred. Try reloading the page. If this page still fails to load, please &lt;a href=&quot;%1&quot;&gt;download&lt;/a&gt; the latest version to help you quickly go back to work. We&apos;re working hard to fix WPS Office for you as soon as possible.</translation>
     </message>
 </context>
 <context>
@@ -684,7 +684,7 @@ Save the data and restart the WPS software to enable this feature.</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Open</translation>
     </message>
 </context>
 <context>
@@ -907,7 +907,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <name>KSevenDaysFreeWidgetV3</name>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -939,7 +939,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Try again</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -947,11 +947,11 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Leave us a message，We will contact you as soon as possible.</translation>
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Resume Now</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
@@ -974,7 +974,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <name>KVipOpeningWidget</name>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</translation>
     </message>
     <message>
         <source>Transactions</source>
@@ -1018,58 +1018,58 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
+        <translation>Common Payment Issues</translation>
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Leave us a message，We will contact you as soon as possible.</translation>
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Resume Now</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</translation>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Payment failed</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Customer Service</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"/>
+        <translation>Resume</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
     <name>KVipUpgradeDialog</name>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page.</translation>
     </message>
     <message>
         <source>Continue to Buy</source>
@@ -1097,7 +1097,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
+        <translation>Common Payment Issues</translation>
     </message>
     <message>
         <source>Buy Coupons</source>
@@ -1109,11 +1109,11 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Leave us a message，We will contact you as soon as possible.</source>
-        <translation type="unfinished"/>
+        <translation>Leave us a message，We will contact you as soon as possible.</translation>
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Resume Now</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
@@ -1121,7 +1121,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
-        <translation type="unfinished"/>
+        <translation>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</translation>
     </message>
     <message>
         <source>No network connection, please check whether the network connection is normal first.</source>
@@ -1133,7 +1133,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Payment failed</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -1141,31 +1141,31 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Retry</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Customer Service</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Network Error</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirm</translation>
     </message>
 </context>
 <context>
@@ -1212,11 +1212,11 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Free</translation>
     </message>
 </context>
 <context>
@@ -1239,15 +1239,15 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Customer Service</translation>
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Terms of service</translation>
     </message>
 </context>
 <context>
@@ -1269,11 +1269,11 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
-        <translation type="unfinished"/>
+        <translation>After you authorize WPS Office, you can access and manage your files saved in the third-party cloud.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Authorize</translation>
     </message>
 </context>
 <context>
@@ -1292,7 +1292,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>File exceeds %1 upload limit</source>
-        <translation type="unfinished"/>
+        <translation>File not synchronized. The file size exceeds the %1 upload limit.</translation>
     </message>
     <message>
         <source>Please clean up files in time</source>
@@ -1300,11 +1300,11 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Got it</source>
-        <translation type="unfinished"/>
+        <translation>Got it.</translation>
     </message>
     <message>
         <source>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</source>
-        <translation type="unfinished"/>
+        <translation>Upgrade VIP to enjoy %1 cloud space and upload file to %2 at most</translation>
     </message>
 </context>
 <context>
@@ -1315,7 +1315,7 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     </message>
     <message>
         <source>Common Payment Issues</source>
-        <translation type="unfinished"/>
+        <translation>Common Payment Issues</translation>
     </message>
     <message>
         <source>Give up the free trial</source>
@@ -1326,14 +1326,14 @@ This file is not on the Cloud. Please upload it to the Cloud from your phone.</t
     <name>KLiteQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>If you have any questions, please call WPS Customer Service %1, or scan the Customer Service QR code on the left side.</translation>
     </message>
 </context>
 <context>
     <name>KAppLoadFailedWindow</name>
     <message>
         <source>Network exception, %1 failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Network error. Failed to load %1.</translation>
     </message>
 </context>
 <context>
@@ -1357,7 +1357,7 @@ please wait</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -1368,7 +1368,7 @@ please wait</source>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Start</translation>
     </message>
 </context>
 <context>
@@ -1379,7 +1379,7 @@ please wait</source>
     </message>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Close</translation>
     </message>
 </context>
 <context>
@@ -1393,19 +1393,19 @@ please wait</source>
     <name>KAppLoadWindow</name>
     <message>
         <source>Load failed</source>
-        <translation type="unfinished"/>
+        <translation>Read failed</translation>
     </message>
     <message>
         <source>Loading %1, please wait</source>
-        <translation type="unfinished"/>
+        <translation>Loading %1. Please wait.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Background</translation>
     </message>
 </context>
 <context>
@@ -1420,7 +1420,7 @@ please wait</source>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
@@ -1438,61 +1438,61 @@ please wait</source>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Ignore</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>Restart</translation>
     </message>
 </context>
 <context>
     <name>KLiteWaitingWidget</name>
     <message>
         <source>resource loading...</source>
-        <translation type="unfinished"/>
+        <translation>Loading resource...</translation>
     </message>
 </context>
 <context>
     <name>KSevenDaysFreeWidget</name>
     <message>
         <source>Free trial for 7 days</source>
-        <translation type="unfinished"/>
+        <translation>7 gün boyunca ücretsiz deneme</translation>
     </message>
 </context>
 <context>
     <name>KVipUpgradeLeftWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>More</translation>
     </message>
 </context>
 <context>
     <name>K7DFreeVipPrivilegeTableWidget</name>
     <message>
         <source>Privilege</source>
-        <translation type="unfinished"/>
+        <translation>Privilege</translation>
     </message>
 </context>
 <context>
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Download</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Don&apos;t show again</translation>
     </message>
 </context>
 </TS>
