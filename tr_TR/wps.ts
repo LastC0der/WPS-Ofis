@@ -65,6 +65,10 @@
         <source>Encl&amp;osure:</source>
         <translation>&amp;Çerçeve:</translation>
     </message>
+    <message>
+        <source>印</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
@@ -262,6 +266,10 @@
     <message>
         <source>&amp;Substituted font:</source>
         <translation>Yerine &amp;konan yazı tipi:</translation>
+    </message>
+    <message>
+        <source>more online fonts</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2253,6 +2261,72 @@ Do you want to replace it?</source>
         <source>No line between</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Need Help?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+· Delete all %s</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reached the beginning of the text box.</source>
+        <comment>_TxFind_ReachBeginningOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>_TxNothing</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>TxRevision_Pap_Top</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Pap_Bottom</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxRevision_Pap_Auto</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_Left</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>TxRevision_Pap_Center</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reached the end of the text box.</source>
+        <comment>_TxFind_ReachEndOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_Right</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgOptions</name>
@@ -3632,6 +3706,74 @@ Do you want to replace it?</source>
         <source>WhenSelected</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Spell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Spelling and Grammar</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Önbelleği</translation>
+    </message>
+    <message>
+        <source>Check forms:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>English modes:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>Çevrimdışı</translation>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation>Dosyaları önbelleğe al</translation>
+    </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>P&amp;rinting permission</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Permit to add co&amp;mments</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Yedekleme Konumu:</translation>
+    </message>
+    <message>
+        <source>Formatted text</source>
+        <translation>Biçimlendirilmiş metin</translation>
+    </message>
+    <message>
+        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Balance &amp;SBCS characters and DBCS characters</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgZoom</name>
@@ -3859,6 +4001,106 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Document &amp;Id:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Secret &amp;Level:</source>
+        <translation>Gizlilik Seviyesi (&amp;P):</translation>
+    </message>
+    <message>
+        <source>Post &amp;Unit:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Public Release</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Publication &amp;levels:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>UrgencyPlus</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Inform</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TopSecret</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom &amp;Fields:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Request Instruction</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Urgency2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Barcode &amp;Version:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Minutes Of Meeting</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Document:</source>
+        <translation>Resmi Belge (&amp;F):</translation>
+    </message>
+    <message>
+        <source>Offical Reply</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Written &amp;Date:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SubmitTo &amp;Unit:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Urgency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Journals:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Barcode Information</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MostUrgency</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Express</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;SecrecyPeriod:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Urgency Level:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Barcode &amp;Id:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5956,6 +6198,21 @@ Hayır:	Şablona kaydetme;
         <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Selected text</source>
+        <comment>wps_sSelectedText</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected sections</source>
+        <comment>wps_sSelectedSections</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>wps_sTable</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgCombineCharacters</name>
@@ -6736,6 +6993,74 @@ Hayır:	Şablona kaydetme;
         <source>When building up other n-ary operators,</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display Math</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>CWpsTableStyle</name>
@@ -6814,96 +7139,6 @@ Hayır:	Şablona kaydetme;
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation>Koyu Stil 2-Vurgu 3/Vurgu 4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteMatchingFormat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteMatchingFormat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_InsPageNumber</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_InsertPageNumber</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxMailMerge_NoRecordExecute</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNotNumberRange</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNumberOutofRange1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sValidValue</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sAdvancedMode</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sLess</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7011,431 +7246,6 @@ Hayır:	Şablona kaydetme;
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation>Koyu Stil 2-Vurgu 3/Vurgu 4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>shortHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Cell</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Color_Auto</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Auto</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_SpaceAuto</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>border</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>shading</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_FinishSearchingDoc</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_FinishSearchingDoc2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteFormatedText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteFormatedText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>OMathMat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_ShadingColor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_TableShadingColor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sBracketNone</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sUnderlineNone</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sThisPointFor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sThisPointForward</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sApplyWholeDocument</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sWhileDocument</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Key_Overtype</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Key_Type</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Typing</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_ReachEndOfHeaderFooterTextFrames</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_ReachEndOfTextFrames</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateMsgBox_BeforeSaveOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateMsgBox_UnsavedOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Chp_Not</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Sep_Not</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Bop_Top</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Top</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Sep_Top</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteOriginFormattedPopupMenu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteOriginFormattedPopupMenu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxDesc_DataSource_AllDataSourceEx</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Bop_Bottom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Bottom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Sep_Bottom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateBkContent_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateWidgetText_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateMsgBox_BeforeSaveOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateMsgBox_UnsavedOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Chp_SnapToGrid</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_SnapToGrid</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sMarginsOrColumenSpacingLarge</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxBalloon_RevisionDeletedShortTip</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_ContentControlDelete</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Delete</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_None</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxNothing</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateBkContent_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateWidgetText_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_NewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_NewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sClose</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sCloseDialog</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCrossRefType_Table</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sTable</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>rainbow</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Table</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sMore</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNotAdvancedMode</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Linux Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Windows Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Centered</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_TabStopsCentered</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelSection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelectedSections</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sBrowseFind</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sFind</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_Paste</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxEdit_PasteDefault</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_Paste</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Paste</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sBorderDistanceFromText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>OMathMatOrEqArr</comment>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8299,6 +8109,10 @@ use buttons to apply borders</source>
         <source>Select All</source>
         <translation>Tümünü Seç</translation>
     </message>
+    <message>
+        <source>Add Unit</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgBarcodeTips</name>
@@ -8309,6 +8123,14 @@ use buttons to apply borders</source>
     <message>
         <source>Cancel</source>
         <translation>İptal</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected units?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error Tips</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8454,6 +8276,18 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Minimum distan&amp;nce between column edges:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -8694,6 +8528,10 @@ use buttons to apply borders</source>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
+    <message>
+        <source>Are you sure to delete page number template?</source>
+        <translation>Sayfa numarası şablonunu silmek istediğinizden emin misiniz?</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsOfficialSettings</name>
@@ -8861,6 +8699,30 @@ use buttons to apply borders</source>
         <source>New Template</source>
         <translation>Yeni İzin Şablonu</translation>
     </message>
+    <message>
+        <source>This deletion cannot be undone.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Şablonu İçe Aktar</translation>
+    </message>
+    <message>
+        <source>Template Corrupt</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsSmartPageNumPane</name>
@@ -8988,6 +8850,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This is a WPS Official document. It will be opened in 
+ &quot;Official Doc Layout&quot; mode to keep its original layout.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -10995,6 +10862,34 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecek.</tran
         <source>Preview:</source>
         <translation>Önizleme:</translation>
     </message>
+    <message>
+        <source>TemplateName:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New Official Page Number Template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert into the document when create</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ShowFirstPage:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WhiteSpaceSize:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RLDistance:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TopDistance:</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPageSettingsWidget</name>
@@ -11404,6 +11299,14 @@ if you want to replace selected result, please click the replace button</source>
         <source>%1(Disabled)</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Mail Config</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send mail b&amp;y</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgReplaceManualContent</name>
@@ -11425,6 +11328,10 @@ if you want to replace selected result, please click the replace button</source>
     </message>
     <message>
         <source>Cannot create automatic table of contents since no heading style or outline level has been set. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The following preview content is generated by WPS Intelligent Identification, do you want to insert?</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11750,6 +11657,38 @@ Please try one of the following.
 Lütfen aşağıdakilerden birini deneyin.
 •Başka bir kullanıcı hesabına geçin.
 •Oluşturucusundan bu dosyanın izin denetimi düzeyini değiştirmesini isteyin.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Ortak Dosyalar(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Ortak Dosyalar(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>Normal Template Damaged</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14003,6 +13942,26 @@ Değiştir</translation>
         <source>Line Spacing</source>
         <translation>Satır Aralığı</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HVFont Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search Computer</source>
+        <translation>Yerel Arama</translation>
+    </message>
+    <message>
+        <source>Smart Official</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official Font Name</source>
+        <translation>Yazı Tipi</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_smartartformattool</name>
@@ -14470,6 +14429,10 @@ Efektleri</translation>
     <message>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Dikey</translation>
     </message>
 </context>
 <context>
@@ -14946,6 +14909,10 @@ Efektleri</translation>
     <message>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17908,6 +17875,82 @@ Diagonal Line in Cell</source>
         <source>Smooth Point</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Search Material</source>
+        <translation>Malzeme Ara</translation>
+    </message>
+    <message>
+        <source>Accept Formatting Changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reject Formating Changes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Column Alignment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Dikey Yazı Tipi Boyutu</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Yatay Yazı Tipi Boyutu</translation>
+    </message>
+    <message>
+        <source>Line Spacing:</source>
+        <translation>Satır Aralığı:</translation>
+    </message>
+    <message>
+        <source>Matrix Spacing...</source>
+        <translation>Matris Aralığı...</translation>
+    </message>
+    <message>
+        <source>Border Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expand to Object Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Array Spacing...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands</name>
@@ -19739,6 +19782,138 @@ Screen</source>
         <source>Online Textbox</source>
         <translation>Şablon Metin Kutusu</translation>
     </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Belgeyi Böl/Birleştir</translation>
+    </message>
+    <message>
+        <source>Center Algin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Vurgu İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Parantez İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Matematik Denklemi</translation>
+    </message>
+    <message>
+        <source>Document Barcode Properties</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Multi Equations Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Betik işlevi</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>İşleç İşlevi</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TpConfidentialityLevelKeyWord</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Matris İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Radikal İşlev</translation>
+    </message>
+    <message>
+        <source>Right Algin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Büyük İşleç İşlevi</translation>
+    </message>
+    <message>
+        <source>Left Algin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Ara</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Kenarlık İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Limit İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Grup İşlevi</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Gizli Olarak İşaretle</translation>
+    </message>
+    <message>
+        <source>page number recommend style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>İşlevler</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Kesir İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Dizi İşlevi</translation>
+    </message>
+    <message>
+        <source>Align Adjustify</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Çizgi İşlevi</translation>
+    </message>
+    <message>
+        <source>Global Center Algin</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWordCountDlgClass</name>
@@ -20518,6 +20693,42 @@ Boyacısı</translation>
         <source>Sign Out</source>
         <translation>Oturumu Kapat</translation>
     </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Dikey Yazı Tipi Boyutu</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Yatay Yazı Tipi Boyutu</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWidgetTpSpellCheck</name>
@@ -20586,6 +20797,10 @@ Boyacısı</translation>
     </message>
     <message>
         <source>Text in %1 is not being checked. Do you want to add it as a proofreading language?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use the new version features</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -20952,6 +21167,10 @@ Boyacısı</translation>
     <message>
         <source>Export PDF File</source>
         <translation>PDF Dosyasını Dışa Aktar</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23653,6 +23872,96 @@ Protection</source>
         <source>Show/Hide Formatting Marks</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>FontName And FontSize</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Put Custom Line Spacing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom Page Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Official Glossary</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Document Barcode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialToNormal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your file is under protection. Please do the following to unprotect it and retry:
+Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Transpose Table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Modify Document Barcode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add rows and columns</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxVersion_Paste</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>TxVersion_InsertPageNumber</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <comment>TxVersion_InsertTable</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Apply Table Style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Typing</source>
+        <comment>TxVersion_Key_Type</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>classics.3dsettings</name>
@@ -25171,6 +25480,10 @@ Böl</translation>
         <source>Custom</source>
         <translation>Özel</translation>
     </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Şablonu İçe Aktar</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -25393,6 +25706,14 @@ Böl</translation>
     <message>
         <source>Create Online Document</source>
         <translation>Çevrimiçi Belge Oluştur</translation>
+    </message>
+    <message>
+        <source>New Wps Document</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26737,6 +27058,10 @@ Numarası</translation>
         <source>Right-to-le&amp;ft</source>
         <translation>Sağdan s&amp;ola</translation>
     </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Satır Aralığı</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTablePositioning</name>
@@ -27563,110 +27888,6 @@ Modu</translation>
         <source>Switch to JS</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sApplyThisSection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sThisSection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_StylesAndFormatting_Caption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_StylesAndFormatting_DisplayName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sInvalidInt</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNotValidFontSize</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_TSCS</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxTcscConvert</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelectText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelectedText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_FormatPainter</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_PasteFormat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TXOMath_ButtonCancel</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TXWps_SwitchButtonCancel</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sErrorStart</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sStartAtError</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_ChangeTextDirection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_SetTextDirection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>SoundOrVedio</comment>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxContentListEntriesDlg</name>
@@ -27716,6 +27937,10 @@ Modu</translation>
     <message>
         <source>select all</source>
         <translation>Tümünü Seç</translation>
+    </message>
+    <message>
+        <source>Management keyword</source>
+        <translation>Anahtar Sözcükleri Yönet</translation>
     </message>
 </context>
 <context>
@@ -28851,6 +29076,10 @@ Kaydır</translation>
         <source>Save as ty&amp;pe:</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Open fol&amp;der after merge</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgMergeToEmail</name>
@@ -29099,6 +29328,10 @@ Kaydır</translation>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12.</source>
         <translation>Sayfa numaralarını ve/veya sayfa aralıklarını virgüllerle ayırarak girin. Örneğin, 1,3,5-12.</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30513,6 +30746,18 @@ Boyutu</translation>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Görüntüdeki metinleri metin biçimine dönüştürün</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools_vml</name>
@@ -31071,6 +31316,18 @@ Kaydır</translation>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Görüntüdeki metinleri metin biçimine dönüştürün</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -31268,6 +31525,10 @@ Window</source>
         <translation>Yeni
 Pencere</translation>
     </message>
+    <message>
+        <source>ComposeAssist</source>
+        <translation>Yazma Modu</translation>
+    </message>
 </context>
 <context>
     <name>KxCaptionNumberDlg</name>
@@ -31413,6 +31674,14 @@ Pencere</translation>
     <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Zamanlamalı Yedekleme</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -31760,6 +32029,10 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecektir.</t
     <message>
         <source>Gridlines</source>
         <translation>Kılavuz Çizgileri</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -32461,6 +32734,50 @@ Bu değişiklik, %1 şablonunu temel alan tüm yeni belgeleri etkileyecektir.</t
         <source>Failed to copy file</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Document had been protected</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No export permissions, please use another system user account and try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>UnImport</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>template(s) failed import;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ImportFaildList_</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No read and write permissions, please turn it on in &quot;Properties&quot; - &quot;Permissions&quot;, or use another system user account and try again</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>succeeded</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>template(s) failed import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>GotoNew</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>succeeded import</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Not a Official Document</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsFormatProperty_Effects</name>
@@ -32921,6 +33238,10 @@ Numarası</translation>
         <source>Total of Y Page</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWidgetTpXMLStructure</name>
@@ -32972,6 +33293,10 @@ to a Word XML document.</source>
         <source>Form</source>
         <translation>Form</translation>
     </message>
+    <message>
+        <source>error details</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxMergeToEmailDlg</name>
@@ -32990,6 +33315,18 @@ to a Word XML document.</source>
     <message>
         <source>WPS Writer</source>
         <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Email application is not available. Please choose anther email application</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Email account is not available. Please reconfigure another account</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Email account has not been configured. Please setup an email account</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33025,6 +33362,31 @@ to a Word XML document.</source>
     <message>
         <source>TextLabel</source>
         <translation>Metni Etiketi</translation>
+    </message>
+    <message>
+        <source>Searching, Has Searched %1Content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End Search</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Found %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Quickly find local documents
+Support title, content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>TypeFilter:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search Path:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33384,6 +33746,54 @@ Numarası</translation>
         <source>More Symbols</source>
         <translation>Diğer Simgeler</translation>
     </message>
+    <message>
+        <source>Bottom Line Script(Multi Angency)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Parts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top Line Script(Multi Angency)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>2 Rows Editions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Vertical</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Normal Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Single Row Edition</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Horizontal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>5 points Star Line</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top Line Script(Single Angency)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bottom Line Script(Single Angency)</source>
+        <translation>Azalan Makale (Tek Kurumlu)</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_workspace</name>
@@ -33640,6 +34050,15 @@ Aktar</translation>
     <message>
         <source>Document security</source>
         <translation>Belge güvenliği</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Dosyaları Topluca 
+Yeniden Adlandır</translation>
+    </message>
+    <message>
+        <source>Picture to PDF</source>
+        <translation>Resimden PDF&apos;ye</translation>
     </message>
 </context>
 <context>
@@ -34170,6 +34589,50 @@ Kontrol Et</translation>
     <message>
         <source>Online Textbox</source>
         <translation>Şablon Metin Kutusu</translation>
+    </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation>Akıllı Asistan</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36159,6 +36622,66 @@ Hayır:	Şablona kaydetme;
         <source>The search path is not valid</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>File Size(Low)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open file by local</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Searching, Has Searched %1Content</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No search cache file exists locally</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>End Time</source>
+        <translation>Bitiş Zamanı</translation>
+    </message>
+    <message>
+        <source>Search parameter error</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The search string is not valid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Update Time(Up)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Found %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Update Time(Low)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Limit 20 words in the current input box</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>File Size(Up)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search cache process failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Search Content Title,no more than 20 words</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsDlgBookFormat</name>
@@ -36970,6 +37493,10 @@ Hayır:	Şablona kaydetme;
         <source>Add and delete elements in this official document.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxIndexMarkEntryDlg</name>
@@ -37042,6 +37569,14 @@ Hayır:	Şablona kaydetme;
     </message>
     <message>
         <source>Zoom Ratio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfdPrintPreviewSettings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PrevPage</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -37130,6 +37665,10 @@ Hayır:	Şablona kaydetme;
     <message>
         <source>Custom Margins</source>
         <translation>Özel Kenar Boşlukları</translation>
+    </message>
+    <message>
+        <source>PrintMode</source>
+        <translation>Mod</translation>
     </message>
 </context>
 <context>
@@ -37893,6 +38432,10 @@ Numarası</translation>
         <source>Total of Y Page</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxSortOptionsDlg</name>
@@ -38213,6 +38756,11 @@ Numarası</translation>
         <comment>Professional Version</comment>
         <translation>Kullanıcı Arayüzü Değiştir</translation>
     </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation>Kullanıcı Arayüzü Değiştir</translation>
+    </message>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
@@ -38495,6 +39043,10 @@ Temizle</translation>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
         <translation>Boş Paragraf Bölme Moduna Geç</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Toplu Sil</translation>
     </message>
 </context>
 <context>
@@ -38855,6 +39407,10 @@ Okuma</translation>
     <message>
         <source>3-D Settings</source>
         <translation>3-B Ayarları</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -39964,6 +40520,10 @@ Kontrol Et</translation>
         <source>Normal Encryption</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Gizli Olarak İşaretle</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsAdvInsertPageNumber</name>
@@ -40141,10 +40701,6 @@ Kontrol Et</translation>
         <source> Limit All(&amp;R) &gt;&gt; </source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
@@ -40299,6 +40855,10 @@ Kontrol Et</translation>
     <message>
         <source>Delete Object</source>
         <translation>Nesneyi Sil</translation>
+    </message>
+    <message>
+        <source>Insert Ink Shape</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40478,6 +41038,14 @@ Kontrol Et</translation>
         <source>receiver%1.pdf</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxPrintDlg</name>
@@ -40552,6 +41120,18 @@ Kontrol Et</translation>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>Giriş değeri %1 ile %2 arasında olmalıdır.</translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40713,6 +41293,18 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>Fit Page(Ctrl+9)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NextPage(Ctrl+PageDown)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close Ofd Preview</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PrevPage(Ctrl+PageUp)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -40922,6 +41514,18 @@ Numarası</translation>
         <source>Navigation</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Docer Header</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer Footer</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Docer HeaderFooterGroup</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_mailings</name>
@@ -41013,6 +41617,14 @@ Kayıt</translation>
     <message>
         <source>Merge to Email</source>
         <translation>E-postaya Birleştir</translation>
+    </message>
+    <message>
+        <source>Email Config</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MailConfig</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41378,6 +41990,26 @@ Ekle</translation>
         <source>Mail Merge</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Finalize</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Belgeyi Böl/Birleştir</translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official to Ordinary</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsDDEServer</name>
@@ -41561,6 +42193,14 @@ Ekle</translation>
     </message>
     <message>
         <source>SendMail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>S&amp;MTP Server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sender &amp;Name</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -41835,6 +42475,10 @@ Ekle</translation>
         <source>The number input must be between 1 and 63.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>WPS Writer Official Document (*.uot)</source>
+        <translation>WPS Resmi Belgesi (*.uot)</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsPageNumPositionModelOfficial</name>
@@ -41893,6 +42537,10 @@ Ekle</translation>
     <message>
         <source>Header outside</source>
         <translation>Dış başlık</translation>
+    </message>
+    <message>
+        <source>Add Custom PageNum</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -42283,6 +42931,46 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>secret period</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>%1 cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>document id</source>
+        <translation>Kesme No</translation>
+    </message>
+    <message>
+        <source>The barcode id must contain 8 to 20 characters or digits.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>journals</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>submit to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>custom field</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>barcode date</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>barcode unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>publish level</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The length of %1 has to between %2 and %3</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgTableOfFigures</name>
@@ -42331,6 +43019,42 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>post unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Support multiple unit name entered at the same time, seperated by comma.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The unit cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Delete Units</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The barcode creator unit you entered is longer than %1 characters, which does not comply with the Standard for Using 2D Barcodes in Official Documents. Continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>submit to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The length of unit names cannot exceed 256 bytes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>barcode unit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The unit name cannot contain comma</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The name of adding unit has existed in the list, please enter a different name.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -42470,6 +43194,26 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 Pages Scanned.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -42816,6 +43560,86 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <source>MAIL_FAILURE</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Identified as junk mail,rejected by server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_TEXT_TOO_LARGE</source>
+        <translation>Posta gövdesinin uzunluğu sınırı aşıyor.</translation>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_RECIPIENTS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid smtp server port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_BAD_RECIPTYPE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>554 HL:IHU</source>
+        <translation>Gönderenin IP&apos;si, spam gönderilmesi veya olağandışı bağlantı davranışları nedeniyle geçici olarak askıya alınır.</translation>
+    </message>
+    <message>
+        <source>421 HL:IFC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>451 MI:SFQ</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Local user only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>550 RP:TRC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>451 RP:QRC</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Illegal Attachment</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mail client load failed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_WRITE_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_NO_MESSAGES</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IP is rejected, smtp auth error limit exceed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid User</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_OPEN_FAILURE</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_FILES</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User not found</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsOfficialNewCustomPageNumDlg</name>
@@ -42829,6 +43653,14 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     </message>
     <message>
         <source>Please enter a Chinese font size or a number between 1% and 2%</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialPageNum</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is a page number template with the same name, please modify the name</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -44421,6 +45253,42 @@ Kayıt</translation>
         <source>TextLabel</source>
         <translation>Metni Etiketi</translation>
     </message>
+    <message>
+        <source>input chinese sy info tips part1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input chinese sy info tips part2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>sy_normal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>sytype</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input normal sy info tips part1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>input normal sy info tips part2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>chinese_sy_info</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>normal_sy_info</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>self_sy_info</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsStyleAutoFormatResultTips</name>
@@ -44684,6 +45552,10 @@ Kayıt</translation>
         <source>Professional</source>
         <translation>Profesyonel</translation>
     </message>
+    <message>
+        <source>Accent</source>
+        <translation>Vurgu</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsPercentOnTBCommand</name>
@@ -44926,6 +45798,14 @@ Kayıt</translation>
         <source>SendMail</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Send Completed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All &amp;ReSend</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsWidgetChildShapePosition</name>
@@ -45093,6 +45973,14 @@ Kayıt</translation>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>When the smart number setting is turned on, the official document master will change the format when you write the corresponding number and press Enter.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsSmartOfficialSettingDlg</name>
@@ -45103,6 +45991,10 @@ Kayıt</translation>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45329,6 +46221,14 @@ Kayıt</translation>
         <source>The file name is the same as an existing directory.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsTableOfContentsModel</name>
@@ -45352,6 +46252,18 @@ Kayıt</translation>
     <name>KxBackupSettingTipWidgetBase</name>
     <message>
         <source>What is Auto Roaming</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -45644,6 +46556,10 @@ Kayıt</translation>
         <source>The number must be between %1 and %2.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Failed to save file</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxCoverPageCommand</name>
@@ -45865,6 +46781,10 @@ Kayıt</translation>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Şablonu İçe Aktar</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsOfficialToDocument</name>
@@ -45874,6 +46794,10 @@ Kayıt</translation>
     </message>
     <message>
         <source>Transfering</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official to ordinary file</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -45988,6 +46912,10 @@ Kayıt</translation>
         <source>preview</source>
         <translation>Önizleme</translation>
     </message>
+    <message>
+        <source>Smart Official</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsWaterMarkGalleryModel</name>
@@ -46080,6 +47008,10 @@ Kayıt</translation>
     <message>
         <source>Exactly</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Satır Aralığı</translation>
     </message>
 </context>
 <context>
@@ -46185,6 +47117,22 @@ Kayıt</translation>
         <source>Official Master is Launching!</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>OfficialTools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialCorrect</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialMaterial</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>OfficialRender</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsLineColorModel</name>
@@ -46218,11 +47166,39 @@ Kayıt</translation>
         <source>total check result:</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>&amp;expandAll</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>,But did not complete the full text check</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;collapseAll</source>
+        <translation>Tümünü Daralt (&amp;C)</translation>
+    </message>
+    <message>
+        <source>date already deleted!</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWidgetTpConfidentialityLevelKeyWord</name>
     <message>
         <source>No data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>total result</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>check</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>operate keywords</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -46312,6 +47288,18 @@ Kayıt</translation>
     <name>KxPageElementsWidgetSignature</name>
     <message>
         <source>Seal Width:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PersonalSeal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>NoSeal</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RoundSeal</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -46660,6 +47648,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>SendMail</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Sending Mail With WPS</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Stop sendemail</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>SendByClientConfigWidget</name>
@@ -46669,6 +47665,10 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>SendMail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Account</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -46818,6 +47818,22 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>delete keywords</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The thesaurus is empty, please add keywords</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add keywords</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Inverse selection</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Management keyword</source>
+        <translation>Anahtar Sözcükleri Yönet</translation>
+    </message>
 </context>
 <context>
     <name>KxOfficialtemplateElementsGroup</name>
@@ -46831,6 +47847,10 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Preview</source>
         <translation>Önizleme</translation>
+    </message>
+    <message>
+        <source>OpenByLocalApp</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -46883,6 +47903,18 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Heading 6</source>
         <translation>Başlık 6</translation>
+    </message>
+    <message>
+        <source>Format Alignment Center</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Alignment Right</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Alignment Left</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -47129,11 +48161,27 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>checking now,plz wait...</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgCheckingTips2</name>
     <message>
         <source>checking now,plz wait...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -47206,6 +48254,42 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
     <message>
         <source>Test failed.Please check the information.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Done</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Mail Merge Test Mail</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Send test Email</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login to SMTP server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mail Config</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Account setup successful</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>.Please trying using independent password</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are all set for the group mail feature.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You are sending testing mail through WPS mail merge feature. </source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -47334,6 +48418,14 @@ Converting allows you to use all the new features of Word and reduces the size o
         <source>Template is missing.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save failed.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsRestartPageNumCommand</name>
@@ -47371,6 +48463,20 @@ check the maintain compatibility checkbox.</source>
         <source>Do not ask me again.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>You are saving an old-format document as a new format.
+
+While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save as a new format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save new format</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsApplication</name>
@@ -47380,6 +48486,11 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -47488,6 +48599,14 @@ represent the recipient&apos;s information content</source>
         <source>Header:</source>
         <translation>Üst Bilgi:</translation>
     </message>
+    <message>
+        <source>Edition:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IU_unit</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsDuplexPrintCombobox</name>
@@ -47530,39 +48649,469 @@ represent the recipient&apos;s information content</source>
         <source>Beginner Guide</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Start Design</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use the toolbar on the right to design your own official document template.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
-    <name/>
+    <name>KxCustomShortCutDlg</name>
     <message>
-        <source/>
+        <source>&quot;</source>
+        <translation>&quot;</translation>
+    </message>
+    <message>
+        <source>&quot;Tab</source>
+        <translation>&quot;Sekme</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects horizontally</source>
+        <translation>Seçili çizim nesnelerini yatay olarak dağıt</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects to the back</source>
+        <translation>Seçili çizim nesnesini en arkaya gönderir</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Kapat</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects horizontally to the center</source>
+        <translation>Seçili çizim nesnelerini yatay olarak ortalar</translation>
+    </message>
+    <message>
+        <source>Scales the current view to 100%</source>
+        <translation>Geçerli görünümü %100 olarak ölçeklendirir</translation>
+    </message>
+    <message>
+        <source>&amp;Categories:</source>
+        <translation>Kateg&amp;oriler:</translation>
+    </message>
+    <message>
+        <source>Auto-Fit Table to the contents</source>
+        <translation>Tabloyu içindekilere Otomatik Sığdır</translation>
+    </message>
+    <message>
+        <source>Fill Color Picker</source>
+        <translation>Dolgu Rengi Seçicisi</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects vertically</source>
+        <translation>Seçili çizim nesnelerini dikey olarak dağıt</translation>
+    </message>
+    <message>
+        <source>Deletes the selected cells from the table</source>
+        <translation>Seçili hücreleri tablodan siler</translation>
+    </message>
+    <message>
+        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Seçili paragrafların, tablo hücrelerinin ve resimlerin iç kenarlıklarını değiştirir</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
+        <translation>Tuş atamalarını sıfırlamak istediğinizden emin misiniz? Bu işlem, %1 içindeki makrolara ve stillere atanmış olan tüm tuşları silecek.</translation>
+    </message>
+    <message>
+        <source>Press &amp;new shortcut key:</source>
+        <translation>Yeni kısayol t&amp;uşuna basın:</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>&quot;Dosya&quot; menüsü</translation>
+    </message>
+    <message>
+        <source>Quits WPS and prompts to save the documents</source>
+        <translation>WPS&apos;den çıkar ve belge kaydetmeyi sorar</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects vertically to the center</source>
+        <translation>Seçili çizim nesnelerini dikey olarak ortaya hizalar</translation>
+    </message>
+    <message>
+        <source>Saves the active document or template</source>
+        <translation>Etkin belge veya şablonu kaydeder</translation>
+    </message>
+    <message>
+        <source>C&amp;ommands:</source>
+        <translation>K&amp;omutlar:</translation>
+    </message>
+    <message>
+        <source>Customize keyboard</source>
+        <translation>Klavyeyi özelleştir</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Makrolar</translation>
+    </message>
+    <message>
+        <source>Opens an existing document or template</source>
+        <translation>Varolan bir belgeyi veya şablonu açar</translation>
+    </message>
+    <message>
+        <source>Displays a document&apos;s outline</source>
+        <translation>Belgeyi bir taslak olarak görüntüleyin.</translation>
+    </message>
+    <message>
+        <source>Accepts all changes that are highlighted in the current filter settings</source>
+        <translation>Mevcut filtre ayarlarında vurgulanan tüm değişiklikleri kabul edin</translation>
+    </message>
+    <message>
+        <source>Save file as DOCX document</source>
+        <translation>Dosyayı DOCX belgesi olarak kaydet</translation>
+    </message>
+    <message>
+        <source>Selects the current cell in a table</source>
+        <translation>Tablodaki geçerli hücreyi seçer</translation>
+    </message>
+    <message>
+        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Seçili paragrafların, tablo hücrelerinin ve resimlerin dış kenarlıklarını değiştirir</translation>
+    </message>
+    <message>
+        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Seçili paragrafların, tablo hücrelerinin ve resimlerin alt kenarlıklarını değiştirir</translation>
+    </message>
+    <message>
+        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
+        <translation>Boş bir metin kutusu ekler veya seçili öğeyi bir metin kutusu içine alır</translation>
+    </message>
+    <message>
+        <source>Sends the active document through electronic mail</source>
+        <translation>Etkin belgeyi elektronik posta yoluyla gönderir</translation>
+    </message>
+    <message>
+        <source>Selects the entire document</source>
+        <translation>Tüm belgeyi seçer</translation>
+    </message>
+    <message>
+        <source>Opens a data source for mail merge of insert database</source>
+        <translation>Adres-mektup birleştirmek veya veritabanı eklemek için bir veri kaynağı açar</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
+        <translation>Belge değişikliklerini görüntülemek ve düzenlemek için bir özet bölmesi gösterir/gizler (yatay)</translation>
+    </message>
+    <message>
+        <source>Selects the current column in a table</source>
+        <translation>Bir tablodaki geçerli sütunu seçer</translation>
+    </message>
+    <message>
+        <source>Deletes the selected columns from the table</source>
+        <translation>Tablodan seçilen sütunları siler</translation>
+    </message>
+    <message>
+        <source>Changes the height and width of the rows and columns in a table</source>
+        <translation>Bir tablodaki satır ve sütunların genişlik ve yüksekliklerini değiştirir</translation>
+    </message>
+    <message>
+        <source>Saves a copy of the document in a separate file</source>
+        <translation>Belgenin bir kopyasını ayrı bir dosyaya kaydeder</translation>
+    </message>
+    <message>
+        <source>Macr&amp;os:</source>
+        <translation>Makr&amp;olar:</translation>
+    </message>
+    <message>
+        <source>Deletes the selected table</source>
+        <translation>Seçili tabloyu siler</translation>
+    </message>
+    <message>
+        <source>Specify a command</source>
+        <translation>Komut belirtin</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected columns</source>
+        <translation>Seçili sütunları düzgün dağıtır</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the right</source>
+        <translation>Seçili çizim nesnelerini sağa hizalar</translation>
+    </message>
+    <message>
+        <source>Specify keyboard sequence</source>
+        <translation>Klavye sırasını belirtin</translation>
+    </message>
+    <message>
+        <source>Cuts the selection and puts in on the Clipboard</source>
+        <translation>Seçimi keser ve Panoya yerleştirir</translation>
+    </message>
+    <message>
+        <source>Selects the current row in a table</source>
+        <translation>Bir tablodaki geçerli satırı seçer</translation>
+    </message>
+    <message>
+        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Seçili paragrafların, tablo hücrelerinin ve resimlerin sol kenarlıklarını değiştirir</translation>
+    </message>
+    <message>
+        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
+        <translation>Seçili paragrafların, tablo hücrelerinin ve resimlerin kenarlıklarını kaldırır</translation>
+    </message>
+    <message>
+        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
+        <translation>Belgedeki düzeltmeleri görüntülemek ve düzenlemek için bir özet bölmesi açar (geçiş)</translation>
+    </message>
+    <message>
+        <source>Changes all the borders of the selected table cells</source>
+        <translation>Seçili tablo hücrelerinin tüm kenarlıklarını değiştirir</translation>
+    </message>
+    <message>
+        <source>Save file as Word 97-2003 Document</source>
+        <translation>Dosyayı Word 97-2003 Belgesi olarak kaydet</translation>
+    </message>
+    <message>
+        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
+        <translation>Pano içeriğini bağlantılı nesne, eklenmiş nesne veya diğer biçimlerde ekler</translation>
+    </message>
+    <message>
+        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Seçili paragrafların, tablo hücrelerinin ve resimlerin üst kenarlıklarını değiştirir</translation>
+    </message>
+    <message>
+        <source>Show or hide comment balloons</source>
+        <translation>Açıklama balonlarını gösterir veya gizler</translation>
+    </message>
+    <message>
+        <source>Rejects all changes in document, ignoring filter settings</source>
+        <translation>Filtre ayarlarını yoksayarak belgedeki tüm değişiklikleri reddeder</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Açıklama</translation>
+    </message>
+    <message>
+        <source>Always use balloons</source>
+        <translation>Balon kullanmaya izin ver</translation>
+    </message>
+    <message>
+        <source>Show or hide markup balloons</source>
+        <translation>İşaretleme balonlarını gösterir veya gizler</translation>
+    </message>
+    <message>
+        <source>Accepts all changes in document, ignoring filter settings</source>
+        <translation>Filtre ayarlarını yoksayarak belgedeki tüm değişiklikleri kabul eder</translation>
+    </message>
+    <message>
+        <source>Changes the page setup of the selected sections</source>
+        <translation>Seçili bölümlerin sayfa yapısını değiştirir</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>&amp;Ata</translation>
+    </message>
+    <message>
+        <source>Scales the editing view to see the two pages in page layout view</source>
+        <translation>Sayfa düzeni görünümünde iki sayfa görüntülemek için düzenleme görünümünü ölçeklendirir</translation>
+    </message>
+    <message>
+        <source>Changes various categories of WPS options</source>
+        <translation>WPS seçeneklerinin çeşitli kategorilerini değiştirir</translation>
+    </message>
+    <message>
+        <source>Marks the text you want to include in the index</source>
+        <translation>Dizine eklemek istediğiniz metni işaretler</translation>
+    </message>
+    <message>
+        <source>Sa&amp;ve changes in:</source>
+        <translation>Değişiklikleri kay&amp;det:</translation>
+    </message>
+    <message>
+        <source>Selects an entire table</source>
+        <translation>Tüm tabloyu seçer</translation>
+    </message>
+    <message>
+        <source>Insert ink comment</source>
+        <translation>Mürekkep açıklaması ekle</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&amp;Kaldır</translation>
+    </message>
+    <message>
+        <source>Deletes all comments in document, ignoring filter settings</source>
+        <translation>Filtre ayarlarını yoksayarak belgedeki tüm açıklamaları siler</translation>
+    </message>
+    <message>
+        <source>C&amp;urrent keys:</source>
+        <translation>&amp;Geçerli tuşlar:</translation>
+    </message>
+    <message>
+        <source>Re&amp;set All...</source>
+        <translation>Tümünü &amp;Sıfırla...</translation>
+    </message>
+    <message>
+        <source>Jumps to a specified place in the active document</source>
+        <translation>Etkin belgede belirtilen yere atlar</translation>
+    </message>
+    <message>
+        <source>Deletes the selected rows from the table</source>
+        <translation>Seçili satırları tablodan siler</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected rows</source>
+        <translation>Seçili satırları düzgün dağıtır</translation>
+    </message>
+    <message>
+        <source>Rejects all changes that are highlighted in the current filter settings</source>
+        <translation>Geçerli filtre ayarlarında vurgulanmış tüm değişiklikleri reddeder</translation>
+    </message>
+    <message>
+        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Seçili paragrafların, tablo hücrelerinin ve resimlerin sağ kenarlıklarını değiştirir</translation>
+    </message>
+    <message>
+        <source>[Underline]</source>
+        <translation>[Altı Çizili]</translation>
+    </message>
+    <message>
+        <source>Toggles table gridlines on and off in Ribbon</source>
+        <translation>Şeritte tablo kılavuz çizgilerini açar ve kapatır</translation>
+    </message>
+    <message>
+        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
+        <translation>Boş bir dikey metin kutusu ekler veya seçili öğeyi dikey metin kutusu içine alır</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
+        <translation>Belge değişikliklerini görüntülemek ve düzenlemek için özet bölmesini gösterir/gizler (dikey)</translation>
+    </message>
+    <message>
+        <source>Creates a Quick Style style out of the currently selected text</source>
+        <translation>Seçili durumdaki metinden Hızlı Stil stili oluşturur</translation>
+    </message>
+    <message>
+        <source>Opens New Document taskpane</source>
+        <translation>Yeni Belge görev bölmesini açar</translation>
+    </message>
+    <message>
+        <source>Creates a new AutoText Building Block from the current selection</source>
+        <translation>Geçerli seçimden yeni Otomatik Metin Yapı Taşı oluşturur</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the left</source>
+        <translation>Seçili çizim nesnelerini sola hizalar</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the bottom</source>
+        <translation>Seçili çizim nesnelerini alta hizalar</translation>
+    </message>
+    <message>
+        <source>Removes Table of Contents building block from the document</source>
+        <translation>Belgeden İçindekiler Tablosu yapı taşını kaldırır</translation>
+    </message>
+    <message>
+        <source>Changes the font of the selection</source>
+        <translation>Seçimin yazı tipini değiştirir</translation>
+    </message>
+    <message>
+        <source>Copies the selection and puts it on the Clipboard</source>
+        <translation>Seçimi kopyalar ve Panoya yerleştirir</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects backward</source>
+        <translation>Seçili çizim nesnesini geri gönderir</translation>
+    </message>
+    <message>
+        <source>Currently assigned to: </source>
+        <translation>Şu anda atanmış durumda: </translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the top</source>
+        <translation>Seçili çizim nesnelerini üste hizalar</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialAddPageNumWarningDlg</name>
+    <message>
+        <source>The same attribute page number template %1 already exists and cannot be created</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>Cannot create page number template</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialImportWaringDlg</name>
+    <message>
+        <source>Aleady selected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>more can be imported</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>templates, up to</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialDelCustomPageNumDlg</name>
+    <message>
+        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNumberingModel</name>
+    <message>
+        <source>GalleryOfficalOutlineNumbering</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>GalleryOfficialNumbering</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>KxPageElementTextEditValidator</name>
     <message>
-        <source/>
+        <source>No more than %1 characters</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetPlaintTextEdit</name>
     <message>
-        <source/>
+        <source>No more than %1 characters</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNewDocumentDlg</name>
+    <message>
+        <source>New Empty</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxCreateContentsToolTip</name>
+    <message>
+        <source>click &quot;Create Navigation&quot;, show document structure.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KeyWordCheckEntryButton</name>
+    <message>
+        <source>Classified check</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartOfficialCommand</name>
+    <message>
+        <source>Smart Official</source>
         <translation type="unfinished"/>
     </message>
 </context>
