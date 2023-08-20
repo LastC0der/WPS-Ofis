@@ -1255,6 +1255,26 @@ Parolaların büyük küçük harf duyarlı olduğunu unutmayın. Düzenleme par
         <source>File encryption options for this workbook</source>
         <translation>Bu çalışma kitabı için dosya şifreleme seçenekleri</translation>
     </message>
+    <message>
+        <source>Fix &amp;interval</source>
+        <translation>Zamanlanmış Yedekleme Aralığı (&amp;I)</translation>
+    </message>
+    <message>
+        <source>Enable Bl&amp;ue background</source>
+        <translation>Mavi Üzerine Beyaz Metin (&amp;U)</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Yedekleme Konumu:</translation>
+    </message>
+    <message>
+        <source>Disable all Data Connections</source>
+        <translation>Tüm Veri Bağlantılarını Devre Dışı Bırak</translation>
+    </message>
+    <message>
+        <source>Enable Smooth Scroll</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>et_et_app</name>
@@ -4633,6 +4653,152 @@ Kaydedilmeyen işlerin korunması için Tamam&apos;a tıklayın ve paylaşılan 
         <translation>Bu dosyanın bazı formülleri veya adları, WPS Elektronik Tablolar&apos;ın desteklemediği kullanıcı tanımlı işlevleri içerir ve bu formüllerin veya adların yeniden hesaplanması yanlış sonuçlara neden olabilir.
 </translation>
     </message>
+    <message>
+        <source>Formulas or rich data types in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation>Üst bilgi satırındaki formüller veya zengin veri türleri kaldırılacak ve statik metne dönüştürülecek. Devam etmek istiyor musunuz?</translation>
+    </message>
+    <message>
+        <source>Cannot insert data because there&apos;s a merged cell in the way.</source>
+        <translation>Birleştirilmiş hücre tarafından engellendiğinden veriler eklenemiyor.</translation>
+    </message>
+    <message>
+        <source>Instead of selecting a table header,select a cell with text in the table to convert to a data type.</source>
+        <translation>Bir elektronik tablo başlığı seçmek yerine, bir veri türüne dönüştürmek için elektronik tabloda metin içeren bir hücre seçin.</translation>
+    </message>
+    <message>
+        <source>The current table is in the workbook protection state, unable to export the chart temporarily.</source>
+        <translation>Geçerli çalışma kitabı korumalı modda ve grafik dışa aktarılamıyor.</translation>
+    </message>
+    <message>
+        <source>The table slicer could not be copied from one workbook to another. Please select the entire table and slicer to try again.</source>
+        <translation>Tablo dilimleyiciler bir çalışma kitabından diğerine kopyalanamaz. Tüm tabloyu ve dilimleyicileri seçerek tekrar deneyin.</translation>
+    </message>
+    <message>
+        <source>We cannot convert into this data type.This is because the cell is blank,contains a formula,or it has already been converted into this data type.Try selecting another cell with just text or numbers,or select another data type.</source>
+        <translation>Bu veri türüne dönüştüremiyoruz. Bunun nedeni hücrenin boş olması, bir formül içermesi veya zaten bu veri türüne dönüştürülmüş olmasıdır. Yalnızca metin veya sayılar içeren başka bir hücre seçmeyi deneyin veya başka bir veri türü seçin.</translation>
+    </message>
+    <message>
+        <source>The picture is too large and will be truncated.</source>
+        <translation>Resim çok büyük ve sığmayan kısımlar kesilecek.</translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause target range contains a formula, merged cell, data validation, locked cell or pivot table.Remove those features from target range and click the Flash Fill button again.</source>
+        <translation>Hedef aralık bir formül, birleştirilmiş hücre, veri doğrulama, kilitli hücre veya özet tablo içerdiğinden değerleri doldurmadık. Bu özellikleri hedef aralıktan kaldırın ve Hızlı Doldur düğmesini tekrar tıklayın.</translation>
+    </message>
+    <message>
+        <source>Cannot create an outline.</source>
+        <translation>Ana hat oluşturulamıyor.</translation>
+    </message>
+    <message>
+        <source> Field Not Found.</source>
+        <translation>Hesaplama hatası: geçersiz içerik başvurusu.</translation>
+    </message>
+    <message>
+        <source>A table header-line overlap one or more formula(s).</source>
+        <translation>Formüllerden en az biri üst bilgi satırına başvuruda bulunuyor. Üst bilgi satırının kapatılması bu formüllerin beklenmeyen sonuçlar döndürmesine neden olabilir. Devam etmek istiyor musunuz?</translation>
+    </message>
+    <message>
+        <source>Can&apos;t insert new cells because it would push non-empty cells off the end of the worksheet.</source>
+        <translation>Boş olmayan hücreleri çalışma sayfasının sonuna iteceği için yeni hücreler eklenemiyor. Bu hücreler boş görünebilir ancak formül içerebilirler, biçimlendirmeleri veya boş değerleri olabilir. Eklemek istediğiniz içerik için yeterli sayıda satır ve sütun silip tekrar deneyin.</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot open this file, because the password is not correct.
+</source>
+        <translation>WPS Elektronik Tablolar, parola doğru olmadığı için bu dosyayı açamıyor.
+</translation>
+    </message>
+    <message>
+        <source>The PasteLink Operator is forbidden in Pivot Table.</source>
+        <translation>Özet tabloya bağlantı yapıştırılamıyor.</translation>
+    </message>
+    <message>
+        <source>We are unable to replace matches in read-only Rich Data.</source>
+        <translation>Salt okunur Zengin Veri türündeki eşleşmeler değiştirilemiyor.</translation>
+    </message>
+    <message>
+        <source>The current worksheet has no outline and cannot display the outline symbol. Whether to create an outline?</source>
+        <translation>Etkin çalışma sayfasında anahat olmadığından anahat simgeleri gösterilemiyor. Anahat oluşturulsun mu?</translation>
+    </message>
+    <message>
+        <source>Cannot insert data because a table is in the way.</source>
+        <translation>Tablo tarafından engellendiğinden veriler eklenemiyor.</translation>
+    </message>
+    <message>
+        <source>A table total-line overlap one or more formula(s).</source>
+        <translation>Bir veya daha fazla formül ya da ad toplam satırına başvuruyor. Toplam satırının kapatılması bu formüllerin veya adların beklenmeyen sonuçlar döndürmesine neden olabilir. Devam etmek istiyor musunuz?</translation>
+    </message>
+    <message>
+        <source>Field Not Found Error</source>
+        <translation>Geçersiz içerik başvurusu.</translation>
+    </message>
+    <message>
+        <source>WpsReserved_CellImgList sheet cannot be renamed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Has No Duplicate Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Report: Merged %d worksheet(s), with %d failed. Generated %d workbook(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%s Sheet Type UnSupport</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%s File Not Exist</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Report: Merged %d worksheet(s). Generated %d workbook(s)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%s Sheet Is Empty</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Result Dir</source>
+        <translation>Sonuç Kaydetme Klasörü</translation>
+    </message>
+    <message>
+        <source>Data Out of Range</source>
+        <translation>Veri Aralık Dışında</translation>
+    </message>
+    <message>
+        <source>Has No Unique Data</source>
+        <translation>Benzersiz Veri Yok</translation>
+    </message>
+    <message>
+        <source>%s Sheet Not Exist</source>
+        <translation>%s çalışma sayfası mevcut değil.</translation>
+    </message>
+    <message>
+        <source>%s File Open Failed</source>
+        <translation>%s dosyası açılamadı.</translation>
+    </message>
+    <message>
+        <source>Reference is invalid.</source>
+        <comment>TX_ERROR_INVALID_REFERENCE</comment>
+        <translation>Başvuru geçersiz.</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_SOLVER_MAX</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_SOLVER_MIN</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The merged cells cannot be sorted.</source>
+        <comment>TX_ERROR_MERGECELLINSORT</comment>
+        <translation>Birleştirilen hücreler sıralanamaz.</translation>
+    </message>
 </context>
 <context>
     <name>et_et_ui</name>
@@ -5070,6 +5236,30 @@ Uyarı: İkinci işlenen sayıyı metin olarak sorgularsa, hem başına hem de s
     <message>
         <source>Connect string:</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy</source>
+        <translation>Tüm Dosyalar(*.*)|*.*|Tüm Veri Kaynakları(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Veritabanları(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Veritabanları(*.dbc)|*.dbc|DBase Dosyaları(*.dbf)|*.dbf|Excel Dosyaları(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Elektronik Tablo Dosyaları(*.et)|*.et|CSV Metin Dosyaları(*.csv)|*.csv|PRN Metin Dosyaları(*.prn)|*.prn|Metin Dosyaları(*.txt)|*.txt|Ofis Veritabanı Bağlantıları(*.odc)|*.odc|Microsoft Veri bağlantıları(*.udl)|*.udl|ODBC Dosya DSN&apos;leri(*.dsn)|*.dsn|Sorgu Dosyası(*.dqy)|*.dqy</translation>
+    </message>
+    <message>
+        <source>Fail to open file.There may be one of the following problems:
+ 
+1.The file format or database you selected is unsupported. 
+ 
+2.Current file has been opened. 
+
+3.The required database engine has not been installed.</source>
+        <translation>Dosya açılamıyor. Aşağıdaki sorunlardan biri olabilir:
+
+1. Seçtiğiniz dosya biçimi veya veritabanı desteklenmiyor. 
+
+2. Geçerli dosya açık. 
+
+3. Gerekli veritabanı motoru kurulmamış.</translation>
+    </message>
+    <message>
+        <source>All Files(*)|*|All Data Sources(*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt</source>
+        <translation>Tüm Dosyalar(*)|*|Desteklenen Tüm Veritabanı Dosyaları (*.csv,*.prn,*.txt)|*.csv;*.prn;*.txt|CSV Metin Dosyaları(*.csv)|*.csv|PRN Metin Dosyaları(*.prn)|*.prn|Metin Dosyaları(*.txt)|*.txt</translation>
     </message>
 </context>
 <context>
@@ -5903,6 +6093,38 @@ Biçimlendirme</translation>
     <message>
         <source>Merge worksheets</source>
         <translation>Çalışma sayfalarını birleştir</translation>
+    </message>
+    <message>
+        <source>£ English (United Kingdom)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation>Yönlendirme</translation>
+    </message>
+    <message>
+        <source>¥ Chinese (China)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>More Accouting Formats...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>$ English (United States)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Vertical Text</source>
+        <translation>Dikey Metin</translation>
+    </message>
+    <message>
+        <source>€ Euro (€ 123)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8958,6 +9180,86 @@ Düzenle</translation>
         <source>Smooth Point</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Advanced Filter Effect</source>
+        <translation>Gelişmiş Filtre Efekti</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SmartChart Webshape Add</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show Data Type Card</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SmartChart Webshape Color</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SmartChart Webshape Style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Smart Organize</source>
+        <translation>Elektronik Tablo Düzenleme ve Güzelleştirme</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SmartChart Webshape Recommended</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webshape Flush</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webshape Del</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RemoveBlankRow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_home</name>
@@ -9478,6 +9780,14 @@ Ortala</translation>
     </message>
     <message>
         <source>Stop chosen when the maximum number of integer subproblems was reached.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date axis reference is not valid.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Date axis reference is not valid because the cells not all in the same column or row. Select cells that are all in a single column or row.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -13007,6 +13317,60 @@ Ortala</translation>
         <source>TRIM(text)</source>
         <translation>KIRP(metin)</translation>
     </message>
+    <message>
+        <source>Returns a sequence of numbers.</source>
+        <translation>Bir sayı dizisi döndürür.</translation>
+    </message>
+    <message>
+        <source>Returns the unique values from a range of array.</source>
+        <translation>Bir dizi aralığından benzersiz değerleri döndürür.</translation>
+    </message>
+    <message>
+        <source>Filter a range or array.</source>
+        <translation>Bir dizi veriyi veya diziyi filtreler.</translation>
+    </message>
+    <message>
+        <source>Returns the price per $100 face value of a security that pays interest at maturity.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sorts a range or array based on the values in a corresponding range or array.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Returns the relative position of an item in an array. By default, an exact match is required.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extracts a value from a field of a given record.</source>
+        <translation>Belirli bir kaydın alanından bir değer ayıklar.</translation>
+    </message>
+    <message>
+        <source>Returns an array of random numbers.</source>
+        <translation>Bir rastgele sayı dizisini döndürür.</translation>
+    </message>
+    <message>
+        <source>Sorts a range or array.</source>
+        <translation>Bir aralığın veya dizinin içeriğini sıralar.</translation>
+    </message>
+    <message>
+        <source>Searchs a range or an array for a match and returns the corresponding item from a second range or array. By default,an exact match is used.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert an image into the cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>GAMMALN(x)</source>
+        <comment>GAMMALN_GRAMMER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PERMUT(number,number_chosen)</source>
+        <comment>PERMUT_GRAMMER</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_formulas</name>
@@ -13160,6 +13524,30 @@ Saat</translation>
     <message>
         <source>Formula Auditing</source>
         <translation>Formül Denetimi</translation>
+    </message>
+    <message>
+        <source>More
+Functions</source>
+        <translation>Diğer
+İşlevler</translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
+        <translation>Ad
+Yöneticisi</translation>
+    </message>
+    <message>
+        <source>Lookup and
+Reference</source>
+        <translation>Arama ve
+Başvuru</translation>
+    </message>
+    <message>
+        <source>Recalculate
+Workbook</source>
+        <translation>Çalışma Kitabını
+Yeniden Hesapla</translation>
     </message>
 </context>
 <context>
@@ -14722,6 +15110,204 @@ Kitaplığı</translation>
         <source>Online Textbox</source>
         <translation>Şablon Metin Kutusu</translation>
     </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Belgeyi Böl/Birleştir</translation>
+    </message>
+    <message>
+        <source>Remove Middle Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert text to the back</source>
+        <translation>Metni Sona Ekle</translation>
+    </message>
+    <message>
+        <source>Rename worksheets</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Vurgu İşlevi</translation>
+    </message>
+    <message>
+        <source>Set Reject Insert Repeat Items</source>
+        <translation>Yinelenen Öğeler Eklemeyi Reddet</translation>
+    </message>
+    <message>
+        <source>Et_ToolBox_Tips</source>
+        <translation>Tablolar için zengin özelliklere sahip araç seti ile iş verimliliğinizi artırın.</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Parantez İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Matematik Denklemi</translation>
+    </message>
+    <message>
+        <source>Remove space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fill Blank Cells</source>
+        <translation>Boş Hücreleri Doldur</translation>
+    </message>
+    <message>
+        <source>Remove Trailing Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Betik işlevi</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>İşleç İşlevi</translation>
+    </message>
+    <message>
+        <source>Insert text to the beginning</source>
+        <translation>Metni Başa Ekle</translation>
+    </message>
+    <message>
+        <source>Query Enterprise</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Skill</source>
+        <translation>Beceriler</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Matris İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Radikal İşlev</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Büyük İşleç İşlevi</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Ara</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Kenarlık İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Limit İşlevi</translation>
+    </message>
+    <message>
+        <source>Remove trailing spaces</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert text into the middle</source>
+        <translation>Metni Ortaya Ekle</translation>
+    </message>
+    <message>
+        <source>Et_ToolBox_Title</source>
+        <translation>Akıllı Araç Kutusu</translation>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation>Akıllı Asistan</translation>
+    </message>
+    <message>
+        <source>Remove leading spaces</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert text</source>
+        <translation>Metin Ekle</translation>
+    </message>
+    <message>
+        <source>Create table directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Grup İşlevi</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Gizli Olarak İşaretle</translation>
+    </message>
+    <message>
+        <source>Smart Organize</source>
+        <translation>Elektronik Tablo Düzenleme ve Güzelleştirme</translation>
+    </message>
+    <message>
+        <source>Et ToolBox</source>
+        <translation>Akıllı Araç 
+Kutusu</translation>
+    </message>
+    <message>
+        <source>Remove leading Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove all spaces</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To Float Picture</source>
+        <translation>Yüzen Resim için</translation>
+    </message>
+    <message>
+        <source>Sort worksheets</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input Numeric Sequence</source>
+        <translation>Sayı Dizisi Girişi</translation>
+    </message>
+    <message>
+        <source>Smart Chart Ai</source>
+        <translation>Akıllı Analitik</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>İşlevler</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Kesir İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Dizi İşlevi</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Çizgi İşlevi</translation>
+    </message>
+    <message>
+        <source>Delete Blank Table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Task
+Window</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands</name>
@@ -15405,6 +15991,22 @@ Boyacısı</translation>
         <source>Sign Out</source>
         <translation>Oturumu Kapat</translation>
     </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Num2Text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>EtTools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Text2Num</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -15960,6 +16562,10 @@ Taşı</translation>
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists, please change the name.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Record JS Macro</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -16717,6 +17323,24 @@ Boyutu</translation>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Görüntüdeki metinleri metin biçimine dönüştürün</translation>
+    </message>
+    <message>
+        <source>Compress
+Pictures</source>
+        <translation>Resimleri
+Sıkıştır</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Görüntü formatındaki dosyaları toplu olarak PDF&apos;ye dönüştürün</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_data</name>
@@ -17040,6 +17664,10 @@ Yönet</translation>
         <source>Merge worksheets</source>
         <translation>Çalışma sayfalarını birleştir</translation>
     </message>
+    <message>
+        <source>Split Merge</source>
+        <translation>Böl/Birleştir</translation>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -17274,6 +17902,14 @@ Yönet</translation>
     <message>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation>Yedekleme dosyalarını &quot;%1&quot; konumuna yazma izniniz yok.</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18079,6 +18715,50 @@ Kontrol Et</translation>
         <source>Online Textbox</source>
         <translation>Şablon Metin Kutusu</translation>
     </message>
+    <message>
+        <source>Et_ToolBox_Tips</source>
+        <translation>Tablolar için zengin özelliklere sahip araç seti ile iş verimliliğinizi artırın.</translation>
+    </message>
+    <message>
+        <source>Et_ToolBox_Title</source>
+        <translation>Akıllı Araç Kutusu</translation>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation>Akıllı Asistan</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Export</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Et ToolBox</source>
+        <translation>Akıllı Araç Kutusu</translation>
+    </message>
+    <message>
+        <source>Ds Webshape Edit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Set</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ds Webshape Del</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -18608,6 +19288,10 @@ Kutusu</translation>
     <message>
         <source>More Symbols</source>
         <translation>Diğer Simgeler</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Resimden Metne</translation>
     </message>
 </context>
 <context>
@@ -19361,6 +20045,10 @@ Yakınlaştırma</translation>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
     </message>
+    <message>
+        <source>Printing Settings</source>
+        <translation>Yazıcı Ayarları</translation>
+    </message>
 </context>
 <context>
     <name>et_et_persist</name>
@@ -19812,6 +20500,34 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <translation>WPS Elektronik Tablo 2007/2010 Dosyaları(*.etx)</translation>
     </message>
+    <message>
+        <source>The following features of your workbook are not going to be saved in UOF Spreadsheets:
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> · JS project
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+ Do you continue to save it as UOF Spreadsheets ?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Spreadsheets Files(*.pxls)|*.pxls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Spreadsheets Files(*.hxls)|*.hxls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The selected cells are empty, please select again</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgInsertFunction</name>
@@ -20104,6 +20820,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>No Changes</source>
         <translation>Değişiklik Yok</translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20846,6 +21574,10 @@ Item Labels</source>
     <message>
         <source>Document Permission</source>
         <translation>Belge İzni</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21728,6 +22460,38 @@ Bu doğru ise, İleri&apos;yi ya da verinize en uygun veri türünü seçin.</tr
         <source>Set as default table style for this document</source>
         <translation>Bu belge için varsayılan tablo stili olarak ayarla</translation>
     </message>
+    <message>
+        <source>Hovered Unselected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hovered Selected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unselected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hovered Unselected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unselected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected Item with Data</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hovered Selected Item with no Data</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -22250,6 +23014,10 @@ Change the reference to a single cell, or use the reference with a worksheet fun
         <source>%s items meet the requirement of the combined condition in %d records</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>InvalidColumn</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>et_et_render</name>
@@ -22311,6 +23079,11 @@ Change the reference to a single cell, or use the reference with a worksheet fun
     <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
         <translation>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</translation>
+    </message>
+    <message>
+        <source>No Format Set</source>
+        <comment>TX_UNDEF_FINDFMT</comment>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -28735,6 +29508,227 @@ Denetimi</translation>
         <source>Database Query</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Hide White Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Yld </source>
+        <translation>Getiri</translation>
+    </message>
+    <message>
+        <source>is the number or string specifying when weekends occur.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Settlement </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the security&apos;s maturity date, expressed as a serial date number. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract &lt;b&gt;%1&lt;/b&gt; to grid</source>
+        <translation>&lt;b&gt;%1&lt;/b&gt; öğesini kılavuza ayıkla</translation>
+    </message>
+    <message>
+        <source>ref1,ref2,... are 1 to 253 ranges or references for which you want the aggregate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the security&apos;s price per $100 face value.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Package</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Modification of DDE or OLE has Failed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a population.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Frequency </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the string representing the number you want to convert.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the number 1 to 19 that specifies the summary funcion for the aggregate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is a decimal number.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the security&apos;s settlement date, expressed as a serial date number.  </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the integer to use the denominator os the fraction.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Layout View is not compatible with Freeze Panes. If you continue, the panes on this sheet will be unfrozon, Would you like to continue?</source>
+        <translation>Sayfa Düzeni Görünümü Bölmeleri Dondur seçeneğiyle uyumlu değil. Devam ederseniz, bu sayfadaki bölmeler çözülecek. Devam etmek istiyor musunuz?</translation>
+    </message>
+    <message>
+        <source>number1, number2, ... are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coupon </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the character used as the group separator in the string.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the number 0 to 7 that specifies the value to ignore for the aggregate.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ignore nothing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the number of nonweekend and non-holiday days before or after start_date.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Maturity </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>We need help with this text. Click the ? icon to resolve (Ctrl+Shift+F5)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>A string to be URL encoded.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the character used as the decimal separator in the string.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please don&apos;t select entire row or entire column.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is a number expressed as a fraction.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show White Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is a reference to the cell you want to test. Reference can be a cell reference, a formula, or a name that refers to a cell.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the number of coupon payments per year. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sorry, you has no permission to read &quot;%s&quot;. 
+
+Please check the login account. If the account is correct, please ask the document owner or team administrator for document permissions.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>0 indicates showing clipped image
+1 indicates showing full image.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot find &quot;%s&quot;. Please check the file name's spelling, and make sure the file location is correct.If it is a shared document, please confirm that the document is still in the share.
+
+If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Display_type</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the name of the image inserted.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Image_name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left section </source>
+        <comment>TX_CHECKSPELLING_FROMLEFTFOOTER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format Cells</source>
+        <comment>TX_SETDLGCAPTION_EDIT</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Number</source>
+        <comment>TX_ParaDesc_103</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Width</source>
+        <comment>TX_COL_WIDTH</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TX_BOTTOM_MARGIN</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Center section </source>
+        <comment>TX_CHECKSPELLING_FROMCENTERFOOTER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Height</source>
+        <comment>TX_ParaInfo_024</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right section </source>
+        <comment>TX_CHECKSPELLING_FROMRIGHTFOOTER</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unprotect Book</source>
+        <comment>TX_BookUnProtectDlgTitle</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the value at which to evaluate the function, a nonnegative number.</source>
+        <comment>TX_ParaDesc_435</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
+        <comment>TX_ParaDesc_267</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_359</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxEtSubWindow</name>
@@ -30647,6 +31641,15 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <source>Drop Column Fields Here</source>
         <translation>Sütun Alanlarını Buraya Bırakın</translation>
     </message>
+    <message>
+        <source>Could not get data. Verify that the network link is normal or that the URL is correct</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The text you entered is not a valid reference or defined name.</source>
+        <comment>et_sIllegalInput</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxStyleDlg</name>
@@ -31036,1561 +32039,6 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation>Koyu Stil 2-Vurgu 3/Vurgu 4</translation>
     </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>GAMMALN_GRAMMER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>GAMMALN_SYNTAX</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_CANNOT_HIDE_SELECTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_CannotHideSelected</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ssDesc_ET_</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ssDesc_ET_Save</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_080</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_090</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_392</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_206</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_332</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>shortHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>OMath</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_AutoInput_NumberFrom1MonTo7Sun</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_AutoInput_NumberFromMonToSun</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ssDesc_AllET_</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ssDesc_ET2003_</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>NewName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_NEWBLANKFILECAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_TPNEWBLANKFILECAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_272</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_295</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_321</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_DESC_CopyPaste_MultiRange_ET</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Noncontinue_Selected_Sheets_Cannot_Insert_Sheet</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_154</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_218</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_255</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_445</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VARP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_SUBTOTAL_VARP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SUBTOTAL_VARP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ERROR_MERGECELLINSORT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_MergedCell_InRange</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>NORMDOTSDOTDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>NORMSDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_065</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_066</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_105</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_275</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_462</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_190</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_202</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_102</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_147</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_125</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_154</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_140</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_309</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_058</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_229</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_231</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_237</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_313</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_317</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_322</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_326</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_024</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SizeTip_Row</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PageNumberString1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PageNumberString1_</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_BoldItalic</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_BoldItalic2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_BoldItalic3</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_BoldItalic_</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sClose</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sCloseDialog</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SUBTOTAL_COUNTNUMS</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_034</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_035</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_479</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_227</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_235</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_239</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_254</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_305</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_032</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_034</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_035</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_283</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_239</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_242</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_036</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_422</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Italic1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Italic2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Italic3</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_COL_WIDTH</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_088</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SizeTip_Col</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_BookUnProtectDlgTitle</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_BookUnProtectHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_073</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_084</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_087</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_088</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_095</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_098</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_177</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_180</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_296</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_341</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ZoomBox_Selection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_389</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_393</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>FREAD_SYNTAX</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>FWRITE_SYNTAX</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_241</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_347</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_243</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_349</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_197</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_240</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_359</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_395</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_UNDEF_FINDFMT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_UNDEF_FMT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_DeletePageBreak</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_RemovePageBreak</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sErrorBadRange</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sNumberOutof1and32767</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sBadValue</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sEmptyentry</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sNeedIntegerOrDecimal</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sRequireNumber</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_SUBTOTAL_COUNTN_SEED</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_SUBTOTAL_COUNT_SEED</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_AutoInput_NumberFrom1SunTo7Sat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_AutoInput_NumberFromSunToSat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_FLTR_ORDER_ASC</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_STR_ORDR_ASC</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_176</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_179</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_New_Sheet_Name</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ShareWorkbook_ListChanges_Sheet</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_242</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_348</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_196</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_197</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_385</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_624</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Linux Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Windows Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ssDesc_Xls_</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ssDesc_Xls_Save</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_247</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_310</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_GRANDTOTAL_PivotChart</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_LABEL_GRAND</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_LABEL_GRAND2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SUBTOTAL_SUM2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_326</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_329</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_155</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_219</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_480</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_FIELD</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_STR_FIELD</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_004</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_007</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaType_410</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PageNumberString2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PageNumberString2_</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Corrupt_FormulaArray</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ERROR_ArrayFormula</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ERROR_Array_PartChange</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_TextToColumns_Tip3</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>NORMDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>NORMDOTDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Bold1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Bold2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Bold3</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Bold5</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Fill</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SheetUnProtect</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SheetUnProtectHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_189</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_201</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_063</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_403</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_246</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_307</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_20P_ACCENT_2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_40P_ACCENT_4</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_SetPrintArea</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_SetPrintAreas</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_350</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_547</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_099</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_101</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_201</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_209</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_243</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEV</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_SUBTOTAL_STDDEV</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SUBTOTAL_STDEV</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_MERGESHEET_REPORT_State</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SOLVER_STATUS</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_467</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_023</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_026</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_NEWFILEFROMTEMPLATECAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_TPNEWFILEFROMTEMPLATECAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>PERMUT_DESCRIPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>PERMUT_REMARK</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CanNotEdit4CoopMode</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CanNotEdit_TOAST</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ERROR_INVALID_REFERENCE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Hyperlink_Cannot_OpenRef</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_208</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_241</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_446</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_455</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_452</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_465</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_AVERAGE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_SUBTOTAL_AVERAGE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SUBTOTAL_AVERAGE</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sDlgCustomAutoFilter_DoesNotEqual</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sNotEqual</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_20P_ACCENT_3</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_40P_ACCENT_5</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_188</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_200</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_292</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_318</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_079</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_082</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_083</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_116</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_226</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_236</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_376</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_AutoInput_Integer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_409</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_043</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_259</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_145</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_149</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>PERMUT_GRAMMER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>PERMUT_SYNTAX</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_439</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_474</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_475</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_PRODUCT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_SUBTOTAL_PRODUCT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SUBTOTAL_PRODUCT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_BOTTOM_MARGIN</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_009</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_184</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_185</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_MERGESHEET_REPORT_Sheet</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SOLVER_WORKSHEET</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDataForm_NoValue</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDataForm_NotRange</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_553</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_567</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>NORMDOTINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>NORMINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sBadConfirmationPassword</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sConfirmError</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_20P_ACCENT_4</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_40P_ACCENT_2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_293</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_320</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_077</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_458</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_570</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEVP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_SUBTOTAL_STDDEVP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SUBTOTAL_STDEVP</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_074</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_075</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_076</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_255</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_352</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_449</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_450</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_025</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_387</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>PopupFillSeries</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sNormal</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sStyleNormal</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CHECKSPELLING_FROMRIGHTFOOTER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CHECKSPELLING_FROMRIGHTHEADER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_260</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_295</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_327</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_406</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_AutoFilter_Analysis_ColumnLabel</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PivotTable_Consolidate_ColField</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SortParam_KeyName_Column</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_TableDefaultColumnName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_FormulaBarInsertFunction</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_Function</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_RELATION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_STR_RELATION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sBadZoomValue</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>et_sErrorBadZoom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_349</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_546</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_20P_ACCENT_5</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_40P_ACCENT_3</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>STR_STYLE_60P_ACCENT_1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CHECKSPELLING_FROMLEFTFOOTER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CHECKSPELLING_FROMLEFTHEADER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>SoundOrMovie</comment>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
@@ -32697,451 +32145,6 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation>Koyu Stil 2-Vurgu 3/Vurgu 4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_178</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_181</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_259</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_266</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_Paste</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Undo_PasteName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SOLVER_ITERATIONS</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SOLVER_ITERATIONS_TIMES</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PivotTable_Consolidate_RowField</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SortParam_KeyName_Row</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_212</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_220</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_323</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_327</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CHECKSPELLING_FROMCENTERFOOTER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_CHECKSPELLING_FROMCENTERHEADER</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_024</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_027</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOTTABLE_ListFormula_Item</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_Sharepoint_FSObjType_Item</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_081</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_091</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_363</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>ChartLegend</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>FillLeft</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>OMath</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_FLTR_ORDER_DESC</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDBE_STR_ORDR_DESC</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_074</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_085</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_096</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_099</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_100</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_108</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_212</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_144</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_160</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_112</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_133</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_134</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_143</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_069</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_384</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_260</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_264</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_370</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_157</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_159</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_031</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_032</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_444</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_468</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_103</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_045</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_047</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_048</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_139</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_161</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_173</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_261</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_321</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>FuncCatName12</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>FuncCatName18</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PIVOT_VALUES</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_PivotTable_Values</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_104</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_238</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDataForm_ArraryFormula</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ETDataFrom_ArraryFormula</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_122</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_131</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_156</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_164</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_248</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_308</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_DESC_APP_NAME</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_191</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_271</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_294</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaDesc_302</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Regular1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_FontName_Regular2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SETDLGCAPTION_EDIT</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_SETEDITCAPTION</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_067</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TX_ParaInfo_289</comment>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -33404,6 +32407,10 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
         <source>The target cell contains a pivot table, Text to Columns can&apos;t be continued</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Please enter the content of the split rules</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxBatchCalculateDlg</name>
@@ -33508,6 +32515,18 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     </message>
     <message>
         <source>Choose a cell</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Return Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Already exceeded the scope, please select the cell of the original workbook</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -34026,6 +33045,10 @@ tıklayın.</translation>
     </message>
     <message>
         <source>Fill value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a string to insert</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -35259,6 +34282,31 @@ Dondur</translation>
         <source>Delete Legend</source>
         <translation>Göstergeyi Sil</translation>
     </message>
+    <message>
+        <source>Insert Function</source>
+        <comment>TX_Undo_FormulaBarInsertFunction</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>TX_Undo_ClearAll</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove Page Break</source>
+        <comment>TX_Undo_DeletePageBreak</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Page Break</source>
+        <comment>TX_Undo_InsertPageBreak</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set Print Area</source>
+        <comment>TX_Undo_SetPrintArea</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgPivotTop10Filter</name>
@@ -35640,6 +34688,10 @@ Dondur</translation>
         <source>Widening Margins</source>
         <translation>Kenar Boşluklarını Genişlet</translation>
     </message>
+    <message>
+        <source>Vertical</source>
+        <translation>Dikey Metin Kutusu</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgConsolidate</name>
@@ -35799,6 +34851,10 @@ Dondur</translation>
         <source>&amp;Username:</source>
         <translation>&amp;Kullanıcı Adı:</translation>
     </message>
+    <message>
+        <source>Data Source:</source>
+        <translation>Veri Kaynağı:</translation>
+    </message>
 </context>
 <context>
     <name>customfilterdlg</name>
@@ -35931,6 +34987,14 @@ Dondur</translation>
     <message>
         <source>Exporting document attachments...</source>
         <translation>Belge ekleri dışa aktarılıyor...</translation>
+    </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36209,6 +35273,10 @@ Bu çalışma kitabı açıldığında WPS Elektronik Tablolar&apos;ın tüm for
     </message>
     <message>
         <source>Headers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to reference content from WPS security documents.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -36833,6 +35901,11 @@ Efektleri</translation>
     <message>
         <source>Followed Hyperlink</source>
         <translation>İzlenen Köprü</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <comment>TX_FontName_BoldItalic</comment>
+        <translation>Kalın Italik</translation>
     </message>
 </context>
 <context>
@@ -37759,6 +36832,14 @@ Açık/Kapalı</translation>
     <message>
         <source>Cherokee</source>
         <translation>Çerokice</translation>
+    </message>
+    <message>
+        <source>Euro (Euro 123)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Euro (123 Euro)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -40012,6 +39093,10 @@ n</translation>
         <source>Slim details</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>security warning: JS macros and automatic update links have been disabled.</source>
+        <translation>Güvenlik uyarısı: JS makroları ve otomatik güncelleme bağlantıları devre dışı bırakıldı.</translation>
+    </message>
 </context>
 <context>
     <name>KxCFNewFormattingRuleDlg</name>
@@ -40825,6 +39910,26 @@ with same name in workbooks</source>
     <message>
         <source>Merge worksheets</source>
         <translation>Çalışma sayfalarını birleştir</translation>
+    </message>
+    <message>
+        <source>Remove Space</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Div</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Add</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Sub</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Batch Mul</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -41792,6 +40897,10 @@ Dilimleyiciler bu sürümde desteklenmemektedir. Lütfen WPS Ofis&apos;in en son
     <message>
         <source>C&amp;ollate</source>
         <translation>&amp;Harmanla</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -45855,6 +44964,10 @@ Number of values that were not replaced because they are in read-only rich data:
         <source>Alignment</source>
         <translation>Hizalama</translation>
     </message>
+    <message>
+        <source>Format Slicer Element</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxFormatFormControlTextDlg</name>
@@ -46824,6 +45937,11 @@ Tara</translation>
     <message>
         <source>Document security</source>
         <translation>Belge güvenliği</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Dosyaları Topluca 
+Yeniden Adlandır</translation>
     </message>
 </context>
 <context>
@@ -50095,6 +49213,10 @@ Düzeni</translation>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
+    <message>
+        <source>You can choose from three different ways to connect to your chosen data source.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PreviewPage</name>
@@ -52156,6 +51278,10 @@ Kontrol Et</translation>
         <source>Normal Encryption</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Gizli Olarak İşaretle</translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToOFD</name>
@@ -52460,6 +51586,18 @@ Kontrol Et</translation>
     </message>
     <message>
         <source>high price, low price, closing price. </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -53710,6 +52848,10 @@ Do you want to change to Manual?</source>
         <source>Professional</source>
         <translation>Profesyonel</translation>
     </message>
+    <message>
+        <source>Accent</source>
+        <translation>Vurgu</translation>
+    </message>
 </context>
 <context>
     <name>KxEditAxisLableDlg</name>
@@ -53774,6 +52916,18 @@ Do you want to change to Manual?</source>
         <source>Connection error:
 </source>
         <translation>Bağlantı hatası:
+</translation>
+    </message>
+    <message>
+        <source>%1)
+SQL State: %2
+Error: %3
+%4
+</source>
+        <translation>%1)
+SQL Durum Kodu: %2
+Hata Kodu: %3
+%4
 </translation>
     </message>
 </context>
@@ -54081,6 +53235,21 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
         <source>The model is Loading...</source>
         <translation>Model Yükleniyor...</translation>
     </message>
+    <message>
+        <source>The model Loaded fail...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>There is no recommend chart according to your selection range, may be:
+
+There is no number as well as the text cannot be summaried.
+Data cross different sheets.
+Contain large ammount of cells.
+Include defined names.
+
+Alternativly, you can click the left-side pane if you want to switch to other chart type.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxSolverResultDlg</name>
@@ -54180,6 +53349,14 @@ Tamam&apos;a tıklayın ve sonra Değeri Aşağıdaki Hücreden Al kutusundan bi
     <message>
         <source>font color</source>
         <translation>Renk</translation>
+    </message>
+    <message>
+        <source>Filter Conditions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cell back ground color</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -54563,6 +53740,14 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
         <source>OFD File(*.ofd)|*.ofd</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxEtDlgWEDataSource</name>
@@ -54614,6 +53799,18 @@ Seçim altındaki hücreleri genişletmeniz ve aynı hücreleri toplu olarak bir
     <name>KxBackupSettingTipWidgetBase</name>
     <message>
         <source>What is Auto Roaming</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -55167,6 +54364,14 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source>This Workbook</source>
         <translation>Bu Çalışma Kitabı</translation>
     </message>
+    <message>
+        <source>Assign %1 Macro</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 &amp;Macro name</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWidgetPatterns</name>
@@ -55286,12 +54491,20 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source>Dialog</source>
         <translation>İletişim Kutusu</translation>
     </message>
+    <message>
+        <source>&amp;Enter the sparkline weight</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgSLEditSingle</name>
     <message>
         <source>Dialog</source>
         <translation>İletişim Kutusu</translation>
+    </message>
+    <message>
+        <source>Select a source &amp;data range for the sparkline</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -55614,6 +54827,10 @@ Please unfreeze pane.</source>
         <source>Sparkline Date Range</source>
         <translation>Mini Grafik Tarih Aralığı</translation>
     </message>
+    <message>
+        <source>Select the range that contains the data values for the Sparkline data</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxBackgroundQueryMonitorUI</name>
@@ -55696,6 +54913,10 @@ Please unfreeze pane.</source>
     </message>
     <message>
         <source>Enter the maximum value for the vertical axis</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sparkline Vertical Axis Setting</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -56863,38 +56084,32 @@ Düzenle</translation>
     </message>
 </context>
 <context>
-    <name/>
+    <name>KxFileNotFoundFileDlg</name>
     <message>
-        <source/>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>KxSLEditSingleDlg</name>
     <message>
-        <source/>
+        <source>Edit Sparkline Data</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>KxSLCustomLineWeightDlg</name>
     <message>
-        <source/>
+        <source>Sparkline Weight</source>
         <translation type="unfinished"/>
     </message>
+</context>
+<context>
+    <name>KxEtMoreOrientationCommand</name>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Format Cells Alignment...</source>
+        <translation>Hücre Hizalamasını Biçimlendir</translation>
     </message>
 </context>
 </TS>
