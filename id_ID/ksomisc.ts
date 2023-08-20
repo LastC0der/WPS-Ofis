@@ -101,6 +101,18 @@
         <source>Do not &amp;update automatically (not recommended)</source>
         <translation>Jangan perbarui secara otomatis (tidak disarankan) (&amp;p)</translation>
     </message>
+    <message>
+        <source>Association settings when upgrading: </source>
+        <translation>Pengaturan asosiasi selama peningkatan:</translation>
+    </message>
+    <message>
+        <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
+        <translation>Periksa asosiasi file selama peningkatan dan perbaiki secara otomatis untuk membuka file dengan WPS secara default</translation>
+    </message>
+    <message>
+        <source>Upgrade package download acceleration:</source>
+        <translation>Tingkatkan akselerasi pengunduhan paket:</translation>
+    </message>
 </context>
 <context>
     <name>KSwitchAllInOneDlg</name>
@@ -163,6 +175,14 @@
     <message>
         <source>Old Multi-Component Mode</source>
         <translation>Mode Multi-Komponen seperti 2016</translation>
+    </message>
+    <message>
+        <source>Switching WPS Office to %1</source>
+        <translation>Mengalihkan WPS Office ke %1</translation>
+    </message>
+    <message>
+        <source>You are already in this mode, no need to switch.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -275,6 +295,10 @@
     <message>
         <source>Privacy policy</source>
         <translation>Kebijakan privasi</translation>
+    </message>
+    <message>
+        <source>Proxy Settings</source>
+        <translation>Pengaturan Proksi</translation>
     </message>
 </context>
 <context>
@@ -491,6 +515,30 @@ Operasi ini dapat dibatalkan. </translation>
         <source>Compat Setting</source>
         <translation>Pengaturan Compat</translation>
     </message>
+    <message>
+        <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
+        <translation>Centang kotak di bawah ini: jika dipilih, file yang ditentukan akan dibuka oleh %1. Jika tidak, file yang ditentukan akan dibuka oleh aplikasi terkait yang asli.</translation>
+    </message>
+    <message>
+        <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
+        <translation>Jika Anda memilih opsi di bawah, %1 akan menyimpan dokumen terkait dalam format yang dipilih berikut. Jika tidak, dokumen akan disimpan dalam format %1.</translation>
+    </message>
+    <message>
+        <source>Open the following software with Kingsoft PDF by default:</source>
+        <translation>Buka perangkat lunak berikut dengan WPS PDF secara default:</translation>
+    </message>
+    <message>
+        <source>Pdf Document(*.pdf)</source>
+        <translation>Dokumen PDF(*.pdf)</translation>
+    </message>
+    <message>
+        <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
+        <translation>Jika Anda memilih opsi di bawah ini, objek dokumen yang ditanamkan akan dibuka oleh %1. %1 juga dapat ditanamkan ke perangkat lunak atau sistem pihak ketiga seperti browser IE dan OA.</translation>
+    </message>
+    <message>
+        <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
+        <translation>Di sini Anda dapat mengatur %1 sebagai alat default untuk membuka file umum, atau memulihkan asosiasi file asli, atau menyimpan file dalam format umum. Setelah pengaturan, klik OK untuk mengonfirmasi asosiasi file Anda. Operasi ini dapat dibalik.</translation>
+    </message>
 </context>
 <context>
     <name>KPageRebuild</name>
@@ -621,6 +669,24 @@ Operasi ini dapat dibatalkan. </translation>
     <message>
         <source>Reset plugins</source>
         <translation>Reset plugin</translation>
+    </message>
+    <message>
+        <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
+        <translation>Jika tombol toolbar tercampur, tutup semua aplikasi %1 dan klik tombol di bawah untuk mengembalikan bar alat ke keadaan semula. Diterapkan setelah Anda memulai ulang WPS.</translation>
+    </message>
+    <message>
+        <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
+        <translation>Hilangnya komponen dalam pendaftaran sistem dapat menyebabkan kesalahan saat menggunakan %1, seperti tidak dapat memulai aplikasi lain. Klik tombol di bawah untuk mencoba memperbaikinya. Diterapkan setelah Anda memulai ulang WPS.</translation>
+    </message>
+    <message>
+        <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation>%1 jika terjadi pematian otomatis atau sebagian dari fungsionalitas plug-in tidak tersedia, ini mungkin akibat dari instalasi plug-in yang tidak lengkap. Klik tombol di bawah untuk mencoba memperbaiki kesalahan. Diterapkan setelah Anda memulai ulang WPS.</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Pdf
+</source>
+        <translation> Gagal mendaftarkan WPS PDF.
+</translation>
     </message>
 </context>
 <context>
@@ -1175,6 +1241,10 @@ Operasi ini dapat dibatalkan. </translation>
         <source>Some files is in use, please save and close. Then try again.</source>
         <translation>Beberapa file sedang digunakan, silakan simpan dan tutup. Lalu coba lagi.</translation>
     </message>
+    <message>
+        <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
+        <translation>Nonaktifkan perlindungan eksekusi data (DEP) (perlu memulai ulang WPS setelah pengaturan) (&amp;C)</translation>
+    </message>
 </context>
 <context>
     <name>KLinkInfoList</name>
@@ -1326,6 +1396,22 @@ Operasi ini dapat dibatalkan. </translation>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation>Menggunakan WPS Office Cloud untuk kolaborasi kerja tim.</translation>
     </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation>Gunakan WPS PDF untuk membaca dan mengedit dokumen PDF.</translation>
+    </message>
+    <message>
+        <source>Use WPS Official to edit and play presentations.</source>
+        <translation>Gunakan WPS Official Document untuk menulis laporan dan mengatur tata letak artikel.</translation>
+    </message>
+    <message>
+        <source>Link to network to update Kingsoft PDF</source>
+        <translation>Hubungkan ke jaringan untuk meningkatkan WPS PDF</translation>
+    </message>
+    <message>
+        <source>WPS Cloud USB Drive</source>
+        <translation>Disk WPS Cloud USB</translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -1377,6 +1463,20 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
         <source>Start &amp;Repairing</source>
         <translation>Mulai Perbaikan (&amp;P)</translation>
     </message>
+    <message>
+        <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
+        <translation>Jika Anda menemukan kesalahan apa pun saat menggunakan %1, seperti kesalahan program yang sedang berjalan atau toolbar, tutup semua aplikasi %1 dan klik tombol Mulai Memperbaiki di bawah. Kami akan melakukan yang terbaik untuk memperbaiki aplikasi dan mengembalikannya ke status aktif default.</translation>
+    </message>
+    <message>
+        <source>General Repair/Configuration Tools
+You can fix the errors encountered when using %1 or make advanced settings here.</source>
+        <translation>
+Anda dapat memperbaiki kesalahan yang ditemui saat menggunakan %1 atau buat pengaturan lanjutan di sini.</translation>
+    </message>
+    <message>
+        <source>%1 General Repair/Configuration Tools</source>
+        <translation>Alat Perbaikan/Konfigurasi Umum %1</translation>
+    </message>
 </context>
 <context>
     <name>KPageBackUpClr</name>
@@ -1419,6 +1519,10 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
         <translation>File Cadangan WPS Presentation (&amp;P)</translation>
+    </message>
+    <message>
+        <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
+        <translation>Untuk melindungi keamanan dokumen, %1 telah membuat file cadangan yang memadai untuk file asli Anda di beberapa lokasi. Sekarang Anda dapat menghapus file cadangan untuk menghemat ruang disk.</translation>
     </message>
 </context>
 <context>
@@ -1529,6 +1633,10 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <message>
         <source>DOC Documentation</source>
         <translation>Dokumentasi DOC</translation>
+    </message>
+    <message>
+        <source>New PDF</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1655,6 +1763,14 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
         <source>Kingsoft Mobi</source>
         <translation>Kingsoft Mobi</translation>
     </message>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation>WPS PDF Profesional</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation>Gunakan WPS PDF untuk membaca dan mengedit dokumen PDF.</translation>
+    </message>
 </context>
 <context>
     <name>KFunctionCustomization</name>
@@ -1681,6 +1797,14 @@ Anda dapat memperbaiki kesalahan yang ditemukan saat menggunakan WPS Office atau
     <message>
         <source>Disable template recommend.</source>
         <translation>Nonaktifkan rekomendasi templat.</translation>
+    </message>
+    <message>
+        <source>Hide cloud shellext.</source>
+        <translation>Sembunyikan item menu file WPS Cloud.</translation>
+    </message>
+    <message>
+        <source>Hide vas shellext.</source>
+        <translation>Sembunyikan item menu fitur ekstensi WPS.</translation>
     </message>
 </context>
 <context>
@@ -1954,41 +2078,6 @@ Perhatikan bahwa melakukannya akan menghadapkan Anda pada risiko infeksi virus d
     <message>
         <source>New document tips</source>
         <translation>Kiat-kiat dokumen baru</translation>
-    </message>
-</context>
-<context>
-    <name/>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
