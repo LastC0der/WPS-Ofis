@@ -2,37 +2,29 @@
 <!DOCTYPE TS>
 <TS version="2.1">
 <context>
-    <name></name>
+    <name>KLauncherWidgetClass</name>
     <message>
-        <source></source>
+        <source>WPS Presentation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>WPS Writer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>Create desktop shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>WPS Spreadsheets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>Welcome to WPS Office</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source></source>
+        <source>KLauncherWidget</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

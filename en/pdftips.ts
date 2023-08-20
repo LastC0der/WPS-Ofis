@@ -2272,35 +2272,99 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>ViewFitSwitch.title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>OcrArea.content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>AlignJustify.content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>NewPDFBatchPrint.content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>PdfPictureToText.content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>TwoPageScrolling.content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>SinglePageScrolling.content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>TwoPageScrolling.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ShowFloatToolBar.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OcrArea.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ShowFloatToolBar.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TwoPageView.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CustomRotateDegree.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CustomRotateDegree.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PdfPictureToText.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BatchRename.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewPDFBatchPrint.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ViewFitSwitch.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SinglePageScrolling.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BatchRename.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SinglePageView.content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AlignJustify.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SinglePageView.title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TwoPageView.title</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

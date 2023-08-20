@@ -3772,35 +3772,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>PCLaTeXEquation.title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>BatchRename.title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
+        <source>PCLaTeXEquation.content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source></source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source></source>
+        <source>BatchRename.content</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
