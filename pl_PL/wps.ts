@@ -65,6 +65,10 @@
         <source>Encl&amp;osure:</source>
         <translation>Z&amp;ałącznik:</translation>
     </message>
+    <message>
+        <source>印</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
@@ -262,6 +266,10 @@
     <message>
         <source>&amp;Substituted font:</source>
         <translation>Podstaw czcionkę (&amp;S):</translation>
+    </message>
+    <message>
+        <source>more online fonts</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2258,6 +2266,73 @@ Zaakceptuj wszystkie recenzje </translation>
         <source>No line between</source>
         <translation>Bez rozdzielenia linią</translation>
     </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections.</source>
+        <translation>Górne/dolne marginesy są za duże pod kątem wysokości strony w niektórych sekcjach.</translation>
+    </message>
+    <message>
+        <source>Switching column/row will result in the following changes in the table, sure to continue?</source>
+        <translation>Przełączanie kolumny/wiersza spowoduje następujące zmiany w arkuszu (spreadsheet). Czy kontynuować tę operację?</translation>
+    </message>
+    <message>
+        <source>Need Help?</source>
+        <translation>Potrzebujesz pomocy?</translation>
+    </message>
+    <message>
+        <source>Custom </source>
+        <translation>Rozmieszczenie wierszy</translation>
+    </message>
+    <message>
+        <source>
+· Delete all %s</source>
+        <translation>
+· Usuń %s</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the text box.</source>
+        <comment>_TxFind_ReachBeginningOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>_TxNothing</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>TxRevision_Pap_Top</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Pap_Bottom</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxRevision_Pap_Auto</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_Left</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>TxRevision_Pap_Center</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reached the end of the text box.</source>
+        <comment>_TxFind_ReachEndOfTextFrames</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_Right</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgOptions</name>
@@ -3637,6 +3712,74 @@ Zaakceptuj wszystkie recenzje </translation>
         <source>WhenSelected</source>
         <translation>Tylko zaznaczone</translation>
     </message>
+    <message>
+        <source>Spell</source>
+        <translation>Pisownia</translation>
+    </message>
+    <message>
+        <source>Spelling and Grammar</source>
+        <translation>Pisownia i gramatyka</translation>
+    </message>
+    <message>
+        <source>Keep cache for</source>
+        <translation>Przechowuj tylko najnowsze pozycje</translation>
+    </message>
+    <message>
+        <source>Check forms:</source>
+        <translation>Tryb serwisowy:</translation>
+    </message>
+    <message>
+        <source>English modes:</source>
+        <translation>Tryb sprawdzania tekstu w języku angielskim:</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation>Sprawdzanie online</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>Sprawdzanie offline</translation>
+    </message>
+    <message>
+        <source>Keep files cache</source>
+        <translation>Okres przechowywania</translation>
+    </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation>Oznaczenie domeny oficjalnego dokumentu:</translation>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation>Pokaż domenę oficjalnego dokumentu (brak cienia)</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission</source>
+        <translation>Uprawnienie do druku</translation>
+    </message>
+    <message>
+        <source>&amp;entries</source>
+        <translation>&amp;wpisy</translation>
+    </message>
+    <message>
+        <source>Permit to add co&amp;mments</source>
+        <translation>Pozwól na dodawanie komentarzy</translation>
+    </message>
+    <message>
+        <source>Folder:</source>
+        <translation>Lokalizacja kopii zapasowej:</translation>
+    </message>
+    <message>
+        <source>Formatted text</source>
+        <translation>Sformatowany tekst</translation>
+    </message>
+    <message>
+        <source>Use CTRL + Click t&amp;o follow hyperlink</source>
+        <translation>CTRL + kliknięcie śl&amp;edzi hiperłącze</translation>
+    </message>
+    <message>
+        <source>Balance &amp;SBCS characters and DBCS characters</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgZoom</name>
@@ -3865,6 +4008,106 @@ Zaakceptuj wszystkie recenzje </translation>
     <message>
         <source>Document &amp;Id:</source>
         <translation>&amp;Id dokumentu:</translation>
+    </message>
+    <message>
+        <source>Secret &amp;Level:</source>
+        <translation>Poziom poufny (&amp;P):</translation>
+    </message>
+    <message>
+        <source>Post &amp;Unit:</source>
+        <translation>Podmiot wydający (&amp;D):</translation>
+    </message>
+    <message>
+        <source>Public Release</source>
+        <translation>Opublikuj</translation>
+    </message>
+    <message>
+        <source>Publication &amp;levels:</source>
+        <translation>Publikacja hierarchii (&amp;L):</translation>
+    </message>
+    <message>
+        <source>UrgencyPlus</source>
+        <translation>Pilne</translation>
+    </message>
+    <message>
+        <source>Inform</source>
+        <translation>Powiadomienie</translation>
+    </message>
+    <message>
+        <source>TopSecret</source>
+        <translation>Ściśle poufne</translation>
+    </message>
+    <message>
+        <source>Resolution</source>
+        <translation>Decyzja</translation>
+    </message>
+    <message>
+        <source>Custom &amp;Fields:</source>
+        <translation>Niestandardowe pole (&amp;U):</translation>
+    </message>
+    <message>
+        <source>Request Instruction</source>
+        <translation>Prośba o instrukcję</translation>
+    </message>
+    <message>
+        <source>Urgency2</source>
+        <translation>Zwykłe</translation>
+    </message>
+    <message>
+        <source>Barcode &amp;Version:</source>
+        <translation>Kod QR, identyfikator wersji (&amp;V):</translation>
+    </message>
+    <message>
+        <source>Minutes Of Meeting</source>
+        <translation>Protokoły ze spotkania</translation>
+    </message>
+    <message>
+        <source>&amp;Document:</source>
+        <translation>Oficjalny dokument (&amp;F):</translation>
+    </message>
+    <message>
+        <source>Offical Reply</source>
+        <translation>Odpowiedź</translation>
+    </message>
+    <message>
+        <source>Written &amp;Date:</source>
+        <translation>Data wygenerowania dokumentu (&amp;C):</translation>
+    </message>
+    <message>
+        <source>SubmitTo &amp;Unit:</source>
+        <translation>Główny odbiorca (&amp;S):</translation>
+    </message>
+    <message>
+        <source>Urgency</source>
+        <translation>Pilna dostawa</translation>
+    </message>
+    <message>
+        <source>&amp;Journals:</source>
+        <translation>Typ oficjalnego dokumentu lub nazwa dziennika (&amp;J):</translation>
+    </message>
+    <message>
+        <source>Document Barcode Information</source>
+        <translation>Oficjalny dokument, informacje dotyczące kodu QR</translation>
+    </message>
+    <message>
+        <source>MostUrgency</source>
+        <translation>Najbardziej pilne</translation>
+    </message>
+    <message>
+        <source>Express</source>
+        <translation>Bardzo pilne</translation>
+    </message>
+    <message>
+        <source>&amp;SecrecyPeriod:</source>
+        <translation>Okres poufności (&amp;E):</translation>
+    </message>
+    <message>
+        <source>Urgency Level:</source>
+        <translation>Poziom pilności:</translation>
+    </message>
+    <message>
+        <source>Barcode &amp;Id:</source>
+        <translation>Kod QR ID (&amp;N):</translation>
     </message>
 </context>
 <context>
@@ -5962,6 +6205,21 @@ Anuluj:	Wróć do okna dialogowego.</translation>
         <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
         <translation>Pokaż Poziom 1,Pokaż Poziom 2,Pokaż Poziom 3,Pokaż Poziom 4,Pokaż Poziom 5,Pokaż Poziom 6,Pokaż Poziom 7,Pokaż Poziom 8,Pokaż Poziom 9,Pokaż wszystkie poziomy</translation>
     </message>
+    <message>
+        <source>Selected text</source>
+        <comment>wps_sSelectedText</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Selected sections</source>
+        <comment>wps_sSelectedSections</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>wps_sTable</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxDlgCombineCharacters</name>
@@ -6742,6 +7000,74 @@ Anuluj:	Wróć do okna dialogowego.</translation>
         <source>When building up other n-ary operators,</source>
         <translation>Przy budowie innych operatorów n-arnych,</translation>
     </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation>Umieść granice całki z &amp;boku</translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation>&amp;Wyrównaj zawinięte wiersze do prawej</translation>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation>Umieść g&amp;ranice n-arne z boku</translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation>Skopiuj MathML do schowka jako prosty tekst (&amp;P)</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>Domyślna &amp;czcionka dla wzorów matematycznych:</translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation>&amp;Justowanie:</translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation>Marginesy wyrażeń matematycznych są dodawane do marginesów akapitu.</translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>Linie p&amp;odziału z operatorami binarnymi i relacyjnymi:</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation>Skopiuj format liniowy do schowka jako prosty tekst (&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation>&amp;Użyj następujących ustawień w wyrażeniach matematycznych w osobnym wierszu.</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>Centrowanie jako grupa</translation>
+    </message>
+    <message>
+        <source>Display Math</source>
+        <translation>Wyświetlaj wzory matematyczne</translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation>&amp;Zmniejsz zagnieżdżone ułamki w wyświetlanych równaniach</translation>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation>Wyrażenia matematyczne zawinięte do nowego wiersza:</translation>
+    </message>
+    <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation>Umieść gra&amp;nice n-arne powyżej i poniżej</translation>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation>W&amp;cięcie zawiniętych wierszy na:</translation>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation>Umieść granice całki po&amp;wyżej i poniżej</translation>
+    </message>
 </context>
 <context>
     <name>CWpsTableStyle</name>
@@ -6820,96 +7146,6 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteMatchingFormat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteMatchingFormat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_InsPageNumber</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_InsertPageNumber</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxMailMerge_NoRecordExecute</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNotNumberRange</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNumberOutofRange1</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sValidValue</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sAdvancedMode</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sLess</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_NewFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7017,431 +7253,6 @@ Anuluj:	Wróć do okna dialogowego.</translation>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
         <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>shortHint</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Cell</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Color_Auto</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Auto</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_SpaceAuto</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>border</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>shading</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_FinishSearchingDoc</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_FinishSearchingDoc2</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteFormatedText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteFormatedText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>OMathMat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_ShadingColor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_TableShadingColor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sBracketNone</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sUnderlineNone</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sThisPointFor</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sThisPointForward</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Personal Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Professional Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sApplyWholeDocument</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sWhileDocument</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Key_Overtype</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Key_Type</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Typing</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_ReachEndOfHeaderFooterTextFrames</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxFind_ReachEndOfTextFrames</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateMsgBox_BeforeSaveOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateMsgBox_UnsavedOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Chp_Not</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Sep_Not</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Bop_Top</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Top</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Sep_Top</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_PasteOriginFormattedPopupMenu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_PasteOriginFormattedPopupMenu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxDesc_DataSource_AllDataSourceEx</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Bop_Bottom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Bottom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Sep_Bottom</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateBkContent_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateWidgetText_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateMsgBox_BeforeSaveOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialModeTemplateMsgBox_UnsavedOkBtn</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Chp_SnapToGrid</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_SnapToGrid</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sMarginsOrColumenSpacingLarge</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxBalloon_RevisionDeletedShortTip</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_ContentControlDelete</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Delete</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_None</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxNothing</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateBkContent_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxOfficialTemplateWidgetText_HIssuer</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_NewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_NewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_TaskpaneNewBlankFile</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sClose</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sCloseDialog</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCrossRefType_Table</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sTable</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>rainbow</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Table</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sMore</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNotAdvancedMode</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Linux Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Windows Version</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_Centered</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxRevision_Pap_TabStopsCentered</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelSection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelectedSections</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sBrowseFind</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sFind</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxCaption_Paste</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxEdit_PasteDefault</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxHint_Paste</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_Paste</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sBorderDistanceFromText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>OMathMatOrEqArr</comment>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8308,6 +8119,10 @@ przycisku</translation>
         <source>Select All</source>
         <translation>Zaznacz wszystko</translation>
     </message>
+    <message>
+        <source>Add Unit</source>
+        <translation>Dodaj jednostkę</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgBarcodeTips</name>
@@ -8318,6 +8133,14 @@ przycisku</translation>
     <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected units?</source>
+        <translation>Czy na pewno chcesz usunąć wybrane jednostki?</translation>
+    </message>
+    <message>
+        <source>Error Tips</source>
+        <translation>Wskazówki dotyczące błędu</translation>
     </message>
 </context>
 <context>
@@ -8464,6 +8287,18 @@ przycisku</translation>
     <message>
         <source>Minimum distan&amp;nce between column edges:</source>
         <translation>Minimalna odległ&amp;ość między krawędziami kolumn:</translation>
+    </message>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation>Wyrównanie i rozmieszczenie %1</translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation>Wyrównanie %1</translation>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation>Minimalna odległość pomiędzy liniami bazowymi (&amp;M):</translation>
     </message>
 </context>
 <context>
@@ -8703,6 +8538,10 @@ przycisku</translation>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
+    <message>
+        <source>Are you sure to delete page number template?</source>
+        <translation>Czy na pewno chcesz usunąć szablon numeru strony?</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsOfficialSettings</name>
@@ -8870,6 +8709,30 @@ przycisku</translation>
         <source>New Template</source>
         <translation>Nowy szablon</translation>
     </message>
+    <message>
+        <source>This deletion cannot be undone.</source>
+        <translation>Nie można cofnąć tej operacji usunięcia.</translation>
+    </message>
+    <message>
+        <source>Cannot rename, delete or edit this template. You may have opened it in another application or file tab.</source>
+        <translation>Nie udało się zmienić nazwy szablonu, usunąć go ani edytować. Być może otworzono go w innej aplikacji lub na innej stronie zakładki.</translation>
+    </message>
+    <message>
+        <source>New Name:</source>
+        <translation>Nazwa szablonu:</translation>
+    </message>
+    <message>
+        <source>This template has been tampered with and cannot be entered into design mode for editing. It is recommended that you delete it and redesign.</source>
+        <translation>Manipulowano tym szablonem i nie można go edytować w trybie projektu. Zaleca się usunięcie i przeprojektowanie.</translation>
+    </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Importuj szablon</translation>
+    </message>
+    <message>
+        <source>Template Corrupt</source>
+        <translation>Szablon jest uszkodzony.</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsSmartPageNumPane</name>
@@ -8998,6 +8861,11 @@ przycisku</translation>
     <message>
         <source>Don&apos;t ask again</source>
         <translation>Nie pytaj ponownie</translation>
+    </message>
+    <message>
+        <source>This is a WPS Official document. It will be opened in 
+ &quot;Official Doc Layout&quot; mode to keep its original layout.</source>
+        <translation>To WPS official document. W celu zachowania oryginalnego układu jest otwarty w układzie oficjalnego dokumentu.</translation>
     </message>
 </context>
 <context>
@@ -11006,6 +10874,34 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
         <source>Preview:</source>
         <translation>Podgląd:</translation>
     </message>
+    <message>
+        <source>TemplateName:</source>
+        <translation>Nazwa:</translation>
+    </message>
+    <message>
+        <source>New Official Page Number Template</source>
+        <translation>Nowy oficjalny dokument, szablon numeru strony</translation>
+    </message>
+    <message>
+        <source>Insert into the document when create</source>
+        <translation>Wprowadź numery stron do tego dokumentu podczas jego tworzenia</translation>
+    </message>
+    <message>
+        <source>ShowFirstPage:</source>
+        <translation>Nr pierwszej strony:</translation>
+    </message>
+    <message>
+        <source>WhiteSpaceSize:</source>
+        <translation>Rozmiar białej spacji:</translation>
+    </message>
+    <message>
+        <source>RLDistance:</source>
+        <translation>Odległość od lewej/prawej krawędzi:</translation>
+    </message>
+    <message>
+        <source>TopDistance:</source>
+        <translation>Odległość od krawędzi:</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSettingsWidget</name>
@@ -11416,6 +11312,14 @@ Aby zamienić tylko wybrane rekordy, kliknij przycisk Zamień w oknie nawigacji.
         <source>%1(Disabled)</source>
         <translation>%1(dezaktywowano)</translation>
     </message>
+    <message>
+        <source>Mail Config</source>
+        <translation>Konfiguracja e-mail</translation>
+    </message>
+    <message>
+        <source>Send mail b&amp;y</source>
+        <translation>Wysyłaj wiadomości e-mail za pośrednictwem następującego klienta (&amp;Y)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgReplaceManualContent</name>
@@ -11438,6 +11342,10 @@ Aby zamienić tylko wybrane rekordy, kliknij przycisk Zamień w oknie nawigacji.
     <message>
         <source>Cannot create automatic table of contents since no heading style or outline level has been set. </source>
         <translation>Nie można automatycznie utworzyć spisu treści. Nie ustawiono żadnych stylów nagłówków ani poziomów konspektu.</translation>
+    </message>
+    <message>
+        <source>The following preview content is generated by WPS Intelligent Identification, do you want to insert?</source>
+        <translation>Następujący katalog podglądu zostaje wygenerowany poprzez funkcję inteligentnego rozpoznania dokumentu WPS. Czy wstawić katalog?</translation>
     </message>
 </context>
 <context>
@@ -11799,6 +11707,38 @@ Please try one of the following.
 Spróbuj wykonać jedną z następujących czynności:
 • Przełącz się do konta innego użytkownika.
 • Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Format tekst/Word (*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>WuKuang Core Encrypted Document Files(*.hdoc)|*.hdoc</source>
+        <translation>Podstawowy szyfrowany plik, format (*.hdoc)|*.hdoc</translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <translation>Znaki końca stron wklejone we wzorach zostaną utracone.</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</source>
+        <translation>Format tekst/Word (*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.uot)</translation>
+    </message>
+    <message>
+        <source>Normal Template Damaged</source>
+        <translation>Ten plik szablonu jest uszkodzony.</translation>
+    </message>
+    <message>
+        <source>WuKuang Normal Encrypted Document Files(*.pdoc)|*.pdoc</source>
+        <translation>Normalny szyfrowany plik, format (*.pdoc)|*.pdoc</translation>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <translation>Oznaczenia akapitu lub znaki łamania wklejone w obiektach matematycznych ulegną utraceniu.</translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <translation>Obiekty graficzne wklejone we wzorach zostaną utracone.</translation>
     </message>
 </context>
 <context>
@@ -14053,6 +13993,26 @@ zamień</translation>
         <source>Line Spacing</source>
         <translation>Interlinia</translation>
     </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Punktory szablonu</translation>
+    </message>
+    <message>
+        <source>HVFont Size</source>
+        <translation>Rozmiar czcionki w orientacji poziomej/pionowej</translation>
+    </message>
+    <message>
+        <source>Search Computer</source>
+        <translation>Lokalne wyszukiwanie</translation>
+    </message>
+    <message>
+        <source>Smart Official</source>
+        <translation>Konwersja inteligentnego oficjalnego dokumentu</translation>
+    </message>
+    <message>
+        <source>Official Font Name</source>
+        <translation>Czcionka</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_smartartformattool</name>
@@ -14520,6 +14480,10 @@ tekstu</translation>
     <message>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation>Kierunek pionowy</translation>
     </message>
 </context>
 <context>
@@ -14997,6 +14961,10 @@ tekstowe</translation>
     <message>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Punktory szablonu</translation>
     </message>
 </context>
 <context>
@@ -17966,6 +17934,82 @@ pisowni</translation>
         <source>Smooth Point</source>
         <translation>Punkt gładki</translation>
     </message>
+    <message>
+        <source>Search Material</source>
+        <translation>Wyszukaj materiał</translation>
+    </message>
+    <message>
+        <source>Accept Formatting Changes</source>
+        <translation>Zaakceptuj zmiany formatowania</translation>
+    </message>
+    <message>
+        <source>Reject Formating Changes</source>
+        <translation>Odrzuć zmiany formatowania</translation>
+    </message>
+    <message>
+        <source>Identify Text in Picture</source>
+        <translation>Wyodrębnij tekst z obrazu</translation>
+    </message>
+    <message>
+        <source>Column Alignment</source>
+        <translation>Wyrównanie kolumny</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation>Zwiększ rozmiar argumentu</translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation>Zmniejsz rozmiar argumentu</translation>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Rozmiar czcionki w orientacji pionowej</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Rozmiar czcionki w orientacji poziomej</translation>
+    </message>
+    <message>
+        <source>Line Spacing:</source>
+        <translation>Interlinia:</translation>
+    </message>
+    <message>
+        <source>Matrix Spacing...</source>
+        <translation>Przestrzeń matrycy...</translation>
+    </message>
+    <message>
+        <source>Border Properties</source>
+        <translation>Właściwości granicy</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation>Znak rozciąg. n-argument</translation>
+    </message>
+    <message>
+        <source>Right Format Painter Popup</source>
+        <translation>Ciągły malarz formatów</translation>
+    </message>
+    <message>
+        <source>Expand to Object Width</source>
+        <translation>Rozszerz do szerokości obiektu</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation>Usuń indeks górny</translation>
+    </message>
+    <message>
+        <source>Equation Array Spacing...</source>
+        <translation>Strzałka równania, przestrzeń...</translation>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation>Wyrównaj w</translation>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation>Usuń indeks dolny</translation>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands</name>
@@ -19800,6 +19844,138 @@ pisowni</translation>
         <source>Online Textbox</source>
         <translation>Szablon pola tekstowego</translation>
     </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Podgląd efektu OFD</translation>
+    </message>
+    <message>
+        <source>JdeControl Popup Menu</source>
+        <translation>Menu sterowania Jde</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Dzielenie i scalanie dokumentów</translation>
+    </message>
+    <message>
+        <source>Center Algin</source>
+        <translation>Wyrównaj do środka</translation>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>Funkcja akcentu</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>Funkcja nawiasów</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>Równanie matematyczne</translation>
+    </message>
+    <message>
+        <source>Document Barcode Properties</source>
+        <translation>Właściwości kodu QR</translation>
+    </message>
+    <message>
+        <source>Equation Multi Equations Popup Menu</source>
+        <translation>Równanie matematyczne</translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>Funkcja indeksu</translation>
+    </message>
+    <message>
+        <source>WPS Writer Official Template</source>
+        <translation>Szablon WPS Official Document</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>Funkcja operatora</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Oficjalny dokument, kod QR</translation>
+    </message>
+    <message>
+        <source>TpConfidentialityLevelKeyWord</source>
+        <translation>Sprawdź słowa kluczowe poziomu poufnego</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>Funkcja macierzy</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>Funkcja pierwiastka</translation>
+    </message>
+    <message>
+        <source>Right Algin</source>
+        <translation>Wyrównaj do prawej</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>Funkcja dużego operatora</translation>
+    </message>
+    <message>
+        <source>Left Algin</source>
+        <translation>Wyrównaj do lewej</translation>
+    </message>
+    <message>
+        <source>HelpDocSearch</source>
+        <translation>Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>Funkcja krawędzi</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>Funkcja limitu</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>Funkcja grupy</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation>LaTeX</translation>
+    </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Oznacz jako poufne</translation>
+    </message>
+    <message>
+        <source>page number recommend style</source>
+        <translation>Nr strony szablonu</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>Funkcje</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>Funkcja ułamka</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>Funkcja strzałki</translation>
+    </message>
+    <message>
+        <source>Align Adjustify</source>
+        <translation>Wyrównaj i wyjustuj</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>Funkcja linii</translation>
+    </message>
+    <message>
+        <source>Global Center Algin</source>
+        <translation>Wyrównaj globalnie do środka</translation>
+    </message>
+    <message>
+        <source>Insert Endnote</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWordCountDlgClass</name>
@@ -20581,6 +20757,42 @@ formatów</translation>
         <source>Sign Out</source>
         <translation>Wyloguj się</translation>
     </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation>Korekta nieprawidłowego słowa</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Podgląd efektu OFD</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation>Korekta, lider</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation>Korekta reduplikowanego słowa</translation>
+    </message>
+    <message>
+        <source>VFont Size</source>
+        <translation>Rozmiar czcionki w orientacji pionowej</translation>
+    </message>
+    <message>
+        <source>HFont Size</source>
+        <translation>Rozmiar czcionki w orientacji poziomej</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>PDF do CAD</translation>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation>Korekta wrażliwego słowa</translation>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation>Korekta interpunkcji</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetTpSpellCheck</name>
@@ -20650,6 +20862,10 @@ formatów</translation>
     <message>
         <source>Text in %1 is not being checked. Do you want to add it as a proofreading language?</source>
         <translation>Tekst w %1 nie jest sprawdzany. Czy chcesz go dodać jako język korekty?</translation>
+    </message>
+    <message>
+        <source>Use the new version features</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21015,6 +21231,10 @@ formatów</translation>
     <message>
         <source>Export PDF File</source>
         <translation>Eksportuj plik PDF</translation>
+    </message>
+    <message>
+        <source>After setting, the output is online security PDF document, please open it with PDF Security version.</source>
+        <translation>Po dokonaniu ustawień uzyskać można dokument PDF bezpieczeństwa online. Otwórz go wraz z wersją PDF Security.</translation>
     </message>
 </context>
 <context>
@@ -23721,6 +23941,97 @@ styl</translation>
         <source>Show/Hide Formatting Marks</source>
         <translation>Pokaż/Ukryj znaczniki formatowania</translation>
     </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</source>
+        <translation>Wszystkie dokumenty WPS Writer (*.wps; *.wpt; *.uot) | *.wps; *.wpt; *.uot; |</translation>
+    </message>
+    <message>
+        <source>Give the file some content before transfer. Or you can open another file and try again.</source>
+        <translation>Nie udało się skonwertować pustego elementu. Wprowadź treść lub otwórz inny dokument i spróbuj ponownie.</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Page</source>
+        <translation>Dopasuj do strony</translation>
+    </message>
+    <message>
+        <source>FontName And FontSize</source>
+        <translation>Czcionka i jej rozmiar</translation>
+    </message>
+    <message>
+        <source>Put Custom Line Spacing</source>
+        <translation>Rozmieszczenie wierszy</translation>
+    </message>
+    <message>
+        <source>Custom Page Size</source>
+        <translation>Rozmiar niestandardowy</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview Fit Width</source>
+        <translation>Dopasuj szerokość</translation>
+    </message>
+    <message>
+        <source>Insert Official Glossary</source>
+        <translation>Wstaw oficjalny dokument, elementy</translation>
+    </message>
+    <message>
+        <source>Insert Document Barcode</source>
+        <translation>Wstaw kod QR oficjalnego dokumentu</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt; |</source>
+        <translation>Wszystkie dokumenty WPS Writer (*.wps; *.wpt)</translation>
+    </message>
+    <message>
+        <source>OfficialToNormal</source>
+        <translation>Oficjalny dokument do standardowego dokumentu</translation>
+    </message>
+    <message>
+        <source>Your file is under protection. Please do the following to unprotect it and retry:
+Go to Review - Task Pane - Restrict Editing, and click &quot;Stop Protection&quot;.</source>
+        <translation>Twój dokument jest objęty ochroną. Wykonaj poniższe kroki, aby anulować ochronę i spróbuj ponownie:
+Przejdź do Recenzja – Okienko zadań – Ograniczenia edytowania i kliknij „Wyłącz ochronę”.</translation>
+    </message>
+    <message>
+        <source>Transpose Table</source>
+        <translation>Przełącz wiersz/kolumnę</translation>
+    </message>
+    <message>
+        <source>Modify Document Barcode</source>
+        <translation>Modyfikuj oficjalny dokument, kod QR</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add rows and columns</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxVersion_Paste</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>TxVersion_InsertPageNumber</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <comment>TxVersion_InsertTable</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Apply Table Style</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Typing</source>
+        <comment>TxVersion_Key_Type</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>classics.3dsettings</name>
@@ -25237,6 +25548,10 @@ komórki</translation>
         <source>Custom</source>
         <translation>Niestandardowy</translation>
     </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Importuj szablon</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -25459,6 +25774,14 @@ komórki</translation>
     <message>
         <source>Create Online Document</source>
         <translation>Utwórz dokument online</translation>
+    </message>
+    <message>
+        <source>New Wps Document</source>
+        <translation>Nowy tekst</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation>Format wyjściowy jako PPTX</translation>
     </message>
 </context>
 <context>
@@ -26805,6 +27128,10 @@ strony</translation>
         <source>Right-to-le&amp;ft</source>
         <translation>Od prawej do l&amp;ewej</translation>
     </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Rozmieszczenie wierszy</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTablePositioning</name>
@@ -27629,110 +27956,6 @@ tryb projektowania</translation>
         <source>Switch to JS</source>
         <translation>Przełącz się na JS</translation>
     </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sApplyThisSection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sThisSection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_StylesAndFormatting_Caption</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_StylesAndFormatting_DisplayName</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sInvalidInt</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sNotValidFontSize</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxTooltip_TSCS</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>_TxTcscConvert</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelectText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sSelectedText</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_FormatPainter</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_PasteFormat</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TXOMath_ButtonCancel</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TXWps_SwitchButtonCancel</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>Menu</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sErrorStart</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>wps_sStartAtError</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_ChangeTextDirection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>TxVersion_SetTextDirection</comment>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <comment>SoundOrVedio</comment>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>KxContentListEntriesDlg</name>
@@ -27782,6 +28005,10 @@ tryb projektowania</translation>
     <message>
         <source>select all</source>
         <translation>Zaznacz wszystko</translation>
+    </message>
+    <message>
+        <source>Management keyword</source>
+        <translation>Zarządzaj słowami kluczowymi</translation>
     </message>
 </context>
 <context>
@@ -28918,6 +29145,10 @@ zaznaczenia</translation>
         <source>Save as ty&amp;pe:</source>
         <translation>Zapisz jako ty&amp;p:</translation>
     </message>
+    <message>
+        <source>Open fol&amp;der after merge</source>
+        <translation>Otwórz katalog nowego dokumentu po scaleniu (&amp;D)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgMergeToEmail</name>
@@ -29166,6 +29397,10 @@ zaznaczenia</translation>
     <message>
         <source>Enter page numbers and/or page ranges separated by commas. For example, 1,3,5-12.</source>
         <translation>Wprowadź numery i/lub zakresy stron oddzielone przecinkami. Na przykład: 1,3,5-12.</translation>
+    </message>
+    <message>
+        <source>set sy info(&amp;S)</source>
+        <translation>Ustaw informacje o źródle</translation>
     </message>
 </context>
 <context>
@@ -30583,6 +30818,18 @@ obrazu</translation>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Skonwertuj teksty na obrazie na format tekstowy</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Przetłumacz teksty na obrazie na język angielski/chiński lub z niego</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Zbiorcza konwersja obrazów do PDF</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools_vml</name>
@@ -31142,6 +31389,18 @@ przezroczysty</translation>
         <source>Align Top</source>
         <translation>Wyrównaj do góry</translation>
     </message>
+    <message>
+        <source>Convert Text in Picture</source>
+        <translation>Skonwertuj teksty na obrazie na format tekstowy</translation>
+    </message>
+    <message>
+        <source>Text Translation in Image</source>
+        <translation>Przetłumacz teksty na obrazie na język angielski/chiński lub z niego</translation>
+    </message>
+    <message>
+        <source>Picture Batch to PDF</source>
+        <translation>Zbiorcza konwersja obrazów do PDF</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -31341,6 +31600,10 @@ Window</source>
         <translation>Nowe 
 okno</translation>
     </message>
+    <message>
+        <source>ComposeAssist</source>
+        <translation>Asystent pisania</translation>
+    </message>
 </context>
 <context>
     <name>KxCaptionNumberDlg</name>
@@ -31486,6 +31749,14 @@ okno</translation>
     <message>
         <source>&amp;Timing Backup</source>
         <translation>&amp;Cykliczna kopia zapasowa</translation>
+    </message>
+    <message>
+        <source>Keep backup cache file days must be between %1 and %2!</source>
+        <translation>Okres przechowywania plików kopii zapasowej musi wynosić pomiędzy %1 oraz %2.</translation>
+    </message>
+    <message>
+        <source>This will delete all backup files in your computer. Sure to delete ?</source>
+        <translation>Czy na pewno chcesz usunąć wszystkie lokalne pliki kopii zapasowej?</translation>
     </message>
 </context>
 <context>
@@ -31834,6 +32105,10 @@ treści</translation>
     <message>
         <source>Gridlines</source>
         <translation>Linie siatki</translation>
+    </message>
+    <message>
+        <source>Docer Bullet</source>
+        <translation>Punktory szablonu</translation>
     </message>
 </context>
 <context>
@@ -32537,6 +32812,50 @@ wyboru</translation>
         <source>Failed to copy file</source>
         <translation>Kopiowanie pliku nie powiodło się</translation>
     </message>
+    <message>
+        <source>Document had been protected</source>
+        <translation>W przypadku tego dokumentu występują ograniczenia dotyczące edycji. Dezaktywuj ograniczenia dotyczące edycji w prawym pasku bocznym i zaimportuj ponownie.</translation>
+    </message>
+    <message>
+        <source>No export permissions, please use another system user account and try again</source>
+        <translation>Brak uprawnień do eksportu. Przełącz się na inne konto użytkownika systemu i spróbuj ponownie.</translation>
+    </message>
+    <message>
+        <source>UnImport</source>
+        <translation>Import nie powiódł się.</translation>
+    </message>
+    <message>
+        <source>template(s) failed import;</source>
+        <translation> Nie udało się zaimportować szablonów.</translation>
+    </message>
+    <message>
+        <source>ImportFaildList_</source>
+        <translation>Importuj listę niepowodzeń_</translation>
+    </message>
+    <message>
+        <source>No read and write permissions, please turn it on in &quot;Properties&quot; - &quot;Permissions&quot;, or use another system user account and try again</source>
+        <translation>Brak uprawnień do zapisu/odczytu. Aktywuj uprawnienia w sekcji „Właściwości” – „Pozwolenia” lub przełącz się na inne konto użytkownika systemu i spróbuj ponownie.</translation>
+    </message>
+    <message>
+        <source>succeeded</source>
+        <translation> Szablony zaimportowane pomyślnie.</translation>
+    </message>
+    <message>
+        <source>template(s) failed import</source>
+        <translation> Nie udało się zaimportować szablonów.</translation>
+    </message>
+    <message>
+        <source>GotoNew</source>
+        <translation>Przejdź do tworzenia</translation>
+    </message>
+    <message>
+        <source>succeeded import</source>
+        <translation>Zaimportowano</translation>
+    </message>
+    <message>
+        <source>Not a Official Document</source>
+        <translation>Dokumenty zapisane w nieoficjalnym trybie zapisywania dokumentu nie są obsługiwane.</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsFormatProperty_Effects</name>
@@ -33001,6 +33320,10 @@ strony</translation>
         <source>Total of Y Page</source>
         <translation>Łącznie Y strona</translation>
     </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Oficjalny dokument, kod QR</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetTpXMLStructure</name>
@@ -33053,6 +33376,10 @@ można zastosować własne elementy XML.</translation>
         <source>Form</source>
         <translation>Formularz</translation>
     </message>
+    <message>
+        <source>error details</source>
+        <translation>Przyczyna błędu</translation>
+    </message>
 </context>
 <context>
     <name>KxMergeToEmailDlg</name>
@@ -33071,6 +33398,18 @@ można zastosować własne elementy XML.</translation>
     <message>
         <source>WPS Writer</source>
         <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Email application is not available. Please choose anther email application</source>
+        <translation>Klient poczty e-mail jest nieprawidłowy. Wybierz ponownie.</translation>
+    </message>
+    <message>
+        <source>Email account is not available. Please reconfigure another account</source>
+        <translation>Konto poczty e-mail jest nieprawidłowe. Wybierz ponownie.</translation>
+    </message>
+    <message>
+        <source>Email account has not been configured. Please setup an email account</source>
+        <translation>E-mail nieskonfigurowany. Przed użyciem skonfiguruj e-mail.</translation>
     </message>
 </context>
 <context>
@@ -33106,6 +33445,32 @@ można zastosować własne elementy XML.</translation>
     <message>
         <source>TextLabel</source>
         <translation>Etykieta tekstowa</translation>
+    </message>
+    <message>
+        <source>Searching, Has Searched %1Content</source>
+        <translation>Wyszukiwanie...znaleziono %1 elementów.</translation>
+    </message>
+    <message>
+        <source>End Search</source>
+        <translation>Zamknij wyszukiwanie</translation>
+    </message>
+    <message>
+        <source>Found %1</source>
+        <translation>Znaleziono %1 elementów.</translation>
+    </message>
+    <message>
+        <source>Quickly find local documents
+Support title, content</source>
+        <translation>Szybkie znajdowanie lokalnych dokumentów
+Pomoc w znajdowaniu tytułu i części głównej</translation>
+    </message>
+    <message>
+        <source>TypeFilter:</source>
+        <translation>Typ pliku:</translation>
+    </message>
+    <message>
+        <source>Search Path:</source>
+        <translation>Wyszukaj folder:</translation>
     </message>
 </context>
 <context>
@@ -33465,6 +33830,54 @@ strony</translation>
         <source>More Symbols</source>
         <translation>Więcej symboli</translation>
     </message>
+    <message>
+        <source>Bottom Line Script(Multi Angency)</source>
+        <translation>Artykuł malejąco (wiele instytucji)</translation>
+    </message>
+    <message>
+        <source>Document Parts</source>
+        <translation>Części oficjalnego dokumentu</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Multi Angency)</source>
+        <translation>Artykuł rosnąco (wiele instytucji)</translation>
+    </message>
+    <message>
+        <source>2 Rows Editions</source>
+        <translation>Podwójny wiersz, znak edycji</translation>
+    </message>
+    <message>
+        <source>Insert Vertical</source>
+        <translation>Wstaw stronę pionowo</translation>
+    </message>
+    <message>
+        <source>Top Line</source>
+        <translation>Górny dzielnik</translation>
+    </message>
+    <message>
+        <source>Normal Line</source>
+        <translation>Wspólny dzielnik</translation>
+    </message>
+    <message>
+        <source>Single Row Edition</source>
+        <translation>Pojedynczy wiersz, znak edycji</translation>
+    </message>
+    <message>
+        <source>Insert Horizontal</source>
+        <translation>Wstaw stronę poziomo</translation>
+    </message>
+    <message>
+        <source>5 points Star Line</source>
+        <translation>5-pkt. gwiazda, dzielnik</translation>
+    </message>
+    <message>
+        <source>Top Line Script(Single Angency)</source>
+        <translation>Artykuł rosnąco (jedna instytucja)</translation>
+    </message>
+    <message>
+        <source>Bottom Line Script(Single Angency)</source>
+        <translation>Artykuł malejąco (jedna instytucja)</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_workspace</name>
@@ -33724,6 +34137,14 @@ telefon</translation>
     <message>
         <source>Document security</source>
         <translation>Zabezpieczenia dokumentów</translation>
+    </message>
+    <message>
+        <source>BatchRename</source>
+        <translation>Wsadowa zmiana nazwy plików</translation>
+    </message>
+    <message>
+        <source>Picture to PDF</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -34253,6 +34674,50 @@ telefon</translation>
     <message>
         <source>Online Textbox</source>
         <translation>Szablon pola tekstowego</translation>
+    </message>
+    <message>
+        <source>Proofread Wrong</source>
+        <translation>Korekta nieprawidłowego słowa</translation>
+    </message>
+    <message>
+        <source>Proofread Leader</source>
+        <translation>Korekta, lider</translation>
+    </message>
+    <message>
+        <source>Proofread Repeate</source>
+        <translation>Korekta reduplikowanego słowa</translation>
+    </message>
+    <message>
+        <source>Insert LaTeX Equation</source>
+        <translation>Używaj LaTeX, aby szybko tworzyć i wstawiać wzory.</translation>
+    </message>
+    <message>
+        <source>DocerFeature</source>
+        <translation>Inteligentny asystent</translation>
+    </message>
+    <message>
+        <source>PDFTOCad</source>
+        <translation>PDF do CAD</translation>
+    </message>
+    <message>
+        <source>ExportToPpt</source>
+        <translation>Format wyjściowy jako PPTX</translation>
+    </message>
+    <message>
+        <source>PCLatexEquation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Proofread Sens</source>
+        <translation>Korekta wrażliwego słowa</translation>
+    </message>
+    <message>
+        <source>Proofread Punc</source>
+        <translation>Korekta interpunkcji</translation>
+    </message>
+    <message>
+        <source>PCLaTeXEquation</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -36241,6 +36706,66 @@ Anuluj:	Powrót do okna dialogowego.</translation>
         <source>The search path is not valid</source>
         <translation>Ścieżka wyszukiwania jest nieprawidłowa</translation>
     </message>
+    <message>
+        <source>File Size(Low)</source>
+        <translation>Rozmiar pliku (od większego do mniejszego)</translation>
+    </message>
+    <message>
+        <source>Open file by local</source>
+        <translation>Otwórz lokalnie oryginalny plik</translation>
+    </message>
+    <message>
+        <source>Searching, Has Searched %1Content</source>
+        <translation>Wyszukiwanie...znaleziono %1 elementów.</translation>
+    </message>
+    <message>
+        <source>No search cache file exists locally</source>
+        <translation>Nie znaleziono lokalnie pliku pamięci podręcznej.</translation>
+    </message>
+    <message>
+        <source>End Time</source>
+        <translation>Godzina zakończenia</translation>
+    </message>
+    <message>
+        <source>Search parameter error</source>
+        <translation>Błąd parametru wyszukiwania</translation>
+    </message>
+    <message>
+        <source>The search string is not valid</source>
+        <translation>Słowo kluczowe wyszukiwania jest nieprawidłowe.</translation>
+    </message>
+    <message>
+        <source>Update Time(Up)</source>
+        <translation>Aktualizuj czas (od najdalszego do najbliższego)</translation>
+    </message>
+    <message>
+        <source>Found %1</source>
+        <translation>Znaleziono %1 elementów.</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation>Godzina rozpoczęcia</translation>
+    </message>
+    <message>
+        <source>Update Time(Low)</source>
+        <translation>Aktualizuj czas (od najbliższego do najdalszego)</translation>
+    </message>
+    <message>
+        <source>Limit 20 words in the current input box</source>
+        <translation>Wpisz maksymalnie 20 znaków do obecnego pola wprowadzania</translation>
+    </message>
+    <message>
+        <source>File Size(Up)</source>
+        <translation>Rozmiar pliku (od mniejszego do większego)</translation>
+    </message>
+    <message>
+        <source>Search cache process failed</source>
+        <translation>Proces przeszukiwania pamięci podręcznej zakończony niepowodzeniem.</translation>
+    </message>
+    <message>
+        <source>Search Content Title,no more than 20 words</source>
+        <translation>Wyszukaj tytuł artykułu. Można wprowadzić do 20 znaków.</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDlgBookFormat</name>
@@ -37052,6 +37577,10 @@ Anuluj:	Powrót do okna dialogowego.</translation>
         <source>Add and delete elements in this official document.</source>
         <translation>Dodawaj elementy do tego oficjalnego dokumentu i usuwaj je z niego.</translation>
     </message>
+    <message>
+        <source>Save the designed template to &quot;My Official Templates&quot; in &quot;Format&quot;</source>
+        <translation>Zapisz projekt w opcji „Moje szablony” w „Formacie”</translation>
+    </message>
 </context>
 <context>
     <name>KxIndexMarkEntryDlg</name>
@@ -37125,6 +37654,14 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <message>
         <source>Zoom Ratio</source>
         <translation>Współczynnik powiększenia</translation>
+    </message>
+    <message>
+        <source>OfdPrintPreviewSettings</source>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
+        <source>PrevPage</source>
+        <translation>Poprzednia strona</translation>
     </message>
 </context>
 <context>
@@ -37212,6 +37749,10 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <message>
         <source>Custom Margins</source>
         <translation>Marginesy niestandardowe</translation>
+    </message>
+    <message>
+        <source>PrintMode</source>
+        <translation>Tryb</translation>
     </message>
 </context>
 <context>
@@ -37974,6 +38515,10 @@ strony</translation>
         <source>Total of Y Page</source>
         <translation>Łącznie Y strona</translation>
     </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Oficjalny dokument, kod QR</translation>
+    </message>
 </context>
 <context>
     <name>KxSortOptionsDlg</name>
@@ -38294,6 +38839,11 @@ strony</translation>
         <comment>Professional Version</comment>
         <translation>Przełącz interfejs użytkownika</translation>
     </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>wpsrainbow.mainwindow.commands.KSwitchFaceDlgCommand</name>
@@ -38577,6 +39127,10 @@ styl tabeli</translation>
     <message>
         <source>Change to Blank Paragraph Split Mode</source>
         <translation>Zmień tryb podziału do pustego akapitu</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Usunięcie partii</translation>
     </message>
 </context>
 <context>
@@ -38939,6 +39493,10 @@ seryjna</translation>
     <message>
         <source>3-D Settings</source>
         <translation>Ustawienia 3-D</translation>
+    </message>
+    <message>
+        <source>Ofd Print Preview</source>
+        <translation>Podgląd efektu OFD</translation>
     </message>
 </context>
 <context>
@@ -40049,6 +40607,10 @@ edytowanie</translation>
         <source>Normal Encryption</source>
         <translation>Normalne zaszyfrowanie</translation>
     </message>
+    <message>
+        <source>setting MB</source>
+        <translation>Oznacz jako poufne</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsAdvInsertPageNumber</name>
@@ -40226,10 +40788,6 @@ edytowanie</translation>
         <source> Limit All(&amp;R) &gt;&gt; </source>
         <translation> Wszystkie &amp;ograniczenia &gt;&gt; </translation>
     </message>
-    <message>
-        <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>classics.extended_formatting</name>
@@ -40384,6 +40942,10 @@ edytowanie</translation>
     <message>
         <source>Delete Object</source>
         <translation>Usuń obiekt</translation>
+    </message>
+    <message>
+        <source>Insert Ink Shape</source>
+        <translation>Wstaw odręczny komentarz</translation>
     </message>
 </context>
 <context>
@@ -40563,6 +41125,14 @@ edytowanie</translation>
         <source>receiver%1.pdf</source>
         <translation>odbiorca%1.pdf</translation>
     </message>
+    <message>
+        <source>The current server connection is abnormal, unable to output online security PDF file, please try again later.</source>
+        <translation>Obecnie wystąpił wyjątek związany z połączeniem z serwerem i nie można generować zabezpieczonych plików PDF online. Spróbuj ponownie później.</translation>
+    </message>
+    <message>
+        <source>At present, there is no network state and online security PDF file cannot be output. Please operate under normal network condition.</source>
+        <translation>Obecnie nie ma połączenia z siecią i nie można generować zabezpieczonych plików PDF online. Użyj funkcji w normalnych warunkach połączenia sieciowego.</translation>
+    </message>
 </context>
 <context>
     <name>KxPrintDlg</name>
@@ -40637,6 +41207,18 @@ edytowanie</translation>
     <message>
         <source>The input value must be between %1 and %2.</source>
         <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation>Zaoszczędź około 23% na papierze</translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation>Zaoszczędź około 12% na papierze</translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation>Zaoszczędź około 18% na papierze</translation>
     </message>
 </context>
 <context>
@@ -40799,6 +41381,18 @@ edytowanie</translation>
     <message>
         <source>Fit Page(Ctrl+9)</source>
         <translation>Dopasuj do strony</translation>
+    </message>
+    <message>
+        <source>NextPage(Ctrl+PageDown)</source>
+        <translation>Kolejna strona</translation>
+    </message>
+    <message>
+        <source>Close Ofd Preview</source>
+        <translation>Zamknij podgląd OFD</translation>
+    </message>
+    <message>
+        <source>PrevPage(Ctrl+PageUp)</source>
+        <translation>Poprzednia strona</translation>
     </message>
 </context>
 <context>
@@ -41012,6 +41606,18 @@ strony</translation>
         <source>Navigation</source>
         <translation>Nawigacja</translation>
     </message>
+    <message>
+        <source>Docer Header</source>
+        <translation>Nagłówek/stopka szablonu</translation>
+    </message>
+    <message>
+        <source>Docer Footer</source>
+        <translation>Nagłówek/stopka szablonu</translation>
+    </message>
+    <message>
+        <source>Docer HeaderFooterGroup</source>
+        <translation>Zestaw szablonów</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_mailings</name>
@@ -41111,6 +41717,14 @@ koresp. seryjną</translation>
     <message>
         <source>Merge to Email</source>
         <translation>Scal do poczty e-mail</translation>
+    </message>
+    <message>
+        <source>Email Config</source>
+        <translation>Konfiguracja e-mail</translation>
+    </message>
+    <message>
+        <source>MailConfig</source>
+        <translation>Konfiguracja e-mail</translation>
     </message>
 </context>
 <context>
@@ -41486,6 +42100,27 @@ przypis końcowy</translation>
         <translation>Korespondencja 
 seryjna</translation>
     </message>
+    <message>
+        <source>Finalize</source>
+        <translation>Finalizuj</translation>
+    </message>
+    <message>
+        <source>SplitMerge</source>
+        <translation>Dzielenie i scalanie dokumentów</translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation>PDF Kompresuj</translation>
+    </message>
+    <message>
+        <source>Document Barcode</source>
+        <translation>Oficjalny dokument, kod QR</translation>
+    </message>
+    <message>
+        <source>Official to Ordinary</source>
+        <translation>Oficjalny dokument do standardowego dokumentu
+</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDDEServer</name>
@@ -41670,6 +42305,14 @@ seryjna</translation>
     <message>
         <source>SendMail</source>
         <translation>Wyślij wiadomość e-mail</translation>
+    </message>
+    <message>
+        <source>S&amp;MTP Server</source>
+        <translation>Serwer SMTP (&amp;M)</translation>
+    </message>
+    <message>
+        <source>Sender &amp;Name</source>
+        <translation>Adres e-mail (&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -41943,6 +42586,10 @@ seryjna</translation>
         <source>The number input must be between 1 and 63.</source>
         <translation>Liczba wejściowa musi się zawierać w przedziale między 1 i 63.</translation>
     </message>
+    <message>
+        <source>WPS Writer Official Document (*.uot)</source>
+        <translation>WPS Official Document (*.uot)</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsPageNumPositionModelOfficial</name>
@@ -42001,6 +42648,10 @@ seryjna</translation>
     <message>
         <source>Header outside</source>
         <translation>Nagłówek (zewnętrzny)</translation>
+    </message>
+    <message>
+        <source>Add Custom PageNum</source>
+        <translation>Niestandardowy nr strony</translation>
     </message>
 </context>
 <context>
@@ -42398,6 +43049,46 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
         <source>secret period</source>
         <translation>secret period</translation>
     </message>
+    <message>
+        <source>%1 cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation>%1 nie może zawierać znaków „^” i „|”, które są wykorzystywane jako separatory.</translation>
+    </message>
+    <message>
+        <source>document id</source>
+        <translation>Nr wydania</translation>
+    </message>
+    <message>
+        <source>The barcode id must contain 8 to 20 characters or digits.</source>
+        <translation>ID kodu QR musi zawierać od 8 do 20 liter lub cyfr.</translation>
+    </message>
+    <message>
+        <source>journals</source>
+        <translation>Typ oficjalnego dokumentu lub nazwa dziennika</translation>
+    </message>
+    <message>
+        <source>submit to</source>
+        <translation>Główny odbiorca</translation>
+    </message>
+    <message>
+        <source>custom field</source>
+        <translation>Niestandardowe pole</translation>
+    </message>
+    <message>
+        <source>barcode date</source>
+        <translation>Data utworzenia kodu QR</translation>
+    </message>
+    <message>
+        <source>barcode unit</source>
+        <translation>Kod QR, producent</translation>
+    </message>
+    <message>
+        <source>publish level</source>
+        <translation>Publikacja hierarchii</translation>
+    </message>
+    <message>
+        <source>The length of %1 has to between %2 and %3</source>
+        <translation>Długość %1 musi wynosić pomiędzy %2 i %3 znaki.</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTableOfFigures</name>
@@ -42447,6 +43138,42 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>post unit</source>
         <translation>Post-jednostka</translation>
+    </message>
+    <message>
+        <source>Support multiple unit name entered at the same time, seperated by comma.</source>
+        <translation>Obsługuj wprowadzanie nazw kilku jednostek w tym samym czasie. Muszą być oddzielone przecinkami (,).</translation>
+    </message>
+    <message>
+        <source>The unit cannot include &quot;^&quot; and &quot;|&quot;, which used as seperator.</source>
+        <translation>Jednostka nie może zawierać znaków „^” i „|”, które są wykorzystywane jako separatory.</translation>
+    </message>
+    <message>
+        <source>Delete Units</source>
+        <translation>Usuń jednostkę</translation>
+    </message>
+    <message>
+        <source>The barcode creator unit you entered is longer than %1 characters, which does not comply with the Standard for Using 2D Barcodes in Official Documents. Continue?</source>
+        <translation>Nazwa producenta kodu QR, którą wprowadzono, przekracza %1 znaków, co nie jest zgodne ze standardem dotyczącym wykorzystywania kodów QR w oficjalnych dokumentach. Czy chcesz kontynuować wprowadzanie?</translation>
+    </message>
+    <message>
+        <source>submit to</source>
+        <translation>Główny odbiorca</translation>
+    </message>
+    <message>
+        <source>The length of unit names cannot exceed 256 bytes.</source>
+        <translation>Długość nazwy jednostki nie może przekraczać 128 znaków.</translation>
+    </message>
+    <message>
+        <source>barcode unit</source>
+        <translation>Kod QR, producent</translation>
+    </message>
+    <message>
+        <source>The unit name cannot contain comma</source>
+        <translation>Nazwa jednostki nie może zawierać przecinków.</translation>
+    </message>
+    <message>
+        <source>The name of adding unit has existed in the list, please enter a different name.</source>
+        <translation>Już dodano tę nazwę jednostki. Wprowadź ponownie.</translation>
     </message>
 </context>
 <context>
@@ -42586,6 +43313,26 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
         <translation>Próbujesz wkleić tekst, w którym jest jedna lub więcej tabel, do pionowego pola tekstowego lub pionowej ramki. Pola tekstowe lub ramki, w których tekst biegnie pionowo, nie mogą zawierać tabel. Czy chcesz kontynuować?</translation>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <translation>W skanerze nie ma papieru.</translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <translation>Papier zaciął się w podajniku skanera.</translation>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <translation>Nieprawidłowe dane skanera (papier przekracza maksymalną grubość lub zakładki).</translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <translation>Podczas załadowywania biblioteki systemu SANE wystąpił błąd.</translation>
+    </message>
+    <message>
+        <source>%1 Pages Scanned.</source>
+        <translation>Zeskanowano %1 stron. Wprowadzić to teraz?</translation>
     </message>
 </context>
 <context>
@@ -42931,6 +43678,86 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <source>MAIL_FAILURE</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Identified as junk mail,rejected by server</source>
+        <translation>Ta wiadomość e-mail została uznana za SPAM i odrzucona przez serwer.</translation>
+    </message>
+    <message>
+        <source>MAIL_TEXT_TOO_LARGE</source>
+        <translation>Długość treści głównej wiadomości przekracza limit.</translation>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_RECIPIENTS</source>
+        <translation>Liczba odbiorców przekracza limit.</translation>
+    </message>
+    <message>
+        <source>Invalid smtp server port</source>
+        <translation>Nieprawidłowy port serwera SMTP.</translation>
+    </message>
+    <message>
+        <source>MAIL_BAD_RECIPTYPE</source>
+        <translation>Nieznany typ wysyłania.</translation>
+    </message>
+    <message>
+        <source>554 HL:IHU</source>
+        <translation>IP nadawcy jest tymczasowo zawieszone z powodu przesyłania SPAM-u lub nietypowego zachowania łącza.</translation>
+    </message>
+    <message>
+        <source>421 HL:IFC</source>
+        <translation>Z uwagi na dużą liczbę wiadomości e-mail przesłanych w krótkim czasie to połączenie jest tymczasowo zabronione.</translation>
+    </message>
+    <message>
+        <source>451 MI:SFQ</source>
+        <translation>Liczba wiadomości e-mail przesłanych w ciągu 15 minut przekracza limit.</translation>
+    </message>
+    <message>
+        <source>Local user only</source>
+        <translation>Serwer SMTP obsługuje tylko lokalnych użytkowników jako nadawców.</translation>
+    </message>
+    <message>
+        <source>550 RP:TRC</source>
+        <translation>Liczba zgromadzonych odbiorców przekracza limit. Nie akceptuj już dzisiaj e-maili od tego nadawcy.</translation>
+    </message>
+    <message>
+        <source>451 RP:QRC</source>
+        <translation>Funkcja przesyłania e-maili jest tymczasowo niedozwolona, ponieważ liczba odbiorców zgromadzona w krótkim czasie przekracza limit.</translation>
+    </message>
+    <message>
+        <source>Illegal Attachment</source>
+        <translation>Tego typu załącznik nie jest dozwolony.</translation>
+    </message>
+    <message>
+        <source>Mail client load failed</source>
+        <translation>Nie udało się załadować klienta poczty e-mail.</translation>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_WRITE_FAILURE</source>
+        <translation>Nie udało się zapisać załącznika.</translation>
+    </message>
+    <message>
+        <source>MAIL_NO_MESSAGES</source>
+        <translation>Brak dostępnych informacji na temat skrzynki pocztowej.</translation>
+    </message>
+    <message>
+        <source>IP is rejected, smtp auth error limit exceed</source>
+        <translation>Z uwagi na znaczne usterki weryfikacji IP połączenie jest tymczasowo niedozwolone.</translation>
+    </message>
+    <message>
+        <source>Invalid User</source>
+        <translation>Pożądany użytkownik nie istnieje.</translation>
+    </message>
+    <message>
+        <source>MAIL_ATTACHMENT_OPEN_FAILURE</source>
+        <translation>Nie udało się otworzyć załącznika.</translation>
+    </message>
+    <message>
+        <source>MAIL_TOO_MANY_FILES</source>
+        <translation>Liczba załączników przekracza limit.</translation>
+    </message>
+    <message>
+        <source>User not found</source>
+        <translation>Adres odbiorcy jest nieprawidłowy.</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsOfficialNewCustomPageNumDlg</name>
@@ -42945,6 +43772,14 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Please enter a Chinese font size or a number between 1% and 2%</source>
         <translation>Wprowadź chiński rozmiar czcionki lub liczbę pomiędzy 1% i 2%.</translation>
+    </message>
+    <message>
+        <source>OfficialPageNum</source>
+        <translation>Nr strony oficjalnego dokumentu</translation>
+    </message>
+    <message>
+        <source>There is a page number template with the same name, please modify the name</source>
+        <translation>Szablon numeru strony o tej samej nazwie już istnieje. Zmień nazwę szablonu.</translation>
     </message>
 </context>
 <context>
@@ -44541,6 +45376,42 @@ spis treści</translation>
         <source>TextLabel</source>
         <translation>Etykieta tekstowa</translation>
     </message>
+    <message>
+        <source>input chinese sy info tips part1</source>
+        <translation>Dozwolone są cyfry i litery. Można wprowadzić do</translation>
+    </message>
+    <message>
+        <source>input chinese sy info tips part2</source>
+        <translation> znaków.</translation>
+    </message>
+    <message>
+        <source>sy_normal</source>
+        <translation>Określ znak wodny</translation>
+    </message>
+    <message>
+        <source>sytype</source>
+        <translation>Typ</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part1</source>
+        <translation>Dozwolone są cyfry i litery. Można wprowadzić do</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part2</source>
+        <translation> znaków.</translation>
+    </message>
+    <message>
+        <source>chinese_sy_info</source>
+        <translation>Informacja na temat chińskiego znaku wodnego</translation>
+    </message>
+    <message>
+        <source>normal_sy_info</source>
+        <translation>Informacja na temat znaku wodnego innego niż chiński</translation>
+    </message>
+    <message>
+        <source>self_sy_info</source>
+        <translation>Informacja na temat znaku wodnego:</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsStyleAutoFormatResultTips</name>
@@ -44804,6 +45675,10 @@ spis treści</translation>
         <source>Professional</source>
         <translation>Professional</translation>
     </message>
+    <message>
+        <source>Accent</source>
+        <translation>Akcent</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsPercentOnTBCommand</name>
@@ -45046,6 +45921,14 @@ spis treści</translation>
         <source>SendMail</source>
         <translation>Wyślij wiadomość e-mail</translation>
     </message>
+    <message>
+        <source>Send Completed</source>
+        <translation>Wysyłanie zakończone</translation>
+    </message>
+    <message>
+        <source>All &amp;ReSend</source>
+        <translation>Wyślij ponownie wszystko (&amp;R)</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsWidgetChildShapePosition</name>
@@ -45213,6 +46096,14 @@ spis treści</translation>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation>%1 to nieprawidłowy rozmiar czcionki.</translation>
+    </message>
+    <message>
+        <source>When the smart number setting is turned on, the official document master will change the format when you write the corresponding number and press Enter.</source>
+        <translation>Jeżeli inteligentne ustawienie numeru jest włączone, funkcja zapisywania oficjalnego dokumentu zmieni format w przypadku wpisania odpowiedniego numeru i wciśnięcia klawisza Enter.</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsSmartOfficialSettingDlg</name>
@@ -45223,6 +46114,10 @@ spis treści</translation>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>%1 is invalid font size.</source>
+        <translation>%1 to nieprawidłowy rozmiar czcionki.</translation>
     </message>
 </context>
 <context>
@@ -45449,6 +46344,14 @@ spis treści</translation>
         <source>The file name is the same as an existing directory.</source>
         <translation>Nazwa pliku jest identyczna jak istniejący katalog.</translation>
     </message>
+    <message>
+        <source>The file opening password is inconsistent with the previously entered password.</source>
+        <translation>Hasło otwierania pliku różni się w stosunku do poprzednio wprowadzonego hasła.</translation>
+    </message>
+    <message>
+        <source>The permission setting password is inconsistent with the previously entered password.</source>
+        <translation>Hasło do ustawienia uprawnień różni się w stosunku do poprzednio wprowadzonego hasła.</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsTableOfContentsModel</name>
@@ -45473,6 +46376,18 @@ spis treści</translation>
     <message>
         <source>What is Auto Roaming</source>
         <translation>Czym jest automatyczny roaming</translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>Włącz roaming dokumentów. Pliki lokalne, które został otwarte, będą automatycznie zapisywane w usłudze Cloud.</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>W międzyczasie system automatycznie synchronizuje modyfikacje w plikach lokalnych z plikami w usłudze Cloud.</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>Możesz również wyświetlić i edytować ten dokument po zalogowaniu się przy użyciu innego urządzenia.</translation>
     </message>
 </context>
 <context>
@@ -45764,6 +46679,10 @@ spis treści</translation>
         <source>The number must be between %1 and %2.</source>
         <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
+    <message>
+        <source>Failed to save file</source>
+        <translation>Nie udało się zapisać pliku.</translation>
+    </message>
 </context>
 <context>
     <name>KxCoverPageCommand</name>
@@ -45985,6 +46904,10 @@ spis treści</translation>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
+    <message>
+        <source>Import Template</source>
+        <translation>Importuj szablon</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWpsOfficialToDocument</name>
@@ -45995,6 +46918,10 @@ spis treści</translation>
     <message>
         <source>Transfering</source>
         <translation>Przenoszenie</translation>
+    </message>
+    <message>
+        <source>Official to ordinary file</source>
+        <translation>Oficjalny dokument do standardowego dokumentu</translation>
     </message>
 </context>
 <context>
@@ -46108,6 +47035,10 @@ spis treści</translation>
         <source>preview</source>
         <translation>Podgląd</translation>
     </message>
+    <message>
+        <source>Smart Official</source>
+        <translation>Konwersja inteligentnego oficjalnego dokumentu</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsWaterMarkGalleryModel</name>
@@ -46200,6 +47131,10 @@ spis treści</translation>
     <message>
         <source>Exactly</source>
         <translation>Dokładnie</translation>
+    </message>
+    <message>
+        <source>Official Line Interval</source>
+        <translation>Rozmieszczenie wierszy</translation>
     </message>
 </context>
 <context>
@@ -46305,6 +47240,22 @@ spis treści</translation>
         <source>Official Master is Launching!</source>
         <translation>Trwa uruchamianie oficjalnej wersji master!</translation>
     </message>
+    <message>
+        <source>OfficialTools</source>
+        <translation>Narzędzia oficjalnego dokumentu</translation>
+    </message>
+    <message>
+        <source>OfficialCorrect</source>
+        <translation>Korekta oficjalnego dokumentu</translation>
+    </message>
+    <message>
+        <source>OfficialMaterial</source>
+        <translation>Materiały oficjalnego dokumentu</translation>
+    </message>
+    <message>
+        <source>OfficialRender</source>
+        <translation>Krajowy, standardowy układ</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsLineColorModel</name>
@@ -46338,12 +47289,40 @@ spis treści</translation>
         <source>total check result:</source>
         <translation>Łączny wynik kontroli:</translation>
     </message>
+    <message>
+        <source>&amp;expandAll</source>
+        <translation>Rozszerz wszystko (&amp;E)</translation>
+    </message>
+    <message>
+        <source>,But did not complete the full text check</source>
+        <translation>, lecz nie ukończył kontroli pełnotekstowej</translation>
+    </message>
+    <message>
+        <source>&amp;collapseAll</source>
+        <translation>Zwiń wszystko (&amp;C)</translation>
+    </message>
+    <message>
+        <source>date already deleted!</source>
+        <translation>Data już usunięta.</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetTpConfidentialityLevelKeyWord</name>
     <message>
         <source>No data</source>
         <translation>Brak danych</translation>
+    </message>
+    <message>
+        <source>total result</source>
+        <translation>Wyniki</translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation>Sprawdź ponownie</translation>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation>Zarządzaj słowami kluczowymi</translation>
     </message>
 </context>
 <context>
@@ -46433,6 +47412,18 @@ spis treści</translation>
     <message>
         <source>Seal Width:</source>
         <translation>Szerokość pieczęci:</translation>
+    </message>
+    <message>
+        <source>PersonalSeal</source>
+        <translation>Osobista pieczęć</translation>
+    </message>
+    <message>
+        <source>NoSeal</source>
+        <translation>Brak pieczęci</translation>
+    </message>
+    <message>
+        <source>RoundSeal</source>
+        <translation>Oficjalna pieczęć</translation>
     </message>
 </context>
 <context>
@@ -46780,6 +47771,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>SendMail</source>
         <translation>Wyślij wiadomość e-mail</translation>
     </message>
+    <message>
+        <source>Sending Mail With WPS</source>
+        <translation>Wysyłanie wiadomości e-mail za pośrednictwem WPS</translation>
+    </message>
+    <message>
+        <source>&amp;Stop sendemail</source>
+        <translation>Zatrzymaj wysyłanie (&amp;S)</translation>
+    </message>
 </context>
 <context>
     <name>SendByClientConfigWidget</name>
@@ -46790,6 +47789,10 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>SendMail</source>
         <translation>Wyślij wiadomość e-mail</translation>
+    </message>
+    <message>
+        <source>&amp;Account</source>
+        <translation>Użyj następującego konta, aby wysłać wiadomość e-mail (&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -46938,6 +47941,22 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>delete keywords</source>
         <translation>Usuń słowa kluczowe</translation>
     </message>
+    <message>
+        <source>The thesaurus is empty, please add keywords</source>
+        <translation>Tezaurus jest pusty. Najpierw dodaj słowa kluczowe.</translation>
+    </message>
+    <message>
+        <source>Add keywords</source>
+        <translation>Dodaj słowa kluczowe</translation>
+    </message>
+    <message>
+        <source>Inverse selection</source>
+        <translation>Odwróć wybór</translation>
+    </message>
+    <message>
+        <source>Management keyword</source>
+        <translation>Zarządzaj słowami kluczowymi</translation>
+    </message>
 </context>
 <context>
     <name>KxOfficialtemplateElementsGroup</name>
@@ -46951,6 +47970,10 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Preview</source>
         <translation>Podgląd</translation>
+    </message>
+    <message>
+        <source>OpenByLocalApp</source>
+        <translation>Otwórz lokalnie</translation>
     </message>
 </context>
 <context>
@@ -47003,6 +48026,18 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Heading 6</source>
         <translation>Nagłówek 6</translation>
+    </message>
+    <message>
+        <source>Format Alignment Center</source>
+        <translation>Wyrównaj do środka</translation>
+    </message>
+    <message>
+        <source>Format Alignment Right</source>
+        <translation>Wyrównaj do prawej</translation>
+    </message>
+    <message>
+        <source>Format Alignment Left</source>
+        <translation>Wyrównaj do lewej</translation>
     </message>
 </context>
 <context>
@@ -47249,12 +48284,28 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>checking now,plz wait...</source>
         <translation>Trwa sprawdzanie, proszę czekać...</translation>
     </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>Sprawdź słowa kluczowe poziomu poufnego</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgCheckingTips2</name>
     <message>
         <source>checking now,plz wait...</source>
         <translation>Trwa sprawdzanie, proszę czekać...</translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>Sprawdź słowa kluczowe poziomu poufnego</translation>
     </message>
 </context>
 <context>
@@ -47330,6 +48381,42 @@ Przekonwertowanie umożliwi korzystanie ze wszystkich nowych funkcji programu Wo
     <message>
         <source>Test failed.Please check the information.</source>
         <translation>Test zakończony niepowodzeniem. Sprawdź informacje.</translation>
+    </message>
+    <message>
+        <source>&amp;Done</source>
+        <translation>Gotowe (&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPS Mail Merge Test Mail</source>
+        <translation>Scalanie poczty WPS – wiadomość testowa</translation>
+    </message>
+    <message>
+        <source>Send test Email</source>
+        <translation>Wyślij testową wiadomość e-mail</translation>
+    </message>
+    <message>
+        <source>Login to SMTP server</source>
+        <translation>Zaloguj się na serwer poczty</translation>
+    </message>
+    <message>
+        <source>Mail Config</source>
+        <translation>Konfiguracja e-mail</translation>
+    </message>
+    <message>
+        <source>Account setup successful</source>
+        <translation>Test ustawienia konta zakończony powodzeniem.</translation>
+    </message>
+    <message>
+        <source>.Please trying using independent password</source>
+        <translation>. Aby zalogować się do skrzynki e-mail, spróbuj skorzystać z kodu uwierzytelniającego.</translation>
+    </message>
+    <message>
+        <source>You are all set for the group mail feature.</source>
+        <translation>Dokonano wszystkich ustawień dotyczących funkcji e-maila grupowego.</translation>
+    </message>
+    <message>
+        <source>You are sending testing mail through WPS mail merge feature. </source>
+        <translation>Wysyłasz wiadomość testową poprzez aplikację Scalanie poczty WPS.</translation>
     </message>
 </context>
 <context>
@@ -47458,6 +48545,14 @@ obok siebie</translation>
         <source>Template is missing.</source>
         <translation>Brakujący szablon.</translation>
     </message>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation>Ta zmiana wpłynie na wszystkie nowe dokumenty oparte na szablonie NORMALNYM.</translation>
+    </message>
+    <message>
+        <source>Save failed.</source>
+        <translation>Wystąpił błąd. Zmiana nie powiodła się.</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsRestartPageNumCommand</name>
@@ -47499,6 +48594,22 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
         <source>Do not ask me again.</source>
         <translation>Nie pytaj mnie ponownie.</translation>
     </message>
+    <message>
+        <source>You are saving an old-format document as a new format.
+
+While this may change the layout of some shapes and paragraphs, new format allows you to use more new features.</source>
+        <translation>Chcesz zapisać dokument w starym formacie jako nowy format.
+
+Może mieć to wpływ na grafikę i akapity, ale po zapisaniu jako nowy format możesz korzystać z większej liczby funkcji.</translation>
+    </message>
+    <message>
+        <source>Save as a new format</source>
+        <translation> Zapisz w nowym formacie</translation>
+    </message>
+    <message>
+        <source>Save new format</source>
+        <translation>Zapisz w nowym formacie</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsApplication</name>
@@ -47509,6 +48620,12 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation>Wstawiony obraz jest wyświetlany niekompletnie. Czy chcesz automatycznie dostosować odstępy między wierszami w zależności od wielkości obrazu?</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation>tekst WPS nie może zapisać Normal.dotm.
+Kliknij OK, aby odrzucić niezapisaną zawartość i zamknąć ten proces. Jeżeli nie chcesz jej zamykać, kliknij Anuluj.</translation>
     </message>
 </context>
 <context>
@@ -47617,6 +48734,14 @@ reprezentować zawartość informacji o odbiorcy</translation>
         <source>Header:</source>
         <translation>Nagłówek:</translation>
     </message>
+    <message>
+        <source>Edition:</source>
+        <translation>Elementy wersji:</translation>
+    </message>
+    <message>
+        <source>IU_unit</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KxWpsDuplexPrintCombobox</name>
@@ -47659,40 +48784,470 @@ reprezentować zawartość informacji o odbiorcy</translation>
         <source>Beginner Guide</source>
         <translation>Przewodnik dla początkujących</translation>
     </message>
+    <message>
+        <source>Start Design</source>
+        <translation>Rozpocznij projekt</translation>
+    </message>
+    <message>
+        <source>Use the toolbar on the right to design your own official document template.</source>
+        <translation>Możesz projektować każdy element w pasku narzędzi z prawej strony, dodając, usuwając oraz edytując zawartość.</translation>
+    </message>
 </context>
 <context>
-    <name/>
+    <name>KxCustomShortCutDlg</name>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>&quot;</source>
+        <translation>„</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>&quot;Tab</source>
+        <translation>&quot;Karta</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Distribute the selected drawing objects horizontally</source>
+        <translation>Rozmieść zaznaczone obiekty rysunkowe w poziomie</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Sends the selected drawing objects to the back</source>
+        <translation>Przenieś zaznaczone obiekty rysunkowe do dołu</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Close</source>
+        <translation>Zamknij</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Aligns the selected drawing objects horizontally to the center</source>
+        <translation>Wyrównaj zaznaczone obiekty rysunkowe w poziomie do środka</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>Scales the current view to 100%</source>
+        <translation>Skaluj bieżący widok do 100%</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>&amp;Categories:</source>
+        <translation>Kategorie:</translation>
+    </message>
+    <message>
+        <source>Auto-Fit Table to the contents</source>
+        <translation>Automatycznie dopasuj tabelę do zawartości</translation>
+    </message>
+    <message>
+        <source>Fill Color Picker</source>
+        <translation>Selektor koloru wypełnienia</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects vertically</source>
+        <translation>Rozmieść zaznaczone obiekty rysunkowe w pionie</translation>
+    </message>
+    <message>
+        <source>Deletes the selected cells from the table</source>
+        <translation>Usuń wybrane komórki z tabeli</translation>
+    </message>
+    <message>
+        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Zmień wewnętrzne obramowanie wybranych akapitów, komórek tabel i obrazów</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
+        <translation>Czy chcesz zresetować przypisane klawisze? Spowoduje to usunięcie wszystkich klawiszy aktualnie przypisanych do makr i stylów w dokumencie %1.</translation>
+    </message>
+    <message>
+        <source>Press &amp;new shortcut key:</source>
+        <translation>Naciśnij nowy klawisz skrótu:</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>Menu Plik</translation>
+    </message>
+    <message>
+        <source>Quits WPS and prompts to save the documents</source>
+        <translation>Przy zamykaniu aplikacji WPS pytaj, czy zapisać dokument</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects vertically to the center</source>
+        <translation>Wyrównaj zaznaczone obiekty rysunkowe w pionie do środka</translation>
+    </message>
+    <message>
+        <source>Saves the active document or template</source>
+        <translation>Zapisuje aktywny dokument lub szablon</translation>
+    </message>
+    <message>
+        <source>C&amp;ommands:</source>
+        <translation>Polecenia:</translation>
+    </message>
+    <message>
+        <source>Customize keyboard</source>
+        <translation>Dostosuj klawiaturę</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>Makra</translation>
+    </message>
+    <message>
+        <source>Opens an existing document or template</source>
+        <translation>Otwórz istniejący dokument lub szablon</translation>
+    </message>
+    <message>
+        <source>Displays a document&apos;s outline</source>
+        <translation>Wyświetl dokument w formie konspektu.</translation>
+    </message>
+    <message>
+        <source>Accepts all changes that are highlighted in the current filter settings</source>
+        <translation>Zaakceptuj wszystkie zmiany wyróżnione w bieżących ustawieniach filtra</translation>
+    </message>
+    <message>
+        <source>Save file as DOCX document</source>
+        <translation>Zapisz plik jako dokument DOCX</translation>
+    </message>
+    <message>
+        <source>Selects the current cell in a table</source>
+        <translation>Usuń bieżącą komórkę z tabeli</translation>
+    </message>
+    <message>
+        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Zmień zewnętrzne obramowanie wybranych akapitów, komórek tabel i obrazów</translation>
+    </message>
+    <message>
+        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Zmień dolne obramowanie wybranych akapitów, komórek tabel i obrazów</translation>
+    </message>
+    <message>
+        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
+        <translation>Wstaw puste pole tekstowe lub umieść zaznaczenie w polu tekstowym</translation>
+    </message>
+    <message>
+        <source>Sends the active document through electronic mail</source>
+        <translation>Wyślij aktywny dokument pocztą e-mail</translation>
+    </message>
+    <message>
+        <source>Selects the entire document</source>
+        <translation>Zaznacz cały dokument</translation>
+    </message>
+    <message>
+        <source>Opens a data source for mail merge of insert database</source>
+        <translation>Otwórz źródło danych do korespondencji seryjnej lub wstawiania z bazy danych</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
+        <translation>Pokaż lub ukryj panel podsumowania do wyświetlania i edytowania zmian dokumentu (poziomy)</translation>
+    </message>
+    <message>
+        <source>Selects the current column in a table</source>
+        <translation>Zaznacz bieżącą kolumnę w tabeli</translation>
+    </message>
+    <message>
+        <source>Deletes the selected columns from the table</source>
+        <translation>Usuń wybrane kolumny z tabeli</translation>
+    </message>
+    <message>
+        <source>Changes the height and width of the rows and columns in a table</source>
+        <translation>Zmiana wysokości wierszy i szerokości kolumn tabeli</translation>
+    </message>
+    <message>
+        <source>Saves a copy of the document in a separate file</source>
+        <translation>Zapisuje kopię dokumentu w osobnym pliku</translation>
+    </message>
+    <message>
+        <source>Macr&amp;os:</source>
+        <translation>Makra:</translation>
+    </message>
+    <message>
+        <source>Deletes the selected table</source>
+        <translation>Usuń wybraną tabelę</translation>
+    </message>
+    <message>
+        <source>Specify a command</source>
+        <translation>Określ polecenie</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected columns</source>
+        <translation>Równomiernie rozmieszcza wybrane kolumny</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the right</source>
+        <translation>Wyrównaj zaznaczone obiekty rysunkowe do prawej</translation>
+    </message>
+    <message>
+        <source>Specify keyboard sequence</source>
+        <translation>Podaj sekwencję klawiszy</translation>
+    </message>
+    <message>
+        <source>Cuts the selection and puts in on the Clipboard</source>
+        <translation>Wytnij zaznaczenie do schowka systemowego.</translation>
+    </message>
+    <message>
+        <source>Selects the current row in a table</source>
+        <translation>Zaznacz bieżący wiersz w tabeli</translation>
+    </message>
+    <message>
+        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Zmień lewe obramowanie wybranych akapitów, komórek tabel i obrazów</translation>
+    </message>
+    <message>
+        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
+        <translation>Usuń obramowanie wybranych akapitów, komórek tabel i obrazów</translation>
+    </message>
+    <message>
+        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
+        <translation>Wyświetl wszystkie zmiany dokumentu w postaci listy na panelu.</translation>
+    </message>
+    <message>
+        <source>Changes all the borders of the selected table cells</source>
+        <translation>Zmień wszystkie obramowania wybranych komórek</translation>
+    </message>
+    <message>
+        <source>Save file as Word 97-2003 Document</source>
+        <translation>Zapisz plik jako dokument programu Word 97–2003</translation>
+    </message>
+    <message>
+        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
+        <translation>Wstawienie zawartości schowka w postaci obiektu połączonego, obiektu osadzonego lub w inny sposób</translation>
+    </message>
+    <message>
+        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>Zmień górne obramowanie wybranych akapitów, komórek tabel i obrazów</translation>
+    </message>
+    <message>
+        <source>Show or hide comment balloons</source>
+        <translation>Pokaż lub ukryj pole komentarzy</translation>
+    </message>
+    <message>
+        <source>Rejects all changes in document, ignoring filter settings</source>
+        <translation>Odrzuć wszystkie zmiany w dokumencie, ignorując ustawienia filtra</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>Opis</translation>
+    </message>
+    <message>
+        <source>Always use balloons</source>
+        <translation>Zawsze używaj pola komentarzy</translation>
+    </message>
+    <message>
+        <source>Show or hide markup balloons</source>
+        <translation>Pokaż lub ukryj pole znaczników</translation>
+    </message>
+    <message>
+        <source>Accepts all changes in document, ignoring filter settings</source>
+        <translation>Zaakceptuj wszystkie zmiany w dokumencie, ignorując ustawienia filtra</translation>
+    </message>
+    <message>
+        <source>Changes the page setup of the selected sections</source>
+        <translation>Zmień ustawienia strony wybranej sekcji</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>Przypisz</translation>
+    </message>
+    <message>
+        <source>Scales the editing view to see the two pages in page layout view</source>
+        <translation>Zmień skalę dokumentu, aby wyświetlać wiele stron w jednym oknie.</translation>
+    </message>
+    <message>
+        <source>Changes various categories of WPS options</source>
+        <translation>Zmień opcje aplikacji WPS</translation>
+    </message>
+    <message>
+        <source>Marks the text you want to include in the index</source>
+        <translation>Dodaj zaznaczony tekst do indeksu dokumentu.</translation>
+    </message>
+    <message>
+        <source>Sa&amp;ve changes in:</source>
+        <translation>Zapisz zmiany w :</translation>
+    </message>
+    <message>
+        <source>Selects an entire table</source>
+        <translation>Zaznacz całą tabelę</translation>
+    </message>
+    <message>
+        <source>Insert ink comment</source>
+        <translation>Wstaw komentarz</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>Deletes all comments in document, ignoring filter settings</source>
+        <translation>Usuń wszystkie komentarze w dokumencie, ignorując ustawienia filtra</translation>
+    </message>
+    <message>
+        <source>C&amp;urrent keys:</source>
+        <translation>Bieżące klawisze:</translation>
+    </message>
+    <message>
+        <source>Re&amp;set All...</source>
+        <translation>Resetuj wszystko...</translation>
+    </message>
+    <message>
+        <source>Jumps to a specified place in the active document</source>
+        <translation>Przeskocz do określonego miejsca w aktywnym dokumencie</translation>
+    </message>
+    <message>
+        <source>Deletes the selected rows from the table</source>
+        <translation>Usuń wybrane wiersze z tabeli</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected rows</source>
+        <translation>Równomiernie rozmieszcza wybrane wiersze</translation>
+    </message>
+    <message>
+        <source>Rejects all changes that are highlighted in the current filter settings</source>
+        <translation>Odrzuć wszystkie zmiany wyróżnione w bieżących ustawieniach filtra</translation>
+    </message>
+    <message>
+        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
+        <translation>Zmień prawe obramowanie wybranych akapitów, komórek tabel i obrazów</translation>
+    </message>
+    <message>
+        <source>[Underline]</source>
+        <translation>[Podkreślenie]</translation>
+    </message>
+    <message>
+        <source>Toggles table gridlines on and off in Ribbon</source>
+        <translation>Włączanie i wyłączanie linii siatki tabeli (na wstążce)</translation>
+    </message>
+    <message>
+        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
+        <translation>Wstaw puste pionowe pole tekstowe lub umieść zaznaczenie w pionowym polu tekstowym</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
+        <translation>Pokaż lub ukryj panel podsumowania do wyświetlania i edytowania zmian dokumentu (pionowy)</translation>
+    </message>
+    <message>
+        <source>Creates a Quick Style style out of the currently selected text</source>
+        <translation>Utwórz szybki styl na podstawie aktualnie zaznaczonego tekstu</translation>
+    </message>
+    <message>
+        <source>Opens New Document taskpane</source>
+        <translation>Otwórz panel zadania Nowy dokument</translation>
+    </message>
+    <message>
+        <source>Creates a new AutoText Building Block from the current selection</source>
+        <translation>Utwórz nowy blok autotekstu na podstawie bieżącego zaznaczenia</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the left</source>
+        <translation>Wyrównaj zaznaczone obiekty rysunkowe do lewej</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the bottom</source>
+        <translation>Wyrównaj zaznaczone obiekty rysunkowe do dołu</translation>
+    </message>
+    <message>
+        <source>Removes Table of Contents building block from the document</source>
+        <translation>Usuń z dokumentu blok spisu treści</translation>
+    </message>
+    <message>
+        <source>Changes the font of the selection</source>
+        <translation>Zmień czcionkę zaznaczenia</translation>
+    </message>
+    <message>
+        <source>Copies the selection and puts it on the Clipboard</source>
+        <translation>Skopiuj zaznaczenie do schowka systemowego.</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects backward</source>
+        <translation>Przenieś zaznaczone obiekty rysunkowe do tyłu</translation>
+    </message>
+    <message>
+        <source>Currently assigned to: </source>
+        <translation>Przypisane do: </translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the top</source>
+        <translation>Wyrównaj zaznaczone obiekty rysunkowe do góry</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialAddPageNumWarningDlg</name>
+    <message>
+        <source>The same attribute page number template %1 already exists and cannot be created</source>
+        <translation>Szablon numeru strony %1 z tym samym atrybutem już istnieje. Nie udało się utworzyć.</translation>
+    </message>
+    <message>
+        <source>Cannot create page number template</source>
+        <translation>Nie udało się utworzyć szablonu numeru strony.</translation>
+    </message>
+    <message>
+        <source>You can customize up to 99 document page number templates. Please delete some templates and try again</source>
+        <translation>Można zapisać do 99 oficjalnych szablonów numeru strony dokumentu. Usuń niektóre szablony i spróbuj ponownie.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialImportWaringDlg</name>
+    <message>
+        <source>Aleady selected</source>
+        <translation>Wybrano</translation>
+    </message>
+    <message>
+        <source>more can be imported</source>
+        <translation> dodatkowych szablonów.</translation>
+    </message>
+    <message>
+        <source>templates, up to</source>
+        <translation> szablony. Można zaimportować do</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialDelCustomPageNumDlg</name>
+    <message>
+        <source>The %1 page number template will be deleted, and the existing page numbers in the document will not be deleted.</source>
+        <translation>Szablon numeru strony %1 zostanie usunięty, a istniejące numery strony w dokumencie nie zostaną usunięte.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNumberingModel</name>
+    <message>
+        <source>GalleryOfficalOutlineNumbering</source>
+        <translation>Oficjalny dokument, nr wielokrotnego poziomu</translation>
+    </message>
+    <message>
+        <source>GalleryOfficialNumbering</source>
+        <translation>Nr oficjalnego dokumentu</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementTextEditValidator</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation>Nie więcej niż %1 znaków</translation>
+    </message>
+</context>
+<context>
+    <name>KxPageElementsWidgetPlaintTextEdit</name>
+    <message>
+        <source>No more than %1 characters</source>
+        <translation>Nie więcej niż %1 znaków</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsOfficialNewDocumentDlg</name>
+    <message>
+        <source>New Empty</source>
+        <translation>Nowy pusty oficjalny dokument</translation>
+    </message>
+</context>
+<context>
+    <name>KxCreateContentsToolTip</name>
+    <message>
+        <source>click &quot;Create Navigation&quot;, show document structure.</source>
+        <translation>Kliknij „Utwórz nawigację katalogu”, aby wyświetlać strukturę dokumentu.</translation>
+    </message>
+</context>
+<context>
+    <name>KeyWordCheckEntryButton</name>
+    <message>
+        <source>Classified check</source>
+        <translation>Sprawdź poziom poufny</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartOfficialCommand</name>
+    <message>
+        <source>Smart Official</source>
+        <translation>Konwersja inteligentnego oficjalnego dokumentu</translation>
     </message>
 </context>
 </TS>
