@@ -101,6 +101,18 @@
         <source>Do not &amp;update automatically (not recommended)</source>
         <translation>Otomatik olarak &amp;güncelleme (önerilmez)</translation>
     </message>
+    <message>
+        <source>Association settings when upgrading: </source>
+        <translation>Yükseltme sırasında ilişkilendirme ayarları:</translation>
+    </message>
+    <message>
+        <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
+        <translation>Yükseltme sırasında dosya ilişkilendirmesini kontrol edin ve dosyaları varsayılan olarak WPS ile açmak için otomatik olarak düzeltin</translation>
+    </message>
+    <message>
+        <source>Upgrade package download acceleration:</source>
+        <translation>Güncelleme paketinin indirilmesini hızlandırın:</translation>
+    </message>
 </context>
 <context>
     <name>KSwitchAllInOneDlg</name>
@@ -163,6 +175,14 @@
     <message>
         <source>Old Multi-Component Mode</source>
         <translation>2016 gibi Çok Bileşenli Mod</translation>
+    </message>
+    <message>
+        <source>Switching WPS Office to %1</source>
+        <translation>WPS Ofis %1 olarak değiştiriliyor</translation>
+    </message>
+    <message>
+        <source>You are already in this mode, no need to switch.</source>
+        <translation>Zaten bu moddasınız, değiştirmenize gerek yok.</translation>
     </message>
 </context>
 <context>
@@ -275,6 +295,10 @@
     <message>
         <source>Privacy policy</source>
         <translation>Gizlilik ilkesi</translation>
+    </message>
+    <message>
+        <source>Proxy Settings</source>
+        <translation>Proxy ayarları</translation>
     </message>
 </context>
 <context>
@@ -491,6 +515,30 @@ Bu işlemler geri alınabilir.</translation>
         <source>Compat Setting</source>
         <translation>Uyumluluk Ayarı</translation>
     </message>
+    <message>
+        <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
+        <translation>Aşağıdaki onay kutularını işaretleyin: seçilirse, belirtilen dosyalar %1 tarafından açılacaktır. Aksi takdirde, belirtilen dosyalar orijinal ilişkili uygulamalar tarafından açılacaktır.</translation>
+    </message>
+    <message>
+        <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
+        <translation>Aşağıdaki seçenekleri belirlerseniz, %1 ilgili belgeleri aşağıdaki seçili biçimlerde kaydedecektir. Aksi takdirde belgeler %1 biçiminde kaydedilecektir.</translation>
+    </message>
+    <message>
+        <source>Open the following software with Kingsoft PDF by default:</source>
+        <translation>Aşağıdaki yazılımı varsayılan olarak WPS PDF ile açın:</translation>
+    </message>
+    <message>
+        <source>Pdf Document(*.pdf)</source>
+        <translation>Pdf Belgesi(*.pdf)</translation>
+    </message>
+    <message>
+        <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
+        <translation>Aşağıdaki seçenekleri belirlerseniz, katıştırılmış belge nesneleri %1 tarafından açılacaktır. %1 ayrıca IE tarayıcısı ve OA gibi üçüncü taraf yazılım veya sistemlere de gömülebilir.</translation>
+    </message>
+    <message>
+        <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
+        <translation>Burada, ortak dosyaları açmak, özgün dosya ilişkilerini geri yüklemek veya dosyaları ortak bir biçimde kaydetmek için %1&apos;i varsayılan araç olarak ayarlayabilirsiniz. Ayardan sonra, dosya ilişkilendirmenizi onaylamak için Tamam&apos;ı tıklayın. Bu işlemler geri alınabilir.</translation>
+    </message>
 </context>
 <context>
     <name>KPageRebuild</name>
@@ -616,6 +664,23 @@ Bu işlemler geri alınabilir.</translation>
     <message>
         <source>Reset plugins</source>
         <translation>Eklentileri sıfırla</translation>
+    </message>
+    <message>
+        <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
+        <translation>Araç çubuğu düğmeleri karışmışsa, tüm %1 uygulamalarını kapatın ve araç çubuklarını orijinal durumlarına geri yüklemek için aşağıdaki düğmeyi tıklayın. WPS&apos;yi yeniden başlattıktan sonra etkinleşir.</translation>
+    </message>
+    <message>
+        <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source> Failed to register WPS Pdf
+</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1170,6 +1235,10 @@ Bu işlemler geri alınabilir.</translation>
         <source>Some files is in use, please save and close. Then try again.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KLinkInfoList</name>
@@ -1321,6 +1390,22 @@ Bu işlemler geri alınabilir.</translation>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use WPS Official to edit and play presentations.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Link to network to update Kingsoft PDF</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>WPS Cloud USB Drive</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -1372,6 +1457,20 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
         <source>Start &amp;Repairing</source>
         <translation>Onarımı &amp;Başlat</translation>
     </message>
+    <message>
+        <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General Repair/Configuration Tools
+You can fix the errors encountered when using %1 or make advanced settings here.</source>
+        <translation>
+%1 kullanırken karşılaşılan hataları düzeltebilir veya gelişmiş ayarları buradan yapabilirsiniz.</translation>
+    </message>
+    <message>
+        <source>%1 General Repair/Configuration Tools</source>
+        <translation>%1 Genel Onarım/Yapılandırma Araçları</translation>
+    </message>
 </context>
 <context>
     <name>KPageBackUpClr</name>
@@ -1413,6 +1512,10 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1523,6 +1626,10 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>DOC Documentation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New PDF</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1650,6 +1757,14 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
         <source>Kingsoft Mobi</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation>WPS PDF Profesyonel</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>KFunctionCustomization</name>
@@ -1675,6 +1790,14 @@ WPS Ofis&apos;i kullanırken karşılaşılan hataları düzeltebilir veya burad
     </message>
     <message>
         <source>Disable template recommend.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide cloud shellext.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide vas shellext.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1946,41 +2069,6 @@ Notice that doing so exposes you to risks of virus infection and hacking.</sourc
     <message>
         <source>New document tips</source>
         <translation>Yeni belge ipuçları</translation>
-    </message>
-</context>
-<context>
-    <name/>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
