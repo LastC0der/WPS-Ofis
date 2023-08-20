@@ -3208,36 +3208,36 @@ You can sort the selected data in ascending or descending order.</translation>
         <translation>Sort</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>QuickOrientation.title</source>
+        <translation>Orientation</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>QuickOrientation.content</source>
+        <translation>Quickly rotate the text orientation in cells.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>StrikeThroughHome.content</source>
+        <translation>Draw a line through the middle of the selected text.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.title</source>
+        <translation>LaTeX</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.title</source>
+        <translation>Batch Rename Files</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.content</source>
+        <translation>Use LaTeX to quickly edit and insert formulas.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>StrikeThroughHome.title</source>
+        <translation>Strikethrough</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.content</source>
+        <translation>Batch rename files with set rules</translation>
     </message>
 </context>
 </TS>
