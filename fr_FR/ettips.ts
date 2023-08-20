@@ -3203,35 +3203,35 @@ Vous pouvez trier les données sélectionnées par ordre croissant ou décroissa
         <translation>Trier</translation>
     </message>
     <message>
-        <source/>
+        <source>QuickOrientation.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>QuickOrientation.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>StrikeThroughHome.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>BatchRename.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>StrikeThroughHome.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>BatchRename.content</source>
         <translation type="unfinished"/>
     </message>
 </context>
