@@ -2728,36 +2728,20 @@ Click the arrow to select a different highlight color.</translation>
         <translation>Add a visual effect such as shadow, glow or reflection to your text.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.title</source>
+        <translation>LaTeX</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.title</source>
+        <translation>Dosyaları Toplu Olarak Yeniden Adlandırın</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.content</source>
+        <translation>Formülleri hızla düzenlemek ve eklemek için LaTeX&apos;i kullanın.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.content</source>
+        <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
     </message>
 </context>
 </TS>
