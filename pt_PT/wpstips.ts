@@ -3862,35 +3862,19 @@ Clique na seta para selecionar uma cor de realce diferente.</translation>
         <translation>Mostre ou oculte a navegação no painel.</translation>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>BatchRename.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
+        <source>BatchRename.content</source>
         <translation type="unfinished"/>
     </message>
 </context>
