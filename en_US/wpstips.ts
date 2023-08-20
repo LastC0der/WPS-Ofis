@@ -3879,36 +3879,20 @@ Click the arrow to select a different highlight color.</translation>
         <translation>Show or hide navigation in the pane.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.title</source>
+        <translation>LaTeX</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.title</source>
+        <translation>Batch Rename Files</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.content</source>
+        <translation>Use LaTeX to quickly edit and insert formulas.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.content</source>
+        <translation>Batch rename files with set rules</translation>
     </message>
 </context>
 </TS>
