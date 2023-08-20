@@ -3206,36 +3206,36 @@ Seçili verileri artan veya azalan düzende sıralayabilirsiniz.</translation>
         <translation>Sırala</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>QuickOrientation.title</source>
+        <translation>Yönlendirme</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>QuickOrientation.content</source>
+        <translation>Hücrelerdeki metin yönünü hızla döndürün.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>StrikeThroughHome.content</source>
+        <translation>Seçili metnin ortasından geçen bir çizgi çizin.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.title</source>
+        <translation>LaTeX</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.title</source>
+        <translation>Dosyaları Toplu Olarak Yeniden Adlandırın</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>PCLaTeXEquation.content</source>
+        <translation>Formülleri hızla düzenlemek ve eklemek için LaTeX&apos;i kullanın.</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>StrikeThroughHome.title</source>
+        <translation>Üstü Çizili</translation>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
+        <source>BatchRename.content</source>
+        <translation>Dosyaları ayarlanan kurallarla toplu olarak yeniden adlandırın.</translation>
     </message>
 </context>
 </TS>
