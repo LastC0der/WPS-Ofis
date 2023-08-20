@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>success</source>
-        <translation type="unfinished"/>
+        <translation>Convertido com êxito.</translation>
     </message>
     <message>
         <source>waiting</source>
@@ -444,7 +444,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Shares received of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Partilha recebida</translation>
     </message>
     <message>
         <source>ShareFolder</source>
@@ -452,7 +452,7 @@ Guarde os dados e reinicie o software WPS para a ativar.</translation>
     </message>
     <message>
         <source>Group Space of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>As minhas equipas</translation>
     </message>
 </context>
 <context>
@@ -1038,7 +1038,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1050,11 +1050,11 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Suporte ao Cliente</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -1062,7 +1062,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar</translation>
     </message>
 </context>
 <context>
@@ -1133,7 +1133,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha no pagamento</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -1157,7 +1157,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Network Error</source>
@@ -1216,7 +1216,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Gratuito</translation>
     </message>
 </context>
 <context>
@@ -1243,7 +1243,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Suporte ao Cliente</translation>
     </message>
     <message>
         <source>Terms of service</source>
@@ -1273,7 +1273,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Autorizar</translation>
     </message>
 </context>
 <context>
@@ -1284,11 +1284,11 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Sync failed</source>
-        <translation type="unfinished"/>
+        <translation>Falha ao sincronizar</translation>
     </message>
     <message>
         <source>Upload failed, your WPS cloud space is full</source>
-        <translation type="unfinished"/>
+        <translation>Falha no carregamento. O espaço na cloud do WPS está cheio</translation>
     </message>
     <message>
         <source>File exceeds %1 upload limit</source>
@@ -1296,7 +1296,7 @@ Este arquivo não foi enviado para o Cloud.Please faça o upload no celular.</tr
     </message>
     <message>
         <source>Please clean up files in time</source>
-        <translation type="unfinished"/>
+        <translation>Limpe os ficheiros atempadamente</translation>
     </message>
     <message>
         <source>Got it</source>
@@ -1369,7 +1369,7 @@ aguarde</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar</translation>
     </message>
 </context>
 <context>
@@ -1402,18 +1402,18 @@ aguarde</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Fundo</translation>
     </message>
 </context>
 <context>
     <name>KVipPrivilegeComparisonWidget</name>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
@@ -1421,7 +1421,7 @@ aguarde</translation>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
@@ -1451,7 +1451,7 @@ aguarde</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>Reiniciar</translation>
     </message>
 </context>
 <context>
@@ -1486,14 +1486,14 @@ aguarde</translation>
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Transferir</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Não voltar a mostrar</translation>
     </message>
 </context>
 </TS>
