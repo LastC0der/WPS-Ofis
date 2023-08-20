@@ -101,6 +101,18 @@
         <source>Do not &amp;update automatically (not recommended)</source>
         <translation>Nicht automatisch aktualisieren (&amp;u) (nicht empfohlen)</translation>
     </message>
+    <message>
+        <source>Association settings when upgrading: </source>
+        <translation>Zuordnungseinstellungen während der Aktualisierung:</translation>
+    </message>
+    <message>
+        <source>Check the file association during the upgrade, automatic repair is opened by default with WPS</source>
+        <translation>Überprüfen Sie die Dateizuordnung während des Upgrades und stellen Sie automatisch ein, dass Dateien standardmäßig mit WPS geöffnet werden</translation>
+    </message>
+    <message>
+        <source>Upgrade package download acceleration:</source>
+        <translation>Beschleunigung des Downloads von Upgrade-Paketen:</translation>
+    </message>
 </context>
 <context>
     <name>KSwitchAllInOneDlg</name>
@@ -163,6 +175,14 @@
     <message>
         <source>Old Multi-Component Mode</source>
         <translation>Mehrkomponentenmodus wie 2016</translation>
+    </message>
+    <message>
+        <source>Switching WPS Office to %1</source>
+        <translation>Wechsel von WPS Office zu %1</translation>
+    </message>
+    <message>
+        <source>You are already in this mode, no need to switch.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -275,6 +295,10 @@
     <message>
         <source>Privacy policy</source>
         <translation>Datenschutzerklärung</translation>
+    </message>
+    <message>
+        <source>Proxy Settings</source>
+        <translation>Proxyeinstellungen</translation>
     </message>
 </context>
 <context>
@@ -492,6 +516,30 @@ Die Einstellung kann rückgängig gemacht werden. </translation>
         <source>Compat Setting</source>
         <translation>Kompatibilitätseinstellung</translation>
     </message>
+    <message>
+        <source>Check the check boxes below, the specified files will be opened by %1 Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
+        <translation>Aktivieren Sie die nachstehenden Kontrollkästchen: Wenn sie aktiviert sind, werden die angegebenen Dateien von %1 geöffnet. Andernfalls werden die angegebenen Dateien von den ursprünglichen zugehörigen Anwendungen geöffnet.</translation>
+    </message>
+    <message>
+        <source>%1 will save related documents in the following selected formats. Other documents will be saved in %1 formats.</source>
+        <translation>Wenn Sie die nachstehenden Optionen auswählen, speichert %1 die zugehörigen Dokumente in den folgenden ausgewählten Formaten. Andernfalls werden Dokumente im %1-Format gespeichert.</translation>
+    </message>
+    <message>
+        <source>Open the following software with Kingsoft PDF by default:</source>
+        <translation>Öffnen Sie die folgende Software standardmäßig mit WPS PDF:</translation>
+    </message>
+    <message>
+        <source>Pdf Document(*.pdf)</source>
+        <translation>PDF Dokument (*.pdf)</translation>
+    </message>
+    <message>
+        <source>If you choose the options below, document objects embedded will be opened by %1 which can also be embedded into the third-part software or system like IE browser and OA.</source>
+        <translation>Wenn Sie die nachstehenden Optionen auswählen, werden die eingebetteten Dokumentobjekte von %1 geöffnet. %1 kann auch in Drittanbieter-Software oder -Systeme wie IE-Browser und OA eingebettet werden.</translation>
+    </message>
+    <message>
+        <source>Here you can set %1 Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. These operations can be undone.</source>
+        <translation>Hier können Sie %1 als Standardtool zum Öffnen gängiger Dateien festlegen, die ursprünglichen Dateizuordnungen wiederherstellen oder die Dateien in einem gängigen Format speichern. Klicken Sie nach der Einstellung auf „OK“, um Ihre Dateizuordnung zu bestätigen. Diese Vorgänge können nicht rückgängig gemacht werden.</translation>
+    </message>
 </context>
 <context>
     <name>KPageRebuild</name>
@@ -622,6 +670,24 @@ Die Einstellung kann rückgängig gemacht werden. </translation>
     <message>
         <source>Reset plugins</source>
         <translation>Plugins zurücksetzen</translation>
+    </message>
+    <message>
+        <source>If toolbar buttons are mixed up, please close all %1 applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
+        <translation>Wenn die Schaltflächen der Symbolleisten durcheinander geraten sind, schließen Sie alle %1-Anwendungen und klicken Sie auf die Schaltfläche unten, um die Symbolleisten wieder in ihren ursprünglichen Zustand zu versetzen. Die Änderung wird nach dem Neustart von WPS wirksam.</translation>
+    </message>
+    <message>
+        <source>The loss of components in the system registry may cause errors to occur when using %1, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
+        <translation>Der Verlust von Komponenten in der Systemregistrierung kann zu Fehlern bei der Verwendung von %1 führen, z. B. dazu, dass andere Anwendungen nicht gestartet werden können. Klicken Sie auf die Schaltfläche unten, um zu versuchen, das Problem zu beheben. Die Änderung wird nach dem Neustart von WPS wirksam.</translation>
+    </message>
+    <message>
+        <source>%1 if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation>%1, wenn eine automatische Abschaltung erfolgt oder ein Teil der Plug-Iin-Funktionen nicht verfügbar ist, kann dies auf eine unvollständige Plug-In-Installation zurückzuführen sein. Klicken Sie auf die Schaltfläche unten, um zu versuchen, den Fehler zu beheben. Die Änderung wird nach dem Neustart von WPS wirksam.</translation>
+    </message>
+    <message>
+        <source> Failed to register WPS Pdf
+</source>
+        <translation> Fehler beim Registrieren von WPS PDF.
+</translation>
     </message>
 </context>
 <context>
@@ -1176,6 +1242,10 @@ Die Einstellung kann rückgängig gemacht werden. </translation>
         <source>Some files is in use, please save and close. Then try again.</source>
         <translation>Einige Dateien werden gerade verwendet. Bitte speichern und schließen Sie sie. Versuchen Sie es anschließend erneut.</translation>
     </message>
+    <message>
+        <source>Disable DEP date execution prevention (Need reboot)(&amp;C)</source>
+        <translation>Datenausführungsschutz (DEP) deaktivieren (WPS-Neustart nach Einstellung erforderlich) (&amp;C)</translation>
+    </message>
 </context>
 <context>
     <name>KLinkInfoList</name>
@@ -1327,6 +1397,22 @@ Die Einstellung kann rückgängig gemacht werden. </translation>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
         <translation>WPS Office Cloud als Teamlösung.</translation>
     </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation>Verwenden Sie WPS PDF, um PDF-Dokumente zu lesen und zu bearbeiten.</translation>
+    </message>
+    <message>
+        <source>Use WPS Official to edit and play presentations.</source>
+        <translation>Verwenden Sie WPS Official Document , um Berichte zu schreiben und das Layout von Artikeln zu gestalten.</translation>
+    </message>
+    <message>
+        <source>Link to network to update Kingsoft PDF</source>
+        <translation>Netzwerkverbindung herstellen, um WPS PDF zu aktualisieren</translation>
+    </message>
+    <message>
+        <source>WPS Cloud USB Drive</source>
+        <translation>WPS Cloud-USB-Datenträger</translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
@@ -1378,6 +1464,20 @@ Hier können Sie etwaige Fehler in WPS Office beheben und erweiterte Einstellung
         <source>Start &amp;Repairing</source>
         <translation>&amp;Reparaturvorgang starten</translation>
     </message>
+    <message>
+        <source>If you encounter any errors when using %1, such as program running or toolbar errors, please close all %1 applications and click the Start Repairing button below.We will do our utmost to repair the applicationsand restore them to the default state.</source>
+        <translation>Wenn Sie bei der Verwendung von %1 auf Fehler stoßen, wie z. B. Programmausführungsfehler oder Fehler in der Symbolleiste, schließen Sie bitte alle %1-Anwendungen und klicken Sie unten auf die Schaltfläche „Reparaturvorgang starten“. Wir werden unser Möglichstes tun, um die Anwendungen zu reparieren und sie wieder in den aktiven Standardzustand zu versetzen.</translation>
+    </message>
+    <message>
+        <source>General Repair/Configuration Tools
+You can fix the errors encountered when using %1 or make advanced settings here.</source>
+        <translation>
+Hier können Sie etwaige Fehler in %1 beheben und erweiterte Einstellungen vornehmen.</translation>
+    </message>
+    <message>
+        <source>%1 General Repair/Configuration Tools</source>
+        <translation>%1 Allgemeine Reparatur-/Konfigurationstools</translation>
+    </message>
 </context>
 <context>
     <name>KPageBackUpClr</name>
@@ -1420,6 +1520,10 @@ Hier können Sie etwaige Fehler in WPS Office beheben und erweiterte Einstellung
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
         <translation>WPS &amp;Presentation-Sicherungsdateien</translation>
+    </message>
+    <message>
+        <source>To protect document security, %1 has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
+        <translation>Um die Sicherheit Ihrer Dokumente zu gewährleisten, hat %1 eine ausreichende Anzahl von Sicherungsdateien für Ihre Originaldateien an verschiedenen Orten erstellt. Jetzt können Sie die Sicherungsdateien löschen, um Speicherplatz zu sparen.</translation>
     </message>
 </context>
 <context>
@@ -1530,6 +1634,10 @@ Hier können Sie etwaige Fehler in WPS Office beheben und erweiterte Einstellung
     <message>
         <source>DOC Documentation</source>
         <translation>DOC-Dokumentation</translation>
+    </message>
+    <message>
+        <source>New PDF</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1656,6 +1764,14 @@ Hier können Sie etwaige Fehler in WPS Office beheben und erweiterte Einstellung
         <source>Kingsoft Mobi</source>
         <translation>Kingsoft Mobi</translation>
     </message>
+    <message>
+        <source>Kingsoft PDF Professional</source>
+        <translation>WPS PDF Professionel</translation>
+    </message>
+    <message>
+        <source>Use Kingsoft PDF to read and edit pdf.</source>
+        <translation>Verwenden Sie WPS PDF, um PDF-Dokumente zu lesen und zu bearbeiten.</translation>
+    </message>
 </context>
 <context>
     <name>KFunctionCustomization</name>
@@ -1682,6 +1798,14 @@ Hier können Sie etwaige Fehler in WPS Office beheben und erweiterte Einstellung
     <message>
         <source>Disable template recommend.</source>
         <translation>Deaktivieren von Vorlagenempfehlungen.</translation>
+    </message>
+    <message>
+        <source>Hide cloud shellext.</source>
+        <translation>Ausblenden von WPS Cloud-Dateimenüpunkten.</translation>
+    </message>
+    <message>
+        <source>Hide vas shellext.</source>
+        <translation>Ausblenden von Menüpunkten der WPS-Erweiterungsfunktion.</translation>
     </message>
 </context>
 <context>
@@ -1955,41 +2079,6 @@ Beachten Sie, dass Sie dadurch einem größeren Risiko einer Vireninfektion oder
     <message>
         <source>New document tips</source>
         <translation>Neue Dokumenttipps</translation>
-    </message>
-</context>
-<context>
-    <name/>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
