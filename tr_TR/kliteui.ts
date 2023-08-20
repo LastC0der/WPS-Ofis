@@ -217,7 +217,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluşun dosyaları yalnızca o kuruluşa kaydedilebilir.</translation>
     </message>
 </context>
 <context>
@@ -684,7 +684,7 @@ Bu özelliği etkinleştirmek için verileri kaydedin ve WPS yazılımını yeni
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
 </context>
 <context>
@@ -910,7 +910,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Order Error</source>
-        <translation type="unfinished"/>
+        <translation>Sipariş Hatası</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -922,7 +922,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Try again.</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene.</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The subscription failed.</source>
@@ -934,11 +934,11 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Privacy policies</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik ilkeleri</translation>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -950,7 +950,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Devam Et</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
@@ -962,7 +962,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Subscription Error</source>
-        <translation type="unfinished"/>
+        <translation>Abonelik Hatası</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -977,11 +977,11 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Transactions</source>
-        <translation type="unfinished"/>
+        <translation>Hareketler</translation>
     </message>
     <message>
         <source>Welcome to WPS VIP family.</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP ailesine hoş geldiniz.</translation>
     </message>
     <message>
         <source>Welcome to Docer VIP family.</source>
@@ -993,11 +993,11 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"/>
+        <translation>10 dakika</translation>
     </message>
     <message>
         <source>Order Error</source>
-        <translation type="unfinished"/>
+        <translation>Sipariş Hatası</translation>
     </message>
     <message>
         <source>You have subscribed the VIP service.</source>
@@ -1005,7 +1005,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Try again.</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene.</translation>
     </message>
     <message>
         <source>Restore Failed</source>
@@ -1025,7 +1025,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Devam Et</translation>
     </message>
     <message>
         <source>If you have completed the payment, you can click &quot;Resume Now&quot; or &quot;Resume Now&quot; in the member purchase page. Should this not help, please get more help via Common Payment Issues.</source>
@@ -1037,11 +1037,11 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>retry</source>
@@ -1049,11 +1049,11 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -1061,7 +1061,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
@@ -1072,7 +1072,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Continue to Buy</source>
-        <translation type="unfinished"/>
+        <translation>Satın Almaya Devam Et</translation>
     </message>
     <message>
         <source>Order Error</source>
@@ -1084,7 +1084,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Try again.</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden dene.</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The subscription failed.</source>
@@ -1112,7 +1112,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Resume Now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi Devam Et</translation>
     </message>
     <message>
         <source>There is something abnormal with your WPS account. The Purchase failed.</source>
@@ -1128,7 +1128,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Subscription Error</source>
-        <translation type="unfinished"/>
+        <translation>Abonelik Hatası</translation>
     </message>
     <message>
         <source>Payment failed</source>
@@ -1140,31 +1140,31 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Dene</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Hatası</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
@@ -1191,7 +1191,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"/>
+        <translation>10 dakika</translation>
     </message>
     <message>
         <source>Super VIP</source>
@@ -1207,7 +1207,7 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Coupons</source>
-        <translation type="unfinished"/>
+        <translation>Kuponlar</translation>
     </message>
     <message>
         <source>WPS VIP</source>
@@ -1230,23 +1230,23 @@ This file has not been uploaded to Cloud.Please upload it in mobile phone.</sour
     </message>
     <message>
         <source>Privacy policies</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik ilkeleri</translation>
     </message>
     <message>
         <source>Resume now</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi devam et</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Müşteri Hizmetleri</translation>
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Hizmet şartları</translation>
     </message>
 </context>
 <context>
@@ -1356,7 +1356,7 @@ please wait</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
@@ -1378,7 +1378,7 @@ please wait</source>
     </message>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -1392,19 +1392,19 @@ please wait</source>
     <name>KAppLoadWindow</name>
     <message>
         <source>Load failed</source>
-        <translation type="unfinished"/>
+        <translation>Okuma başarısız oldu</translation>
     </message>
     <message>
         <source>Loading %1, please wait</source>
-        <translation type="unfinished"/>
+        <translation>%1 yükleniyor. Lütfen bekleyin.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan</translation>
     </message>
 </context>
 <context>
@@ -1426,26 +1426,26 @@ please wait</source>
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source> Upgrade </source>
-        <translation type="unfinished"/>
+        <translation>Premium&apos;a Geç</translation>
     </message>
 </context>
 <context>
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>Remind me tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Bana yarın hatırlat</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Yoksay</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -1470,7 +1470,7 @@ please wait</source>
     <name>KVipUpgradeLeftWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -1484,14 +1484,14 @@ please wait</source>
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>İndir</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
 </context>
 </TS>
