@@ -50,11 +50,11 @@
     </message>
     <message>
         <source>success</source>
-        <translation type="unfinished"/>
+        <translation>Berhasil Dikonversi.</translation>
     </message>
     <message>
         <source>waiting</source>
-        <translation type="unfinished"/>
+        <translation>Harap tunggu.</translation>
     </message>
 </context>
 <context>
@@ -217,7 +217,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>The company&apos;s files can only be saved to that company</source>
-        <translation type="unfinished"/>
+        <translation>File perusahaan hanya dapat disimpan di perusahaan tersebut.</translation>
     </message>
 </context>
 <context>
@@ -444,15 +444,15 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Shares received of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Pembagian yang Diterima</translation>
     </message>
     <message>
         <source>ShareFolder</source>
-        <translation type="unfinished"/>
+        <translation>Folder Berbagi</translation>
     </message>
     <message>
         <source>Group Space of cloud disk</source>
-        <translation type="unfinished"/>
+        <translation>Tim Saya</translation>
     </message>
 </context>
 <context>
@@ -684,7 +684,7 @@ Simpan data dan nyalakan ulang perangkat lunak WPS untuk mengaktifkan fitur ini.
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Buka (&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -939,7 +939,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>Try again</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Purchase Error</source>
@@ -1014,7 +1014,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>Start Now</source>
-        <translation type="unfinished"/>
+        <translation>Mulai Sekarang</translation>
     </message>
     <message>
         <source>Common Payment Issues</source>
@@ -1038,11 +1038,11 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>retry</source>
@@ -1050,11 +1050,11 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Layanan Pelanggan</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Resume</source>
@@ -1062,7 +1062,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi</translation>
     </message>
 </context>
 <context>
@@ -1133,7 +1133,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation type="unfinished"/>
+        <translation>Pembayaran gagal</translation>
     </message>
     <message>
         <source>Congratulations to join WPS VIP family!</source>
@@ -1141,31 +1141,31 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>.</source>
-        <translation type="unfinished"/>
+        <translation>.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>retry</source>
-        <translation type="unfinished"/>
+        <translation>Coba lagi</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Layanan Pelanggan</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Kesalahan Jaringan</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmasi</translation>
     </message>
 </context>
 <context>
@@ -1196,7 +1196,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
@@ -1216,7 +1216,7 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Gratis</translation>
     </message>
 </context>
 <context>
@@ -1239,15 +1239,15 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya</translation>
     </message>
     <message>
         <source>Customer Service</source>
-        <translation type="unfinished"/>
+        <translation>Layanan Pelanggan</translation>
     </message>
     <message>
         <source>Terms of service</source>
-        <translation type="unfinished"/>
+        <translation>Ketentuan layanan</translation>
     </message>
 </context>
 <context>
@@ -1269,34 +1269,34 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <name>KThirdCloudInitPage</name>
     <message>
         <source>Authorize the cloud storage to operate the files in the cloud disk.</source>
-        <translation type="unfinished"/>
+        <translation>Setelah mengotorisasi WPS Office, Anda dapat mengakses dan mengelola file Anda yang disimpan di cloud pihak ketiga.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Otorisasi</translation>
     </message>
 </context>
 <context>
     <name>KUploadLimitBubble</name>
     <message>
         <source>Upgrade VIP and upload</source>
-        <translation type="unfinished"/>
+        <translation>Tingkatkan VIP dan unggah</translation>
     </message>
     <message>
         <source>Sync failed</source>
-        <translation type="unfinished"/>
+        <translation>Penyinkronan gagal</translation>
     </message>
     <message>
         <source>Upload failed, your WPS cloud space is full</source>
-        <translation type="unfinished"/>
+        <translation>Pengunggahan gagal, ruang cloud WPS Anda penuh</translation>
     </message>
     <message>
         <source>File exceeds %1 upload limit</source>
-        <translation type="unfinished"/>
+        <translation>File tidak disinkronkan. Ukuran file melebihi limit unggah %1.</translation>
     </message>
     <message>
         <source>Please clean up files in time</source>
-        <translation type="unfinished"/>
+        <translation>Harap bersihkan file pada waktunya</translation>
     </message>
     <message>
         <source>Got it</source>
@@ -1326,14 +1326,14 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <name>KLiteQrCodeWidget</name>
     <message>
         <source>If you have any question, please call WPS Customer Service %1, or scan the left QR code</source>
-        <translation type="unfinished"/>
+        <translation>Jika ada pertanyaan, silakan hubungi %1 Layanan Pelanggan WPS, atau pindai kode QR Layanan Pelanggan di sisi kiri.</translation>
     </message>
 </context>
 <context>
     <name>KAppLoadFailedWindow</name>
     <message>
         <source>Network exception, %1 failed to load</source>
-        <translation type="unfinished"/>
+        <translation>Pengecualian jaringan, %1 gagal dimuat</translation>
     </message>
 </context>
 <context>
@@ -1341,23 +1341,24 @@ File ini belum diunggah ke Cloud. Harap unggah di ponsel.</translation>
     <message>
         <source>Upgrading
 please wait</source>
-        <translation type="unfinished"/>
+        <translation>Mengunggah
+harap tunggu</translation>
     </message>
     <message>
         <source>Wait a moment...</source>
-        <translation type="unfinished"/>
+        <translation>Tunggu beberapa saat...</translation>
     </message>
     <message>
         <source>Receiving</source>
-        <translation type="unfinished"/>
+        <translation>Menerima</translation>
     </message>
     <message>
         <source>Processing...</source>
-        <translation type="unfinished"/>
+        <translation>Memproses...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -1368,96 +1369,96 @@ please wait</source>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Mulai</translation>
     </message>
 </context>
 <context>
     <name>KActivityWidget</name>
     <message>
         <source>Dont remind me</source>
-        <translation type="unfinished"/>
+        <translation>Jangan ingatkan saya</translation>
     </message>
     <message>
         <source>close</source>
-        <translation type="unfinished"/>
+        <translation>Tutup</translation>
     </message>
 </context>
 <context>
     <name>KDisclaimerDialog</name>
     <message>
         <source>Tips：One AppleID can only qualify once</source>
-        <translation type="unfinished"/>
+        <translation>Tips：Satu AppleID hanya dapat memenuhi syarat sekali</translation>
     </message>
 </context>
 <context>
     <name>KAppLoadWindow</name>
     <message>
         <source>Load failed</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membaca</translation>
     </message>
     <message>
         <source>Loading %1, please wait</source>
-        <translation type="unfinished"/>
+        <translation>Memuat %1. Harap Tunggu.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OKE</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"/>
+        <translation>Latar Belakang</translation>
     </message>
 </context>
 <context>
     <name>KVipPrivilegeComparisonWidget</name>
     <message>
         <source>Super VIP</source>
-        <translation type="unfinished"/>
+        <translation>Super VIP</translation>
     </message>
     <message>
         <source>Docer VIP</source>
-        <translation type="unfinished"/>
+        <translation>Docer VIP</translation>
     </message>
     <message>
         <source>WPS VIP</source>
-        <translation type="unfinished"/>
+        <translation>WPS VIP</translation>
     </message>
 </context>
 <context>
     <name>KGuideUpgradeVipDlg</name>
     <message>
         <source> Upgrade </source>
-        <translation type="unfinished"/>
+        <translation> Tingkatkan </translation>
     </message>
 </context>
 <context>
     <name>KLiteUpdateMessageDlg</name>
     <message>
         <source>Remind me tomorrow</source>
-        <translation type="unfinished"/>
+        <translation>Ingatkan saya besok</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"/>
+        <translation>Instal</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"/>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>Restart</translation>
     </message>
 </context>
 <context>
     <name>KLiteWaitingWidget</name>
     <message>
         <source>resource loading...</source>
-        <translation type="unfinished"/>
+        <translation>Memuat sumber...</translation>
     </message>
 </context>
 <context>
@@ -1471,7 +1472,7 @@ please wait</source>
     <name>KVipUpgradeLeftWidget</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Lainnya</translation>
     </message>
 </context>
 <context>
@@ -1485,14 +1486,14 @@ please wait</source>
     <name>KLiteUpdateMessageDlgWhenExpire</name>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Unduh</translation>
     </message>
 </context>
 <context>
     <name>KUnionVipWidget</name>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Jangan tunjukkan lagi</translation>
     </message>
 </context>
 </TS>
