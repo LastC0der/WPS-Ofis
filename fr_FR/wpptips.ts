@@ -2748,35 +2748,19 @@ Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translati
         <translation>Ajoutez à votre texte un effet visuel tel que l&apos;ombre ou la réflexion.</translation>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>BatchRename.title</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
+        <source>PCLaTeXEquation.content</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source/>
+        <source>BatchRename.content</source>
         <translation type="unfinished"/>
     </message>
 </context>
