@@ -38032,7 +38032,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Mağaza.</translation>
     </message>
     <message>
         <source>You also can download</source>
