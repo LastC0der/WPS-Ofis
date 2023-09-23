@@ -10201,7 +10201,7 @@ yazılamadı</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Çevrimiçi Mağaza.</translation>
     </message>
     <message>
         <source>You also can download</source>
