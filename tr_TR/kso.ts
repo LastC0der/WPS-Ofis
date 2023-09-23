@@ -38040,7 +38040,7 @@ Please check your system settings and ensure that the temporary directory under 
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
-        <translation type="unfinished"/>
+        <translation>WPS Ofis&apos;in deneme sürümünü kullandığınız için teşekkür ederiz.</translation>
     </message>
     <message>
         <source>Disable Print</source>
