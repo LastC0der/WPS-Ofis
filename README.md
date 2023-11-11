@@ -1,5 +1,5 @@
-Windows sürümü için yeni versiyonlarda eksta dil eklenemiyor, çeviri projem bitti..
------------------------------------------------------------------------------------
+Windows sürümü için yeni versiyonlarda eksta dil eklenemiyor, çeviri projemi sonlandırdım...
+--------------------------------------------------------------------------------------------
 
 
 
