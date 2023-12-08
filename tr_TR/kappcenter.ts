@@ -96,7 +96,7 @@ Sıkıştırılmış görüntülerin kalitesinden belirli bir ölçüde ödün v
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
 </context>
 <context>
