@@ -24794,7 +24794,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>The content cannot be sorted.</source>
-        <translation type="unfinished"/>
+        <translation>İçerik sıralanamıyor.</translation>
     </message>
     <message>
         <source>Number</source>
