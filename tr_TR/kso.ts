@@ -41307,7 +41307,7 @@ Become a VIP for unlimited use of this feature.</source>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Özel sözlüğün kaldırılması, diğer WPS Ofis programları tarafından kullanılan özel sözlüğü etkileyebilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
