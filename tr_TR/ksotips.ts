@@ -1214,7 +1214,7 @@ Geçerli grafikteki bir pikseli tıklattığınızda, o rengin tüm pikselleri s
     </message>
     <message>
         <source>PictureColor.title</source>
-        <translation>Color</translation>
+        <translation>Renk</translation>
     </message>
     <message>
         <source>PictureFill2.title</source>
